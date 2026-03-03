@@ -133,7 +133,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                 )}
             </header>
 
-            <div className="prose prose-invert max-w-none prose-p:text-sm prose-p:leading-relaxed prose-p:tracking-wide prose-p:text-pathmaker-body prose-headings:font-serif prose-headings:font-normal prose-headings:text-pathmaker-text prose-h2:text-2xl prose-h2:mt-12 prose-h3:text-xl prose-h3:mt-8 prose-a:text-pathmaker-accent prose-strong:font-medium prose-strong:text-pathmaker-text prose-ol:text-pathmaker-body prose-ul:text-pathmaker-body border-b border-white/10 pb-16">
+            <div className="prose prose-invert max-w-none prose-p:text-base prose-p:leading-relaxed prose-p:tracking-wide prose-p:text-pathmaker-body prose-p:mb-12 prose-headings:font-serif prose-headings:font-normal prose-headings:text-pathmaker-text prose-h2:text-3xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-pathmaker-accent prose-strong:font-medium prose-strong:text-pathmaker-text prose-ol:text-pathmaker-body prose-ul:text-pathmaker-body border-b border-white/10 pb-20">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>

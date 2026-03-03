@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
               </Link>
             ))}
             <a
-              href="https://wa.me/46701619978?text=Regarding%20Pathmaker%20Strategic%20Advisory:"
+              href="https://wa.me/46701619978?text=Regarding%20Pathmaker:"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 border border-pathmaker-accent text-pathmaker-accent text-[10px] tracking-[0.2em] uppercase hover:bg-pathmaker-accent hover:text-black transition-all duration-300 font-medium"

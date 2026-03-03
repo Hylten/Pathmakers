@@ -37,7 +37,7 @@ const App: React.FC = () => {
               <div className="flex items-center space-x-10">
                 <a href={`${BASE}/`} className="text-xs uppercase tracking-widest font-medium text-[#B08D57] hover:text-white transition-colors">Return to Home</a>
                 <a href={`${BASE}/insights`} className="text-xs uppercase tracking-widest font-medium text-pathmaker-accent">Insights</a>
-                <a href="https://wa.me/46701619978?text=Regarding%20Pathmaker%20Strategic%20Advisory:" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-6 py-2.5 border border-pathmaker-accent text-xs uppercase tracking-widest font-medium rounded-sm text-pathmaker-accent hover:bg-pathmaker-accent hover:text-black transition-all duration-300">
+                <a href="https://wa.me/46701619978?text=Regarding%20Pathmaker:" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-6 py-2.5 border border-pathmaker-accent text-xs uppercase tracking-widest font-medium rounded-sm text-pathmaker-accent hover:bg-pathmaker-accent hover:text-black transition-all duration-300">
                   Get in Touch
                 </a>
               </div>

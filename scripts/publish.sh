@@ -11,14 +11,15 @@ git add .
 
 # 3. Commit
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
-git commit -m "Auto-publish: Pathmaker Intelligence Update [$TIMESTAMP]"
+git commit -m "Auto-publish: Pathmaker Insight Update [$TIMESTAMP]"
 
 # 4. Push
 echo "📦 Pushing to GitHub..."
 git push origin main
 
-# 5. Ping Search Engines
-echo "🔍 Notifying search engines..."
+# 5. Sitemap Status
+echo "🔍 Checking sitemap status..."
 node scripts/ping-google.js
 
+echo ""
 echo "✅ Pathmaker Publish complete!"
