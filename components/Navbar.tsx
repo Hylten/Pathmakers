@@ -42,7 +42,7 @@ const Navbar: React.FC = () => {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-10">
-            {navLinks.map((link) => (
+            {navLinks.filter(l => l.name !== 'Contact').map((link) => (
               <Link
                 key={link.name}
                 to={link.path}
@@ -52,6 +52,14 @@ const Navbar: React.FC = () => {
                 {link.name}
               </Link>
             ))}
+            <a
+              href="https://wa.me/46701619978?text=Regarding%20Pathmaker%20Strategic%20Advisory:"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-4 py-2 border border-pathmaker-accent text-pathmaker-accent text-[10px] tracking-[0.2em] uppercase hover:bg-pathmaker-accent hover:text-black transition-all duration-300 font-medium"
+            >
+              Get in Touch
+            </a>
           </div>
 
           {/* Mobile menu button */}
