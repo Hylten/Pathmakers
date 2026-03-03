@@ -19,7 +19,7 @@ const App: React.FC = () => {
   const insightsPrefix = `${BASE}/insights`;
 
   if (path.startsWith(insightsPrefix)) {
-    const slug = path.replace(insightsPrefix, '').replace(/^\//, '');
+    const slug = path.replace(insightsPrefix, '').replace(/^\/|\/$/g, '');
 
     return (
       <div className="flex flex-col min-h-screen bg-pathmaker-dark font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
