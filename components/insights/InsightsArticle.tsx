@@ -90,8 +90,15 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
         );
     }
 
-    if (!content) {
-        return <div className="min-h-screen bg-pathmaker-dark"></div>;
+    if (!content && !error) {
+        return (
+            <div className="min-h-screen bg-[#050505] flex items-center justify-center">
+                <div className="flex flex-col items-center gap-4">
+                    <div className="w-8 h-8 border-2 border-pathmaker-accent border-t-transparent rounded-full animate-spin"></div>
+                    <p className="text-[10px] tracking-[0.3em] text-pathmaker-body uppercase font-medium">Decrypting Insight...</p>
+                </div>
+            </div>
+        );
     }
 
     return (

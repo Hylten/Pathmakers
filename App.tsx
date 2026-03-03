@@ -16,13 +16,16 @@ const BASE = '/Pathmakers';
 const App: React.FC = () => {
   // SEO Route Hijack — bypass HashRouter for /insights routes
   const path = window.location.pathname;
-  const insightsPrefix = `${BASE}/insights`;
+  console.log('Pathmaker routing check:', path);
 
   if (path.includes('/insights')) {
-    const slug = path.split('/insights')[1].replace(/^\/|\/$/g, '');
+    // Robust slug extraction: get everything after '/insights' and clean slashes
+    const parts = path.split('/insights');
+    const slug = parts.length > 1 ? parts[1].replace(/^\/|\/$/g, '') : '';
+    console.log('Detected Insights Slug:', slug || '[Index]');
 
     return (
-      <div className="flex flex-col min-h-screen bg-pathmaker-dark font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
+      <div className="flex flex-col min-h-screen bg-[#050505] font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
         {/* Simple header for insights pages */}
         <nav className="sticky top-0 z-50 bg-pathmaker-dark/95 backdrop-blur-md border-b border-white/10 shadow-lg">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
