@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter, BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, MemoryRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
@@ -16,14 +16,16 @@ const BASE = '/Pathmakers';
 const App: React.FC = () => {
   // SEO Route Hijack — bypass HashRouter for /insights routes
   const path = window.location.pathname;
+  console.log('Pathmaker routing check:', path);
+
   if (path.includes('/insights')) {
-    // Robust slug extraction: get everything after '/insights' and clean slashes
+    // Robust slug extraction
     const parts = path.split('/insights');
     const slug = parts.length > 1 ? parts[1].replace(/^\/|\/$/g, '') : '';
     console.log('Detected Insights Slug:', slug || '[Index]');
 
     return (
-      <BrowserRouter basename={BASE}>
+      <MemoryRouter>
         <div className="flex flex-col min-h-screen bg-[#050505] font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
           {/* Simple header for insights pages */}
           <nav className="sticky top-0 z-50 bg-[#050505]/95 backdrop-blur-md border-b border-white/10 shadow-lg">
@@ -54,7 +56,7 @@ const App: React.FC = () => {
           </main>
           <Footer />
         </div>
-      </BrowserRouter>
+      </MemoryRouter>
     );
   }
 
