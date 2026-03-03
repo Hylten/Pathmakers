@@ -97,7 +97,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
     return (
         <article className="pt-32 pb-24 px-6 md:px-12 max-w-3xl mx-auto min-h-screen">
             <a
-                href={`${BASE}/insights`}
+                href="/Pathmakers/insights/"
                 className="inline-flex items-center gap-2 text-pathmaker-body hover:text-pathmaker-accent text-xs tracking-[0.15em] font-medium uppercase mb-16 transition-colors duration-300"
             >
                 <ArrowLeft className="w-3 h-3" />
