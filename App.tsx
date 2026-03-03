@@ -8,8 +8,53 @@ import ContactPage from './pages/ContactPage';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import CookiePolicy from './pages/CookiePolicy';
 import TermsPage from './pages/TermsPage';
+import { InsightsIndex } from './components/insights/InsightsIndex';
+import { InsightsArticle } from './components/insights/InsightsArticle';
+
+const BASE = '/Pathmakers';
 
 const App: React.FC = () => {
+  // SEO Route Hijack — bypass HashRouter for /insights routes
+  const path = window.location.pathname;
+  const insightsPrefix = `${BASE}/insights`;
+
+  if (path.startsWith(insightsPrefix)) {
+    const slug = path.replace(insightsPrefix, '').replace(/^\//, '');
+
+    return (
+      <div className="flex flex-col min-h-screen bg-pathmaker-dark font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
+        {/* Simple header for insights pages */}
+        <nav className="sticky top-0 z-50 bg-pathmaker-dark/95 backdrop-blur-md border-b border-white/10 shadow-lg">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex justify-between items-center h-24">
+              <a href={`${BASE}/`} className="flex-shrink-0 flex items-center gap-3 group">
+                <span className="font-serif font-medium text-2xl tracking-tight text-pathmaker-accent">
+                  Pathmaker
+                </span>
+              </a>
+              <div className="flex items-center space-x-10">
+                <a href={`${BASE}/`} className="text-xs uppercase tracking-widest font-medium text-pathmaker-body hover:text-pathmaker-accent transition-colors">Home</a>
+                <a href={`${BASE}/insights`} className="text-xs uppercase tracking-widest font-medium text-pathmaker-accent">Insights</a>
+                <a href={`${BASE}/#/contact`} className="inline-flex items-center px-6 py-2.5 border border-pathmaker-accent text-xs uppercase tracking-widest font-medium rounded-sm text-pathmaker-accent hover:bg-pathmaker-accent hover:text-black transition-all duration-300">
+                  Get in Touch
+                </a>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+        <main className="flex-grow">
+          {slug ? (
+            <InsightsArticle slug={slug} />
+          ) : (
+            <InsightsIndex />
+          )}
+        </main>
+        <Footer />
+      </div>
+    );
+  }
+
   return (
     <HashRouter>
       <div className="flex flex-col min-h-screen bg-pathmaker-dark font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
