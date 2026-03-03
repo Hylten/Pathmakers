@@ -1,31 +1,23 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { MapPin, Phone, Linkedin, Crown } from 'lucide-react';
+import { MapPin, Phone, Linkedin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
-  const [logoError, setLogoError] = useState(false);
 
   return (
     <footer className="bg-pathmaker-dark text-white pt-20 pb-12 border-t border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 border-b border-white/5 pb-16">
-          
+
           {/* Brand Column */}
           <div className="space-y-6">
             <div className="flex items-center gap-3">
-               {!logoError ? (
-                  <img 
-                    src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png" 
-                    alt="Pathmaker Logo" 
-                    className="h-10 w-10 object-contain rounded-sm brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
-                    onError={() => setLogoError(true)}
-                  />
-               ) : (
-                  <div className="h-10 w-10 flex items-center justify-center border border-pathmaker-accent rounded-sm text-pathmaker-accent">
-                    <Crown className="h-6 w-6" />
-                  </div>
-               )}
+              <img
+                src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+                alt="Pathmaker Logo"
+                className="h-10 w-10 object-contain brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
+              />
               <span className="font-serif font-medium text-xl tracking-wide text-pathmaker-accent">Pathmaker</span>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs font-light">
@@ -68,14 +60,14 @@ const Footer: React.FC = () => {
                 <Link to="/contact" className="text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">Inquire</Link>
               </li>
               <li className="pt-2">
-                <a 
-                    href="https://www.linkedin.com/company/roials/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light"
+                <a
+                  href="https://www.linkedin.com/company/roials/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light"
                 >
-                    <Linkedin className="w-4 h-4" />
-                    Follow us on LinkedIn
+                  <Linkedin className="w-4 h-4" />
+                  Follow us on LinkedIn
                 </a>
               </li>
             </ul>

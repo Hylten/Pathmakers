@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Phone, Linkedin, Crown } from 'lucide-react';
+import { MapPin, Phone, Linkedin } from 'lucide-react';
 
 const BlogFooter: React.FC = () => {
     const currentYear = new Date().getFullYear();
@@ -10,9 +10,11 @@ const BlogFooter: React.FC = () => {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-12 border-b border-white/5 pb-16">
                     <div className="space-y-6">
                         <div className="flex items-center gap-3">
-                            <div className="h-10 w-10 flex items-center justify-center border border-pathmaker-accent rounded-sm text-pathmaker-accent">
-                                <Crown className="h-6 w-6" />
-                            </div>
+                            <img
+                                src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+                                alt="Pathmaker Logo"
+                                className="h-10 w-10 object-contain brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
+                            />
                             <span className="font-serif font-medium text-xl tracking-wide text-pathmaker-accent">Pathmaker</span>
                         </div>
                         <p className="text-gray-500 text-sm leading-relaxed max-w-xs font-light">
