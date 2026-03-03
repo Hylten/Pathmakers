@@ -66,8 +66,8 @@ async function generateSEO() {
         console.log(`✅ Generated /dist/insights/${slug}/index.html`);
     }
 
-    // 3. Generate sitemap.xml
-    const SITE_URL = 'https://pathmaker.se'; // Update to pathmaker.com or final domain
+    // 3. Generate sitemap.xml - Korrigerad för hylten.github.io/Pathmakers/
+    const SITE_URL = 'https://hylten.github.io/Pathmakers';
     const today = new Date().toISOString().split('T')[0];
 
     let sitemapUrls = `  <url>
