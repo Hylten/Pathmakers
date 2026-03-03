@@ -133,11 +133,23 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                 )}
             </header>
 
-            <div className="prose prose-invert max-w-none prose-p:text-base prose-p:leading-relaxed prose-p:tracking-wide prose-p:text-pathmaker-body prose-p:mb-12 prose-headings:font-serif prose-headings:font-normal prose-headings:text-pathmaker-text prose-h2:text-3xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-pathmaker-accent prose-strong:font-medium prose-strong:text-pathmaker-text prose-ol:text-pathmaker-body prose-ul:text-pathmaker-body border-b border-white/10 pb-20">
+            <div className="article-content" style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '1.1rem', fontWeight: 300 }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
+
+            <style>{`
+                .article-content { line-height: 2.2; }
+                .article-content p { margin-bottom: 3.5rem; }
+                .article-content h2 { font-family: serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.3; }
+                .article-content h3 { font-family: serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; }
+                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
+                .article-content li { margin-bottom: 1.5rem; }
+                .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
+                .article-content strong { color: #fff; font-weight: 500; }
+                .article-content a { color: #E2AD33; text-decoration: underline; }
+            `}</style>
 
             <footer className="mt-16 text-center">
                 <p className="text-[10px] text-pathmaker-body/40 tracking-widest uppercase">
