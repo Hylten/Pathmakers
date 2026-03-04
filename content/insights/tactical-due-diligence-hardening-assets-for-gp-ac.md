@@ -19,7 +19,7 @@ This is the doctrine behind tactical due diligence.
 
 It is not advisory work.  
 It is not a workshop.  
-It is the discipline of hardening an asset until it carries the posture, cadence, and internal logic required for Fund III and above.
+It is the discipline of hardening an asset until it carries the posture, cadence, and internal logic required for Fund-III and above.
 
 Pathmaker operates inside this trench.  
 The mandate is singular.  

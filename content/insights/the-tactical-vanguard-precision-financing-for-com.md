@@ -291,7 +291,7 @@ HNWI and UHNW clients look for assets that offer:
 - low governance risk  
 - upward optionality  
 
-Spin-offs that pass through the Tactical Vanguard process become institution-ready. They can be held. They can be structured. They can be sold. They can be integrated. They can withstand scrutiny from Fund III and above.
+Spin-offs that pass through the Tactical Vanguard process become institution-ready. They can be held. They can be structured. They can be sold. They can be integrated. They can withstand scrutiny from Fund-III and above.
 
 The market rewards readiness. It punishes uncertainty.
 

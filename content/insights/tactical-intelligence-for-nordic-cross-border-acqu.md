@@ -35,7 +35,7 @@ The following is a Principal-level architecture for buyers preparing to move int
 
 It is written for those who operate as stewards, not speculators.
 
-It is written for Fund III and above.  
+It is written for Fund-III and above.  
 HNWI and UHNW mandates.  
 Long horizon capital with an aversion to noise and a tolerance for discipline.
 
@@ -292,7 +292,7 @@ Mapping them early preserves time.
 
   
 ### Layer 4. Institutional Diligence Conditioning  
-Preparation for buyers with Fund III or greater requirements.
+Preparation for buyers with Fund-III or greater requirements.
 
 Data room ordering.  
 Financial reconstruction.  

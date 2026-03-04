@@ -4,13 +4,13 @@ description: "Technical intelligence on institutional liquidity engineering, cap
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-to-institutional-liquidity"
-keywords: "kapitalanskaffning, private equity, fund iii, Pathmaker, 2026, liquidity engineering"
+keywords: "kapitalanskaffning, private equity, Fund-III, Pathmaker, 2026, liquidity engineering"
 ---
 
 [START INTELLIGENCE REPORT]
 
 THE MANDATE  
-Institutional liquidity does not emerge from market momentum or capital supply cycles. It is an engineered condition built through structural optionality, asset hardening, and disciplined counterparty selection. In private equity environments preparing for 2026 deployment cycles, the core issue is not the cost of capital but the architecture that governs its conversion velocity. This is the center of gravity for all principal grade actors navigating private equity fund iii investment opportunities 2026 and the widening gap between nominal fundraising volumes and actionable liquidity.
+Institutional liquidity does not emerge from market momentum or capital supply cycles. It is an engineered condition built through structural optionality, asset hardening, and disciplined counterparty selection. In private equity environments preparing for 2026 deployment cycles, the core issue is not the cost of capital but the architecture that governs its conversion velocity. This is the center of gravity for all principal grade actors navigating private equity Fund-III investment opportunities 2026 and the widening gap between nominal fundraising volumes and actionable liquidity.
 
 The institutional market entering 2026 exhibits three defining characteristics.  
 1. A divergence between committed capital and deployable capital.  
@@ -128,7 +128,7 @@ Exit compression is tested using three stress models:
 
 Under each model, the liquidity structure maintains exit margins within a 4.8 percent deviation range which is institutionally acceptable.
 
-The result is a defensible consolidation platform with engineered liquidity, predictable return corridors, and a resilience profile suitable for global private equity fund iii investment opportunities 2026.
+The result is a defensible consolidation platform with engineered liquidity, predictable return corridors, and a resilience profile suitable for global private equity Fund-III investment opportunities 2026.
 
 STEWARDSHIP FILTER  
 Stewardship, Gnosjö, and Technical Edge form the triad that governs the Pathmaker liquidity philosophy.
