@@ -67,7 +67,10 @@ async function generateSEO() {
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     // 1. Generate Index Page with Pre-rendered list (Fallback for JS failure)
-    let listHtml = '<div style="display: flex; flex-direction: column; align-items: center; padding: 100px 24px; max-width: 1200px; margin: 0 auto;">';
+    let listHtml = '<style>.arch-item a { transition: opacity 0.3s; } .arch-item a:hover { opacity: 0.7; }</style>';
+    listHtml += '<div style="background: #ffffff !important; min-height: 100vh; padding: 180px 24px; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
+    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
+    listHtml += '<p style="font-size: 1.25rem; color: #4B5563; max-width: 700px; margin: 0 auto 200px; line-height: 1.6; font-weight: 300; text-align: center;">Technical analysis of cross-border M&A, middle-market capital navigation, and the industrial mechanics of Nordic advisory.</p>';
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
