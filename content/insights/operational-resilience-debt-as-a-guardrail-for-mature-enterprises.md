@@ -1,9 +1,9 @@
 ---
 title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
 description: "A high‑authority analysis on operational resilience for mature enterprises, focusing on liquidity, private credit, and asset based liquidity engineering as structural guardrails."
-date: "2025-12-17"
+date: "2025-11-30"
 author: "Jonas Hyltén"
-slug: "operational-resilience-debt-as-a-guardrail-for-ma"
+slug: "operational-resilience-debt-as-a-guardrail-for-mature-enterprises"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

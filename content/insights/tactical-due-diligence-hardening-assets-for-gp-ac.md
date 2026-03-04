@@ -1,7 +1,7 @@
 ---
 title: "Tactical Due Diligence: Hardening Assets For Gp Ac"
 description: "Tactical Due Diligence: Hardening Assets For Gp Ac"
-date: "2025-12-31"
+date: "2025-12-11"
 author: "Jonas Hyltén"
 slug: "tactical-due-diligence-hardening-assets-for-gp-ac"
 keywords: "private credit, ABL, liquidity"

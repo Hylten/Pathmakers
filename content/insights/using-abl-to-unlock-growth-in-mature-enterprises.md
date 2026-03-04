@@ -1,7 +1,7 @@
 ---
 title: "Using ABL to Unlock Growth in Mature Enterprises"
 description: "A strategic analysis of how Asset Based liquidity engineering and private credit structures unlock liquidity and expansion pathways for mature enterprises."
-date: "2026-01-14"
+date: "2025-12-20"
 author: "Jonas Hyltén"
 slug: "using-abl-to-unlock-growth-in-mature-enterprises"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

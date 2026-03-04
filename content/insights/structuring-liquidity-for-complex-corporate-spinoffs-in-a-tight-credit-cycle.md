@@ -1,9 +1,9 @@
 ---
 title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
 description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs."
-date: "2025-12-30"
+date: "2025-12-10"
 author: "Jonas Hyltén"
-slug: "structuring-liquidity-for-complex-corporate-spinof"
+slug: "structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

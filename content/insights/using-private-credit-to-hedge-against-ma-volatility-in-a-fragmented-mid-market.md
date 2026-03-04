@@ -1,9 +1,9 @@
 ---
 title: "Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market"
 description: "A high level look at how HNWI and UHNW operators use private credit and asset based liquidity engineering to create liquidity and stability in volatile M&A cycles."
-date: "2026-01-15"
+date: "2025-12-21"
 author: "Jonas Hyltén"
-slug: "using-private-credit-to-hedge-against-ma-volatili"
+slug: "using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

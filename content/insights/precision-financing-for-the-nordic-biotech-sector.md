@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for the Nordic BioTech Sector"
 description: "A strategic deep dive into liquidity generation and asset based liquidity engineering solutions tailored for Nordic BioTech operators and investors."
-date: "2025-12-20"
+date: "2025-12-04"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-the-nordic-biotech-sector"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
