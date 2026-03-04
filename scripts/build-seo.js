@@ -132,7 +132,14 @@ async function generateSEO() {
         const contentHtml = `<div style="padding: 4rem 1rem; max-width: 800px; margin: 0 auto; color: #e5e5e5; font-family: sans-serif;">
             <h1 style="font-family: serif; font-size: 3rem; margin-bottom: 2rem;">${title}</h1>
                 <div style="line-height: 2.1; font-size: 1.35rem; color: #374151 !important; font-weight: 300; width: 100%; max-width: 800px; text-align: left; margin: 0 auto;">
-                    ${content.split('\n\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
+                    ${content.split('\n').map(p => {
+            p = p.trim();
+            if (!p) return '';
+            if (p.startsWith('### ')) return `<h3 style="font-size: 1.5rem; color: #000; margin-top: 40px; margin-bottom: 20px; font-weight: 500; font-family: serif;">${p.replace('### ', '')}</h3>`;
+            if (p.startsWith('## ')) return `<h2 style="font-size: 2rem; color: #000; margin-top: 60px; margin-bottom: 30px; font-weight: 500; font-family: serif;">${p.replace('## ', '')}</h2>`;
+            p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color: #000; font-weight: 600;">$1</strong>');
+            return `<p style="margin-bottom: 48px;">${p}</p>`;
+        }).join('')}
                 </div>
         </div>`;
 
