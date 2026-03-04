@@ -62,7 +62,7 @@ The Partnership Model adheres to four principles.
 - Execution certainty. Liquidity must be predictable before, during, and after the acquisition.  
 - Opportunity velocity. Qualified buyers must be positioned to transact quickly with minimal underwriting friction.  
 
-This model allows operators to remove deal friction by ensuring that liquidity is structurally integrated rather than reactively bolted onto a transaction. For energy transactions, Roials Capital introduces NAEO as the institutional grade operator. For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect.
+This model allows operators to remove deal friction by ensuring that liquidity is structurally integrated rather than reactively bolted onto a transaction. For energy transactions, Roials Capital introduces NAEOCC as the institutional grade operator. For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect.
 
 PHASE 4: THE STEWARDSHIP FILTER  
 Stewardship is the discipline of managing capital without waste. It is a principle, not an aesthetic. Stewardship requires designing capital structures that do not erode enterprise resilience. The most effective M&A architectures are those that preserve optionality. ABL embodies optionality because it grows and contracts with the asset base. Mezzanine consumes optionality because it demands fixed payments from cash flows that may not be stable.

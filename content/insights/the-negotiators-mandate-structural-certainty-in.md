@@ -294,7 +294,7 @@ Builders of disciplined enterprises.
 The principal speaks with precision because structure removes ambiguity.  
 Pathmaker restores that precision.
 
-## NAEO Capital. The Institutional Twin Track
+## NAEOCC Capital. The Institutional Twin Track
 
 HNWI and UHNW families seek vehicles that combine:
 
@@ -304,7 +304,7 @@ HNWI and UHNW families seek vehicles that combine:
 - Asset integrity  
 - Predictable yield  
 
-NAEO capital aligns with these expectations through private credit structures that bypass noise and bureaucracy.  
+NAEOC capital aligns with these expectations through private credit structures that bypass noise and bureaucracy.  
 It allows high capacity clients to deploy into real world collateral without the volatility of public markets.
 
 This capital complements Pathmaker’s mandate.  

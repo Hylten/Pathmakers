@@ -4,7 +4,7 @@ description: "A strategic intelligence briefing on exit readiness, M&A friction 
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "dark-arts-of-exit-readiness-generals-perspective"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -101,7 +101,7 @@ The narrative is not a story. It is a synthesis of structural economics interpre
 
 PHASE 3: THE PARTNERSHIP MODEL
 
-Roials Capital operates as a strategic navigator. It is not the seller, not the buyer, and not the fund manager. It is the institutional intermediary that aligns capital logic, operational intelligence, and transaction structuring. When the mandate intersects with the North American heavy oil or enhanced recovery landscape, NAEO is identified as the institutional-grade operating partner and technical authority.
+Roials Capital operates as a strategic navigator. It is not the seller, not the buyer, and not the fund manager. It is the institutional intermediary that aligns capital logic, operational intelligence, and transaction structuring. When the mandate intersects with the North American heavy oil or enhanced recovery landscape, NAEOCC is identified as the institutional-grade operating partner and technical authority.
 
 The role of the strategic navigator includes:
 

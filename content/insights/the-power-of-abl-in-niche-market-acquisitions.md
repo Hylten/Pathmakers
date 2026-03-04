@@ -22,7 +22,7 @@ This shift is occurring because:
 2. Sponsors seek to protect capital formation cycles within tight fundraising windows tied to capital raising for mid-market buyout strategies.  
 3. Asset specificity is high, creating collateral depth unmatched in service-heavy businesses.  
 4. ABL can be deployed quickly, often within 30 to 45 days, aligning with competitive auction timelines.  
-5. NAEOC energy infrastructure investment and similar sectors value equipment and receivables far more predictably than EBITDA multiples.
+5. NAEOCC energy infrastructure investment and similar sectors value equipment and receivables far more predictably than EBITDA multiples.
 
 The structural reality is that ABL is no longer ancillary. It is a principal acquisition mechanism that differentiates operators capable of deep forensic asset evaluation from those reliant on generic leverage structures.
 
@@ -71,7 +71,7 @@ ABL frees capital at the fund level. Sponsors may deploy equity bridge facilitie
 CASE ANALYSIS  
 Simulated Case Study: Acquisition of a $145M Niche Energy Infrastructure Servicing Company in West Texas  
 Context  
-A mid market sponsor preparing for private equity Fund-III investment opportunities 2026 identifies a niche operator in the NAEOC energy infrastructure investment corridor. The target provides pipeline maintenance, remote compression system servicing, and environmental monitoring for field operators. While EBITDA is only $19M with high seasonal variance, the business possesses a concentrated but valuable collateral profile: rolling stock, heavy equipment, modular compressor units, and a $38M receivables book diversified across 14 upstream and midstream customers.
+A mid market sponsor preparing for private equity Fund-III investment opportunities 2026 identifies a niche operator in the NAEOCC energy infrastructure investment corridor. The target provides pipeline maintenance, remote compression system servicing, and environmental monitoring for field operators. While EBITDA is only $19M with high seasonal variance, the business possesses a concentrated but valuable collateral profile: rolling stock, heavy equipment, modular compressor units, and a $38M receivables book diversified across 14 upstream and midstream customers.
 
 Objective  
 Acquire the business with minimal equity outlay to maintain capital raising for mid-market buyout momentum while positioning for bolt on expansion.
@@ -146,7 +146,7 @@ Asset based structures now sit at the center of niche market acquisition strateg
 
 ABL is not a financing tool. It is an acquisition architecture. It transforms equipment, receivables, and inventory into strategic liquidity. It allows sponsors to preserve equity, improve risk distribution, accelerate bolt on integration, and stabilize operations across cycles.
 
-In an environment shaped by NAEOC energy infrastructure investment, cross border EU MiFID II firm acquisitions, and UHNW liquidity planning needs, ABL stands as the most consistent and controllable instrument for capital efficiency and asset hardening.
+In an environment shaped by NAEOCC energy infrastructure investment, cross border EU MiFID II firm acquisitions, and UHNW liquidity planning needs, ABL stands as the most consistent and controllable instrument for capital efficiency and asset hardening.
 
 The sponsors who master this discipline will control the niche market landscape of 2026 and beyond. Those who fail to integrate ABL into their acquisition strategy will operate with constrained optionality, higher equity erosion, and diminished strategic reach.
 

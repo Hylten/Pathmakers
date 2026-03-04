@@ -17,7 +17,7 @@ The mandate is not to chase yield. The mandate is to convert fragmented mid-mark
 A sovereign approach recognizes three foundational realities.
 
 1. Mid-market valuation spreads remain inefficient because information asymmetry persists at the founder level.  
-2. Energy transition policy and NAEOC energy infrastructure investment accelerate fragmentation in critical asset classes such as distributed generation, specialty logistics, industrial field services, and grid adjacent infrastructure.  
+2. Energy transition policy and NAEOCC energy infrastructure investment accelerate fragmentation in critical asset classes such as distributed generation, specialty logistics, industrial field services, and grid adjacent infrastructure.  
 3. European regulatory harmonization and EU MiFID II firm acquisitions create pipeline compression, reducing competition for well structured carve outs.
 
 These dynamics create a once per decade alignment. The sovereign path is to build a platform that is slow enough to understand operational truth and fast enough to arbitrage mispriced liquidity.
@@ -38,7 +38,7 @@ Asset hardening is the discipline of converting abstract enterprise value into c
 A mid-market platform that integrates these mechanics can reliably produce return corridors in the 18 to 24 percent net range with volatility lower than public comparables. More importantly, these platforms preserve stewardship integrity. The assets become better. The leadership becomes better. The enterprise becomes structurally more sovereign.
 
 CASE ANALYSIS  
-Case Study: A 150 million industrial energy infrastructure acquisition in the American Midcontinent, shaped by NAEOC energy infrastructure investment parameters.
+Case Study: A 150 million industrial energy infrastructure acquisition in the American Midcontinent, shaped by NAEOCC energy infrastructure investment parameters.
 
 Scenario calibration.  
 The target is a founder owned field services and midstream maintenance company operating across three basins. Twelve operating crews. EBITDA of 21 million with 17 million recurring. Asset base includes 38 million in serviceable rolling stock, long term maintenance contracts with four independent pipeline operators, and a proprietary safety compliance workflow that competitors lack.
@@ -65,7 +65,7 @@ Working capital cycle shortens by 11 days.
 Fleet utilization increases to 78 percent.
 
 Liquidity events.  
-After month 24 the company undergoes a structured partial recapitalization. This returns 52 percent of investor principal while maintaining full equity exposure. The recapitalization is made possible because asset hardening raised collateral value and EBITDA stability simultaneously. The remaining equity is positioned for a platform sale targeted in year five to an infrastructure consolidator seeking NAEOC compliant assets.
+After month 24 the company undergoes a structured partial recapitalization. This returns 52 percent of investor principal while maintaining full equity exposure. The recapitalization is made possible because asset hardening raised collateral value and EBITDA stability simultaneously. The remaining equity is positioned for a platform sale targeted in year five to an infrastructure consolidator seeking NAEOCC compliant assets.
 
 Exit valuation range.  
 Expected 8.0 to 9.0 multiple.  
@@ -95,7 +95,7 @@ The sovereign path is the disciplined pursuit of mid-market excellence. It is a 
 
 Private equity Fund-III investment opportunities 2026 benefit from a fragmented target universe, compressed competition, and regulatory realignment.  
 Capital raising for mid-market buyout managers is strengthened by the growing demand for stability among UHNW principals.  
-NAEOC energy infrastructure investment accelerates operational pipelines for industrial and energy service platforms.  
+NAEOCC energy infrastructure investment accelerates operational pipelines for industrial and energy service platforms.  
 EU MiFID II firm acquisitions signal consolidation demand across regulated sectors.  
 Asset backed financing for businesses creates new liquidity corridors that replace legacy debt assumptions.
 

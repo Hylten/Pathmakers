@@ -23,7 +23,7 @@ Liquidity is no longer a byproduct of fund scale. It is a function of engineered
 2. Yield to liquidity curves and the speed required for mid market operators conducting capital raising for mid market buyout programs.  
 3. The conversion reliability of off balance sheet assets under institutional scrutiny.  
 4. The market depth of secondary buyers for capital efficient positions.  
-5. The collateral resilience of energy, industrials, and healthcare workflows including NAEOC energy infrastructure investment channels.
+5. The collateral resilience of energy, industrials, and healthcare workflows including NAEOCC energy infrastructure investment channels.
 
 Institutional liquidity is therefore not a passive factor. It is a design requirement that determines velocity, resilience, and exit predictability across the deal lifecycle.
 
@@ -33,7 +33,7 @@ Liquidity engineering relies on precise mechanical interactions between collater
 1. Advance Rate Physics  
 Advance rates in institutional environments are determined by the durability and auditability of the underlying asset. Standard ranges in 2026 for production grade assets are:  
 - 82 to 92 percent for stabilized industrials with verifiable cash flow resiliency  
-- 75 to 88 percent for energy infrastructure assets with NAEOC compliance  
+- 75 to 88 percent for energy infrastructure assets with NAEOCC compliance  
 - 62 to 74 percent for healthcare services reliant on RCM cycles  
 - 48 to 62 percent for digital workflows that lack hard asset anchoring  
 
@@ -70,7 +70,7 @@ Simulated Case Study: A 180 million energy and industrials consolidation program
 
 Scenario Overview  
 A principal operator is structuring a 180 million platform acquisition in the Texas energy corridor. The platform consists of three targets:  
-- A 72 million infrastructure support asset aligned with NAEOC energy infrastructure investment protocols  
+- A 72 million infrastructure support asset aligned with NAEOCC energy infrastructure investment protocols  
 - A 54 million fabrication entity with strong EBITDA but limited audit depth  
 - A 38 million industrial services operator with high revenue concentration risk  
 - A 16 million working capital reserve pool requiring immediate activation post acquisition
@@ -81,7 +81,7 @@ Phase One: Asset Hardening
 The Pathmaker methodology initiates by elevating all three targets to institutional collateral status.
 
 Infrastructure Support Asset  
-- Integrated compliance mapping against NAEOC standards  
+- Integrated compliance mapping against NAEOCC standards  
 - Historical data reconciliation across five year cycles  
 - Risk subclass segmentation into energy, transport, and operational service lines  
 

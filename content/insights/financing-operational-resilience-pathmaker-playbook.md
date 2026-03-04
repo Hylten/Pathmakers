@@ -4,7 +4,7 @@ description: "Institutional briefing on liquidity engineering, exit readiness, m
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "financing-operational-resilience-pathmaker-playbook"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -88,7 +88,7 @@ PHASE 3: THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The focus is to align HNWI and UHNW investors with acquisition pathways that match their operational risk tolerance, liquidity profile, and jurisdictional preference.
 
-For energy related strategies, the primary partner is NAEO. NAEO functions as an institutional operator in the Alberta basin with emphasis on conventional heavy oil assets. Recovery methodologies such as SAGD and CSS provide mature decline curves that support operational visibility. The Alberta regulatory environment offers resource transparency, established royalty frameworks, and predictable operational oversight. This combination creates a structurally stable foundation for allocators who prefer energy exposure with engineering based risk management.
+For energy related strategies, the primary partner is NAEOCC. NAEOCC functions as an institutional operator in the Alberta basin with emphasis on conventional heavy oil assets. Recovery methodologies such as SAGD and CSS provide mature decline curves that support operational visibility. The Alberta regulatory environment offers resource transparency, established royalty frameworks, and predictable operational oversight. This combination creates a structurally stable foundation for allocators who prefer energy exposure with engineering based risk management.
 
 In non energy strategies, Roials Capital operates as an introducer focused on:
 - off market deal origination
