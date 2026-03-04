@@ -15,13 +15,9 @@ They are complex, politically charged, operationally fragile, and often under ti
 
 Most mid‑market operators already know this. Anyone who has touched a carve-out in healthcare tech, SaaS infrastructure, or data‑driven services has the scars to prove it.
 
-
-
 The market keeps pretending carve-outs are strategic growth moves.
 
 In reality, they are liquidity mismatches wrapped in legacy systems, stranded teams, unpriced liabilities, and vendor dependencies that never show up cleanly in the CIM.
-
-
 
 This is where Asset-Based Lending earns its place.
 
@@ -31,17 +27,11 @@ Not as a turnaround fantasy.
 
 As a structural liquidity engine that gives sophisticated buyers real control over a transition that would otherwise drain cash from day one.
 
-
-
 Pathmaker operates exactly in this pocket.
 
 We lend against Private Credit and Asset-Based Lending structures, calibrated for investors who do not treat carve-outs as experiments. High Net Worth and Ultra High Net Worth buyers who understand concentration risk. Institutional family offices that respect timing risk. Operators who know that the real challenge is not the acquisition. It is the first ninety days of operational unbundling.
 
-
-
 Below is a pragmatic breakdown of how ABL functions inside technology carve-outs, framed for serious buyers who require precision, speed, and silent structural authority.
-
-
 
 ## Why Technology Carve-Outs Strain Liquidity
 
@@ -58,19 +48,13 @@ Most carve-outs face:
 • Vendor fees that spike due to lost parent‑company pricing  
 • Integration expenses that run parallel to one-time separation costs
 
-
-
 Capital outflows hit early.
 
 Revenue stabilization hits late.
 
 The spread between the two is where many carve-outs become distressed, not because the underlying business is flawed, but because the liquidity architecture was naïve.
 
-
-
 ABL exists to solve this mismatch.
-
-
 
 ## Why ABL Works When Other Capital Structures Crack
 
@@ -82,15 +66,11 @@ Equity investors do not want to deploy fresh capital into working capital traps.
 
 Private credit can be helpful, but most private credit lenders price carve-outs as if they were distressed credit, not transitional complexity.
 
-
-
 ABL functions differently.
 
 It does not care about transition volatility.
 
 It cares about the asset base.
-
-
 
 Technology carve-outs often hold:
 
@@ -101,13 +81,9 @@ Technology carve-outs often hold:
 • Intellectual property with strong commercial lineage  
 • Customer payment cycles that can be underwritten with precision
 
-
-
 These assets can be structured, monitored, and leveraged without relying on bottom-line stability.
 
 ABL turns the asset base into a liquidity engine, allowing buyers to preserve equity for value creation instead of shoring up temporary operational chaos.
-
-
 
 ## The Critical Path: ABL Inside the Carve-Out Timeline
 
@@ -116,8 +92,6 @@ Most carve-outs move through four stages.
 ABL interacts differently with each stage.
 
 Below is a real, operator-level view of how the mechanics work.
-
-
 
 ### Stage 1: Pre-Close Liquidity Mapping
 
@@ -136,13 +110,9 @@ Pre-close ABL underwriting should map:
 • Vendor contract re-cut schedules  
 • Balance sheet irregularities hidden by parent allocation methods
 
-
-
 Without this pre-close map, buyers misprice the capital stack.
 
 With it, they create a realistic liquidity model that supports decisive execution.
-
-
 
 ### Stage 2: Day-One Operational Separation
 
@@ -164,13 +134,9 @@ ABL gives the buyer the liquidity buffer to:
 • Continue payroll without disruption  
 • Fund TSA requirements without draining equity reserves
 
-
-
 ABL does not fix the carve-out.
 
 It buys time to fix the carve-out.
-
-
 
 ### Stage 3: The Transitional Grind
 
@@ -192,8 +158,6 @@ As long as the asset base remains healthy, collateral availability increases eve
 
 This provides liquidity exactly when the business feels the most strained.
 
-
-
 ### Stage 4: Stabilization and Value Extraction
 
 A well-structured carve-out exits the transitional grind with:
@@ -205,8 +169,6 @@ A well-structured carve-out exits the transitional grind with:
 • Stronger operational visibility  
 • Improved customer retention mechanisms
 
-
-
 At this stage, ABL becomes cheaper relative to enterprise value.
 
 Buyers can:
@@ -216,8 +178,6 @@ Buyers can:
 • Layer in additional acquisition financing  
 • Prepare the asset for secondary sale  
 • Retain ABL as a permanent liquidity utility
-
-
 
 ## The Silent Authority Principle: How Pathmaker Structures Institutional-Grade Liquidity
 
@@ -238,11 +198,7 @@ This includes:
 • No mythology about heroic turnarounds  
 • A professional, predictable capital partner
 
-
-
 Our role is to deliver the liquidity framework that lets sophisticated buyers focus on operational outcomes rather than capital gaps.
-
-
 
 ## Integration With Private Credit: Dual-Track Capital Architecture
 
@@ -251,8 +207,6 @@ Most mid‑market buyers deploy blended capital stacks.
 ABL is not meant to displace private credit.
 
 It is meant to complement it.
-
-
 
 The pairing works because:
 
@@ -263,11 +217,7 @@ The pairing works because:
 • Capital is aligned with operational cadence  
 • The business transitions without overwhelming the buyer’s balance sheet
 
-
-
 This dual-track model is especially effective in healthcare technology carve-outs, where AR cycles are complex, regulatory reporting burdens hit early, and the parent often withholds data until late in diligence.
-
-
 
 ## ABL for HNWI and UHNW Buyers: Precision Instead of Volume
 
@@ -283,11 +233,7 @@ HNWI and UHNW buyers prioritize:
 • Speed, but never haste  
 • Underwriting that respects real-world execution difficulty
 
-
-
 ABL gives them the ability to manage carve-outs without exposing themselves to liquidity shocks that many institutional buyers take for granted.
-
-
 
 ## When Crypto Lending and Public Share Lending Strengthen the Capital Stack
 
@@ -298,19 +244,13 @@ Pathmaker supports this dynamic through:
 • Crypto Lending with a minimum threshold of 2,000,000  
 • Public Share Lending with a minimum threshold of 5,000,000
 
-
-
 These mechanisms allow buyers to unlock liquidity from their broader assets without exiting long-term positions.
-
-
 
 The benefit is straightforward.
 
 Buyers do not dilute their strategic posture.
 
 They simply weaponize balance sheet optionality.
-
-
 
 ## Risk Realities Most Operators Underestimate
 
@@ -320,35 +260,23 @@ We do not.
 
 Below are risks that must be priced correctly if the carve-out is going to survive the first twelve months.
 
-
-
 ### Systems Migration Risk
 
 Most carve-outs underestimate the cost and time required to stand up independent systems. Billing and revenue management systems are the most fragile, and the most expensive to stabilize.
-
-
 
 ### Customer Continuity Risk
 
 Customers renew based on perceived stability. Turbulence during separation can create unexpected churn, especially in healthcare tech, fintech, and regulated SaaS verticals.
 
-
-
 ### Vendor Dependency Risk
 
 Parent-level pricing disappears. Buyers enter contractual negotiations from a weaker position. Liquidity buys leverage, not just time.
-
-
 
 ### Margin Decompression Risk
 
 Temporary margin collapse is normal after a carve-out. It should not trigger panic. It should be part of the liquidity forecast.
 
-
-
 ABL is built for these realities, not for theoretical financial models.
-
-
 
 ## Why ABL Wins in the Mid‑Market
 
@@ -365,11 +293,7 @@ ABL creates:
 • A structured liquidity framework that matches actual carve-out behavior  
 • The ability to avoid distressed-sale dynamics even if turbulence increases
 
-
-
 In a market where timing is often more important than price, liquidity is the ultimate strategic edge.
-
-
 
 ## Conclusion: ABL Is the Structural Advantage Serious Buyers Need
 
@@ -381,8 +305,6 @@ The difference between a successful carve-out and a distressed one is rarely ope
 
 It is liquidity architecture.
 
-
-
 ABL gives buyers:
 
 • Stability during chaos  
@@ -391,8 +313,6 @@ ABL gives buyers:
 • The ability to execute without draining equity or compromising strategy  
 • Silent Authority instead of loud intervention
 
-
-
 Pathmaker exists to serve this exact execution gap.
 
 We provide lending against Private Credit and Asset-Based Lending.
@@ -400,7 +320,5 @@ We provide lending against Private Credit and Asset-Based Lending.
 We support crypto lending starting at 2,000,000 and public share lending starting at 5,000,000.
 
 We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
-
-
 
 Book a strategic consultation.

@@ -33,8 +33,6 @@ It is not theory.
 It is not optimistic.  
 It is what works.
 
-
-
 ## Why Asset Based Lending Matters for Real Operators
 
 Most lending conversations are trapped inside institutionally engineered fantasies.  
@@ -53,8 +51,6 @@ Pathmaker is built for real timelines.
 We lend into structures that already function.  
 We respect collateral that has measurable value today.  
 We work with individuals who understand that liquidity is an instrument, not a lifeline.
-
-
 
 ## The Pathmaker Lending Philosophy
 
@@ -78,15 +74,11 @@ The combination creates a discipline that most capital allocators want but strug
 
 This is the basis of the Pathmaker approach to asset based lending.
 
-
-
 ## The Three Asset Classes We Lend Against
 
 Pathmaker focuses on assets that sit at the center of modern wealth architecture.  
 Each has a specific role in the liquidity chain.  
 Each requires its own structural methodology.
-
-
 
 ### Private Credit
 
@@ -104,8 +96,6 @@ When structured correctly it delivers real stability, which is why it is the fou
 
 For operators working within M and A pipelines or carve out scenarios, private credit backed lending allows rapid capital deployment without compromising long term valuations.  
 It provides liquidity and leverage without the volatility of public markets.
-
-
 
 ### Crypto Lending
 
@@ -132,8 +122,6 @@ It allows asset retention.
 It avoids unnecessary liquidation.  
 It creates optionality in acquisition pipelines and short term capital gaps.
 
-
-
 ### Public Share Lending
 
 Public equities provide transparency, but transparency is not the same as stability.  
@@ -152,8 +140,6 @@ Instead of unwinding positions or triggering tax consequences, public share lend
   
 
 It is especially valuable in healthcare carve outs and mid market rollups where speed matters more than narrative timing.
-
-
 
 ## Structural Mechanics: How Pathmaker Operates
 
@@ -181,8 +167,6 @@ We prioritize disciplined margins, proper custody controls, transparent valuatio
 
 The result is a lending system that withstands volatility, regulatory shifts, and real world operator pressure.
 
-
-
 ## Why Mid Market M and A Requires This Approach
 
 Mid market transactions are not clean.  
@@ -205,8 +189,6 @@ We require collateral that can be evaluated and controlled.
 
 For operators pursuing rollups, bolt ons, or carve outs, this speed is the difference between capturing an asset or losing it to a competitor with faster capital.
 
-
-
 ## Healthcare Carve Outs: A Different Level of Complexity
 
 Healthcare carve outs are rarely straightforward.  
@@ -226,8 +208,6 @@ They are operationally messy but financially durable.
   
 
 Liquidity gives operators the ability to isolate the noise while stabilizing the core asset.
-
-
 
 ## The Role of ABL in Portfolio Strategy for HNWI and UHNW Clients
 
@@ -250,8 +230,6 @@ It allows wealthy clients to operate with institutional level sophistication wit
 
 In a world where private credit, crypto, and public shares represent major components of wealth architecture, Pathmaker provides the structural leverage that keeps those assets functioning rather than sitting idle.
 
-
-
 ## The Pathmaker Advantage
 
 Pathmaker delivers:
@@ -269,8 +247,6 @@ We do not promise simplicity.
 We promise clarity.  
 We promise a lending environment where professionals can move without being bottlenecked by institutional indecision.
 
-
-
 ## Who We Work With
 
 Pathmaker is built for:
@@ -285,8 +261,6 @@ Pathmaker is built for:
   
 
 If an individual or family operates in a world where timing, structure, and discretion matter, Pathmaker fits.
-
-
 
 ## The Future of Asset Based Lending
 
@@ -303,8 +277,6 @@ The market rewards lenders who understand this shift and punish those who cling 
 Pathmaker is positioned on the forward edge of this movement.  
 We combine a battle tested approach with modern asset class expertise.  
 The result is a lending model that works in real markets, not theoretical ones.
-
-
 
 # Book a strategic consultation
 ```

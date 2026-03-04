@@ -26,8 +26,6 @@ Our role is not to romanticize turnarounds or promote the mythology of heroic re
 Our role is structural.  
 We engineer liquidity for buyers who need precision, not optimism.  
 
-
-
 ## The Institutional Problem Set  
 Mid Market. Healthcare. Carve Outs.
 
@@ -42,8 +40,6 @@ Carve outs from large health systems, multi-entity consolidations, revenue cycle
 This is where most lenders hesitate.  
 
 This is where Pathmaker steps in.  
-
-
 
 ## Why Structural Liquidity Matters More Than Nominal Capital
 
@@ -64,15 +60,12 @@ Silent Authority means we do not create noise.
 We create structure.  
 We create certainty when the clock is ticking and the opportunity is perishable.  
 
-
-
 ## The Pathmaker Capital Suite  
 Precision Tools for Sophisticated Buyers
 
 Our platform is simple by design.  
 
 We offer three primary lending categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators.  
-
 
 ### Private Credit Lending  
 Private credit is now the backbone of mid market M&A.  
@@ -82,7 +75,6 @@ We lend against private credit positions with the clarity and pragmatism require
 Our underwriting philosophy is grounded in cash flow reality, not hypothetical future stabilization.  
 
 We finance the deal that exists, not the version the sell side pitched.  
-
 
 ### Asset Based Lending  
 Asset based lending is experiencing a renaissance.  
@@ -97,8 +89,6 @@ The assets are often underutilized, mispriced, or misaligned within large parent
 
 We understand how to unlock that value.  
 
-
-
 ### Crypto Lending  
 Minimum threshold: 2 million.  
 
@@ -109,8 +99,6 @@ Digital collateral, when properly analyzed and properly secured, is liquid, port
 Pathmaker lends in a way that respects the asset class without exaggerating it.  
 
 This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure.  
-
-
 
 ### Public Share Lending  
 Minimum threshold: 5 million.  
@@ -123,8 +111,6 @@ Their caution slows deals and forces buyers to either overcommit cash or overrea
 Pathmaker treats public equity as a flexible, strategic collateral layer, not a static investment.  
 
 When deployed correctly, public share lending can accelerate deal timelines, outperform traditional debt, and reduce closing friction.  
-
-
 
 ## The Pathmaker Vision for Institutional M&A  
 A Playbook Built on Reality
@@ -148,8 +134,6 @@ You can move sooner.
 You can move with conviction.  
 You can structure offers that competitors cannot match because their lenders require conditions that do not align with real market timelines.  
 
-
-
 ## Mid Market M&A Is No Longer Forgiving  
 Precision Is the New Leverage
 
@@ -167,8 +151,6 @@ Buyers have adjusted.
 Yet most lenders remain stuck in another cycle.  
 
 Pathmaker was built for the present environment, where liquidity is not abundant and time is not a renewable resource.  
-
-
 
 ## Healthcare Carve Outs Require More Than Capital  
 They Require Structural Interpretation
@@ -188,8 +170,6 @@ Liquidity becomes the strategic weapon that allows buyers to take positions comp
 
 Healthcare carve outs are not about turnaround theatrics.  
 They are about asset intelligence and liquidity precision.  
-
-
 
 ## Silent Authority  
 The F Status Delta
@@ -211,8 +191,6 @@ A shift in how counterparties respond once they realize your liquidity infrastru
 Silent Authority is power without noise.  
 It is influence without spectacle.  
 
-
-
 ## Liquidity as Strategy  
 Not a Last Step, a First Step
 
@@ -229,8 +207,6 @@ You can make commitments that others cannot.
 Because you have already built the liquidity architecture behind them.  
 
 This is the Pathmaker approach.  
-
-
 
 ## Why HNWI and UHNW Buyers Choose Pathmaker
 
@@ -253,8 +229,6 @@ They choose Pathmaker because we:
 We do not sell dreams.  
 We engineer outcomes.  
 
-
-
 ## Institutional M&A Will Only Get Harder  
 The Winners Will Be the Ones With Structural Liquidity
 
@@ -267,8 +241,6 @@ Every cycle produces predators and casualties.
 The difference is always structure.  
 
 Pathmaker positions its clients on the predator side of the cycle.  
-
-
 
 ## The Pathmaker Promise  
 Structural Liquidity. Silent Authority. Strategic Precision.
@@ -284,8 +256,6 @@ We provide clarity.
 We provide executable liquidity when it matters.  
 
 For the buyers who understand what this cycle demands, Pathmaker becomes a strategic extension of their acquisition architecture.  
-
-
 
 ## Ready to Strengthen Your Liquidity Strategy?
 

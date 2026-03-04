@@ -27,8 +27,6 @@ Pathmaker exists for that environment. We are built for HNWI and UHNW investors 
 
 Private credit, combined with asset based lending, now drives more mid‑market transactions than traditional credit ever will again. Our work sits inside that shift, quietly and effectively, with no theatrics and no retail gloss.
 
-
-
 ## The New Reality of Mid-Market Capital
 
 The mid‑market has matured into a fragmented and tactical landscape.
@@ -56,8 +54,6 @@ For investors who want to acquire, consolidate, stabilize, or carve out a divisi
   
 
 Pathmaker supports that baseline by lending against private credit positions and against tangible or semi‑tangible assets, always structured for speed and discretion.
-
-
 
 ## Asset Based Lending as a Growth Lever
 
@@ -91,8 +87,6 @@ When used correctly, ABL turns the friction of asset complexity into a structura
 
 Pathmaker specializes in this form of lending. We view collateral with a practitioner mindset, not a theoretical one. If the asset supports leverage, we build the structure.
 
-
-
 ## Private Credit as a Strategic Weapon, Not a Safety Net
 
 Private credit is often marketed as a rescue tool.
@@ -123,8 +117,6 @@ Pathmaker reinforces this discipline by lending against private credit positions
 
 HNWI and UHNW operators use this structure to avoid opportunity cost. It keeps their strategic posture intact while expanding their capacity to transact.
 
-
-
 ## Healthcare Carve-Outs: The Ultimate Test Case
 
 Healthcare carve‑outs are notoriously demanding. They require:
@@ -152,8 +144,6 @@ ABL provides the structural support. Private credit provides the strategic capit
 
 Pathmaker works inside this exact landscape. We are comfortable with operational chaos as long as collateral is sound and the strategic logic is coherent.
 
-
-
 ## Liquidity for High Net Worth and Ultra High Net Worth Investors
 
 HNWI and UHNW investors require capital that respects two realities:
@@ -179,8 +169,6 @@ There is no retail interface, no performative branding, and no exaggerated promi
 
 We provide the structural mechanics. You direct the strategy.
 
-
-
 ## Public Share Lending: Minimum Threshold 5 Million
 
 Public equity positions often sit idle during high‑velocity deal environments.
@@ -204,8 +192,6 @@ Pathmaker solves this by lending against public shares with a minimum threshold 
 
 This mechanism is particularly valuable for mid‑market operators who have accumulated concentrated positions through earlier exits or strategic holdings.
 
-
-
 ## Crypto Lending: Minimum Threshold 2 Million
 
 Digital assets are volatile, but they are also collateral.
@@ -225,8 +211,6 @@ HNWI and UHNW investors often hold meaningful crypto positions that they cannot 
   
 
 In mid‑market M&A, liquidity timing is often more important than cost of capital. Crypto‑backed lending meets that requirement cleanly and quietly.
-
-
 
 ## Why Mid-Market Operators Are Turning to Non-Bank Capital
 
@@ -251,8 +235,6 @@ ABL observes the assets as they are, not as they would be under idealized accoun
   
 
 This difference explains why private credit and ABL now shape more healthcare, industrial, and services transactions than any other form of mid‑market financing.
-
-
 
 ## Pathmaker’s Model: Silent Authority in a Loud Market
 
@@ -280,8 +262,6 @@ Institutional capital has rules. We understand them, we respect them, and we bui
 
 Our value is not volume, but precision.
 
-
-
 ## A Practical Playbook for Mid-Market Growth Using Private Credit and ABL
 
 HNWI and UHNW investors can enhance mid‑market strategy through careful sequencing of credit structures. The real leverage emerges through:
@@ -301,8 +281,6 @@ This playbook works because it respects operational realities. It does not depen
   
 
 Pathmaker is built for exactly this environment.
-
-
 
 ## What Operators Should Expect in the Next 24 Months
 
@@ -336,8 +314,6 @@ ABL will become more common in carve‑outs because it solves the early‑stage 
 
 Pathmaker is positioned to operate inside this shift, providing the structural mechanics that allow investors to move with institutional precision.
 
-
-
 ## The Bottom Line
 
 Mid‑market growth is no longer driven by traditional credit.
@@ -353,7 +329,5 @@ Pathmaker supplies the liquidity mechanics that give HNWI and UHNW investors str
   
 
 Quiet. Precise. Effective.
-
-
 
 Book a strategic consultation.

@@ -33,8 +33,6 @@ We focus on the borrowers who know the difference.
 
 This is where high net worth and ultra high net worth clients operate when they need real liquidity, not theoretical options or advisor‑deck optimism.
 
-
-
 ## The Reality of Mid Market Liquidity
 
 Mid market M and A, especially in healthcare carve outs, rarely fits neatly inside legacy underwriting frameworks.
@@ -66,8 +64,6 @@ We do not rely on hope as a strategy.
   
 
 We analyze assets, determine lendable value, and deploy capital with structural discipline.
-
-
 
 ## Private Credit and ABL: The Structural Foundation
 
@@ -109,8 +105,6 @@ We do not broadcast.
 We calibrate.  
 We deliver liquidity.
 
-
-
 ## Why Digital Asset Lending Belongs in Institutional Structures
 
 Digital assets have matured into a legitimate collateral class.
@@ -149,8 +143,6 @@ Not a replacement for private credit.
 Not a novelty.  
 Not a marketing hook.  
 
-
-
 ## Public Share Lending as a Strategic Lever
 
 Borrowers with concentrated equity positions often find themselves asset rich and liquidity poor.
@@ -182,8 +174,6 @@ We deliver liquidity without forcing the borrower to unwind positions or signal 
   
 
 This is quiet capital deployment that protects both the borrower and the integrity of the asset.
-
-
 
 ## ABL That Works for Carve Outs and Transitional Assets
 
@@ -225,8 +215,6 @@ This discipline carries across industries.
 
 Mid market companies require lenders who understand their constraints, not lenders who pretend those constraints do not exist.
 
-
-
 ## The Mechanics That Define Pathmaker
 
 Pathmaker functions as the technical layer that institutional capital prefers but rarely builds internally.
@@ -253,8 +241,6 @@ This is why our borrower base consistently includes HNWI and UHNW individuals.
 
 They want discretion, structure, and reliability.  
 We deliver all three.
-
-
 
 ## Why HNWI and UHNW Clients Choose Pathmaker
 
@@ -285,8 +271,6 @@ We are not a venture style lender.
   
 
 We are a precision lending partner aligned with the realities of high net worth balance sheets.
-
-
 
 ## The Strategic Utility of Hybrid Collateral
 
@@ -320,8 +304,6 @@ Hybrid collateral is not a marketing term.
 
 It is a strategic advantage.
 
-
-
 ## Digital Assets That Behave Like Institutional Collateral
 
 The most important shift in digital asset lending is custody clarity.
@@ -344,8 +326,6 @@ This is the only way digital assets earn a place at the table with private credi
 
 Our position:  
 digital assets are valid collateral when treated with institutional discipline.
-
-
 
 ## The Pathmaker Framework for Responsible Liquidity
 
@@ -370,8 +350,6 @@ This discipline is what allows us to serve high net worth and ultra high net wor
 The objective is simple:  
 deliver liquidity without destabilizing the underlying assets.
 
-
-
 ## Closing the Gap That Traditional Lenders Created
 
 Banks have become slower.  
@@ -392,8 +370,6 @@ We lend against assets that are sound but misunderstood.
 
 We move quietly and efficiently.
 
-
-
 ## Pathmaker as the Structural Bridge
 
 When clients come to Pathmaker, they are not seeking a theoretical solution.
@@ -413,8 +389,6 @@ We combine private credit discipline with multi asset collateral capacity.
 We bring silent authority to transactions that benefit from discretion.
 
 We execute at a level that serves the realities of HNWI and UHNW borrowers.
-
-
 
 ## Conclusion
 

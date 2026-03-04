@@ -19,60 +19,6 @@ For High Net Worth and Ultra High Net Worth buyers, the question is not whether 
 
 The question is whether anything else does.
 
-
-
-## Why Healthcare Carve-Outs Demand Structural Precision
-
-Healthcare assets, once separated from a corporate parent, rarely operate with clean financials.
-
-They often lack standalone billing infrastructure.
-
-They often depend on centralized revenue cycle management.
-
-They often inherit compliance liabilities they did not create.
-
-And buyers are expected to mobilize capital within compressed timelines, since sellers of distressed or non-core healthcare units typically push for rapid closure to remove regulatory and reimbursement exposure from their books.
-
-This is where traditional credit fails. It seeks clarity that healthcare carve-outs cannot provide at the time of acquisition.
-
-ABL, by contrast, tolerates the ambiguity. It prices the collateral itself, not the noise around it.
-
-
-
-## The Mid-Market Reality: You Buy First, Then You Build
-
-Mid‑market healthcare carve-outs do not resemble the polished narratives of large‑cap transactions.
-
-The real world is different.
-
-Financial reporting is fragmented.
-
-Data rooms are inconsistent.
-
-Aging reports are sometimes reconstructed only days before signing.
-
-The buyer effectively purchases a half‑disassembled operating engine and is expected to rebuild it under pressure.
-
-ABL is built for this stage of the process. It anchors liquidity to tangible, verifiable assets during the chaotic transition period. It gives investors time to replace broken systems, restructure workflows, stabilize staffing, and fix vendor relationships.
-
-
-
-## Why ABL Becomes the Center of Gravity
-
-Asset based lending performs a specific function that other capital does not.
-
-It creates liquidity based on what the business actually owns or produces, not what management predicts. In healthcare carve-outs, the most bankable assets tend to be:
-
-Accounts receivable.
-
-Inventory in certain post-acute segments.
-
-Equipment with secondary market value.
-
-A predictable collateral base allows institutional capital to deploy faster, with cleaner terms, and with measurable risk controls. This is the foundation of Pathmaker’s silent authority positioning. We provide the mechanical spine that institutional capital relies on, without theatrical terminology or exaggerated rescue narratives.
-
-
-
 ## The Overlooked Advantage: Reimbursement Cycles as Collateral Engines
 
 Healthcare receivables confuse lenders who are not fluent in reimbursement mechanics.
@@ -84,8 +30,6 @@ ABL structures cut through this confusion by mapping reimbursement reliability i
 The asset is not the receivable on paper. The asset is the payer’s probability of settlement.
 
 This transforms healthcare receivables into a predictable liquidity engine, something carve-out buyers typically underestimate until they face month one payroll pressure.
-
-
 
 ## When Private Credit Alone Is Not Enough
 
@@ -100,8 +44,6 @@ Private credit lenders often require covenants that healthcare carve-out entitie
 ABL complements private credit by absorbing the volatility. It keeps private credit in its proper role, as strategic leverage rather than emergency funding.
 
 This is why Pathmaker lends across both arenas. We create a dual structure so investors can push forward with cleaner execution and fewer capital‑related bottlenecks.
-
-
 
 ## Why HNWI and UHNW Investors Increasingly Prefer ABL Structures
 
@@ -121,8 +63,6 @@ Resistance to operational noise.
 
 These qualities appeal to private investors who want control without exposing themselves to raw cashflow risk.
 
-
-
 ## Silent Authority in a Sector Full of Noise
 
 Healthcare carve-outs attract loud operators. They promise reinvention, transformation, and disruption.
@@ -136,8 +76,6 @@ We engineer liquidity mechanics that institutional capital depends on.
 We do not need credit for the transaction’s narrative.
 
 We simply ensure the deal survives long enough for the narrative to matter.
-
-
 
 ## Case Dynamics: What ABL Solves in Real Transactions
 
@@ -154,8 +92,6 @@ Temporary revenue gaps caused by payer enrollment resets.
 Working capital shocks created by EHR transitions.
 
 Without ABL, the buyer must carry these burdens with equity or private credit. That creates unnecessary dilution or elevated cost of capital. With ABL, liquidity is mapped to collateral and released on schedule.
-
-
 
 ## The Capital Stack That Wins Mid-Market Healthcare
 
@@ -177,8 +113,6 @@ Public stock lending: 5 million minimum.
 
 We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility.
 
-
-
 ## The Misconception: ABL Is Not Only for Distressed Deals
 
 Many mid‑market buyers believe ABL signals distress.
@@ -188,8 +122,6 @@ In healthcare, the opposite is true. ABL is simply the most operationally accura
 It is a stabilizer, not a distress lever.
 
 It is how professional buyers maintain liquidity discipline without compromising execution.
-
-
 
 ## ABL as a Strategic Defense Mechanism
 
@@ -205,8 +137,6 @@ Transition‑related capital drain.
 
 It is not designed to fix a broken operation. It is designed to give buyers enough runway to fix it themselves. That is the pragmatic reality of healthcare carve-outs, and it is a reality Pathmaker structures around every day.
 
-
-
 ## Where Pathmaker Fits
 
 Pathmaker serves HNWI and UHNW investors who require structural certainty, fast execution, and capital strategies that withstand the turbulence of healthcare carve-outs.
@@ -219,8 +149,6 @@ We structure collateralized solutions for crypto and public equities at institut
 
 We operate quietly, as the structural authority behind the scenes, delivering liquidity mechanics that allow investors to move with institutional force.
 
-
-
 ## The Real Lesson: Liquidity Determines Survivors
 
 In healthcare carve-outs, operational excellence matters.
@@ -232,8 +160,6 @@ If capital collapses early, the operation never reaches the stage where improvem
 ABL is the difference between investors who endure the transition period and those who are buried by it.
 
 It is the only structure that consistently holds under mid‑market healthcare volatility.
-
-
 
 ## Final Thought
 

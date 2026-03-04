@@ -27,8 +27,6 @@ Reliably.
 
 With the structural precision that High Net Worth and Ultra High Net Worth buyers require when engaging beyond domestic borders.
 
-
-
 ## Why ABL Matters in Cross-Border Acquisitions
 
 ABL is not a creativity tool. It is not meant to be clever. It is meant to be reliable.  
@@ -61,8 +59,6 @@ No stand-alone financial reporting.
 
 Traditional underwriting collapses under these conditions. ABL does not.
 
-
-
 ## Why Pathmaker’s Version of ABL Performs Differently
 
 Most lenders advertise flexibility.  
@@ -92,8 +88,6 @@ Preserve personal liquidity for integration shocks.
 
 This is why our clients win deals that conventional buyers cannot approach.
 
-
-
 ## The Silent Authority Principle
 
 Pathmaker operates under what we call Silent Authority.
@@ -115,8 +109,6 @@ Our clients move faster.
 Their offers carry more certainty.  
 Their counter-parties trust their ability to close.  
 Their acquisition timeline compresses, while competitors stall.
-
-
 
 ## Why Cross-Border Healthcare Carve-Outs Need ABL
 
@@ -148,8 +140,6 @@ Facility utilization.
 
 The buyer might not know the full operational landscape yet, but the assets provide enough grounding for financing to move forward. This helps UHNW and HNWI buyers execute when other financing sources insist on clarity that the seller cannot or will not provide.
 
-
-
 ## Private Credit as the Missing Layer
 
 Pure ABL works.  
@@ -173,8 +163,6 @@ A pure ABL structure is rigid.
 A pure private credit structure is expensive.  
 
 Pathmaker combines both, creating a structure that prioritizes liquidity without strangling the deal with cost.
-
-
 
 ## HNWI and UHNW Buyers: Why Liquidity Optionality Is Strategic, Not Luxury
 
@@ -201,8 +189,6 @@ Neutralize seller gamesmanship.
 
 Liquidity changes the psychological dynamic of negotiation. And cross-border negotiations are psychological more than financial.
 
-
-
 ## Why Cross-Border Buyers Fail Without ABL
 
 Across hundreds of transactions we find the same reasons for failure.
@@ -221,8 +207,6 @@ Integration turns into a liquidity drain.
 
 Each failure point is predictable.  
 Each failure point is avoidable with ABL.
-
-
 
 ## The Role of Nontraditional Collateral
 
@@ -247,8 +231,6 @@ Freedom from over-committing personal liquidity.
 
 Cross-border deals reward buyers who preserve capacity, not those who deplete it.
 
-
-
 ## The Timing Advantage: ABL Accelerates the Closing Window
 
 Time kills cross-border acquisitions.  
@@ -271,8 +253,6 @@ Compliance remediation begins on day one.
 
 Every one of these items requires immediate liquidity. ABL delivers that liquidity without waiting for perfect financial clarity.
 
-
-
 ## De-Risking the Integration Phase
 
 Most cross-border acquisitions fail during integration, not during closing.  
@@ -282,8 +262,6 @@ ABL provides that flexibility because asset values refresh continuously. As inve
 
 This is why ABL is superior for integration risk.  
 It adjusts with the business instead of forcing the business to adjust to the capital structure.
-
-
 
 ## The Institutional Paradox and How Pathmaker Solves It
 
@@ -298,8 +276,6 @@ We provide institutional-like structure without institutional rigidity.
 This is what Silent Authority means.  
 Our systems operate cleanly even when the target does not.
 
-
-
 ## Using ABL to Increase Post-Acquisition IRR
 
 ABL improves IRR through three effects.
@@ -309,8 +285,6 @@ It accelerates operational stabilization.
 It creates liquidity buffers that reduce emergency capital injections.
 
 This becomes especially potent for HNWI and UHNW buyers who pursue multi-asset portfolios or serial acquisitions. Cross-border expansion requires liquidity discipline. ABL is one of the few tools that enforces that discipline automatically.
-
-
 
 ## The Strategic Role of Pathmaker in Cross-Border Acquisitions
 
@@ -324,7 +298,5 @@ We create optionality.
 We enable precision.
 
 For clients stepping into cross-border acquisitions, especially mid-market healthcare carve-outs, this precision becomes the competitive advantage.
-
-
 
 # Book a strategic consultation

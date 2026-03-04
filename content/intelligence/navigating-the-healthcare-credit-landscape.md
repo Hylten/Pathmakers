@@ -15,8 +15,6 @@ Pathmaker operates precisely in this space. We provide private credit, asset bas
 
 This is not a discussion about idealistic turnarounds. It is a guide for investors who already understand that healthcare carve outs, distressed roll ups, and transitional liquidity events require discipline, not optimism.
 
-
-
 ## The Structural Reality of Healthcare Credit
 
 Healthcare operators are experiencing fragmentation at a scale not seen in decades.  
@@ -32,8 +30,6 @@ For mid‑market groups, the result is the same pattern repeated across specialt
 This is where private credit has become the new center of gravity.  
 
 Pathmaker focuses on structural clarity. We are not looking for emotional narratives or promises of imminent recovery. We lend against assets that can be underwritten with institutional confidence. We design credit facilities that allow investors to step into healthcare deals with eyes open and leverage intact.
-
-
 
 ## Why Mid‑Market Healthcare Requires Silent Authority
 
@@ -51,8 +47,6 @@ Pathmaker provides liquidity that sits beneath the investor’s strategy, not ab
 
 This is the F Status Delta. Quiet influence. Institutional mechanics without the institutional bureaucracy.
 
-
-
 ## Liquidity as a Competitive Weapon
 
 In healthcare M and A, liquidity is not optional. It is leverage.  
@@ -65,8 +59,6 @@ Pathmaker’s model is built around this principle.
 We lend against private credit positions and asset based facilities with a focus on deliverability, velocity, and structural durability.  
 
 These facilities allow investors to unlock capital tied up in existing investments. They also provide firepower to pursue new strategic opportunities in sectors like outpatient services, specialty care, behavioral health, revenue cycle carve outs, and ancillary service integrations.
-
-
 
 ## The Case for Asset Based Lending in Healthcare
 
@@ -88,8 +80,6 @@ This gives the investor the ability to close a deal without waiting for the sell
 Speed matters more than presentation quality.  
 ABL provides the bridge.
 
-
-
 ## Private Credit for Mid‑Market Healthcare Deals
 
 Private credit is no longer niche in healthcare.  
@@ -103,8 +93,6 @@ The investor retains strategic control while Pathmaker provides the structural m
 This is an alignment that protects both sides.  
 
 It works because the investor sets the course, while Pathmaker ensures the capital foundation remains firm.
-
-
 
 ## How HNWI and UHNW Investors Use Liquidity to Win Healthcare Deals
 
@@ -123,8 +111,6 @@ Our facilities give you:
 The result is direct.  
 You gain access to liquidity at moments when your competitors are still negotiating timelines.
 
-
-
 ## Crypto Lending for Investors Who Move in Large Blocks
 
 Crypto liquidity is often misunderstood in healthcare investing.  
@@ -138,8 +124,6 @@ Crypto lending becomes useful when an investor has locked gains, wants to alloca
 This provides optionality.  
 The kind of optionality that becomes decisive during competitive bidding or rapid acquisition rollups.  
 
-
-
 ## Public Share Lending for Cross Domain Liquidity
 
 Public equity holders often underestimate the power of their portfolios as a liquidity source.  
@@ -150,8 +134,6 @@ This is not margin lending in the retail sense.
 This is a structurally sound liquidity event that allows investors to execute in healthcare without disrupting their public market strategies.  
 
 When paired with healthcare private credit opportunities, public share lending becomes an effective tool for multi domain investors who want exposure without sacrificing their existing holdings.
-
-
 
 ## Carve Outs Require Capital That Can Take a Punch
 
@@ -169,8 +151,6 @@ This is why our role is not loud.
 It is foundational.  
 It is engineered to hold up against the kind of strain that emerges in mid market acquisitions.  
 
-
-
 ## The Difference Between Liquidity and Stability
 
 Liquidity gets the deal done.  
@@ -184,8 +164,6 @@ We provide liquidity by designing structures that can be executed quickly and qu
 HNWI and UHNW investors who understand this dual dynamic gain an advantage over competitors who rely solely on cash reserves or traditional financing.  
 
 The right structure multiplies your strategic posture instead of limiting it.
-
-
 
 ## The Future of Healthcare Credit
 
@@ -204,8 +182,6 @@ Distressed assets are transitioning to private hands.
 
 Private credit and ABL will power this next wave.  
 Pathmaker is positioned to serve investors who thrive in imperfect conditions and prefer leverage that does not depend on sentiment.  
-
-
 
 # Conclusion
 

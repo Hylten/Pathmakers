@@ -21,8 +21,6 @@ Our mandate is quiet strength.
 Silent authority.  
 We engineer liquidity structures that institutional capital respects, without the noise or posturing that usually comes with mezzanine desks.  
 
-
-
 ## Why This Comparison Matters  
 Most investors assume mezzanine fills the gap between senior debt and equity.  
 That may have been true before interest rate volatility and regulatory pressure reshaped the credit markets.  
@@ -38,8 +36,6 @@ And collateral driven intelligence controls risk without forcing operators into 
 
 For the investor who values control and liquidity optionality, this shift matters.  
 Deeply.  
-
-
 
 ## The Nature of ABL in Modern Transactions  
 Asset Based Lending used to be seen as a tool for distressed companies.  
@@ -63,8 +59,6 @@ Revenue cycles are long.
 Payer lag is normal.  
 And cash flow predictability is rarely smooth enough to satisfy mezzanine lenders who want formulas instead of facts.  
 
-
-
 ## The Hard Truth About Traditional Mezzanine  
 Mezzanine capital is marketed as flexible.  
 In the field it is often the opposite.  
@@ -85,8 +79,6 @@ They prefer stable platforms where underwriting is more about portfolio optics t
 HNWI and UHNW investors know that speed and clarity matter more than optics.  
 This is why they move toward ABL before they ever entertain mezzanine.  
 
-
-
 ## Liquidity Predictability vs Liquidity Theatre  
 ABL provides liquidity predictability.  
 Mezzanine provides liquidity theater.  
@@ -106,8 +98,6 @@ Theater means:
 Institutional partners know the difference.  
 This is why ABL backed private credit continues to increase its share in M&A structures while mezzanine demand declines.  
 
-
-
 ## The ABL Advantage in Healthcare Carve Outs  
 Healthcare carve outs are a category of their own.  
 They are operationally messy.  
@@ -124,8 +114,6 @@ Mezzanine lenders usually do not want to price reimbursement risk.
 ABL lenders know exactly how to model it.  
 
 This difference determines the success or failure of many carve out acquisitions.  
-
-
 
 ## ABL Enhances Optionality for HNWI and UHNW Buyers  
 HNWI and UHNW investors value optionality more than anything.  
@@ -149,8 +137,6 @@ Their economics depend on maintaining a static capital position.
 They prefer long duration and high yield.  
 That means they oppose early exits, rapid refinancing, or structural upgrades.  
 
-
-
 ## The Pathmaker Position  
 Pathmaker does not behave like a mezzanine shop.  
 We are not trying to replicate traditional structures.  
@@ -169,8 +155,6 @@ We also provide specialized liquidity tools:
 These instruments give our clients leverage without compromising control.  
 They strengthen the capital architecture instead of adding friction to it.  
 
-
-
 ## Execution Speed and Reliability  
 In M&A, timing is strategic.  
 If you cannot close, your competition will.  
@@ -187,8 +171,6 @@ The other is based on assumptions.
 
 Reality produces faster closes.  
 Assumptions produce delays.  
-
-
 
 ## Structural Resilience in Volatile Markets  
 Rates move.  
@@ -207,8 +189,6 @@ They need liquidity partners who stay predictable.
 
 Pathmaker provides that predictability.  
 
-
-
 ## The M&A Capital Stack That Actually Works  
 In modern mid market transactions the optimal capital stack is no longer traditional.  
 It is not about replicating the old senior plus mezzanine plus equity formula.  
@@ -226,8 +206,6 @@ It maximizes optionality.
 
 It is also the stack Pathmaker architects every day.  
 
-
-
 ## For Investors Who Value Signal Over Noise  
 The mid market is full of capital providers who want to speak loudly.  
 Very few know how to act quietly and execute with consistency.  
@@ -236,7 +214,5 @@ Pathmaker is built for investors who prefer signal over noise.
 The ones who operate without theatrics.  
 The ones who demand liquidity mechanics that hold in real conditions.  
 The ones who do not need approval from mezzanine desks to make strategic moves.  
-
-
 
 # Book a strategic consultation

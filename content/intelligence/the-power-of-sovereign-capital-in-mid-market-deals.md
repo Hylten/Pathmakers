@@ -17,8 +17,6 @@ It rewards those who understand that capital is a tool, not a trophy.
 
 And in the mid-market, especially in healthcare carve outs, that tool must be engineered with precision, patience, and a willingness to step into complexity that many capital providers avoid.  
 
-
-
 Pathmaker sits inside this bandwidth.  
 
 We do not chase headlines.  
@@ -27,8 +25,6 @@ We build structural leverage.
 
 We support sovereign forms of liquidity for private owners and family offices who require dependable execution rather than theoretical enthusiasm.  
 
-
-
 ## Why Sovereign Capital Matters in the Mid-Market
 
 The mid-market is a structural blind spot.  
@@ -36,8 +32,6 @@ The mid-market is a structural blind spot.
 It is large enough to attract institutional attention, yet too operationally messy for many institutions to commit to.  
 
 Especially when the deal involves healthcare, carve outs, fractured management lines, or inherited liabilities.  
-
-
 
 This is where sovereign capital shows its utility.  
 
@@ -49,8 +43,6 @@ It is defined by silence, control, predictability.
 
 It moves when conventional lenders delay.  
 
-
-
 For UHNW and HNWI operators navigating this market, this type of liquidity allows them to take positions that other buyers cannot.  
 
 It allows them to execute deals without relying on lenders who suddenly adjust risk tolerance mid diligence.  
@@ -59,29 +51,21 @@ It allows them to buy time.
 
 And in the mid-market, time is leverage.  
 
-
-
 ## The Functional Role of Private Credit
 
 Private credit is the workhorse of the real economy.  
 
 In the mid-market, it fills the vacuum left by regional banks, insurers, and overly constrained institutional lenders.  
 
-
-
 Pathmaker lends against private credit positions for clients who require liquidity without liquidation.  
 
 This matters for investors who maintain diversified private portfolios that are long horizon by design.  
-
-
 
 When a healthcare carve out emerges at an attractive valuation, the worst position a buyer can be in is asset rich and liquidity poor.  
 
 Private credit collateralization solves this.  
 
 We unlock capital from illiquid debt positions so clients can act swiftly.  
-
-
 
 There is no glamour here.  
 
@@ -90,8 +74,6 @@ Only mechanics.
 Only leverage.  
 
 Only execution.  
-
-
 
 ## The Precision of Asset Based Lending
 
@@ -103,8 +85,6 @@ It ignores projections.
 
 It forces discipline.  
 
-
-
 Pathmaker applies ABL to mid-market M and A realities that many lenders will not touch.  
 
 Healthcare targets with dense receivables.  
@@ -113,13 +93,9 @@ Carve outs with transitional service requirements.
 
 Legacy systems where revenue recognition is non standard.  
 
-
-
 Institutional lenders step away from these deals, not due to lack of opportunity, but due to lack of structural flexibility.  
 
 We step in because flexibility is built into our architecture.  
-
-
 
 ABL provides velocity.  
 
@@ -127,13 +103,9 @@ It provides predictable leverage.
 
 It provides a floor when other forms of credit are inaccessible.  
 
-
-
 For UHNW buyers operating through family vehicles or private holdcos, liquidity timing determines whether they win or lose the bid.  
 
 ABL ensures they do not lose simply because conventional lenders require months of audits before releasing capital.  
-
-
 
 ## Crypto Lending for the New-Class Wealth Holder
 
@@ -145,8 +117,6 @@ But most holders still face a structural problem.
 
 They cannot access liquidity without selling.  
 
-
-
 Pathmaker offers crypto lending with a minimum threshold of two million dollars.  
 
 This is deliberate.  
@@ -154,8 +124,6 @@ This is deliberate.
 It is not designed for casual traders.  
 
 It is designed for strategic holders who view digital assets as part of a broader capital stack.  
-
-
 
 Crypto as collateral is not about volatility.  
 
@@ -165,11 +133,7 @@ It is about using a modern asset to secure traditional opportunities.
 
 It is about making an acquisition without sacrificing long horizon digital exposure.  
 
-
-
 In mid-market healthcare deals, that flexibility is often the difference between closing and being pushed aside by a more liquid buyer.  
-
-
 
 ## Public Share Lending for Tactical Liquidity Release
 
@@ -177,19 +141,13 @@ Public equities remain the foundational asset for many HNWI and UHNW investors.
 
 But liquidity locked in concentrated stock positions can create friction.  
 
-
-
 Pathmaker provides public share lending with a five million dollar minimum.  
 
 This is not margin.  
 
 It is structured lending engineered to release liquidity without creating unwanted tax events or dilution.  
 
-
-
 For investors preparing to acquire a mid-market target, especially a healthcare carve out, this form of liquidity offers an elegant solution.  
-
-
 
 You maintain exposure.  
 
@@ -199,8 +157,6 @@ You gain capital.
 
 You move without waiting for a divestment window.  
 
-
-
 ## Structural Mechanics Over Storytelling
 
 Mid-market M and A is not powered by inspiration.  
@@ -208,8 +164,6 @@ Mid-market M and A is not powered by inspiration.
 It is powered by the mechanics behind the deal.  
 
 That is where Pathmaker operates.  
-
-
 
 Silent authority is our posture.  
 
@@ -221,19 +175,13 @@ We provide it repeatedly.
 
 We provide it in a manner that institutional capital respects because it draws from institutional discipline.  
 
-
-
 Our clients are not looking for rescue.  
 
 They are looking for advantage.  
 
 They are looking for capital that acts like a strategic weapon, not a bureaucratic obstacle.  
 
-
-
 This is the underlying ethos of sovereign capital.  
-
-
 
 ## Healthcare Carve Outs: Where Liquidity and Precision Decide Outcomes
 
@@ -245,15 +193,11 @@ Someone who understands regulatory drag.
 
 Someone who can tolerate operational ambiguity during the first six to twelve months.  
 
-
-
 These deals rarely go to the highest bidder.  
 
 They go to the most credible executor.  
 
 And credibility, in carve outs, is defined by liquidity reliability.  
-
-
 
 Pathmaker provides this reliability by engineering capital from multiple collateral vectors.  
 
@@ -265,8 +209,6 @@ Crypto assets.
 
 Public equities.  
 
-
-
 This multi lane architecture gives HNWI and UHNW buyers the exact capability they need.  
 
 Liquidity on demand.  
@@ -275,11 +217,7 @@ Execution without theatrics.
 
 Time to stabilize the asset after acquisition.  
 
-
-
 And this is where our clients separate themselves from the typical private buyer.  
-
-
 
 ## The Sovereign Capital Advantage
 
@@ -289,19 +227,13 @@ It is not reckless capital.
 
 It is patient liquidity with a hard spine.  
 
-
-
 It allows buyers to tolerate complex diligence findings.  
 
 It allows them to make rational decisions in markets full of noise.  
 
 It allows them to hold rather than flip.  
 
-
-
 For the mid-market, that shift is profound.  
-
-
 
 Because every seller wants the same thing.  
 
@@ -311,11 +243,7 @@ They want an acquirer who will not retreat because a lender retreats.
 
 They want buyers who can wire.  
 
-
-
 Pathmaker exists to make that possible.  
-
-
 
 ## Why UHNW and HNWI Investors Use Us
 
@@ -323,19 +251,13 @@ Our clients do not come to us because they lack options.
 
 They come to us because they understand consequences.  
 
-
-
 The consequence of relying on a traditional lender who changes terms two days before close.  
 
 The consequence of missing a carve out because liquidity was stuck in an illiquid vehicle.  
 
 The consequence of not being able to compete with institutional buyers who always have capital loaded.  
 
-
-
 We level that asymmetry.  
-
-
 
 Silent authority.  
 
@@ -343,15 +265,11 @@ Institutional mechanics.
 
 Private control.  
 
-
-
 ## The Real Message: Liquidity Creates Authority
 
 In the mid-market, authority is never spoken.  
 
 It is demonstrated through capital behavior.  
-
-
 
 You win because you can fund.  
 
@@ -359,13 +277,9 @@ You win because your capital is engineered.
 
 You win because you are not dependent on a single gateway.  
 
-
-
 This is the power of sovereign capital.  
 
 And this is the architecture Pathmaker provides.  
-
-
 
 ## Book a Strategic Consultation
 

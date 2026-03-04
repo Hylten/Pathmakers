@@ -19,8 +19,6 @@ Yet this is exactly where precision liquidity is most valuable.
 
 And it is the territory Pathmaker was built for.
 
-
-
 ## The Reality of Mid-Market Carve-Outs
 
 When a corporate parent divests a division, the carved asset is usually under-resourced.  
@@ -47,8 +45,6 @@ They are dynamic. Imperfect. Uneven.
 
 But they are also filled with dislocated value that can be stabilized with the right liquidity structure.
 
-
-
 ## Liquidity Is Not Abundant, It Is Engineered
 
 Precision liquidity is not the act of simply injecting capital.  
@@ -64,8 +60,6 @@ The second is that the capital stack must navigate both parent-level disengageme
 The third is that mid-market operators cannot afford friction. They need the liquidity to work immediately.
 
 This is where Pathmaker aligns. We operate in the structural mechanics that institutional capital relies on, yet do so with the speed and discretion that HNWI and UHNW investors require.
-
-
 
 ## The Distinct Challenges of Healthcare Carve-Outs
 
@@ -100,8 +94,6 @@ The timing is the problem, not the value.
 
 This timing gap is exactly where precision ABL and private credit become decisive.
 
-
-
 ## What Precision Liquidity Means in Practice
 
 For Pathmaker, precision liquidity is the opposite of blanket leverage.  
@@ -129,8 +121,6 @@ We want the mechanics.
 
 And this is why our mandates consistently include private credit structures, asset based lending, and liquidity solutions for sophisticated individuals who require silent authority rather than loud branding.
 
-
-
 ## Lending Against Private Credit Positions
 
 HNWI and UHNW investors increasingly hold meaningful private credit exposure.  
@@ -148,8 +138,6 @@ Precision liquidity in this context means structuring lending that recognizes:
 • Recovery waterfall mechanics  
 
 For investors participating in mid-market carve-outs, this type of liquidity is critical. It frees capital locked in strong but inactive private credit positions and redeploys it into the active transaction.
-
-
 
 ## Asset Based Lending for Carve-Out Stabilization
 
@@ -172,8 +160,6 @@ And assets, when correctly structured, do not lie.
 
 This creates reliability in environments where the operational narrative is shifting rapidly, which is precisely what occurs in mid-market carve-outs.
 
-
-
 ## Public Share Lending for High Net Worth Clients
 
 Public share lending is a precision tool for liquidity acceleration.  
@@ -192,8 +178,6 @@ HNWI and UHNW individuals leverage public share lending when they need:
 
 The value lies in not disturbing the portfolio while still activating its economic strength.
 
-
-
 ## Crypto Lending as a Collateral Source for Serious Investors
 
 Crypto lending is often misunderstood.  
@@ -207,8 +191,6 @@ This aligns the structure with investors who treat digital assets as a component
 For carve-outs, crypto-backed liquidity provides speed.  
 Speed matters because carve-out timelines collapse quickly.  
 Opportunities do not wait for capital.
-
-
 
 ## Why Precision Liquidity Wins in Carve-Out Environments
 
@@ -228,8 +210,6 @@ Precision liquidity matters because:
 Pathmaker operates in these mechanics.  
 We do not publish flashy promises.  
 We deliver engineered liquidity that makes mid-market transactions executable.
-
-
 
 ## Silent Authority in Transaction Structuring
 
@@ -252,8 +232,6 @@ Silent authority is not marketing language.
 It is operational reality.  
 In the mid-market, authority shows through execution, not visibility.
 
-
-
 ## The Pathmaker Advantage for HNWI and UHNW Investors
 
 Our clientele do not need education on capital markets.  
@@ -271,8 +249,6 @@ Pathmaker provides:
 This is not capital for generalist investors.  
 It is capital for principals who understand velocity, risk, and the cost of illiquidity during transactions.
 
-
-
 ## Architecting Liquidity for the Next Phase of Mid-Market M&A
 
 We are in an era where mid-market corporate divestitures will accelerate.
@@ -285,8 +261,6 @@ And the liquidity environment is tightening around anything that looks complicat
 Yet complexity is where the best opportunities live.  
 
 But only for those who can activate capital decisively.
-
-
 
 ## Conclusion: Precision Liquidity Is the Competitive Edge
 

@@ -19,8 +19,6 @@ We do not promise miracles.
 
 We deliver structural mechanics that institutional capital trusts.
 
-
-
 ## Why Strategic ABL Matters When Structures Are Not Straightforward
 
 Most mid market companies evolve with uneven capital stacks.  
@@ -33,15 +31,11 @@ Institutional credit committees avoid anything that is not linear.
 
 Which means liquidity dries up at the moment it is needed most.
 
-
-
 Asset Based Lending works differently.  
 
 The structure focuses on assets, not aesthetics.  
 
 If the asset is understood, controlled, and valuable, capital can be deployed even when the ownership chart looks like a family tree after three mergers and two divorces.
-
-
 
 ## Where Complexity Comes From in Mid Market Deals
 
@@ -50,8 +44,6 @@ In our experience, complexity usually arises from five primary sources.
 Each one creates a predictable set of constraints.  
 
 Pathmaker underwrites those constraints instead of walking away from them.
-
-
 
 ### 1. Healthcare Carve Outs
 
@@ -71,8 +63,6 @@ The result is liquidity paralysis at the exact point when speed is needed.
 
 ABL breaks the paralysis because the structure isolates the assets and builds lending mechanics around them.  
 
-
-
 ### 2. Multi Subsidiary Roll Ups
 
 Roll ups in behavioral health, dental, veterinary, and similar verticals often contain dozens of small acquisitions with varying degrees of integration.  
@@ -89,8 +79,6 @@ We treat it as data.
 
 Each asset can still be leveraged if the right containment structure is created.
 
-
-
 ### 3. Cross Border Holding Companies
 
 Tax optimized structures create efficiency.  
@@ -103,8 +91,6 @@ Instead of lending into the entire corporate universe, capital is deployed again
 
 Everything else stays segregated.
 
-
-
 ### 4. Crypto and Digital Asset Exposure
 
 Crypto is no longer fringe among UHNW and HNWI operators.  
@@ -115,8 +101,6 @@ Pathmaker fills this gap with crypto lending starting at a minimum threshold of 
 
 This becomes a liquidity bridge that does not require liquidation of volatile positions.  
 
-
-
 ### 5. Public Share Lending Within Operating Groups
 
 Executives, founders, and family offices often hold public shares that could be leveraged to accelerate corporate decisions.  
@@ -126,8 +110,6 @@ Traditional banks will not lend meaningfully against these assets.
 Pathmaker will, with a minimum threshold of 5,000,000.  
 
 This transforms dormant value into working liquidity without sacrificing control.  
-
-
 
 ## Strategic ABL as a Tool for Silent Authority
 
@@ -147,15 +129,11 @@ The capital works.
 
 The operator stays in control.  
 
-
-
 ## The Mechanics That Matter
 
 ABL becomes strategic when its mechanics are understood at an institutional level.  
 
 The following elements differentiate a tactical line of credit from a strategic liquidity instrument.
-
-
 
 ### Collateral Isolation
 
@@ -164,7 +142,6 @@ In complex corporate structures, isolation is power.
 Pathmaker builds ring fenced lending structures so the collateral is fully separated from operational chaos.  
 
 This is especially valuable in carve outs or partial spin outs where control is split between parties.
-
 
   
 ### Institutional Grade Valuation
@@ -179,15 +156,11 @@ This creates credibility.
 
 Credibility creates liquidity.
 
-
-
 ### Controlled Release Mechanisms
 
 Rather than simple advances, we build release structures that match transaction timing.  
 
 This protects deal momentum and reduces the operational drag that often kills mid market transactions.
-
-
 
 ### Multi Asset Lending Capability
 
@@ -204,8 +177,6 @@ A single lending structure can incorporate:
 
 This creates a cohesive liquidity engine instead of a scattered attempt at financing.
 
-
-
 ## Why Private Credit Works Where Banks Cannot
 
 Banks need clean narratives and rigid documentation.  
@@ -216,15 +187,11 @@ ABL within private credit has even more flexibility.
 
 This combination fills the void where traditional lenders disengage.
 
-
-
 ### Speed
 
 Complex structures often face timing pressure from sellers, regulators, family partners, or PE sponsors.  
 
 Private credit moves at the speed required because the underwriting is asset focused rather than story focused.
-
-
 
 ### Cross Collateral Capability
 
@@ -232,23 +199,17 @@ Traditional lenders avoid cross collateralization in non linear structures.
 
 Pathmaker understands how to legally bind multi entity assets in ways that satisfy institutional capital but still protect borrower interests.
 
-
-
 ### Confidentiality
 
 Many clients prioritize discretion above all.  
 
 Private credit allows capital deployment without public disclosure, internal panic, or external signaling.
 
-
-
 ## The Mid Market Pain Points We See Most
 
 After hundreds of transactions, the patterns repeat.  
 
 Not because companies are flawed, but because complexity is normal at the mid market level.
-
-
 
 ### The Funding Gap in Healthcare M&A
 
@@ -264,8 +225,6 @@ Traditional lenders rarely align with these moments.
 
 ABL fills the gap without moral judgment or unrealistic expectations.
 
-
-
 ### Liquidity During Carve Outs
 
 Carve outs create temporary chaos.  
@@ -276,8 +235,6 @@ But until the new entity stabilizes, cash flow is unreliable.
 
 ABL bridges this period by anchoring the loan to the assets instead of the transitional noise.
 
-
-
 ### Situations With Incomplete Financials
 
 Mid market operators often have strong operational performance but inconsistent financial reporting.  
@@ -287,8 +244,6 @@ Banks punish this.
 Private credit analyzes substance.  
 
 ABL extracts value despite imperfect paperwork.
-
-
 
 ## ABL for Family Office Structures
 
@@ -307,8 +262,6 @@ Selling assets is rarely the optimal move.
 
 ABL provides optionality without forced liquidation.
 
-
-
 ## For HNW and UHNW Borrowers, The Objective Is Efficiency
 
 The wealthiest operators do not borrow because they lack resources.  
@@ -316,8 +269,6 @@ The wealthiest operators do not borrow because they lack resources.
 They borrow because liquidity is leverage.  
 
 ABL becomes a strategic tool for those who understand that retaining assets while extracting value is the foundation of long term control.
-
-
 
 ## What Pathmaker Actually Does
 
@@ -331,8 +282,6 @@ We do not advertise.
 
 We execute.  
 
-
-
 ## What We Do Not Do
 
 We do not romanticize turnarounds.  
@@ -343,19 +292,13 @@ We do not get sentimental about legacy issues.
 
 We evaluate assets, isolate value, and deploy capital responsibly.  
 
-
-
 ## Strategic ABL in Real Transactions
 
 Below are the most common scenarios where clients use Pathmaker.
 
-
-
 ### To Acquire a Business Without Over Leveraging the Parent
 
 By lending against subsidiary assets, we prevent the parent company from absorbing unnecessary risk.  
-
-
 
 ### To Smooth Liquidity During M&A Diligence
 
@@ -363,21 +306,15 @@ Due diligence exposes weaknesses.
 
 ABL provides liquidity so the operator can address issues quickly instead of losing the deal.
 
-
-
 ### To Unlock Value From Public Shares
 
 When strategic decisions require immediate capital, our public share lending starting at 5,000,000 becomes a fast and silent liquidity mechanism.
-
-
 
 ### To Leverage Crypto Without Selling
 
 Selling crypto can trigger tax events or disrupt long term strategies.  
 
 A crypto backed loan at 2,000,000 or more preserves both strategy and liquidity.
-
-
 
 ## The Quiet Advantage
 
@@ -390,8 +327,6 @@ Silent authority is the operating philosophy.
 Your name stays at the front.  
 
 Our mechanics stay in the background.  
-
-
 
 ## Conclusion
 
