@@ -2,7 +2,7 @@
 title: "Navigating the Nordic M&A Landscape With ABL: A Pragmatic Guide for Serious Capital"
 description: "A strategic deep dive into liquidity, private credit, and asset based lending for Nordic mid‑market M&A with Pathmaker."
 date: "2025-12-12"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "navigating-the-nordic-m&a-landscape-with-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

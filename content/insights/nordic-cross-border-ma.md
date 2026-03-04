@@ -2,7 +2,7 @@
 title: "Nordic Cross-Border M&A: The New Playbook"
 description: "How Nordic acquirers are leveraging structural advantages in cross-border middle-market transactions to outperform traditional buyout strategies."
 date: "2025-12-05"
-author: "Pathmaker Advisory"
+author: "Jonas Hyltén"
 slug: "nordic-cross-border-ma"
 keywords: "Nordic M&A, Cross-Border, Middle Market, Advisory, Pathmaker"
 ---

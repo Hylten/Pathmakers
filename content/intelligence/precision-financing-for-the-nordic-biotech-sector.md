@@ -2,7 +2,7 @@
 title: "Precision Financing for the Nordic BioTech Sector"
 description: "A strategic deep dive into liquidity generation and asset based lending solutions tailored for Nordic BioTech operators and investors."
 date: "2025-12-16"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "precision-financing-for-the-nordic-biotech-sector"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

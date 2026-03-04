@@ -2,7 +2,7 @@
 title: "Operational Resilience in the Nordics"
 description: "Insights on Operational Resilience in the Nordics from Roials Capital and Hyltén Invest."
 date: "2025-12-06"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "operational-resilience-in-nordics"
 keywords: "private credit, asset based lending, strategic capital"
 ---

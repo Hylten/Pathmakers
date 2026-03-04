@@ -2,7 +2,7 @@
 title: "Strategic M&A Trends for 2026: What Serious Buyers Need to Prepare For"
 description: "A pragmatic analysis of 2026 M&A trends with focus on liquidity, private credit, and asset based lending structures for decisive mid‑market operators."
 date: "2025-12-24"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "strategic-m&a-trends-for-2026"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

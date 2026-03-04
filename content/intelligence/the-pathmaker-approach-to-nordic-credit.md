@@ -2,7 +2,7 @@
 title: "The Pathmaker Approach to Nordic Credit: Structural Liquidity for Serious Capital"
 description: "A strategic deep dive into Nordic private credit and asset based lending, tailored for HNWI and UHNW investors seeking liquidity solutions anchored in real collateral."
 date: "2025-12-27"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-nordic-credit"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

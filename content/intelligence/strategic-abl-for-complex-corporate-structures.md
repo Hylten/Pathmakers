@@ -2,7 +2,7 @@
 title: "Strategic ABL for Complex Corporate Structures"
 description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based Lending for complex corporate structures and mid‑market transactions."
 date: "2025-12-18"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "strategic-abl-for-complex-corporate-structures"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

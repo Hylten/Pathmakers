@@ -2,7 +2,7 @@
 title: "Precision Liquidity for Healthcare Infrastructure"
 description: "A strategic analysis of precision liquidity, private credit, and asset based lending for healthcare infrastructure transactions."
 date: "2025-12-16"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "precision-liquidity-for-healthcare-infrastructure"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

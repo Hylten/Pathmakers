@@ -2,7 +2,7 @@
 title: "Unlocking Value in Healthcare Assets via Asset Based Lending"
 description: "A high authority analysis on using ABL to unlock liquidity from healthcare assets for sophisticated capital holders."
 date: "2026-01-05"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "unlocking-value-in-healthcare-assets-via-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---

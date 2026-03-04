@@ -2,7 +2,7 @@
 title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
 description: "A deep analysis of precision liquidity, private credit, and asset based lending structures for HNWI and UHNW buyers executing cross-border M&A."
 date: "2025-12-14"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "precision-financing-for-cross-border-m&a"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
 ---
