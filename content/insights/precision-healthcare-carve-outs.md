@@ -1,3 +1,12 @@
+---
+title: "Precision Healthcare Carve-outs"
+description: "Insights on Precision Healthcare Carve-outs from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "precision-healthcare-carve-outs"
+keywords: "private credit, asset based lending, strategic capital"
+---
+
 # Precision Healthcare Carve-outs  
 A Pragmatic Playbook for Mid-Market Investors and Operators  
 
