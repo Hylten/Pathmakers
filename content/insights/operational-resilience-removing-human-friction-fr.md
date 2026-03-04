@@ -1,9 +1,9 @@
 ---
 title: "Operational Resilience: Removing Human Friction Fr"
 description: "Operational Resilience: Removing Human Friction Fr"
-date: "2025-12-02"
+date: "2025-12-17"
 author: "Jonas Hyltén"
-slug: "operational-resilience:-removing-human-friction-fr"
+slug: "operational-resilience-removing-human-friction-fr"
 keywords: "private credit, ABL, liquidity"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Healthcare Disruptors"
 description: "A deep analysis of liquidity engineering and asset based liquidity engineering structures purpose built for healthcare operators and investors requiring decisive private credit solutions."
-date: "2025-12-03"
+date: "2025-12-19"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-healthcare-disruptors"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

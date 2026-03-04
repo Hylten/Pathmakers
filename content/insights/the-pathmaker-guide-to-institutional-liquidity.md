@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Institutional Liquidity"
 description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients."
-date: "2025-12-14"
+date: "2026-01-05"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-institutional-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

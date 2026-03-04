@@ -1,7 +1,7 @@
 ---
 title: "The Power of Sovereign Capital in Mid-Market Deals"
 description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
-date: "2025-12-17"
+date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "the-power-of-sovereign-capital-in-mid-market-deals"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

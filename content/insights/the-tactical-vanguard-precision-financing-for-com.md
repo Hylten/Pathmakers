@@ -1,9 +1,9 @@
 ---
 title: "The Tactical Vanguard: Precision Financing For Com"
 description: "The Tactical Vanguard: Precision Financing For Com"
-date: "2025-12-19"
+date: "2026-01-12"
 author: "Jonas Hyltén"
-slug: "the-tactical-vanguard:-precision-financing-for-com"
+slug: "the-tactical-vanguard-precision-financing-for-com"
 keywords: "private credit, ABL, liquidity"
 ---
 

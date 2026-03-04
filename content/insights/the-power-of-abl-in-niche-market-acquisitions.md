@@ -1,7 +1,7 @@
 ---
 title: "The Power of ABL in Niche Market Acquisitions"
 description: "How Asset Based liquidity engineering and private credit structures unlock liquidity for complex carve outs, niche acquisitions, and mid market transactions."
-date: "2025-12-16"
+date: "2026-01-08"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-niche-market-acquisitions"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

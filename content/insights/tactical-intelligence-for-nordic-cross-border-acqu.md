@@ -1,7 +1,7 @@
 ---
 title: "Tactical Intelligence For Nordic Cross Border Acqu"
 description: "Tactical Intelligence For Nordic Cross Border Acqu"
-date: "2025-12-11"
+date: "2025-12-31"
 author: "Jonas Hyltén"
 slug: "tactical-intelligence-for-nordic-cross-border-acqu"
 keywords: "private credit, ABL, liquidity"

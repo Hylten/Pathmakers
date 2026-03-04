@@ -1,7 +1,7 @@
 ---
 title: "The Power of ABL in Cross-Border Acquisitions"
 description: "How Asset-Based liquidity engineering unlocks liquidity and execution certainty in complex cross-border acquisitions."
-date: "2025-12-16"
+date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-cross-border-acquisitions"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

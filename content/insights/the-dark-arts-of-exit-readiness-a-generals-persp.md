@@ -1,9 +1,9 @@
 ---
 title: "The Dark Arts Of Exit Readiness: A GeneralS Persp"
 description: "The Dark Arts Of Exit Readiness: A GeneralS Persp"
-date: "2025-12-11"
+date: "2026-01-01"
 author: "Jonas Hyltén"
-slug: "the-dark-arts-of-exit-readiness:-a-general's-persp"
+slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
 keywords: "private credit, ABL, liquidity"
 ---
 

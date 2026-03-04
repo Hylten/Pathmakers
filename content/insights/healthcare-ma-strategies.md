@@ -1,9 +1,9 @@
 ---
 title: "Healthcare M&A Strategies"
 description: "Insights on Healthcare M&A Strategies from Roials Capital and Hyltén Invest."
-date: "2025-11-27"
+date: "2025-12-10"
 author: "Jonas Hyltén"
-slug: "healthcare-m&a-strategies"
+slug: "healthcare-ma-strategies"
 keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 

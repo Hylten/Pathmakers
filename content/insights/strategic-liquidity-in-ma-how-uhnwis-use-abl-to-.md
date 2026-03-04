@@ -1,9 +1,9 @@
 ---
 title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster"
 description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
-date: "2025-12-09"
+date: "2025-12-29"
 author: "Jonas Hyltén"
-slug: "strategic-liquidity-in-m&a:-how-uhnwis-use-abl-to-"
+slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-"
 keywords: "private credit, asset based liquidity engineering, Pathmaker"
 ---
 

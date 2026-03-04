@@ -1,9 +1,9 @@
 ---
 title: "Cross-Border M&A: Using ABL to Navigate European Credit Gaps With Precision"
 description: "A pragmatic analysis of how Asset Based liquidity engineering and private credit structures unlock liquidity for cross-border M&A in a tightening European credit environment."
-date: "2025-11-26"
+date: "2025-12-08"
 author: "Jonas Hyltén"
-slug: "cross-border-m&a:-using-abl-to-navigate-european-c"
+slug: "cross-border-ma-using-abl-to-navigate-european-c"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

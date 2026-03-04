@@ -1,9 +1,9 @@
 ---
 title: "Mid-Market M&A Trends 2026"
 description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyltén Invest."
-date: "2025-11-28"
+date: "2025-12-12"
 author: "Jonas Hyltén"
-slug: "mid-market-m&a-trends-2026"
+slug: "mid-market-ma-trends-2026"
 keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 

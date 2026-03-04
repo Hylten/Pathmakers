@@ -1,7 +1,7 @@
 ---
 title: "Precision Healthcare Carve-outs"
 description: "Insights on Precision Healthcare Carve-outs from Roials Capital and Hyltén Invest."
-date: "2025-12-04"
+date: "2025-12-21"
 author: "Jonas Hyltén"
 slug: "precision-healthcare-carve-outs"
 keywords: "private credit, asset based liquidity engineering, strategic capital"

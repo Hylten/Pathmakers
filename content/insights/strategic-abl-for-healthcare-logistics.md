@@ -1,7 +1,7 @@
 ---
 title: "Strategic ABL for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
 description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures."
-date: "2025-12-06"
+date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "strategic-abl-for-healthcare-logistics"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

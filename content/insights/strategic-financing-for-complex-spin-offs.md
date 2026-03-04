@@ -1,7 +1,7 @@
 ---
 title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
 description: "A deep analysis of liquidity engineering and asset based liquidity engineering solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
-date: "2025-12-07"
+date: "2025-12-25"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-complex-spin-offs"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
