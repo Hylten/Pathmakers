@@ -3,7 +3,7 @@ title: "The Pathmaker Approach to Asset-Based liquidity engineering: Structural 
 description: "A pragmatic breakdown of Pathmaker’s asset-based liquidity engineering framework for HNWI and UHNW investors seeking disciplined liquidity solutions across private credit, crypto, and public shares."
 date: "2025-12-13"
 author: "Jonas Hyltén"
-slug: "the-pathmaker-approach-to-asset-based-liquidityengineering"
+slug: "the-pathmaker-approach-to-asset-based-liquidity-engineering-structural-liquidity-for-serious-operato"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

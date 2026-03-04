@@ -1,9 +1,9 @@
 ---
 title: "Strategic Liquidity for Industrial Entities: A Pragmatic Framework for Serious Capital"
 description: "A high‑authority analysis of liquidity structuring, private credit, and asset based liquidity engineering for industrial entities seeking institutional grade optionality."
-date: "2025-12-08"
+date: "2025-12-09"
 author: "Jonas Hyltén"
-slug: "strategic-liquidity-for-industrial-entities"
+slug: "strategic-liquidity-for-industrial-entities-a-pragmatic-framework-for-serious-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

@@ -3,7 +3,7 @@ title: "The Role of ABL in Healthcare Carve-Outs: Liquidity Engineering for Seri
 description: "A tactical analysis of how asset based liquidity engineering drives liquidity, speed, and structural certainty in healthcare carve-outs for HNWI and UHNW investors."
 date: "2025-12-17"
 author: "Jonas Hyltén"
-slug: "the-role-of-abl-in-healthcare-carve-outs"
+slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

@@ -3,7 +3,7 @@ title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision"
 description: "A strategic deep dive into mid-market liquidity constraints and how ABL and private credit structures create durable optionality for HNWI and UHNW investors."
 date: "2025-11-29"
 author: "Jonas Hyltén"
-slug: "navigating-mid-market-liquidity-challenges"
+slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

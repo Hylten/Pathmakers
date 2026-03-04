@@ -3,7 +3,7 @@ title: "Unlocking Value in Healthcare Assets via Asset Based liquidity engineeri
 description: "A high authority analysis on using ABL to unlock liquidity from healthcare assets for sophisticated capital holders."
 date: "2025-12-20"
 author: "Jonas Hyltén"
-slug: "unlocking-value-in-healthcare-assets-via-abl"
+slug: "unlocking-value-in-healthcare-assets-via-asset-based-liquidity-engineering"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

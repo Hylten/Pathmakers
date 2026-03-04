@@ -3,7 +3,7 @@ title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI a
 description: "A strategic examination of liquidity pathways in healthcare using private credit and asset based liquidity engineering structures."
 date: "2025-11-29"
 author: "Jonas Hyltén"
-slug: "navigating-the-healthcare-credit-landscape"
+slug: "navigating-the-healthcare-credit-landscape-a-pragmatic-guide-for-hnwi-and-uhnw-investors"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 

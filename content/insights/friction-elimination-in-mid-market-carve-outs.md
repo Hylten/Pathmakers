@@ -1,7 +1,7 @@
 ---
 title: "Friction Elimination In Mid Market Carve Outs"
 description: "Friction Elimination In Mid Market Carve Outs"
-date: "2025-11-27"
+date: "2025-11-26"
 author: "Jonas Hyltén"
 slug: "friction-elimination-in-mid-market-carve-outs"
 keywords: "private credit, ABL, liquidity"

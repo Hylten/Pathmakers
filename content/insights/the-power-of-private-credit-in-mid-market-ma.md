@@ -1,7 +1,7 @@
 ---
 title: "The Power of Private Credit in Mid-Market M&A"
 description: "A strategic breakdown of liquidity and asset based liquidity engineering solutions for mid-market acquisitions and healthcare carve-outs."
-date: "2025-12-16"
+date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-mid-market-ma"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

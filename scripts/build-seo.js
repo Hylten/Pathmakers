@@ -38,7 +38,7 @@ async function generateSEO() {
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     // 1. Generate Index Page with Pre-rendered list (Fallback for JS failure)
-    let listHtml = '<div class="space-y-8">';
+    let listHtml = '<div style="display: flex; flex-direction: column; align-items: center; padding: 100px 24px; max-width: 1200px; margin: 0 auto;">';
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
@@ -46,14 +46,19 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Untitled';
         const description = data.description || '';
+        const date = data.date || 'Date Not Available';
 
         listHtml += `
-            <div style="padding: 2rem 0; border-bottom: 1px solid rgba(255,255,255,0.1)">
-                <a href="/Pathmakers/insights/${slug}/" style="text-decoration: none; color: inherit;">
-                    <h2 style="font-family: serif; font-size: 1.5rem; color: #e5e5e5; margin-bottom: 0.5rem;">${title}</h2>
-                    <p style="font-size: 0.875rem; color: #A1A1AA;">${description}</p>
+            <article style="margin-bottom: 400px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+                <div style="font-size: 14px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 60px; font-weight: 700;">${date}</div>
+                <a href="/Pathmakers/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
+                    <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #000000 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
+                    <p style="font-size: 1.5rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                    <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
+                        <span style="color: #B08D57; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Read Analysis</span>
+                    </div>
                 </a>
-            </div>`;
+            </article>`;
     }
     listHtml += '</div>';
 
@@ -94,9 +99,9 @@ async function generateSEO() {
         // Simple markdown pre-render (very basic)
         const contentHtml = `<div style="padding: 4rem 1rem; max-width: 800px; margin: 0 auto; color: #e5e5e5; font-family: sans-serif;">
             <h1 style="font-family: serif; font-size: 3rem; margin-bottom: 2rem;">${title}</h1>
-            <div style="line-height: 1.8; font-size: 1.1rem; color: #e5e5e5;">
-                ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 1.5rem;">${p}</p>` : '').join('')}
-            </div>
+                <div style="line-height: 2.1; font-size: 1.35rem; color: #374151 !important; font-weight: 300; width: 100%; max-width: 800px; text-align: left; margin: 0 auto;">
+                    ${content.split('\n\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
+                </div>
         </div>`;
 
         const articleHtml = baseHtml

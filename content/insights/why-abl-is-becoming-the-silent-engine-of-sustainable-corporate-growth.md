@@ -3,7 +3,7 @@ title: "Why ABL Is Becoming the Silent Engine of Sustainable Corporate Growth"
 description: "A strategic analysis of how liquidity, private credit, and ABL structures enable long-term stability for mid-market operators and HNWI investors."
 date: "2025-12-18"
 author: "Jonas Hyltén"
-slug: "the-role-of-abl-in-sustainable-corporate-growth"
+slug: "why-abl-is-becoming-the-silent-engine-of-sustainable-corporate-growth"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
