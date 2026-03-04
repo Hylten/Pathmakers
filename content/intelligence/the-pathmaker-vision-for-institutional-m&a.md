@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
 description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based lending for institutional M&A and healthcare carve-outs."
-date: "2026-03-04"
+date: "2025-12-30"
 author: "Roials Architect"
 slug: "the-pathmaker-vision-for-institutional-m&a"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

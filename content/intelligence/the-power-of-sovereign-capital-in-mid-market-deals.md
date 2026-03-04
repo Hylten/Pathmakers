@@ -1,7 +1,7 @@
 ---
 title: "The Power of Sovereign Capital in Mid-Market Deals"
 description: "A strategic examination of liquidity, private credit, and asset based lending in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
-date: "2026-03-04"
+date: "2026-01-01"
 author: "Roials Architect"
 slug: "the-power-of-sovereign-capital-in-mid-market-deals"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

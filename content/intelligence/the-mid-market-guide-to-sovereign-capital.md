@@ -1,7 +1,7 @@
 ---
 title: "The Mid-Market Guide to Sovereign Capital"
 description: "A strategic guide for HNWI and UHNW investors using private credit and asset based lending to unlock liquidity in the mid-market."
-date: "2026-03-04"
+date: "2025-12-25"
 author: "Roials Architect"
 slug: "the-mid-market-guide-to-sovereign-capital"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

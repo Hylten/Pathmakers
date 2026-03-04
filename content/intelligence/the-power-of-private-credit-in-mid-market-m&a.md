@@ -1,7 +1,7 @@
 ---
 title: "The Power of Private Credit in Mid-Market M&A"
 description: "A strategic breakdown of liquidity and asset based lending solutions for mid-market acquisitions and healthcare carve-outs."
-date: "2026-03-04"
+date: "2025-12-31"
 author: "Roials Architect"
 slug: "the-power-of-private-credit-in-mid-market-m&a"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

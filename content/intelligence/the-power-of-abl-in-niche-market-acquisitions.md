@@ -1,7 +1,7 @@
 ---
 title: "The Power of ABL in Niche Market Acquisitions"
 description: "How Asset Based Lending and private credit structures unlock liquidity for complex carve outs, niche acquisitions, and mid market transactions."
-date: "2026-03-04"
+date: "2025-12-31"
 author: "Roials Architect"
 slug: "the-power-of-abl-in-niche-market-acquisitions"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

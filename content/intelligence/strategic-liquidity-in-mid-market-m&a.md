@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity in Mid-Market M&A: The Silent Lever Behind Real Acquisition Power"
 description: "A pragmatic analysis of liquidity engineering in mid-market M&A, with a focus on private credit and asset based lending strategies for sophisticated buyers."
-date: "2026-03-04"
+date: "2025-12-23"
 author: "Roials Architect"
 slug: "strategic-liquidity-in-mid-market-m&a"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

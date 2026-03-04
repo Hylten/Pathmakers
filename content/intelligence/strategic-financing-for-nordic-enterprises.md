@@ -1,7 +1,7 @@
 ---
 title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision"
 description: "A high authority guide to liquidity solutions and asset based lending for Nordic enterprises seeking strategic capital."
-date: "2026-03-04"
+date: "2025-12-21"
 author: "Roials Architect"
 slug: "strategic-financing-for-nordic-enterprises"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border M&A: Using ABL to Navigate European Credit Gaps With Precision"
 description: "A pragmatic analysis of how Asset Based Lending and private credit structures unlock liquidity for cross-border M&A in a tightening European credit environment."
-date: "2026-03-04"
+date: "2025-12-09"
 author: "Roials Architect"
 slug: "cross-border-m&a:-using-abl-to-navigate-european-c"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

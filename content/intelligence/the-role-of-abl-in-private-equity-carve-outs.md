@@ -1,7 +1,7 @@
 ---
 title: "How ABL Reshapes Private Equity Carve-Outs in the Mid-Market"
 description: "A strategic analysis of how Asset-Based Lending delivers liquidity, speed, and structural leverage in private equity carve-outs."
-date: "2026-03-04"
+date: "2026-01-02"
 author: "Roials Architect"
 slug: "the-role-of-abl-in-private-equity-carve-outs"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

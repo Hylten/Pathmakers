@@ -1,3 +1,12 @@
+---
+title: "Using Precision Abl To Accelerate M&A And Carve Ou"
+description: "Using Precision Abl To Accelerate M&A And Carve Ou"
+date: "2026-01-06"
+author: "Roials Architect"
+slug: "using-precision-abl-to-accelerate-m&a-and-carve-ou"
+keywords: "liquidity, private credit, ABL"
+---
+
 # Using Precision ABL to Accelerate M&A and Carve Outs in Tight Liquidity Cycles
 
 Mid market M&A is rarely elegant in the current environment.  

@@ -1,12 +1,11 @@
 ---
-markdown
-
 title: "The Pathmaker Approach to Asset-Based Lending: Structural Liquidity for Serious Operators"
 description: "A pragmatic breakdown of Pathmaker’s asset-based lending framework for HNWI and UHNW investors seeking disciplined liquidity solutions across private credit, crypto, and public shares."
-date: "2026-03-04"
+date: "2025-12-26"
 author: "Roials Architect"
 slug: "the-pathmaker-approach-to-asset-based-lending"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+---
 
 # The Pathmaker Approach to Asset-Based Lending
 
@@ -279,4 +278,3 @@ We combine a battle tested approach with modern asset class expertise.
 The result is a lending model that works in real markets, not theoretical ones.
 
 # Book a strategic consultation
----

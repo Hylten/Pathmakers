@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Mid-Market Leaders"
 description: "A strategic deep dive into liquidity engineering, private credit lending, and asset based lending for mid‑market operators, HNWI, and UHNW decision makers."
-date: "2026-03-04"
+date: "2025-12-15"
 author: "Roials Architect"
 slug: "precision-financing-for-mid-market-leaders"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

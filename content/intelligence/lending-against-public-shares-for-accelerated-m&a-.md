@@ -1,7 +1,7 @@
 ---
 title: "Lending Against Public Shares for Accelerated M&A Closures"
 description: "Pathmaker provides liquidity through private credit and asset based lending, enabling HNWI and UHNW principals to accelerate M&A timelines using public share lending."
-date: "2026-03-04"
+date: "2025-12-11"
 author: "Roials Architect"
 slug: "lending-against-public-shares-for-accelerated-m&a-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

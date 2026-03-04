@@ -1,7 +1,7 @@
 ---
 title: "Using ABL to Unlock Growth in Mature Enterprises"
 description: "A strategic analysis of how Asset Based Lending and private credit structures unlock liquidity and expansion pathways for mature enterprises."
-date: "2026-03-04"
+date: "2026-01-06"
 author: "Roials Architect"
 slug: "using-abl-to-unlock-growth-in-mature-enterprises"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

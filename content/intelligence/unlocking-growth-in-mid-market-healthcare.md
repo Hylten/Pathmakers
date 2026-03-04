@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
 description: "A pragmatic analysis of liquidity, private credit, and asset based lending solutions for mid-market healthcare operators seeking growth and stability."
-date: "2026-03-04"
+date: "2026-01-04"
 author: "Roials Architect"
 slug: "unlocking-growth-in-mid-market-healthcare"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

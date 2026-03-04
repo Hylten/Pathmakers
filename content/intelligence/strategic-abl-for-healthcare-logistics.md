@@ -1,7 +1,7 @@
 ---
 title: "Strategic ABL for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
 description: "A high-level analysis of strategic liquidity and asset based lending solutions for healthcare logistics operators seeking institutional grade capital structures."
-date: "2026-03-04"
+date: "2025-12-19"
 author: "Roials Architect"
 slug: "strategic-abl-for-healthcare-logistics"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

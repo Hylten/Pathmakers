@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
 description: "A pragmatic guide to strategic liquidity using private credit and asset based lending for mid‑market M&A and healthcare carve‑outs."
-date: "2026-03-04"
+date: "2025-12-22"
 author: "Roials Architect"
 slug: "strategic-liquidity-for-m&a:-the-pathmaker-guide-t"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for Cross-Border Carve-Outs"
 description: "A pragmatic exploration of liquidity, private credit, and asset based lending for complex cross-border carve-outs."
-date: "2026-03-04"
+date: "2025-12-21"
 author: "Roials Architect"
 slug: "strategic-liquidity-for-cross-border-carve-outs"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

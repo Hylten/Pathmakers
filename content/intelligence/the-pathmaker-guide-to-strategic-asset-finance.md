@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Strategic Asset Finance"
 description: "A pragmatic guide to liquidity creation through private credit and asset based lending for HNWI and UHNW investors seeking institutional grade leverage strategies."
-date: "2026-03-04"
+date: "2025-12-29"
 author: "Roials Architect"
 slug: "the-pathmaker-guide-to-strategic-asset-finance"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

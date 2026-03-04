@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors"
 description: "A strategic examination of liquidity pathways in healthcare using private credit and asset based lending structures."
-date: "2026-03-04"
+date: "2025-12-12"
 author: "Roials Architect"
 slug: "navigating-the-healthcare-credit-landscape"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

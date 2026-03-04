@@ -1,7 +1,7 @@
 ---
 title: "Strategic Financing for Mid-Market Innovations"
 description: "A pragmatic exploration of liquidity and asset based lending solutions for mid-market operators seeking structural clarity and institutional grade execution."
-date: "2026-03-04"
+date: "2025-12-20"
 author: "Roials Architect"
 slug: "strategic-financing-for-mid-market-innovations"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

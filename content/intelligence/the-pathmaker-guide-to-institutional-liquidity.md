@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Institutional Liquidity"
 description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based lending for HNWI and UHNW clients."
-date: "2026-03-04"
+date: "2025-12-28"
 author: "Roials Architect"
 slug: "the-pathmaker-guide-to-institutional-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

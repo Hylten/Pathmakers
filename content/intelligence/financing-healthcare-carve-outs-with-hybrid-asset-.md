@@ -1,7 +1,7 @@
 ---
 title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
 description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and ABL structures supported by hybrid asset collateral."
-date: "2026-03-04"
+date: "2025-12-09"
 author: "Roials Architect"
 slug: "financing-healthcare-carve-outs-with-hybrid-asset-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

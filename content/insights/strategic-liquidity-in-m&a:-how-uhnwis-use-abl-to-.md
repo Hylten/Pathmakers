@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster"
 description: "A pragmatic breakdown of how UHNW investors use asset based lending to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
-date: "2026-03-04"
+date: "2025-12-07"
 author: "Roials Architect"
 slug: "strategic-liquidity-in-m&a:-how-uhnwis-use-abl-to-"
 keywords: "private credit, asset based lending, Pathmaker"

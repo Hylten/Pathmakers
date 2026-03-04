@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
 description: "A strategic exploration of liquidity, asset based lending, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
-date: "2026-03-04"
+date: "2025-12-08"
 author: "Roials Architect"
 slug: "building-operational-resilience-with-private-credi"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
