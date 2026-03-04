@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster"
-description: "A pragmatic breakdown of how UHNW investors use asset based lending to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
+description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
 date: "2025-12-29"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-m&a:-how-uhnwis-use-abl-to-"
-keywords: "private credit, asset based lending, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, Pathmaker"
 ---
 
 # Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster
@@ -19,9 +19,9 @@ Private equity continues to overpay.
 
 And healthcare carve-outs are getting more complex, not less.
 
-This is why sophisticated UHNW investors use a different playbook. They build strategic liquidity on demand. They treat capital as a precision tool. And increasingly, they use asset based lending to close faster than institutional buyers who are stuck in committee cycles.
+This is why sophisticated UHNW investors use a different playbook. They build strategic liquidity on demand. They treat capital as a precision tool. And increasingly, they use asset based liquidity engineering to close faster than institutional buyers who are stuck in committee cycles.
 
-This article breaks down how asset based lending becomes a competitive weapon, why it fits the realities of healthcare carve-outs, and how UHNW operators use private credit structures to compress timelines and take targets off the market before anyone else shows up with a term sheet.
+This article breaks down how asset based liquidity engineering becomes a competitive weapon, why it fits the realities of healthcare carve-outs, and how UHNW operators use private credit structures to compress timelines and take targets off the market before anyone else shows up with a term sheet.
 
   
 
@@ -37,7 +37,7 @@ They are trying to close.
 
 Closing requires liquidity that is portable, scalable, and insulated from lender mood swings.
 
-Asset based lending checks those boxes. Not because it is cheap. Not because it is glamorous. But because it is predictable. ABL is built on assets, not promises. For a buyer who needs certainty, that matters more than anything else.
+Asset based liquidity engineering checks those boxes. Not because it is cheap. Not because it is glamorous. But because it is predictable. ABL is built on assets, not promises. For a buyer who needs certainty, that matters more than anything else.
 
   
 

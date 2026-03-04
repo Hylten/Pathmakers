@@ -1,10 +1,10 @@
 ---
 title: "The Pathmaker Guide to Institutional Liquidity"
-description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based lending for HNWI and UHNW clients."
+description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2026-01-05"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-institutional-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Pathmaker Guide to Institutional Liquidity
@@ -56,7 +56,7 @@ The mid market, especially in healthcare carve outs, is unforgiving.
 
 Capital must be ready, collateral aware, and operationally aligned with the actual conditions of the transaction.  
 
-Pathmaker provides this alignment through private credit, asset based lending, crypto lending, and public share lending.  
+Pathmaker provides this alignment through private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering.  
 
 We serve HNWI and UHNW individuals who need institutional strength without institutional bureaucracy.  
 

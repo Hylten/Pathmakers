@@ -1,10 +1,10 @@
 ---
 title: "Strategic ABL for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
-description: "A high-level analysis of strategic liquidity and asset based lending solutions for healthcare logistics operators seeking institutional grade capital structures."
+description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures."
 date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "strategic-abl-for-healthcare-logistics"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic ABL for Healthcare Logistics
@@ -25,7 +25,7 @@ Cash flow timing does not match strategic intent.
 
   
 
-This is where strategic ABL becomes more than a loan. It becomes structural architecture.  
+This is where strategic ABL becomes more than a liquidity facility. It becomes structural architecture.  
 
   
 
@@ -33,11 +33,11 @@ Pathmaker was built for that architecture.
 
   
 
-We lend across Private Credit and Asset Based Lending.  
+We lend across Private Credit and Asset Based liquidity engineering.  
 
-We provide Crypto Lending with a minimum threshold of two million USD.  
+We provide Crypto liquidity engineering with a minimum threshold of two million USD.  
 
-We provide Public Share Lending with a minimum threshold of five million USD.  
+We provide Public Share liquidity engineering with a minimum threshold of five million USD.  
 
 We operate with silent authority, giving our clients the mechanics institutional capital expects without unnecessary noise.  
 
@@ -191,9 +191,9 @@ This precision keeps operators acquisition ready, operationally stable, and stra
 
 Without it, they will spend the next decade reacting instead of leading.  
 
-## Building a Liquidity Architecture Instead of a Loan Package
+## Building a Liquidity Architecture Instead of a liquidity facility Package
 
-A loan package is a one time fix.  
+A liquidity facility package is a one time fix.  
 
   
 
@@ -208,7 +208,7 @@ It integrates:
 
 • Private credit for structured growth.  
 
-• Crypto and public share lending for principal level acceleration.  
+• Crypto and public share liquidity engineering for principal level acceleration.  
 
   
 

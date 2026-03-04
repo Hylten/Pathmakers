@@ -1,10 +1,10 @@
 ---
 title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
-description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based lending for institutional M&A and healthcare carve-outs."
+description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs."
 date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-vision-for-institutional-m&a"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Pathmaker Vision for Institutional M&A  
@@ -53,7 +53,7 @@ Capital plus timing plus collateral comprehension plus execution reliability.
 Pathmaker is designed around this formula.  
 
 We focus on private credit.  
-We focus on asset based lending.  
+We focus on asset based liquidity engineering.  
 We provide mechanisms that institutional buyers can deploy with confidence, even in distressed or rapidly shifting conditions.  
 
 Silent Authority means we do not create noise.  
@@ -65,9 +65,9 @@ Precision Tools for Sophisticated Buyers
 
 Our platform is simple by design.  
 
-We offer three primary lending categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators.  
+We offer three primary liquidity engineering categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators.  
 
-### Private Credit Lending  
+### Private Credit liquidity engineering  
 Private credit is now the backbone of mid market M&A.  
 
 We lend against private credit positions with the clarity and pragmatism required in a market where valuations are no longer inflated by zero rate assumptions.  
@@ -76,8 +76,8 @@ Our underwriting philosophy is grounded in cash flow reality, not hypothetical f
 
 We finance the deal that exists, not the version the sell side pitched.  
 
-### Asset Based Lending  
-Asset based lending is experiencing a renaissance.  
+### Asset Based liquidity engineering  
+Asset based liquidity engineering is experiencing a renaissance.  
 
 In volatile markets, hard collateral outperforms narratives.  
 
@@ -89,7 +89,7 @@ The assets are often underutilized, mispriced, or misaligned within large parent
 
 We understand how to unlock that value.  
 
-### Crypto Lending  
+### Crypto liquidity engineering  
 Minimum threshold: 2 million.  
 
 Crypto remains misunderstood by most institutional buyers.  
@@ -100,7 +100,7 @@ Pathmaker lends in a way that respects the asset class without exaggerating it.
 
 This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure.  
 
-### Public Share Lending  
+### Public Share liquidity engineering  
 Minimum threshold: 5 million.  
 
 Public shares are an underleveraged asset class for UHNW individuals executing acquisitions.  
@@ -110,7 +110,7 @@ Their caution slows deals and forces buyers to either overcommit cash or overrea
 
 Pathmaker treats public equity as a flexible, strategic collateral layer, not a static investment.  
 
-When deployed correctly, public share lending can accelerate deal timelines, outperform traditional debt, and reduce closing friction.  
+When deployed correctly, public share liquidity engineering can accelerate deal timelines, outperform traditional debt, and reduce closing friction.  
 
 ## The Pathmaker Vision for Institutional M&A  
 A Playbook Built on Reality

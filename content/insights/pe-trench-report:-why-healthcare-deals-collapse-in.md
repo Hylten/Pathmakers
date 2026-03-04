@@ -319,8 +319,8 @@ Private credit remains active but selective.
 
 Thresholds:
 
-- Crypto backed lending. Minimum 2M.  
-- Public shares backed lending. Minimum 5M.
+- Crypto backed liquidity engineering. Minimum 2M.  
+- Public shares backed liquidity engineering. Minimum 5M.
 
 In both cases, lenders now request operational clarity from borrowers engaged in healthcare acquisitions.
 

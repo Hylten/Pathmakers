@@ -4,7 +4,7 @@ description: "Insights on Healthcare M&A Strategies from Roials Capital and Hylt
 date: "2025-12-10"
 author: "Jonas Hyltén"
 slug: "healthcare-m&a-strategies"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Healthcare M&A Strategies  

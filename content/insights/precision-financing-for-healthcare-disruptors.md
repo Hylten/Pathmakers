@@ -1,10 +1,10 @@
 ---
 title: "Precision Financing for Healthcare Disruptors"
-description: "A deep analysis of liquidity engineering and asset based lending structures purpose built for healthcare operators and investors requiring decisive private credit solutions."
+description: "A deep analysis of liquidity engineering and asset based liquidity engineering structures purpose built for healthcare operators and investors requiring decisive private credit solutions."
 date: "2025-12-19"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-healthcare-disruptors"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Precision Financing for Healthcare Disruptors
@@ -40,7 +40,7 @@ Through engineered capital structures that remove drag and reduce dependency on 
 
 Pathmaker focuses on this exact pressure band.
 
-We provide private credit and asset based lending that absorb volatility, protect the operator, and create the liquidity needed to move decisively in contested markets.
+We provide private credit and asset based liquidity engineering that absorb volatility, protect the operator, and create the liquidity needed to move decisively in contested markets.
 
 ## Structural Liquidity, Not Story-driven Capital
 
@@ -133,7 +133,7 @@ We lend against:
 
 This is liquidity that can be deployed with precision, discretion, and force.
 
-## Asset Based Lending With Real Teeth
+## Asset Based liquidity engineering With Real Teeth
 
 Healthcare operators often underestimate the power of ABL because most lenders in the space treat it as a formulaic product.  
 
@@ -160,16 +160,16 @@ ABL lets the operator:
 
 When operators control liquidity they control outcomes.
 
-## Crypto and Public Share Lending for High Net Worth Operators
+## Crypto and Public Share liquidity engineering for High Net Worth Operators
 
 Healthcare disruptors are increasingly diversified.  
 Many hold positions in crypto or public equities that are not liquid enough to use in real transactions without creating tax drag or market visibility.
 
 Pathmaker solves that constraint.
 
-Crypto lending requires a minimum threshold of two million dollars.  
+Crypto liquidity engineering requires a minimum threshold of two million dollars.  
 
-Public share lending requires a minimum threshold of five million dollars.
+Public share liquidity engineering requires a minimum threshold of five million dollars.
 
 These structures allow clients to maintain market exposure while unlocking immediate liquidity for acquisitions, carve-outs, or strategic stabilization.
 

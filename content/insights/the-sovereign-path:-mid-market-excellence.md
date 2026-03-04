@@ -1,10 +1,10 @@
 ---
 title: "The Sovereign Path: Mid-Market Excellence"
-description: "A pragmatic examination of liquidity, private credit, and asset based lending strategies for mid‑market operators and HNWI investors."
+description: "A pragmatic examination of liquidity, private credit, and asset based liquidity engineering strategies for mid‑market operators and HNWI investors."
 date: "2026-01-12"
 author: "Jonas Hyltén"
 slug: "the-sovereign-path:-mid-market-excellence"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Sovereign Path: Mid-Market Excellence
@@ -52,8 +52,8 @@ Mid‑market operators who endure are not the ones with the most optimistic proj
   
 
 Private credit establishes baseline power.  
-Asset based lending converts friction into fuel.  
-Crypto and public share lending add institutional options without institutional exposure.
+Asset based liquidity engineering converts friction into fuel.  
+Crypto and public share liquidity engineering add institutional options without institutional exposure.
 
   
 

@@ -4,7 +4,7 @@ description: "Insights on Operational Resilience in the Nordics from Roials Capi
 date: "2025-12-15"
 author: "Jonas Hyltén"
 slug: "operational-resilience-in-nordics"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Operational Resilience in the Nordics  

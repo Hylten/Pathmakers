@@ -1,10 +1,10 @@
 ---
 title: "The Power of Private Credit in Mid-Market M&A"
-description: "A strategic breakdown of liquidity and asset based lending solutions for mid-market acquisitions and healthcare carve-outs."
+description: "A strategic breakdown of liquidity and asset based liquidity engineering solutions for mid-market acquisitions and healthcare carve-outs."
 date: "2026-01-08"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-mid-market-m&a"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Power of Private Credit in Mid-Market M&A
@@ -47,7 +47,7 @@ Pathmaker exists to provide that capital with mechanical precision.
 
 ## Silent Authority in Action: Pathmaker’s Structural Advantage
 
-Pathmaker focuses on private credit and asset-based lending that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition.  
+Pathmaker focuses on private credit and asset-based liquidity engineering that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition.  
 
 We do not romanticize turnarounds.  
 
@@ -107,7 +107,7 @@ Pathmaker underwrites these factors with clarity and without hesitation.
 
   
 
-## Asset-Based Lending as a Precision Tool in M&A
+## Asset-Based liquidity engineering as a Precision Tool in M&A
 
 ABL is often misunderstood.  
 
@@ -189,7 +189,7 @@ Pathmaker provides a set of tightly defined capital products tailored for sophis
 
   
 
-### Private Credit Lending
+### Private Credit liquidity engineering
 
 We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints.  
 
@@ -197,7 +197,7 @@ Our private credit solutions are designed to match the real timeline of acquisit
 
   
 
-### Asset-Based Lending
+### Asset-Based liquidity engineering
 
 ABL is particularly effective in carve-outs and operationally transitional assets.  
 
@@ -205,7 +205,7 @@ We underwrite against inventory, receivables, equipment, and other tangible asse
 
   
 
-### Crypto Lending
+### Crypto liquidity engineering
 
 Minimum threshold: 2,000,000.
 
@@ -213,7 +213,7 @@ Ideal for high conviction buyers who maintain digital asset portfolios and want 
 
   
 
-### Public Share Lending
+### Public Share liquidity engineering
 
 Minimum threshold: 5,000,000.
 
@@ -302,7 +302,7 @@ It is a competitive edge.
 
 ## The Next 24 Months: A Window That Will Not Repeat Itself
 
-Regulatory tightening has created an artificial scarcity of traditional lending.  
+Regulatory tightening has created an artificial scarcity of traditional liquidity engineering.  
 This has shifted the market in favor of buyers with decisive access to private credit.  
 
 This window is finite.  

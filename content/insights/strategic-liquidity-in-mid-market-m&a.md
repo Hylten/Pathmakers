@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity in Mid-Market M&A: The Silent Lever Behind Real Acquisition Power"
-description: "A pragmatic analysis of liquidity engineering in mid-market M&A, with a focus on private credit and asset based lending strategies for sophisticated buyers."
+description: "A pragmatic analysis of liquidity engineering in mid-market M&A, with a focus on private credit and asset based liquidity engineering strategies for sophisticated buyers."
 date: "2025-12-29"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-mid-market-m&a"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Liquidity in Mid-Market M&A
@@ -25,16 +25,16 @@ In the mid‑market, especially in healthcare carve outs, the investor who contr
 
 ## The Additional Liquidity Channels
 
-### Crypto Lending
+### Crypto liquidity engineering
 
 Minimum threshold: 2,000,000 USD.  
 
-This is not retail lending.  
+This is not retail liquidity engineering.  
 This is not speculative.  
 
 It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force.
 
-### Public Share Lending
+### Public Share liquidity engineering
 
 Minimum threshold: 5,000,000 USD.  
 
@@ -129,7 +129,7 @@ A serious buyer evaluates what liquidity must be available at every milestone.
 
 Private credit positions become deployable capital.  
 
-Public shares are positioned for strategic lending rather than liquidation.  
+Public shares are positioned for strategic liquidity engineering rather than liquidation.  
 
 Crypto holdings are converted into non­correlated liquidity options.  
 
@@ -186,10 +186,10 @@ We are not a bank.
 We are not a fund.  
 We are a structural capital firm built for HNWI and UHNW investors who operate without the bureaucracy of institutions but with the precision of them.  
 
-Private Credit Lending.  
-Asset Based Lending.  
-Crypto Lending with a minimum of 2,000,000.  
-Public Share Lending with a minimum of 5,000,000.  
+Private Credit liquidity engineering.  
+Asset Based liquidity engineering.  
+Crypto liquidity engineering with a minimum of 2,000,000.  
+Public Share liquidity engineering with a minimum of 5,000,000.  
 
 These tools create strategic liquidity.  
 

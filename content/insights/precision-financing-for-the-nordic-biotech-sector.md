@@ -1,10 +1,10 @@
 ---
 title: "Precision Financing for the Nordic BioTech Sector"
-description: "A strategic deep dive into liquidity generation and asset based lending solutions tailored for Nordic BioTech operators and investors."
+description: "A strategic deep dive into liquidity generation and asset based liquidity engineering solutions tailored for Nordic BioTech operators and investors."
 date: "2025-12-20"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-the-nordic-biotech-sector"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Precision Financing for the Nordic BioTech Sector
@@ -27,7 +27,7 @@ Our role is to design the financial mechanics that allow HNWI and UHNW principal
 
 We operate in private credit.
 
-We operate in asset based lending.
+We operate in asset based liquidity engineering.
 
 We underwrite what others ignore.
 
@@ -35,13 +35,13 @@ The Nordic BioTech market is mature in sophistication, but fragmented in financi
 
 Pathmaker exists to bridge that structural fragmentation.
 
-## Crypto Lending: Minimum Threshold 2,000,000 USD
+## Crypto liquidity engineering: Minimum Threshold 2,000,000 USD
 
 A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
 
 These assets are often siloed, unused, and treated as dead capital during BioTech financing events.
 
-Pathmaker integrates crypto lending with a minimum threshold of 2 million USD.
+Pathmaker integrates crypto liquidity engineering with a minimum threshold of 2 million USD.
 
 This unlocks liquidity without forcing liquidation.
 
@@ -51,7 +51,7 @@ It is efficient.
 
 It does not create tax events.
 
-Crypto lending is not a gimmick.
+Crypto liquidity engineering is not a gimmick.
 
 It is a practical liquidity channel for principals who understand asset diversification and who want their balance sheet to function as a multi dimensional financing tool.
 
@@ -167,9 +167,9 @@ Private credit offers optionality.
 
 ABL offers optionality.
 
-Crypto lending offers optionality.
+Crypto liquidity engineering offers optionality.
 
-Public share lending offers optionality.
+Public share liquidity engineering offers optionality.
 
 In BioTech, optionality is survival.
 

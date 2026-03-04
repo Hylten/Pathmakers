@@ -4,7 +4,7 @@ description: "A strategic deep dive into mid-market liquidity constraints and ho
 date: "2025-12-13"
 author: "Jonas Hyltén"
 slug: "navigating-mid-market-liquidity-challenges"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Navigating Mid-Market Liquidity Challenges With Institutional Precision
@@ -63,7 +63,7 @@ We are not storytellers. We are mechanics.
 
 The value we create is structural.
 
-We lend against Private Credit and Asset Based Lending structures, engineered specifically for owners who have real assets, real operations, and real urgency.
+We lend against Private Credit and Asset Based liquidity engineering structures, engineered specifically for owners who have real assets, real operations, and real urgency.
 
 We position our capital quietly, without fanfare, with an institutional discipline that UHNW clients expect but rarely find outside formal private credit syndicates.
 
@@ -129,25 +129,25 @@ HNWI and UHNW investors attempting direct participation face barriers:
 
 Pathmaker bridges this gap.
 
-We allow sophisticated individuals to leverage institutional-grade lending frameworks.
+We allow sophisticated individuals to leverage institutional-grade liquidity engineering frameworks.
 
 We maintain silent authority. You remain the owner. The operator. The strategist.
 
 We supply the structural mechanics that institutional lenders take for granted, and private owners usually cannot access.
 
-## Crypto Lending for Serious Capital Holders
+## Crypto liquidity engineering for Serious Capital Holders
 
-Pathmaker does not participate in retail crypto lending.
+Pathmaker does not participate in retail crypto liquidity engineering.
 
 We operate only where the liquidity and asset scale justify institutional discipline.
 
-Our minimum threshold for crypto lending is 2,000,000 dollars.
+Our minimum threshold for crypto liquidity engineering is 2,000,000 dollars.
 
 This screens out speculative participants and ensures that the capital base is serious, sophisticated, and aligned with institutional expectations.
 
 Crypto liquidity can be an efficient tool when treated as collateral, not as a gamble.
 
-We structure crypto lending with the same rigor we apply to private credit and ABL.
+We structure crypto liquidity engineering with the same rigor we apply to private credit and ABL.
 
 No hype.
 
@@ -155,11 +155,11 @@ No theatrics.
 
 Simply capital against collateral.
 
-## Public Share Lending for Strategic Liquidity
+## Public Share liquidity engineering for Strategic Liquidity
 
 For clients who hold significant public positions, the largest mistake is allowing shares to sit idle while liquidity constraints tighten elsewhere.
 
-Pathmaker provides public share lending with a minimum threshold of 5,000,000 dollars.
+Pathmaker provides public share liquidity engineering with a minimum threshold of 5,000,000 dollars.
 
 This allows clients to unlock liquidity without premature liquidation and without broadcasting their moves to the market.
 
@@ -245,7 +245,7 @@ We engineer them.
 
 One of our central advantages is our ability to identify collateral streams that others miss.
 
-Mid-market companies often hold assets that have institutional lending value, yet remain inactive.
+Mid-market companies often hold assets that have institutional liquidity engineering value, yet remain inactive.
 
 Examples include:
 
@@ -257,7 +257,7 @@ Examples include:
 
 • Equipment with durable valuations
 
-• Public market positions suitable for securities lending
+• Public market positions suitable for securities liquidity engineering
 
 • Crypto assets qualifying under the 2,000,000 dollar threshold
 
@@ -325,7 +325,7 @@ They require layers of approval.
 
 They demand homogeneity.
 
-Pathmaker applies the discipline of institutional lending without the friction that restricts mid-market velocity.
+Pathmaker applies the discipline of institutional liquidity engineering without the friction that restricts mid-market velocity.
 
 Our focus is clarity.
 

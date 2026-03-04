@@ -1,10 +1,10 @@
 ---
 title: "Precision Liquidity for Mid-Market Carve-Outs"
-description: "A strategic deep dive into precision liquidity and asset based lending solutions for mid-market carve-outs and private credit transactions."
+description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions."
 date: "2025-12-22"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-mid-market-carve-outs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Precision Liquidity for Mid-Market Carve-Outs
@@ -119,18 +119,18 @@ Most capital providers want visibility.
 
 We want the mechanics.  
 
-And this is why our mandates consistently include private credit structures, asset based lending, and liquidity solutions for sophisticated individuals who require silent authority rather than loud branding.
+And this is why our mandates consistently include private credit structures, asset based liquidity engineering, and liquidity solutions for sophisticated individuals who require silent authority rather than loud branding.
 
-## Lending Against Private Credit Positions
+## liquidity engineering Against Private Credit Positions
 
 HNWI and UHNW investors increasingly hold meaningful private credit exposure.  
 These positions are valuable, yet they are rarely liquid.
 
-Traditional lenders generally avoid lending against private credit because the collateral is perceived as illiquid and difficult to value.  
+Traditional lenders generally avoid liquidity engineering against private credit because the collateral is perceived as illiquid and difficult to value.  
 We do not avoid it.  
 We model it.
 
-Precision liquidity in this context means structuring lending that recognizes:
+Precision liquidity in this context means structuring liquidity engineering that recognizes:
 
 • Covenant strength  
 • Maturity timelines  
@@ -139,9 +139,9 @@ Precision liquidity in this context means structuring lending that recognizes:
 
 For investors participating in mid-market carve-outs, this type of liquidity is critical. It frees capital locked in strong but inactive private credit positions and redeploys it into the active transaction.
 
-## Asset Based Lending for Carve-Out Stabilization
+## Asset Based liquidity engineering for Carve-Out Stabilization
 
-Asset based lending is not a fallback solution.  
+Asset based liquidity engineering is not a fallback solution.  
 
 When executed correctly, it is the cleanest form of transaction liquidity.
 
@@ -160,16 +160,16 @@ And assets, when correctly structured, do not lie.
 
 This creates reliability in environments where the operational narrative is shifting rapidly, which is precisely what occurs in mid-market carve-outs.
 
-## Public Share Lending for High Net Worth Clients
+## Public Share liquidity engineering for High Net Worth Clients
 
-Public share lending is a precision tool for liquidity acceleration.  
+Public share liquidity engineering is a precision tool for liquidity acceleration.  
 It is not for entry-level investors, and it is not designed for small balances.
 
 Our minimum threshold is five million dollars.  
 
 This ensures the collateral base is large enough to support sophisticated liquidity strategies while maintaining structural integrity.
 
-HNWI and UHNW individuals leverage public share lending when they need:
+HNWI and UHNW individuals leverage public share liquidity engineering when they need:
 
 • Immediate liquidity without liquidating positions  
 • Capital for acquisitions  
@@ -178,13 +178,13 @@ HNWI and UHNW individuals leverage public share lending when they need:
 
 The value lies in not disturbing the portfolio while still activating its economic strength.
 
-## Crypto Lending as a Collateral Source for Serious Investors
+## Crypto liquidity engineering as a Collateral Source for Serious Investors
 
-Crypto lending is often misunderstood.  
+Crypto liquidity engineering is often misunderstood.  
 It is not retail-level speculation.  
 It is a collateral class like any other, provided the lender knows how to quantify and secure it.
 
-Our minimum threshold for crypto lending is two million dollars.  
+Our minimum threshold for crypto liquidity engineering is two million dollars.  
 
 This aligns the structure with investors who treat digital assets as a component of a diversified balance sheet rather than as a lottery ticket.
 
@@ -239,10 +239,10 @@ They need clarity, discretion, and precision infrastructure.
 
 Pathmaker provides:
 
-• Lending against private credit positions  
-• Robust asset based lending structures  
-• Public share lending with thresholds starting at five million  
-• Crypto lending starting at two million  
+• liquidity engineering against private credit positions  
+• Robust asset based liquidity engineering structures  
+• Public share liquidity engineering with thresholds starting at five million  
+• Crypto liquidity engineering starting at two million  
 • Strategic liquidity engineering for carve-outs and acquisitions  
 • Institutional-grade structuring without institutional bureaucracy  
 
@@ -271,7 +271,7 @@ They reward engineered liquidity tied directly to the value of the assets at han
 
 This is Pathmaker’s operational territory.  
 We structure liquidity for HNWI and UHNW investors who operate in the mid-market, including healthcare carve-outs and complex divestitures.  
-We lend against private credit, design asset based lending architectures, and activate public share and crypto-backed liquidity at meaningful thresholds.
+We lend against private credit, design asset based liquidity engineering architectures, and activate public share and crypto-backed liquidity at meaningful thresholds.
 
 If you need liquidity that behaves with purpose, precision, and silent authority, we align with that mandate.
 

@@ -1,10 +1,10 @@
 ---
 title: "Strategic Financing for Mid-Market Innovations"
-description: "A pragmatic exploration of liquidity and asset based lending solutions for mid-market operators seeking structural clarity and institutional grade execution."
+description: "A pragmatic exploration of liquidity and asset based liquidity engineering solutions for mid-market operators seeking structural clarity and institutional grade execution."
 date: "2025-12-26"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-mid-market-innovations"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Financing for Mid-Market Innovations
@@ -19,7 +19,7 @@ Pathmaker operates inside that pressure.
 
 We are built for HNWI and UHNW decision makers who require institutional depth without institutional bureaucracy.  
 
-We provide private credit and asset based lending solutions that function as structural leverage, not cosmetic liquidity.  
+We provide private credit and asset based liquidity engineering solutions that function as structural leverage, not cosmetic liquidity.  
 
 ## The New Reality of Mid-Market Capital Constraints
 
@@ -43,7 +43,7 @@ The gap between those two realities is where deals stall, acquisitions die, and 
 
 Pathmaker exists to close that gap with structural clarity, not optimism.  
 
-## Why Asset Based Lending Is Becoming the Core of Middle Market Liquidity
+## Why Asset Based liquidity engineering Is Becoming the Core of Middle Market Liquidity
 
 ABL is rising because it is quantifiable, consistent, and immune to market gossip.  
 
@@ -66,7 +66,7 @@ Nothing romantic.
 
 No turnaround mythology.  
 
-Just disciplined lending against assets that hold value regardless of market mood.  
+Just disciplined liquidity engineering against assets that hold value regardless of market mood.  
 
 ## Private Credit for Operators Who Need Structural Velocity
 
@@ -102,15 +102,15 @@ Traditional credit lines and banking products are insufficient for the scale, ve
 
 Pathmaker provides three pillars of specialized liquidity:  
 
-### 1. Private Credit Lending  
+### 1. Private Credit liquidity engineering  
 Used for acquisitions, recapitalizations, opportunistic buys, distressed transitions, and accelerated deployment.  
 
-### 2. Asset Based Lending  
+### 2. Asset Based liquidity engineering  
 Grounded in collateral strength and operational integrity.  
 Ideal for healthcare operators with clean receivables or tangible asset value.  
 
-### 3. Alternative Collateral Lending  
-This category includes crypto lending with a minimum threshold of 2 million dollars, and public share lending with a minimum threshold of 5 million dollars.  
+### 3. Alternative Collateral liquidity engineering  
+This category includes crypto liquidity engineering with a minimum threshold of 2 million dollars, and public share liquidity engineering with a minimum threshold of 5 million dollars.  
 Each option is structured to provide discreet liquidity without forced liquidation.  
 
 These tools provide optionality in environments where timing dictates success more than strategy.  
@@ -187,11 +187,11 @@ Market timing risk is visible.
 
 Pathmaker structures non-liquidating liquidity solutions:  
 
-### Crypto Lending  
+### Crypto liquidity engineering  
 Minimum threshold: 2 million dollars.  
 Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events.  
 
-### Public Share Lending  
+### Public Share liquidity engineering  
 Minimum threshold: 5 million dollars.  
 Ideal for founders, executives, and investors with concentrated equity positions who require capital for acquisitions or portfolio expansion.  
 
@@ -214,7 +214,7 @@ Competitors react.
 Assets deteriorate.  
 Talent leaves.  
 
-Pathmaker lending removes that lag.  
+Pathmaker liquidity engineering removes that lag.  
 
 Private credit and ABL give leaders the ability to execute at the speed their strategy requires.  
 
@@ -249,9 +249,9 @@ Pathmaker provides the capital architecture required to stay on the winning side
 
 Private credit.  
 
-Asset based lending.  
+Asset based liquidity engineering.  
 
-Crypto and public share lending for large, concentrated positions.  
+Crypto and public share liquidity engineering for large, concentrated positions.  
 
 Institutional mechanics for private wealth operators who need clean, reliable execution.  
 

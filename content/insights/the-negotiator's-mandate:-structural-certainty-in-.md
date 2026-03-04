@@ -138,8 +138,8 @@ HNWI and UHNW families gravitate to private credit because it expresses:
 - Alignment with conservative values  
 
 The requirements are clear.  
-Crypto backed lending begins at 2 million.  
-Public share lending begins at 5 million.  
+Crypto backed liquidity engineering begins at 2 million.  
+Public share liquidity engineering begins at 5 million.  
 Borrowers who understand stewardship qualify.  
 Borrowers who rely on sentiment do not.
 

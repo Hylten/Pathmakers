@@ -4,7 +4,7 @@ description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Ma
 date: "2025-12-16"
 author: "Jonas Hyltén"
 slug: "operational-resilience"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs  

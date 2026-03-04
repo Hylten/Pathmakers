@@ -1,17 +1,17 @@
 ---
-title: "Unlocking Value in Healthcare Assets via Asset Based Lending"
+title: "Unlocking Value in Healthcare Assets via Asset Based liquidity engineering"
 description: "A high authority analysis on using ABL to unlock liquidity from healthcare assets for sophisticated capital holders."
 date: "2026-01-14"
 author: "Jonas Hyltén"
 slug: "unlocking-value-in-healthcare-assets-via-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
-# Unlocking Value in Healthcare Assets via Asset Based Lending
+# Unlocking Value in Healthcare Assets via Asset Based liquidity engineering
 
 Healthcare assets look stable from a distance. From the inside, they are a maze of reimbursement cycles, fragmented revenue streams, delayed cash flows, and complex vendor ecosystems.
 
-This is precisely why the mid‑market continues to misprice operational friction. It is also why Asset Based Lending, combined with private credit intelligence, is quietly becoming the preferred liquidity engine for sophisticated owners and acquisitive families.
+This is precisely why the mid‑market continues to misprice operational friction. It is also why Asset Based liquidity engineering, combined with private credit intelligence, is quietly becoming the preferred liquidity engine for sophisticated owners and acquisitive families.
 
 At Pathmaker, we operate in this world without theatrics. Silent authority. Structural mechanics. Capital that behaves like a scalpel, not a sledgehammer.
 
@@ -43,7 +43,7 @@ Carve outs from private equity or corporate parents tend to fall into three cate
 
 In each of these cases, liquidity is the negotiation lever. Buyers need it to stabilize operations, manage run rate changes, and build autonomy from the parent. Sellers use it to justify valuation or to accelerate exit timelines.
 
-Asset Based Lending provides a neutral, reliable liquidity layer that bypasses emotional negotiations and anchors the transaction with data instead of noise.
+Asset Based liquidity engineering provides a neutral, reliable liquidity layer that bypasses emotional negotiations and anchors the transaction with data instead of noise.
 
 ## Why ABL Fits the Healthcare Carve Out Cadence
 
@@ -99,11 +99,11 @@ Our offering includes:
 
 Private Credit.
 
-Asset Based Lending.
+Asset Based liquidity engineering.
 
-Crypto backed lending with a minimum threshold of two million dollars.
+Crypto backed liquidity engineering with a minimum threshold of two million dollars.
 
-Public share lending with a minimum threshold of five million dollars.
+Public share liquidity engineering with a minimum threshold of five million dollars.
 
 Everything we do is designed to preserve optionality and protect the dignity of serious capital.
 
@@ -231,7 +231,7 @@ ABL for collateral based liquidity.
 
 Private credit for strategic, situation specific liquidity.
 
-Digital asset and public share lending for opportunistic liquidity events, respecting the minimum thresholds of two million dollars for crypto and five million dollars for public shares.
+Digital asset and public share liquidity engineering for opportunistic liquidity events, respecting the minimum thresholds of two million dollars for crypto and five million dollars for public shares.
 
 This hybrid structure allows investors to move like institutions without adopting institutional bureaucracy.
 

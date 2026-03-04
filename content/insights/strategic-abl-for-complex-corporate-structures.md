@@ -1,10 +1,10 @@
 ---
 title: "Strategic ABL for Complex Corporate Structures"
-description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based Lending for complex corporate structures and mid‑market transactions."
+description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based liquidity engineering for complex corporate structures and mid‑market transactions."
 date: "2025-12-23"
 author: "Jonas Hyltén"
 slug: "strategic-abl-for-complex-corporate-structures"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic ABL for Complex Corporate Structures
@@ -31,7 +31,7 @@ Institutional credit committees avoid anything that is not linear.
 
 Which means liquidity dries up at the moment it is needed most.
 
-Asset Based Lending works differently.  
+Asset Based liquidity engineering works differently.  
 
 The structure focuses on assets, not aesthetics.  
 
@@ -61,7 +61,7 @@ This creates misalignment between operational control and asset ownership.
 
 The result is liquidity paralysis at the exact point when speed is needed.
 
-ABL breaks the paralysis because the structure isolates the assets and builds lending mechanics around them.  
+ABL breaks the paralysis because the structure isolates the assets and builds liquidity engineering mechanics around them.  
 
 ### 2. Multi Subsidiary Roll Ups
 
@@ -87,7 +87,7 @@ They also create headaches for lenders who do not know how to collateralize asse
 
 ABL allows segmentation.  
 
-Instead of lending into the entire corporate universe, capital is deployed against the specific assets that meet criteria.  
+Instead of liquidity engineering into the entire corporate universe, capital is deployed against the specific assets that meet criteria.  
 
 Everything else stays segregated.
 
@@ -97,11 +97,11 @@ Crypto is no longer fringe among UHNW and HNWI operators.
 
 However, institutional lenders still lack frameworks for hybrid corporate and digital asset balance sheets.  
 
-Pathmaker fills this gap with crypto lending starting at a minimum threshold of 2,000,000.  
+Pathmaker fills this gap with crypto liquidity engineering starting at a minimum threshold of 2,000,000.  
 
 This becomes a liquidity bridge that does not require liquidation of volatile positions.  
 
-### 5. Public Share Lending Within Operating Groups
+### 5. Public Share liquidity engineering Within Operating Groups
 
 Executives, founders, and family offices often hold public shares that could be leveraged to accelerate corporate decisions.  
 
@@ -139,7 +139,7 @@ The following elements differentiate a tactical line of credit from a strategic 
 
 In complex corporate structures, isolation is power.  
 
-Pathmaker builds ring fenced lending structures so the collateral is fully separated from operational chaos.  
+Pathmaker builds ring fenced liquidity engineering structures so the collateral is fully separated from operational chaos.  
 
 This is especially valuable in carve outs or partial spin outs where control is split between parties.
 
@@ -162,11 +162,11 @@ Rather than simple advances, we build release structures that match transaction 
 
 This protects deal momentum and reduces the operational drag that often kills mid market transactions.
 
-### Multi Asset Lending Capability
+### Multi Asset liquidity engineering Capability
 
 Pathmaker does not require you to choose one asset class.  
 
-A single lending structure can incorporate:
+A single liquidity engineering structure can incorporate:
 
 - Operating assets  
 - Inventory  
@@ -233,7 +233,7 @@ You know where the value is.
 
 But until the new entity stabilizes, cash flow is unreliable.  
 
-ABL bridges this period by anchoring the loan to the assets instead of the transitional noise.
+ABL bridges this period by anchoring the liquidity facility to the assets instead of the transitional noise.
 
 ### Situations With Incomplete Financials
 
@@ -272,7 +272,7 @@ ABL becomes a strategic tool for those who understand that retaining assets whil
 
 ## What Pathmaker Actually Does
 
-We provide private credit structures grounded in asset based lending.  
+We provide private credit structures grounded in asset based liquidity engineering.  
 
 We deliver liquidity without drama.  
 
@@ -298,7 +298,7 @@ Below are the most common scenarios where clients use Pathmaker.
 
 ### To Acquire a Business Without Over Leveraging the Parent
 
-By lending against subsidiary assets, we prevent the parent company from absorbing unnecessary risk.  
+By liquidity engineering against subsidiary assets, we prevent the parent company from absorbing unnecessary risk.  
 
 ### To Smooth Liquidity During M&A Diligence
 
@@ -308,13 +308,13 @@ ABL provides liquidity so the operator can address issues quickly instead of los
 
 ### To Unlock Value From Public Shares
 
-When strategic decisions require immediate capital, our public share lending starting at 5,000,000 becomes a fast and silent liquidity mechanism.
+When strategic decisions require immediate capital, our public share liquidity engineering starting at 5,000,000 becomes a fast and silent liquidity mechanism.
 
 ### To Leverage Crypto Without Selling
 
 Selling crypto can trigger tax events or disrupt long term strategies.  
 
-A crypto backed loan at 2,000,000 or more preserves both strategy and liquidity.
+A crypto backed liquidity facility at 2,000,000 or more preserves both strategy and liquidity.
 
 ## The Quiet Advantage
 
@@ -332,9 +332,9 @@ Our mechanics stay in the background.
 
 Complex corporate structures are not liabilities.  
 
-They are opportunities for strategic capital deployment when the right lending framework exists.  
+They are opportunities for strategic capital deployment when the right liquidity engineering framework exists.  
 
-Pathmaker provides that framework through private credit and asset based lending designed for operators who cannot afford slow decision making or naive interpretations of risk.
+Pathmaker provides that framework through private credit and asset based liquidity engineering designed for operators who cannot afford slow decision making or naive interpretations of risk.
 
 If you require liquidity without noise, judgment, or unnecessary exposure, you are in the right place.
 

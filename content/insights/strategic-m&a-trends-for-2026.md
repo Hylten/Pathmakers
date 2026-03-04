@@ -1,10 +1,10 @@
 ---
 title: "Strategic M&A Trends for 2026: What Serious Buyers Need to Prepare For"
-description: "A pragmatic analysis of 2026 M&A trends with focus on liquidity, private credit, and asset based lending structures for decisive mid‑market operators."
+description: "A pragmatic analysis of 2026 M&A trends with focus on liquidity, private credit, and asset based liquidity engineering structures for decisive mid‑market operators."
 date: "2025-12-30"
 author: "Jonas Hyltén"
 slug: "strategic-m&a-trends-for-2026"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic M&A Trends for 2026
@@ -43,7 +43,7 @@ The buyers who will outperform the market already understand that precision, liq
 
 Private credit is the backbone.  
 ABL is the stabilizer.  
-Specialized liquidity tools like crypto lending and public share lending are strategic accelerators for buyers operating at scale.  
+Specialized liquidity tools like crypto liquidity engineering and public share liquidity engineering are strategic accelerators for buyers operating at scale.  
 
 Pathmaker sits inside this environment, engineering the mechanical structures that allow institutional grade capital to move quietly and decisively.  
 

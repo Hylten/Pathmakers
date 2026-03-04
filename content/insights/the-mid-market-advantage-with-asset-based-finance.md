@@ -1,10 +1,10 @@
 ---
 title: "The Mid-Market Advantage with Asset-Based Finance"
-description: "Explore how asset based lending and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision."
+description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision."
 date: "2026-01-01"
 author: "Jonas Hyltén"
 slug: "the-mid-market-advantage-with-asset-based-finance"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Mid-Market Advantage with Asset-Based Finance
@@ -19,7 +19,7 @@ In this environment, liquidity is not a philosophical construct.
 
 It is oxygen. 
 
-Pathmaker specializes in providing that oxygen through private credit and asset based lending structures. 
+Pathmaker specializes in providing that oxygen through private credit and asset based liquidity engineering structures. 
 
 We operate with silent authority, offering institutional mechanics without requiring institutional bureaucracy. 
 
@@ -47,15 +47,15 @@ We trade in structure.
 
 Our focus is on:
 
-• Asset based lending anchored in real collateral value.  
+• Asset based liquidity engineering anchored in real collateral value.  
 
 • Private credit solutions for timeline constrained operators.  
 
-• Lending structures built specifically for HNWI and UHNW balance sheets.  
+• liquidity engineering structures built specifically for HNWI and UHNW balance sheets.  
 
-• Crypto lending starting at 2,000,000.  
+• Crypto liquidity engineering starting at 2,000,000.  
 
-• Public share lending starting at 5,000,000.  
+• Public share liquidity engineering starting at 5,000,000.  
 
 • Transactional support for mid market M&A and healthcare carve outs where timing is survival.  
 

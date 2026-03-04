@@ -1,10 +1,10 @@
 ---
 title: "The Mid-Market Guide to Sovereign Capital"
-description: "A strategic guide for HNWI and UHNW investors using private credit and asset based lending to unlock liquidity in the mid-market."
+description: "A strategic guide for HNWI and UHNW investors using private credit and asset based liquidity engineering to unlock liquidity in the mid-market."
 date: "2026-01-02"
 author: "Jonas Hyltén"
 slug: "the-mid-market-guide-to-sovereign-capital"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Mid-Market Guide to Sovereign Capital
@@ -43,7 +43,7 @@ For mid‑market dealmakers, sovereignty emerges when you control your liquidity
 
 When you can use private credit.  
 
-When you can use asset based lending.  
+When you can use asset based liquidity engineering.  
 
 When you can collateralize holdings across non correlated buckets like crypto or publicly traded stock.  
 
@@ -96,9 +96,9 @@ Mid‑market operators do not lose deals because capital is expensive. They lose
 
 Private credit removes the lag.  
 
-## Asset Based Lending as a Sovereign Tool
+## Asset Based liquidity engineering as a Sovereign Tool
 
-Asset based lending rewrites the risk landscape for HNWI and UHNW individuals.  
+Asset based liquidity engineering rewrites the risk landscape for HNWI and UHNW individuals.  
 
 Where banks see exposure, ABL sees collateral.  
 
@@ -122,7 +122,7 @@ It is a mechanics based tool that gives buyers and operators time, space, and le
 
 ## The Three Collateral Buckets That Create HNWI Sovereignty
 
-Pathmaker focuses on three advanced collateral lending categories.
+Pathmaker focuses on three advanced collateral liquidity engineering categories.
 
 Each is designed for investors with real balance sheet complexity and non linear liquidity patterns.
 
@@ -134,11 +134,11 @@ It is engineered for deal flow, acquisitions, carve outs, and operational transi
 
 It allows investors to maintain strategic control without dilution.
 
-### 2. Crypto Lending
+### 2. Crypto liquidity engineering
 
 Minimum threshold is 2,000,000 USD.  
 
-Crypto lending is not for speculation. It is for liquidity extraction.  
+Crypto liquidity engineering is not for speculation. It is for liquidity extraction.  
 
 HNWI and UHNW investors often have large unrealized gains in digital assets.  
 
@@ -152,17 +152,17 @@ Used incorrectly, it becomes an exposure.
 
 Pathmaker only participates when the investor has institutional grade custody, asset allocation discipline, and a non emotional approach to digital markets.
 
-### 3. Public Share Lending
+### 3. Public Share liquidity engineering
 
 Minimum threshold is 5,000,000 USD.  
 
-Public share lending is the most underutilized liquidity channel in the HNWI space.  
+Public share liquidity engineering is the most underutilized liquidity channel in the HNWI space.  
 
 It allows investors to access cash without liquidating positions and without triggering tax events.  
 
 This is especially valuable when managing multi year acquisition strategies or complex mid-market rollups.  
 
-Public share lending is sovereignty at scale.  
+Public share liquidity engineering is sovereignty at scale.  
 
 It allows high net worth buyers to act like institutional funds while staying privately controlled.
 
@@ -201,7 +201,7 @@ A sovereign stack for mid‑market acquisitions usually contains:
 - ABL as the working liquidity engine  
 - Private credit as the strategic core  
 - Optional crypto based credit for incremental liquidity  
-- Optional public share lending for balance sheet optimization  
+- Optional public share liquidity engineering for balance sheet optimization  
 - Personal reserves untouched  
 - Long term assets preserved from forced liquidation  
 
@@ -263,7 +263,7 @@ Rates increased.
 
 Liquidity dried.
 
-Now the smart money is returning to collateral based lending because it offers:
+Now the smart money is returning to collateral based liquidity engineering because it offers:
 
 - predictable structure  
 - rapid underwriting  

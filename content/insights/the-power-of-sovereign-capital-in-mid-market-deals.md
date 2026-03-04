@@ -1,10 +1,10 @@
 ---
 title: "The Power of Sovereign Capital in Mid-Market Deals"
-description: "A strategic examination of liquidity, private credit, and asset based lending in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
+description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
 date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "the-power-of-sovereign-capital-in-mid-market-deals"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Power of Sovereign Capital in Mid-Market Deals
@@ -75,9 +75,9 @@ Only leverage.
 
 Only execution.  
 
-## The Precision of Asset Based Lending
+## The Precision of Asset Based liquidity engineering
 
-Asset Based Lending, fundamentally, is the purest form of underwriting.  
+Asset Based liquidity engineering, fundamentally, is the purest form of underwriting.  
 
 It strips away narratives.  
 
@@ -107,7 +107,7 @@ For UHNW buyers operating through family vehicles or private holdcos, liquidity 
 
 ABL ensures they do not lose simply because conventional lenders require months of audits before releasing capital.  
 
-## Crypto Lending for the New-Class Wealth Holder
+## Crypto liquidity engineering for the New-Class Wealth Holder
 
 Digital wealth is no longer fringe.  
 
@@ -117,7 +117,7 @@ But most holders still face a structural problem.
 
 They cannot access liquidity without selling.  
 
-Pathmaker offers crypto lending with a minimum threshold of two million dollars.  
+Pathmaker offers crypto liquidity engineering with a minimum threshold of two million dollars.  
 
 This is deliberate.  
 
@@ -135,17 +135,17 @@ It is about making an acquisition without sacrificing long horizon digital expos
 
 In mid-market healthcare deals, that flexibility is often the difference between closing and being pushed aside by a more liquid buyer.  
 
-## Public Share Lending for Tactical Liquidity Release
+## Public Share liquidity engineering for Tactical Liquidity Release
 
 Public equities remain the foundational asset for many HNWI and UHNW investors.  
 
 But liquidity locked in concentrated stock positions can create friction.  
 
-Pathmaker provides public share lending with a five million dollar minimum.  
+Pathmaker provides public share liquidity engineering with a five million dollar minimum.  
 
 This is not margin.  
 
-It is structured lending engineered to release liquidity without creating unwanted tax events or dilution.  
+It is structured liquidity engineering engineered to release liquidity without creating unwanted tax events or dilution.  
 
 For investors preparing to acquire a mid-market target, especially a healthcare carve out, this form of liquidity offers an elegant solution.  
 

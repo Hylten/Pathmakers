@@ -4,7 +4,7 @@ description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyl
 date: "2025-12-12"
 author: "Jonas Hyltén"
 slug: "mid-market-m&a-trends-2026"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Mid-Market M&A Trends 2026  
@@ -86,7 +86,7 @@ The shift is simple. Instead of looking for upside, buyers are pricing downside 
 
   
   
-### Lending Environment  
+### liquidity engineering Environment  
 Debt is still available for quality assets. But lenders are enforcing discipline that some sellers are not yet comfortable with.  
 
   

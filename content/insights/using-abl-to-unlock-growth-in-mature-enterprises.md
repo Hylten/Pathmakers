@@ -1,10 +1,10 @@
 ---
 title: "Using ABL to Unlock Growth in Mature Enterprises"
-description: "A strategic analysis of how Asset Based Lending and private credit structures unlock liquidity and expansion pathways for mature enterprises."
+description: "A strategic analysis of how Asset Based liquidity engineering and private credit structures unlock liquidity and expansion pathways for mature enterprises."
 date: "2026-01-14"
 author: "Jonas Hyltén"
 slug: "using-abl-to-unlock-growth-in-mature-enterprises"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Using ABL to Unlock Growth in Mature Enterprises
@@ -15,7 +15,7 @@ They fail because they run out of liquidity at the moment when precision, speed,
 
 This is especially visible in mid market M and A and in the healthcare carve out ecosystem where delays, reimbursement cycles, and acquisition friction expose the fragility of traditional credit structures.  
 
-Asset Based Lending, when engineered correctly, solves this structural fragility.  
+Asset Based liquidity engineering, when engineered correctly, solves this structural fragility.  
 
 Not by offering cheap capital.  
 
@@ -49,7 +49,7 @@ Collateral parameters that do not match real world volatility.
 
 When a seasoned operator in healthcare or industrial services hears the phrase standard underwriting they know to expect a multi month decision cycle and a structure that does not bend.  
 
-This is the moment where Asset Based Lending becomes the pragmatic tool for growth rather than an emergency tool for distress.  
+This is the moment where Asset Based liquidity engineering becomes the pragmatic tool for growth rather than an emergency tool for distress.  
 
 ## ABL as a Growth Instrument
 
@@ -79,9 +79,9 @@ Even crypto and public shares, although these require specialized underwriting a
 
 For Pathmaker that threshold is explicit.  
 
-Crypto lending requires a minimum of 2 million dollars.  
+Crypto liquidity engineering requires a minimum of 2 million dollars.  
 
-Public share lending requires a minimum of 5 million dollars.  
+Public share liquidity engineering requires a minimum of 5 million dollars.  
 
 This is intentional.  
 
@@ -223,7 +223,7 @@ They control strategic direction.
 
 They require leverage tools that match their sophistication.  
 
-They also require a lender who understands the mechanics of lending against multiple asset classes at scale.  
+They also require a lender who understands the mechanics of liquidity engineering against multiple asset classes at scale.  
 
 Receivables.  
 
@@ -237,7 +237,7 @@ Each requires a different risk model.
 
 Pathmaker handles all four with explicit minimum thresholds to maintain underwriting integrity.  
 
-This is why our platform is built for the upper tier of privately controlled enterprises rather than general corporate lending.  
+This is why our platform is built for the upper tier of privately controlled enterprises rather than general corporate liquidity engineering.  
 
 ## ABL as a Defensive Shield and Offensive Weapon
 
@@ -277,7 +277,7 @@ Mature enterprises do not need rescue.
 
 They need liquidity systems that match their operational reality and their strategic intent.  
 
-Asset Based Lending, when combined with private credit and executed with discipline, provides that system.  
+Asset Based liquidity engineering, when combined with private credit and executed with discipline, provides that system.  
 
 It unlocks growth.  
 

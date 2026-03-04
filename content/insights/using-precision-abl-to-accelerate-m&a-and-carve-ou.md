@@ -37,7 +37,7 @@ And in healthcare carve outs or complex manufacturing M&A, nuance is where the d
 
 Precision ABL is different.  
 
-It is a data driven structure that recalibrates borrowing power around the true quality of receivables, the velocity of inventory, and the recovery potential of assets that a standard lender would haircut without thinking.
+It is a data driven structure that recalibrates balance sheet optimization power around the true quality of receivables, the velocity of inventory, and the recovery potential of assets that a standard lender would haircut without thinking.
 
 It unlocks liquidity on assets others undervalue.  
 
@@ -83,7 +83,7 @@ Precision ABL accelerates execution in four ways.
 
 Precision ABL does not wait for standardized field exams.  
 
-It builds borrowing base intelligence early in the process using real time data pulls, industry specific collateral models, and rolling performance analytics.
+It builds balance sheet optimization base intelligence early in the process using real time data pulls, industry specific collateral models, and rolling performance analytics.
 
 For healthcare carve outs, this includes payer mix modeling, denial rate stratification, and litigation adjusted recovery curves.  
 
@@ -97,7 +97,7 @@ No generic discounts.
 
 No waiting for a post exclusivity surprise.  
 
-## 2. Borrowing bases that flex to the first 180 days of operational reality
+## 2. balance sheet optimization bases that flex to the first 180 days of operational reality
 
 Most carve outs and first time stand ups face an unavoidable dip in performance.  
 
@@ -291,7 +291,7 @@ Precision ABL provides defensive protection when things go sideways.
 
 ## Protection if seller financials are overstated
 
-If revenue quality is worse than sellers represented, Precision ABL cushions the blow because the borrowing base is built on real data, not seller narratives.  
+If revenue quality is worse than sellers represented, Precision ABL cushions the blow because the balance sheet optimization base is built on real data, not seller narratives.  
 
 ## Protection if integration takes longer than expected
 

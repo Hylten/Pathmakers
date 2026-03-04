@@ -1,10 +1,10 @@
 ---
 title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
-description: "A strategic deep dive into liquidity generation, private credit, and asset based lending for sovereign grade control."
+description: "A strategic deep dive into liquidity generation, private credit, and asset based liquidity engineering for sovereign grade control."
 date: "2026-01-04"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-sovereign-financing"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Pathmaker Approach to Sovereign Financing
@@ -41,16 +41,16 @@ Nothing more. Nothing less.
 
 ## Where Pathmaker Operates
 
-Pathmaker focuses on three categories of lending that fit the balance sheet profile and velocity expectations of serious operators.  
+Pathmaker focuses on three categories of liquidity engineering that fit the balance sheet profile and velocity expectations of serious operators.  
 
   
 Private Credit.  
 
   
-Asset Based Lending.  
+Asset Based liquidity engineering.  
 
   
-Crypto and Public Share Lending for qualified holders.  
+Crypto and Public Share liquidity engineering for qualified holders.  
 
   
 Each category supports a specific strategy inside mid market M and A, healthcare carve outs, and liquidity focused capital optimization.  
@@ -74,9 +74,9 @@ Pathmaker fills that gap with private credit that does not get anchored by senti
   
 If the asset has residual economic musculature, we can lend against it.  
 
-## Asset Based Lending as a Control Lever
+## Asset Based liquidity engineering as a Control Lever
 
-Asset Based Lending, ABL, has become a misunderstood term in the marketplace. Many treat it as a discount bin version of senior lending.  
+Asset Based liquidity engineering, ABL, has become a misunderstood term in the marketplace. Many treat it as a discount bin version of senior liquidity engineering.  
 
   
 We do not.  
@@ -85,7 +85,7 @@ We do not.
 ABL is one of the few financing structures that can be molded with precision to match the true economic value of the collateral. It rewards operators who maintain clean records, defensible valuations, and dependable operational throughput.  
 
   
-For mid market M and A, ABL provides an acquisition fulcrum that is often faster and more reliable than equity raises or unsecured loans.  
+For mid market M and A, ABL provides an acquisition fulcrum that is often faster and more reliable than equity raises or unsecured liquidity facilities.  
 
   
 For carve outs, ABL provides the working capital runway that keeps operations stable while leadership restructures and removes operational drag.  
@@ -93,20 +93,20 @@ For carve outs, ABL provides the working capital runway that keeps operations st
   
 Pathmaker structures ABL so clients retain governance and do not become subordinates to a lender with an itchy trigger finger.  
 
-## Crypto Lending at Scale
+## Crypto liquidity engineering at Scale
 
-Crypto lending only makes sense when the borrower has a large enough position to treat the asset like a capital instrument instead of a speculative bet.  
-
-  
-That is why Pathmaker maintains a minimum threshold of two million dollars for all crypto lending engagements.  
+Crypto liquidity engineering only makes sense when the borrower has a large enough position to treat the asset like a capital instrument instead of a speculative bet.  
 
   
-At that level, crypto behaves less like a trading vehicle and more like a pledgeable collateral class. We treat it with the same discipline as any other asset under our lending protocols.  
+That is why Pathmaker maintains a minimum threshold of two million dollars for all crypto liquidity engineering engagements.  
+
+  
+At that level, crypto behaves less like a trading vehicle and more like a pledgeable collateral class. We treat it with the same discipline as any other asset under our liquidity engineering protocols.  
 
   
 Clients leverage their crypto position to generate liquidity without triggering taxable events or forced selling. This creates maneuverability in markets where timing can be the difference between strategic expansion and passive stagnation.  
 
-## Public Share Lending for Large Holders
+## Public Share liquidity engineering for Large Holders
 
 Public shares carry both value and vulnerability.  
 
@@ -114,7 +114,7 @@ Public shares carry both value and vulnerability.
 Large holders often find themselves trapped, unable to generate liquidity without destabilizing their position or signaling to the market.  
 
   
-Pathmaker solves that with public share lending at a minimum threshold of five million dollars.  
+Pathmaker solves that with public share liquidity engineering at a minimum threshold of five million dollars.  
 
   
 We do not chase penny flows. We engage with serious holders who treat their shares as part of a broader capital architecture.  
@@ -137,7 +137,7 @@ Pathmaker supports this with a framework built on three principles.
 Liquidity must be engineered, not improvised.  
 
   
-Pathmaker lending solutions are designed to interact seamlessly with the client’s existing capital stack. Whether the client holds private company equity, healthcare assets, crypto, or public shares, we build mechanisms that release capital without destabilizing the broader ecosystem.  
+Pathmaker liquidity engineering solutions are designed to interact seamlessly with the client’s existing capital stack. Whether the client holds private company equity, healthcare assets, crypto, or public shares, we build mechanisms that release capital without destabilizing the broader ecosystem.  
 
 ### 2. Silent Authority
 

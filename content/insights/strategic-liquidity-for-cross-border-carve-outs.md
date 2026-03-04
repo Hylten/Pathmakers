@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity for Cross-Border Carve-Outs"
-description: "A pragmatic exploration of liquidity, private credit, and asset based lending for complex cross-border carve-outs."
+description: "A pragmatic exploration of liquidity, private credit, and asset based liquidity engineering for complex cross-border carve-outs."
 date: "2025-12-27"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-cross-border-carve-outs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Liquidity for Cross-Border Carve-Outs
@@ -85,7 +85,7 @@ Pathmaker lends against two core categories.
 
 Private Credit.  
 
-Asset Based Lending.  
+Asset Based liquidity engineering.  
 
 These instruments are intentionally unglamorous.  
 
@@ -113,7 +113,7 @@ Billing systems are inconsistent.
 
 A private credit line calibrated to these patterns allows the carve-out to survive long enough for the buyer to rebuild structure from within.
 
-### Asset Based Lending  
+### Asset Based liquidity engineering  
 
 ABL works because assets do not lie.  
 
@@ -207,17 +207,17 @@ Our role is to ensure that this decisiveness is supported by reliable liquidity 
 
 ## Expanded Liquidity Tools for Cross-Border Complexity
 
-Pathmaker supports additional lending verticals for buyers who need nontraditional liquidity sources.
+Pathmaker supports additional liquidity engineering verticals for buyers who need nontraditional liquidity sources.
 
-### Crypto Lending  
+### Crypto liquidity engineering  
 
 Minimum threshold is 2 million dollars.  
 
-Crypto backed lending provides fast collateralized liquidity for investors with digital asset portfolios that are otherwise underutilized.  
+Crypto backed liquidity engineering provides fast collateralized liquidity for investors with digital asset portfolios that are otherwise underutilized.  
 
 In a cross-border carve-out, this capital can bridge timing delays or serve as rapid deployment liquidity during closing cycles.  
 
-### Public Share Lending  
+### Public Share liquidity engineering  
 
 Minimum threshold is 5 million dollars.  
 

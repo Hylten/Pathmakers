@@ -1,10 +1,10 @@
 ---
 title: "Precision M&A: Using ABL to Close Complex Deals"
-description: "A strategic deep dive into how Asset Based Lending and private credit unlock liquidity for complex mid‑market M&A transactions."
+description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions."
 date: "2025-12-23"
 author: "Jonas Hyltén"
 slug: "precision-m&a:-using-abl-to-close-complex-deals"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Precision M&A: Using ABL to Close Complex Deals
@@ -19,7 +19,7 @@ Carve outs with legacy debt and operational drag.
 Sellers who want certainty.  
 Buyers who need leverage without sacrificing control.  
 
-In this terrain, Asset Based Lending, when engineered correctly, becomes less of a financing tool and more of a structural weapon.
+In this terrain, Asset Based liquidity engineering, when engineered correctly, becomes less of a financing tool and more of a structural weapon.
 
 Pathmaker operates in this space with deliberate precision.
 
@@ -138,8 +138,8 @@ We support private credit positions.
 We engineer ABL with institutional discipline.  
 We lend into crypto and public share positions when liquidity is required above meaningful thresholds.  
 
-Crypto lending begins at 2,000,000.  
-Public share lending begins at 5,000,000.  
+Crypto liquidity engineering begins at 2,000,000.  
+Public share liquidity engineering begins at 5,000,000.  
 
 These are not retail facilities.  
 These are engineered liquidity instruments for operators who understand leverage as a tactical asset.
@@ -235,7 +235,7 @@ The operator refinances with longer term capital or positions for sale.
 
 This three stage progression absorbs risk at each phase instead of concentrating it.
 
-## Crypto and Public Share Lending in Advanced Transactions
+## Crypto and Public Share liquidity engineering in Advanced Transactions
 
 Some buyers hold significant liquid alternatives that traditional lenders cannot touch.
 
@@ -297,7 +297,7 @@ It is about maintaining strategic control during the most volatile phase of a tr
 
 Pathmaker supports private credit.  
 We engineer ABL with institutional discipline.  
-We extend collateral based lending into crypto and public shares where scale and sophistication begin.  
+We extend collateral based liquidity engineering into crypto and public shares where scale and sophistication begin.  
 Above 2,000,000 for crypto.  
 Above 5,000,000 for public equities.  
 

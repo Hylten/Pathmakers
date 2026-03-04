@@ -1,10 +1,10 @@
 ---
 title: "The Pathmaker Playbook for Healthcare Financing"
-description: "A strategic deep dive into liquidity engineering and asset based lending for mid market healthcare operators seeking institutional grade capital solutions."
+description: "A strategic deep dive into liquidity engineering and asset based liquidity engineering for mid market healthcare operators seeking institutional grade capital solutions."
 date: "2026-01-06"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-playbook-for-healthcare-financing"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Pathmaker Playbook for Healthcare Financing
@@ -62,13 +62,13 @@ Liquidity must be immediate.
 Liquidity must be stable.  
 Liquidity must be defensible.  
 
-## Crypto Lending for Healthcare Investors
+## Crypto liquidity engineering for Healthcare Investors
 
 Some HNWI and UHNW clients prefer to leverage digital asset holdings to unlock liquidity for healthcare transactions.  
 
 Pathmaker supports this with a minimum threshold of two million dollars.  
 
-Crypto lending is not a novelty.  
+Crypto liquidity engineering is not a novelty.  
 
 It is an instrument.  
 
@@ -84,21 +84,21 @@ The goal is simple.
 
 Unlock liquidity without compromising asset integrity.
 
-## Public Share Lending for Healthcare Expansion
+## Public Share liquidity engineering for Healthcare Expansion
 
-For clients who maintain significant public equity positions, public share lending becomes a strategic tool.  
+For clients who maintain significant public equity positions, public share liquidity engineering becomes a strategic tool.  
 
 Our minimum threshold begins at five million dollars.  
 
-Public share lending is often misunderstood.  
+Public share liquidity engineering is often misunderstood.  
 
-It is not a margin loan.  
+It is not a margin liquidity facility.  
 
 It is a structured liquidity unlock that gives investors the ability to reposition capital into healthcare at scale.  
 
 This allows operators and investors to participate in acquisitions, recapitalizations, or expansions without destabilizing their portfolio positions.  
 
-Pathmaker structures these lending environments to ensure collateral clarity and liquidity consistency throughout the transaction lifecycle.
+Pathmaker structures these liquidity engineering environments to ensure collateral clarity and liquidity consistency throughout the transaction lifecycle.
 
 ## Mid Market M and A: Where Liquidity Becomes Strategy
 

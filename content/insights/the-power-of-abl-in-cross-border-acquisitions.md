@@ -1,10 +1,10 @@
 ---
 title: "The Power of ABL in Cross-Border Acquisitions"
-description: "How Asset-Based Lending unlocks liquidity and execution certainty in complex cross-border acquisitions."
+description: "How Asset-Based liquidity engineering unlocks liquidity and execution certainty in complex cross-border acquisitions."
 date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-cross-border-acquisitions"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Power of ABL in Cross-Border Acquisitions
@@ -17,7 +17,7 @@ Not because they lack vision.
 
 Because they lack liquidity mechanics.
 
-This is the gap where Asset-Based Lending, especially when paired with institutional grade private credit, becomes the difference between winning a deal and watching it slip away.
+This is the gap where Asset-Based liquidity engineering, especially when paired with institutional grade private credit, becomes the difference between winning a deal and watching it slip away.
 
 Pathmaker operates in this gap.  
 
@@ -66,7 +66,7 @@ Few survive stress conditions.
 
 Cross-border acquisitions create continuous stress conditions.
 
-Pathmaker’s structure is intentionally built for buyers who operate in complexity. Our capital sits at the intersection of private credit and asset-based lending which gives our clients two advantages.
+Pathmaker’s structure is intentionally built for buyers who operate in complexity. Our capital sits at the intersection of private credit and asset-based liquidity engineering which gives our clients two advantages.
 
 The first advantage is liquidity that is insulated from bank-driven risk cycles.  
 The second advantage is speed.  
@@ -193,7 +193,7 @@ Liquidity changes the psychological dynamic of negotiation. And cross-border neg
 
 Across hundreds of transactions we find the same reasons for failure.
 
-The buyer tries to use domestic lending capacity.  
+The buyer tries to use domestic liquidity engineering capacity.  
 The lender refuses to collateralize foreign assets.
 
 The buyer assumes the seller will cooperate.  
@@ -214,10 +214,10 @@ UHNW and HNWI clients often possess additional collateral layers that can be act
 
 Pathmaker provides:
 
-Private credit lending  
-Asset based lending  
-Crypto lending with a $2,000,000 minimum threshold  
-Public share lending with a $5,000,000 minimum threshold  
+Private credit liquidity engineering  
+Asset based liquidity engineering  
+Crypto liquidity engineering with a $2,000,000 minimum threshold  
+Public share liquidity engineering with a $5,000,000 minimum threshold  
 
 These unconventional collateral structures create liquidity pools that would otherwise sit idle.
 

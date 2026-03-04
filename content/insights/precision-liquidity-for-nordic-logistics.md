@@ -1,10 +1,10 @@
 ---
 title: "Precision Liquidity for Nordic Logistics"
-description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based lending, and strategic capital structure for HNWI and UHNW investors."
+description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based liquidity engineering, and strategic capital structure for HNWI and UHNW investors."
 date: "2025-12-22"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-nordic-logistics"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Precision Liquidity for Nordic Logistics
@@ -58,9 +58,9 @@ We bring liquidity where institutional capital cannot move quickly, but wants to
 For HNWI and UHNW clients, this is a clean pathway. You access a liquidity ecosystem that is built to stabilize high performing operators without diluting ownership or triggering restrictive equity conditions.
 
   
-## Asset Based Lending: The Nordic Advantage
+## Asset Based liquidity engineering: The Nordic Advantage
 
-Asset based lending is particularly effective in the Nordics because asset integrity is consistently higher than in many other markets.
+Asset based liquidity engineering is particularly effective in the Nordics because asset integrity is consistently higher than in many other markets.
 
 Fleet assets are newer. 
 Maintenance standards are higher. 
@@ -90,14 +90,14 @@ Pathmaker structures liquidity against several categories that traditional lende
 • Maritime adjacent support equipment, not vessels themselves.  
 
   
-These assets are durable. They hold value. They generate revenue even in slow cycles. They are ideal collateral for asset based lending.
+These assets are durable. They hold value. They generate revenue even in slow cycles. They are ideal collateral for asset based liquidity engineering.
 
   
-## Crypto Lending and Public Share Lending for Cross‑Border Operators
+## Crypto liquidity engineering and Public Share liquidity engineering for Cross‑Border Operators
 
 Nordic logistics operators are increasingly global. They engage in cross border procurement. They manage remote treasury structures. They invest in digitization and modern telemetry systems. As a result, HNWI and UHNW owners often hold diverse portfolios that extend beyond traditional assets.
 
-Pathmaker supports this reality. We offer crypto lending with a minimum threshold of 2,000,000. We offer public share lending with a minimum threshold of 5,000,000. These tools are not gimmicks. They are liquidity levers for clients who need to unlock capital without destabilizing long‑term positions.
+Pathmaker supports this reality. We offer crypto liquidity engineering with a minimum threshold of 2,000,000. We offer public share liquidity engineering with a minimum threshold of 5,000,000. These tools are not gimmicks. They are liquidity levers for clients who need to unlock capital without destabilizing long‑term positions.
 
 The objective is simple. Maintain strategic ownership. Gain tactical liquidity.
 

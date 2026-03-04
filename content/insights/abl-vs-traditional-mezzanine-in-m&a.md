@@ -4,7 +4,7 @@ description: "A pragmatic analysis of ABL versus mezzanine financing in mid‑ma
 date: "2025-12-07"
 author: "Jonas Hyltén"
 slug: "abl-vs-traditional-mezzanine-in-m&a"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # ABL vs Traditional Mezzanine in M&A  
@@ -13,7 +13,7 @@ They want clean mechanics.
 They want certainty.  
 They want velocity when everyone else is playing defense.  
 
-In mid market M&A, especially healthcare carve outs, the choice between Asset Based Lending and traditional mezzanine debt is not an academic debate.  
+In mid market M&A, especially healthcare carve outs, the choice between Asset Based liquidity engineering and traditional mezzanine debt is not an academic debate.  
 It is a choice between structural precision and expensive wishful thinking.  
 
 Pathmaker exists on the side of precision.  
@@ -38,7 +38,7 @@ For the investor who values control and liquidity optionality, this shift matter
 Deeply.  
 
 ## The Nature of ABL in Modern Transactions  
-Asset Based Lending used to be seen as a tool for distressed companies.  
+Asset Based liquidity engineering used to be seen as a tool for distressed companies.  
 That assumption is outdated.  
 In private credit today, ABL is an efficiency weapon.  
 
@@ -84,7 +84,7 @@ ABL provides liquidity predictability.
 Mezzanine provides liquidity theater.  
 
 Predictability means:  
-- Borrowing against assets with measurable value.  
+- balance sheet optimization against assets with measurable value.  
 - Facility usage that adjusts with receivables and inventory cycles.  
 - Fewer subjective milestones.  
 - Less intervention when the business hits turbulence.  
@@ -149,8 +149,8 @@ We lend against private credit.
 We lend through asset based structures.  
 
 We also provide specialized liquidity tools:  
-- Crypto Lending with a minimum facility size of two million dollars.  
-- Public Share Lending with a minimum threshold of five million dollars.  
+- Crypto liquidity engineering with a minimum facility size of two million dollars.  
+- Public Share liquidity engineering with a minimum threshold of five million dollars.  
 
 These instruments give our clients leverage without compromising control.  
 They strengthen the capital architecture instead of adding friction to it.  
@@ -196,7 +196,7 @@ It is not about replicating the old senior plus mezzanine plus equity formula.
 The new stack for serious buyers looks like this:  
 - ABL at the foundation.  
 - Private credit for scalability.  
-- Selective alternative lending for acceleration where appropriate.  
+- Selective alternative liquidity engineering for acceleration where appropriate.  
 - Equity held by the sponsor with maximum control.  
 
 This stack works.  

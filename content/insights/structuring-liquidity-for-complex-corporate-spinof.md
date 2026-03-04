@@ -1,10 +1,10 @@
 ---
 title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
-description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based lending in complex corporate spinoffs."
+description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs."
 date: "2025-12-30"
 author: "Jonas Hyltén"
 slug: "structuring-liquidity-for-complex-corporate-spinof"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Structuring Liquidity for Complex Corporate Spinoffs
@@ -73,7 +73,7 @@ This is the advantage of private credit combined with ABL.
 
 We can structure against imperfect information as long as the asset base and risk profile are fundamentally real.  
 
-## Crypto Lending and Public Share Lending as Strategic Supplements
+## Crypto liquidity engineering and Public Share liquidity engineering as Strategic Supplements
 
 In certain spinoffs, especially those orchestrated by HNWI and UHNW principals, liquidity may exist outside the operating entities.  
 
@@ -85,9 +85,9 @@ Concentrated positions that cannot be sold without signaling or tax friction.
 
 Pathmaker incorporates these into the liquidity stack when appropriate.  
 
-Crypto lending requires a minimum threshold of $2,000,000.  
+Crypto liquidity engineering requires a minimum threshold of $2,000,000.  
 
-Public share lending requires a minimum threshold of $5,000,000.  
+Public share liquidity engineering requires a minimum threshold of $5,000,000.  
 
 These structures deliver liquidity without forcing liquidation.  
 

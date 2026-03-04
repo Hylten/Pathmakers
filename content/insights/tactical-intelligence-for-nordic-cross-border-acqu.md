@@ -315,13 +315,13 @@ Execution velocity begins before acquisition.
 Integration vectors define how value will be preserved once ownership transfers.
 
   
-## Liquidity and Lending Alignment  
+## Liquidity and liquidity engineering Alignment  
 Institutional buyers and UHNW clients frequently require liquidity solutions that align with the acquisition timeline.
 
 Two pathways qualify within the Roials architecture.
 
-Crypto backed lending at 2M minimum.  
-Public share backed lending at 5M minimum.
+Crypto backed liquidity engineering at 2M minimum.  
+Public share backed liquidity engineering at 5M minimum.
 
 No opacity.  
 No drift.  

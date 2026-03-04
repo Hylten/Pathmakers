@@ -1,10 +1,10 @@
 ---
 title: "Operational Resilience Through Strategic Financing"
-description: "A pragmatic analysis of liquidity, private credit, and asset based lending strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers."
+description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers."
 date: "2025-12-16"
 author: "Jonas Hyltén"
 slug: "operational-resilience-through-strategic-financing"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Operational Resilience Through Strategic Financing
@@ -13,7 +13,7 @@ Operational resilience is not built through optimism. It is built through liquid
 
   
 
-Pathmaker supports that infrastructure. We lend against Private Credit and Asset Based Lending structures. We provide liquidity to High Net Worth and Ultra High Net Worth investors who operate inside the real economy, particularly in mid market M and A and healthcare carve-outs.  
+Pathmaker supports that infrastructure. We lend against Private Credit and Asset Based liquidity engineering structures. We provide liquidity to High Net Worth and Ultra High Net Worth investors who operate inside the real economy, particularly in mid market M and A and healthcare carve-outs.  
 
   
 
@@ -31,7 +31,7 @@ Private credit backed liquidity for speed.
 
 ABL for operational stability.  
 
-Specialty lending for tactical agility.  
+Specialty liquidity engineering for tactical agility.  
 
   
 

@@ -334,7 +334,7 @@ Institutional exits require a parallel liquidity strategy for principals.
 This includes:
 
 - Private credit lines secured by public shares with 5M minimum  
-- Crypto lending structures with 2M minimum  
+- Crypto liquidity engineering structures with 2M minimum  
 - Strategic bridging to manage timing gaps  
 - Preservation of optionality during negotiation  
 - Liquidity extraction without weakening the asset  

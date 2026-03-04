@@ -4,12 +4,12 @@ description: "A strategic analysis of how liquidity, private credit, and ABL str
 date: "2026-01-11"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-sustainable-corporate-growth"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Role of ABL in Sustainable Corporate Growth
 
-Asset Based Lending is often misunderstood.
+Asset Based liquidity engineering is often misunderstood.
 
 It is not a distress tool.  
 
@@ -27,7 +27,7 @@ For mid‑market operators, M&A professionals, and UHNW capital allocators, ABL 
 
 Pathmaker operates inside this reality.  
 
-We lend against private credit and Asset Based Lending structures, and we do it for a client base that understands the value of silence, precision, and dependable execution.  
+We lend against private credit and Asset Based liquidity engineering structures, and we do it for a client base that understands the value of silence, precision, and dependable execution.  
 
 Below is a pragmatic breakdown of how ABL drives sustainable corporate growth, particularly within the middle market and within healthcare carve‑outs, where deal cycles are short, integration risk is high, and liquidity gaps are unforgiving.
 
@@ -101,11 +101,11 @@ This approach preserves wealth while enabling movement.
 
 For UHNW clients, ABL becomes a strategic mobility tool instead of a financing instrument.  
 
-## Public Share Lending and Crypto Lending: The Extended Liquidity Ecosystem
+## Public Share liquidity engineering and Crypto liquidity engineering: The Extended Liquidity Ecosystem
 
 Pathmaker extends beyond traditional ABL because modern portfolios extend beyond traditional asset classes.  
 
-### Public Share Lending
+### Public Share liquidity engineering
 
 Minimum threshold: 5,000,000.  
 
@@ -114,7 +114,7 @@ This service allows clients to unlock liquidity from significant public holdings
 It is not for retail investors.  
 It is for clients who move in institutional scale.  
 
-### Crypto Lending
+### Crypto liquidity engineering
 
 Minimum threshold: 2,000,000.  
 
@@ -150,7 +150,7 @@ It produces liquidity without the long-term cost of dilution.
 
 ## The Strategic Future of ABL
 
-The next decade will not reward operators who depend on traditional lending models.  
+The next decade will not reward operators who depend on traditional liquidity engineering models.  
 
 Bank cycles will tighten.  
 Equity markets will fragment.  

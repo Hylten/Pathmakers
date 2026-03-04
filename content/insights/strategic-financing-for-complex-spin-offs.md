@@ -1,10 +1,10 @@
 ---
 title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
-description: "A deep analysis of liquidity engineering and asset based lending solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
+description: "A deep analysis of liquidity engineering and asset based liquidity engineering solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
 date: "2025-12-25"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-complex-spin-offs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Financing for Complex Spin-offs
@@ -101,7 +101,7 @@ Revenue cycle management destabilizes.
 
 Cash timing becomes unpredictable for at least two quarters.  
 
-This is where asset based lending becomes critical.  
+This is where asset based liquidity engineering becomes critical.  
 
 ABL provides a self-anchored structure.  
 
@@ -129,19 +129,19 @@ HNWI and UHNW principals often want to maintain a meaningful ownership position 
 
 They want strategic control without balance sheet sacrifice.  
 
-This is where Pathmaker structures collateralized lending solutions that free liquidity without forcing a sale of long-term assets.  
+This is where Pathmaker structures collateralized liquidity engineering solutions that free liquidity without forcing a sale of long-term assets.  
 
 ## The Pathmaker Position in the Spin-off Capital Stack
 
 Pathmaker lends against private credit and asset based structures.  
 
-We also serve HNWI and UHNW clients through crypto lending and public share lending.  
+We also serve HNWI and UHNW clients through crypto liquidity engineering and public share liquidity engineering.  
 
 Each category has a strict threshold.  
 
-Crypto lending begins at two million dollars.  
+Crypto liquidity engineering begins at two million dollars.  
 
-Public share lending begins at five million dollars.  
+Public share liquidity engineering begins at five million dollars.  
 
 These are not retail solutions.  
 
@@ -213,9 +213,9 @@ Timing advantage creates negotiation advantage.
 
 Negotiation advantage produces better deal economics.  
 
-## Asset Based Lending: The Quiet Backbone of Separation
+## Asset Based liquidity engineering: The Quiet Backbone of Separation
 
-Asset based lending is often dismissed as an old economy tool, but in complex separations it is the most reliable capital structure available.  
+Asset based liquidity engineering is often dismissed as an old economy tool, but in complex separations it is the most reliable capital structure available.  
 
 ABL ignores projections.  
 
@@ -243,7 +243,7 @@ It creates predictable liquidity in an unpredictable moment.
 
 Pathmaker uses ABL as the stabilizing core of many spin-off financing structures.  
 
-## Crypto Lending and Public Share Lending in the Spin-off Environment
+## Crypto liquidity engineering and Public Share liquidity engineering in the Spin-off Environment
 
 HNWI and UHNW principals often hold significant digital assets or appreciated public equities.  
 
@@ -253,9 +253,9 @@ In a volatile market, liquidation is often strategically unwise.
 
 This is where our collateralized programs become relevant.  
 
-Crypto lending begins at two million dollars.  
+Crypto liquidity engineering begins at two million dollars.  
 
-Public share lending begins at five million dollars.  
+Public share liquidity engineering begins at five million dollars.  
 
 These solutions allow principals to free liquidity while maintaining long term exposure.  
 

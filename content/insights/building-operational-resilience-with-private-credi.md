@@ -1,10 +1,10 @@
 ---
 title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
-description: "A strategic exploration of liquidity, asset based lending, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
+description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
 date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "building-operational-resilience-with-private-credi"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Building Operational Resilience with Private Credit
@@ -15,7 +15,7 @@ Operational resilience is not an aspirational concept. It is a survival requirem
 Private credit has become the capital tool of choice in this environment. Not because it is fashionable. Because it is functional. Because it delivers liquidity when timelines are compressed. Because it gives operators the structural leverage to solve real problems without waiting for legacy institutions to catch up to market velocity.   
 
   
-At Pathmaker, this is the world we operate in. We lend against private credit and asset based lending structures. We deliver crypto lending with a minimum threshold of two million dollars. We operate public share lending with a minimum threshold of five million dollars.   
+At Pathmaker, this is the world we operate in. We lend against private credit and asset based liquidity engineering structures. We deliver crypto liquidity engineering with a minimum threshold of two million dollars. We operate public share liquidity engineering with a minimum threshold of five million dollars.   
 
   
 We work exclusively with high net worth and ultra high net worth individuals who understand that speed and silence are advantages. Our posture is silent authority. We create the structural mechanics that institutional capital depends on, while our clients move without friction.   
@@ -26,21 +26,21 @@ This article lays out how private credit, ABL positioning, and liquidity enginee
   
 The tone here is direct. Battle tested. Nothing romantic. Nothing theoretical. Only what works.
 
-## Public Share Lending: Liquidity Without Exit
+## Public Share liquidity engineering: Liquidity Without Exit
 
 Public equities can represent generational wealth, long term strategy, or positions that are not ready for liquidation. Yet these positions often sit idle from a liquidity perspective.   
 
   
-Public share lending solves that.   
+Public share liquidity engineering solves that.   
 
   
-With a minimum threshold of five million dollars, Pathmaker provides lending structures that allow clients to extract value from their holdings without selling.   
+With a minimum threshold of five million dollars, Pathmaker provides liquidity engineering structures that allow clients to extract value from their holdings without selling.   
 
   
 This is not simple margin financing. It is balance sheet engineering. It provides liquidity that supports operational moves, capital reallocation, or acquisition readiness.   
 
   
-HNWI and UHNW clients use public share lending to unlock capacity without compromising strategy. This creates resilience not by hoarding liquidity, but by refining it.
+HNWI and UHNW clients use public share liquidity engineering to unlock capacity without compromising strategy. This creates resilience not by hoarding liquidity, but by refining it.
 
 ## Healthcare Carve Outs: Where Private Credit Proves Its Value
 

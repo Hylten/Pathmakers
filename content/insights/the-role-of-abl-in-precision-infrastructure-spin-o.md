@@ -1,10 +1,10 @@
 ---
 title: "How ABL Shapes Precision Infrastructure Spin-Offs in a Tight Credit Cycle"
-description: "A strategic analysis of how Asset Based Lending unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors."
+description: "A strategic analysis of how Asset Based liquidity engineering unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors."
 date: "2026-01-10"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-precision-infrastructure-spin-o"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Role of ABL in Precision Infrastructure Spin-offs
@@ -13,7 +13,7 @@ Precision infrastructure has become one of the most active categories in the mid
 
 Most importantly, they behave predictably under disciplined capital structures.  
 
-This is the terrain where Asset Based Lending, ABL, creates real advantage.  
+This is the terrain where Asset Based liquidity engineering, ABL, creates real advantage.  
 
 And for Pathmaker clients, who operate inside the HNWI and UHNW strata, the combination of private credit access, collateral-oriented structuring, and liquidity engineering changes both the pace and the viability of these spin-offs.  
 
@@ -53,7 +53,7 @@ A vehicle fleet that looks over-depreciated on paper may be perfectly productive
 A set of specialty tools may be irreplaceable, even if their book value is negligible.  
 A warehouse location may have strategic placement that is invisible to auditors but obvious to operators.  
 
-ABL re-anchors lending to operational truth instead of accounting fiction.  
+ABL re-anchors liquidity engineering to operational truth instead of accounting fiction.  
 
 That alignment is what makes precision infrastructure spin-offs consistently profitable for sophisticated buyers.  
 
@@ -108,7 +108,7 @@ ABL is predictability made liquid.
 
 ## When Private Credit Meets Infrastructure Assets
 
-Pathmaker’s private credit lending framework allows HNWI and UHNW clients to unlock capital without liquidating core holdings.  
+Pathmaker’s private credit liquidity engineering framework allows HNWI and UHNW clients to unlock capital without liquidating core holdings.  
 
 This becomes strategically important in precision infrastructure acquisitions where speed and certainty often determine who wins the deal.  
 
@@ -118,14 +118,14 @@ ABL becomes the liquidity engine.
 
 The combined effect adds velocity without sacrificing asset exposure.  
 
-## Crypto and Public Share Lending: Optional Layers of Liquidity
+## Crypto and Public Share liquidity engineering: Optional Layers of Liquidity
 
 For sophisticated clients, liquidity stacking is part of the playbook.  
 
 Pathmaker supports additional liquidity layers through:  
 
-- Crypto lending, minimum $2,000,000.  
-- Public share lending, minimum $5,000,000.  
+- Crypto liquidity engineering, minimum $2,000,000.  
+- Public share liquidity engineering, minimum $5,000,000.  
 
 When deployed correctly, these instruments supplement ABL to create a multi-channel liquidity architecture that accelerates deal execution while preserving portfolio integrity.  
 
@@ -137,8 +137,8 @@ This is for HNWI and UHNW operators who understand capital choreography.
 A functional capital stack in this category often includes:  
 
 - ABL at the operational layer.  
-- Private credit lending at the investor layer.  
-- Crypto or public share lending as liquidity augmentation.  
+- Private credit liquidity engineering at the investor layer.  
+- Crypto or public share liquidity engineering as liquidity augmentation.  
 - Equity reserved for strategic hires and modernization.  
 
 This is not complex for complexity’s sake.  

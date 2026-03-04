@@ -1,10 +1,10 @@
 ---
 title: "Healthcare M&A: Liquidity as the Only Real Advantage in a Fractured Market"
-description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based lending for HNWI and UHNW investors."
+description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
 date: "2025-12-11"
 author: "Jonas Hyltén"
 slug: "healthcare-m&a:-the-importance-of-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Healthcare M&A: The Importance of Liquidity
@@ -84,13 +84,13 @@ This is the silent killer of mid‑market healthcare M&A.
 
 Pathmaker exists to eliminate the slowest part of the transaction cycle.  
 
-We lend against Private Credit and Asset Based Lending.  
+We lend against Private Credit and Asset Based liquidity engineering.  
 
 We also unlock liquidity through two specialized instruments designed for HNWI and UHNW investors who need institutional mechanics without institutional drag:
 
   
-• Crypto Lending with a minimum threshold of 2,000,000  
-• Public Share Lending with a minimum threshold of 5,000,000  
+• Crypto liquidity engineering with a minimum threshold of 2,000,000  
+• Public Share liquidity engineering with a minimum threshold of 5,000,000  
 
 Our function is simple.  
 
@@ -192,9 +192,9 @@ They also represent the largest volume of healthcare M&A activity today.
 For these operators, liquidity is not optional.  
 It is survival capital.  
 
-## The Strategic Role of Asset Based Lending in Healthcare Acquisitions
+## The Strategic Role of Asset Based liquidity engineering in Healthcare Acquisitions
 
-Asset Based Lending solves a critical pain point.  
+Asset Based liquidity engineering solves a critical pain point.  
 
 It converts dormant value into active liquidity.  
 
@@ -212,7 +212,7 @@ ABL prevents that disruption.
 
 With ABL, investors unlock liquidity without unwinding long‑term positions. The result is cleaner capital structuring and faster transaction readiness.  
 
-This is why sophisticated healthcare buyers integrate asset based lending into their M&A playbook.  
+This is why sophisticated healthcare buyers integrate asset based liquidity engineering into their M&A playbook.  
 
 ## Private Credit as a Precision Tool in Carve‑Out Scenarios
 
@@ -292,9 +292,9 @@ It is executing them with flawless liquidity.
 Pathmaker provides the structure.  
 You control the strategy.  
 
-We lend against private credit and asset based lending.  
-We provide crypto lending above 2,000,000.  
-We provide public share lending above 5,000,000.  
+We lend against private credit and asset based liquidity engineering.  
+We provide crypto liquidity engineering above 2,000,000.  
+We provide public share liquidity engineering above 5,000,000.  
 
 This is capital engineered for transaction readiness.  
 This is Silent Authority in motion.  

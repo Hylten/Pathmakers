@@ -280,18 +280,18 @@ Non bank capital that can move with precision.
 Structured against assets, cash flow, or hybrid models.  
 Suitable for owners and investors with strategic urgency.
 
-### 2. Asset Based Lending  
+### 2. Asset Based liquidity engineering  
 Available for owners who possess verifiable collateral.  
 Based on inventory, receivables, machinery, or real property.  
 Clean structure.  
 Clear covenant language.
 
-### 3. Public Share Lending  
+### 3. Public Share liquidity engineering  
 Minimum 5 million.  
 Used for founders or HNWI holders of liquid listed equity.  
 Structured for speed.
 
-### 4. Crypto Lending  
+### 4. Crypto liquidity engineering  
 Minimum 2 million.  
 Asset backed.  
 No speculation.  

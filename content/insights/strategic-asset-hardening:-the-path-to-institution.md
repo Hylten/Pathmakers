@@ -256,14 +256,14 @@ A hardened asset reduces GP workload. Reduces integration cycles. Reduces risk.
 
 A reduced risk profile generates valuation lift.
 
-## Lending Architecture for the Prepared
+## liquidity engineering Architecture for the Prepared
 
 Once an asset is hardened, high-grade liquidity becomes accessible.
 
-Two lending channels are relevant.
+Two liquidity engineering channels are relevant.
 
-Crypto-backed lending with a two million minimum.  
-Public share lending with a five million minimum.
+Crypto-backed liquidity engineering with a two million minimum.  
+Public share liquidity engineering with a five million minimum.
 
 These instruments support acquisition, runway, restructuring, or dividend logic.
 

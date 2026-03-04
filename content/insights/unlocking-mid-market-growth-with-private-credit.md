@@ -1,10 +1,10 @@
 ---
 title: "Unlocking Mid‑Market Growth With Private Credit"
-description: "A strategic analysis of how private credit and asset based lending create liquidity advantages for mid‑market operators and investors."
+description: "A strategic analysis of how private credit and asset based liquidity engineering create liquidity advantages for mid‑market operators and investors."
 date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "unlocking-mid-market-growth-with-private-credit"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Unlocking Mid-Market Growth With Private Credit
@@ -25,7 +25,7 @@ Pathmaker exists for that environment. We are built for HNWI and UHNW investors 
 
   
 
-Private credit, combined with asset based lending, now drives more mid‑market transactions than traditional credit ever will again. Our work sits inside that shift, quietly and effectively, with no theatrics and no retail gloss.
+Private credit, combined with asset based liquidity engineering, now drives more mid‑market transactions than traditional credit ever will again. Our work sits inside that shift, quietly and effectively, with no theatrics and no retail gloss.
 
 ## The New Reality of Mid-Market Capital
 
@@ -53,9 +53,9 @@ For investors who want to acquire, consolidate, stabilize, or carve out a divisi
 
   
 
-Pathmaker supports that baseline by lending against private credit positions and against tangible or semi‑tangible assets, always structured for speed and discretion.
+Pathmaker supports that baseline by liquidity engineering against private credit positions and against tangible or semi‑tangible assets, always structured for speed and discretion.
 
-## Asset Based Lending as a Growth Lever
+## Asset Based liquidity engineering as a Growth Lever
 
 ABL is the most pragmatic form of liquidity, because it ignores narratives and focuses on assets that can be collateralized.
 
@@ -85,7 +85,7 @@ When used correctly, ABL turns the friction of asset complexity into a structura
 
   
 
-Pathmaker specializes in this form of lending. We view collateral with a practitioner mindset, not a theoretical one. If the asset supports leverage, we build the structure.
+Pathmaker specializes in this form of liquidity engineering. We view collateral with a practitioner mindset, not a theoretical one. If the asset supports leverage, we build the structure.
 
 ## Private Credit as a Strategic Weapon, Not a Safety Net
 
@@ -111,7 +111,7 @@ Operators do not need romantic narratives about turnarounds. They need capital t
 
   
 
-Pathmaker reinforces this discipline by lending against private credit positions directly. This creates second‑order liquidity without forcing liquidation or weakening the underlying investment strategy.
+Pathmaker reinforces this discipline by liquidity engineering against private credit positions directly. This creates second‑order liquidity without forcing liquidation or weakening the underlying investment strategy.
 
   
 
@@ -151,7 +151,7 @@ HNWI and UHNW investors require capital that respects two realities:
   
 1. Their portfolios contain non‑traditional assets.  
    
-2. Their opportunities move faster than traditional lending structures allow.  
+2. Their opportunities move faster than traditional liquidity engineering structures allow.  
 
   
 
@@ -169,7 +169,7 @@ There is no retail interface, no performative branding, and no exaggerated promi
 
 We provide the structural mechanics. You direct the strategy.
 
-## Public Share Lending: Minimum Threshold 5 Million
+## Public Share liquidity engineering: Minimum Threshold 5 Million
 
 Public equity positions often sit idle during high‑velocity deal environments.
 
@@ -179,7 +179,7 @@ They are valuable, but not liquid enough to deploy quickly without damaging the 
 
   
 
-Pathmaker solves this by lending against public shares with a minimum threshold of 5 million. This creates:
+Pathmaker solves this by liquidity engineering against public shares with a minimum threshold of 5 million. This creates:
 
   
 • Fast liquidity  
@@ -192,7 +192,7 @@ Pathmaker solves this by lending against public shares with a minimum threshold 
 
 This mechanism is particularly valuable for mid‑market operators who have accumulated concentrated positions through earlier exits or strategic holdings.
 
-## Crypto Lending: Minimum Threshold 2 Million
+## Crypto liquidity engineering: Minimum Threshold 2 Million
 
 Digital assets are volatile, but they are also collateral.
 
@@ -206,11 +206,11 @@ We do not treat crypto as speculative hype. We treat it as another asset class w
 
   
 
-HNWI and UHNW investors often hold meaningful crypto positions that they cannot liquidate without tax consequences or strategic downsides. Lending against these assets provides liquidity without restructuring the portfolio.
+HNWI and UHNW investors often hold meaningful crypto positions that they cannot liquidate without tax consequences or strategic downsides. liquidity engineering against these assets provides liquidity without restructuring the portfolio.
 
   
 
-In mid‑market M&A, liquidity timing is often more important than cost of capital. Crypto‑backed lending meets that requirement cleanly and quietly.
+In mid‑market M&A, liquidity timing is often more important than cost of capital. Crypto‑backed liquidity engineering meets that requirement cleanly and quietly.
 
 ## Why Mid-Market Operators Are Turning to Non-Bank Capital
 
@@ -218,7 +218,7 @@ The mid‑market is not underserved. It is misinterpreted.
 
   
 
-Traditional lenders believe the mid‑market is a scaled version of small business lending. Instead it behaves more like institutional enterprise, but without the luxury of slow processes.
+Traditional lenders believe the mid‑market is a scaled version of small business liquidity engineering. Instead it behaves more like institutional enterprise, but without the luxury of slow processes.
 
   
 
@@ -269,8 +269,8 @@ HNWI and UHNW investors can enhance mid‑market strategy through careful sequen
   
 • Using ABL to stabilize transitional operations during carve‑outs  
 • Using private credit to accelerate closing timelines  
-• Using public or digital asset lending to fund deposits and initial consideration  
-• Using private credit lending to avoid forced liquidation of core holdings  
+• Using public or digital asset liquidity engineering to fund deposits and initial consideration  
+• Using private credit liquidity engineering to avoid forced liquidation of core holdings  
 • Using liquidity layers to maintain negotiating authority  
 • Using second‑order leverage to expand acquisition capacity without overextending  
 
@@ -320,7 +320,7 @@ Mid‑market growth is no longer driven by traditional credit.
 
   
 
-It is driven by private credit and by asset based lending, applied with discipline and supported by lenders who understand the operational reality, not the sanitized version.
+It is driven by private credit and by asset based liquidity engineering, applied with discipline and supported by lenders who understand the operational reality, not the sanitized version.
 
   
 

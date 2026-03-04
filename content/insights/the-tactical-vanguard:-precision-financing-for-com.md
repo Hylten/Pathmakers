@@ -133,7 +133,7 @@ Designed for spin-offs with immediate revenue traction but insufficient liquidit
 This type of credit acts as a bridge. But not a bridge to nowhere. A bridge to value crystallization.
 
   
-### B. Asset Based Lending
+### B. Asset Based liquidity engineering
 
 For spin-offs with operational assets that can be structured, valued, and governed. This includes:
 
@@ -145,7 +145,7 @@ For spin-offs with operational assets that can be structured, valued, and govern
 Asset based structures reward discipline. They punish disarray. They are perfectly aligned with stewardship principles. They are transparent and defensible.
 
 Minimum thresholds:  
-Crypto lending requires 2M.  
+Crypto liquidity engineering requires 2M.  
 Public share credit requires 5M.
 
 Below that level the friction exceeds the value.

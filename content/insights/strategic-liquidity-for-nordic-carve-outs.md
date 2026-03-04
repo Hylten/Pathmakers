@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
-description: "A deep analysis of strategic liquidity mechanics for Nordic carve-outs, with focus on private credit and asset based lending for HNWI and UHNW investors."
+description: "A deep analysis of strategic liquidity mechanics for Nordic carve-outs, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
 date: "2025-12-28"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-nordic-carve-outs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Liquidity for Nordic Carve-Outs
@@ -17,7 +17,7 @@ They present a familiar pattern. Good assets trapped inside corporate structures
 
 This is where structural liquidity matters. Not as a storyline. Not as a turnaround narrative. As a hard mechanical requirement.
 
-Pathmaker operates in this environment with a clear focus. Private credit. Asset based lending. Targeted liquidity tools that support high conviction buyers who understand what they want but need precision in capital structure.
+Pathmaker operates in this environment with a clear focus. Private credit. Asset based liquidity engineering. Targeted liquidity tools that support high conviction buyers who understand what they want but need precision in capital structure.
 
 Our role is to create stability in moments where the rest of the market hesitates.
 

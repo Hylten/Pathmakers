@@ -1,13 +1,13 @@
 ---
-title: "Lending Against Public Shares for Accelerated M&A Closures"
-description: "Pathmaker provides liquidity through private credit and asset based lending, enabling HNWI and UHNW principals to accelerate M&A timelines using public share lending."
+title: "liquidity engineering Against Public Shares for Accelerated M&A Closures"
+description: "Pathmaker provides liquidity through private credit and asset based liquidity engineering, enabling HNWI and UHNW principals to accelerate M&A timelines using public share liquidity engineering."
 date: "2025-12-11"
 author: "Jonas Hyltén"
-slug: "lending-against-public-shares-for-accelerated-m&a-"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+slug: "liquidity engineering-against-public-shares-for-accelerated-m&a-"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
-# Lending Against Public Shares for Accelerated M&A Closures
+# liquidity engineering Against Public Shares for Accelerated M&A Closures
 
 Mid market M&A is rarely a clean process.  
 
@@ -19,17 +19,17 @@ In this arena, liquidity is not a luxury.
 
 It is the only advantage that consistently bends the timeline in your favor.  
 
-This is where lending against public shares becomes structural, especially for high net worth and ultra high net worth principals who move in competitive acquisition cycles.
+This is where liquidity engineering against public shares becomes structural, especially for high net worth and ultra high net worth principals who move in competitive acquisition cycles.
 
 At Pathmaker, we treat liquidity as an engineering problem.  
 
 We build the mechanics that allow capital to behave at institutional speed, even when the sponsor is a private principal.  
 
-We do this through private credit and asset based lending, supported by disciplined underwriting, position review, and collateral structures that prevent value leakage.
+We do this through private credit and asset based liquidity engineering, supported by disciplined underwriting, position review, and collateral structures that prevent value leakage.
 
 ## Why Minimums Matter: Five Million Is Not Arbitrary
 
-Setting a minimum threshold of five million dollars for public share lending is not about gatekeeping.  
+Setting a minimum threshold of five million dollars for public share liquidity engineering is not about gatekeeping.  
 
 It is about operating in the zone where capital can meaningfully influence the direction of a transaction.
 
@@ -63,7 +63,7 @@ The goal is to make sure liquidity does not become another variable in a stack o
 
 Pathmaker structures are designed to behave predictably even when markets do not.  
 
-This is why we use disciplined collateral modeling, clarity in loan-to-value limits, and multi layer monitoring.  
+This is why we use disciplined collateral modeling, clarity in liquidity facility-to-value limits, and multi layer monitoring.  
 
 Certainty is engineered, not assumed.
 
@@ -75,7 +75,7 @@ A fast close is controlled aggression.
 
 It is an understanding that delay destroys more enterprise value than almost any other factor in mid market M&A.
 
-Public share lending allows principals to move without hesitation.  
+Public share liquidity engineering allows principals to move without hesitation.  
 
 It enables clean execution, even in operationally complex carve outs.  
 
@@ -103,7 +103,7 @@ We supply capital at the pace where deals survive.
 
 ## Final Position
 
-Pathmaker lending against public shares gives HNWI and UHNW principals a structural advantage in competitive M&A cycles.  
+Pathmaker liquidity engineering against public shares gives HNWI and UHNW principals a structural advantage in competitive M&A cycles.  
 
 It protects their portfolios.  
 

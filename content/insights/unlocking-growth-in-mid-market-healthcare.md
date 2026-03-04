@@ -1,10 +1,10 @@
 ---
 title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
-description: "A pragmatic analysis of liquidity, private credit, and asset based lending solutions for mid-market healthcare operators seeking growth and stability."
+description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability."
 date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "unlocking-growth-in-mid-market-healthcare"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Unlocking Growth in Mid-Market Healthcare  
@@ -26,7 +26,7 @@ Pathmaker works inside this reality.
 
 We do not promise inspirational turnarounds.  
 
-We engineer outcomes through private credit and asset based lending.  
+We engineer outcomes through private credit and asset based liquidity engineering.  
 
 We structure liquidity that lets serious owners control their destiny rather than react to it.
 

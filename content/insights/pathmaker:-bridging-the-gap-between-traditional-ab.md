@@ -1,10 +1,10 @@
 ---
 title: "Pathmaker: Bridging the Gap Between Traditional ABL and Digital Assets for Serious Liquidity Needs"
-description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based lending for HNWI and UHNW clients."
+description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2025-12-18"
 author: "Jonas Hyltén"
 slug: "pathmaker:-bridging-the-gap-between-traditional-ab"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Pathmaker: Bridging the Gap Between Traditional ABL and Digital Assets
@@ -17,7 +17,7 @@ Pathmaker exists for these conditions.
 
   
 
-We operate inside the gap that has widened between traditional asset based lending and the emerging category of digital collateral.
+We operate inside the gap that has widened between traditional asset based liquidity engineering and the emerging category of digital collateral.
 
   
 
@@ -67,7 +67,7 @@ We analyze assets, determine lendable value, and deploy capital with structural 
 
 ## Private Credit and ABL: The Structural Foundation
 
-Pathmaker begins with private credit and classical asset based lending because these remain the most grounded forms of collateralized finance.
+Pathmaker begins with private credit and classical asset based liquidity engineering because these remain the most grounded forms of collateralized finance.
 
   
 
@@ -95,7 +95,7 @@ Pathmaker supplies institutional grade mechanics without requiring borrowers to 
 
   
 
-We give clients direct access to customized lending structures that align with their asset profile and their timeline.
+We give clients direct access to customized liquidity engineering structures that align with their asset profile and their timeline.
 
   
 
@@ -105,7 +105,7 @@ We do not broadcast.
 We calibrate.  
 We deliver liquidity.
 
-## Why Digital Asset Lending Belongs in Institutional Structures
+## Why Digital Asset liquidity engineering Belongs in Institutional Structures
 
 Digital assets have matured into a legitimate collateral class.
 
@@ -118,7 +118,7 @@ value the asset, apply a haircut policy, monitor custody, lend responsibly.
 
   
 
-Crypto lending begins at 2,000,000 dollars.
+Crypto liquidity engineering begins at 2,000,000 dollars.
 
 This threshold is deliberate.
 
@@ -143,7 +143,7 @@ Not a replacement for private credit.
 Not a novelty.  
 Not a marketing hook.  
 
-## Public Share Lending as a Strategic Lever
+## Public Share liquidity engineering as a Strategic Lever
 
 Borrowers with concentrated equity positions often find themselves asset rich and liquidity poor.
 
@@ -167,7 +167,7 @@ It also ensures that the borrower is operating with the kind of asset concentrat
 
 We analyze the equity, its historical volatility, its trading range, and its governance profile.
 
-We assign a loan to value appropriate for institutional risk tolerance.
+We assign a liquidity facility to value appropriate for institutional risk tolerance.
 
 We deliver liquidity without forcing the borrower to unwind positions or signal to the market.
 
@@ -231,8 +231,8 @@ Our edge comes from five mechanics:
 
   
 1. Precise collateral valuation  
-2. Intelligent loan to value calibration  
-3. Multi asset lending capacity across private credit, digital assets, and public equity  
+2. Intelligent liquidity facility to value calibration  
+3. Multi asset liquidity engineering capacity across private credit, digital assets, and public equity  
 4. Speed that does not compromise discipline  
 5. Silent authority in execution and reporting
 
@@ -270,7 +270,7 @@ We are not a venture style lender.
 
   
 
-We are a precision lending partner aligned with the realities of high net worth balance sheets.
+We are a precision liquidity engineering partner aligned with the realities of high net worth balance sheets.
 
 ## The Strategic Utility of Hybrid Collateral
 
@@ -289,7 +289,7 @@ or digital assets plus contracted revenue streams.
 
   
 
-Hybridization strengthens loan security.
+Hybridization strengthens liquidity facility security.
 
 It also increases liquidity access without forcing the borrower into unnecessary asset sales or forced portfolio adjustments.
 
@@ -306,7 +306,7 @@ It is a strategic advantage.
 
 ## Digital Assets That Behave Like Institutional Collateral
 
-The most important shift in digital asset lending is custody clarity.
+The most important shift in digital asset liquidity engineering is custody clarity.
 
 Pathmaker only lends against assets custodied in environments that meet institutional grade requirements.
 
@@ -329,11 +329,11 @@ digital assets are valid collateral when treated with institutional discipline.
 
 ## The Pathmaker Framework for Responsible Liquidity
 
-Every loan structure we create exists inside a risk control framework.
+Every liquidity facility structure we create exists inside a risk control framework.
 
   
 
-We assign loan to value based on volatility and liquidity.
+We assign liquidity facility to value based on volatility and liquidity.
 
 We implement margin monitoring.
 
@@ -378,7 +378,7 @@ They want a lender that understands their assets, respects their time, and deliv
 
   
 
-Our bridge between traditional asset based lending and digital asset lending is not a brand statement.
+Our bridge between traditional asset based liquidity engineering and digital asset liquidity engineering is not a brand statement.
 
 It is a structural capability.
 

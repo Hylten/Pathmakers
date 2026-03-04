@@ -1,10 +1,10 @@
 ---
 title: "The Role of ABL in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
-description: "A tactical analysis of how asset based lending drives liquidity, speed, and structural certainty in healthcare carve-outs for HNWI and UHNW investors."
+description: "A tactical analysis of how asset based liquidity engineering drives liquidity, speed, and structural certainty in healthcare carve-outs for HNWI and UHNW investors."
 date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-healthcare-carve-outs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Role of ABL in Healthcare Carve-Outs
@@ -13,7 +13,7 @@ Healthcare carve-outs are not theoretical puzzles. They are operationally dense,
 
 They also remain one of the few mid‑market segments where liquidity architecture determines whether a deal survives the first ninety days.
 
-Asset based lending has become the core stabilizer. It delivers certainty, collateral clarity, and execution speed in an environment where traditional lenders hesitate, diligence windows collapse, and sellers offload assets with incomplete operational histories.
+Asset based liquidity engineering has become the core stabilizer. It delivers certainty, collateral clarity, and execution speed in an environment where traditional lenders hesitate, diligence windows collapse, and sellers offload assets with incomplete operational histories.
 
 For High Net Worth and Ultra High Net Worth buyers, the question is not whether ABL fits into healthcare carve-outs.
 
@@ -97,7 +97,7 @@ Without ABL, the buyer must carry these burdens with equity or private credit. T
 
 A functional carve-out capital stack generally includes:
 
-An asset based lending facility tied to receivables.
+An asset based liquidity engineering facility tied to receivables.
 
 Targeted private credit for strategic expansion.
 
@@ -109,7 +109,7 @@ At Pathmaker, these configurations are engineered around strict thresholds.
 
 Crypto collateral: 2 million minimum.
 
-Public stock lending: 5 million minimum.
+Public stock liquidity engineering: 5 million minimum.
 
 We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility.
 
@@ -143,7 +143,7 @@ Pathmaker serves HNWI and UHNW investors who require structural certainty, fast 
 
 We lend against private credit instruments.
 
-We lend using asset based lending.
+We lend using asset based liquidity engineering.
 
 We structure collateralized solutions for crypto and public equities at institutional thresholds.
 

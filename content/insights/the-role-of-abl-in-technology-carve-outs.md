@@ -1,10 +1,10 @@
 ---
 title: "The Role of ABL in Technology Carve-Outs: Liquidity Engineering for Serious Operators"
-description: "A deep, pragmatic analysis of how Asset-Based Lending supports liquidity in technology carve-outs for HNWI and UHNW investors."
+description: "A deep, pragmatic analysis of how Asset-Based liquidity engineering supports liquidity in technology carve-outs for HNWI and UHNW investors."
 date: "2026-01-11"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-technology-carve-outs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Role of ABL in Technology Carve-Outs
@@ -19,7 +19,7 @@ The market keeps pretending carve-outs are strategic growth moves.
 
 In reality, they are liquidity mismatches wrapped in legacy systems, stranded teams, unpriced liabilities, and vendor dependencies that never show up cleanly in the CIM.
 
-This is where Asset-Based Lending earns its place.
+This is where Asset-Based liquidity engineering earns its place.
 
 Not as rescue capital.
 
@@ -29,7 +29,7 @@ As a structural liquidity engine that gives sophisticated buyers real control ov
 
 Pathmaker operates exactly in this pocket.
 
-We lend against Private Credit and Asset-Based Lending structures, calibrated for investors who do not treat carve-outs as experiments. High Net Worth and Ultra High Net Worth buyers who understand concentration risk. Institutional family offices that respect timing risk. Operators who know that the real challenge is not the acquisition. It is the first ninety days of operational unbundling.
+We lend against Private Credit and Asset-Based liquidity engineering structures, calibrated for investors who do not treat carve-outs as experiments. High Net Worth and Ultra High Net Worth buyers who understand concentration risk. Institutional family offices that respect timing risk. Operators who know that the real challenge is not the acquisition. It is the first ninety days of operational unbundling.
 
 Below is a pragmatic breakdown of how ABL functions inside technology carve-outs, framed for serious buyers who require precision, speed, and silent structural authority.
 
@@ -235,14 +235,14 @@ HNWI and UHNW buyers prioritize:
 
 ABL gives them the ability to manage carve-outs without exposing themselves to liquidity shocks that many institutional buyers take for granted.
 
-## When Crypto Lending and Public Share Lending Strengthen the Capital Stack
+## When Crypto liquidity engineering and Public Share liquidity engineering Strengthen the Capital Stack
 
 Technology carve-out buyers with diversified portfolios often have liquid but underutilized asset classes.
 
 Pathmaker supports this dynamic through:
 
-• Crypto Lending with a minimum threshold of 2,000,000  
-• Public Share Lending with a minimum threshold of 5,000,000
+• Crypto liquidity engineering with a minimum threshold of 2,000,000  
+• Public Share liquidity engineering with a minimum threshold of 5,000,000
 
 These mechanisms allow buyers to unlock liquidity from their broader assets without exiting long-term positions.
 
@@ -315,9 +315,9 @@ ABL gives buyers:
 
 Pathmaker exists to serve this exact execution gap.
 
-We provide lending against Private Credit and Asset-Based Lending.
+We provide liquidity engineering against Private Credit and Asset-Based liquidity engineering.
 
-We support crypto lending starting at 2,000,000 and public share lending starting at 5,000,000.
+We support crypto liquidity engineering starting at 2,000,000 and public share liquidity engineering starting at 5,000,000.
 
 We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
 

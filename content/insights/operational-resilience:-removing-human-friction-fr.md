@@ -334,10 +334,10 @@ Human friction creates uncertainty in three dimensions:
 
 Operational resilience therefore strengthens creditworthiness.
 
-For clients above the lending thresholds:
+For clients above the liquidity engineering thresholds:
 
-- Crypto lending begins at 2 million.  
-- Public shares lending begins at 5 million.
+- Crypto liquidity engineering begins at 2 million.  
+- Public shares liquidity engineering begins at 5 million.
 
 Operational resilience reduces haircuts.  
 It increases liquidity access.  

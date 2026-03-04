@@ -225,9 +225,9 @@ For HNWI and UHNW clients, this shift provides unprecedented opportunity. They c
 
 Minimums matter.
 
-Crypto lending begins at 2M.
+Crypto liquidity engineering begins at 2M.
 
-Public share lending begins at 5M.
+Public share liquidity engineering begins at 5M.
 
 These thresholds ensure only serious principals engage.
 
@@ -279,7 +279,7 @@ He who controls liquidity controls timing.
 
 He who controls timing controls valuation.
 
-Private credit is now the most agile liquidity channel. It enforces seriousness because discipline is currency. HNWI and UHNW clients allocating into secured lending replace the retreating banking system with more decisive capital.
+Private credit is now the most agile liquidity channel. It enforces seriousness because discipline is currency. HNWI and UHNW clients allocating into secured liquidity engineering replace the retreating banking system with more decisive capital.
 
 For operating companies, accessing this capital requires readiness.
 

@@ -1,10 +1,10 @@
 ---
 title: "Cross-Border M&A: Using ABL to Navigate European Credit Gaps With Precision"
-description: "A pragmatic analysis of how Asset Based Lending and private credit structures unlock liquidity for cross-border M&A in a tightening European credit environment."
+description: "A pragmatic analysis of how Asset Based liquidity engineering and private credit structures unlock liquidity for cross-border M&A in a tightening European credit environment."
 date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "cross-border-m&a:-using-abl-to-navigate-european-c"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Cross-Border M&A: Using ABL to Navigate European Credit Gaps
@@ -17,7 +17,7 @@ This is especially true in mid‑market healthcare carve outs and cross border a
 
   
 
-In this environment, Asset Based Lending combined with private credit is not a niche solution. It is a reliability tool for buyers who cannot afford uncertainty.
+In this environment, Asset Based liquidity engineering combined with private credit is not a niche solution. It is a reliability tool for buyers who cannot afford uncertainty.
 
   
 
@@ -83,13 +83,13 @@ This is why private credit based acquisition strategies have become a preferred 
 
 Pathmaker exists for exactly this audience.
 
-## Crypto and Public Share Lending as Strategic Liquidity Layers
+## Crypto and Public Share liquidity engineering as Strategic Liquidity Layers
 
 The more sophisticated the buyer, the more they want optionality.
 
   
 
-Crypto backed lending and public share backed lending provide this optionality when used correctly.
+Crypto backed liquidity engineering and public share backed liquidity engineering provide this optionality when used correctly.
 
   
 
@@ -101,11 +101,11 @@ Our thresholds reflect this maturity.
 
   
 
-Crypto lending begins at 2 million dollars.
+Crypto liquidity engineering begins at 2 million dollars.
 
   
 
-Public share lending begins at 5 million dollars.
+Public share liquidity engineering begins at 5 million dollars.
 
   
 
@@ -153,7 +153,7 @@ This is how sophisticated buyers approach it.
 
 4. Coordinate private credit alongside ABL for layered structural strength.
 
-5. Use crypto and public share lending as optional liquidity accelerators.
+5. Use crypto and public share liquidity engineering as optional liquidity accelerators.
 
   
 

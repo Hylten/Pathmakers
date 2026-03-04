@@ -4,7 +4,7 @@ description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buy
 date: "2025-12-13"
 author: "Jonas Hyltén"
 slug: "middle-market-carve-outs"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators

@@ -4,7 +4,7 @@ description: "How HNWI and UHNW investors create liquidity for healthcare carve-
 date: "2025-12-09"
 author: "Jonas Hyltén"
 slug: "financing-healthcare-carve-outs-with-hybrid-asset-"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Financing Healthcare Carve-Outs with Hybrid Asset Collateral
@@ -39,7 +39,7 @@ Mid-market buyers feel this strain more acutely than institutional strategics be
 
 They need external liquidity.  
 
-## Pathmaker’s Position: We Specialize in Private Credit and Asset-Based Lending
+## Pathmaker’s Position: We Specialize in Private Credit and Asset-Based liquidity engineering
 
 Pathmaker enters before the friction compounds.  
 
@@ -79,7 +79,7 @@ These pillars apply to HNWI and UHNW clients who have complex asset architecture
 
 ### 1. Private Credit Secured Facilities
 
-Private credit is the backbone of our lending work.  
+Private credit is the backbone of our liquidity engineering work.  
 
 We structure senior and mezzanine facilities that are insulated from the volatility of the healthcare carve-out itself.  
 
@@ -87,7 +87,7 @@ The collateral can sit outside the operating business, often in completely diffe
 
 This gives the buyer securities-based leverage, liquidity compression, and timeline control.  
 
-### 2. Asset-Based Lending Across Nontraditional Collateral
+### 2. Asset-Based liquidity engineering Across Nontraditional Collateral
 
 ABL is frequently misunderstood.  
 
@@ -104,10 +104,10 @@ ABL is particularly effective in carve-outs during the transition window because
 This is where Pathmaker becomes structurally distinct.  
 
 We support:  
-- Crypto lending with a minimum threshold of 2,000,000  
-- Public share lending with a minimum threshold of 5,000,000  
+- Crypto liquidity engineering with a minimum threshold of 2,000,000  
+- Public share liquidity engineering with a minimum threshold of 5,000,000  
 
-These are not retail lending structures.  
+These are not retail liquidity engineering structures.  
 
 These are institutional-grade liquidity engines for HNW and UHNW clients.  
 
@@ -198,7 +198,7 @@ Pathmaker delivers silent authority.
 
 We bring mechanical clarity without the noise of unnecessary advisory.  
 
-We build lending structures that minimize friction and reduce counterparty uncertainty.  
+We build liquidity engineering structures that minimize friction and reduce counterparty uncertainty.  
 
 We solve liquidity gaps without interfering with strategy.  
 
@@ -256,7 +256,7 @@ We do not perform.
 
 We structure.  
 
-We create the lending mechanics that institutional capital respects.  
+We create the liquidity engineering mechanics that institutional capital respects.  
 
 We give acquirers the leverage of certainty and the silence of authority.  
 

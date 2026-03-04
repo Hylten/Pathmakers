@@ -1,10 +1,10 @@
 ---
 title: "Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market"
-description: "A high level look at how HNWI and UHNW operators use private credit and asset based lending to create liquidity and stability in volatile M&A cycles."
+description: "A high level look at how HNWI and UHNW operators use private credit and asset based liquidity engineering to create liquidity and stability in volatile M&A cycles."
 date: "2026-01-15"
 author: "Jonas Hyltén"
 slug: "using-private-credit-to-hedge-against-m&a-volatili"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market
@@ -27,13 +27,13 @@ It is simply common.
 
 And this is precisely where private credit becomes a strategic hedge rather than a last resort.
 
-### Crypto Lending
+### Crypto liquidity engineering
 
 Minimum 2,000,000.  
 Useful when conventional assets are already pledged or when speed is required.  
 Crypto collateral provides a rapid deployment tool that bypasses traditional underwriting delays.
 
-### Public Share Lending
+### Public Share liquidity engineering
 
 Minimum 5,000,000.  
 Ideal when equity positions are strong but liquidation is undesirable due to tax or market timing concerns.
