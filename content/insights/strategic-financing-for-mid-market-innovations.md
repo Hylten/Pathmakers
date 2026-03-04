@@ -1,7 +1,7 @@
 ---
 title: "Strategic Financing for Mid-Market Innovations"
 description: "A pragmatic exploration of liquidity and asset based lending solutions for mid-market operators seeking structural clarity and institutional grade execution."
-date: "2025-12-20"
+date: "2025-12-26"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-mid-market-innovations"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

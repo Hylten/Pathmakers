@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Path: Mid-Market Excellence"
 description: "A pragmatic examination of liquidity, private credit, and asset based lending strategies for mid‑market operators and HNWI investors."
-date: "2026-01-04"
+date: "2026-01-12"
 author: "Jonas Hyltén"
 slug: "the-sovereign-path:-mid-market-excellence"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

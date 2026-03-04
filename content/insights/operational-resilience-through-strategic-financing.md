@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience Through Strategic Financing"
 description: "A pragmatic analysis of liquidity, private credit, and asset based lending strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers."
-date: "2025-12-13"
+date: "2025-12-16"
 author: "Jonas Hyltén"
 slug: "operational-resilience-through-strategic-financing"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

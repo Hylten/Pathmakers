@@ -1,7 +1,7 @@
 ---
 title: "Using Precision Abl To Accelerate M&A And Carve Ou"
 description: "Using Precision Abl To Accelerate M&A And Carve Ou"
-date: "2026-01-06"
+date: "2026-01-15"
 author: "Jonas Hyltén"
 slug: "using-precision-abl-to-accelerate-m&a-and-carve-ou"
 keywords: "liquidity, private credit, ABL"

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Mid‑Market Growth With Private Credit"
 description: "A strategic analysis of how private credit and asset based lending create liquidity advantages for mid‑market operators and investors."
-date: "2026-01-05"
+date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "unlocking-mid-market-growth-with-private-credit"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "The Role of ABL in Technology Carve-Outs: Liquidity Engineering for Serious Operators"
 description: "A deep, pragmatic analysis of how Asset-Based Lending supports liquidity in technology carve-outs for HNWI and UHNW investors."
-date: "2026-01-03"
+date: "2026-01-11"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-technology-carve-outs"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"

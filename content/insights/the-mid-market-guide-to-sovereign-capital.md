@@ -1,7 +1,7 @@
 ---
 title: "The Mid-Market Guide to Sovereign Capital"
 description: "A strategic guide for HNWI and UHNW investors using private credit and asset based lending to unlock liquidity in the mid-market."
-date: "2025-12-25"
+date: "2026-01-02"
 author: "Jonas Hyltén"
 slug: "the-mid-market-guide-to-sovereign-capital"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Pathmaker"
