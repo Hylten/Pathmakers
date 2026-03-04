@@ -1,7 +1,7 @@
 ---
 title: "The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals"
 description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and UHNW investors can unlock deal flow using Private Credit and Asset-Based liquidity engineering with crypto liquidity."
-date: "2026-01-03"
+date: "2025-12-13"
 author: "Jonas Hyltén"
 slug: "the-nordic-m&a-outlook-leveraging-crypto-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

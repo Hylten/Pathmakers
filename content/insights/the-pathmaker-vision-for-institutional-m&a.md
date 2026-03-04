@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
 description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs."
-date: "2026-01-07"
+date: "2025-12-15"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-vision-for-institutional-m&a"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

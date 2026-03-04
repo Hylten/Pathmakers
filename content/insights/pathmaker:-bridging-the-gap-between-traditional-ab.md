@@ -1,7 +1,7 @@
 ---
 title: "Pathmaker: Bridging the Gap Between Traditional ABL and Digital Assets for Serious Liquidity Needs"
 description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
-date: "2025-12-18"
+date: "2025-12-02"
 author: "Jonas Hyltén"
 slug: "pathmaker:-bridging-the-gap-between-traditional-ab"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

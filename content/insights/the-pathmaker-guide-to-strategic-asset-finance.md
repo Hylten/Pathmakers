@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Strategic Asset Finance"
 description: "A pragmatic guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors seeking institutional grade leverage strategies."
-date: "2026-01-06"
+date: "2025-12-15"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-strategic-asset-finance"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

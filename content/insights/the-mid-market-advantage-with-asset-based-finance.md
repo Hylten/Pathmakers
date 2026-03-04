@@ -1,7 +1,7 @@
 ---
 title: "The Mid-Market Advantage with Asset-Based Finance"
 description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision."
-date: "2026-01-01"
+date: "2025-12-12"
 author: "Jonas Hyltén"
 slug: "the-mid-market-advantage-with-asset-based-finance"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

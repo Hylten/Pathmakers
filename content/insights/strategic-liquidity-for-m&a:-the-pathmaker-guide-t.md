@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
 description: "A pragmatic guide to strategic liquidity using private credit and asset based liquidity engineering for mid‑market M&A and healthcare carve‑outs."
-date: "2025-12-28"
+date: "2025-12-09"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-m&a:-the-pathmaker-guide-t"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
