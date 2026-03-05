@@ -1,7 +1,7 @@
 ---
 title: "Nordic Cross-Border M&A: The New Playbook for Institutional Grade Exit Readiness"
 description: "A technical memorandum on Nordic mid market cross border M&A, friction removal, operational standardization, and institutional buyer alignment. Authored by Jonas Hyltén in the capacity of strategic partner and introducer, providing analytical intelligence for allocators and corporate owners navigating 2026’s regime shift in European dealmaking."
-date: "2026-03-04"
+date: "2022-01-20"
 author: "Jonas Hyltén"
 slug: "nordic-cross-border-m-and-a-new-playbook"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

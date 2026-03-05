@@ -1,7 +1,7 @@
 ---
 title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution"
 description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural friction."
-date: "2026-03-04"
+date: "2023-12-20"
 author: "Jonas Hyltén"
 slug: "dark-arts-exit-readiness-ma-general-perspective"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

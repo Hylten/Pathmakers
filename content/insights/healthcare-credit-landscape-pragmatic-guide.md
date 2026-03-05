@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors"
 description: "Institutional briefing on structural inefficiencies in healthcare credit, exit readiness mechanics, and friction‑removal protocols for mid‑market M&A navigation."
-date: "2026-03-04"
+date: "2023-01-20"
 author: "Jonas Hyltén"
 slug: "healthcare-credit-landscape-pragmatic-guide"
 keywords: "kapitalanskaffning, private credit, healthcare credit, liquidity engineering, asset hardening, M&A, exit readiness"

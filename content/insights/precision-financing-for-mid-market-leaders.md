@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Mid-Market Leaders"
 description: "A strategic deep dive into liquidity engineering, private credit Capital Structuring, and asset based Strategic Collateralization for mid‑market operators, HNWI, and UHNW decision makers."
-date: "2025-12-04"
+date: "2021-08-21"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-mid-market-leaders"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

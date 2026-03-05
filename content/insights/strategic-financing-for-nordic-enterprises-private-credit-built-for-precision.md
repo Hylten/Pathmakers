@@ -1,7 +1,7 @@
 ---
 title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision"
 description: "A high authority guide to liquidity solutions and asset based liquidity engineering for Nordic enterprises seeking strategic capital."
-date: "2025-12-08"
+date: "2025-04-20"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-nordic-enterprises-private-credit-built-for-precision"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "The Role of ABL in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
 description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operators and private equity sponsors in Europe and North America."
-date: "2026-03-04"
+date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "abl-healthcare-carve-outs-liquidity-engineering"
 keywords: "kapitalanskaffning, private credit, Strategic Collateralization, healthcare carve outs, asset based lending, asset hardening, operational carve outs, mid market M&A"

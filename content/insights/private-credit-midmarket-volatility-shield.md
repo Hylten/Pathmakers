@@ -1,7 +1,7 @@
 ---
 title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle"
 description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation."
-date: "2026-03-05"
+date: "2023-07-07"
 author: "Jonas Hyltén — Analyst Team"
 slug: "private-credit-midmarket-volatility-shield"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -12,7 +12,7 @@ keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineerin
 ---
 title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle"
 description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation."
-date: "2026-03-05"
+date: "2023-07-07"
 author: "Jonas Hyltén - Analyst Team"
 slug: "private-credit-midmarket-volatility-shield"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

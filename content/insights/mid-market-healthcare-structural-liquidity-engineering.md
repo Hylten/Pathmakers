@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
 description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America."
-date: "2026-03-04"
+date: "2024-04-26"
 author: "Jonas Hyltén"
 slug: "mid-market-healthcare-structural-liquidity-engineering"
 keywords: "kapitalanskaffning, private credit, Strategic Collateralization, healthcare M&A, asset hardening, operational intelligence"

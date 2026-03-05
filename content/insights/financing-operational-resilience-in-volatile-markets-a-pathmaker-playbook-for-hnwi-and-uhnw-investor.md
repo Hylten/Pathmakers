@@ -1,7 +1,7 @@
 ---
 title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors"
 description: "A strategic view of liquidity, private credit, and asset based liquidity engineering structures that reinforce operational resilience in volatile markets."
-date: "2025-11-26"
+date: "2024-07-22"
 author: "Jonas Hyltén"
 slug: "financing-operational-resilience-in-volatile-markets-a-pathmaker-playbook-for-hnwi-and-uhnw-investor"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Pathmaker"

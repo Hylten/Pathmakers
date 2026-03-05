@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Architecture for Sovereign Financing Within HNWI and UHNW Portfolios"
 description: "A technical briefing on the Pathmaker model for exit readiness, sovereign-aligned capital formation, and frictionless off-market M&A origination. Framework by Jonas Hyltén, positioned for European and global allocators."
-date: "2026-03-04"
+date: "2022-08-06"
 author: "Jonas Hyltén"
 slug: "pathmaker-approach-sovereign-financing-hnwi-uhnw"
 keywords: "kapitalanskaffning, sovereign financing, private credit, liquidity engineering, asset hardening, M&A, exit readiness"

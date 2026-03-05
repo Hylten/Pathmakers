@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs"
 description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs from Roials Capital and Hyltén Invest."
-date: "2025-12-02"
+date: "2024-02-23"
 author: "Jonas Hyltén"
 slug: "operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs"
 keywords: "private credit, asset based liquidity engineering, strategic capital"

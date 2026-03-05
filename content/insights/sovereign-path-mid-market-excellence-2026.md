@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
 description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways."
-date: "2026-03-04"
+date: "2024-03-11"
 author: "Jonas Hyltén"
 slug: "sovereign-path-mid-market-excellence-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, Pathmaker, 2026, Capital Structuring"

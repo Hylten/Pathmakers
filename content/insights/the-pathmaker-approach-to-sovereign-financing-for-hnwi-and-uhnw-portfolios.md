@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
 description: "A strategic deep dive into liquidity generation, private credit, and asset based liquidity engineering for sovereign grade control."
-date: "2025-12-14"
+date: "2022-03-06"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-sovereign-financing-for-hnwi-and-uhnw-portfolios"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Pathmaker"

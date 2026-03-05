@@ -1,7 +1,7 @@
 ---
 title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions"
 description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments."
-date: "2026-03-05"
+date: "2025-10-02"
 author: "The Analyst Team"
 slug: "tactical-intelligence-nordic-cross-border-acquisition"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity in Mid-Market M&A: The Silent Lever Behind Real Acquisition Power"
 description: "A pragmatic analysis of liquidity engineering in mid-market M&A, with a focus on private credit and asset based Asset-Backed Frameworks strategies for sophisticated buyers."
-date: "2025-12-10"
+date: "2023-10-27"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-mid-market-ma-the-silent-lever-behind-real-acquisition-power"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

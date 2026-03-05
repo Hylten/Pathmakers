@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
 description: "A principal-grade institutional brief on hybrid liquidity engineering, mid‑market M&A acceleration, and tactical financing architectures that remove friction, compress timelines, and strengthen exit readiness across Fund-III mandates."
-date: "2026-03-05"
+date: "2022-03-30"
 author: "The Analyst Team – Pathmaker"
 slug: "strategic-liquidity-ma-hybrid-financing"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening"

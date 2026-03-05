@@ -1,7 +1,7 @@
 ---
 title: "Private Credit as the Silent Engine of Mid-Market M&A"
 description: "Analyst-grade brief on how private credit restructures mid-market M&A, accelerates exit readiness, and neutralizes friction through liquidity engineering, covenant design, and off-market acquisition intelligence."
-date: "2026-03-04"
+date: "2023-06-04"
 author: "The Analyst Team"
 slug: "private-credit-mid-market-ma-power-analyst-brief"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
 description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition optionality."
-date: "2026-03-04"
+date: "2021-07-07"
 author: "The Analyst Team"
 slug: "operational-resilience-debt-guardrail-mature-enterprises"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

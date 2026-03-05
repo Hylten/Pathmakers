@@ -1,7 +1,7 @@
 ---
 title: "Precision Liquidity for Nordic Logistics"
 description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based liquidity engineering, and strategic capital structure for HNWI and UHNW investors."
-date: "2025-12-05"
+date: "2025-11-09"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-nordic-logistics"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Pathmaker"

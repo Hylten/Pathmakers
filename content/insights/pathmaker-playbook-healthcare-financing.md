@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Playbook for Healthcare Financing"
 description: "A technical memo on capital structuring, exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility."
-date: "2026-03-04"
+date: "2022-12-18"
 author: "Jonas Hyltén"
 slug: "pathmaker-playbook-healthcare-financing"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, healthcare M&A, asset hardening, operational intelligence"

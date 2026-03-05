@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Nordic Growth"
 description: "A strategic, liquidity‑focused guide to Nordic expansion, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking institutional‑grade leverage."
-date: "2025-12-15"
+date: "2021-03-21"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-nordic-growth"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Pathmaker"

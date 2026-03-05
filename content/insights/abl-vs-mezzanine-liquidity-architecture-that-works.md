@@ -1,7 +1,7 @@
 ---
 title: "ABL vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
 description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and Nordic market conditions."
-date: "2026-03-04"
+date: "2021-10-12"
 author: "Jonas Hyltén"
 slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
 keywords: "kapitalanskaffning, M&A, private credit, Asset-Backed Frameworks, asset hardening, exit readiness, Nordic markets"

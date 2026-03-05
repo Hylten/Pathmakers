@@ -1,7 +1,7 @@
 ---
 title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
 description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators."
-date: "2026-03-04"
+date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "healthcare-ma-strategies-jonas-hylten-2026"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

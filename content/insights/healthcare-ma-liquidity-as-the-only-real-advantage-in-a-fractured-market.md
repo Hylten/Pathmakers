@@ -1,7 +1,7 @@
 ---
 title: "Healthcare M&A: Liquidity as the Only Real Advantage in a Fractured Market"
 description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2025-11-27"
+date: "2021-06-10"
 author: "Jonas Hyltén"
 slug: "healthcare-ma-liquidity-as-the-only-real-advantage-in-a-fractured-market"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Pathmaker"

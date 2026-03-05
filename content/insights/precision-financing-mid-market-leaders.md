@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises"
 description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within European and North American capital regimes."
-date: "2026-03-04"
+date: "2025-01-27"
 author: "Jonas Hyltén"
 slug: "precision-financing-mid-market-leaders"
 keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, asset hardening, M&A readiness, tactical intelligence, mid-market Europe"

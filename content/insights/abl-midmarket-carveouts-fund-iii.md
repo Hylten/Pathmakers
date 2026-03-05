@@ -1,7 +1,7 @@
 ---
 title: "How ABL Reconfigures Mid‑Market Carve‑Outs for Fund-III Precision"
 description: "Analyst-grade examination of how Asset‑Based Lending restructures mid‑market carve‑outs, dissolves M&A friction, unlocks exit readiness, and creates off‑market acquisition optionality for private equity operators facing operational separation, liquidity stress, or legacy corporate entanglement."
-date: "2026-03-04"
+date: "2023-10-23"
 author: "The Analyst Team"
 slug: "abl-midmarket-carveouts-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

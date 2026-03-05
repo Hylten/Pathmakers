@@ -1,7 +1,7 @@
 ---
 title: "Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators"
 description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators from Roials Capital and Hyltén Invest."
-date: "2025-11-29"
+date: "2021-12-20"
 author: "Jonas Hyltén"
 slug: "middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators"
 keywords: "private credit, asset based liquidity engineering, strategic capital"

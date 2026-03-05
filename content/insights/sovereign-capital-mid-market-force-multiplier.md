@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital as a Mid‑Market Force Multiplier"
 description: "A high‑density institutional briefing on sovereign capital, mid‑market power dynamics, exit readiness architecture, liquidity engineering, and off‑market acquisition intelligence."
-date: "2026-03-04"
+date: "2021-07-22"
 author: "The Analyst Team"
 slug: "sovereign-capital-mid-market-force-multiplier"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

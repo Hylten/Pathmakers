@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises"
 description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing for strategic divestiture or institutional capital entry."
-date: "2026-03-04"
+date: "2022-01-16"
 author: "Jonas Hyltén"
 slug: "operational-resilience-human-friction-removal-exit-readiness"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

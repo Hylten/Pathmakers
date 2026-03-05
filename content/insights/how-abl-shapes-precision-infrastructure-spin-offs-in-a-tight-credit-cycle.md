@@ -1,7 +1,7 @@
 ---
 title: "How ABL Shapes Precision Infrastructure Spin-Offs in a Tight Credit Cycle"
 description: "A strategic analysis of how Asset Based liquidity engineering unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors."
-date: "2025-11-27"
+date: "2025-03-07"
 author: "Jonas Hyltén"
 slug: "how-abl-shapes-precision-infrastructure-spin-offs-in-a-tight-credit-cycle"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Pathmaker"

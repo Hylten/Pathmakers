@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
 description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North American transaction regimes."
-date: "2026-03-04"
+date: "2023-10-24"
 author: "Jonas Hyltén"
 slug: "precision-financing-cross-border-mna-liquidity-engineering"
 keywords: "kapitalanskaffning, private credit, Asset-Backed Frameworks, asset hardening, M&A, cross-border, exit readiness"

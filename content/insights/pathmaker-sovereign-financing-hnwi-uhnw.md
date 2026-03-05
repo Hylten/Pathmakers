@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
 description: "A principal‑grade briefing on sovereign financing architecture, exit readiness mechanics, off‑market deal origination, and liquidity engineering for high‑intent mid‑market operations."
-date: "2026-03-04"
+date: "2025-04-15"
 author: "Analyst Team — Pathmaker"
 slug: "pathmaker-sovereign-financing-hnwi-uhnw"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

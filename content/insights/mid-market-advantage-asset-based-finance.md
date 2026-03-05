@@ -1,7 +1,7 @@
 ---
 title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination"
 description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North American private markets. Prepared as a high-density strategic memo for allocators, UHNW principals, and acquisition-focused operators."
-date: "2026-03-04"
+date: "2024-01-15"
 author: "Jonas Hyltén"
 slug: "mid-market-advantage-asset-based-finance"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

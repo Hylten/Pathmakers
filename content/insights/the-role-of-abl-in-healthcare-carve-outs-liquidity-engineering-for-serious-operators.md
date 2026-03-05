@@ -1,7 +1,7 @@
 ---
 title: "The Role of ABL in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
 description: "A tactical analysis of how asset based Monetization Architecture drives liquidity, speed, and structural certainty in healthcare carve-outs for HNWI and UHNW investors."
-date: "2025-12-17"
+date: "2024-09-11"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
 description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes."
-date: "2026-03-04"
+date: "2021-06-13"
 author: "Jonas Hyltén"
 slug: "asset-based-lending-precision-infrastructure-spin-offs"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

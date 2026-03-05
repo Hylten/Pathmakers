@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
 description: "A deep analysis of strategic liquidity mechanics for Nordic carve-outs, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2025-12-09"
+date: "2025-02-27"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-nordic-carve-outs-a-pragmatic-path-to-execution"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Pathmaker"

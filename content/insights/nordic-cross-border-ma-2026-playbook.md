@@ -1,7 +1,7 @@
 ---
 title: "Nordic Cross-Border M&A: The 2026 Playbook for Institutional Operators"
 description: "A high-density institutional briefing on Nordic cross-border M&A mechanics in 2026, engineered for mid-market operators, private credit allocators, and strategic acquirers seeking frictionless execution, exit readiness, and off‑market origination."
-date: "2026-03-04"
+date: "2021-11-25"
 author: "Analyst Team — Tactical Intelligence (Jonas Hyltén)"
 slug: "nordic-cross-border-ma-2026-playbook"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

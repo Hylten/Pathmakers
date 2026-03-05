@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Nordic Growth: Institutional Mechanics of Exit Readiness and Mid-Market Acceleration"
 description: "A technical navigation framework for Nordic mid-market operators seeking frictionless M&A pathways, off-market origination, and balance sheet alignment. Authored by Jonas Hylten in the voice of The General."
-date: "2026-03-04"
+date: "2021-03-06"
 author: "Jonas Hylten"
 slug: "pathmaker-guide-nordic-growth"
 keywords: "kapitalanskaffning, nordic m&a, private credit, liquidity engineering, exit readiness, asset hardening, mid-market, operational intelligence"

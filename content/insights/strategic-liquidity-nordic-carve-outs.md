@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
 description: "Analyst-grade briefing on Nordic carve-out liquidity engineering, off‑market deal sourcing, and friction‑reduced exit readiness for mid‑market operators across Sweden, Norway, Denmark, and Finland."
-date: 2026-03-05
+date: 2024-01-13
 author: Analyst Team — Pathmaker Division
 slug: strategic-liquidity-nordic-carve-outs
 keywords: kapitalanskaffning, private credit, Strategic Collateralization, asset hardening

@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
 description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
-date: "2025-12-01"
+date: "2022-02-03"
 author: "Jonas Hyltén"
 slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Pathmaker"

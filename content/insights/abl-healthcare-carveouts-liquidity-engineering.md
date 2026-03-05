@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Function of ABL in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
 description: "A deep institutional analysis of asset‑based lending structures in healthcare carve‑outs, engineered to reduce M&A friction, accelerate exit readiness, and weaponize liquidity as a tactical advantage in mid‑market deal origination."
-date: "2026-03-05"
+date: "2024-10-13"
 author: "The Analyst Team"
 slug: "abl-healthcare-carveouts-liquidity-engineering"
 keywords: "kapitalanskaffning, private credit, Asset-Backed Frameworks, asset hardening"

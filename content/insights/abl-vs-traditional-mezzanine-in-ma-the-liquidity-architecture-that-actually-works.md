@@ -1,7 +1,7 @@
 ---
 title: "ABL vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
 description: "A pragmatic analysis of ABL versus mezzanine financing in mid‑market M&A, focused on liquidity, structural control, and real-world execution for HNWI and UHNW investors."
-date: "2025-11-25"
+date: "2024-06-22"
 author: "Jonas Hyltén"
 slug: "abl-vs-traditional-mezzanine-in-ma-the-liquidity-architecture-that-actually-works"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"

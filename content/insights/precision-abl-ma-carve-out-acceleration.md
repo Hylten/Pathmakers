@@ -1,7 +1,7 @@
 ---
 title: "Precision ABL As A Force Multiplier For Mid Market M&A And Carve Out Acceleration"
 description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and North American regimes."
-date: "2026-03-04"
+date: "2023-01-22"
 author: "Jonas Hyltén"
 slug: "precision-abl-ma-carve-out-acceleration"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, operational intelligence, exit readiness, carve out optimization"

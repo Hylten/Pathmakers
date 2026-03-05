@@ -1,7 +1,7 @@
 ---
 title: "Strategic Carve-Outs in the Nordic Market: Liquidity, Precision, and Structural Advantage"
 description: "A principal-grade briefing on Nordic carve-out dynamics, liquidity engineering, and structural positioning for high‑intent mid‑market operators seeking frictionless exits and off‑market acquisition pathways."
-date: "2026-03-04"
+date: "2023-01-18"
 author: "Analyst Team – Pathmaker Division"
 slug: "strategic-carve-outs-nordic-liquidity-precision-structural-advantage"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

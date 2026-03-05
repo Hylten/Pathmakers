@@ -1,7 +1,7 @@
 ---
 title: "How ABL Reshapes Private Equity Carve-Outs in the Mid-Market"
 description: "A strategic analysis of how Asset-Based liquidity engineering delivers liquidity, speed, and structural leverage in private equity carve-outs."
-date: "2025-12-18"
+date: "2025-07-02"
 author: "Jonas Hyltén"
 slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

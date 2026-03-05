@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Approach to Asset‑Based Liquidity Engineering for Mid‑Market Operators"
 description: "A high-density institutional brief on structural liquidity, asset-based leverage systems, and exit-readiness architecture for mid-market operators seeking frictionless M&A and off‑market capital access."
-date: "2026-03-05"
+date: "2023-01-03"
 author: "Pathmaker Analyst Team"
 slug: "pathmaker-asset-based-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

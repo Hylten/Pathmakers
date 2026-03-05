@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
 description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability."
-date: "2025-12-19"
+date: "2023-10-21"
 author: "Jonas Hyltén"
 slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

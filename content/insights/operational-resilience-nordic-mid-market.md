@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience in the Nordic Mid‑Market: A Principal Doctrine for Exit‑Ready Enterprises"
 description: "A high-density institutional briefing on Nordic operational resilience, exit readiness, off‑market deal flow, and liquidity engineering for mid‑market operators requiring frictionless M&A throughput."
-date: "2026-03-05"
+date: "2024-08-28"
 author: "Tactical Intelligence – Analyst Team"
 slug: "operational-resilience-nordic-mid-market"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

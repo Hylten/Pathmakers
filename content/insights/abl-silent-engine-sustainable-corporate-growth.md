@@ -1,7 +1,7 @@
 ---
 title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
 description: "Institutional analysis on the expanding role of ABL in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America."
-date: "2026-03-04"
+date: "2021-02-16"
 author: "Jonas Hyltén"
 slug: "abl-silent-engine-sustainable-corporate-growth"
 keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, asset hardening, ABL, mid-market M&A, exit readiness"

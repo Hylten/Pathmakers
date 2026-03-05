@@ -1,7 +1,7 @@
 ---
 title: "M&A Warfare: Navigating The Middle Market Credit G"
 description: "M&A Warfare: Navigating The Middle Market Credit G"
-date: "2025-11-28"
+date: "2023-10-22"
 author: "Jonas Hyltén"
 slug: "ma-warfare-navigating-the-middle-market-credit-g"
 keywords: "private credit, ABL, liquidity"

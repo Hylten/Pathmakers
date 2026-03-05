@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
 description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility."
-date: "2026-03-04"
+date: "2022-03-27"
 author: "Jonas Hyltén"
 slug: "pathmaker-approach-sovereign-financing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

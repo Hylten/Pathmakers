@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
 description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment, operational intelligence, and the sovereign discipline underlying durable value creation."
-date: "2026-03-04"
+date: "2024-08-15"
 author: "Jonas Hyltén"
 slug: "sovereign-path-mid-market-excellence-enduring-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "M&A Warfare: Navigating the Middle Market Credit Gridlock and Engineering Exit Readiness With Tactical Precision"
 description: "Institutional analysis of mid-market M&A compression, credit dislocation, operational friction, and off-market acquisition engineering. A strategic framework for allocators and operators recalibrating for 2026 competitive realities."
-date: "2026-03-04"
+date: "2023-04-29"
 author: "Jonas Hyltén"
 slug: "ma-warfare-middle-market-credit-gridlock"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, M&A readiness, off market origination, institutional navigation"

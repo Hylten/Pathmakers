@@ -1,7 +1,7 @@
 ---
 title: "The Power of Sovereign Capital in Mid-Market Deals"
 description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of sovereign balance sheets in strategic calibration for European and global operators."
-date: "2026-03-04"
+date: "2024-05-01"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-mid-market-power"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, mid-market M&A, exit readiness, institutional capital"

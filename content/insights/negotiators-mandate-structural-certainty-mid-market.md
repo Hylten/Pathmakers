@@ -1,7 +1,7 @@
 ---
 title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions"
 description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture."
-date: "2026-03-04"
+date: "2025-03-02"
 author: "Jonas Hyltén"
 slug: "negotiators-mandate-structural-certainty-mid-market"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

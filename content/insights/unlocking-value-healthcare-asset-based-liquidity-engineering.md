@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering"
 description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning."
-date: "2026-03-04"
+date: "2023-07-24"
 author: "Jonas Hyltén – The Analyst Team"
 slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
 keywords: "kapitalanskaffning, private credit, Asset-Backed Frameworks, asset hardening"

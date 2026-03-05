@@ -1,7 +1,7 @@
 ---
 title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration"
 description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authored with the conviction and operational clarity of Jonas Hyltén."
-date: "2026-03-04"
+date: "2023-01-12"
 author: "Jonas Hyltén"
 slug: "friction-elimination-mid-market-carve-outs"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, off market M&A, carve outs, operational disentanglement"

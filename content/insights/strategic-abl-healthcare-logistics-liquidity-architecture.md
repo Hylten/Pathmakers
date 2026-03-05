@@ -1,7 +1,7 @@
 ---
 title: "Strategic ABL Architecture for Healthcare Logistics"
 description: "A dense institutional briefing on liquidity engineering, asset-based credit structures, and exit-oriented balance‑sheet optimization for healthcare logistics operators navigating real‑world constraints and mid‑market transaction friction."
-date: "2026-03-04"
+date: "2021-11-11"
 author: "The Analyst Team"
 slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
 keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, asset hardening"

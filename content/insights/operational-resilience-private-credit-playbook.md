@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
 description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments."
-date: "2026-03-04"
+date: "2022-01-27"
 author: "Jonas Hyltén"
 slug: "operational-resilience-private-credit-playbook"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

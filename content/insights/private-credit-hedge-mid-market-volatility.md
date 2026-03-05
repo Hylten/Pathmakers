@@ -1,7 +1,7 @@
 ---
 title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness"
 description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring, and off market origination. Strategic memo framed for allocators and principal sponsors navigating a fractured M&A environment."
-date: "2026-03-04"
+date: "2023-10-20"
 author: "Jonas Hyltén"
 slug: "private-credit-hedge-mid-market-volatility"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening, mid market M&A, exit readiness, deal origination"

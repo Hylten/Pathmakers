@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Institutional Liquidity"
 description: "Technical intelligence on institutional liquidity engineering, capital efficiency structuring, and principal grade deployment pathways for 2026 private equity markets."
-date: "2026-03-04"
+date: "2022-08-11"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-to-institutional-liquidity"
 keywords: "kapitalanskaffning, private equity, Fund-III, Pathmaker, 2026, Institutional Liquidity Paths"

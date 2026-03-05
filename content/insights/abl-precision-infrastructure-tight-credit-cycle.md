@@ -1,7 +1,7 @@
 ---
 title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
 description: "A technical institutional briefing on how ABL structures recalibrate mid market precision infrastructure carve outs, reduce M and A friction, harden cash flow visibility, and accelerate exit readiness for strategic acquirers in a constrained credit regime."
-date: "2026-03-04"
+date: "2026-01-05"
 author: "Jonas Hyltén"
 slug: "abl-precision-infrastructure-tight-credit-cycle"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity for Cross-Border Carve-Outs"
 description: "A principal-grade briefing on liquidity architecture, cross-border carve-out velocity, and mid-market exit preparation designed for institutional operators, private credit desks, and off-market acquisition teams."
-date: "2026-03-05"
+date: "2024-06-13"
 author: "Analyst Team – Tactical Intelligence"
 slug: "strategic-liquidity-cross-border-carve-outs"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

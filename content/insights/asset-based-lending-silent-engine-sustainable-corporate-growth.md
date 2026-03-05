@@ -1,7 +1,7 @@
 ---
 title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
 description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination."
-date: "2026-03-04"
+date: "2024-09-25"
 author: "The Analyst Team"
 slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

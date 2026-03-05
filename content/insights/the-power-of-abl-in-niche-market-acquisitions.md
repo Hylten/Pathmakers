@@ -1,7 +1,7 @@
 ---
 title: "The Power of ABL in Niche Market Acquisitions"
 description: "A deep institutional analysis of how asset based lending structures reshape niche market acquisitions, mid market capital formation, and liquidity engineering for private equity sponsors positioning for 2026 vintage strategies."
-date: "2026-03-04"
+date: "2021-05-06"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-niche-market-acquisitions"
 keywords: "kapitalanskaffning, private equity, Fund-III, Pathmaker, 2026, Institutional Liquidity Paths"

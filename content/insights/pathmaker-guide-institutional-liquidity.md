@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Guide to Institutional Liquidity: Tactical Intelligence for Exit Readiness and M&A Precision"
 description: "A strategic memo on liquidity engineering, institutional readiness, and off-market acquisition pathways for mid-market operators seeking frictionless capital interactions across Europe and North America."
-date: "2026-03-04"
+date: "2023-02-25"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-institutional-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness"
 description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator. Focus on tactical intelligence and off market origination."
-date: "2026-03-04"
+date: "2021-11-06"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-nordic-logistics"
 keywords: "kapitalanskaffning, private credit, Capital Structuring, asset hardening, Nordic logistics, exit readiness, M and A friction"

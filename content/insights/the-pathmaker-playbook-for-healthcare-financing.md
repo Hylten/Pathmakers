@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Playbook for Healthcare Financing"
 description: "A strategic deep dive into liquidity engineering and asset based Monetization Architecture for mid market healthcare operators seeking institutional grade capital solutions."
-date: "2025-12-15"
+date: "2022-03-21"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-playbook-for-healthcare-financing"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Pathmaker"

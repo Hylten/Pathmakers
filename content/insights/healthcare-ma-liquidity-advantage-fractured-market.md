@@ -1,7 +1,7 @@
 ---
 title: "Healthcare M&A: Liquidity as the Final Advantage in a Fractured Market"
 description: "A principal-level institutional briefing on liquidity asymmetry, exit readiness, and frictionless M&A architecture in mid‑market healthcare."
-date: "2026-03-04"
+date: "2021-08-06"
 author: "Jonas Hyltén — The Analyst Team"
 slug: "healthcare-ma-liquidity-advantage-fractured-market"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening"

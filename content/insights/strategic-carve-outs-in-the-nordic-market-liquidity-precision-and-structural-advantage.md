@@ -1,7 +1,7 @@
 ---
 title: "Strategic Carve-Outs in the Nordic Market: Liquidity, Precision, and Structural Advantage"
 description: "A high-authority analysis of Nordic carve-outs with focus on liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2025-12-07"
+date: "2023-05-17"
 author: "Jonas Hyltén"
 slug: "strategic-carve-outs-in-the-nordic-market-liquidity-precision-and-structural-advantage"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

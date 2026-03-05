@@ -1,7 +1,7 @@
 ---
 title: "The Dark Arts of Exit Readiness: A General’s Perspective"
 description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events."
-date: "2026-03-04"
+date: "2025-05-10"
 author: "Jonas Hyltén — The Analyst Team"
 slug: "dark-arts-exit-readiness-generals-perspective"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

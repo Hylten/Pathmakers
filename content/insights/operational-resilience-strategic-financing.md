@@ -1,7 +1,7 @@
 ---
 title: "Operational Resilience Through Strategic Financing: Institutional Mechanics for Exit-Ready Enterprises"
 description: "A high density analyst briefing on structural financing gaps, liquidity engineering, balance sheet optimization, and the operational mechanics required to achieve exit readiness and eliminate M&A friction across the European and North American mid market landscape."
-date: "2026-03-04"
+date: "2022-08-16"
 author: "Jonas Hyltén"
 slug: "operational-resilience-strategic-financing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

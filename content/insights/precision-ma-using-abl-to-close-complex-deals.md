@@ -1,7 +1,7 @@
 ---
 title: "Precision M&A: Using ABL to Close Complex Deals"
 description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions."
-date: "2025-12-06"
+date: "2021-01-31"
 author: "Jonas Hyltén"
 slug: "precision-ma-using-abl-to-close-complex-deals"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Pathmaker"

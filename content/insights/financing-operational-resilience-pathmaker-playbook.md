@@ -1,7 +1,7 @@
 ---
 title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors"
 description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes."
-date: "2026-03-05"
+date: "2025-10-10"
 author: "Tactical Intelligence | Analyst Team"
 slug: "financing-operational-resilience-pathmaker-playbook"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

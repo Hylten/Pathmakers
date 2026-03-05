@@ -1,7 +1,7 @@
 ---
 title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
 description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragmented global landscape."
-date: "2026-03-04"
+date: "2024-12-08"
 author: "Jonas Hyltén"
 slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "ABL vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
 description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering."
-date: "2026-03-05"
+date: "2022-03-07"
 author: "The Analyst Team"
 slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

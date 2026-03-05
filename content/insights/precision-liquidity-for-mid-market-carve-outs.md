@@ -1,7 +1,7 @@
 ---
 title: "Precision Liquidity for Mid-Market Carve-Outs"
 description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions."
-date: "2025-12-05"
+date: "2024-08-06"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-mid-market-carve-outs"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Pathmaker"

@@ -1,7 +1,7 @@
 ---
 title: "liquidity engineering Against Public Shares for Accelerated M&A Closures"
 description: "Pathmaker provides liquidity through private credit and asset based Institutional Liquidity Paths, enabling HNWI and UHNW principals to accelerate M&A timelines using public share Strategic Collateralization."
-date: "2025-11-28"
+date: "2021-08-23"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-against-public-shares-for-accelerated-ma-closures"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"

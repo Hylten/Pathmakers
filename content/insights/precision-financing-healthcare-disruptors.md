@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Healthcare Disruptors: Institutional Mechanics for Exit-Ready Operators"
 description: "A clinical analyst briefing outlining precision financing structures for mid market healthcare operators, focused on liquidity engineering, balance sheet optimization, and frictionless M&A readiness."
-date: "2026-03-04"
+date: "2025-07-17"
 author: "Jonas Hyltén"
 slug: "precision-financing-healthcare-disruptors"
 keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, asset hardening, healthcare M&A, exit readiness"

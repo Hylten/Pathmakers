@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures"
 description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from public equity holdings."
-date: "2026-03-04"
+date: "2023-02-15"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-public-shares-ma-closures"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators"
 description: "A clinical institutional briefing on the role of ABL structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North America."
-date: "2026-03-04"
+date: "2023-09-04"
 author: "Jonas Hyltén"
 slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

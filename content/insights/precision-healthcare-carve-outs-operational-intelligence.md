@@ -1,7 +1,7 @@
 ---
 title: "Precision Healthcare Carve-outs and the Institutional Discipline of Exit-Ready Operational Engineering"
 description: "Analyst-grade evaluation of precision healthcare carve-out dynamics, focusing on operational disentanglement, clinical workflow segregation, balance sheet restructuring, and M&A friction removal to increase exit readiness and reduce transaction latency across European and Nordic mid-market ecosystems."
-date: "2026-03-04"
+date: "2021-12-14"
 author: "Jonas Hyltén"
 slug: "precision-healthcare-carve-outs-operational-intelligence"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, healthcare carve-out, operational intelligence, asset hardening, institutional archetype"

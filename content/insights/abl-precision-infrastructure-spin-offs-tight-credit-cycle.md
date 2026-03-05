@@ -1,7 +1,7 @@
 ---
 title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
 description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions."
-date: "2026-03-04"
+date: "2022-11-16"
 author: "Jonas Hyltén"
 slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, ABL, precision infrastructure, operational carve outs, mid market M&A"

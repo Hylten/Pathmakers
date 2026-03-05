@@ -1,7 +1,7 @@
 ---
 title: "Strategic Mechanics of Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
 description: "Institutional briefing on liquidity engineering, balance sheet optimization, and hybrid collateral frameworks that remove M&A friction in healthcare carve-out transactions while preserving operational continuity and exit readiness."
-date: "2026-03-04"
+date: "2022-06-26"
 author: "Jonas Hyltén"
 slug: "healthcare-carve-outs-hybrid-asset-collateral"
 keywords: "kapitalanskaffning, private credit, healthcare carve-outs, Monetization Architecture, asset hardening, balance sheet optimization"

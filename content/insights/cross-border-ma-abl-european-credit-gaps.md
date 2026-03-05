@@ -1,7 +1,7 @@
 ---
 title: "Cross‑Border M&A and ABL Precision in European Credit Gaps"
 description: "Technical brief on structural leverage, off‑market acquisition flow, and asset‑based liquidity engineering for mid‑market European operators navigating cross‑border M&A compression and private‑credit fragmentation."
-date: "2026-03-04"
+date: "2024-04-30"
 author: "The Analyst Team"
 slug: "cross-border-ma-abl-european-credit-gaps"
 keywords: "kapitalanskaffning, private credit, Strategic Collateralization, asset hardening"

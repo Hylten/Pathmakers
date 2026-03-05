@@ -1,7 +1,7 @@
 ---
 title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators"
 description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined sourcing mechanics for off-market transactions."
-date: "2026-03-04"
+date: "2024-09-10"
 author: "Jonas Hyltén"
 slug: "middle-market-carve-outs-pragmatic-playbook"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, operational carve-outs, mid-market M&A"

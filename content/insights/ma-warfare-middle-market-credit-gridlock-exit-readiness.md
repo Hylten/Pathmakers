@@ -1,7 +1,7 @@
 ---
 title: "M&A Warfare: Engineering Exit Readiness Inside the Middle Market Credit Gridlock"
 description: "A high-density institutional briefing on mid-market M&A friction, private-credit chokepoints, exit readiness engineering, and off‑market deal origination mandates."
-date: "2026-03-05"
+date: "2024-03-01"
 author: "The Analyst Team"
 slug: "ma-warfare-middle-market-credit-gridlock-exit-readiness"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

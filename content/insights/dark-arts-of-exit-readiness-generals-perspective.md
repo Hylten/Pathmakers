@@ -1,7 +1,7 @@
 ---
 title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality"
 description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Institutional Voice with tactical overlays from Jonas Hyltén."
-date: "2026-03-04"
+date: "2024-08-08"
 author: "Jonas Hyltén"
 slug: "dark-arts-of-exit-readiness-generals-perspective"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"

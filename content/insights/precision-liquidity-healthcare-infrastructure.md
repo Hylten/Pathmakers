@@ -1,7 +1,7 @@
 ---
 title: "Precision Liquidity Architecture for Healthcare Infrastructure"
 description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intelligence for UHNWIs, private credit allocators, and institutional LPs evaluating frictionless transaction execution."
-date: "2026-03-04"
+date: "2021-10-23"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-healthcare-infrastructure"
 keywords: "kapitalanskaffning, private credit, Capital Structuring, healthcare infrastructure, asset hardening"
