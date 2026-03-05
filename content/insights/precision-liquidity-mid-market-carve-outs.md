@@ -4,7 +4,7 @@ description: "Institutional briefing on tactical liquidity engineering, carve-ou
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-mid-market-carve-outs"
-keywords: "kapitalanskaffning, private credit, liquidity engineering, carve-outs, exit readiness, operational separation, asset hardening"
+keywords: "kapitalanskaffning, private credit, Capital Structuring, carve-outs, exit readiness, operational separation, asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -31,19 +31,19 @@ Carve-outs succeed when the liquidity architecture, cost separation, and operati
 
 Key mechanics include:
 
-1. Liquidity Engineering  
+1. Asset-Backed Frameworks 
 Carve-out liquidity must be engineered to support operational continuity during the transitional period. This includes stabilization capital, transitional cash buffers, and structural liquidity corridors. Precision Liquidity is calibrated through timeline analysis, operational sequencing, and divisional cash flow mapping. It is not a generic working capital top-up but a deliberately structured liquidity frame that matches the operational load of the separation phase.
 
-2. Balance Sheet Optimization  
+2. Balance Sheet Optimization 
 The separation balance sheet must be constructed to withstand the due diligence compression seen in 2025 through 2026. Buyers no longer accept ambiguous liabilities, opaque intra company flows, or unsegmented cost centers. Balance Sheet Optimization requires isolating the capital allocation logic and creating a balance sheet that can be valued independently without referencing the legacy parent.
 
-3. Operational Independence Mapping  
+3. Operational Independence Mapping 
 Institutional buyers prioritize assets with clear independence architecture. This includes standalone HR systems, divested procurement channels, isolated IT infrastructure, and fully burdened P&L structures. The operational map becomes part of the valuation thesis. When the map is incomplete, transactional confidence erodes.
 
-4. Asset Hardening  
+4. Asset Hardening 
 Hardening initiatives convert vulnerable operational dependencies into stable stand-alone assets. Examples include transitioning shared IT into modularized systems, transferring vendor contracts to independent frameworks, and clarifying intellectual property ownership. Hardened assets lower the buyer's integration risk and improve the attractiveness of the carve-out.
 
-5. Exit Readiness Documentation  
+5. Exit Readiness Documentation 
 Exit readiness requires precision documentation. This includes financial granularity, cost allocations, transfer pricing, and vendor rationalization. The objective is to eliminate informational asymmetry before the buyer attempts to price the asset.
 
 These mechanics reduce M&A friction by enabling the buyer to underwrite not only the financial performance of the division but also the operational survivability of the standalone entity. High caliber institutional buyers, particularly in the Nordic and Northern European markets, apply increasingly strict filters in these categories.
@@ -54,13 +54,13 @@ Roials Capital operates as a strategic navigator for corporate owners preparing 
 
 Three pillars define the partnership model.
 
-1. Operational Intelligence  
+1. Operational Intelligence 
 The process begins with mapping the operational structure of the division. This includes cost allocations, dependencies, capabilities, and latent inefficiencies. The mapping identifies friction zones that can delay or impair transaction execution.
 
-2. Liquidity Architecture Calibration  
+2. Liquidity Architecture Calibration 
 Roials Capital, in partnership with specialist practitioners, designs liquidity corridors that stabilize the operational separation. The work includes liquidity sequencing, transitional capital structures, and the construction of a carve-out balance sheet that institutional buyers can underwrite without uncertainty.
 
-3. Institutional Introduction  
+3. Institutional Introduction 
 Once operational readiness and liquidity precision are in place, Roials facilitates structured introductions to buyers and capital partners who align with the strategic profile of the asset. The introducer role is strictly neutral. The objective is to reduce friction and enable high conviction engagement.
 
 This model is built to accelerate the transaction lifecycle while maintaining institutional discipline.
@@ -96,3 +96,6 @@ Roials Capital maintains its role as a neutral strategic partner delivering oper
 A confidential Strategy Audit is the appropriate next step for owners evaluating separation pathways. It identifies the operational friction points, liquidity requirements, and structural adjustments required to position the division for institutional grade engagement.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

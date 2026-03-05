@@ -16,7 +16,7 @@ The Nordic middle market is experiencing a tectonic shift in how cross-border tr
 Nordic acquirers benefit from several structural tailwinds:
 
 - **Strong governance frameworks** that reduce due diligence friction
-- **Deep capital reserves** in pension and sovereign wealth ecosystems  
+- **Deep capital reserves** in pension and sovereign wealth ecosystems 
 - **Cultural alignment** with transparency-driven deal processes
 
 ## The Advisory Edge
@@ -24,3 +24,6 @@ Nordic acquirers benefit from several structural tailwinds:
 In this new landscape, advisory firms that can bridge Nordic operational rigor with global deal-making sophistication will define the next era of middle-market M&A.
 
 The firms that win will be the ones that understand both sides of the table.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

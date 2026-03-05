@@ -4,7 +4,7 @@ description: "A high‑density institutional briefing on sovereign capital, mid�
 date: "2026-03-04"
 author: "The Analyst Team"
 slug: "sovereign-capital-mid-market-force-multiplier"
-keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -70,5 +70,9 @@ No summaries. No recaps. The mandate stands:
 Operators who want to command sovereign interest must build institutional posture now.
 
 Technical Control Metric: Audit Variance Delta ≤ 1.5%.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Book a tactical consultation.

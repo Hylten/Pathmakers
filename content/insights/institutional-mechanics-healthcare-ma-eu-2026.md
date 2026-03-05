@@ -41,14 +41,14 @@ This raises the threshold for sellers who seek strategic or financial exits. Pla
 
 Exit readiness today means something different. It is not a data room exercise. It is not a cosmetic clean-up. It is a structural redesign across eight vectors:
 
-• Governance systems built for institutional transparency.  
-• Financial statements with reconciliation maturity.  
-• Clinical quality documentation mapped to EU 2026 standards.  
-• Workforce credential tracking that passes foreign scrutiny.  
-• Contract libraries digitized and uniformized.  
-• Compliance versioning systems timestamped and auditable.  
-• Scalability algorithms proving bolt-on absorption capacity.  
-• Management teams trained for diligence interrogation.  
+• Governance systems built for institutional transparency. 
+• Financial statements with reconciliation maturity. 
+• Clinical quality documentation mapped to EU 2026 standards. 
+• Workforce credential tracking that passes foreign scrutiny. 
+• Contract libraries digitized and uniformized. 
+• Compliance versioning systems timestamped and auditable. 
+• Scalability algorithms proving bolt-on absorption capacity. 
+• Management teams trained for diligence interrogation. 
 
 These structures form the valuation floor. Without them, acquirers lower their offers or walk.
 
@@ -135,6 +135,10 @@ The Analyst Team delivers the tactical intelligence required to operate these me
 Pathmakers operate with intentionality. They see the terrain. They move before the crowd. They act with structural clarity.
 
 For platforms preparing to exit, the mandate is simple: become institutionally undeniable.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Book a tactical consultation.
 

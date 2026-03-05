@@ -227,7 +227,7 @@ Minimums matter.
 
 Crypto liquidity engineering begins at 2M.
 
-Public share liquidity engineering begins at 5M.
+Public share Institutional Liquidity Paths begins at 5M.
 
 These thresholds ensure only serious principals engage.
 
@@ -279,7 +279,7 @@ He who controls liquidity controls timing.
 
 He who controls timing controls valuation.
 
-Private credit is now the most agile liquidity channel. It enforces seriousness because discipline is currency. HNWI and UHNW clients allocating into secured liquidity engineering replace the retreating banking system with more decisive capital.
+Private credit is now the most agile liquidity channel. It enforces seriousness because discipline is currency. HNWI and UHNW clients allocating into secured Strategic Collateralization replace the retreating banking system with more decisive capital.
 
 For operating companies, accessing this capital requires readiness.
 
@@ -360,3 +360,6 @@ Owners who ignore them face declining valuations and extended timelines.
 Your next move determines whether your company becomes an asset or a liability under institutional scrutiny.
 
 Book a strategic consultation.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

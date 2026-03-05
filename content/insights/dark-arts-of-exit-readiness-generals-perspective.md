@@ -29,73 +29,73 @@ PHASE 2: TECHNICAL MECHANICS OF EXIT READINESS
 
 Exit readiness is executed through seven hard disciplines. Each represents an area where friction either compounds or dissolves. In this section, the briefing stays at a technical level, aligned with institutional M&A mechanics.
 
-1. Cash Flow Normalization  
+1. Cash Flow Normalization 
 Institutional buyers do not underwrite headlines. They underwrite predictability. This requires:
 
-- Normalized EBITDA modeling across a minimum of three economic regimes  
-- Recategorization of owner adjustments into standardized diligence buckets  
-- Recurrence mapping: analyzing the structural visibility of revenue  
+- Normalized EBITDA modeling across a minimum of three economic regimes 
+- Recategorization of owner adjustments into standardized diligence buckets 
+- Recurrence mapping: analyzing the structural visibility of revenue 
 
 The objective is not maximization. The objective is stability. Predictability increases valuation multiples because it lowers the buyer’s cost of capital.
 
-2. Working Capital Codification  
+2. Working Capital Codification 
 In mid-market transactions, working capital is the number one post-closing dispute driver. Exit readiness eliminates this by:
 
-- Standardizing working capital definitions  
-- Mapping seasonal variance through multi-year historical curves  
-- Establishing a normalized peg that mirrors institutional expectations  
+- Standardizing working capital definitions 
+- Mapping seasonal variance through multi-year historical curves 
+- Establishing a normalized peg that mirrors institutional expectations 
 
 When the seller provides this, the buyer views the transaction as friction controlled. This reduces negotiation cycles by 30 to 50 percent in most mid-market contexts.
 
-3. Governance Upgrading  
+3. Governance Upgrading 
 Institutional buyers penalize governance opacity. Sellers should upgrade:
 
-- Board documentation structure  
-- Internal decision rights  
-- Compliance architecture  
-- Risk registers  
-- Information access policies  
+- Board documentation structure 
+- Internal decision rights 
+- Compliance architecture 
+- Risk registers 
+- Information access policies 
 
 The objective is to remove discretionary governance. Institutional buyers pay for systems. They discount personalities.
 
-4. Customer Concentration Mitigation  
+4. Customer Concentration Mitigation 
 Customer concentration is rarely eliminated before a sale, but it can be structured. Methods include:
 
-- Contractual extensions  
-- Multi-tiered counterparty analysis  
-- Churn probability mapping  
-- Replacement customer pipeline documentation  
+- Contractual extensions 
+- Multi-tiered counterparty analysis 
+- Churn probability mapping 
+- Replacement customer pipeline documentation 
 
 A high concentration business can trade at a premium if the concentration is managed as a strategic dependency rather than an uncontrolled exposure.
 
-5. Operational Intelligence Indexing  
+5. Operational Intelligence Indexing 
 Operational opacity extends diligence timelines. Exit readiness requires codifying:
 
-- Process maps  
-- KPI matrices  
-- Controller dashboards  
-- Industrial asset maintenance logs  
-- Vendor and supplier chain dependencies  
+- Process maps 
+- KPI matrices 
+- Controller dashboards 
+- Industrial asset maintenance logs 
+- Vendor and supplier chain dependencies 
 
 This transforms an operationally complex business into an underwritable business. Complexity is acceptable. Ambiguity is not.
 
-6. Legal Clean Room Construction  
+6. Legal Clean Room Construction 
 Legal friction is the largest destroyer of strategic buyer appetite. A clean room is established through:
 
-- Contract indexing  
-- Legacy liability scanning  
-- Removal of entanglements between personal and corporate assets  
-- Patent and trademark harmonization  
+- Contract indexing 
+- Legacy liability scanning 
+- Removal of entanglements between personal and corporate assets 
+- Patent and trademark harmonization 
 
 When the clean room is prepared, diligence time contracts. The buyer perceives the company as institutional rather than privately assembled.
 
-7. Strategic Narrative Calibration  
+7. Strategic Narrative Calibration 
 Institutional buyers require a narrative, but they quantify it through machine-like frameworks:
 
-- Barrier-to-entry mapping  
-- Competitive asymmetry modeling  
-- Margin defense mechanics  
-- Technology moat assessment  
+- Barrier-to-entry mapping 
+- Competitive asymmetry modeling 
+- Margin defense mechanics 
+- Technology moat assessment 
 
 The narrative is not a story. It is a synthesis of structural economics interpreted through the buyer’s acquisition logic.
 
@@ -105,10 +105,10 @@ Roials Capital operates as a strategic navigator. It is not the seller, not the 
 
 The role of the strategic navigator includes:
 
-- Alignment Engineering: Mapping the seller’s internal systems to institutional buyer expectations.  
-- Opportunity Velocity Management: Accelerating decision cycles through clarity-driven documentation.  
-- Liquidity Engineering: Constructing transaction structures that appeal to both private credit and equity sponsors.  
-- Optionality Architecture: Positioning the company such that multiple buyer types can underwrite it simultaneously.  
+- Alignment Engineering: Mapping the seller’s internal systems to institutional buyer expectations. 
+- Opportunity Velocity Management: Accelerating decision cycles through clarity-driven documentation. 
+- Monetization Architecture: Constructing transaction structures that appeal to both private credit and equity sponsors. 
+- Optionality Architecture: Positioning the company such that multiple buyer types can underwrite it simultaneously. 
 
 Roials Capital acts as the architect of institutional readiness. The seller remains independent. The buyer remains sovereign. The navigator provides the intelligence that collapses friction and elevates optionality.
 
@@ -130,14 +130,17 @@ This final section reframes exit readiness as a sovereign decision framework. It
 
 The owner evaluates readiness through five lenses:
 
-- Structural Transparency: Are the systems, cash flows, and operational mechanics visible and institutionally formatted.  
-- Downside Defensibility: Does the company demonstrate resilience in adverse conditions.  
-- Optionality Preservation: Are multiple exit channels simultaneously underwritable.  
-- Transaction Velocity: Can the company withstand compressed diligence timelines without operational disruption.  
-- Strategic Calibration: Is the narrative anchored in defensible economic mechanics rather than aspiration.  
+- Structural Transparency: Are the systems, cash flows, and operational mechanics visible and institutionally formatted. 
+- Downside Defensibility: Does the company demonstrate resilience in adverse conditions. 
+- Optionality Preservation: Are multiple exit channels simultaneously underwritable. 
+- Transaction Velocity: Can the company withstand compressed diligence timelines without operational disruption. 
+- Strategic Calibration: Is the narrative anchored in defensible economic mechanics rather than aspiration. 
 
 Owners who apply these lenses attract institutional buyers that prioritize certainty. This increases competitive tension, elevates optionality, and reduces the time window in which value can be eroded.
 
 Professionals seeking to understand how to prepare a company for a frictionless, conviction driven acquisition pathway typically request a Confidential Strategy Audit or Portfolio Calibration with Roials Capital. This provides an institutional mapping of gaps, strengths, and actionable readiness frameworks tailored to the target buyer universe.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

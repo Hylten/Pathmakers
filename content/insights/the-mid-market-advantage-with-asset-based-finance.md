@@ -4,7 +4,7 @@ description: "Explore how asset based liquidity engineering and private credit u
 date: "2025-12-12"
 author: "Jonas Hyltén"
 slug: "the-mid-market-advantage-with-asset-based-finance"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Mid-Market Advantage with Asset-Based Finance
@@ -19,7 +19,7 @@ In this environment, liquidity is not a philosophical construct.
 
 It is oxygen. 
 
-Pathmaker specializes in providing that oxygen through private credit and asset based liquidity engineering structures. 
+Pathmaker specializes in providing that oxygen through private credit and asset based Capital Structuring structures. 
 
 We operate with silent authority, offering institutional mechanics without requiring institutional bureaucracy. 
 
@@ -47,17 +47,17 @@ We trade in structure.
 
 Our focus is on:
 
-• Asset based liquidity engineering anchored in real collateral value.  
+• Asset based Strategic Collateralization anchored in real collateral value. 
 
-• Private credit solutions for timeline constrained operators.  
+• Private credit solutions for timeline constrained operators. 
 
-• liquidity engineering structures built specifically for HNWI and UHNW balance sheets.  
+• Strategic Collateralization structures built specifically for HNWI and UHNW balance sheets. 
 
-• Crypto liquidity engineering starting at 2,000,000.  
+• Crypto Institutional Liquidity Paths starting at 2,000,000. 
 
-• Public share liquidity engineering starting at 5,000,000.  
+• Public share Capital Structuring starting at 5,000,000. 
 
-• Transactional support for mid market M&A and healthcare carve outs where timing is survival.  
+• Transactional support for mid market M&A and healthcare carve outs where timing is survival. 
 
 We provide capital mechanics that allow sophisticated operators to execute cleanly and quietly. 
 
@@ -110,3 +110,6 @@ Silent authority.
 Strategic liquidity delivered with precision. 
 
 Book a strategic consultation.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

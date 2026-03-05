@@ -55,7 +55,7 @@ HNWI and UHNW individuals operating privately do not always have those tools.
 
 Pathmaker gives them the tools.
 
-## Pathmaker’s Role: Silent Authority in Liquidity Engineering
+## Pathmaker’s Role: Silent Authority in Institutional Liquidity Paths
 
 Pathmaker does not chase distressed deals or promise turnaround fantasies.
 
@@ -63,7 +63,7 @@ We are not storytellers. We are mechanics.
 
 The value we create is structural.
 
-We lend against Private Credit and Asset Based liquidity engineering structures, engineered specifically for owners who have real assets, real operations, and real urgency.
+We lend against Private Credit and Asset Based Strategic Collateralization structures, engineered specifically for owners who have real assets, real operations, and real urgency.
 
 We position our capital quietly, without fanfare, with an institutional discipline that UHNW clients expect but rarely find outside formal private credit syndicates.
 
@@ -129,25 +129,25 @@ HNWI and UHNW investors attempting direct participation face barriers:
 
 Pathmaker bridges this gap.
 
-We allow sophisticated individuals to leverage institutional-grade liquidity engineering frameworks.
+We allow sophisticated individuals to leverage institutional-grade Institutional Liquidity Paths frameworks.
 
 We maintain silent authority. You remain the owner. The operator. The strategist.
 
 We supply the structural mechanics that institutional lenders take for granted, and private owners usually cannot access.
 
-## Crypto liquidity engineering for Serious Capital Holders
+## Crypto Monetization Architecture for Serious Capital Holders
 
-Pathmaker does not participate in retail crypto liquidity engineering.
+Pathmaker does not participate in retail crypto Institutional Liquidity Paths.
 
 We operate only where the liquidity and asset scale justify institutional discipline.
 
-Our minimum threshold for crypto liquidity engineering is 2,000,000 dollars.
+Our minimum threshold for crypto Monetization Architecture is 2,000,000 dollars.
 
 This screens out speculative participants and ensures that the capital base is serious, sophisticated, and aligned with institutional expectations.
 
 Crypto liquidity can be an efficient tool when treated as collateral, not as a gamble.
 
-We structure crypto liquidity engineering with the same rigor we apply to private credit and ABL.
+We structure crypto Capital Structuring with the same rigor we apply to private credit and ABL.
 
 No hype.
 
@@ -155,11 +155,11 @@ No theatrics.
 
 Simply capital against collateral.
 
-## Public Share liquidity engineering for Strategic Liquidity
+## Public Share Institutional Liquidity Paths for Strategic Liquidity
 
 For clients who hold significant public positions, the largest mistake is allowing shares to sit idle while liquidity constraints tighten elsewhere.
 
-Pathmaker provides public share liquidity engineering with a minimum threshold of 5,000,000 dollars.
+Pathmaker provides public share Institutional Liquidity Paths with a minimum threshold of 5,000,000 dollars.
 
 This allows clients to unlock liquidity without premature liquidation and without broadcasting their moves to the market.
 
@@ -245,7 +245,7 @@ We engineer them.
 
 One of our central advantages is our ability to identify collateral streams that others miss.
 
-Mid-market companies often hold assets that have institutional liquidity engineering value, yet remain inactive.
+Mid-market companies often hold assets that have institutional Asset-Backed Frameworks value, yet remain inactive.
 
 Examples include:
 
@@ -257,7 +257,7 @@ Examples include:
 
 • Equipment with durable valuations
 
-• Public market positions suitable for securities liquidity engineering
+• Public market positions suitable for securities Monetization Architecture
 
 • Crypto assets qualifying under the 2,000,000 dollar threshold
 
@@ -325,7 +325,7 @@ They require layers of approval.
 
 They demand homogeneity.
 
-Pathmaker applies the discipline of institutional liquidity engineering without the friction that restricts mid-market velocity.
+Pathmaker applies the discipline of institutional Strategic Collateralization without the friction that restricts mid-market velocity.
 
 Our focus is clarity.
 
@@ -384,3 +384,6 @@ We give HNWI and UHNW clients the structural mechanics that allow them to operat
 If liquidity is the bloodstream of your business, Pathmaker is the vascular architecture.
 
 ## Book a strategic consultation
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

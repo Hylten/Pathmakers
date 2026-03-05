@@ -41,12 +41,12 @@ Healthcare operations are defined by staffing ratios, clinical throughput, regul
 
 Exit readiness in healthcare is not determined by EBITDA multiples. It is determined by:
 
-- documentation discipline  
-- reimbursement hygiene  
-- compliance cadence  
-- staff retention stability  
-- data maturity  
-- technology interoperability  
+- documentation discipline 
+- reimbursement hygiene 
+- compliance cadence 
+- staff retention stability 
+- data maturity 
+- technology interoperability 
 
 These variables differentiate an operator that is attractive to strategic acquirers from an operator that requires restructuring pre‑acquisition.
 
@@ -54,11 +54,11 @@ Capital Stack Architecture
 
 Healthcare capital stacks must be engineered to reflect reimbursement cadence, regulatory milestones, and predictable CapEx cycles. The most effective structures use:
 
-- Balanced amortization curves aligned with reimbursement cycles  
-- Cross‑collateralized asset clusters with clear clinical independence  
-- Tranches structured to isolate regulatory downtime  
-- Working‑capital facilities synchronized to insurance processing  
-- Cash‑flow waterfalls that prioritize compliance continuity  
+- Balanced amortization curves aligned with reimbursement cycles 
+- Cross‑collateralized asset clusters with clear clinical independence 
+- Tranches structured to isolate regulatory downtime 
+- Working‑capital facilities synchronized to insurance processing 
+- Cash‑flow waterfalls that prioritize compliance continuity 
 
 Allocators who apply conventional corporate lending frameworks to healthcare frequently misinterpret normal operational friction as distress. The healthcare operator does not need high leverage. It needs aligned leverage.
 
@@ -66,9 +66,9 @@ M&A Friction Patterns
 
 Healthcare M&A fails for only three reasons:
 
-1. Incomplete documentation  
-2. Compliance irregularities  
-3. Revenue-recognition mismatch  
+1. Incomplete documentation 
+2. Compliance irregularities 
+3. Revenue-recognition mismatch 
 
 Removing these friction points is the core of exit readiness. Tactical intelligence lies in identifying these friction points early and engineering clarity long before a buyer performs diligence.
 
@@ -76,13 +76,13 @@ PHASE 3. THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator, not a lender, asset originator, or M&A consolidator. The mandate is not intermediation. The mandate is clarity engineering. Allocators with genuine intent to enter the healthcare credit landscape require an institutional partner that provides three functions:
 
-1. Structural Navigation  
+1. Structural Navigation 
 Mapping reimbursement cycles, compliance thresholds, and regulatory cadence.
 
-2. Operational Intelligence  
+2. Operational Intelligence 
 Interpreting staffing models, clinical workflows, and audit structures.
 
-3. Institutional Introduction  
+3. Institutional Introduction 
 Identifying mid‑market operators that align with the allocator’s profile without participating in marketing, solicitation, or recommendations.
 
 In the healthcare domain, the institutional archetype that consistently demonstrates operational discipline tends to be mid‑sized outpatient networks, diagnostic platforms, and rehabilitation facilities with established reimbursement history and low fragmentation across service lines. Roials Capital engages these operators only at the strategic‑alignment level, ensuring allocators are presented with accurate operational intelligence rather than filtered commercial narratives.
@@ -93,9 +93,9 @@ Stewardship in healthcare credit is not an ethical preference. It is a strategic
 
 Stewardship requires three filters:
 
-- Resource discipline: Capital applied where it enhances continuity, not expansion for its own sake.  
-- Compliance integrity: Documentation and regulatory governance treated as assets, not obligations.  
-- Operational prudence: Conservative cash‑flow allocation that strengthens the balance sheet.  
+- Resource discipline: Capital applied where it enhances continuity, not expansion for its own sake. 
+- Compliance integrity: Documentation and regulatory governance treated as assets, not obligations. 
+- Operational prudence: Conservative cash‑flow allocation that strengthens the balance sheet. 
 
 Allocators who adopt stewardship as an investment philosophy outperform by reducing volatility, not by increasing aggressiveness. Proverbs 13:22 reinforces the principle of long‑term capital continuity, which is an essential anchor in healthcare environments with multi‑year reimbursement dynamics.
 
@@ -103,12 +103,15 @@ PHASE 5. DECISION-MAKING LENS FOR INSTITUTIONAL ALLOCATORS
 
 The healthcare credit landscape is a domain where intelligence outperforms capital and discipline outperforms aggressiveness. Allocators entering this sector require a pragmatic framework:
 
-- Map reimbursement physics before analyzing financial statements  
-- Evaluate operational cadence before EBITDA  
-- Assess compliance infrastructure before growth potential  
-- Analyze exit-readiness before present-day profitability  
-- Prioritize operators that exhibit low‑friction workflows and documentation maturity  
+- Map reimbursement physics before analyzing financial statements 
+- Evaluate operational cadence before EBITDA 
+- Assess compliance infrastructure before growth potential 
+- Analyze exit-readiness before present-day profitability 
+- Prioritize operators that exhibit low‑friction workflows and documentation maturity 
 
 Roials Capital conducts confidential strategy audits for allocators who require a calibrated view of the healthcare landscape, with emphasis on structural clarity, operational coherence, and friction‑removal protocols that determine whether a healthcare operator is genuinely exit-ready.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

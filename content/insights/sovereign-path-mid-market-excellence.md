@@ -65,10 +65,10 @@ Stewardship is not a philosophical abstraction. It is a practical discipline tha
 
 Stewardship in the mid-market context is expressed through:
 
-1. Discipline in operational systems.  
-2. Clarity in leadership commitments.  
-3. Documented financial transparency.  
-4. Avoidance of unnecessary leverage.  
+1. Discipline in operational systems. 
+2. Clarity in leadership commitments. 
+3. Documented financial transparency. 
+4. Avoidance of unnecessary leverage. 
 5. Preservation of cultural identity during institutionalization.
 
 Stewardship is not a constraint. It is a multiplier. It ensures that enterprises transition through capital cycles without fragmentation. It ensures that founders preserve what they built. It ensures that buyers acquire organizations capable of long term value creation. Long term capital respects stewardship because it reduces entropy within the enterprise.
@@ -77,12 +77,15 @@ PHASE 5: DECISION MAKING FRAMEWORK FOR MID-MARKET ALLOCATORS AND OWNERS
 
 The sovereign path exists for founders, family offices, and institutional acquirers seeking clarity. The path is defined by readiness, discipline, and structural consistency. The objective is not to pursue rapid exits. The objective is to pursue orderly, strategic transitions in which enterprise value is fully realized. The decision maker must evaluate three core questions.
 
-1. Does the enterprise meet the institutional archetype.  
-2. Does the owner possess clarity on the liquidity horizon.  
-3. Does the organization demonstrate operational durability under scaled conditions.  
+1. Does the enterprise meet the institutional archetype. 
+2. Does the owner possess clarity on the liquidity horizon. 
+3. Does the organization demonstrate operational durability under scaled conditions. 
 
 These questions determine whether the owner is prepared for external capital interaction. If the answers reveal gaps, the solution is architecture, not acceleration. Owners who invest in readiness engineering experience stronger positioning during negotiations and significantly reduced frictions when interacting with global buyers.
 
 Roials Capital's contribution is the combination of strategic calibration, operational intelligence, and institutional introduction. The work is guided by a commitment to clarity, excellence, and disciplined preparation. For owners and allocators requiring a full assessment of readiness, a confidential strategy consultation provides the structural map, not a transactional pitch. The objective is to align the enterprise with its most viable strategic path.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
