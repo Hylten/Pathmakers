@@ -74,7 +74,13 @@ async function generateSEO() {
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
+        let data = {};
+        try {
+            data = matter(rawContent).data || {};
+        } catch (e) {
+            console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
+            continue;
+        }
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Untitled';
         const description = data.description || '';
@@ -119,7 +125,15 @@ async function generateSEO() {
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data, content } = matter(rawContent);
+        let data = {}, content = '';
+        try {
+            const parsed = matter(rawContent);
+            data = parsed.data || {};
+            content = parsed.content || '';
+        } catch (e) {
+            console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
+            continue;
+        }
 
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Insights Article';
@@ -170,7 +184,13 @@ async function generateSEO() {
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
+        let data = {};
+        try {
+            data = matter(rawContent).data || {};
+        } catch (e) {
+            console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
+            continue;
+        }
         const slug = data.slug || file.replace('.md', '');
         const date = data.date || today;
 
