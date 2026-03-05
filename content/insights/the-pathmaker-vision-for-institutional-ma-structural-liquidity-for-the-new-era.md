@@ -261,5 +261,3 @@ For the buyers who understand what this cycle demands, Pathmaker becomes a strat
 
 Book a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -177,8 +177,4 @@ The next wave of Nordic deals belongs to the buyer who prepares before the marke
 
 Mandate: establish pre-committed liquidity architecture for all carve-out targets between EUR 25–250M enterprise value in Sweden, Norway, Denmark, and Finland. Execute with structural discipline. Deploy with precision. Deliver with certainty.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.

@@ -121,5 +121,3 @@ The next move is structural. The next move is liquidity. The next move is resili
  
 Book a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

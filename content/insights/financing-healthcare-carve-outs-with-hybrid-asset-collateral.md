@@ -278,5 +278,3 @@ For buyers with complex asset portfolios, it is the most efficient path to certa
 
 Book a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

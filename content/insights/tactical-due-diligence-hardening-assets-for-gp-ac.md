@@ -200,5 +200,3 @@ Built to be entrusted to institutional buyers without fear.
 
 If the mandate is to prepare for acquisition with institutional authority and eliminate M&A friction through tactical due diligence, you may initiate a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

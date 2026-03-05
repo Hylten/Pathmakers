@@ -103,8 +103,6 @@ Final layer: The mandate. The operator must accept the conversion from private a
 
 Metric anchor: Sovereign Readiness Index ≥ 0.82 required for corridor access.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
+ (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 Book a tactical consultation.

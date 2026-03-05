@@ -287,10 +287,6 @@ Nordic carve-outs generate alpha when engineered with liquidity logic, precision
 
 The Analyst Team operates in this terrain daily. Pathmaker mode. Targeted. Tactical. Conviction-led.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Mandate Reference: Integration Load Delta Index 4.37.

@@ -160,7 +160,5 @@ The road ahead is clear. European credit gaps will widen. Cross‑border M&A wil
 The mandate stands: engineer clarity before capital. Everything else becomes execution.
 
 Technical metric: 92‑day cross‑border liquidity readiness cycle. 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Book a tactical consultation.

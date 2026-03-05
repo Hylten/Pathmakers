@@ -317,5 +317,3 @@ Pathmaker stands positioned as your tactical intelligence and financing vanguard
 
 If you require structural clarity, carve-out financing pathways, or intelligence mapping for a complex spin-off, you can book a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

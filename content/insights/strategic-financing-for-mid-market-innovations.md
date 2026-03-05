@@ -259,5 +259,3 @@ If your strategy requires liquidity you do not yet control, the next move is sim
 
 Book a strategic consultation.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

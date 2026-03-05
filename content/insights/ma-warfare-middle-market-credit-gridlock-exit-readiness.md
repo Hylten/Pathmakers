@@ -126,10 +126,6 @@ The war is not external. The war is internal.
 
 This is the mandate.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Technical Metric: Target friction compression delta: 38% reduction in diligence drag.

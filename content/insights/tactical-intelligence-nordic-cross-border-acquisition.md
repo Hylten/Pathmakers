@@ -94,8 +94,4 @@ Nordic cross‑border acquisition is a discipline. Tactical Intelligence is the 
 
 For principals serious about Nordic expansion, structural clarity is not optional. It is mandatory. Stakes demand it. Capital demands it. Sellers expect it.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation. Metric: 7.3‑day median signal‑to‑conversation conversion window.

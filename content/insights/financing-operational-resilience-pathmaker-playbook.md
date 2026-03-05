@@ -110,10 +110,6 @@ Maintain constant exit-readiness.
 
 This briefing serves as a directive to implement these mandates. The next phase is tactical. The next step is structural.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Resilience Coefficient Target: 0.78

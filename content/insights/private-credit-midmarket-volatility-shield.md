@@ -142,10 +142,6 @@ The fragmented mid‑market will not self‑correct. The fragmentation is struct
 
 Private credit is the architecture.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation. 
 
 Mandate: 1.00 debt‑stability ratio minimum before market exposure.

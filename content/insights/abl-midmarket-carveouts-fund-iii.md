@@ -207,10 +207,6 @@ Carve‑outs succeed when operations lead liquidity.
 Asset-Based Lending puts liquidity behind operations in real time. 
 Therefore carve‑outs succeed.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Technical metric: 97.4 percent liquidity‑to‑asset coverage ratio (LACR) under stabilized mid‑market conditions.

@@ -318,10 +318,6 @@ For mid-market buyers, founders, consolidators, and institutional operators:
 Move from bank dependency to private-credit sovereignty. 
 It is the only path to frictionless acquisition velocity, exit readiness, and jurisdictional leverage.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Structural efficiency target: ≥ 18.4% liquidity optimization delta.

@@ -136,10 +136,6 @@ Pathmakers operate with intentionality. They see the terrain. They move before t
 
 For platforms preparing to exit, the mandate is simple: become institutionally undeniable.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 M&A Friction Index: 0.42.

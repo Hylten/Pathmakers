@@ -257,8 +257,4 @@ Close fast.
 
 Technical End Metric: Target execution window for €25M–€150M healthcare acquisitions should compress to 41–63 days end-to-end.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.

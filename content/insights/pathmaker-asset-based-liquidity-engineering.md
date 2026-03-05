@@ -97,10 +97,6 @@ The Pathmaker Approach trains operators to think like institutional buyers even 
 
 Operators become acquisition‑ready. Exit‑ready. Deal‑flow ready. Crisis‑ready. That is the Pathmaker mandate.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Metric: Collateral Efficiency Ratio target: 0.82 or higher.

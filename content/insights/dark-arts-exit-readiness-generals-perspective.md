@@ -232,8 +232,4 @@ If you intend to win your exit-engineer it now. Friction removed. Liquidity stru
 
 Technical mandate: Zero‑friction diligence environment by D‑45.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.

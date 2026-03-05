@@ -169,7 +169,5 @@ Sustainable growth is engineered, not inherited. Asset‑based lending is the en
 MANDATE 
 Maintain asset‑coverage ratio above 1.42x. 
 To engage: 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 book a tactical consultation.

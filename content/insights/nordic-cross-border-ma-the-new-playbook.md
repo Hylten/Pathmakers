@@ -25,5 +25,3 @@ In this new landscape, advisory firms that can bridge Nordic operational rigor w
 
 The firms that win will be the ones that understand both sides of the table. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

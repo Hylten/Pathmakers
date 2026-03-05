@@ -69,10 +69,6 @@ The healthcare mid-market is in a rare window. Demographic expansion. Capital ro
 
 The mandate is simple: unlock latent value through architecture before stepping into any negotiation. Once the architecture stands, liquidity follows. When liquidity flows, exits accelerate.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Exit readiness index target: 0.87.

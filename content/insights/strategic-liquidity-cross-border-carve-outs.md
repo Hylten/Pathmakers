@@ -57,10 +57,6 @@ The mandate is precision. Reduce drag. Pre-build liquidity. Harden assets. Map j
 
 Strategic liquidity is the differentiator for the next decade of cross-border carve-outs. It compresses timelines. It unlocks off-market access. It minimizes execution risk. It elevates exit multiples. It positions operators for institutional longevity. It transforms mid-market assets into generational assets.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Book a tactical consultation.
 
 Execution Delta Target: 0.42
