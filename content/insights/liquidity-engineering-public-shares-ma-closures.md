@@ -23,7 +23,7 @@ Third, operational velocity has become a competitive differentiator. Mid market 
 
 The result is a structural dislocation. Public shareholders frequently hold collateral rich positions but lack mechanisms that convert those positions into deployable deal capital without moving markets or creating adverse governance signals. The M&A pipeline is healthy. The execution bandwidth is constrained. This is the regime shift.
 
-PHASE 2: TECHNICAL MECHANICS OF Capital Structuring AGAINST PUBLIC SHARES
+PHASE 2: TECHNICAL MECHANICS OF [Capital Structuring](https://hylten.github.io/Roials-Capital/) AGAINST PUBLIC SHARES
 
 Monetization Architecture against public shares is the discipline of transforming static market value into instrumented, off balance sheet, short duration liquidity without forcing a sale event. The structures used must satisfy four institutional criteria.
 

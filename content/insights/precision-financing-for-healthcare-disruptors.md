@@ -52,7 +52,7 @@ No one has a perfect narrative.
 
 What they need is liquidity anchored in real assets, verifiable collateral, and clean underwriting that understands operator imperfections are part of the model, not exceptions to it.
 
-Pathmaker lends against private credit and ABL structures that do not fall apart when an operator hits a reimbursement delay or a margin dip. 
+Pathmaker lends against private credit and Asset-Based Lending structures that do not fall apart when an operator hits a reimbursement delay or a margin dip. 
 
 We do not underwrite fantasy. 
 
@@ -135,22 +135,22 @@ This is liquidity that can be deployed with precision, discretion, and force.
 
 ## Asset Based Institutional Liquidity Paths With Real Teeth
 
-Healthcare operators often underestimate the power of ABL because most lenders in the space treat it as a formulaic product. 
+Healthcare operators often underestimate the power of Asset-Based Lending because most lenders in the space treat it as a formulaic product. 
 
-Pathmaker uses ABL as a strategic architecture. 
+Pathmaker uses Asset-Based Lending as a strategic architecture. 
 
 Receivables become leverage. 
 Inventory becomes leverage. 
 Equipment becomes leverage. 
 Blue-chip securities become leverage. 
 
-ABL is not a backup plan. 
+Asset-Based Lending is not a backup plan. 
 It is a liquidity engine.
 
 The value is not the capital itself. 
 It is the optionality created when the operator is no longer constrained by reimbursement cycles or corporate slowdowns.
 
-ABL lets the operator:
+Asset-Based Lending lets the operator:
 
 • Acquire faster 
 • Negotiate harder 

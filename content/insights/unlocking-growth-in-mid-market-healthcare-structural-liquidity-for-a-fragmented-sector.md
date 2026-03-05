@@ -44,7 +44,7 @@ We understand how healthcare assets behave.
 
 We understand how private credit interacts with operational risk. 
 
-We understand how ABL can convert latent value into actionable capital. 
+We understand how Asset-Based Lending can convert latent value into actionable capital. 
 
 We understand the liquidity needs of HNWI and UHNW individuals. 
 

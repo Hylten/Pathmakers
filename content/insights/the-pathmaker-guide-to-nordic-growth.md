@@ -61,7 +61,7 @@ Healthcare carve‑outs are rarely dramatic. They are usually slow, methodical t
 
 ## Asset Based Strategic Collateralization in a Nordic Context
 
-Asset Based Strategic Collateralization is still underutilized in the Nordic region. Many business owners see debt as a burden rather than a growth instrument. This mindset suppresses deal volume. It also creates opportunity for those who understand how to structure ABL correctly. 
+Asset Based Strategic Collateralization is still underutilized in the Nordic region. Many business owners see debt as a burden rather than a growth instrument. This mindset suppresses deal volume. It also creates opportunity for those who understand how to structure Asset-Based Lending correctly. 
 
 Pathmaker brings an institutional framework to a market that is still catching up. 
 
@@ -74,7 +74,7 @@ We lend against assets such as:
 
 The mechanics are simple, but the execution requires skill. We price risk correctly. We move faster than traditional institutions. And we maintain silent authority in every deal, providing structural strength without chasing visibility. 
 
-ABL is not a workaround. It is a precision tool for unlocking Nordic balance sheets that have been dormant for too long. 
+Asset-Based Lending is not a workaround. It is a precision tool for unlocking Nordic balance sheets that have been dormant for too long. 
 
 ## Private Credit for HNWI and UHNW Investors
 

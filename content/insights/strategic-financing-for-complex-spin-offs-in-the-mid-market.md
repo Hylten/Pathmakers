@@ -1,6 +1,6 @@
 ---
 title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
-description: "A deep analysis of liquidity engineering and asset based Asset-Backed Frameworks solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
+description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
 date: "2022-10-29"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"
@@ -103,7 +103,7 @@ Cash timing becomes unpredictable for at least two quarters.
 
 This is where asset based Strategic Collateralization becomes critical. 
 
-ABL provides a self-anchored structure. 
+Asset-Based Lending provides a self-anchored structure. 
 
 It uses what the business already owns. 
 
@@ -217,7 +217,7 @@ Negotiation advantage produces better deal economics.
 
 Asset based Capital Structuring is often dismissed as an old economy tool, but in complex separations it is the most reliable capital structure available. 
 
-ABL ignores projections. 
+Asset-Based Lending ignores projections. 
 
 It ignores narratives. 
 
@@ -233,15 +233,15 @@ Equipment.
 
 Real property. 
 
-In healthcare, ABL is especially powerful because revenue cycle assets can be collateralized. 
+In healthcare, Asset-Based Lending is especially powerful because revenue cycle assets can be collateralized. 
 
 Even when cash timing is unstable, the underlying value is often strong. 
 
-ABL provides clarity during chaos. 
+Asset-Based Lending provides clarity during chaos. 
 
 It creates predictable liquidity in an unpredictable moment. 
 
-Pathmaker uses ABL as the stabilizing core of many spin-off financing structures. 
+Pathmaker uses Asset-Based Lending as the stabilizing core of many spin-off financing structures. 
 
 ## Crypto Institutional Liquidity Paths and Public Share Monetization Architecture in the Spin-off Environment
 

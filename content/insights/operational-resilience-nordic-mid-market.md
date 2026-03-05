@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on Nordic operational resili
 date: "2024-08-28"
 author: "Tactical Intelligence – Analyst Team"
 slug: "operational-resilience-nordic-mid-market"
-keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]

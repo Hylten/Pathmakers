@@ -9,7 +9,7 @@ keywords: "kapitalanskaffning, private credit, Strategic Collateralization, heal
 
 [START INSTITUTIONAL BRIEFING]
 
-The structural liquidity gap in mid-market healthcare is not a function of operational weakness. It is a direct consequence of balance sheet fragmentation, legacy capital structures, and a regulatory landscape that has outpaced the financial architecture underneath it. Operators experience margin stability but lack access to institutional-grade capital structures that support scale. This is the misalignment creating a multiyear window for those who can deploy disciplined Capital Structuring and cross-border M&A navigation.
+The structural liquidity gap in mid-market healthcare is not a function of operational weakness. It is a direct consequence of balance sheet fragmentation, legacy capital structures, and a regulatory landscape that has outpaced the financial architecture underneath it. Operators experience margin stability but lack access to institutional-grade capital structures that support scale. This is the misalignment creating a multiyear window for those who can deploy disciplined [Capital Structuring](https://hylten.github.io/Roials-Capital/) and cross-border M&A navigation.
 
 PHASE 1: THE REGIME SHIFT
 

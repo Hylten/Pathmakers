@@ -109,15 +109,15 @@ Pathmaker underwrites these factors with clarity and without hesitation.
 
 ## Asset-Based Capital Structuring as a Precision Tool in M&A
 
-ABL is often misunderstood. 
+Asset-Based Lending is often misunderstood. 
 
 It is not a fallback for distressed buyers. It is not a last resort. 
 
-In M&A, ABL is a precision tool for buyers who want to control their own leverage structure without waiting for the institutional sector to approve their conviction.
+In M&A, Asset-Based Lending is a precision tool for buyers who want to control their own leverage structure without waiting for the institutional sector to approve their conviction.
 
  
 
-ABL provides:
+Asset-Based Lending provides:
 
 - Liquidity aligned to real assets 
 - Faster closes 
@@ -127,7 +127,7 @@ ABL provides:
 
 For mid-market acquirers, the difference between winning and losing a deal is often measured in days. 
 
-ABL compresses time. 
+Asset-Based Lending compresses time. 
 
 Private credit stabilizes execution. 
 
@@ -199,7 +199,7 @@ Our private credit solutions are designed to match the real timeline of acquisit
 
 ### Asset-Based Strategic Collateralization
 
-ABL is particularly effective in carve-outs and operationally transitional assets. 
+Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets. 
 
 We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt.
 

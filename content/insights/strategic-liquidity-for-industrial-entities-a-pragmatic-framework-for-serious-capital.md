@@ -87,7 +87,7 @@ When the situation demands non linear liquidity, we evaluate assets as they are,
 
 ## Asset Based Monetization Architecture for Industrial Entities: The Pragmatic Engine
 
-ABL is not a rescue tool. 
+Asset-Based Lending is not a rescue tool. 
 It is a precision mechanism. 
 
 Industrial entities with significant equipment, inventory, receivables, or contractual obligations possess leverage that traditional lenders undervalue. 
@@ -98,7 +98,7 @@ Receivables with strong counterparty quality can be monetized.
 Inventory with predictable turnover has liquidity. 
 Equipment with retained value becomes a financing instrument. 
 
-ABL provides liquidity that aligns with operational cycles, not bank policies. 
+Asset-Based Lending provides liquidity that aligns with operational cycles, not bank policies. 
 
 This alignment is the difference between a controlled transition and a forced divestiture. 
 
@@ -133,7 +133,7 @@ Pathmaker’s liquidity structures provide the buffer that prevents operational 
 
 Receivables can be financed. 
 Contracted service lines can anchor private credit facilities. 
-Equipment or specialized infrastructure can support asset based Capital Structuring. 
+Equipment or specialized infrastructure can support asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/). 
 
 The result is stability during the only period that matters, the first 180 days post separation. 
 
@@ -253,7 +253,7 @@ The next decade will not reward single channel liquidity strategies.
 
 Industrial equity will be combined with digital assets. 
 Inventory will be paired with secured credit facilities. 
-Receivables will anchor hybrid structures that integrate private credit with ABL mechanics. 
+Receivables will anchor hybrid structures that integrate private credit with Asset-Based Lending mechanics. 
 
 The operators who win will be those who treat liquidity as a portfolio, not a lifeline. 
 

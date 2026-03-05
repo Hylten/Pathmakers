@@ -133,7 +133,7 @@ Public shares are positioned for strategic Capital Structuring rather than liqui
 
 Crypto holdings are converted into non­correlated liquidity options. 
 
-Operational collateral is assessed for ABL. 
+Operational collateral is assessed for Asset-Based Lending. 
 
 This turns static wealth into dynamic acquisition power.
 

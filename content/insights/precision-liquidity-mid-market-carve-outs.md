@@ -4,7 +4,7 @@ description: "Institutional briefing on tactical liquidity engineering, carve-ou
 date: "2021-12-29"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-mid-market-carve-outs"
-keywords: "kapitalanskaffning, private credit, Capital Structuring, carve-outs, exit readiness, operational separation, asset hardening"
+keywords: "kapitalanskaffning, private credit, [Capital Structuring](https://hylten.github.io/Roials-Capital/), carve-outs, exit readiness, operational separation, asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]

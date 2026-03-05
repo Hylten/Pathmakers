@@ -67,7 +67,7 @@ Maintenance standards are higher.
 Depreciation curves are more predictable. 
 Regulatory compliance is stricter. 
 
-These characteristics strengthen the collateral base, which means ABL structures can be deployed with precision. Pathmaker leverages this predictable asset profile. We lend against assets that we can trust, in regions where reliability is a baseline, not a luxury.
+These characteristics strengthen the collateral base, which means Asset-Based Lending structures can be deployed with precision. Pathmaker leverages this predictable asset profile. We lend against assets that we can trust, in regions where reliability is a baseline, not a luxury.
 
  
 ## Multi‑Modal Asset Types We Work With

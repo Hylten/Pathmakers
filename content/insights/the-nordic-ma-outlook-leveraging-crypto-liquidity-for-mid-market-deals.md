@@ -160,13 +160,13 @@ The liquidity enters the transaction at the point where it matters most:
 
 In carve-outs, this matters even more. Carve-outs are not distressed assets. They are incomplete assets. They require liquidity to complete them. That liquidity must be dependable and timely.
 
-## The Role of Private Credit and ABL in Nordic Deal Structuring
+## The Role of Private Credit and Asset-Based Lending in Nordic Deal Structuring
 
 Private credit in the Nordics is not a new idea, but the posture has changed. Serious buyers now integrate it as a core part of their acquisition strategy, not an alternative. Asset-based Institutional Liquidity Paths amplifies this by grounding financing in tangible, verifiable components.
 
  
 
-Common ABL structures in mid-market Nordic deals include:
+Common Asset-Based Lending structures in mid-market Nordic deals include:
 
 - Receivables financing 
 - Equipment financing 
@@ -230,7 +230,7 @@ This preparation includes:
 
 - Setting up crypto Strategic Collateralization lines above two million dollars 
 - Establishing private credit frameworks that can be activated immediately 
-- Pre-structuring ABL components for expected acquisitions 
+- Pre-structuring Asset-Based Lending components for expected acquisitions 
 - Preparing public share Capital Structuring lines above five million dollars 
 - Creating a flexible deployment strategy for carve-outs 
 - Integrating liquidity planning into diligence workflows 

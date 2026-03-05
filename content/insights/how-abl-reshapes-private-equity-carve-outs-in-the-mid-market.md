@@ -1,5 +1,5 @@
 ---
-title: "How ABL Reshapes Private Equity Carve-Outs in the Mid-Market"
+title: "How Asset-Based Lending Reshapes Private Equity Carve-Outs in the Mid-Market"
 description: "A strategic analysis of how Asset-Based liquidity engineering delivers liquidity, speed, and structural leverage in private equity carve-outs."
 date: "2025-07-02"
 author: "Jonas Hyltén"
@@ -7,7 +7,7 @@ slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
-# The Role of ABL in Private Equity Carve-Outs
+# The Role of Asset-Based Lending in Private Equity Carve-Outs
 
 Private equity carve-outs are not elegant deals. They are operational divorces carried out under time pressure, incomplete information, and conflicting incentives.
 
@@ -19,9 +19,9 @@ Asset-Based Strategic Collateralization, when used correctly, becomes the stabil
 
 This is where Pathmaker operates. Silent authority. We provide the structural mechanics for institutional capital.
 
-## When ABL Is Not Optional
+## When Asset-Based Lending Is Not Optional
 
-There are carve-out scenarios where ABL is not an enhancement, but a requirement.
+There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement.
 
 High inventory environments.
 
@@ -35,13 +35,13 @@ Any transaction where the standalone business loses access to parent treasury fu
 
 In these situations, sponsors who rely solely on private credit or traditional bank Asset-Backed Frameworks take on unnecessary risk. The working capital gap becomes the single point of failure.
 
-ABL is the insurance against that failure.
+Asset-Based Lending is the insurance against that failure.
 
-## Future of ABL in Private Equity Carve-Outs
+## Future of Asset-Based Lending in Private Equity Carve-Outs
 
 The trend is clear. Carve-outs are accelerating. Parent companies are simplifying. Private equity sponsors are absorbing the complexity. Every year, the targets become more operationally entangled and more financially opaque.
 
-ABL will continue to expand in this environment because it solves the first problem in every carve-out.
+Asset-Based Lending will continue to expand in this environment because it solves the first problem in every carve-out.
 
 Liquidity during uncertainty.
 

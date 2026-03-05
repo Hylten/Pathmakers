@@ -80,7 +80,7 @@ Pathmaker becomes a force multiplier in these situations.
 
 When financing is structured early, the buyer enters negotiations with leverage. 
 
-When ABL or private credit is engineered with precision, the entire transaction accelerates.
+When Asset-Based Lending or private credit is engineered with precision, the entire transaction accelerates.
 
 We focus heavily on this because mid market M and A is not won through charm or hypothetical synergies. 
 

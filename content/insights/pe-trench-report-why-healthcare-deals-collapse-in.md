@@ -4,7 +4,7 @@ description: "Pe Trench Report: Why Healthcare Deals Collapse In"
 date: "2025-08-24"
 author: "Jonas Hyltén"
 slug: "pe-trench-report-why-healthcare-deals-collapse-in"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # PE Trench Report. Why Healthcare Deals Collapse in 2026

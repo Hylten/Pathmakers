@@ -95,7 +95,7 @@ Mid market M&A is driven by speed.
 
 Not the recklessness of rushing, but the speed of preparation. 
 
-ABL gives principals the confidence to commit early, negotiate from strength, and capitalize on timing mismatches that would cripple a buyer relying on traditional credit. 
+Asset-Based Lending gives principals the confidence to commit early, negotiate from strength, and capitalize on timing mismatches that would cripple a buyer relying on traditional credit. 
 
 In healthcare carve outs, this becomes even more important. 
 
@@ -272,7 +272,7 @@ We are building something that lasts.
 
 ## The Future of Strategic Asset Finance for Principals Who Move Quietly
 
-The next decade of private credit and ABL will belong to firms that understand structural liquidity, collateral discipline, and silent execution. 
+The next decade of private credit and Asset-Based Lending will belong to firms that understand structural liquidity, collateral discipline, and silent execution. 
 
 The market is already shifting toward lenders who can navigate unconventional assets, international holdings, digital wealth, and complex M&A environments. 
 

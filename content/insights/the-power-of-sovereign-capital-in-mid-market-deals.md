@@ -85,7 +85,7 @@ It ignores projections.
 
 It forces discipline. 
 
-Pathmaker applies ABL to mid-market M and A realities that many lenders will not touch. 
+Pathmaker applies Asset-Based Lending to mid-market M and A realities that many lenders will not touch. 
 
 Healthcare targets with dense receivables. 
 
@@ -97,7 +97,7 @@ Institutional lenders step away from these deals, not due to lack of opportunity
 
 We step in because flexibility is built into our architecture. 
 
-ABL provides velocity. 
+Asset-Based Lending provides velocity. 
 
 It provides predictable leverage. 
 
@@ -105,7 +105,7 @@ It provides a floor when other forms of credit are inaccessible.
 
 For UHNW buyers operating through family vehicles or private holdcos, liquidity timing determines whether they win or lose the bid. 
 
-ABL ensures they do not lose simply because conventional lenders require months of audits before releasing capital. 
+Asset-Based Lending ensures they do not lose simply because conventional lenders require months of audits before releasing capital. 
 
 ## Crypto Institutional Liquidity Paths for the New-Class Wealth Holder
 
@@ -203,7 +203,7 @@ Pathmaker provides this reliability by engineering capital from multiple collate
 
 Private credit. 
 
-ABL structures. 
+Asset-Based Lending structures. 
 
 Crypto assets. 
 

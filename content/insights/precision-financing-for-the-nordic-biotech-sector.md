@@ -165,7 +165,7 @@ Every financing structure we create is designed to preserve optionality.
 
 Private credit offers optionality.
 
-ABL offers optionality.
+Asset-Based Lending offers optionality.
 
 Crypto Monetization Architecture offers optionality.
 

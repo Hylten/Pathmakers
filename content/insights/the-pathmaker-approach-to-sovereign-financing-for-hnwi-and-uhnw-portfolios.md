@@ -76,22 +76,22 @@ If the asset has residual economic musculature, we can lend against it.
 
 ## Asset Based Asset-Backed Frameworks as a Control Lever
 
-Asset Based Capital Structuring, ABL, has become a misunderstood term in the marketplace. Many treat it as a discount bin version of senior Institutional Liquidity Paths. 
+Asset Based Capital Structuring, Asset-Based Lending, has become a misunderstood term in the marketplace. Many treat it as a discount bin version of senior Institutional Liquidity Paths. 
 
  
 We do not. 
 
  
-ABL is one of the few financing structures that can be molded with precision to match the true economic value of the collateral. It rewards operators who maintain clean records, defensible valuations, and dependable operational throughput. 
+Asset-Based Lending is one of the few financing structures that can be molded with precision to match the true economic value of the collateral. It rewards operators who maintain clean records, defensible valuations, and dependable operational throughput. 
 
  
-For mid market M and A, ABL provides an acquisition fulcrum that is often faster and more reliable than equity raises or unsecured liquidity facilities. 
+For mid market M and A, Asset-Based Lending provides an acquisition fulcrum that is often faster and more reliable than equity raises or unsecured liquidity facilities. 
 
  
-For carve outs, ABL provides the working capital runway that keeps operations stable while leadership restructures and removes operational drag. 
+For carve outs, Asset-Based Lending provides the working capital runway that keeps operations stable while leadership restructures and removes operational drag. 
 
  
-Pathmaker structures ABL so clients retain governance and do not become subordinates to a lender with an itchy trigger finger. 
+Pathmaker structures Asset-Based Lending so clients retain governance and do not become subordinates to a lender with an itchy trigger finger. 
 
 ## Crypto Monetization Architecture at Scale
 
@@ -174,7 +174,7 @@ Pathmaker financing is engineered to accelerate these deals by inserting liquidi
 
 ### Acquisition Momentum
 
-Private credit and ABL create the lift needed to finalize transactions that are fundamentally sound but temporarily constrained. 
+Private credit and Asset-Based Lending create the lift needed to finalize transactions that are fundamentally sound but temporarily constrained. 
 
  
 Operators gain the ability to close at the pace the deal requires, not the pace a traditional lender dictates. 

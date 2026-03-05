@@ -1,6 +1,6 @@
 ---
 title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
-description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and ABL structures supported by hybrid asset collateral."
+description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and Asset-Based Lending structures supported by hybrid asset collateral."
 date: "2025-09-25"
 author: "Jonas Hyltén"
 slug: "financing-healthcare-carve-outs-with-hybrid-asset-collateral"
@@ -49,7 +49,7 @@ We lend against asset classes that traditional healthcare carve-out lenders igno
 
 We operate without theatrics and without romance. 
 
-We extend liquidity because we understand the mechanics of collateralized private credit and ABL, not because we believe in turnarounds. 
+We extend liquidity because we understand the mechanics of collateralized private credit and Asset-Based Lending, not because we believe in turnarounds. 
 
 This creates a structural advantage for HNW and UHNW buyers who want to execute quickly, quietly, and with authority. 
 
@@ -89,15 +89,15 @@ This gives the buyer securities-based leverage, liquidity compression, and timel
 
 ### 2. Asset-Based Strategic Collateralization Across Nontraditional Collateral
 
-ABL is frequently misunderstood. 
+Asset-Based Lending is frequently misunderstood. 
 
 It is not limited to equipment, inventory, or receivables. 
 
 Today, it spans a spectrum of verifiable and valuated assets. 
 
-Pathmaker uses ABL to open liquidity channels that traditional lenders overlook because their templates do not accommodate off-model collateral. 
+Pathmaker uses Asset-Based Lending to open liquidity channels that traditional lenders overlook because their templates do not accommodate off-model collateral. 
 
-ABL is particularly effective in carve-outs during the transition window because it can move faster than corporate underwriting. 
+Asset-Based Lending is particularly effective in carve-outs during the transition window because it can move faster than corporate underwriting. 
 
 ### 3. Hybrid Collateral from Public Shares or Crypto Holdings
 
@@ -111,7 +111,7 @@ These are not retail Asset-Backed Frameworks structures.
 
 These are institutional-grade liquidity engines for HNW and UHNW clients. 
 
-Both can be layered on top of private credit or ABL to create a hybrid structure that smooths out the capital stack. 
+Both can be layered on top of private credit or Asset-Based Lending to create a hybrid structure that smooths out the capital stack. 
 
 This blend turns hard-to-finance carve-outs into executable transactions. 
 
@@ -151,7 +151,7 @@ The goal is structural clarity that institutional capital respects.
 A standard hybrid-collateral solution for a healthcare carve-out might include: 
 
 - A private credit tranche for the acquisition base 
-- An ABL tranche for working capital or transition operations 
+- An Asset-Based Lending tranche for working capital or transition operations 
 - A crypto or public share collateral tranche to complete the liquidity envelope 
 
 Because each tranche secures against a different asset type, the underwriting is cleaner. 
@@ -224,7 +224,7 @@ We evaluate the buyer’s external asset footprint.
 
 We build a hybrid structure composed of: 
 - A private credit facility backed by external securities. 
-- An ABL tranche tied to non-healthcare assets. 
+- An Asset-Based Lending tranche tied to non-healthcare assets. 
 - A 2,000,000 crypto-backed tranche to close the gap. 
 
 The deal clears. 

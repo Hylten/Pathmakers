@@ -208,7 +208,7 @@ They are operationally messy but financially durable.
 
 Liquidity gives operators the ability to isolate the noise while stabilizing the core asset.
 
-## The Role of ABL in Portfolio Strategy for HNWI and UHNW Clients
+## The Role of Asset-Based Lending in Portfolio Strategy for HNWI and UHNW Clients
 
 High net worth and ultra high net worth individuals do not use liquidity the way retail investors do. 
 They use it as an instrument for:

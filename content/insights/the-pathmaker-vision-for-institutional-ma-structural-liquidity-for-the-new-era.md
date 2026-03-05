@@ -65,7 +65,7 @@ Precision Tools for Sophisticated Buyers
 
 Our platform is simple by design. 
 
-We offer three primary Asset-Backed Frameworks categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators. 
+We offer three primary [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators. 
 
 ### Private Credit Capital Structuring 
 Private credit is now the backbone of mid market M&A. 
@@ -84,7 +84,7 @@ In volatile markets, hard collateral outperforms narratives.
 We underwrite against real assets, real receivables, real equipment, and real inventory. 
 Not profile metrics, not market sentiment, not forward looking promises. 
 
-In healthcare carve outs, ABL becomes particularly strategic. 
+In healthcare carve outs, Asset-Based Lending becomes particularly strategic. 
 The assets are often underutilized, mispriced, or misaligned within large parent systems. 
 
 We understand how to unlock that value. 
@@ -164,7 +164,7 @@ Two, the collateral is often undervalued, over distributed, or obscured by syste
 
 Pathmaker understands how to dissect and interpret these environments. 
 
-ABL becomes the scalpel. 
+Asset-Based Lending becomes the scalpel. 
 Private credit becomes the stabilizer. 
 Liquidity becomes the strategic weapon that allows buyers to take positions competitors deem too complex. 
 

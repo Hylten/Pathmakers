@@ -48,7 +48,7 @@ Exit readiness in healthcare is not determined by EBITDA multiples. It is determ
 - data maturity 
 - technology interoperability 
 
-These variables differentiate an operator that is attractive to strategic acquirers from an operator that requires restructuring pre‑acquisition.
+These variables differentiate an operator that is attractive to strategic acquirers from an operator that requires restructuring pre‑acquisition. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 Capital Stack Architecture
 

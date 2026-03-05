@@ -65,7 +65,7 @@ It is the stabilizer.
  
 
  
-## Why Mid-Market Buyers Need Private Credit and ABL Instead of Generic Leverage 
+## Why Mid-Market Buyers Need Private Credit and Asset-Based Lending Instead of Generic Leverage 
  
 
 Institutional lenders are calibrated for predictable large-cap transactions. 
@@ -81,7 +81,7 @@ Cross-border mid-market deals rarely offer any of these.
 This is why private credit and asset-based Monetization Architecture become the functional backbone of the mid-market buyer. 
  
 
-At Pathmaker, we lend against private credit structures and ABL frameworks because they allow us to neutralize jurisdictional complexity. 
+At Pathmaker, we lend against private credit structures and Asset-Based Lending frameworks because they allow us to neutralize jurisdictional complexity. 
  
 
 Collateral tells a cleaner story than pro forma earnings. 
@@ -129,9 +129,9 @@ We amplify.
 ## Asset Based Asset-Backed Frameworks Across Borders: What Actually Works 
  
 
-ABL is often misunderstood as a domestic-only tool. 
+Asset-Based Lending is often misunderstood as a domestic-only tool. 
 
-In reality, ABL becomes even more powerful when applied to cross-border transactions because assets behave consistently across jurisdictions even when financial statements do not. 
+In reality, Asset-Based Lending becomes even more powerful when applied to cross-border transactions because assets behave consistently across jurisdictions even when financial statements do not. 
  
 
 The assets that matter in mid-market healthcare carve-outs are predictable. 
@@ -154,8 +154,8 @@ We determine which assets must be domesticated before leverage is viable.
 We determine which assets require excess overcollateralization to meet the liquidity thresholds of the acquisition timeline. 
  
 
-This is not textbook ABL. 
-This is precision-engineered ABL for buyers who cannot afford a capital delay. 
+This is not textbook Asset-Based Lending. 
+This is precision-engineered Asset-Based Lending for buyers who cannot afford a capital delay. 
  
 
  
@@ -275,7 +275,7 @@ At that range, the collateral position is large enough to:
 
 Absorb liquidity buffers. 
 Support multi-jurisdictional structuring. 
-Integrate cleanly with private credit or ABL components. 
+Integrate cleanly with private credit or Asset-Based Lending components. 
  
 
 Public share Strategic Collateralization is not about quick cash. 
@@ -370,7 +370,7 @@ Our internal model follows a simple directional sequence.
 
 Assessment of jurisdictional friction. 
 Mapping of available collateral. 
-Calibration of private credit and ABL components. 
+Calibration of private credit and Asset-Based Lending components. 
 Integration of crypto or public share Capital Structuring if advantageous. 
 Construction of liquidity windows that match the transaction schedule. 
  

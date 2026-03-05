@@ -4,7 +4,7 @@ description: "Tactical Due Diligence: Hardening Assets For Gp Ac"
 date: "2023-08-23"
 author: "Jonas Hyltén"
 slug: "tactical-due-diligence-hardening-assets-for-gp-ac"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Tactical Due Diligence 

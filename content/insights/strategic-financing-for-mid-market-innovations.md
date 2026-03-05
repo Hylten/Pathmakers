@@ -45,22 +45,22 @@ Pathmaker exists to close that gap with structural clarity, not optimism.
 
 ## Why Asset Based Asset-Backed Frameworks Is Becoming the Core of Middle Market Liquidity
 
-ABL is rising because it is quantifiable, consistent, and immune to market gossip. 
+Asset-Based Lending is rising because it is quantifiable, consistent, and immune to market gossip. 
 
 It allows operators to leverage what they already control instead of negotiating against sentiment or macro cycles. 
 
-When executed correctly, ABL provides: 
+When executed correctly, Asset-Based Lending provides: 
 - Predictable liquidity 
 - Non-correlated leverage 
 - Rapid underwriting when collateral is clean 
 - Flexibility during transition periods 
 - Insulation from market volatility 
 
-For healthcare assets in particular, ABL eliminates subjective valuation battles. 
+For healthcare assets in particular, Asset-Based Lending eliminates subjective valuation battles. 
 
 It turns revenue streams, receivables, contracts, and equipment into immediate optionality. 
 
-Pathmaker builds ABL structures that align operational needs with capital certainty. 
+Pathmaker builds Asset-Based Lending structures that align operational needs with capital certainty. 
 
 Nothing romantic. 
 
@@ -216,7 +216,7 @@ Talent leaves.
 
 Pathmaker Strategic Collateralization removes that lag. 
 
-Private credit and ABL give leaders the ability to execute at the speed their strategy requires. 
+Private credit and Asset-Based Lending give leaders the ability to execute at the speed their strategy requires. 
 
 Innovation accelerates when capital is aligned with opportunity, not bureaucracy. 
 

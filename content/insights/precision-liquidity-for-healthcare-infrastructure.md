@@ -197,7 +197,7 @@ Intellectual property related to medical operations.
 
 Asset based Institutional Liquidity Paths, when structured correctly, turns these silent assets into active capital.
 
-ABL is particularly valuable for mid market healthcare operators because:
+Asset-Based Lending is particularly valuable for mid market healthcare operators because:
 
  
 • It does not depend on EBITDA manipulation. 
@@ -211,11 +211,11 @@ ABL is particularly valuable for mid market healthcare operators because:
  
 • It restores control to the operator rather than the lender.
 
-Pathmaker uses ABL to create liquidity events without requiring operators to dilute equity or surrender strategic control.
+Pathmaker uses Asset-Based Lending to create liquidity events without requiring operators to dilute equity or surrender strategic control.
 
 This is especially impactful for carve outs where the asset base is strong but the parent company has neglected the operational investment required for independent stability.
 
-Precision ABL changes that trajectory.
+Precision Asset-Based Lending changes that trajectory.
 
 ## Crypto Capital Structuring, Engineered For Quiet Liquidity At Scale
 

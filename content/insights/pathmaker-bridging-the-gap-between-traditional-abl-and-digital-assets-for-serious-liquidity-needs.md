@@ -1,5 +1,5 @@
 ---
-title: "Pathmaker: Bridging the Gap Between Traditional ABL and Digital Assets for Serious Liquidity Needs"
+title: "Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets for Serious Liquidity Needs"
 description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2022-04-28"
 author: "Jonas Hyltén"
@@ -7,7 +7,7 @@ slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Pathmaker"
 ---
 
-# Pathmaker: Bridging the Gap Between Traditional ABL and Digital Assets
+# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets
 
 Mid market transactions do not tolerate fantasy.
 
@@ -47,7 +47,7 @@ Revenue looks stable only until a payer dispute hits the ledger.
 
  
 
-Traditional ABL sees these movements as red flags.
+Traditional Asset-Based Lending sees these movements as red flags.
 
 Pathmaker sees them as normal operating conditions that require a lender prepared to navigate asset complexity without dramatizing it.
 
@@ -65,7 +65,7 @@ We do not rely on hope as a strategy.
 
 We analyze assets, determine lendable value, and deploy capital with structural discipline.
 
-## Private Credit and ABL: The Structural Foundation
+## Private Credit and Asset-Based Lending: The Structural Foundation
 
 Pathmaker begins with private credit and classical asset based Strategic Collateralization because these remain the most grounded forms of collateralized finance.
 
@@ -113,7 +113,7 @@ But they require discipline, transparency, and underwriting that respects volati
 
  
 
-Pathmaker incorporates digital assets within ABL logic: 
+Pathmaker incorporates digital assets within Asset-Based Lending logic: 
 value the asset, apply a haircut policy, monitor custody, lend responsibly.
 
  
@@ -175,7 +175,7 @@ We deliver liquidity without forcing the borrower to unwind positions or signal 
 
 This is quiet capital deployment that protects both the borrower and the integrity of the asset.
 
-## ABL That Works for Carve Outs and Transitional Assets
+## Asset-Based Lending That Works for Carve Outs and Transitional Assets
 
 Healthcare carve outs are a battleground.
 
@@ -203,7 +203,7 @@ We recognize that carve outs require rapid liquidity to stabilize staffing, vend
 
  
 
-ABL for healthcare is not a cookie cutter underwriting task.
+Asset-Based Lending for healthcare is not a cookie cutter underwriting task.
 
 It is a forensic exercise.
 
@@ -320,7 +320,7 @@ and price transparency.
 
  
 
-This is the only way digital assets earn a place at the table with private credit and traditional ABL.
+This is the only way digital assets earn a place at the table with private credit and traditional Asset-Based Lending.
 
  
 

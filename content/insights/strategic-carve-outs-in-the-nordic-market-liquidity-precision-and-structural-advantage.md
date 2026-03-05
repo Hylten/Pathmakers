@@ -4,7 +4,7 @@ description: "A high-authority analysis of Nordic carve-outs with focus on liqui
 date: "2023-05-17"
 author: "Jonas Hyltén"
 slug: "strategic-carve-outs-in-the-nordic-market-liquidity-precision-and-structural-advantage"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Carve-Outs in the Nordic Market
@@ -122,7 +122,7 @@ Asset based Monetization Architecture is often misunderstood in the Nordic marke
 
 Most assume it is a defensive financing strategy. 
 
-In reality, ABL is the most practical tool available during corporate separations. 
+In reality, Asset-Based Lending is the most practical tool available during corporate separations. 
 
 It reinforces liquidity at the exact moment the organization loses access to the parent company’s balance sheet. 
 
@@ -132,7 +132,7 @@ It is operational survival.
 
 Pathmaker lends against asset based instruments with a pure focus on control, predictability, and separation readiness. 
 
-ABL turns the acquired assets into a liquidity engine. 
+Asset-Based Lending turns the acquired assets into a liquidity engine. 
 
 This stabilizes the carve-out so that strategic vision can be executed without panic. 
 
@@ -146,7 +146,7 @@ Key advantages:
 - Stronger equity story for future refinancing or exit 
 
  
-ABL is not glamorous. 
+Asset-Based Lending is not glamorous. 
 
 It is not meant to be. 
 
@@ -173,7 +173,7 @@ Nordic healthcare carve-outs suffer from predictable challenges:
  
 This is the exact environment where Pathmaker’s model performs. 
 
-Our private credit and ABL structures provide predictable liquidity while the new entity synchronizes its operational rhythm. 
+Our private credit and Asset-Based Lending structures provide predictable liquidity while the new entity synchronizes its operational rhythm. 
 
 HNWI and UHNW investors understand that healthcare assets do not need dramatic turnarounds. 
 
@@ -279,7 +279,7 @@ The blueprint is simple, but it is not easy.
 
 2. Model the liquidity needs through the entire TSA period. 
 
-3. Build an ABL foundation that stabilizes early turbulence. 
+3. Build an Asset-Based Lending foundation that stabilizes early turbulence. 
 
 4. Add private credit for expansion, integration, or opportunistic scaling. 
 

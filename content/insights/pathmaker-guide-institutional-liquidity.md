@@ -4,7 +4,7 @@ description: "A strategic memo on liquidity engineering, institutional readiness
 date: "2023-02-25"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-institutional-liquidity"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]

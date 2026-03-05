@@ -92,7 +92,7 @@ The revenue is there.
 
 The timing is the problem, not the value.
 
-This timing gap is exactly where precision ABL and private credit become decisive.
+This timing gap is exactly where precision Asset-Based Lending and private credit become decisive.
 
 ## What Precision Liquidity Means in Practice
 
@@ -145,7 +145,7 @@ Asset based Institutional Liquidity Paths is not a fallback solution.
 
 When executed correctly, it is the cleanest form of transaction liquidity.
 
-In a carve-out, ABL supports:
+In a carve-out, Asset-Based Lending supports:
 
 • Working capital 
 • Inventory synchronization 
@@ -154,7 +154,7 @@ In a carve-out, ABL supports:
 • Operational separation costs 
 • Early system integration gaps 
 
-ABL is agnostic to story. 
+Asset-Based Lending is agnostic to story. 
 It is anchored to assets. 
 And assets, when correctly structured, do not lie.
 
@@ -205,7 +205,7 @@ Precision liquidity matters because:
 • Collateral is often trapped in underutilized asset classes. 
 • HNWI and UHNW investors need silent, reliable leverage. 
 • Institutional capital prefers structured mechanics behind the scenes. 
-• Private credit and ABL are often the only forms of liquidity that can be activated fast enough and reliably enough.
+• Private credit and Asset-Based Lending are often the only forms of liquidity that can be activated fast enough and reliably enough.
 
 Pathmaker operates in these mechanics. 
 We do not publish flashy promises. 

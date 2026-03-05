@@ -208,9 +208,9 @@ Healthcare buyers often hold significant assets:
 • Diversified investment portfolios 
 
 But liquidating these assets to chase an acquisition disrupts the primary wealth strategy. 
-ABL prevents that disruption. 
+Asset-Based Lending prevents that disruption. 
 
-With ABL, investors unlock liquidity without unwinding long‑term positions. The result is cleaner capital structuring and faster transaction readiness. 
+With Asset-Based Lending, investors unlock liquidity without unwinding long‑term positions. The result is cleaner capital structuring and faster transaction readiness. 
 
 This is why sophisticated healthcare buyers integrate asset based Monetization Architecture into their M&A playbook. 
 

@@ -51,7 +51,7 @@ We design private credit solutions that withstand operational volatility and mar
 These structures include: 
 
 Senior secured private credit. 
-ABL led hybrid structures. 
+Asset-Based Lending led hybrid structures. 
 Transitional financing tied to reimbursement cycles. 
 Bridge financing for roll ups. 
 Complex capital stacks for multi entity carve outs. 
@@ -108,7 +108,7 @@ Liquidity determines the outcome.
 
 Pathmaker strengthens operators at the negotiation table. 
 
-When buyers have secured private credit and ABL support, they negotiate differently. 
+When buyers have secured private credit and Asset-Based Lending support, they negotiate differently. 
 When sellers have liquidity backing, they defend valuation more effectively. 
 When investors have capital options, they capture opportunities before competitors react. 
 
@@ -160,7 +160,7 @@ Healthcare is shifting toward consolidation, automation, and capital intensity.
 
 The operators and investors who win will be those who command liquidity with precision. 
 
-Private credit and ABL will continue to dominate the financing landscape because they offer the adaptability that healthcare requires. 
+Private credit and Asset-Based Lending will continue to dominate the financing landscape because they offer the adaptability that healthcare requires. 
 
 Pathmaker will continue building the mechanics behind these deals. 
 

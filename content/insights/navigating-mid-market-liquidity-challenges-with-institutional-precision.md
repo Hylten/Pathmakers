@@ -1,6 +1,6 @@
 ---
 title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision"
-description: "A strategic deep dive into mid-market liquidity constraints and how ABL and private credit structures create durable optionality for HNWI and UHNW investors."
+description: "A strategic deep dive into mid-market liquidity constraints and how Asset-Based Lending and private credit structures create durable optionality for HNWI and UHNW investors."
 date: "2022-11-15"
 author: "Jonas Hyltén"
 slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
@@ -105,7 +105,7 @@ Contract rights that hold value, yet are overlooked by banks due to complexity.
 
 Pathmaker focuses on identifying, valuing, and activating these silent assets.
 
-We deploy ABL structures that behave like institutional-grade tools, but with the adaptability required in real-world mid-market volatility.
+We deploy Asset-Based Lending structures that behave like institutional-grade tools, but with the adaptability required in real-world mid-market volatility.
 
 This is not theoretical finance.
 
@@ -147,7 +147,7 @@ This screens out speculative participants and ensures that the capital base is s
 
 Crypto liquidity can be an efficient tool when treated as collateral, not as a gamble.
 
-We structure crypto Capital Structuring with the same rigor we apply to private credit and ABL.
+We structure crypto Capital Structuring with the same rigor we apply to private credit and Asset-Based Lending.
 
 No hype.
 
@@ -277,7 +277,7 @@ We build:
 
 • Private credit frameworks that balance risk and optionality
 
-• ABL structures that respond dynamically to asset quality
+• Asset-Based Lending structures that respond dynamically to asset quality
 
 • Collateral agreements that protect both sides without restricting maneuverability
 

@@ -29,7 +29,7 @@ A resilient liquidity stack includes:
 
 Private credit backed liquidity for speed. 
 
-ABL for operational stability. 
+Asset-Based Lending for operational stability. 
 
 Specialty Asset-Backed Frameworks for tactical agility. 
 

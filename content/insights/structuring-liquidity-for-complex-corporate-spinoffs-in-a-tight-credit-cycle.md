@@ -69,7 +69,7 @@ Proper sequencing requires liquidity that is:
 • Deployable even when financials are partially reconciled 
 • Structured around transitional volatility rather than penalizing it 
 
-This is the advantage of private credit combined with ABL. 
+This is the advantage of private credit combined with Asset-Based Lending. 
 
 We can structure against imperfect information as long as the asset base and risk profile are fundamentally real. 
 
@@ -128,7 +128,7 @@ Silent authority is the backbone of our operating posture.
 
 It means providing structure without drama. 
 
-It means understanding how to complement institutional capital without creating noise. 
+It means understanding how to complement [institutional capital](https://hylten.github.io/Roials-Capital/) without creating noise. 
 
 It means supporting those who already carry significant visibility, without adding more. 
 

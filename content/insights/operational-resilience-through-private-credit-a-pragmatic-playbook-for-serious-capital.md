@@ -21,7 +21,7 @@ At Pathmaker, this is the world we operate in. We lend against private credit an
 We work exclusively with high net worth and ultra high net worth individuals who understand that speed and silence are advantages. Our posture is silent authority. We create the structural mechanics that institutional capital depends on, while our clients move without friction. 
 
  
-This article lays out how private credit, ABL positioning, and Institutional Liquidity Paths create operational resilience for mid market operators, healthcare executives managing carve outs, and acquisitive buyers executing M and A strategies under real pressure. 
+This article lays out how private credit, Asset-Based Lending positioning, and Institutional Liquidity Paths create operational resilience for mid market operators, healthcare executives managing carve outs, and acquisitive buyers executing M and A strategies under real pressure. 
 
  
 The tone here is direct. Battle tested. Nothing romantic. Nothing theoretical. Only what works.
@@ -64,7 +64,7 @@ The most common issues in healthcare carve outs include:
 Traditional lenders hesitate due to regulatory complexity and opaque receivables. Private credit steps in because it understands the mechanics. 
 
  
-At Pathmaker, we support carve outs by pairing ABL structures with private credit facilities. The objective is simple. Stabilize operations so that clinical care, revenue cycles, and staffing remain intact. 
+At Pathmaker, we support carve outs by pairing Asset-Based Lending structures with private credit facilities. The objective is simple. Stabilize operations so that clinical care, revenue cycles, and staffing remain intact. 
 
  
 Healthcare carve outs do not require optimism. They require liquidity, technical understanding, and structural control.
@@ -80,7 +80,7 @@ Most deals fall apart not because the buyer lacks interest, but because the buye
 Sellers choose certainty. They choose buyers who can guarantee execution. 
 
  
-Private credit provides that execution certainty. ABL provides the operational runway post close. Together they create a competitive posture that outperforms equity only buyers and legacy lenders who move too slowly. 
+Private credit provides that execution certainty. Asset-Based Lending provides the operational runway post close. Together they create a competitive posture that outperforms equity only buyers and legacy lenders who move too slowly. 
 
  
 In a competitive process, speed is leverage. Liquidity is leverage. Clarity is leverage. 
@@ -103,7 +103,7 @@ Clients rely on us because we deliver mechanics that do not need celebration. On
 Volatility is not a temporary cycle. It is the permanent condition of modern business. Operators who depend on stability as a prerequisite will fail. Operators who engineer resilience will absorb shocks and convert them into opportunity. 
 
  
-Private credit and ABL are not about risk. They are about preparation. They are about control. They are about the capacity to keep moving when others freeze. 
+Private credit and Asset-Based Lending are not about risk. They are about preparation. They are about control. They are about the capacity to keep moving when others freeze. 
 
  
 Operational resilience is not built through cost cutting or austerity. It is built through intelligent liquidity. It is built through optionality. It is built through structures that give leaders the freedom to act. 

@@ -4,7 +4,7 @@ description: "Operational Resilience: Removing Human Friction Fr"
 date: "2021-07-17"
 author: "Jonas Hyltén"
 slug: "operational-resilience-removing-human-friction-fr"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Operational Resilience. The Discipline of Eliminating Human Friction in M&A
@@ -30,7 +30,7 @@ The goal is covenant durability that outlives the founder and meets the scrutiny
 Mid‑market companies rarely fail because the underlying business is weak. 
 They fail because human systems were allowed to grow informal, idiosyncratic, or tribal.
 
-Informality is the silent enemy of institutional capital. 
+Informality is the silent enemy of [institutional capital](https://hylten.github.io/Roials-Capital/). 
 
 Once a business crosses 10 million EBITDA, the founding team’s habits are no longer neutral. They become structural liabilities.
 

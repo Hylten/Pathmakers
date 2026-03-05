@@ -4,7 +4,7 @@ description: "Strategic Asset Hardening: The Path To Institution"
 date: "2023-01-05"
 author: "Jonas Hyltén"
 slug: "strategic-asset-hardening-the-path-to-institution"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Strategic Asset Hardening. The Path to Institutional Valuation

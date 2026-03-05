@@ -4,7 +4,7 @@ description: "The NegotiatorS Mandate: Structural Certainty In"
 date: "2021-04-01"
 author: "Jonas Hyltén"
 slug: "the-negotiators-mandate-structural-certainty-in"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Negotiator's Mandate. Structural Certainty in Private Equity

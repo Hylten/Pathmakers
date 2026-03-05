@@ -80,13 +80,13 @@ It is a multiplier.
 
 ## Asset Based Asset-Backed Frameworks That Reflects Operational Reality
 
-Asset Based Capital Structuring, or ABL, forms the backbone of many mid market transactions. 
+Asset Based Capital Structuring, or Asset-Based Lending, forms the backbone of many mid market transactions. 
 
 Yet most providers still rely on rigid frameworks tailored for stable, predictable businesses. 
 
 Mid market carve outs, especially in healthcare, are anything but predictable.
 
-Pathmaker uses ABL differently.
+Pathmaker uses Asset-Based Lending differently.
 
 We assess assets based on operational relevance. 
 We do not punish temporary volatility. 
@@ -102,7 +102,7 @@ Buildings that carry more value in continuity than on an appraisal sheet.
 These are often overlooked by conventional lenders. 
 They are not overlooked by us.
 
-ABL should reflect the business as it is. 
+Asset-Based Lending should reflect the business as it is. 
 Not the business as some static model wishes it were. 
 That is the difference between transactional Asset-Backed Frameworks and precision financing.
 

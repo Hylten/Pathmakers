@@ -97,7 +97,7 @@ The Nordic credit landscape will continue to evolve, but one principle will rema
 
  
 
-Pathmaker is structured to deliver exactly that. Whether the requirement is private credit, ABL, crypto Capital Structuring, or public share Asset-Backed Frameworks, our framework is designed for clarity, speed, and institutional compatibility.
+Pathmaker is structured to deliver exactly that. Whether the requirement is private credit, Asset-Based Lending, crypto Capital Structuring, or public share Asset-Backed Frameworks, our framework is designed for clarity, speed, and institutional compatibility.
 
  
 

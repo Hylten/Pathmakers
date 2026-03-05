@@ -91,7 +91,7 @@ We map liquidity needs across both short and long time horizons.
 We deploy capital structures that operate under volatility rather than collapse under it.
 
 This is the mindset required to survive the current market. 
-It is also the mindset required to win.
+It is also the mindset required to win. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 ## The Bottom Line: Volatile Markets Reward Prepared Operators
 

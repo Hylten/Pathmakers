@@ -79,7 +79,7 @@ Carve-outs have inherited inconsistencies.
 
 HNWI and UHNW buyers need a liquidity partner that accepts the inherent disorder and prices against real assets, real collateral, and real flows.
 
-## Private Credit and ABL as the Lead Instruments
+## Private Credit and Asset-Based Lending as the Lead Instruments
 
 Pathmaker lends against two core categories. 
 
@@ -115,15 +115,15 @@ A private credit line calibrated to these patterns allows the carve-out to survi
 
 ### Asset Based Institutional Liquidity Paths 
 
-ABL works because assets do not lie. 
+Asset-Based Lending works because assets do not lie. 
 
 Inventory, receivables, equipment, and secured collateral provide a stable base at a moment when everything else is in flux. 
 
-ABL gives the carve-out enough runway to correct cost structures and repair operational bottlenecks before the P&L stabilizes. 
+Asset-Based Lending gives the carve-out enough runway to correct cost structures and repair operational bottlenecks before the P&L stabilizes. 
 
 This is especially relevant in cross-border conditions where delays at customs, regional tax differences, and regulatory friction can create liquidity gaps that conventional financing cannot accommodate. 
 
-Pathmaker uses ABL as a liquidity shield that prevents short term volatility from triggering long term operational damage.
+Pathmaker uses Asset-Based Lending as a liquidity shield that prevents short term volatility from triggering long term operational damage.
 
 ## Liquidity as a Tactical Advantage in Cross-Border Deals
 
@@ -259,7 +259,7 @@ Liquidity must not be.
 
 ### 5. The financing structure must respect asset reality 
 
-This is why we lean on private credit and ABL rather than speculative projections. 
+This is why we lean on private credit and Asset-Based Lending rather than speculative projections. 
 
 ## The Pathmaker Model for Cross-Border Carve-Out Liquidity
 

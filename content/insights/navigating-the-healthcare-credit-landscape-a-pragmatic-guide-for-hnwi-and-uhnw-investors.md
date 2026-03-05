@@ -71,14 +71,14 @@ Investors who rely on asset Asset-Backed Frameworks win.
 Healthcare assets provide unique collateral opportunities when underwritten correctly. 
 Examples include receivables, hard assets tied to diagnostics or surgical capabilities, and contracted revenue pools. 
 
-ABL is particularly effective in healthcare carve outs where the assets are real, but the financial reporting is unstable. 
+Asset-Based Lending is particularly effective in healthcare carve outs where the assets are real, but the financial reporting is unstable. 
 
 Pathmaker specializes in extracting clarity from these environments. 
 We structure the facility around what can be validated and applied immediately. 
 This gives the investor the ability to close a deal without waiting for the seller to repair their data integrity. 
 
 Speed matters more than presentation quality. 
-ABL provides the bridge.
+Asset-Based Lending provides the bridge.
 
 ## Private Credit for Mid‑Market Healthcare Deals
 
@@ -180,7 +180,7 @@ Consolidation is accelerating.
 Carve outs are increasing. 
 Distressed assets are transitioning to private hands. 
 
-Private credit and ABL will power this next wave. 
+Private credit and Asset-Based Lending will power this next wave. 
 Pathmaker is positioned to serve investors who thrive in imperfect conditions and prefer leverage that does not depend on sentiment. 
 
 # Conclusion

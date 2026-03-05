@@ -1,6 +1,6 @@
 ---
 title: "Strategic Asset Based Lending for Complex Corporate Architectures"
-description: "Institutional briefing on the liquidity engineering mechanics that underpin strategic ABL in multi-entity corporate groups, with emphasis on exit readiness, M and A friction removal, balance sheet optimization, and off market origination dynamics."
+description: "Institutional briefing on the liquidity engineering mechanics that underpin strategic Asset-Based Lending in multi-entity corporate groups, with emphasis on exit readiness, M and A friction removal, balance sheet optimization, and off market origination dynamics."
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "strategic-abl-complex-corporate-structures"
@@ -9,7 +9,7 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 [START INSTITUTIONAL BRIEFING]
 
-The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets. The structural gap is created by accounting opacity, not credit scarcity. In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures. This is the opening for strategic ABL.
+The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets. The structural gap is created by accounting opacity, not credit scarcity. In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures. This is the opening for strategic Asset-Based Lending.
 
 PHASE 1. THE REGIME SHIFT
 
@@ -23,14 +23,14 @@ Three forces define the new regime.
 
 3. M and A readiness gap. Acquirers require frictionless financial mapping. When documentation, entity responsibilities, and intercompany agreements are opaque, acquirers widen their discount window or walk away. Strong businesses become unsellable for administrative reasons, not operational ones.
 
-This regime shift creates an arbitrage window for organisations that can interpret, consolidate, and structure collateral across multiple entities without compromising legal separation. What institutions perceive as risk is often simply a lack of technical mapping. Strategic ABL converts complexity into eligible collateral.
+This regime shift creates an arbitrage window for organisations that can interpret, consolidate, and structure collateral across multiple entities without compromising legal separation. What institutions perceive as risk is often simply a lack of technical mapping. Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
-PHASE 2. TECHNICAL MECHANICS OF STRATEGIC ABL
+PHASE 2. TECHNICAL MECHANICS OF STRATEGIC Asset-Based Lending
 
-Strategic ABL is not a commodity lending product. It is a liquidity engineering discipline that requires operational intelligence, capital stack calibration, and forensic mapping across complex corporate ecosystems. The mechanics fall into four domains.
+Strategic Asset-Based Lending is not a commodity lending product. It is a liquidity engineering discipline that requires operational intelligence, capital stack calibration, and forensic mapping across complex corporate ecosystems. The mechanics fall into four domains.
 
 1. Collateral cartography  
-This is the systematic identification, classification, and valuation of assets across all entities involved in the corporate group. It includes working capital, heavy equipment, intellectual property, contractual receivables, inventory classes, secured cash flow lines, and hard assets. The strategic overlay is the mapping of asset control rights and their legal portability. An asset may be valuable but unusable as collateral if its entity is structurally ring fenced. Strategic ABL models the entire map before defining the borrowing base.
+This is the systematic identification, classification, and valuation of assets across all entities involved in the corporate group. It includes working capital, heavy equipment, intellectual property, contractual receivables, inventory classes, secured cash flow lines, and hard assets. The strategic overlay is the mapping of asset control rights and their legal portability. An asset may be valuable but unusable as collateral if its entity is structurally ring fenced. Strategic Asset-Based Lending models the entire map before defining the borrowing base.
 
 2. Multi entity borrowing base engineering  
 The borrowing base is not a single pool but a coordinated matrix of asset classes distributed across legal jurisdictions. The challenge is determining which assets can support senior secured lending without violating corporate separations. Techniques include:  
@@ -42,7 +42,7 @@ The borrowing base is not a single pool but a coordinated matrix of asset classe
 Borrowing base engineering is not about pushing leverage. It is about removing noise so collateral can carry liquidity.
 
 3. LTV curve calibration  
-Loan to Value cannot be linear across entities. Strategic ABL uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity. For example:  
+Loan to Value cannot be linear across entities. Strategic Asset-Based Lending uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity. For example:  
 - Hard assets with established resale markets follow high stability LTV curves.  
 - Receivables tied to diversified clients follow mid band curves with time decay functions.  
 - Intellectual property or contractual rights may require structural subordination or cross collateralisation.  
@@ -50,7 +50,7 @@ Loan to Value cannot be linear across entities. Strategic ABL uses tiered LTV cu
 The objective is to define a defensible seniority stack that institutional lenders can recognise without being forced into binary credit decisions.
 
 4. Cash flow waterfalls for multi entity groups  
-When liquidity flows across entities, misaligned waterfalls create default illusions. Strategic ABL constructs waterfalls that reflect operational reality rather than accounting formality. This includes:  
+When liquidity flows across entities, misaligned waterfalls create default illusions. Strategic Asset-Based Lending constructs waterfalls that reflect operational reality rather than accounting formality. This includes:  
 - Entity specific operating reserves  
 - Group level senior obligations  
 - Structured intra group compensation  
@@ -95,7 +95,7 @@ The stewardship filter aligns with the principle in Proverbs 13:22 which positio
 
 PHASE 5. DECISION LENS FOR THE ALLOCATOR OR OWNER
 
-For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available. The relevant question is whether the corporate architecture is shaped for financing without friction. Strategic ABL is not about leverage. It is about structural clarity. 
+For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available. The relevant question is whether the corporate architecture is shaped for financing without friction. Strategic Asset-Based Lending is not about leverage. It is about structural clarity. 
 
 The decision lens focuses on the following elements.
 
