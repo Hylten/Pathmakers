@@ -135,7 +135,7 @@ The sponsor must ensure Monetization Architecture strengthens the operational ba
 Gnosjö represents discipline, humility, and community centric enterprise. In niche acquisitions, the operator must respect the knowledge embedded in local operations. Asset-Based Lending enables capital deployment to reinforce these capabilities. For instance, strengthening the maintenance fleet or upgrading precision fabrication assets.
 
 3. Technical Edge 
-Technical edge is the ability to translate operational detail into financial architecture. In this model, the sponsor extracts value not through aggressive leverage but through asset intelligence. The physical world is converted into capital structure advantage. This is the heart of [Capital Structuring](https://hylten.github.io/Roials-Capital/).
+Technical edge is the ability to translate operational detail into financial architecture. In this model, the sponsor extracts value not through aggressive leverage but through asset intelligence. The physical world is converted into capital structure advantage. This is the heart of [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/).
 
 Asset-Based Lending aligns with these values because it forces the sponsor to understand the operational reality deeply. There is no abstraction. Only real assets, real cash cycles, and real businesses.
 

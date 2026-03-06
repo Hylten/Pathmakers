@@ -28,7 +28,7 @@ Liquidity is no longer a byproduct of fund scale. It is a function of engineered
 Institutional liquidity is therefore not a passive factor. It is a design requirement that determines velocity, resilience, and exit predictability across the deal lifecycle.
 
 TECHNICAL MECHANICS 
-[Capital Structuring](https://hylten.github.io/Roials-Capital/) relies on precise mechanical interactions between collateral valuation models, capital efficiency structures, and timing windows. The technical core is the conversion differential between asset value and deployable liquidity. This differential is governed by five mechanical pillars.
+[Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) relies on precise mechanical interactions between collateral valuation models, capital efficiency structures, and timing windows. The technical core is the conversion differential between asset value and deployable liquidity. This differential is governed by five mechanical pillars.
 
 1. Advance Rate Physics 
 Advance rates in institutional environments are determined by the durability and auditability of the underlying asset. Standard ranges in 2026 for production grade assets are: 

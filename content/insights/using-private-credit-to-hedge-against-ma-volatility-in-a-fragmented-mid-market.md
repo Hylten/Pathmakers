@@ -4,7 +4,7 @@ description: "A high level look at how HNWI and UHNW operators use private credi
 date: "2025-08-29"
 author: "Jonas Hyltén"
 slug: "using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market"
-keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market

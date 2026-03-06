@@ -1,6 +1,6 @@
 ---
 title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
-description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
+description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
 date: "2022-10-29"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"

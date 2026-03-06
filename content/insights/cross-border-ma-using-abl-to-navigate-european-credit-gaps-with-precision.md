@@ -89,7 +89,7 @@ The more sophisticated the buyer, the more they want optionality.
 
  
 
-Crypto backed Monetization Architecture and public share backed [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) provide this optionality when used correctly.
+Crypto backed Monetization Architecture and public share backed [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) provide this optionality when used correctly.
 
  
 

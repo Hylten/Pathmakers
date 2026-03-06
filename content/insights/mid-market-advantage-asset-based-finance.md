@@ -120,7 +120,7 @@ PHASE 4: THE STEWARDSHIP FILTER
 
 Stewardship is not a moral abstraction. It is a capital discipline rooted in non-wasteful resource management. As stated in Proverbs 13:22, stewardship is generational and structural, not transactional.
 
-The mid-market suffers from two forms of capital waste. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+The mid-market suffers from two forms of capital waste. (See [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 1. Operational Waste 
  - Inefficient equipment financing 

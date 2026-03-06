@@ -4,7 +4,7 @@ description: "A tactical analysis of how asset based Monetization Architecture d
 date: "2024-09-11"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # The Role of Asset-Based Lending in Healthcare Carve-Outs

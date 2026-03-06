@@ -9,7 +9,7 @@ keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineerin
 
 [START INSTITUTIONAL BRIEFING]
 
-Nordic cross‑border M&A has entered a structural rewrite. Not a cycle shift. A rules shift. A jurisdictional realignment where capital reputation, regulatory symmetry, and off‑market information flow outperform financial engineering. The old approach-linear processes, static valuations, and auction-driven discovery-breaks under current volatility vectors. The new model demands tactical intelligence, architectural foresight, and exit readiness engineered years before the first NDA is executed. (See [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Nordic cross‑border M&A has entered a structural rewrite. Not a cycle shift. A rules shift. A jurisdictional realignment where capital reputation, regulatory symmetry, and off‑market information flow outperform financial engineering. The old approach-linear processes, static valuations, and auction-driven discovery-breaks under current volatility vectors. The new model demands tactical intelligence, architectural foresight, and exit readiness engineered years before the first NDA is executed. (See [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 The analysts have monitored this shift across Sweden, Norway, Denmark, and Finland. Four markets. Four regulatory philosophies. One converging truth: deal friction is the new deal killer. The winners remove it early. The losers explain it late.
 

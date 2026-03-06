@@ -4,7 +4,7 @@ description: "A high-authority analysis of Nordic carve-outs with focus on liqui
 date: "2023-05-17"
 author: "Jonas Hyltén"
 slug: "strategic-carve-outs-in-the-nordic-market-liquidity-precision-and-structural-advantage"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Pathmaker"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Pathmaker"
 ---
 
 # Strategic Carve-Outs in the Nordic Market

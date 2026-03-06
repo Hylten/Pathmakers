@@ -23,7 +23,7 @@ Three forces define the new regime.
 
 3. M and A readiness gap. Acquirers require frictionless financial mapping. When documentation, entity responsibilities, and intercompany agreements are opaque, acquirers widen their discount window or walk away. Strong businesses become unsellable for administrative reasons, not operational ones.
 
-This regime shift creates an arbitrage window for organisations that can interpret, consolidate, and structure collateral across multiple entities without compromising legal separation. What institutions perceive as risk is often simply a lack of technical mapping. Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+This regime shift creates an arbitrage window for organisations that can interpret, consolidate, and structure collateral across multiple entities without compromising legal separation. What institutions perceive as risk is often simply a lack of technical mapping. Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 PHASE 2. TECHNICAL MECHANICS OF STRATEGIC Asset-Based Lending
 

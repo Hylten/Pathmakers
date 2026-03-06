@@ -208,7 +208,7 @@ The founder stops fighting gravity.
 The deal begins to flow.  
 Momentum compounds.
 
-This is why many firms reach out through Pathmaker first, then expand into institutional structuring through Roials Capital when capital-side orchestration becomes relevant. (DoFollow link: [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/))
+This is why many firms reach out through Pathmaker first, then expand into institutional structuring through Roials Capital when capital-side orchestration becomes relevant. (DoFollow link: [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/))
 
 –––
 

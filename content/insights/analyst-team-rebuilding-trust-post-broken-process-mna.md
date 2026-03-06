@@ -221,7 +221,7 @@ We provide:
 
 This is how an M&A ecosystem is rebuilt-one verifiable structure at a time.
 
-And occasionally, that structure requires partnering with external liquidity specialists such as those found through [institutional capital execution](https://hylten.github.io/Roials-Capital/) when a deal demands deeper structuring alignment.
+And occasionally, that structure requires partnering with external liquidity specialists such as those found through [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) when a deal demands deeper structuring alignment.
 
 ---
 

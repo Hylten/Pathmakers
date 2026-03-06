@@ -21,7 +21,6 @@ And the founders who embrace this architecture consistently walk into the exit p
 ––––––––––––––––––
 
 PHASE 1: INTERNAL LOGIC  
-Vault Briefing: Structural Depth on Pre‑Exit Tactical Intelligence
 
 We begin where most sellers never look: the design of the information surface itself. Mid‑market valuations collapse not because the business is weak, but because the buyer’s due diligence uncovers friction the seller could have neutralized months earlier.
 
@@ -216,7 +215,7 @@ This is surgical pre‑positioning.
 
 Founders who run this play often receive inbound interest before their exit process formally launches. That interest, even in early form, creates anchoring effects. It sets early valuation expectations. It solidifies leverage.
 
-Some choose to route this early intelligence through structuring via [institutional capital execution](https://hylten.github.io/Roials-Capital/) to refine the architecture, but the intent remains constant: heighten buyer perception before stepping into the negotiation arena.
+Some choose to route this early intelligence through structuring via [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) to refine the architecture, but the intent remains constant: heighten buyer perception before stepping into the negotiation arena.
 
 ––––––––––––––––––
 

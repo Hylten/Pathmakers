@@ -21,8 +21,7 @@ We proceed.
 ---
 
 PHASE 1: INTERNAL LOGIC  
-Confidential notes. Structural depth only. A vault briefing for those who assume responsibility for outcomes rather than commentary.
-
+Confidential notes. Structural depth only. A 
 The mid-market has become a theatre of distortion. Too much money chasing too few good operators. Too much noise obscuring the few that actually matter. Private equity wants readiness. Family offices want continuity. Strategics want integration capacity. The sell-side rarely provides any of it.
 
 This is why Tactical Intelligence wins. It converts operational reality into acquisition logic. It rearranges the firm so that an acquirer sees a future, not a fix-it job. It also transforms the acquisition pipeline. Instead of chasing public auctions, Tactical Intelligence unlocks the off-market corridor where serious deals occur silently and decisively.

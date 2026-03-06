@@ -4,7 +4,7 @@ description: "A pragmatic breakdown of how UHNW investors use asset based liquid
 date: "2025-01-12"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), Pathmaker"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), Pathmaker"
 ---
 
 # Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster

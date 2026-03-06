@@ -1,6 +1,6 @@
 ---
 title: "The Pathmaker Playbook for Healthcare Financing"
-description: "A technical memo on [capital structuring](https://hylten.github.io/Roials-Capital/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility."
+description: "A technical memo on [capital structuring](https://hylten.github.io/ROIALS CAPITAL/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility."
 date: "2022-12-18"
 author: "Jonas Hyltén"
 slug: "pathmaker-playbook-healthcare-financing"

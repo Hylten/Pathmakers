@@ -205,7 +205,7 @@ We operate upstream. Quietly. Deeply. Architecturally.
 
 A natural bridge exists between FP&A excellence and capital structuring. When your financial architecture is correct, capital partners treat you differently. Premium exits become accessible. Friction falls away.
 
-On occasion, where the structuring requires optional sophistication, firms explore institutional capital execution through platforms such as [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/). The link is natural, not promotional. Architecture precedes capital.
+On occasion, where the structuring requires optional sophistication, firms explore institutional capital execution through platforms such as [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/). The link is natural, not promotional. Architecture precedes capital.
 
 CLOSING INTELLIGENCE - THE FINAL PRINCIPAL STATEMENT
 An operator who adopts institutional-grade FP&A stops playing defense. They stop hoping buyers will behave generously. They stop letting outsiders define the value of their life’s work.

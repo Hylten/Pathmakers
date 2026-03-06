@@ -11,7 +11,7 @@ keywords: "private credit, asset based Monetization Architecture, liquidity, HNW
 
 Mid market M&A is rarely elegant.
 
-It is tactical, fast moving, and shaped by constraints that [institutional capital](https://hylten.github.io/Roials-Capital/) prefers to avoid.
+It is tactical, fast moving, and shaped by constraints that [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) prefers to avoid.
 
 Liquidity gaps. 
 Timing misalignments. 

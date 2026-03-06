@@ -4,7 +4,7 @@ description: "A deep institutional analysis of asset‑based lending structures 
 date: "2024-10-13"
 author: "The Analyst Team"
 slug: "abl-healthcare-carveouts-liquidity-engineering"
-keywords: "kapitalanskaffning, private credit, [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), asset hardening"
+keywords: "kapitalanskaffning, private credit, [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]

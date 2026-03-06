@@ -23,5 +23,5 @@ Nordic acquirers benefit from several structural tailwinds:
 
 In this new landscape, advisory firms that can bridge Nordic operational rigor with global deal-making sophistication will define the next era of middle-market M&A.
 
-The firms that win will be the ones that understand both sides of the table. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
+The firms that win will be the ones that understand both sides of the table. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 

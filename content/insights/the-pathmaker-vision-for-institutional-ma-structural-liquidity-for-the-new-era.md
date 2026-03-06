@@ -65,7 +65,7 @@ Precision Tools for Sophisticated Buyers
 
 Our platform is simple by design. 
 
-We offer three primary [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators. 
+We offer three primary [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators. 
 
 ### Private Credit Capital Structuring 
 Private credit is now the backbone of mid market M&A. 

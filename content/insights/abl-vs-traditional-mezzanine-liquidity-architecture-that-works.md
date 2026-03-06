@@ -4,7 +4,7 @@ description: "A principal-grade analysis of asset‑based lending vs mezzanine c
 date: "2022-03-07"
 author: "The Analyst Team"
 slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
-keywords: "kapitalanskaffning, oil and gas, private credit, [Capital Structuring](https://hylten.github.io/Roials-Capital/), asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]

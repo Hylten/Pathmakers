@@ -110,7 +110,7 @@ Buyers do not pay based on spreadsheets alone. Buyers pay based on the founderâ€
 We architect the future story first.
 
 Layer Three: The Offâ€‘Market Corridor  
-A narrow, controlled channel. Introductions only to principals. No crowds. No noise. No leakage. And occasionally, when structuring requires it, the founder benefits from institutional capital execution through Roials Capital: https://hylten.github.io/Roials-Capital/
+A narrow, controlled channel. Introductions only to principals. No crowds. No noise. No leakage. And occasionally, when structuring requires it, the founder benefits from institutional capital execution through Roials Capital: https://hylten.github.io/ROIALS CAPITAL/
 
 Not every founder needs it. Some do. The architecture determines the path.
 

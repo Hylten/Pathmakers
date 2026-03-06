@@ -86,7 +86,7 @@ The shift is simple. Instead of looking for upside, buyers are pricing downside 
 
  
  
-### [Capital Structuring](https://hylten.github.io/Roials-Capital/) Environment 
+### [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) Environment 
 Debt is still available for quality assets. But lenders are enforcing discipline that some sellers are not yet comfortable with. 
 
  

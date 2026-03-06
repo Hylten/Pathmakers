@@ -133,7 +133,7 @@ Pathmaker’s liquidity structures provide the buffer that prevents operational 
 
 Receivables can be financed. 
 Contracted service lines can anchor private credit facilities. 
-Equipment or specialized infrastructure can support asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/). 
+Equipment or specialized infrastructure can support asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/). 
 
 The result is stability during the only period that matters, the first 180 days post separation. 
 

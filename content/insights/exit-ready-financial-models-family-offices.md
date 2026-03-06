@@ -28,10 +28,6 @@ Family Offices now remove that uncertainty early. They demand models engineered 
 
 Because the exit is the truth-event. And all capital flows to truth.
 
-PHASE 1  
-INTERNAL LOGIC  
-Vault Briefing: Why Exit‑Ready Architecture Dominates Mid‑Market Capital Deployment
-
 The anatomy of this shift begins with a simple institutional observation: Mid‑market operators rarely model their company as an asset class. They model operations. They model budgets. They model headcount. But not the institutional pathway. Family Offices do not tolerate that asymmetry anymore. They have institutional obligations, even if they never speak of them publicly. Their capital is often flexible, long‑horizon, multi‑generational - but their execution is not.
 
 A Family Office today sits under five invisible constraints:

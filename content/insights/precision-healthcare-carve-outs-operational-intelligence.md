@@ -25,7 +25,7 @@ Key regime dynamics include:
 - Cost compression accelerating within public payer systems. Many European states have tightened reimbursement parameters, forcing operators to redesign productivity models and labor allocation frameworks.
 - Institutional buyers raising thresholds for operational clarity. Private equity sponsors, pension funds, and strategic consolidators prefer platforms with distinct revenue silos, low integration costs, and transparent EBITDA attribution.
 
-The consequence is a valuation environment in which high-demand clinical assets fail to unlock [institutional capital](https://hylten.github.io/Roials-Capital/) due to preventable operational opacity.
+The consequence is a valuation environment in which high-demand clinical assets fail to unlock [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) due to preventable operational opacity.
 
 This is the core misalignment. Precision healthcare assets with predictable clinical volumes become trapped inside diversified corporate structures that dilute financial clarity and operational agility. Carve-outs are not value creation events. Carve-outs are value revelation events.
 

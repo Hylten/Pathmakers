@@ -30,7 +30,7 @@ The goal is covenant durability that outlives the founder and meets the scrutiny
 Mid‑market companies rarely fail because the underlying business is weak. 
 They fail because human systems were allowed to grow informal, idiosyncratic, or tribal.
 
-Informality is the silent enemy of [institutional capital](https://hylten.github.io/Roials-Capital/). 
+Informality is the silent enemy of [institutional capital](https://hylten.github.io/ROIALS CAPITAL/). 
 
 Once a business crosses 10 million EBITDA, the founding team’s habits are no longer neutral. They become structural liabilities.
 

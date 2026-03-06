@@ -91,7 +91,7 @@ PHASE 5. DECISION MAKING LENS
 
 For allocators, executives, and operators, the governing question is structural alignment. In this cycle, exit readiness is not achieved through operational performance alone. It is achieved by reorganizing divisions into acquisition ready entities supported by collateral centric financing that withstands credit tightening.
 
-Asset based lending is the enabling architecture. It creates the structural clarity that M and A buyers require, reduces transaction latency, and ensures that the spin off arrives in market with institutional-grade credibility. (See [institutional capital execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Asset based lending is the enabling architecture. It creates the structural clarity that M and A buyers require, reduces transaction latency, and ensures that the spin off arrives in market with institutional-grade credibility. (See [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Roials Capital conducts confidential Strategy Audits to map each operator’s divisional architecture, identify their capital friction points, and determine which units qualify for collateral centric transformation. This provides a precise pathway toward spin off readiness and market aligned valuation structures.
 

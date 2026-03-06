@@ -103,6 +103,6 @@ Final layer: The mandate. The operator must accept the conversion from private a
 
 Metric anchor: Sovereign Readiness Index ≥ 0.82 required for corridor access.
 
- (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
+ (See [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Book a tactical consultation.

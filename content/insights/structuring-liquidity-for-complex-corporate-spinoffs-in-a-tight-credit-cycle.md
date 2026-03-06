@@ -128,7 +128,7 @@ Silent authority is the backbone of our operating posture.
 
 It means providing structure without drama. 
 
-It means understanding how to complement [institutional capital](https://hylten.github.io/Roials-Capital/) without creating noise. 
+It means understanding how to complement [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) without creating noise. 
 
 It means supporting those who already carry significant visibility, without adding more. 
 

@@ -77,7 +77,7 @@ Roials Capital operates as a strategic navigator and institutional introducer. I
 Key functions include:
 
 1. Market Navigation 
-Mapping lenders whose underwriting frameworks align with the asset class. This includes identifying those with established equipment valuation desks and experience in workflow driven industries. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Mapping lenders whose underwriting frameworks align with the asset class. This includes identifying those with established equipment valuation desks and experience in workflow driven industries. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 2. Structural Calibration 
 Designing borrowing base rules, covenant sets, and collateral pools consistent with the operational reality of the target company. Precision infrastructure firms often struggle because lenders impose structures designed for manufacturing or distribution businesses. Calibration corrects this.

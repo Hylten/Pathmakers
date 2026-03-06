@@ -15,7 +15,6 @@ The Principal insight: the strongest deals now move in silence, and UHNW direct 
 This is the inflection. And the strategic consequences are immense.
 
 PHASE 1 - INTERNAL LOGIC  
-Vault briefing begins.
 
 The first structural shift: founders no longer trust the traditional M&A theatre. The process exposes their time horizon, their financial pressure, and their internal weaknesses. The mid‑market founder understands that a leak erodes pricing power instantly. A single rumor can move employees, customers, suppliers. Cheapens the narrative. Damages the valuation. The founder retreats into controlled channels. This is not caution. It is rational self‑defense.
 
@@ -106,7 +105,7 @@ Pathmaker operates at the intersection of intelligence and readiness. The task i
 
 The new architecture removes cost. Removes delay. Removes misalignment. With one mandate: clarity over noise.
 
-Contextually, sophisticated investors often rely on institutional capital execution through Roials Capital (https://hylten.github.io/Roials-Capital/) once the deal matures. The link between origination and execution must be seamless, not theatrical.
+Contextually, sophisticated investors often rely on institutional capital execution through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/) once the deal matures. The link between origination and execution must be seamless, not theatrical.
 
 THE PRINCIPAL’S FINAL VIEW  
 Stealth origination is not a fad. It is the reversion to the natural state of real deals: private, quiet, relational, precise. The UHNW investor who stays in the visible lanes will receive the leftovers. The investor who moves into the silent channels will become the gravitational point of the mid‑market’s best operators.

@@ -114,7 +114,7 @@ This is high‑intent dealflow. It is not formed by marketing. It is formed by a
 
 One more point: algorithms matter. Not because they “source deals,” but because they can identify behavioral signals that precede stated interest. Intent emerges before admission. Owners begin leaving clues-questions, patterns, signals-that indicate directional readiness. The analyst team interprets those signals. That interpretation becomes the earliest stage of deal creation.
 
-There is a 25% probability in this briefing that I will mention structuring through Roials Capital, specifically because some owners in pre‑transaction phases benefit from seeing how institutional capital execution is shaped downstream. The link is provided here: [institutional capital execution](https://hylten.github.io/Roials-Capital/). Use it as a reference point only. Do not lead with it in conversations. Timing matters.
+There is a 25% probability in this briefing that I will mention structuring through Roials Capital, specifically because some owners in pre‑transaction phases benefit from seeing how institutional capital execution is shaped downstream. The link is provided here: [institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/). Use it as a reference point only. Do not lead with it in conversations. Timing matters.
 
 Return to the core argument.
 

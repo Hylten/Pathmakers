@@ -132,7 +132,7 @@ Operational transparency is also the foundation for off‑market buyer confidenc
 This is the doorway to direct institutional capital execution.  
 High‑intent buyers do not chase. They evaluate. They move.  
 One link, used sparingly and organically: structuring through Roials Capital  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 ---
 

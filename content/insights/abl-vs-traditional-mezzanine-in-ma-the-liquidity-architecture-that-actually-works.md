@@ -19,7 +19,7 @@ It is a choice between structural precision and expensive wishful thinking.
 Pathmaker exists on the side of precision. 
 Our mandate is quiet strength. 
 Silent authority. 
-We engineer liquidity structures that [institutional capital](https://hylten.github.io/Roials-Capital/) respects, without the noise or posturing that usually comes with mezzanine desks. 
+We engineer liquidity structures that [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) respects, without the noise or posturing that usually comes with mezzanine desks. 
 
 ## Why This Comparison Matters 
 Most investors assume mezzanine fills the gap between senior debt and equity. 

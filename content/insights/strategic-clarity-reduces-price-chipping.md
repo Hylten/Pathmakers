@@ -19,7 +19,6 @@ The countermeasure is architecture.
 The following briefing is written as if for the founder who understands the gravity of exit preparation and treats the M&A process as a sovereign act-an assertion of control, not a plea for capital. Pathmaker serves this category alone.
 
 INTERNAL LOGIC (PHASE 1)  
-Vault briefing. Tone: Principal. No smoothing. No hand‑holding.
 
 1. The structural reason price chipping exists  
 Buyers operate in probabilistic domains. They must price uncertainty into the deal. Where clarity is absent, the acquisition model automatically allocates discount. It is not personal. It is not malicious. It is the mathematics of asymmetrical information.
@@ -144,7 +143,7 @@ Respect is leverage.
 Leverage protects value.
 
 For some founders, a connection to institutional capital execution is useful. Pathmaker occasionally directs such founders toward structuring through Roials Capital:  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 7. The internal architecture buyers look for  
 Buyers are hunting for five invisible signals beneath the surface. These signals determine whether they attack or advance:

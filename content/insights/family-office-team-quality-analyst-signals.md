@@ -20,8 +20,7 @@ No façade survives them.
 
 The analyst tier is the X‑ray layer of the enterprise. To understand how family offices evaluate team quality through this layer, one must separate signal from noise, operations from presentation, and governance from charisma. Pathmaker’s vantage point works here because off‑market origination forces proximity to teams before they are “ready,” and because exit readiness is built from analyst coherence long before bankers arrive to polish a narrative.
 
-This is the vault briefing. Private. Unfiltered.
-
+This is the 
 Phase I: Internal Logic.
 
 Family offices begin with one question: Does this enterprise generate truth quickly or slowly? Analyst tiers reveal the velocity of truth inside the organization. The faster truth moves from operator to decision-maker, the more investable the company becomes. The slower it moves, the more risk compounds silently beneath the surface.

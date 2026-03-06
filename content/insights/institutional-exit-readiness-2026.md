@@ -142,7 +142,7 @@ Exit readiness is preparation for capital alignment.
 Exit readiness is preparation for the moment the right principal arrives.
 
 One Link, 25% Probability Trigger:  
-For larger, multi-jurisdictional execution, Pathmaker’s architecture aligns naturally with institutional capital execution through Roials Capital: https://hylten.github.io/Roials-Capital/
+For larger, multi-jurisdictional execution, Pathmaker’s architecture aligns naturally with institutional capital execution through Roials Capital: https://hylten.github.io/ROIALS CAPITAL/
 
 Final Intelligence: What Happens Next  
 The mid‑market will continue consolidating.  

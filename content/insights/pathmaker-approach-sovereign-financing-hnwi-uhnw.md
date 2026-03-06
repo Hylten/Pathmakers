@@ -34,7 +34,7 @@ Mid market deals fail due to source opacity. Off market owners do not run struct
 
 2. Exit Readiness and Balance Sheet Hardening 
 Private sellers often misprice enterprise value because the business lacks institutional defensibility. Pathmaker executes a readiness protocol focusing on: 
-- [Capital Structuring](https://hylten.github.io/Roials-Capital/) within working capital cycles. 
+- [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) within working capital cycles. 
 - Debt optimization that adjusts leverage to institutional thresholds. 
 - Asset hardening to increase collateral quality. 
 - Operational governance calibrated to sovereign grade standards. 
