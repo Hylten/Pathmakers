@@ -243,9 +243,7 @@ Mature enterprises capable of absorbing shocks receive preferential treatment.
 
 Those who operate without guardrails get sidelined.
 
-Not because they lack potential.
-
-Because they lack stability.
+they lack stability.
 
 Pathmaker exists to give them that stability.
 

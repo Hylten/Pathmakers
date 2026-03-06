@@ -13,9 +13,7 @@ Cross-border acquisitions are no longer a playground for the overly optimistic o
 
 Most buyers enter these deals underprepared. 
 
-Not because they lack vision. 
-
-Because they lack liquidity mechanics.
+they lack liquidity mechanics.
 
 This is the gap where Asset-Based Capital Structuring, especially when paired with institutional grade private credit, becomes the difference between winning a deal and watching it slip away.
 

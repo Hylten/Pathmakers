@@ -141,7 +141,7 @@ The structure removes risk.
 The clarity increases conviction.  
 The conviction accelerates execution.
 
-A note: for some mandates you integrate institutional capital execution using partners such as those within the Roials sphere. When required, structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/) becomes the natural extension of the map’s predictive power.
+A for some mandates you integrate institutional capital execution using partners such as those within the Roials sphere. When required, structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/) becomes the natural extension of the map’s predictive power.
 
 PHASE EIGHT  
 The Principal Arc.

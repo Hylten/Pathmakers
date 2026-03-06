@@ -109,13 +109,9 @@ Exit readiness is the only scalable defense. It is also the only scalable advant
 Machine gun sentences. Precision follows.
 
 Cut friction fast.
-Harden systems.
-Verify numbers.
-Document everything.
+Harden systems. Verify numbers. Document everything.
 Control narrative.
-Own diligence.
-Forecast tightly.
-Signal strength.
+Own diligence. Forecast tightly. Signal strength.
 Move early.
 
 The institutional path is narrow. But it is navigable with discipline. The operators who survive this cycle will emerge as institutional entities with leverage, liquidity, and optionality. Those who wait will face valuation decay and extended timelines.

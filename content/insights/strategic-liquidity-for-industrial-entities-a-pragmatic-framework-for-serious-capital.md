@@ -12,8 +12,7 @@ keywords: "private credit, asset based Institutional Liquidity Paths, liquidity,
 Industrial groups do not collapse from lack of opportunity. They collapse from lack of liquidity. 
 
 Not because their products fail. 
-Not because their markets disappear. 
-Because liquidity dries up at the exact moment operational complexity spikes. 
+liquidity dries up at the exact moment operational complexity spikes. 
 
 That is the reality for mid market industrial owners, portfolio operators, and healthcare carve out executives. 
 

@@ -75,8 +75,7 @@ These are not academic. They are tactical weapons. They convert ambiguity into c
 
 Financial Coherence Layer  
 The majority of lost valuation occurs here.  
-Not because the financials are weak.  
-Because they are disorganized.
+they are disorganized.
 
 Tactical intelligence enforces coherence long before a buyer requests financial packages. Sellers who achieve preeminent valuation outcomes always have two things in common:
 

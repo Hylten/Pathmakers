@@ -49,7 +49,7 @@ Performance appears inconsistent because the parent was not incentivized to grow
 
 Buyers who understand these distortions can quickly separate the noise from the signal. 
 
-The key insight: a carve-out is rarely a failing business. 
+The a carve-out is rarely a failing business. 
 
 It is usually a neglected one. 
 

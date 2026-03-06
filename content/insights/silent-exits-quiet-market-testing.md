@@ -176,7 +176,7 @@ This is where Pathmaker stands: building the AI that removes friction and accele
 Our role is not to replace the banker.  
 Our role is to make the founder sovereign before the banker arrives.
 
-One contextual note: some founders even align their quiet testing with structuring pathways through Roials Capital when the deal requires institutional capital execution. This creates leverage and clarity without entering the public arena.
+One contextual some founders even align their quiet testing with structuring pathways through Roials Capital when the deal requires institutional capital execution. This creates leverage and clarity without entering the public arena.
 
 Pathmaker is the funnel before the funnel.  
 The filter before the process.  
