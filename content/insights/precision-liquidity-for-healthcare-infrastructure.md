@@ -164,12 +164,7 @@ Private credit avoids the restrictions of conventional banking.
 It can be structured against real assets, cash flow, receivables, or blended security.
 
 For healthcare operators, this matters because many assets are misunderstood by typical lenders. 
-
-Medical equipment. 
-
-Diagnostic devices. 
-
-Specialty inventories. 
+ Medical equipment. Diagnostic devices. Specialty inventories. 
 
 Aging facilities. 
 
@@ -186,12 +181,7 @@ This unlocks liquidity for operators who have assets locked in their own balance
 Healthcare systems carry more collateral than they realize. 
 
 Equipment. 
-
-Specialized devices. 
-
-Real property. 
-
-Accounts receivable. 
+ Specialized devices. Real property. Accounts receivable. 
 
 Intellectual property related to medical operations.
 

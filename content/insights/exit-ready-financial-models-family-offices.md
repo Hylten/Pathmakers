@@ -18,9 +18,7 @@ Exit‑readiness is a structural pre-alignment with the liquidity event.
 Everything else is noise.
 
 Machine‑gun clarity:  
-Most deals fail.  
-Not from price.  
-From friction.  
+Most deals fail. Not from price. From friction.  
 From opacity.  
 From sloppy architecture.
 
@@ -163,10 +161,7 @@ THE PATHMAKER POSITION
 Our Mandate: Remove Friction
 
 Pathmaker operates at the signal layer - the first point of contact where sophisticated operators begin shaping their exit logic. The entire brand exists to remove friction, accelerate deal velocity, and bring mid‑market companies into alignment with institutional buyers.
-
-No barriers.  
-No gates.  
-No thresholds.  
+ No barriers. No gates. No thresholds.  
 Only clarity that increases the probability of acquisition.
 
 An exit‑ready model is not a luxury. It is the modern cost of admission. And operators who adopt this discipline experience a completely different class of conversations, valuations, and counterparties.

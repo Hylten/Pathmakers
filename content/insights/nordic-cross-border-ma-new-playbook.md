@@ -67,9 +67,7 @@ Clean the cap table.
 Fix the debt stack. 
 Normalize EBITDA. 
 Align policies. 
-Codify management rights. 
-Audit operational rhythms. 
-Kill ambiguity. 
+Codify management rights. Audit operational rhythms. Kill ambiguity. 
 
 Frictionless assets move fast across borders. Friction-heavy assets stay domestic. The market rewards the former.
 

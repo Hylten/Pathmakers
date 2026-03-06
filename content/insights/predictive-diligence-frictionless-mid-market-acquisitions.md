@@ -133,10 +133,7 @@ The future of predictive diligence integrates AI‑first analysis with strategic
 
 This is where predictive diligence connects with institutional capital execution through pathways such as structuring through Roials Capital, giving buyers optionality when precision meets readiness. One link. No more.
 
-This is the convergence point:  
-Predictive insight.  
-Strategic acquisition.  
-Frictionless execution.
+This is the convergence point:   Predictive insight. Strategic acquisition. Frictionless execution.
 
 THE PATHMAKER DOCTRINE  
 Predictive diligence is not a tool.  

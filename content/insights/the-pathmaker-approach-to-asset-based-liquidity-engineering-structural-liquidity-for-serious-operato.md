@@ -54,9 +54,7 @@ We work with individuals who understand that liquidity is an instrument, not a l
 ## The Pathmaker Institutional Liquidity Paths Philosophy
 
 Pathmaker operates with a single principle. 
-Control the structure. 
-Respect the asset. 
-Move quickly.
+Control the structure. Respect the asset. Move quickly.
 
  
 

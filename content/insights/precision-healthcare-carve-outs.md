@@ -224,10 +224,7 @@ Most carve-out failures are predictable.
 They follow the same patterns across organizations and sectors. 
 
 ### Failure Mode 1. Overbuilding the plan 
-Trying to design the perfect future state before separation. 
-Avoid this. 
-Stabilize first. 
-Optimize later. 
+Trying to design the perfect future state before separation.  Avoid this. Stabilize first. Optimize later. 
 
 ### Failure Mode 2. Delegating too much to the parent 
 Parents are busy. 
@@ -272,10 +269,7 @@ We focus on:
 • Regulatory integrity 
 • Knowledge transfer 
 • Leadership hardening 
-
-No fluff. 
-No heroics. 
-No theatrics. 
+ No fluff. No heroics. No theatrics. 
 Just disciplined execution. 
 
 Precision carve-outs require operators who have lived through them. 

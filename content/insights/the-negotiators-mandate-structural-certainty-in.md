@@ -75,10 +75,7 @@ Pathmaker neutralizes it before the buyer arrives.
 
 Friction is the hidden cost in every transaction. 
 Time. 
-Ambiguity. 
-Missing data. 
-Unverifiable claims. 
-Slow responses. 
+Ambiguity.  Missing data. Unverifiable claims. Slow responses. 
 Undefined roles. 
 Misaligned communications.
 
@@ -175,10 +172,7 @@ They replace negotiation anxiety with structural trust.
 Covenant stewardship is not an ethical posture. 
 It is an economic advantage.
 
-Christian conservatives built the Gnosjö model on this foundation. 
-Low noise. 
-High trust. 
-Long horizon. 
+Christian conservatives built the Gnosjö model on this foundation.  Low noise. High trust. Long horizon. 
 Value anchored in duty.
 
 Institutional buyers respond to this pattern instinctively. 
@@ -198,10 +192,7 @@ The negotiator intervenes before fatigue.
 Before decline. 
 Before urgency forces compromise.
 
-Pathmaker rebuilds structural authority inside firms that still have strength. 
-Not desperation. 
-Not scarcity. 
-Not confusion.
+Pathmaker rebuilds structural authority inside firms that still have strength.  Not desperation. Not scarcity. Not confusion.
 
 This is the way institutional grade exits are engineered. 
 Not through hope. 

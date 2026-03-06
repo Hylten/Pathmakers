@@ -21,10 +21,7 @@ Information asymmetry.
 Not information scarcity. 
 Information distortion.
 
-This is where Tactical Intelligence becomes the primary differentiator. 
-Not brand. 
-Not networks. 
-Not legacy. 
+This is where Tactical Intelligence becomes the primary differentiator.  Not brand. Not networks. Not legacy. 
 Intelligence.
 
 Intelligence tied to covenant stewardship. 
@@ -266,10 +263,7 @@ Before operational review.
 Before legal review.
 
 You map the covenants.
-
-Ownership expectations. 
-Stewardship priorities. 
-Mandate boundaries.
+ Ownership expectations. Stewardship priorities. Mandate boundaries.
 
 This is the foundation.
 
@@ -282,10 +276,7 @@ It reduces surprises for both buyer and seller.
  
 ### Layer 3. Cross Border Constraint Identification 
 Every market has silent constraints.
-
-Labor rules. 
-Sector thresholds. 
-Licensing pathways. 
+ Labor rules. Sector thresholds. Licensing pathways. 
 Capital deployment speed.
 
 Mapping them early preserves time.
@@ -294,10 +285,7 @@ Mapping them early preserves time.
 ### Layer 4. Institutional Diligence Conditioning 
 Preparation for buyers with Fund-III or greater requirements.
 
-Data room ordering. 
-Financial reconstruction. 
-Contract stabilizing. 
-Leadership alignment.
+Data room ordering.  Financial reconstruction. Contract stabilizing. Leadership alignment.
 
 This is the territory Pathmaker dominates.
 
@@ -322,10 +310,7 @@ Two pathways qualify within the Roials architecture.
 
 Crypto backed Capital Structuring at 2M minimum. 
 Public share backed Monetization Architecture at 5M minimum.
-
-No opacity. 
-No drift. 
-No dilution.
+ No opacity. No drift. No dilution.
 
 Liquidity is a tool for precision, not speculation.
 

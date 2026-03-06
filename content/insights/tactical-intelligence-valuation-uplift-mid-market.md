@@ -144,10 +144,7 @@ And the founder who dictates the valuation wins the exit.
 
 We have seen it repeatedly: disciplined tactical intelligence raises multiples because it removes excuses. A buyer can negotiate against uncertainty. A buyer cannot negotiate against excellence surfaced with precision.
 
-That is the moral of the structure.  
-Build clarity.  
-Build confidence.  
-Build leverage.
+That is the moral of the structure.   Build clarity. Build confidence. Build leverage.
 
 ––––––––––––––––––
 

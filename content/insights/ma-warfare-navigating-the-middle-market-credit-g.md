@@ -319,11 +319,7 @@ We anchor our work in Christian conservative values because values shape judgmen
 
 Pathmaker builds companies worthy of transfer.
 
-Not quick fixes.
-
-Not cosmetic improvements.
-
-Structural alignment.
+Not quick fixes. Not cosmetic improvements. Structural alignment.
 
 ## Crossing the Credit Gap
 

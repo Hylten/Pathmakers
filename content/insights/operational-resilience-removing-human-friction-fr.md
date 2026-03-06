@@ -245,16 +245,10 @@ Hardening of financial truth.
 Automated data streams. 
 Institutional reporting logic.
 
-Week 6 to 8 
-Mandate architecture. 
-Decision rights. 
-Leadership recalibration. 
+Week 6 to 8  Mandate architecture. Decision rights. Leadership recalibration. 
 Cultural reset.
 
-Week 9 to 11 
-Operational mapping. 
-Process design. 
-Cycle standardization.
+Week 9 to 11  Operational mapping. Process design. Cycle standardization.
 
 Week 12 
 Stress testing across information, operations, and leadership. 

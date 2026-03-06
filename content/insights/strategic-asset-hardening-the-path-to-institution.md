@@ -276,10 +276,7 @@ Readiness follows asset hardening.
 ## The Pathmaker Doctrine
 
 The Pathmaker doctrine is built on three pillars.
-
-Tactical intelligence. 
-Covenant stewardship. 
-Execution velocity.
+ Tactical intelligence. Covenant stewardship. Execution velocity.
 
 These pillars convert a mid-market firm into an institutional-grade asset.
 
@@ -320,9 +317,7 @@ Asset hardening is not cost. It is the highest return investment available to a 
 
 If the goal is a premium valuation, the path is singular.
 
-Harden the asset. 
-Clarify the architecture. 
-Signal stewardship. 
+Harden the asset. Clarify the architecture. Signal stewardship. 
 Accelerate execution. 
 
 Then speak with institutions as a Principal, not a petitioner.

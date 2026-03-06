@@ -60,10 +60,7 @@ The traditional process reveals too much too early. It exposes a company to a do
 
 Silent testing reverses the order. It builds a ring of clarity around valuation appetite before any visibility leaks outward. What the banker calls “market feedback” is often just noise formalized into spreadsheets.
 
-Machine‑gun:  
-Truth first.  
-Noise later.  
-Control always.
+Machine‑gun:   Truth first. Noise later. Control always.
 
 A silent exit operates through concentric rings of disclosure.
 

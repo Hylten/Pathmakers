@@ -178,13 +178,7 @@ Nordic carve-outs demand technical rigor:
 The market’s expectation: assets are market-ready, not concept-ready. Principal-level readiness means controlling every module.
 
 Machine gun lines. Short. Sharp.
-
-Define perimeter. 
-Isolate systems. 
-Stabilize cash. 
-Transfer contracts. 
-Decentralize teams. 
-Anchor governance. 
+ Define perimeter. Isolate systems. Stabilize cash.  Transfer contracts. Decentralize teams. Anchor governance. 
 Price integration. 
 Close clean.
 

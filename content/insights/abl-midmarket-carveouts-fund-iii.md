@@ -84,13 +84,7 @@ The structural power of Asset-Based Lending is that it allows the PE buyer to en
 5. Integration can begin without waiting for corporate dependencies to unwind.
 
 The PE buyer controls the tempo.
-
-Structural control. 
-Temporal control. 
-Liquidity control. 
-Vendor control. 
-Integration control. 
-Exit control.
+ Structural control. Temporal control. Liquidity control.  Vendor control. Integration control. Exit control.
 
 Five control vectors. One financing mechanism.
 
@@ -144,10 +138,7 @@ Transition: stabilized vendor ecosystems.
 Integration: structured workflow momentum. 
 Exit: documented financial discipline.
 
-The entire carve‑out pipeline becomes smoother. 
-Friction down. 
-Speed up. 
-Control up. 
+The entire carve‑out pipeline becomes smoother.  Friction down. Speed up. Control up. 
 Premium up. 
 
 THE PATHMAKER DOCTRINE 

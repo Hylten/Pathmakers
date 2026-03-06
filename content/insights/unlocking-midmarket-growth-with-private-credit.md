@@ -245,10 +245,7 @@ The market is full of lenders who talk first and execute second.
 Pathmaker holds the opposite posture.
 
  
-
-Silent authority. 
-Clean mechanics. 
-No noise. No theatrics. No inflated claims.
+ Silent authority. Clean mechanics. No noise. No theatrics. No inflated claims.
 
  
 

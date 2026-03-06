@@ -222,16 +222,7 @@ Pathmaker operates with a battle-tested methodology, developed through years of 
 Our methodology follows a simple but disciplined flow:
 
 Assessment.
-
-Collateral mapping.
-
-Structural engineering.
-
-Capital deployment.
-
-Governance calibration.
-
-Exit optionality.
+ Collateral mapping. Structural engineering. Capital deployment. Governance calibration. Exit optionality.
 
 Each step is executed with institutional precision and private discretion.
 

@@ -120,10 +120,7 @@ The market penalizes the improvisers.
 
 FP&A is stewardship made visible. A covenant, not a spreadsheet.
 
-Machine gun truth.  
-Order persuades.  
-Discipline multiplies.  
-Clarity closes.
+Machine gun truth.   Order persuades. Discipline multiplies. Clarity closes.
 
 A firm that masters this wins before negotiations begin. Acquirers walk into the room with respect already formed. A buyer who respects the seller pays more. A buyer who distrusts the seller discounts aggressively and delays. Deals die not from hostility but from uncertainty. FP&A eliminates uncertainty.
 
@@ -212,9 +209,7 @@ An operator who adopts institutional-grade FP&A stops playing defense. They stop
 
 They take command of the valuation environment. They impose order on the deal. They build a financial architecture that no institutional acquirer can diminish.
 
-Machine gun clarity.  
-Order is power.  
-Architecture wins.  
+Machine gun clarity. Order is power. Architecture wins.  
 Exit multiples follow.
 
 Book a tactical consultation.

@@ -248,10 +248,7 @@ Liquidity is not a resource. It is a weapon. Deployed correctly, it shortens dea
 Boards understand this. Sellers understand this. Buyers who fail to adapt will discover the reality too late: capital speed has replaced capital volume as the determining factor of who controls mid-market healthcare.
 
 For institutional buyers, founder-led groups, and strategic operators, the mandate is clear:
-
-Engineer liquidity. 
-Prepare exits. 
-Remove friction. 
+ Engineer liquidity. Prepare exits. Remove friction. 
 Move first. 
 Close fast.
 

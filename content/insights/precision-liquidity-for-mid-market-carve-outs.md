@@ -107,11 +107,7 @@ Inventory.
 
 Intellectual property. 
 
-Transferable contractual rights. 
-
-Public market securities. 
-
-Crypto assets. 
+Transferable contractual rights. Public market securities. Crypto assets. 
 
 Each of these forms of collateral can be transformed into liquidity, but only if the lender is engineered to understand the asset class and deploy capital with confidence.
 

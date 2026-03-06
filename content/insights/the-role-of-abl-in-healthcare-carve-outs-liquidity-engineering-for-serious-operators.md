@@ -126,12 +126,7 @@ It is how professional buyers maintain liquidity discipline without compromising
 ## Asset-Based Lending as a Strategic Defense Mechanism
 
 Healthcare carve-outs fail when liquidity evaporates during transition. Asset-Based Lending is defense against:
-
-Revenue disruption.
-
-Payroll compression.
-
-Vendor stoppages.
+ Revenue disruption. Payroll compression. Vendor stoppages.
 
 Transition‑related capital drain.
 

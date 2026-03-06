@@ -20,10 +20,7 @@ This briefing dissects the mechanics with precision. No abstractions. No platitu
 
 PHASE 1: INTERNAL LOGIC - PRIVATE BRIEFING  
 The pattern is stable across North America and Europe: mid‑market operators still believe the financial model is a dashboard. A scoreboard. A compliance document. A way to communicate top‑line and margin trajectory.
-
-Wrong frame.  
-Wrong function.  
-Wrong architecture.  
+ Wrong frame. Wrong function. Wrong architecture.  
 
 A financial model is an underwriting engine.
 
@@ -35,10 +32,7 @@ Misalignment enters through four predictable vectors:
 4. Operational delusion and mispriced capability  
 
 Each vector compounds the others, generating an eventual collapse when buyer‑side diligence collides with seller‑side optimism. The catastrophic moment-the deal kill-occurs when institutional buyers recognize the operator has misunderstood their own economic engine.
-
-Not fraud.  
-Not malice.  
-Just misalignment.
+ Not fraud. Not malice. Just misalignment.
 
 The Pathmaker vantage is simple: you eliminate misalignment at the source or you accept unnecessary haircutting, retrading, or outright abandonment. There is no middle path.
 
@@ -222,10 +216,7 @@ Our internal principle: the model must be inevitable, not persuasive.
 Persuasion is weak currency.  
 Inevitability is strong currency.
 
-When a buyer feels inevitability-mathematically, structurally, operationally-the conversation shifts.  
-Friction declines.  
-Terms improve.  
-Momentum accelerates.  
+When a buyer feels inevitability-mathematically, structurally, operationally-the conversation shifts.   Friction declines. Terms improve. Momentum accelerates.  
 The closing becomes the default outcome.
 
 ---

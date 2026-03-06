@@ -100,13 +100,7 @@ Prepared sellers create time compression. Multiple buyers arrive at conviction s
 
 A fund’s timeline becomes its vulnerability.
 
-THE MACHINE-GUN SENTENCES  
-Architecture wins.  
-Preparation wins.  
-Certainty wins.  
-Speed wins.  
-Ambiguity loses.  
-Delay kills.  
+THE MACHINE-GUN SENTENCES   Architecture wins. Preparation wins. Certainty wins.   Speed wins. Ambiguity loses. Delay kills.  
 Clean data closes.  
 Prepared sellers dominate.
 

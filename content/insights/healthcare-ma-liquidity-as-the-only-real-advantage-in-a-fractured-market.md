@@ -277,10 +277,7 @@ Processes standardize over time.
 Valuations converge around market norms. 
 
 The only lasting competitive advantage in healthcare M&A is the ability to deploy liquidity immediately. 
-
-Liquidity accelerates. 
-Liquidity stabilizes. 
-Liquidity protects. 
+ Liquidity accelerates. Liquidity stabilizes. Liquidity protects. 
 
 That trifecta remains undefeated. 
 

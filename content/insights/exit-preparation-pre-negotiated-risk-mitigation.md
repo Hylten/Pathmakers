@@ -9,10 +9,7 @@ slug: "exit-preparation-pre-negotiated-risk-mitigation"
 The firms that exit cleanly are not the firms that grow fastest. They are the firms that prepare longest. A buyer does not reward desperation. A buyer rewards predictability. And predictability is not discovered during diligence; it is engineered years in advance.
 
 We work in that seam.  
-Quiet. Methodical. Surgical.  
-Remove friction.  
-Remove surprises.  
-Remove excuses.
+Quiet. Methodical. Surgical.   Remove friction. Remove surprises. Remove excuses.
 
 This is the new standard.
 
@@ -37,9 +34,7 @@ THE CORE PREMISE
 Exit readiness equals pre-negotiated risk mitigation. Nothing else produces durable leverage with buyers.
 
 *Machine-gun clarity:*  
-Define risk early.  
-Neutralize it quietly.  
-Document aggressively.  
+Define risk early. Neutralize it quietly. Document aggressively.  
 Present confidently.
 
 When a firm executes this sequence, the buyer’s negotiation bandwidth collapses. Not because the seller becomes arrogant, but because the deal becomes clean. Clean deals command speed. Speed commands premium. Premium commands respect.

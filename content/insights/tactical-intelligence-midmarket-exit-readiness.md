@@ -56,10 +56,7 @@ If the business cannot be handed to another operator without deterioration, it i
 
 One sentence summary: Exit readiness is autonomy engineered into the business.
 
-Machine gun clarity:  
-No autonomy.  
-No valuation.  
-No exceptions.
+Machine gun clarity:   No autonomy. No valuation. No exceptions.
 
 ---
 
@@ -94,10 +91,7 @@ The public deal market is no longer where serious operators play. Auctions infla
 
 The off-market corridor is different. Measured. Disciplined. Quiet. Built on trust rather than marketing.
 
-Machine gun rule:  
-Real deals.  
-Quiet corridors.  
-Right operators.  
+Machine gun rule:   Real deals. Quiet corridors. Right operators.  
 Zero noise.
 
 Off-market origination relies on Tactical Intelligence for one simple reason: the best sellers won’t talk to amateurs. They won’t respond to generic outreach. They won’t entertain buyers who have not demonstrated operational literacy.
@@ -144,10 +138,7 @@ The operator who waits for the right buyer will never attract the right buyer.
 Declaration Three  
 The future belongs to the disciplined, not the loud.
 
-Machine gun truth:  
-Discipline wins.  
-Architecture wins.  
-Preparation wins.  
+Machine gun truth:   Discipline wins. Architecture wins. Preparation wins.  
 Always.
 
 ---
@@ -205,10 +196,7 @@ Call it sovereignty in motion.
 THE MID-MARKET IS CHANGING  
 Operators who do not adapt to Tactical Intelligence will remain trapped in founder-centric architectures that suppress valuation and repel serious buyers. Operators who embrace Tactical Intelligence break out of that trap and enter the continuity corridor where legacy can be monetized without destruction.
 
-Machine gun ending:  
-Build readiness.  
-Remove friction.  
-Unlock corridors.  
+Machine gun ending:   Build readiness. Remove friction. Unlock corridors.  
 Exit on purpose.
 
 Book a tactical consultation.

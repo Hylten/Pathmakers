@@ -128,11 +128,7 @@ Asset-Based Lending cuts through this fog because it focuses on asset quality. E
 
 Inventory turnover rates.
 
-Equipment depreciation schedules.
-
-Revenue cycle cadence.
-
-Receivables quality.
+Equipment depreciation schedules. Revenue cycle cadence. Receivables quality.
 
 Facility utilization.
 
@@ -149,11 +145,7 @@ Private credit adds the elasticity required to handle:
 
 Working capital volatility.
 
-Jurisdictional transfer delays.
-
-Vendor payment restructuring.
-
-Wage harmonization.
+Jurisdictional transfer delays. Vendor payment restructuring. Wage harmonization.
 
 Supply chain reconfiguration.
 

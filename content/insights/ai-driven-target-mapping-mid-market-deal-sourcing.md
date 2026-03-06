@@ -98,10 +98,7 @@ All indexed. All contextual. All expandable.
 
 The founder sees their company through a buyer’s eyes for the first time. That shift is transformative. It removes defensiveness. It builds cooperation. It accelerates time-to-offer.
 
-The result is disciplined simplicity.  
-No theatrics.  
-No misinformation.  
-No games.  
+The result is disciplined simplicity.   No theatrics. No misinformation. No games.  
 
 Just a clean corridor leading to a clean deal.
 

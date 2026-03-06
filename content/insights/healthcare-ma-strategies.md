@@ -198,11 +198,7 @@ They come from understaffing, outdated processes, and lack of oversight.
 
 Integration must reinforce compliance from the start. 
 
-Not through heavy processes. 
-Through clarity. 
-
-Clear roles. 
-Clear documentation. 
+Not through heavy processes.  Through clarity. Clear roles. Clear documentation. 
 Clear escalation paths. 
 
 ## 8. Siloed Functions Kill Post‑Close Momentum 
@@ -305,10 +301,7 @@ This includes governance, data, clinical processes, and financial infrastructure
 ## 6. Stabilization Before Acceleration 
 
 We help clients resist the urge to scale before the business is ready. 
-
-Stability first. 
-Efficiency second. 
-Growth third. 
+ Stability first. Efficiency second. Growth third. 
 
 This is the order that consistently drives returns. 
 

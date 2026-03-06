@@ -90,12 +90,7 @@ A business where teams work long hours to maintain baseline service delivery is 
 Capacity is not a gut feel metric. It is a measurable constraint that determines whether a company can survive scaling, integration, or price pressure. 
 
 ### No Real Incident Response Muscle 
-
-Mistakes happen. 
-
-Systems fail. 
-
-Vendors miss. 
+ Mistakes happen. Systems fail. Vendors miss. 
 
 Regulators appear. 
 
@@ -140,12 +135,7 @@ Healthcare operations must remain compliant through transition.
 Staff licensure. 
 
 Credentialing. 
-
-Clinical documentation. 
-
-Billing rules. 
-
-Audit prep. 
+ Clinical documentation. Billing rules. Audit prep. 
 
 Any weakness here becomes a post close emergency. 
 
@@ -258,12 +248,7 @@ Contract external support where necessary.
 In carve outs, this step can determine survival. 
 
 ### Strengthen The Data Layer 
-
-Clean data. 
-
-Rebuild reporting. 
-
-Automate reconciliation. 
+ Clean data. Rebuild reporting. Automate reconciliation. 
 
 Normalize definitions across systems. 
 

@@ -112,8 +112,6 @@ Stealth origination is not a fad. It is the reversion to the natural state of re
 
 Machine gun close:  
 Quiet is power.  
-Access beats noise.  
-Signals beat listings.  
-Stealth wins.
+Access beats noise. Signals beat listings. Stealth wins.
 
 Book a tactical consultation.

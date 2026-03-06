@@ -28,9 +28,7 @@ Family offices begin with one question: Does this enterprise generate truth quic
 Analysts expose this velocity without knowing they do it. A family office tests them. Quietly. Repeatedly.
 
 They ask for a dataset.  
-Then ask again.  
-Then ask differently.  
-Patterns emerge.  
+Then ask again. Then ask differently. Patterns emerge.  
 Precision or chaos.
 
 The office never cares about the dataset itself. They care about the delta between requests. Does the output quality collapse under variation? Does the narrative shift when the numbers shift? Does the analyst deliver clean work with dignity, or defensive work with excuses? Most founders never know this test occurred.

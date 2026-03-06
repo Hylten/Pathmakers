@@ -12,10 +12,7 @@ keywords: "private credit, Asset-Based Lending, liquidity"
 Mid market carve outs fail or stall for one reason. 
 Friction.
 
-Not theoretical friction. 
-Operational friction. 
-Covenantal friction. 
-Capital friction.
+Not theoretical friction.  Operational friction. Covenantal friction. Capital friction.
 
 The kind that drains execution velocity and weakens the inheritance value of an asset that is supposed to stand before institutional buyers without trembling.
 

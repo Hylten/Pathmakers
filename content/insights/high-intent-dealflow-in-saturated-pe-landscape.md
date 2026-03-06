@@ -60,10 +60,7 @@ Owners lean into this because it protects their legacy. Buyers lean into it beca
 
 Machine-gun clarity again:  
 Ambiguity kills deals.  
-Alignment builds deals.  
-Intent closes deals.
-
-PHASE THREE. INTERNAL BYPASS. VARIED SYNTAX. FULL DEPTH.
+Alignment builds deals. Intent closes deals. PHASE THREE. INTERNAL BYPASS. VARIED SYNTAX. FULL DEPTH.
 
 Consider the current sourcing ecosystem. Auctions dominate because they create compressed theatrics that mimic momentum. But theatrics do not create certainty. They create exhaustion, mispricing, and compressed diligence windows that punish both sides. A crowded process forces participants into reactive behavior patterns, not strategic ones.
 

@@ -221,10 +221,7 @@ Designed for sophisticated investors with embedded equity value who want capital
 
  
 
-Each product sits within a unified structural philosophy. 
-Provide liquidity. 
-Enable execution. 
-Avoid ego. 
+Each product sits within a unified structural philosophy.  Provide liquidity. Enable execution. Avoid ego. 
 Deliver results.
 
  

@@ -68,12 +68,7 @@ Private credit collateralization solves this.
 We unlock capital from illiquid debt positions so clients can act swiftly. 
 
 There is no glamour here. 
-
-Only mechanics. 
-
-Only leverage. 
-
-Only execution. 
+ Only mechanics. Only leverage. Only execution. 
 
 ## The Precision of Asset Based Asset-Backed Frameworks
 
@@ -258,12 +253,7 @@ The consequence of missing a carve out because liquidity was stuck in an illiqui
 The consequence of not being able to compete with institutional buyers who always have capital loaded. 
 
 We level that asymmetry. 
-
-Silent authority. 
-
-Institutional mechanics. 
-
-Private control. 
+ Silent authority. Institutional mechanics. Private control. 
 
 ## The Real Message: Liquidity Creates Authority
 

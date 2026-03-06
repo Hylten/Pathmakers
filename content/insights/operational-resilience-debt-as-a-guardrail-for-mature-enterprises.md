@@ -211,11 +211,7 @@ The realization that the downturn did not kill them.
 
 The lack of preparation did.
 
-Debt prevents that.
-
-Not reckless debt.
-
-Engineered debt.
+Debt prevents that. Not reckless debt. Engineered debt.
 
 Private credit that maintains operational focus.
 

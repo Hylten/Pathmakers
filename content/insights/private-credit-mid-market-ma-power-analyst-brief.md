@@ -88,9 +88,7 @@ Examples:
 
 Price Gap Closure 
 Private credit can inject contingent value instruments. 
-Seller earns upside. 
-Buyer preserves downside. 
-Deal closes.
+Seller earns upside. Buyer preserves downside. Deal closes.
 
 Risk Allocation 
 Senior-secured positioning absorbs risk that equity refuses to hold. 
@@ -112,11 +110,7 @@ Private credit can pre-fund working capital bridges.
 No post-close disputes.
 
 Integration 
-Acquisitions with flexible credit lines reduce integration shocks. 
-Execution flows.
-
-Friction removed. 
-Execution sharpened. 
+Acquisitions with flexible credit lines reduce integration shocks.  Execution flows. Friction removed. Execution sharpened. 
 Valuation protected.
 
 ---
@@ -302,10 +296,7 @@ It rewires constraints.
 It forces new equilibrium. 
 It manufactures certainty where none exists.
 
-This is the Jonas-style tactical intelligence: 
-Cold logic. 
-Clean structure. 
-Fast execution. 
+This is the Jonas-style tactical intelligence:  Cold logic. Clean structure. Fast execution. 
 No hesitation.
 
 Mid-market M&A rewards those who move decisively. 

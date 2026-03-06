@@ -112,10 +112,7 @@ Healthcare carve outs are not abstract corporate maneuvers.
 
 They are active medical ecosystems being separated from legacy infrastructure. 
 
-Operators know what happens if liquidity falters during that separation. 
-Staff churn. 
-Billing collapse. 
-Regulatory pressure. 
+Operators know what happens if liquidity falters during that separation.  Staff churn. Billing collapse. Regulatory pressure. 
 Service disruption that leads to revenue decay within weeks. 
 
 Most lenders view this environment as risk saturated.

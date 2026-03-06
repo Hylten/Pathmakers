@@ -209,10 +209,7 @@ It happens when liquidity removes the friction that slows operational decisions.
 
 Mid-market operators often identify the right moves months before they can act. 
 
-This lag is where value evaporates. 
-Competitors react. 
-Assets deteriorate. 
-Talent leaves. 
+This lag is where value evaporates.  Competitors react. Assets deteriorate. Talent leaves. 
 
 Pathmaker Strategic Collateralization removes that lag. 
 
