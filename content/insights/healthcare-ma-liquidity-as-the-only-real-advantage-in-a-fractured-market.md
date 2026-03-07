@@ -43,9 +43,7 @@ The compliance overlay is heavier.
 
 If you cannot produce liquidity quickly, you are out before you begin. 
 
-Three forces drive this reality:
 
- 
 1. **Regulatory velocity** 
  Healthcare regulations evolve quickly. Acquiring an asset is only half the job. Stabilizing it under new ownership takes cash. Without liquidity, regulatory corrections become existential threats.
 

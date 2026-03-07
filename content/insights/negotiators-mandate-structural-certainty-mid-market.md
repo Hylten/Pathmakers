@@ -13,7 +13,8 @@ The capital vacuum across the European and Nordic mid market is not a liquidity 
 
 This memo defines the Negotiators Mandate. It outlines how structural certainty is manufactured through disciplined preparation, adversarial scenario mapping, and buyer type calibration. The Nordic mid market requires a new archetype. Not a broker, not a banker, but a strategic architect capable of collapsing complexity and delivering frictionless clarity in the moments when a deal either compounds or collapses.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The European M&A landscape has entered a hard regime. The shift is driven by four forces.
 
 1. Regulatory compression 
@@ -30,7 +31,8 @@ The European M&A landscape has entered a hard regime. The shift is driven by fou
 
 This regime shift places a new responsibility on the advisor or negotiator of record. Technical negotiation must be supported by operational intelligence and full spectrum preparation. There is no buyer appetite for improvisation.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 The Negotiators Mandate requires a deep operational stack. Senior allocators demand not only financial clarity but also pre engineered certainty across the operational, legal, and strategic layers. The following mechanics define the architecture required to remove friction and protect enterprise value.
 
 Deal Origination Architecture 
@@ -94,7 +96,8 @@ True negotiation in the current environment is not conversational. It is structu
 
 This architecture removes reactive behavior and enforces execution discipline throughout the transaction.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital operates as a strategic navigator within its institutional mandate. In the context of M&A, the firm does not act as a broker and does not position as an intermediary seeking volume. Instead, it functions as an introducer and structural advisor for founders, family principals, and consolidators requiring clarity on market navigation.
 
 The Negotiators Mandate is executed through a partnership framework built around:

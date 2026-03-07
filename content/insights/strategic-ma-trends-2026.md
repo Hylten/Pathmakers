@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural gap in 2026 M&A markets is driven by regulatory fragmentation and interest rate volatility rather than a decline in acquisition appetite. Institutional buyers continue to pursue strategic consolidation, but the operational friction at the point of transaction has increased. This shift creates a segmented market where prepared sellers transact rapidly at premium certainty multipliers, while unprepared companies experience stalled processes, extended diligence cycles, and valuation compression.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The 2026 M&A environment is defined by four structural realignments that shape all acquisition behavior across the European, Nordic, and North American landscapes.
 
@@ -39,7 +40,8 @@ High intent buyers operate outside the auction environment. Formal processes hav
 - Pre verified sellers with exit readiness discipline  
 - Quiet mandates with minimal competitive distortion
 
-PHASE 2: TECHNICAL MECHANICS OF THE 2026 M&A ENVIRONMENT
+
+ TECHNICAL MECHANICS OF THE 2026 M&A ENVIRONMENT
 
 The operational mechanics of acquiring companies in 2026 require disciplined alignment between financial readiness, data integrity, governance architecture, and transition visibility.
 
@@ -90,7 +92,8 @@ Buyers evaluate the integration load before discussing price. Companies with:
 
 all generate higher integration loads which directly reduce acquisition attractiveness.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator that bridges institutional buyers with operationally prepared sellers. The firm does not position itself as a broker but as a structural advisor shaping the conditions that allow transactions to occur without unnecessary friction.
 

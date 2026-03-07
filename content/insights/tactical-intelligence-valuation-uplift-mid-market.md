@@ -20,7 +20,8 @@ And the founders who embrace this architecture consistently walk into the exit p
 
 ––––––––––––––––––
 
-PHASE 1: INTERNAL LOGIC  
+
+ INTERNAL LOGIC  
 
 We begin where most sellers never look: the design of the information surface itself. Mid‑market valuations collapse not because the business is weak, but because the buyer’s due diligence uncovers friction the seller could have neutralized months earlier.
 
@@ -126,7 +127,8 @@ One deal at a time.
 
 ––––––––––––––––––
 
-PHASE 2: PRINCIPAL TONE  
+
+ PRINCIPAL TONE  
 Voice of the Analyst Team  
 Direct. Decisive. No ornamentation.
 
@@ -148,7 +150,8 @@ That is the moral of the structure.   Build clarity. Build confidence. Build lev
 
 ––––––––––––––––––
 
-PHASE 3: INTERNAL BYPASS  
+
+ INTERNAL BYPASS  
 Layered Architecture and Extended Depth  
 (Full 1500+ Word Structural Briefing)
 

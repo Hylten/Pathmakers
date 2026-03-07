@@ -13,7 +13,8 @@ The capital vacuum in the Nordic mid market is a consequence of regulatory tight
 
 The shift has created a bifurcated landscape. On one side are sellers who assume outdated pricing models and extended negotiation cycles. On the other side are international acquirers who require verifiable operational intelligence, exit ready financials, and a predictable integration curve before they activate capital. This briefing addresses that gap with tactical precision.
 
-Phase 1: The Regime Shift
+
+ The Regime Shift
 
 European mid market M&A is now defined by five structural factors:
 
@@ -29,7 +30,8 @@ European mid market M&A is now defined by five structural factors:
 
 This regime shift elevates the importance of forensic preparation, operational transparency, and cross border execution protocols. The Nordic region remains an institutional safe zone for corporate acquisition, but only for buyers equipped with pre negotiated intelligence and sellers prepared for institutional scrutiny.
 
-Phase 2: Technical Mechanics Of Nordic Cross Border Acquisition
+
+ Technical Mechanics Of Nordic Cross Border Acquisition
 
 Cross border transactions into the Nordic markets require alignment across four technical vectors:
 
@@ -75,7 +77,8 @@ The region is globally recognized for legal clarity and predictable enforcement.
 
 This regulatory architecture lowers integration risk but increases documentation expectations. Sellers who do not operate at this institutional threshold typically face delayed buyer engagement.
 
-Phase 3: The Partnership Model And Strategic Navigation
+
+ The Partnership Model And Strategic Navigation
 
 In cross border M&A, Roials Capital functions as a strategic navigator and introducer. The role is not transaction execution but institutional alignment. Tactical Intelligence, led by Jonas Hyltén, operates as the execution arm within the Nordic region. The combined structure provides:
 

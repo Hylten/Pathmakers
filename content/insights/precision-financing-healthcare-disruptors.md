@@ -15,9 +15,7 @@ This briefing outlines the technical architecture used by institutional operator
 
 PHASE 1. THE REGIME SHIFT
 
-The European healthcare environment has moved into a new regime. Three structural dynamics define the landscape.
-
-1. Capital rationing inside traditional lending institutions. Basel aligned lenders have systematically tightened healthcare exposure due to perceived reimbursement volatility. The result is an unintended liquidity compression where well run clinics and specialty operators cannot secure growth capital despite durable cash conversion.
+The European healthcare environment has moved into a new regime. 1. Capital rationing inside traditional lending institutions. Basel aligned lenders have systematically tightened healthcare exposure due to perceived reimbursement volatility. The result is an unintended liquidity compression where well run clinics and specialty operators cannot secure growth capital despite durable cash conversion.
 
 2. Increased consolidation pressure. Strategic buyers and private equity platforms are accelerating buy and build strategies. Their acquisition models rely on clinics or operating groups being structurally clean: standardized reporting, debt discipline, audited continuity, and predictable EBITDA normalization. Most mid market operators do not meet this threshold.
 

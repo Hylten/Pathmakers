@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum shaping the 2026 European and North American mid-market M&A environment is not a function of scarcity. It is a structural artifact of regulatory compression, balance sheet fatigue, and the progressive withdrawal of traditional sponsor-backed acquisition engines. This vacuum has created an identifiable pattern in GP led transactions: the highest friction points do not originate in valuation debates but in insufficiently hardened operating environments. Tactical due diligence is no longer a procedural stage. It is the operational triage through which acquirable companies are separated from those that remain indefinitely untransactable.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 European and Nordic mid-market acquirers entered 2026 under conditions defined by reduced liquidity velocity, dislocated pricing ranges, and a widening spread between formal valuation models and the realized exit values in private bilateral negotiations. Capital allocators now underwrite transactions with a significantly lower tolerance for operational ambiguity. The delta between book assumptions and actual unit economics is penalized more aggressively than at any point since 2011.
 
@@ -24,7 +25,8 @@ The structural shift can be summarized as follows.
 
 In this regime, tactical due diligence has displaced traditional commercial reviews as the decisive determinant of transaction viability. It is not the strategic narrative that moves a platform toward exit readiness but the structural coherence of its operational identity. Asset hardening is therefore the governing discipline.
 
-PHASE 2: TECHNICAL MECHANICS OF TACTICAL DUE DILIGENCE AND ASSET HARDENING
+
+ TECHNICAL MECHANICS OF TACTICAL DUE DILIGENCE AND ASSET HARDENING
 
 Tactical due diligence evaluates a target company through the lens of acquirability rather than baseline operational performance. This distinction is significant. Most mid-market firms can demonstrate functional continuity, but few meet the qualifying standards for frictionless acquisition. The objective is to identify and close the structural gaps that institutional buyers consider categorical risks.
 
@@ -106,7 +108,8 @@ Hardening measures:
 
 The discipline of asset hardening ensures that a potential acquisition does not merely function operationally but qualifies structurally under institutional due diligence. This distinction governs the trajectory of exit timing, valuation realism, and deal certainty.
 
-PHASE 3: THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL
+
+ THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The role is not transaction execution but structural calibration and readiness engineering. The objective is to remove friction before an acquirer enters the data room.
 

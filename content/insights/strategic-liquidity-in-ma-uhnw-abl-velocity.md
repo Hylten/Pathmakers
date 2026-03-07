@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The structural gap in mid market M&A velocity is not caused by a shortage of buyers. It is a capital timing problem. Liquidity misalignment between buyer readiness and seller urgency is now the primary friction point across Europe and North America. The result is a widening execution gap where assets trade off market to parties capable of mobilizing collateralized liquidity within compressed time windows.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The M&A environment entering 2026 is defined by three overlapping pressures that disproportionately affect family owned companies, founder led enterprises, and niche industrial operators.  
 
@@ -23,7 +24,8 @@ Third pressure: Execution velocity. The highest quality off market transactions 
 
 These factors have created an environment where UHNW principals and their family offices leverage Asset Based Lending as an institutional tool for competitive advantage. ABL is not used as rescue liquidity. It is used as strategic liquidity to solve the timing mismatch that traditional lenders cannot address.
 
-PHASE 2: TECHNICAL MECHANICS OF ABL IN TRANSACTION EXECUTION
+
+ TECHNICAL MECHANICS OF ABL IN TRANSACTION EXECUTION
 
 Asset Based Lending in the M&A context is a collateral linked liquidity structure. It operates through valuation integrity rather than borrower reputation. This makes it materially different from conventional credit.
 
@@ -51,7 +53,8 @@ UHNW buyers often hold multiple operating entities or asset pools. ABL allows cr
 6. Opportunity Velocity  
 Because ABL deploys against tested assets, it can be mobilized far faster than earnings based lending. Velocity is the differentiator. Deals that require completion within 20 to 45 days often cannot be executed using traditional financing. ABL creates an institutional level liquidity response time that aligns with modern competitive bidding environments.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator across this landscape. The objective is to provide operational intelligence, deal readiness support, and capital coordination without positioning as the buyer, seller, or lender. The role is technical and institutional.
 
@@ -77,7 +80,6 @@ PHASE 4: THE STEWARDSHIP FILTER
 Stewardship is a discipline of non wasteful resource management. It applies directly to liquidity governance and transaction execution. The purpose is not acceleration for its own sake. It is precision.  
 Proverbs 13:22 outlines the generational perspective that underpins responsible capital architecture. Liquidity used with discipline extends operational continuity. Liquidity applied without governance increases fragility.
 
-Three pillars define stewardship in the M&A liquidity context:
 
 1. Preservation of productive assets  
 ABL should not erode the operational integrity of the acquired company. The borrowing base must be structured so that the company retains sufficient working capital. Asset hardening, not asset stripping, is the governing principle.

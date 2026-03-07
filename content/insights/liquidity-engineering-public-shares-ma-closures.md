@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Mone
 
 The capital vacuum shaping mid market corporate transactions in 2026 is not driven by a shortage of buyers or strategic demand. It is caused by a misalignment between the liquidity profile of asset holders and the transaction velocity required by institutional acquirers. The spread between available collateral value and deployable liquidity has widened across European and North American markets. Public shareholders with concentrated positions face structural barriers when attempting to unlock liquidity at speed without pressuring market prices or undermining governance optics. This is the technical gap where Monetization Architecture has emerged as the decisive accelerant for M&A execution.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The modern M&A environment has entered a new regime defined by three interacting forces.
 
@@ -23,7 +24,8 @@ Third, operational velocity has become a competitive differentiator. Mid market 
 
 The result is a structural dislocation. Public shareholders frequently hold collateral rich positions but lack mechanisms that convert those positions into deployable deal capital without moving markets or creating adverse governance signals. The M&A pipeline is healthy. The execution bandwidth is constrained. This is the regime shift.
 
-PHASE 2: TECHNICAL MECHANICS OF [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) AGAINST PUBLIC SHARES
+
+ TECHNICAL MECHANICS OF [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) AGAINST PUBLIC SHARES
 
 Monetization Architecture against public shares is the discipline of transforming static market value into instrumented, off balance sheet, short duration liquidity without forcing a sale event. The structures used must satisfy four institutional criteria.
 
@@ -49,7 +51,8 @@ The technical design must match the strategic objective. Some shareholders seek 
 
 The critical mechanic is that no market sale is required to create liquidity. This is the core advantage. The shareholder maintains asset exposure while unlocking the capital needed for accelerated M&A closures.
 
-PHASE 3: THE PARTNERSHIP MODEL AND STRATEGIC NAVIGATION
+
+ THE PARTNERSHIP MODEL AND STRATEGIC NAVIGATION
 
 Institutional allocators and mid market operators do not require additional theory. They require operational clarity and execution. Roials Capital positions itself as a navigator of structures, not an originator of risk. The firm identifies the architectural match between the shareholder profile, the public security characteristics, and the liquidity requirement that supports the M&A pathway.
 

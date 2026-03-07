@@ -13,7 +13,8 @@ The capital vacuum in mid-market healthcare transactions is not caused by a lack
 
 This briefing outlines the regime shift now shaping healthcare carve-out finance, the technical mechanics of hybrid collateral structures, and the role of Roials Capital as a strategic navigator in preparing institutional allocators, UHNWIs, and private credit managers for off-market opportunities. It is written from the vantage point of The General, with the conviction and clarity required for operational execution in Europe and the Nordics.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The healthcare sector across Europe has entered a capital constrained environment driven by four macro forces:
 
@@ -29,7 +30,8 @@ This combination creates a structural gap. High-performing healthcare divisions 
 
 This is the domain where hybrid collateral frameworks have emerged as a decisive advantage.
 
-PHASE 2: TECHNICAL MECHANICS OF HYBRID COLLATERAL STRUCTURES
+
+ TECHNICAL MECHANICS OF HYBRID COLLATERAL STRUCTURES
 
 Hybrid collateral in healthcare carve-outs is not a deviation from credit discipline. It is a recalibration of collateral engineering to match the operational reality of the sector. The structure blends contractual assets, technology infrastructure, receivables matrices, and specific classes of equipment into a unified security package that institutional lenders can underwrite with precision.
 
@@ -51,7 +53,8 @@ Hybrid collateral also reduces reliance on parent company guarantees. This is st
 
 Cross collateralization mechanics further strengthen the profile. When a healthcare operator includes multiple sites, revenue streams across units can be aggregated under a unified financing structure. This provides downside insulation through diversification, while allowing domestic Nordic lenders or international private credit firms to build a precise risk distribution model.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as the institutional navigator in this environment. The firm does not position itself as a provider of healthcare financing. Instead, its role is to enhance decision clarity for allocators through operational intelligence, structural analysis, and strategic partner introduction.
 

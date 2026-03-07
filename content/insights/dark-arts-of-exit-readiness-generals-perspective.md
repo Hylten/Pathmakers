@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in the transatlantic mid-market is not a product of valuation compression. It is a structural result of asymmetric buyer readiness. Buyers have institutionalized their acquisition playbooks. Sellers have not. This divergence generates predictable pricing inefficiencies, stalled transactions, misaligned diligence windows, and the erosion of strategic optionality. The mechanism is simple. M&A does not collapse due to lack of capital. It collapses because operational and structural opacity increases the underwriting cost for institutional buyers. This briefing examines exit readiness as a discipline of compression: compressing ambiguity, compressing diligence friction, and compressing the time it takes a buyer to form conviction.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current M&A environment is shaped by four converging forces:
 
@@ -25,7 +26,8 @@ The current M&A environment is shaped by four converging forces:
 
 These conditions define the new regime. Exit readiness is not packaging. Exit readiness is balance sheet preparation, operational hardening, and governance normalization to match the buyer’s underwriting model. The value is created long before the transaction window opens.
 
-PHASE 2: TECHNICAL MECHANICS OF EXIT READINESS
+
+ TECHNICAL MECHANICS OF EXIT READINESS
 
 Exit readiness is executed through seven hard disciplines. Each represents an area where friction either compounds or dissolves. In this section, the briefing stays at a technical level, aligned with institutional M&A mechanics.
 
@@ -99,7 +101,8 @@ Institutional buyers require a narrative, but they quantify it through machine-l
 
 The narrative is not a story. It is a synthesis of structural economics interpreted through the buyer’s acquisition logic.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator. It is not the seller, not the buyer, and not the fund manager. It is the institutional intermediary that aligns capital logic, operational intelligence, and transaction structuring. When the mandate intersects with the North American heavy oil or enhanced recovery landscape, NAEOCC is identified as the institutional-grade operating partner and technical authority.
 

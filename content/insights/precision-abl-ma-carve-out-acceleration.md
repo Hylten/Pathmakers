@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The liquidity compression in the mid market is a structural consequence of balance sheet rigidity rather than a shortage of acquisition targets. The current environment is shaped by regulatory recalibration across Europe and North America, where traditional lenders have shortened their risk appetite cycles while increasing documentation burdens. This has widened the execution gap between motivated corporate sellers and financial buyers that require operational clarity before underwriting acquisition velocity. Precision Asset-Based Lending has emerged as a corrective instrument that neutralizes this friction by transforming under analyzed operational assets into predictable collateral with verifiable liquidation pathways.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 
 Across the European and Nordic mid market, buyers are encountering a transactional landscape defined by three constraints. 
 - A documentation intensive credit environment that delays closings beyond the patience window of sellers. 
@@ -20,7 +21,8 @@ Across the European and Nordic mid market, buyers are encountering a transaction
 
 This regime shift has altered the nature of deal flow. Acquirers are no longer constrained by target availability but by time to certainty. Precision Asset-Based Lending aligns with this environment by introducing a liquidity layer that is based on asset certainty rather than EBITDA interpretation. This shift removes dependence on the seller’s accounting maturity and restores deal momentum even when financial statements require reconstruction.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 
 Precision Asset-Based Lending is not traditional asset based lending. It operates as a diagnostic and structural engineering process that reorganizes operational assets into a lending base designed for M&A execution. Its function is to transform complexity into collateral clarity.
 
@@ -33,7 +35,8 @@ Core mechanics:
 
 For corporate carve outs, Precision Asset-Based Lending neutralizes the single largest friction point: parent company reluctance to invest time in cleaning the divested unit’s financials. The methodology creates a funding envelope that relies on operational truth instead of parent prepared statements. This gives the buyer actionable leverage even when the target lacks audited accounts, complete asset registers, or systems separation.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 
 Roials Capital operates as a strategic navigator and institutional introducer, connecting acquisitive operators with Precision Asset-Based Lending structures that align with transaction cadence. The role is to filter counterparties, reduce information asymmetry, and ensure that acquisition velocity is not impaired by misalignment between the asset base and the lending base. This is a partner driven model rather than a capital distribution model.
 

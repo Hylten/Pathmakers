@@ -15,8 +15,6 @@ PHASE 1. THE REGIME SHIFT
 
 Across the European and Nordic mid-market, institutional buyers are navigating two converging shifts. First, the capital stack has been reshaped by higher base rates, tighter credit boxes, and elevated underwriting discipline. Second, operational readiness has become the controlling determinant of M&A certainty. Deals do not stall because of valuation gaps. They stall because the target cannot demonstrate operational independence, cash flow isolation, or divisional data integrity at the speed institutional buyers require.
 
-Three structural forces define the current regime.
-
 1. Regulatory friction across finance and data governance extends the diligence calendar. This weakens buyer conviction and introduces incremental approval steps that dilute transaction certainty.
 
 2. Carve-out targets often carry embedded operational dependencies, from shared IT environments to entangled procurement flows. When these dependencies are imprecisely mapped, the separation thesis becomes unstable.
@@ -51,8 +49,6 @@ These mechanics reduce M&A friction by enabling the buyer to underwrite not only
 PHASE 3. THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator for corporate owners preparing divisional separations or sale mandates. The role is strictly non custodial. The function is to create clarity, accelerate readiness, and ensure the liquidity architecture aligns with institutional expectations.
-
-Three pillars define the partnership model.
 
 1. Operational Intelligence 
 The process begins with mapping the operational structure of the division. This includes cost allocations, dependencies, capabilities, and latent inefficiencies. The mapping identifies friction zones that can delay or impair transaction execution.

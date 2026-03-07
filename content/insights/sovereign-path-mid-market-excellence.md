@@ -15,7 +15,8 @@ The present environment in 2026 demands a more disciplined architecture of capit
 
 The sovereign path is the disciplined process of transforming mid-sized enterprises into assets that can withstand institutional due diligence, withstand the technical requirements of cross border buyers, and withstand the valuation sensitivities of global private equity platforms. The objective is not cosmetic enhancement. The objective is structural elevation. Enterprises that successfully undergo this transformation command materially stronger multiples and experience an entirely different category of buyer engagement. My work across the Nordic landscape has consistently demonstrated that excellence in the mid market is not the product of scale. It is the product of architecture.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The existing European private markets ecosystem is undergoing three relevant shifts that shape the strategic environment for mid-market owners.
 
@@ -27,7 +28,8 @@ The existing European private markets ecosystem is undergoing three relevant shi
 
 These dynamics have established the institutional archetype of the mid-market. The archetype is defined by clarity, preparedness, defensibility, and the capacity to survive buyer-level stress testing. The challenge is that most founder-led companies are not constructed with this archetype in mind. They operate effectively but not institutionally. They create value but do not document it. They scale but do not articulate the mechanics of the scale. This disconnect produces a structural discount.
 
-PHASE 2: TECHNICAL MECHANICS OF MID-MARKET VALUE ELEVATION
+
+ TECHNICAL MECHANICS OF MID-MARKET VALUE ELEVATION
 
 The mid-market enterprise requires a specific sequence of readiness engineering. The process is not aesthetic. It is mechanical. Buyers acquire systems, not stories. They acquire governance, not enthusiasm. They acquire predictable future cash flow, not historical intuition.
 
@@ -45,7 +47,8 @@ The core mechanics involve five pillars.
 
 These mechanics form the core infrastructure of enterprise elevation. They transform companies into investable assets. They reduce valuation drag. They increase opportunity velocity. They reshape the negotiation dynamics entirely because a buyer is engaging with clarity rather than opacity.
 
-PHASE 3: THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL
+
+ THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL
 
 Roials Capital operates as an institutional navigator and introducer. The firm does not position itself as the operator of the underlying assets. It provides strategic alignment for founders preparing for liquidity, for family offices evaluating acquisition targets, and for institutional buyers seeking pre qualified off market opportunities.
 

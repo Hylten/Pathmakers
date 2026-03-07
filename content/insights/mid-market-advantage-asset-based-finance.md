@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum inside the mid-market is a consequence of structural under-institutionalization, not a lack of bankable assets. The friction inside this segment has created a multi-year advantage for operators and allocators who understand balance sheet physics, cash flow reliability, and how to institutionalize asset-level intelligence without altering the DNA of the underlying enterprise. In 2026, the most durable private credit opportunities do not originate from distressed borrowers. They originate from solvent, high-utility mid-market businesses that have never been engineered for institutional readiness.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Across Europe and North America, the mid-market remains structurally starved of precision capital. Regulatory tightening after 2018, followed by Basel IV re-weighting, removed a significant portion of commercial bank participation from asset-backed credit. The result is a sustained capital vacuum: enterprises with mature receivables, defensible hard assets, and predictable forward revenue are operating under liquidity constraints that have no correlation to their fundamental strength.
-
-Three macro forces define the current regime.
 
 1. Balance Sheet Compression 
  Middle-tier operators continue to under-leverage asset bases because legacy banking partners restrict LTV exposure well below realistic recovery values. With regulatory capital charges increasing, traditional lenders cannot price risk at the velocity required to support mid-market expansion cycles.
@@ -28,7 +27,8 @@ Three macro forces define the current regime.
 
 These factors combine to form a structural arbitrage: the ability to deploy capital or balance sheet expertise into companies that are not distressed, not speculative, and not reliant on macro cycles. They are constrained only by a lack of institutional-grade capital architecture.
 
-PHASE 2: TECHNICAL MECHANICS OF MID-MARKET ASSET-BASED FINANCE
+
+ TECHNICAL MECHANICS OF MID-MARKET ASSET-BASED FINANCE
 
 Asset-based finance, when engineered correctly, is not a substitute for working capital. It is a liquidity architecture that converts non-correlated asset value into operational velocity.
 
@@ -86,8 +86,6 @@ PHASE 2C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY
 
 The highest-quality mid-market opportunities never enter public market circulation. They are accessed through network intelligence, regulatory adjacency, or balance sheet blind spots identified by operators embedded in the sector.
 
-Three information pathways define off-market origination.
-
 1. Operational Adjacency 
  Service providers, suppliers, logistics partners, and specialist operators often know before anyone else that a company is preparing for expansion, recapitalization, or exit restructuring.
 
@@ -99,7 +97,8 @@ Three information pathways define off-market origination.
 
 This is where off-market acquisition strategy intersects with asset-based finance. The balance sheet becomes the key that unlocks proprietary deal flow by solving problems the target company has not yet framed explicitly.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital engages the market as a navigator rather than a balance sheet owner. This provides structural neutrality. The role is to coordinate institutional alignment among allocators, operating companies, and specialist lenders. This avoids misaligned incentives and maintains a clean separation between strategic intelligence and execution.
 

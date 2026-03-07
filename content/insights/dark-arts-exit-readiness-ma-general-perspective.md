@@ -15,7 +15,8 @@ This gap defines the arena in which exit readiness is either engineered with pre
 
 This briefing outlines the methods, decision architectures, and disciplined rituals of preparation that create frictionless M&A execution. It reflects a General’s perspective: decisive, structured, and grounded in the reality that order creates value while disorder invites discounting.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The European mid-market has entered a period of structural recalibration. Corporate buyers and private equity operators have increased their selectivity across the lower and upper mid-market due to:
 
@@ -32,7 +33,8 @@ The regime shift is not temporary. It is the result of three persistent forces:
 
 In this landscape, exit readiness is no longer an act of late stage preparation. It is a discipline embedded months and often years before a transaction. Companies that internalize this discipline shift from reactive negotiation to strategic positioning. They no longer enter a sale process as a collection of departmental activities. They enter as a synchronized system with a consciously engineered narrative that institutional buyers can evaluate without friction.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The mechanics of exit readiness are not abstract. They are quantifiable, repeatable, and grounded in the analytical requirements of professional acquirers. The objective is to pre solve the buyer’s risk matrix. When this is executed correctly, buyer diligence becomes confirmatory rather than exploratory.
 
@@ -104,7 +106,8 @@ In M&A, the absence of documentation is evidence of risk. Buyers refine their as
 
 Documentation is the backbone of transaction credibility. Without it, acquirers assume hidden liabilities and load valuation downward to compensate.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital is structured as a strategic navigator and institutional introducer. The mandate is not to sell assets or operate companies. The mandate is to prepare organizations for institutional grade execution and to create alignment between sellers and qualified acquirers. In energy, this work is executed in partnership with NAEO in Canada, which provides highly technical extraction and reservoir intelligence for heavy oil operations. In M&A, the focus is on structural clarity and friction reduction.
 

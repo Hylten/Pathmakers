@@ -15,8 +15,6 @@ PHASE 1. THE REGIME SHIFT
 
 Across the EU, UK, and North America, the traditional underwriting model has lost alignment with contemporary corporate architecture. Mid market companies increasingly operate through layered holding companies, purpose built asset vehicles, tax optimised operating subsidiaries, and jurisdictional partitions shaped by regulatory environments. These structures evolved for practical reasons such as risk segmentation, acquisition staging, or intellectual property isolation. They did not evolve to satisfy lender visibility requirements. The result is a structural inefficiency where companies with high real asset density appear higher risk than they are. 
 
-Three forces define the new regime.
-
 1. Balance sheet distortion. Traditional underwriting metrics such as EBITDA linearity, single entity collateral, and uniform jurisdictional oversight fail when cash flows move across entities with different legal obligations. The perceived risk is higher than the actual risk.
 
 2. Liquidity fragmentation. Assets may be located in one entity, revenues in another, and cash reserves in a holding company that has no direct operational exposure. Without a unifying analytical layer, lenders cannot easily secure collateral without triggering cross default clauses or violating minority shareholder protections.

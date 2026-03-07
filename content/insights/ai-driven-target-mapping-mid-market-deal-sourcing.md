@@ -12,7 +12,6 @@ The shift is not cosmetic. It is architectural. Mid‑market deal sourcing no lo
 
 A disciplined architecture emerges from this. Quiet. Surgical. Scalable.  
 
-Three words.  
 Build.  
 Index.  
 Predict.  

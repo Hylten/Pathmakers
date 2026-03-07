@@ -11,11 +11,11 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The structural gap in middle market carve-outs is not a function of asset scarcity. It is the result of operational inertia inside parent companies that prioritize consolidated reporting over unit level performance optimization. This gap creates a durable pipeline of non-core assets with undervalued operational potential and incomplete stewardship. Buyers who understand this structural inefficiency can navigate carve-outs with high precision and minimal friction.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 European and North American middle market corporate environments face a synchronized pressure pattern. Capital cost inflation, regulatory tightening, and talent scarcity have increased the burden of maintaining divisions that do not align with the institutional archetype of the parent. Mid-market carve-outs are no longer optional strategic exercises. They are balance sheet optimization requirements.
 
-Three macro dynamics define this regime:
 
 - Balance sheet compression. Parent companies are reallocating capital to mission-critical verticals. Underperforming or non-synergistic divisions become candidates for accelerated separation.
 
@@ -25,7 +25,8 @@ Three macro dynamics define this regime:
 
 In this environment, carve-outs have shifted from episodic events to systemic opportunities. The assets are structurally mispriced because their standalone identity has never been fully established. This creates a repeatable path for disciplined buyers who understand the mechanics of separation.
 
-PHASE 2: TECHNICAL MECHANICS OF CARVE-OUT EXECUTION
+
+ TECHNICAL MECHANICS OF CARVE-OUT EXECUTION
 
 Effective carve-out execution depends on precision across four technical domains: commercial stabilization, functional separation, Institutional Liquidity Paths, and post-close operational uplift. Each domain contains friction points that determine the probability of a smooth handoff.
 
@@ -68,7 +69,8 @@ Commercial realignment:
 
 When these mechanics are integrated into a unified execution plan, friction decreases and operational velocity increases.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator in this environment. The firm does not act as an operator or principal buyer. Instead, it provides institutional intelligence that aligns operators, private credit providers, and off-market sellers. The objective is to reduce procedural friction and present a pathway that accelerates decision cycles without compromising diligence.
 

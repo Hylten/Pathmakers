@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, nordic m&a, private credit, liquidity engineering
 
 The structural gap shaping Nordic mid-market growth is not a lack of capable operators. It is a misalignment between operational performance and transaction grade readiness. The region hosts disciplined founders, technically sophisticated management teams, and high quality industrial niches. The friction emerges in the translation from operational excellence to institutional acquisition criteria. The resulting valuation compression is predictable, mechanical, and avoidable.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Nordic mid-market companies are operating through an environment where cost of capital recalibration has outpaced organizational adaptation. The equity driven expansion cycle that defined 2013 to 2021 has been replaced with a balance sheet centric regime. Buyers no longer prioritize momentum. They prioritize structural durability.
-
-Three dynamics define the current regime.
 
 1. Capital Selectivity 
 Institutional buyers target businesses with low transactional friction. They do not pay premiums for operational potential. They pay premiums for certainty. Nordic companies that rely on implicit knowledge, fragmented documentation, and informal processes are structurally disadvantaged. Not because performance is weak, but because friction is high.
@@ -26,7 +25,8 @@ Private equity groups across Europe and North America have tightened diligence c
 3. Market Liquidity Asymmetry 
 Off-market activity in the Nordic mid-market is rising, but not evenly distributed. Companies with institutional documentation, calibrated governance, and clear buyer logic attract strategic dialogue. Companies without these structures are excluded, regardless of performance. Liquidity is migrating toward businesses that operate with transaction grade discipline.
 
-PHASE 2: TECHNICAL MECHANICS OF EXIT READINESS
+
+ TECHNICAL MECHANICS OF EXIT READINESS
 
 Exit readiness is not branding. It is structural engineering. The goal is to transform a company from operator dependent to transaction predictable. The method is technical, not promotional.
 
@@ -54,12 +54,11 @@ Most valuation erosion occurs not from fundamentals, but from uncertainty genera
 5. Strategic Narrative Calibration 
 Institutional acquirers do not respond to generic growth stories. They respond to coherent strategic logic: how the asset fits into their portfolio, their geographic expansion thesis, or supply chain integration objective. Narrative calibration is not marketing. It is strategic alignment mapping that ensures the buyer sees the company through the correct lens.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 THE GENERAL AND TACTICAL INTELLIGENCE
 
 Tactical Intelligence does not function as a broker. It functions as a strategic partner. The role is to create institutional readiness, curate off-market pathways, and remove execution friction before the process begins. Nordic operators often underestimate the magnitude of value unlocked by aligning operations with acquisition criteria before entering the market.
-
-Three layers define the Tactical Intelligence model.
 
 1. Operational Intelligence 
 This is the transformation of raw operational activity into transaction grade systems. It includes documentation architecture, liquidity mapping, and organizational hardening.

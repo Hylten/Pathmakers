@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, M&A, private credit, Asset-Backed Frameworks, ass
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity. It is the predictable outcome of capital providers clinging to pre 2019 underwriting frameworks that no longer match the operational physics of contemporary balance sheets. Traditional mezzanine structures were built for interest rate regimes that have ended. Asset Based Lending architectures are filling the vacuum not because they are aggressive, but because they are mechanically aligned with how cash conversion now occurs in real operating companies.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The European M&A environment has transitioned into a regime defined by three dominant constraints. 
 - Capital providers are prioritizing collateral visibility over projected EBITDA narratives. 
 - Operating companies are functioning with elongated working capital cycles due to supply chain rewiring. 
@@ -21,7 +22,8 @@ Traditional mezzanine capital, historically positioned as a flexible subordinate
 
 Asset Based Lending has taken primacy because it prices the balance sheet as it actually exists. Not as a projection. Not as a multiple. Not as an unverified synergy assumption. Asset-Based Lending financing maps collateral value to liquidity availability in real time. This creates a predictable liquidity corridor for acquisitions that does not depend on selling a future earnings story. In a market where institutional buyers require clarity, the capital instrument aligned with physical assets wins.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 Asset-Based Lending and mezzanine structures serve fundamentally different functions inside an M&A capital stack. The differences are not philosophical. They are mechanical.
 
 Asset Based Lending Mechanics 
@@ -53,7 +55,8 @@ Asset-Based Lending enhances exit readiness by stabilizing working capital. Mezz
 
 In the context of M&A execution, Asset-Based Lending aligns with the operational reality of how Nordic and European companies generate liquidity. They do so through inventory conversion and receivable cycles, not through financial engineering.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital operates as a strategic navigator within this landscape. The role is not to distribute financial products. The role is to create institutional alignment between buyers, sellers, and capital providers by designing a liquidity architecture that improves certainty of close.
 
 The Partnership Model adheres to four principles. 

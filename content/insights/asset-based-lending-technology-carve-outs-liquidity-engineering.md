@@ -13,7 +13,8 @@ The structural gap in European mid-market technology transactions is not a lack 
 
 This is the invisible leverage point that Asset Based Lending delivers. Asset-Based Lending in a carve-out is not a financing tactic. It is a structural instrument that stabilizes operational continuity, accelerates exit readiness, and eliminates M&A friction by transforming stranded assets into immediate strategic capacity.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Global mid-market technology assets have entered a new operational regime. The environment is defined by three converging forces.
 
 1. Capital conservatism in traditional banking 
@@ -32,7 +33,8 @@ Global mid-market technology assets have entered a new operational regime. The e
 
 The regime shift has elevated the importance of Institutional Liquidity Paths. Capital availability must be precise, asset-tied, covenant-light, and engineered for operational sovereignty rather than leveraged speculation. This is the point where Asset-Based Lending becomes an institutional tool for buyers who understand that speed, certainty, and control outperform financial leverage in transitional markets.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 The foundational principle of Asset-Based Lending in technology carve-outs is simple: convert operational assets into liquidity channels without distorting the strategic horizon of the business. The mechanics operate through three pillars.
 
 1. Working Capital Collateralization 
@@ -66,7 +68,8 @@ The foundational principle of Asset-Based Lending in technology carve-outs is si
 
 Asset-Based Lending as a carve-out instrument is not a cost of capital decision. It is a friction-reduction mechanism designed to eliminate the largest failure point in mid-market M&A: the operational latency between legal transfer and functional independence.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital functions as a strategic navigator and institutional introducer within this landscape. The objective is never to promote a financing solution. The objective is to align operator capability, asset profile, and liquidity architecture in a way that preserves operational sovereignty.
 
 The mandate involves three components.

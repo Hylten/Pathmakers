@@ -20,7 +20,8 @@ We proceed.
 
 ---
 
-PHASE 1: INTERNAL LOGIC  
+
+ INTERNAL LOGIC  
 Confidential notes. Structural depth only. A 
 The mid-market has become a theatre of distortion. Too much money chasing too few good operators. Too much noise obscuring the few that actually matter. Private equity wants readiness. Family offices want continuity. Strategics want integration capacity. The sell-side rarely provides any of it.
 
@@ -42,8 +43,6 @@ DOMAIN ONE: EXIT READINESS ARCHITECTURE
 Exit readiness is not a checklist. It is the removal of asymmetry between operational truth and acquirer perception. When everything is aligned, valuation expands without theatrics. When it is misaligned, acquirers discount the firm’s future to hedge against the unknown.
 
 Traditional exit planning is backwards. It focuses on documents, not systems. It packages, but it does not transform. Tactical Intelligence corrects this by attacking the underlying mechanics that determine what a buyer is really acquiring: durability, predictability, transferability.
-
-Three pillars govern mid-market exit readiness.
 
 1. Durability  
 The business must stand without the founder’s hand. When dependency is high, valuation is low. Tactical Intelligence neutralizes key-person fragility through operational codification, delegated authority models, and future-state leadership mapping.
@@ -118,7 +117,8 @@ A single parenthetical note, executed with restraint: structuring through Roials
 
 ---
 
-PHASE 2: PRINCIPAL VOICE  
+
+ PRINCIPAL VOICE  
 Shift tone. Principal cadence. Authority without theatrics.
 
 The mid-market is now governed by intelligence, not scale. Scale can be bought. Intelligence must be built. Tactical Intelligence is the dividing line between founders who exit on their terms and founders who surrender to circumstances. The distinction is moral and operational.
@@ -127,23 +127,19 @@ A clear statement: Exit is not the destination. Exit is the culmination of stewa
 
 Tactical Intelligence is the discipline that ensures strength.
 
-Three declarations.
-
 Declaration One  
 A business that cannot survive a sale has not earned a sale.
 
 Declaration Two  
 The operator who waits for the right buyer will never attract the right buyer.
 
-Declaration Three  
-The future belongs to the disciplined, not the loud.
-
-Machine gun truth:   Discipline wins. Architecture wins. Preparation wins.  
+Declaration Machine gun truth:   Discipline wins. Architecture wins. Preparation wins.  
 Always.
 
 ---
 
-PHASE 3: INTERNAL BYPASS  
+
+ INTERNAL BYPASS  
 Alternate pacing. Deep structural paragraph followed by precision strikes.
 
 The rise of Tactical Intelligence is not an accident. It is the structural answer to a market where information asymmetry has collapsed. Buyers are more sophisticated than ever. Diligence is more unforgiving. Operational reality is more exposed. Sellers can no longer rely on charisma, momentum, or improvisation. They can only rely on preparation.

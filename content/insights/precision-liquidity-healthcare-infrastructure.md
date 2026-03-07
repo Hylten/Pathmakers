@@ -15,7 +15,8 @@ Allocators evaluating the healthcare sector often observe stable macro demand bu
 
 The opportunity for disciplined capital is not in speculation. It is in correcting these structural inefficiencies through precision liquidity and execution discipline.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Healthcare infrastructure in 2026 is defined by three converging regime forces:
 
@@ -30,7 +31,8 @@ Aging populations in the EU and North America create predictable demand curvatur
 
 The regime shift is therefore a liquidity mismatch rather than a clinical viability issue. The challenge is not identifying demand. The challenge is enabling operators to align structurally with institutional transaction standards.
 
-PHASE 2: TECHNICAL MECHANICS OF PRECISION LIQUIDITY
+
+ TECHNICAL MECHANICS OF PRECISION LIQUIDITY
 
 Precision liquidity is not broad capital deployment. It is targeted balance sheet optimization designed to prepare an asset for institutional acquisition or structured credit. The approach focuses on four technical domains.
 
@@ -82,7 +84,8 @@ Exit readiness is a technical condition, not a marketing exercise. It requires:
 
 Precision liquidity transforms operators into transaction ready entities without altering clinical identity.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator. The role is not to originate capital for itself, but to create structural alignment between operators requiring liquidity optimization and institutional partners capable of providing it. This involves:
 

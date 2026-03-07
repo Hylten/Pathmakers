@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum throughout the European and North American mid‑market is a structural consequence of fragmented diligence practices and inconsistent exit preparedness, not a lack of enterprise value. This regime shift is altering the institutional landscape, prioritizing operational truth over promotional narrative and rewarding businesses that can demonstrate audit-ready continuity rather than momentum-based growth claims.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The mid‑market segment across Europe, the Nordics, and North America has entered a period defined by asymmetrical capital access. This asymmetry is driven by four converging structural realities.
 
 1. Capital Concentration 
@@ -28,7 +29,8 @@ The highest-quality assets rarely enter competitive processes. The constraint is
 
 This regime shift elevates a new hierarchy. Businesses that pre-engineer institutional clarity attract strategic alignment. Those that do not remain in liquidity limbo.
 
-PHASE 2: TECHNICAL MECHANICS OF MID-MARKET EXCELLENCE 
+
+ TECHNICAL MECHANICS OF MID-MARKET EXCELLENCE 
 The architecture of enduring capital is not built at exit. It is constructed through the continuous elimination of transaction friction, long before capital arrives. The mid-market enterprise must demonstrate mechanical readiness in six categories.
 
 1. Structural Cash Flow Reconstruction 
@@ -86,7 +88,8 @@ Friction originates from structural gaps such as:
 
 The elimination of these frictions increases enterprise transmissibility, which is the core requirement for any premium exit.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital serves as a strategic navigator. The role is not capital provision. The role is institutional translation. Mid-market founders and families often operate with deep domain expertise and significant operational excellence but without the structural signaling infrastructure required for institutional alignment.
 
 The partnership model operates through three layers.

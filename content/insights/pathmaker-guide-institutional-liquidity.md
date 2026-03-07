@@ -13,7 +13,8 @@ The liquidity shortage constraining the mid-market ecosystem is not a consequenc
 
 This is the structural gap that defines the current environment. Liquidity does not flow toward businesses that need capital. Liquidity flows toward businesses engineered to be investable.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The institutional liquidity regime that dominated from 2012 to 2022 was defined by cheap leverage, yield compression, and a behavioral assumption that capital would remain abundant. Operators did not optimize for resilience because capital itself functioned as an inexpensive buffer. That regime is no longer operative.
 
 Since 2023, allocators have redefined their deployment posture around three non negotiable criteria:
@@ -33,7 +34,8 @@ Several macro level dynamics reinforce this regime:
 
 The core truth is simple. The mid-market is not undercapitalized because capital is scarce. It is undercapitalized because institutional friction has intensified.
 
-PHASE 2: TECHNICAL MECHANICS OF INSTITUTIONAL LIQUIDITY 
+
+ TECHNICAL MECHANICS OF INSTITUTIONAL LIQUIDITY 
 Institutional liquidity follows architecture, not intention. To navigate this environment, operators must understand the technical mechanics that shape deployment decisions across private credit, private equity, and strategic M&A pathways.
 
 1. Documentation Integrity 
@@ -78,7 +80,8 @@ High intent acquirers and allocators do not hunt in public markets. They rely on
 - Succession logic 
 This is the Off Market Archetype. The architecture that governs real M&A momentum does not occur in broad processes. It occurs through precision controlled introductions where alignment has been validated before the first institutional conversation.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital functions as a strategic navigator within this environment. The value is not in capital supply. The value is in structural alignment, documentation engineering, and institutional introduction pathways that reduce friction and increase engagement probability.
 
 Within the North American energy vertical, NAEO operates as the institutional grade execution partner. NAEO's advantage is not rooted in asset ownership narrative. The advantage is rooted in technical recovery intelligence, basin specific physics, decline curve predictability, and operational de risking within Alberta's heavy oil environment.

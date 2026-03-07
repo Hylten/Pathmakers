@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital imbalance within niche market acquisitions is a product of fragmentation, not a lack of creditworthy assets. The structural gap is created by institutional undercoverage and operational opacity. This is the precise environment where Asset Based Lending becomes an architecture of control, enabling acquirers and operators to extract precision, predictability, and acquisition velocity without absorbing unnecessary balance sheet drag.  
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Niche markets within Europe and North America are experiencing a regime shift characterized by three converging pressures.  
 
@@ -30,7 +31,8 @@ This shift is directly visible in:
 
 The institutional landscape is rewarding speed, certainty, and collateral intelligence. It is penalizing operators who rely on conventional leverage structures.  
 
-PHASE 2: TECHNICAL MECHANICS OF ABL IN ACQUISITIONS
+
+ TECHNICAL MECHANICS OF ABL IN ACQUISITIONS
 
 Asset Based Lending is not a financing instrument. It is an operational discipline that reorganizes the acquisition architecture around measurable collateral and repeatable liquidity engineering.  
 
@@ -85,7 +87,8 @@ ABL removes exit friction by:
 
 In an acquisition environment defined by uncertainty, ABL creates repeatability. In a market where private equity firms are seeking platforms rather than projects, ABL creates clarity.  
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions in the role of institutional guide and introducer. The objective is not to originate financing but to enable acquirers and operators to navigate the landscape with precision.  
 

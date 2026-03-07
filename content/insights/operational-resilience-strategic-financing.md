@@ -15,7 +15,8 @@ This environment rewards enterprises that understand Strategic Financing not as 
 
 The following briefing maps the institutional mechanics that enable operational resilience, eliminate M&A friction, and increase deal readiness across the mid market. This briefing is authored as a leadership directive informed by Nordic corporate execution principles and structured to serve allocators, principals, and board level operators.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current financing conditions represent a regime shift rather than a cyclical contraction. Across Europe and North America, the mid market is experiencing four structural deviations. 
 
@@ -32,7 +33,8 @@ Operational resilience is a structural asset. It is measurable and financeable.
 
 Across the Nordic region, this has been understood for decades. Companies maintain liquidity reserves, disciplined capital structures, and modular operational systems to maintain continuity under adverse conditions. The same discipline is becoming the global requirement for exit readiness.
 
-PHASE 2: TECHNICAL MECHANICS OF STRATEGIC FINANCING
+
+ TECHNICAL MECHANICS OF STRATEGIC FINANCING
 
 Strategic Financing is not capital raising. It is the engineering of systems that eliminate fragility. The discipline includes five core mechanics.
 
@@ -79,7 +81,8 @@ Exit readiness is not a milestone. It is a structural position.
 
 When these mechanics operate together, the enterprise transitions from reactive to strategically resilient. The market rewards resilience with faster transaction cycles and more favorable negotiation positioning.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator, introducer, and structuring partner. The function is not transactional. It is architectural. 
 

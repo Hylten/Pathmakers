@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, as
 
 The structural gap in European mid-market finance is not attributable to a scarcity of capital. It is the consequence of an over engineered regulatory environment that restricts velocity, impedes tactical financing, and delays operational decision making. The result is a capital landscape rich in balance sheet liquidity yet structurally unable to deploy it with the precision required by mid-market operators preparing for a high fidelity exit. In 2026, precision financing has evolved into a functional prerequisite for any enterprise intending to demonstrate institutional grade readiness.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current European capital environment is defined by four systemic pressures that collectively elevate the importance of tactical financing structures for operators with revenues between EUR 20M and EUR 500M.
 
@@ -29,7 +30,8 @@ The current European capital environment is defined by four systemic pressures t
 
 The result is a landscape where capital exists in abundance, yet access requires operational calibration, financial precision, and an institutional archetype that mid-market enterprises often have not yet engineered. Precision financing fills this structural void.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Precision financing operates through three interlocking mechanics that strengthen enterprise resilience, reduce transactional friction, and elevate exit readiness.
 
@@ -67,11 +69,11 @@ Calibration includes:
 
 Exit readiness is an engineering process. Precision financing provides the structural stability required for that engineering to occur without operational disruption.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and introducer, not as a direct lender. The function is to align mid-market operators with the institutional credit, private lenders, family offices, and strategic buyers that match their operational profile. Neutrality is essential because the objective is alignment, not product distribution.
 
-Three functions define the partnership model:
 
 1. Strategic Alignment Diagnostics 
 A clinical assessment of operational posture, financial infrastructure, and exit objectives. The diagnostic identifies gaps relative to institutional buyer criteria and determines the corresponding capital structures required to eliminate those gaps.

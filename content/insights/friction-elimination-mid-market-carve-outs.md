@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The capital vacuum in European mid market carve outs is a structural consequence of operational friction rather than a shortage of transaction appetite. This is the defining inefficiency. Buyers are liquid. Sellers are motivated. Yet deals stall because the operating substrate of the target cannot withstand institutional scrutiny. The friction is not financial. The friction is mechanical.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 
 The European mid market is undergoing a regime transition defined by three compounding forces. First, multinationals are shedding non core divisions to concentrate on defensible global units. Second, private equity funds are recalibrating their acquisition filters around platform logic and bolt on synergies rather than pure valuation compression. Third, regulatory environments across the Nordic and DACH regions are pushing corporates toward balance sheet simplification and transparency.
 
@@ -21,7 +22,8 @@ The misalignment produces a predictable market distortion. High intent buyers na
 
 This is the central inefficiency that tactical operators address. Not by adjusting price. Not by escalating marketing. But by eliminating friction at the source.
 
-PHASE 2: TECHNICAL MECHANICS OF FRICTION ELIMINATION 
+
+ TECHNICAL MECHANICS OF FRICTION ELIMINATION 
 
 The mechanics of friction in a carve out context are not abstract. They are repeatable, diagnosable, and structurally predictable. Every mid market carve out is constrained by the same seven vectors of operational resistance. The differentiator is how quickly and decisively these vectors are neutralized.
 
@@ -48,7 +50,8 @@ ERP, CRM, cybersecurity posture, and data governance remain the single largest f
 
 Each friction point compounds the next. The asset becomes heavier. The buyer becomes more cautious. The transaction becomes slower. The valuation becomes softer. This is friction as a market force. The solution is friction neutralization as an operational discipline.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 
 The friction elimination mandate requires a role that is not advisory in the traditional sense. It requires active operational leadership embedded within the carve out motion. This is the domain in which my work operates. Not as a broker. Not as a consultant. As a tactical architect eliminating the barriers that suppress transaction velocity.
 

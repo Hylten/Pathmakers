@@ -12,7 +12,8 @@ Buyers who adopt predictive diligence stop reacting to problems; they start shap
 
 This is the new frontier of Exit Readiness and off‑market origination.
 
-PHASE 1: INTERNAL LOGIC - PRIVATE BRIEFING  
+
+ INTERNAL LOGIC - PRIVATE BRIEFING  
 Closed‑door mode. Structural depth only.
 
 Predictive diligence rests on one central premise: eliminate uncertainty before it accumulates. Uncertainty is the great tax in mid‑market M&A. It slows negotiations. It increases legal fees. It gives leverage to whichever side is patient enough to weaponize ambiguity. Traditional diligence exposes that uncertainty late in the process, often after a LOI has already compressed the buyer’s negotiating flexibility.
@@ -25,12 +26,12 @@ The architecture is simple on the surface: a multi‑input model capturing opera
 
 Mid‑market companies are not opaque because they intend to obscure. They are opaque because they have grown through firefighting. Their data is fragmented. Their processes are informal. Their governance is emergent. Predictive diligence reconstructs the company before the buyer steps into the first call.
 
-Three words.  
 Rebuild the target.
 
 This reconstruction creates a structural map of the business: where value exists, where entropy accumulates, where the buyer can realistically expand margin, and where the deal breaks if left untouched. The result is a clean corridor from first contact to closing.
 
-PHASE 2: THE PRINCIPAL VOICE - CONTROLLED AUTHORITY  
+
+ THE PRINCIPAL VOICE - CONTROLLED AUTHORITY  
 Pathmaker tone: cut friction, drive action, decode the architecture.
 
 Predictive diligence eliminates the drag that kills mid‑market deals. Velocity wins in the mid‑market because sellers respond to confidence. Confidence comes from clarity. Clarity comes from knowing the terrain before stepping onto it. A buyer who walks into the first meeting articulating the real operational posture of the business resets the negotiation dynamic. The seller realizes they are speaking with a counterparty who operates on a different plane. Not aggressive. Not overbearing. Simply informed.
@@ -49,7 +50,8 @@ This is where off‑market origination becomes feasible. Sellers respond to comp
 
 Predictive diligence becomes the signal that separates serious buyers from curious browsers.
 
-PHASE 3: STRUCTURAL DEEP DIVE - THE ARCHITECTURE  
+
+ STRUCTURAL DEEP DIVE - THE ARCHITECTURE  
 Precision required. No filler.
 
 The mid‑market has always been structurally messy. Companies between 10M and 300M in revenue operate in a unique tension zone. Too large to be informal, too small to be properly institutional. This creates three predictable forms of hidden risk:

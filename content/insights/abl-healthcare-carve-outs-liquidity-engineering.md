@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Strategic Collateralization, heal
 
 The recurrent capital friction inside European and North American healthcare portfolios is not a function of inadequate operating performance. It is the consequence of a structural misalignment between functional assets and financial architecture. Healthcare operators frequently carry under-optimized balance sheets that limit strategic mobility. The introduction of disciplined Asset Based Lending within carve-out environments has emerged as one of the most reliable Monetization Architecture tools for serious operators preparing for scale, divestiture, or strategic consolidation.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The healthcare M&A environment of 2026 is defined by three regime-level shifts that directly influence carve-out execution and post-transaction stabilization. First, capital providers have shortened their tolerance for slow integration cycles. Integrators with fragmented documentation, ambiguous asset boundaries, or cross-subsidized service lines see valuation pressure and elongated diligence periods.
 
@@ -21,7 +22,8 @@ Third, the macro credit environment has bifurcated. Generic leverage financing h
 
 Healthcare operators that fail to align with these regime conditions encounter a valuation discount that is structural rather than cyclical. Conversely, operators that introduce disciplined Asset-Based Lending frameworks into the carve-out process demonstrate balance sheet integrity that institutional buyers reward with reduced diligence friction and faster transaction velocity.
 
-PHASE 2: TECHNICAL MECHANICS OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS
+
+ TECHNICAL MECHANICS OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS
 
 Carve-outs in healthcare contain unique operational physics. Clinical operations often mix reimbursable and non-reimbursable services. Asset registers are occasionally outdated, and receivable patterns can vary significantly between business units. An Asset-Based Lending structure provides a mechanical solution to this complexity by separating financial visibility from corporate legacy.
 
@@ -47,7 +49,8 @@ Acquisitive platforms rely on predictable post-deal integration timelines. Asset
 
 The technical outcome is a liquidity system that serves both the seller and the incoming sponsor. It transforms structural ambiguity into measurable, financeable assets.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a neutral navigator providing structural intelligence rather than capital deployment. For healthcare carve-outs, our focus is alignment rather than promotion. The objective is not to source a lender but to structure the preparatory intelligence that allows serious operators to negotiate from strength.
 

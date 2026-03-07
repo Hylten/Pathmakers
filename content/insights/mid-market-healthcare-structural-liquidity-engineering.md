@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Strategic Collateralization, heal
 
 The structural liquidity gap in mid-market healthcare is not a function of operational weakness. It is a direct consequence of balance sheet fragmentation, legacy capital structures, and a regulatory landscape that has outpaced the financial architecture underneath it. Operators experience margin stability but lack access to institutional-grade capital structures that support scale. This is the misalignment creating a multiyear window for those who can deploy disciplined [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) and cross-border M&A navigation.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Across Europe and North America, mid-market healthcare has entered a new regime. The sector maintains inelastic demand, demographic expansion, and recurring revenue stability, but operators remain structurally liquidity constrained. The issue is not cash flow inconsistency. The issue is suboptimized capital structures that limit growth velocity.
 
@@ -29,7 +30,8 @@ The result is a structural paradox. The highest quality operators in the mid-mar
 
 The regime shift is not cyclical. It is structural. The operators who recalibrate their balance sheet architecture now will sit in the strongest position as demographic demand compounds and institutional roll up strategies accelerate.
 
-PHASE 2: TECHNICAL MECHANICS IN MID MARKET HEALTHCARE
+
+ TECHNICAL MECHANICS IN MID MARKET HEALTHCARE
 
 The mechanical constraints in healthcare are not conceptual. They are architectural. Expansion is limited not by demand but by the interplay between operational maturity and the capital stack supporting it.
 
@@ -102,7 +104,8 @@ Exit readiness in healthcare is not a cosmetic exercise. It is a structural disc
 
 Most operators underestimate the time required to reach institutional exit readiness. The real challenge is not valuation negotiation. It is preparing the operational and financial systems to withstand platform due diligence.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer for operators and investors seeking clarity in the healthcare mid-market. The objective is not transaction execution but ensuring the capital structure, operational architecture, and strategic positioning are aligned before any transaction is considered.
 

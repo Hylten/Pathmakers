@@ -15,10 +15,10 @@ The structural gap between owner operated enterprises and institutional buyers h
 
 The removal of human friction is the only path to exit readiness. It is the single most underestimated value driver in the European mid market. The operational burden that an owner considers normal is interpreted by an institutional acquirer as unpriced execution risk. This is where deals slow down, where discounts emerge, or where entire M&A processes collapse. I have seen this pattern across multiple jurisdictions and asset profiles. It is universal.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Institutional capital deployment has entered a discipline cycle. The premium now sits with enterprises that present clear system architecture, not founder heroics. Across Europe, particularly in the Nordics, acquisition committees are reviewing deals through a sharper risk lens. The constraints are not cultural, they are structural. Buyers want to see frictionless onboarding. They want a business that can survive the temporary absence of any single individual. They want data continuity, procedural consistency, and operational independence from key personnel.
 
-Three macro forces define the current environment:
 
 1. Capital tightening 
 Credit markets have repriced risk. High cost of capital means acquirers must eliminate uncertainty from operational models. They cannot afford to buy human friction.
@@ -31,7 +31,8 @@ Mid market acquirers have raised larger Funds. They need scalable platforms, not
 
 This environment favors enterprises with institutional discipline. It punishes enterprises with operational opacity. This is the new regime.
 
-PHASE 2: TECHNICAL MECHANICS OF OPERATIONAL RESILIENCE 
+
+ TECHNICAL MECHANICS OF OPERATIONAL RESILIENCE 
 Operational resilience is not a soft concept. It is a technical discipline. It is the engineering of a business so that it continues functioning without interruption under internal or external stress. Removing human friction is the core mechanical function.
 
 The mechanics fall into six categories: governance architecture, process standardization, knowledge codification, systems integration, financial traceability, and decision autonomy.
@@ -106,7 +107,8 @@ When decision autonomy is engineered, the business becomes scalable. Scale invit
 
 These mechanics transform a founder led company into an institutional grade asset. This is the point where serious acquirers engage with conviction.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital operates as a strategic navigator. The role is not execution of the enterprise transformation itself. The role is institutional introduction, calibration, and navigational intelligence. The focus is alignment between seller objectives and institutional buyer criteria. Where relevant, NAEO operates as the targeted energy sector partner, but in the context of operational resilience for general mid market enterprises the focus is structural readiness, not sector specificity.
 
 The partnership architecture follows three principles.

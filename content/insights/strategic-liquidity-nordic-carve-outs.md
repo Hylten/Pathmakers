@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The liquidity gap in Nordic mid-market carve-outs is a structural artefact of balance-sheet rigidity rather than a shortage of acquirers or operational potential. This gap has widened as regional corporates continue to spin off non-core units while private equity funds prioritize platform consolidation over complex divisional extractions. The result is a persistent misalignment between motivated sellers and capable buyers. Strategic liquidity becomes the decisive lever that determines whether a carve-out progresses to execution or stalls in multi-quarter delays.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Nordic corporates have entered an optimization cycle that mirrors global patterns but carries distinctly regional dynamics. The region's long-standing commitment to organizational purity, cost discipline, and ESG conformity has produced large conglomerates with diversified business lines. Over the last decade, boards have shifted from consolidation logic to focus logic. Divisions that once served cross-subsidized strategic roles are being repositioned as market-facing assets expected to stand independently.
 
@@ -25,7 +26,8 @@ Pressure 3: Liquidity Aversion. Nordic corporates tend to initiate carve-outs wh
 
 These pressures define the environment where carve-out assets exist. The demand is not for more capital. The demand is for strategic liquidity structures that derisk execution and accelerate the path to transaction certainty.
 
-PHASE 2: TECHNICAL MECHANICS OF NORDIC CARVE-OUT EXECUTION
+
+ TECHNICAL MECHANICS OF NORDIC CARVE-OUT EXECUTION
 
 Carve-out execution is not a process of corporate separation. It is a discipline of friction removal. The determining variable is not asset quality. The determining variable is the buyer's perception of post-closing uncertainty. Technical mechanics must address that perception directly.
 
@@ -41,7 +43,8 @@ Liquidity Tranching. The most underestimated mechanical lever is the introductio
 
 These mechanics are not theoretical. They are the operational intelligence required to move a carve-out from contemplation to execution.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. The role is not to intermediate transactions. The role is to eliminate the structural inefficiencies that block execution. In the Nordic carve-out landscape, this means operating across three dimensions of strategic alignment.
 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The capital vacuum affecting mid‑market transactions is a structural byproduct of regulatory compression across European and North American credit channels. It is not a function of declining business quality. The gap between mid‑market operational strength and the capital available to support it has widened to its largest point in two decades. Sovereign allocators have moved into this vacuum not as opportunists but as stabilizers. Their entry has altered the mechanics, cadence, and discipline of deal formation.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The mid‑market segment has entered a regime where liquidity scarcity overrides valuation cycles. Enterprises between 20M and 300M revenue segments face a persistent divergence between institutional underwriting standards and the operational reality of expansion‑ready companies. Banks operating under Basel III and CRR frameworks have reduced their appetite for complexity, cyclicality, and multi‑jurisdictional risk. Traditional private credit managers, while more flexible, often require uniformity in reporting maturity and collateralization that many founder‑led firms do not possess.
 
 The result is a fragmentation of capital pathways. Deals that would have cleared comfortably in 2016 now stall due to procedural friction rather than economic fundamentals. Sovereign allocators, equipped with mandate breadth, structural patience, and multi‑cycle orientation, are filling this gap with a distinct form of capital. Their focus is stability, geopolitical alignment, and long‑arc productive deployment.
@@ -22,7 +23,8 @@ This structural realignment has created three outcomes.
 • A demand for exit readiness engineering rather than simple financial packaging. 
 • An increased premium on operational transparency and governance maturity.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN MOMENTUM 
+
+ TECHNICAL MECHANICS OF SOVEREIGN MOMENTUM 
 Sovereign balance sheets behave differently from private equity or private credit structures. The distinctions are not cosmetic. They define the rhythms of transaction execution and the conditions under which capital is deployed.
 
 1. Mandate Permanence 
@@ -41,10 +43,9 @@ Sovereign capital has the capacity to operate without traditional leverage. This
 4. Political Neutrality and Stability Signaling 
 When a sovereign allocator enters a mid‑market transaction, counterparties interpret this as a stability signal. Suppliers, banks, and regulators understand that a national balance sheet implicitly reduces counterparty risk. This effect has measurable value, particularly in industries such as logistics, manufacturing, food processing, and infrastructure adjacent asset classes.
 
-PHASE 3: THE PARTNERSHIP MODEL OF ROIALS CAPITAL 
-Roials Capital operates as a strategic navigator within this environment. The firm is not the capital source. It functions as an institutional introduction mechanism connecting credible businesses with sovereign allocators whose mandates align with mid‑market structures. The value lies in filtration, calibration, and operational intelligence.
 
-Three functions define the partnership model.
+ THE PARTNERSHIP MODEL OF ROIALS CAPITAL 
+Roials Capital operates as a strategic navigator within this environment. The firm is not the capital source. It functions as an institutional introduction mechanism connecting credible businesses with sovereign allocators whose mandates align with mid‑market structures. The value lies in filtration, calibration, and operational intelligence.
 
 1. Transaction Hygiene 
 Most mid‑market firms operate with fragmented documentation, inconsistent financial control environments, and non‑standard governance protocols. This increases transaction friction and reduces the probability of clearing institutional processes. Roials Capital conducts operational triage, identifying structural bottlenecks that would otherwise disrupt momentum during due diligence.

@@ -45,8 +45,6 @@ And only a few founders understand its power.
 
 THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
 
-Three forces drive this evolution.
-
 1. The explosion of private data.  
 2. The compression of buyer bandwidth.  
 3. The rise of algorithmic screening.

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, nordic m&a, liquidity engineering
 
 The capital vacuum in the Nordic mid-market is a structural consequence of regulatory tightening and banking concentration, not a reflection of deteriorating enterprise quality. This disconnect between operational performance and capital availability has created one of the most predictable non cyclical financing inefficiencies in the European landscape. Nordic enterprises with disciplined cash generation and defensible market positioning routinely face elongated credit approvals, conservative collateral interpretation, and inconsistent underwriting velocity. The resulting delay suppresses deal readiness, stalls M&A execution, and converts otherwise high quality opportunities into stranded transactions.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 Nordic credit markets have entered a regime shift defined by three converging dynamics.
 
 First, regulated lenders now operate under compressed risk tolerance. Capital reserve constraints incentivize uniform lending, not strategic lending. This removes nuance from credit decisions and forces mid-market enterprises into generic credit boxes that do not reflect their operational reality.
@@ -22,7 +23,8 @@ Third, the Nordic corporate landscape is structurally dominated by high quality 
 
 The result is a persistent capital mismatch. The enterprises best positioned for disciplined growth and strategic consolidation are the ones most constrained by slow moving credit. This is the regime shift: capital velocity is declining at the same time that operational performance is improving.
 
-PHASE 2: TECHNICAL MECHANICS  
+
+ TECHNICAL MECHANICS  
 Precision private credit for Nordic operators is defined not by cost of capital but by structural engineering. The goal is to deliver financing structures that match the enterprise's strategic trajectory rather than generic bank templates. The mechanics fall into four categories.
 
 1. Liquidity Engineering  
@@ -37,7 +39,8 @@ Nordic enterprises preparing for M&A frequently suffer from misaligned seniority
 4. Exit Readiness Architecture  
 High intent M&A buyers in the Nordic region evaluate sellers not only on EBITDA and market positioning but on capital structure clarity. A robust and transparent financing framework eliminates negotiation drag. Precision financing establishes clean subordination, clear liabilities, and predictable cash flow patterns. This improves valuation defensibility and reduces the probability of price chips during diligence.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a strategic navigator rather than a balance sheet lender. Its role is to architect alignment between capital providers and Nordic enterprises by reducing friction, interpreting risk, and shaping the narrative into institutional form.
 
 For Nordic operators, Tactical Intelligence led by Jonas Hyltén applies four core disciplines.

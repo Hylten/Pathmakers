@@ -16,7 +16,8 @@ Quiet testing. Limited disclosure. Direct approaches. Clean data rooms. Intellig
 
 What follows is the internal brief-the structural view of why silent exits are surging and how they now function as the dominant path to exit readiness and off‑market origination.
 
-PHASE 1: INTERNAL LOGIC - PRIVATE BRIEFING
+
+ INTERNAL LOGIC - PRIVATE BRIEFING
 
 Begin with this: the market is fatigued by over‑orchestrated M&A. Bankers have turned the process itself into the product. The deck. The teaser. The NDA funnel. The buyer list. The management presentation. Identical. Predictable. Tiresome.
 
@@ -52,7 +53,8 @@ The surveillance layer of the modern mid‑market-the advisors monitoring databa
 
 That is where the new Pathmaker model enters.
 
-PHASE 2: PRINCIPAL VOICE - STRUCTURAL DEPTH
+
+ PRINCIPAL VOICE - STRUCTURAL DEPTH
 
 Define the core principle: founders must separate truth from noise before revealing intent. Silent exits grant them this ability.
 
@@ -83,7 +85,8 @@ The rise of silent exits is not a trend. It is a correction.
 
 It is the market punishing the theatrics of M&A and rewarding directness.
 
-PHASE 3: ADVANCED ARCHITECTURE - WHY THE SURGE IS ACCELERATING
+
+ ADVANCED ARCHITECTURE - WHY THE SURGE IS ACCELERATING
 
 Structural factor one: Strategic buyers now operate continuous acquisition engines. They sit on signals, not lists. They want to see off‑market opportunities before intermediaries package them.
 

@@ -75,7 +75,8 @@ Buyer Profile
 
 The acquirer is a German industrial buyout platform operating under a private equity Fund-III investment opportunities 2026 mandate. They require expansion into the Nordics to satisfy LP diversification criteria, to secure strategic foothold in energy infrastructure technologies, and to align with NAEOCC energy infrastructure investment themes.
 
-Phase 1: Pre Acquisition Mechanics
+
+ Pre Acquisition Mechanics
 
 A. Strategic Fit Analysis 
 The buyer identifies three critical synergies:
@@ -97,7 +98,8 @@ The buyer structures:
 - A 40 million EUR integration capex reserve funded from the buyer's capital raising for mid market buyout campaign.
 - A 50 million EUR currency hedge package to stabilize SEK to EUR movements over 36 months.
 
-Phase 2: Regulatory and Structural Execution
+
+ Regulatory and Structural Execution
 
 A. EU MiFID II firm acquisitions complexity 
 While the target is not directly regulated under MiFID II, certain software modules intersect with data reporting obligations for utilities. The buyer must:
@@ -111,7 +113,8 @@ Nordic labor councils require early engagement. The buyer conducts:
 - Transparency briefings outlining long term investment from the German platform.
 - Structured communication plans with key engineering teams to prevent attrition.
 
-Phase 3: Post Close Integration
+
+ Post Close Integration
 
 A. Operational Hardening 
 The buyer deploys a three wave integration plan:

@@ -51,7 +51,6 @@ PE firms are not losing to competitors. They are losing to confusion. They are l
 
 One fact stands above the rest: the best deals in the mid‑market are not hiding. They are simply not framed. Not prepared. Not positioned for institutional engagement. Exit readiness is not a pitch deck. It is a behavioral architecture.
 
-Three words.  
 Structure creates intent.
 
 You can speak directly. Owners trust it. Investors depend on it. And intermediaries wish they could replicate it. You cannot fabricate high-intent sellers by marketing harder. You cultivate them by shaping their internal logic. By aligning incentives. By clarifying thresholds. By translating their operational language into transaction language.

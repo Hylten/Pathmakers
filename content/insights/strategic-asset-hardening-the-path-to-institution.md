@@ -33,8 +33,6 @@ Before discussing tactics, one must understand the institutional lens.
 
 A General Partner does not assess a company as an operator. A GP assesses it as a future asset under management. Every element is measured against friction, clarity, covenant structure, and execution capacity.
 
-Three filters are constant.
-
 • Predictability 
 • Transferability 
 • Scalability 

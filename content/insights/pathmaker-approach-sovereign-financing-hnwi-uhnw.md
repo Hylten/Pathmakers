@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, sovereign financing, private credit, liquidity en
 
 The capital vacuum distorting transcontinental mid market transactions is a structural consequence of regulatory compression across European banking systems rather than any decline in acquisition demand. The institutions did not withdraw due to risk escalation. They withdrew because the regulatory burden on traditional credit creation increased faster than balance sheet adaptability. The Pathmaker model exists to navigate this imbalance by constructing sovereign aligned capital corridors that reduce transaction latency at the portfolio company level.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 European and global HNWI and UHNW balance sheets are operating within a new macro regime. The shift is defined by three interlinked transitions:
 
@@ -25,7 +26,8 @@ Capital once accelerated toward growth is now static. Sellers expect enterprise 
 
 The regime shift therefore rewards actors capable of engineering velocity, not merely providing capital. The Pathmaker framework is the velocity engine. It establishes acquisition readiness, exit optionality, and sovereign grade compliance infrastructure before any transaction is presented. This converts a historically reactive financing environment into a pre-optimised ecosystem where the allocation journey is defined before the capital enters.
 
-PHASE 2: TECHNICAL MECHANICS OF THE PATHMAKER ARCHITECTURE
+
+ TECHNICAL MECHANICS OF THE PATHMAKER ARCHITECTURE
 
 The Pathmaker model is built on structural clarity. It is not an investment product. It is a readiness architecture for families, mid market owners, and institutional allocators who require sovereign aligned pathways. Its mechanics are defined by four technical pillars.
 
@@ -52,7 +54,8 @@ These structures do not circumvent European regulation. They operate parallel to
 4. Opportunity Velocity and The Institutional Archetype 
 Every allocator operates with an implicit archetype. Sovereigns prioritize stability. UHNWIs prioritize discretion. Private equity prioritizes control. Pathmaker aligns the asset with the archetype before engagement. This removes the common deal friction where the counterparty’s underlying motive is misinterpreted. By calibrating deal structure to archetype alignment, execution speed increases and valuation risk decreases.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital acts as the strategic navigator within this architecture. Its mandate is not capital provision. It is institutional navigation and counterpart alignment. The firm functions as an introducer, strategist, and structural translator between European family enterprises and global capital ecosystems.
 

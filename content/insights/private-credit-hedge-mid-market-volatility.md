@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset 
 
 The structural gap in the European and North American mid market is not the lack of buyers. It is the absence of stable liquidity bridges capable of reducing execution drag and neutralising valuation volatility. Private credit fills that vacuum with precision because it replaces transactional uncertainty with engineered optionality. In a fragmented mid market marked by inconsistent data hygiene, uneven governance standards, and widening bid ask spreads, the capital that can control timing becomes the dominant force.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The mid market has entered a new regime defined by liquidity fragmentation, valuation compression, and episodic volatility across M&A pipelines. This regime is not a cyclical dip. It is a structural transition driven by four macro level shifts:
 
@@ -26,7 +27,8 @@ This divergence is why private credit has emerged as a strategic hedge. It reduc
 
 The contemporary allocator recognises that the mid market no longer rewards speed alone. It rewards optionality, timing control, and liquidity architecture. This is the environment where private credit operates as an M&A stabiliser.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Private credit, when structured as a volatility hedge in the M&A cycle, does not behave like traditional acquisition financing. It is an instrument for strategic sequencing. The mechanics operate across four technical vectors.
 
@@ -70,7 +72,8 @@ This is particularly effective in:
 
 Private credit does not replace M&A strategy. It amplifies the timing power of the acquirer.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator, not a lender. The role is to calibrate institutional sponsors, family principals, and mid market operators toward the correct liquidity architecture relative to their intended transaction. Roials Capital evaluates the operational perimeter, governance maturity, balance sheet posture, and trajectory of the business, then aligns the client with a private credit structure engineered for their specific volatility profile.
 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The structural gap defining healthcare logistics in 2026 is not a function of asset scarcity. It is a consequence of regulatory compression, margin standardization, and fragmented credit interpretation across mid-market operators. The capital vacuum forming inside this subsector reflects a divergence between operational reliability and lender risk perception. The cycle is clear: high predictability of receivables, high repeatability of contracted flows, and low standardization of lender underwriting. This misalignment is not cyclical economics but institutional calibration drift.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 Healthcare logistics has entered a regime where the movement of medical supplies, pharmaceuticals, diagnostic equipment, and temperature controlled items operates under higher compliance scrutiny and rising working capital load. Demand accelerates as aging populations expand intake volumes, yet balance sheets remain trapped between contract timing and regulatory service guarantees. The capital inefficiency emerges from three forces.
 
 * First, regulatory load elongates DSO cycles while forcing higher inventory obligations.  
@@ -20,7 +21,8 @@ Healthcare logistics has entered a regime where the movement of medical supplies
 
 The macro environment compounds this. Larger strategics continue consolidating distribution channels. Private equity sponsors prioritize bolt-ons that can be integrated into national or regional networks. This climate elevates the strategic value of reliable working capital. Liquidity is no longer a treasury accessory. It is an operational instrument that directly controls acquisition timing, procurement continuity, and regulatory fulfillment risk. Healthcare logistics platforms that fail to engineer liquidity become non participants in off market M&A despite having strong underlying cash flow quality.
 
-PHASE 2: TECHNICAL MECHANICS  
+
+ TECHNICAL MECHANICS  
 Asset based lending inside healthcare logistics requires a more precise interpretation of collateral behavior than legacy Asset-Based Lending frameworks assume. The sector generates institutional grade collateral but presents it in operational, not financial, form. Understanding the conversion pathway is the central technical challenge.
 
 Accounts receivable liquidity operates under compliance bounded structures. Receivables tied to government payors often carry longer terms but lower default volatility. Receivables tied to hospital systems carry predictable payment mechanics due to standardized procurement workflows. Pharmaceutical distribution receivables track drug movement patterns with low variability. These are not general corporate receivables. They are regulated demand chains with quantifiable conversion windows. The gap lies in lender interpretation, not collateral quality. Proper Asset-Based Lending architecture differentiates receivable classes and applies weighted eligibility curves that reflect contractual friction rather than generic aging buckets.
@@ -33,7 +35,8 @@ On the cash flow side, the Asset-Based Lending structure reduces friction by con
 
 Exit readiness depends on predictable working capital and transparent operational collateral. M&A processes fail not because the buyer lacks interest but because diligence uncovers inconsistent liquidity maps, mismatched reporting, incomplete collateral documentation, or gaps in inventory compliance alignment. Strategic Asset-Based Lending corrects these deficiencies. It converts operational intelligence into institutional documentation. It neutralizes buyer uncertainty. It removes friction from the diligence timeline.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a strategic navigator rather than a lending entity. The mandate is not capital deployment. It is structural alignment, de friction of transactions, and the identification of credit archetypes suitable for healthcare logistics platforms with real operational complexity. The role is to translate operational reality into institutional legibility.
 
 The capital partners we align with specialize in regulated working capital systems, collateral verification, and liquidity engineering across healthcare distribution. They apply eligibility matrices tailored to compliance cycles and operational cadence. Their focus is not yield extraction but structural precision. This reduces frictions during borrowing base audits, increases the predictability of capital availability, and enhances exit readiness.

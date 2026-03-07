@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum across Europe and North America’s mid‑market is a direct result of regulatory drift and bank retrenchment rather than borrower degradation. This structural gap has created one of the most strategically mispriced environments for institutional private credit in the last two decades. The borrower quality remains stable, but liquidity distribution has become asymmetric. The institutional lender who understands how to align credit with exit readiness, operational hardening, and M&A friction removal is positioned to access a deal flow archetype that has become increasingly inaccessible to traditional banks.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private credit is no longer operating as a satellite asset class. In both Europe and North America, it has become a primary liquidity engine for mid‑market corporate expansion. Three forces define the regime shift:
 
@@ -26,7 +27,8 @@ Institutional private credit has ceased to be pro‑cyclical. The capital scarci
 
 In this new regime, private credit is functioning as a growth enabler, a catalyst for exit preparation, and a mechanism for reducing M&A friction. It is no longer only an instrument for leverage; it has become an instrument for institutional alignment.
 
-PHASE 2: TECHNICAL MECHANICS OF MID‑MARKET PRIVATE CREDIT
+
+ TECHNICAL MECHANICS OF MID‑MARKET PRIVATE CREDIT
 
 The mid‑market is not monolithic. Its credit requirements cannot be addressed effectively through generic term sheets. Precision engineering in the capital structure is essential. Four mechanical components define the category.
 
@@ -61,7 +63,8 @@ This process increases the probability and speed of a transaction without distor
 
 When executed correctly, private credit becomes a tool for strategic velocity. Not leverage. Not opportunism. Velocity.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as an institutional navigator within this environment. The strategic mission is not capital provision. It is alignment engineering. The role involves:
 

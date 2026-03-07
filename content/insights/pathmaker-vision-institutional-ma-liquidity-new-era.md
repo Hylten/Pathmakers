@@ -13,7 +13,8 @@ The structural gap in global M&A is not a shortage of acquirers. It is a shortag
 
 This briefing frames the operational logic of the Pathmaker Vision. It is designed for investors and acquirers who understand that contemporary M&A dynamics in Europe and North America are shaped by regulatory drift, demographic stress on owner operated companies, and capital constraints that disproportionately affect sub 200 million enterprise value assets. The companies most affected are those with technical strength but insufficient structural readiness. This is the precise locus where modern Institutional Liquidity Paths creates advantage.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The present M&A regime is defined by four convergent forces.
 
@@ -31,7 +32,8 @@ A majority of high intent transactions do not originate through public brokers o
 
 These macro drivers produce a simple institutional truth: M&A friction has increased, but the appetite for structurally prepared companies has intensified. The Pathmaker model exists to convert this imbalance into clarity and alignment.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The Pathmaker Vision is not a marketing philosophy. It is an operational architecture anchored in three technical disciplines: exit readiness, structural de friction, and transaction acceleration. Each reflects a specific need within the mid market ecosystem.
 
@@ -75,7 +77,8 @@ Time is the most valuable commodity in institutional M&A. Prolonged transaction 
 
 The result is a process where the counterparty sees clarity instead of complexity. This is where opportunity velocity is created.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within the global capital arena. Pathmaker, as a specialized division, focuses on European and Nordic M&A friction points. The alignment is deliberate. Roials Capital provides global intelligence, multi jurisdictional structuring knowledge, and capital pathway design. Pathmaker provides operational readiness, seller side preparation, and off market origination.
 

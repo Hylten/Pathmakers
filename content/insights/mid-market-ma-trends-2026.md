@@ -49,10 +49,6 @@ Healthcare sits in a category of its own. High demand. High complexity. High sen
  
  
 ### What Is Actually Moving in 2026 
-Three mid-market segments are driving most of the closed deal volume.
-
- 
- 
 1. Healthcare carve-outs that reduce administrative load for hospitals and large systems 
 2. Industrial and logistics assets with recurring contracts 
 3. Software platforms with stable mid-market retention, not hypergrowth narratives 
@@ -165,10 +161,6 @@ Buyers who understand the operational grit of healthcare, including credentialin
  
  
 ### What Makes Healthcare Carve-Outs Attractive 
-Three factors explain the sustained interest.
-
- 
- 
 1. High demand for services regardless of macro cycles 
 2. Strong reimbursement visibility in regulated sub-sectors 
 3. Immediate operational improvements available in administrative workflows 

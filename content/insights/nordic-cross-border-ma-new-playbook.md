@@ -33,11 +33,11 @@ The Nordic region’s competitive advantage used to be stability. Today, it is h
 
 Cross‑border buyers want predictable governance. Hard numbers. Clean entity structures. Clear labor frameworks. Stable regulatory maps. Nordic sellers often offer strong fundamentals but fragmented documentation, region-specific policies, and personnel cultures built on implicit norms rather than explicit systems. This causes valuation haircuts-not due to performance but due to interpretability loss.
 
-Interpretability loss is the new silent discount factor. Three to seven percent valuation erosion. Per deal. Avoidable. Recurring. Structural.
+Interpretability loss is the new silent discount factor. Per deal. Avoidable. Recurring. Structural.
 
 Exit readiness neutralizes it. Exit readiness converts implicit value into explicit signals. The kind analysts trust. The kind principals invest into. Exit readiness is not a “preparation phase”. It is a design discipline. A structural asset.
 
-Four readiness layers define Nordic sell‑side excellence:
+
 • Financial clarity. 
 • Operational codification. 
 • Governance architecture. 
@@ -120,7 +120,7 @@ Nordic deal winters do not exist. Only unprepared sellers. Valuations rise and f
 
 Exit readiness reduces the effect of macro headwinds. It does not eliminate them. But it does ensure that when the window opens, the firm is positioned to execute instantly. This instant-execution capability is where the largest value differential occurs.
 
-Three truths define modern Nordic exits:
+
 • Buyers pay for compression. 
 • Readiness is a premium asset. 
 • Timing favors the engineered. 

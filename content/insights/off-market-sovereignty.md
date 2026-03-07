@@ -99,8 +99,6 @@ THE PATHMAKER ARCHITECTURE
 
 Pathmaker exists to remove friction. To accelerate deal readiness. To help founders control the timeline, not be controlled by it. To create the environment where the buyer sees a clean path to execution and the seller avoids dilution of narrative and dilution of authority.
 
-Three layers matter most.
-
 Layer One: Pre‑Market Diagnostic  
 We run a structural audit: financial validation, operational readiness, customer concentration, pricing logic, backlog integrity, leadership depth. Not as a report. As a blueprint. The founder receives clarity in compressed form.
 

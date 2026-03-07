@@ -18,7 +18,8 @@ This briefing dissects the mechanics with precision. No abstractions. No platitu
 
 ---
 
-PHASE 1: INTERNAL LOGIC - PRIVATE BRIEFING  
+
+ INTERNAL LOGIC - PRIVATE BRIEFING  
 The pattern is stable across North America and Europe: mid‑market operators still believe the financial model is a dashboard. A scoreboard. A compliance document. A way to communicate top‑line and margin trajectory.
  Wrong frame. Wrong function. Wrong architecture.  
 

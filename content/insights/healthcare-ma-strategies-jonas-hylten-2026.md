@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural gap defining European healthcare M&A in 2026 is a capital sequencing failure rather than an asset scarcity problem. Most operators are not blocked by demand constraints. The friction sits in fragmented ownership, under-documented operations, and a widening execution gulf between institutional buyers and mid-market private providers. This gap has created a persistent pricing arbitrage where assets with institutional fundamentals still transact at mid-market valuations because they never reach institutional readiness.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 European healthcare has shifted from capacity-driven growth to precision consolidation. Demographic pull is steady, but capital formation has not kept pace with regulatory tightening, aging infrastructure, and escalating clinical labor constraints. This regime shift is defined by:
 
@@ -22,7 +23,8 @@ European healthcare has shifted from capacity-driven growth to precision consoli
 
 The constraint is not capital. The constraint is institutional investability. The dominant variable in 2026 is not EBITDA. The dominant variable is integration friction. Operators who do not eliminate that friction remain invisible to strategic buyers and private equity platforms.
 
-PHASE 2: TECHNICAL MECHANICS OF HEALTHCARE M&A EXECUTION
+
+ TECHNICAL MECHANICS OF HEALTHCARE M&A EXECUTION
 
 Healthcare M&A does not behave like general corporate acquisitions. Sector-specific constraints define the mechanics of value formation and value leakage. European operators seeking to transact under the new regime must understand seven structural mechanics.
 
@@ -102,7 +104,8 @@ The most sophisticated buyers prioritize off-market pathways because the public 
 
 Off-market origination is not about secrecy. It is about structural clarity. Buyers trust calibrated pathways more than open-market noise.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator in healthcare consolidation, with a mandate centered on balance sheet optimization, friction removal, and institutional alignment. The role is not to promote assets. The role is to architect clarity so that institutional buyers can evaluate operators without friction.
 

@@ -23,8 +23,6 @@ The shift begins with compression. Compressed diligence windows. Compressed mark
 
 Institutional-grade exit readiness is, at its core, an architecture of clarity. It is the uncompromising alignment between internal operations, financial truth, and verifiable pathways of future value creation. The family offices emerging as dominant actors understand this better than most. They no longer search for deals. They search for certainty. They search for firms where friction is already resolved.
 
-Three truths define the new hierarchy in 2026.
-
 First truth: Auditability is the currency of trust.  
 If a company cannot open its books, systems, customer concentration, margin attribution, and forward contract pipeline without scrambling, it is not investable in the current cycle. Family offices are not chasing complexity. They are eliminating it. They want institutional-grade clarity without institutional bureaucracy.
 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The contraction in mid-market credit availability is not a function of deteriorating operating performance. It is a function of regulatory hardening, lender retrenchment, and structural mispricing of execution risk. This is the underlying driver of the present M&A dislocation. Enterprises with viable cash flow architecture are encountering a capital grid that is fundamentally misaligned with their operational reality. The result is a widening gap between asset quality and transaction feasibility.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The mid-market M&A environment across Europe and North America is moving through a regime transition. The pre 2020 capital landscape was defined by abundant leverage, compressed diligence timelines, and an oversupply of buyers willing to price aggressive forward EBITDA assumptions. The post 2023 framework is structurally different. The institutions controlling the flow of credit have recalibrated their tolerance for uncertainty and placed heavier emphasis on covenants, documentation accuracy, and verified cash flow durability.
 
@@ -26,7 +27,8 @@ The result is a gridlock where even well managed companies experience valuation 
 
 This regime shift has created an environment where off market intelligence, pre diligence restructuring, and operational integrity dictate transaction velocity. The market is no longer rewarding size or brand. It is rewarding structural readiness.
 
-PHASE 2: TECHNICAL MECHANICS OF MID MARKET M&A IN 2026
+
+ TECHNICAL MECHANICS OF MID MARKET M&A IN 2026
 
 The mid market ecosystem consists of operators who often possess strong client retention, defensible cash flow, and deep domain expertise. What they frequently lack is transaction grade documentation, institutional accounting cadence, and the operational discipline required for cross border acquisition processes. This is the friction that degrades valuations.
 
@@ -53,7 +55,8 @@ The tactical edge lies in correcting these issues before the company enters a bu
 
 This is where the concept of M&A Warfare becomes relevant. It is not about aggression. It is about discipline, sequencing, operational alignment, and elimination of friction points before discovery.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator within this environment. The role is not to operate the business or dictate capital decisions. The role is to create structural clarity so institutional buyers can evaluate the asset without friction. This reduces the asymmetry between the seller's expectations and the market's actual mechanics.
 

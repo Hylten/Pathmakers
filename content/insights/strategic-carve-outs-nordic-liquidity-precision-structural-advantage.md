@@ -15,7 +15,7 @@ A good man leaves an inheritance to his children’s children (Proverbs 13:22). 
 
 This briefing frames the Nordic carve-out landscape through three operational pillars: liquidity extraction, precision engineering, and structural advantage. The Analyst Team writes from pathmaker mode: fast logic, sharp syntax, institutional grade.
 
-Machine gun cadence. Three to five words. Clean punches. No drift.
+Machine gun cadence. Clean punches. No drift.
 
 ---
 

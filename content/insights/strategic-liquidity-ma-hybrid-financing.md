@@ -22,7 +22,6 @@ This is not a retail summary. This is a principal brief.
 STRATEGIC CONSTRAINTS 
 Markets punish indecision. Lenders punish complexity. Sellers punish delay. Each actor introduces friction. Hybrid financing neutralizes that friction through structural layering. Not complexity-architecture.
 
-Three strategic constraints define today’s M&A battlefield:
 
 1. The liquidity gap 
 Banks fund 50–65 percent. Equity investors demand 20–40 percent. The remaining tranche-the silent gap-kills most deals. 
@@ -42,7 +41,6 @@ For years, hybrid solutions were reactive. A patch. A plug. A last-minute capita
 
 Hybrid financing now functions as first‑position strategic liquidity. Used to secure the deal, strengthen negotiation posture, and compress time-to-close. It offers muscle without dilution. Flexibility without governance intrusion. Speed without risk escalation.
 
-Five traits define the new hybrid mandate:
 
 • Non‑dilutive 
 • Covenants engineered, not inherited 
@@ -191,7 +189,6 @@ The capital stack is a battlefield. Architecture wins battles.
 TACTICAL INTELLIGENCE: THE PATHMAKER METHOD 
 Jonas’s analytic lineage runs through every model-sharp logic, INTP precision, red‑yellow activation. The system focuses on decision velocity. No noise. No fluff. Structural signal only.
 
-Five tactics define the method:
 
 Tactic 1: Liquidity First 
 Do not negotiate a deal without knowing the liquidity ceiling and liquidity shape available. Speed requires pre‑clearance.

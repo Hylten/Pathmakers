@@ -127,9 +127,7 @@ A pipeline has direction.
 
 A pipeline is optimized for speed without chaos.
 
-UHNW investors need this because their time scarcity is absolute. A thousand opportunities are useless. Ten wrong opportunities are costly. Three correct opportunities per quarter-curated, validated, sequenced-are ideal.
-
-Pipeline pace is matched to investor capacity.  
+UHNW investors need this because their time scarcity is absolute. A thousand opportunities are useless. Ten wrong opportunities are costly. Pipeline pace is matched to investor capacity.  
 Pipeline quality is matched to investor discipline.  
 Pipeline precision is matched to investor ambition.
 

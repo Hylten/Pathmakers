@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The persistent capital friction observed in the European mid-market spin-off environment is a structural consequence of regulatory compression and banking retrenchment rather than a lack of viable operating assets. This disconnect continues to generate an execution bottleneck where high quality divisions remain trapped inside conglomerates because the separation capital, transition liquidity, and interim credit architecture cannot be assembled with sufficient precision. The operational assets are frequently sound. The constraint emerges in the sequencing of liabilities, the construction of ringfenced cash-flow frameworks, and the need for a disciplined interregnum structure that absorbs integration risk without degrading enterprise value.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 European mid-market corporate architecture has entered a regime defined by an expanding delta between asset quality and capital availability. Basel-driven balance sheet compression among legacy lenders has reduced the willingness to underwrite transitional credit for carve-outs, especially those that demand multi-phase operational separation or the build-out of standalone corporate functions. This is most visible in industrials, healthcare platforms, precision manufacturing, and business services. The assets continue to demonstrate strong order books, recurring revenue streams, and identifiable working-capital cycles. The dislocation emerges in the structural inability of traditional lenders to accommodate separation risk within current regulatory capital charges.
 
@@ -19,7 +20,8 @@ At the same time, conglomerates face intensifying shareholder pressure to decons
 
 This is the inflection point where liquidity engineering becomes the determining factor. The ability to construct a balanced, multi-layered credit architecture tailored specifically for separation events is increasingly the primary driver of whether an asset transitions into a stand-alone company with institutional-grade governance or remains stranded within a diversified holding.
 
-PHASE 2: TECHNICAL MECHANICS OF SPIN-OFF FINANCING
+
+ TECHNICAL MECHANICS OF SPIN-OFF FINANCING
 
 Complex spin-offs require a structured sequence of capital interventions that differ materially from traditional buyouts. The mandate is not simply to purchase an asset. The mandate is to reconstruct an operational identity that has never existed independently. The financing model therefore must incorporate operational separation, transitional risk mitigation, and immediate balance sheet calibration.
 
@@ -43,7 +45,8 @@ Asset hardening is the process of converting operational assets, intellectual pr
 6. Opportunity Velocity  
 Spin-offs operate under temporal compression. Parent companies typically require rapid execution to reduce complexity and redeploy management bandwidth. Opportunity velocity refers to the speed at which a buyer can assemble and deploy a complete financing architecture that satisfies both the parent’s requirements and the transitional necessities of the division. In high intent transactions, opportunity velocity is often the differentiator between securing proprietary access or losing the asset to a faster counterparty.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator rather than as an asset acquirer. The mandate is institutional alignment, the reduction of execution friction, and the orchestration of introductions between capital providers, operators, and buyers who require a neutral partner capable of structuring multi-lateral transactions. In the context of mid-market spin-offs, the role is to identify the capital architecture that allows the division to transition cleanly from parent to new ownership without degrading value or introducing structural risk.
 

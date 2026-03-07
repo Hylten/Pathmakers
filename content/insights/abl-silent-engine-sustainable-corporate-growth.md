@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, as
 
 Structural displacement in corporate finance is not driven by scarcity of capital. It is driven by the misalignment between traditional underwriting models and the operational volatility of the post-2023 enterprise. Asset Based Lending has expanded because it relies on measurable asset integrity rather than sentiment-driven credit committees. This shift has redefined how mid-market companies secure working capital, absorb shocks, and prepare for M&A events without risking balance sheet fragility.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post-tightening cycle created a bifurcated capital landscape. Policy rate elevation and regulatory intensity pushed commercial banks toward conservative risk postures. The result was a capital vacuum, not in distressed sectors, but in productive, cash generative industrial companies whose balance sheet assets far exceeded their unsecured credit scores.
 
@@ -19,7 +20,8 @@ The European and Nordic sectors illustrate this clearly. Manufacturing, logistic
 
 Asset Based Lending emerged as the only instrument that allowed operational continuity without forcing premature equity dilution or distressed divestitures. The mechanism is simple. Institutions align lending capacity to physical and financial asset integrity. This transforms dormant balance sheet items into liquidity engines.
 
-PHASE 2: TECHNICAL MECHANICS OF Asset-Based Lending
+
+ TECHNICAL MECHANICS OF Asset-Based Lending
 
 Asset-Based Lending functions on quantifiable collateral. The sophistication lies not in leverage, but in calibration. Properly structured Asset-Based Lending instruments track real asset conversion cycles, enforce disciplined monitoring, and neutralize liquidity volatility.
 
@@ -42,7 +44,8 @@ Instead of broad ratio covenants, Asset-Based Lending applies operational trigge
 
 The technical results are consistent. Companies stabilize their liquidity cycle. Suppliers experience reduced payment delays. Production schedules normalise. Procurement confidence increases. The organisation transitions from reactive to strategic.
 
-PHASE 3: WHY Asset-Based Lending IS OUTPERFORMING TRADITIONAL CREDIT AS A CORPORATE GROWTH ENGINE
+
+ WHY Asset-Based Lending IS OUTPERFORMING TRADITIONAL CREDIT AS A CORPORATE GROWTH ENGINE
 
 Several structural advantages now define Asset-Based Lending as a superior instrument for sustainable expansion:
 

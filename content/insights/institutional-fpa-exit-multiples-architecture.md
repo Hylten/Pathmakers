@@ -14,7 +14,8 @@ This briefing restores the balance of power.
 
 Internal only. No embellishment.
 
-PHASE 1: INTERNAL LOGIC - THE STRUCTURAL CORE
+
+ INTERNAL LOGIC - THE STRUCTURAL CORE
 Institutional acquirers do not pay premiums for narratives. They pay for clarity. They pay for repeatability. They pay for systems whose outputs allow a CFO, a credit committee, or an investment committee to trust the forward curve of the business. Trust, in this context, is not emotional; it is architectural.
 
 Three conditions form the covenant:
@@ -111,7 +112,8 @@ Deal certainty is not emotional; it is procedural. A prepared company accelerate
 
 Institutional-grade FP&A is preparation. Preparation is power.
 
-PHASE 2: PRINCIPAL VOICE - THE ARCHITECTURAL TONE
+
+ PRINCIPAL VOICE - THE ARCHITECTURAL TONE
 Mid‑market operators fall because they underestimate how much institutional buyers depend on predictability. Predictability is stewardship. Predictability is governance. Predictability is value creation in its purest form.
 
 The market rewards the stewards.
@@ -130,7 +132,8 @@ When you raise the multiple, you build generational outcomes.
 
 This is the architect’s work.
 
-PHASE 3: THE INTERNAL BYPASS - THE ADVANCED STRUCTURAL ANALYSIS
+
+ THE INTERNAL BYPASS - THE ADVANCED STRUCTURAL ANALYSIS
 We now transition to the deep mechanics. This is not commentary; this is institutional architecture.
 
 A company preparing for an exit must assume three realities:

@@ -23,7 +23,8 @@ The following is the internal brief.
 
 ---
 
-INTERNAL LOGIC, PHASE 1: PRIVATE BRIEFING ON STRUCTURAL FATIGUE  
+INTERNAL LOGIC, 
+ PRIVATE BRIEFING ON STRUCTURAL FATIGUE  
 Not a public explainer. Not a marketing gloss. A vault document.
 
 Buyers are not exhausted because they lack capital, opportunities, or mandate alignment. Buyer fatigue is erupting because the deal environment has inverted the burden of clarity. Sellers push incomplete data rooms. Advisors assemble surface-level narratives. Buyers must excavate the truth themselves. That inversion is unsustainable.
@@ -56,7 +57,8 @@ True Tactical Intelligence does not “improve the pitch.” It eliminates the s
 
 ---
 
-INTERNAL TONE, PHASE 2: PRINCIPAL VOICE  
+INTERNAL TONE, 
+ PRINCIPAL VOICE  
 A Principal states the architecture.  
 A Principal does not persuade.  
 A Principal clarifies.
@@ -64,8 +66,6 @@ A Principal clarifies.
 The mid-market is not failing. It is recalibrating.  
 Signal wins. Noise dies.  
 The disciplined rise.
-
-Three words: Exit Readiness Architecture.
 
 This is the core lever. When a seller enters a buyer’s field with pre‑aligned financial integrity, clean operational logic, and a defensible narrative, fatigue evaporates instantly. The buyer’s mind moves from resistance to curiosity. From skepticism to strategic evaluation.
 
@@ -92,7 +92,8 @@ Tactical Intelligence restores the ratio.
 ---
 
 STRUCTURAL DEEP DIVE: THE ARCHITECTURE BEHIND BUYER FATIGUE  
-(Phase 3: Expanded analytical section - long-form technical breakdown)
+(
+ Expanded analytical section - long-form technical breakdown)
 
 The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down. Mandates are abundant; closable deals are scarce. The Analyst Team has studied over 400 mid‑market pipelines in the last three cycles. The structural patterns repeat with uncanny consistency.
 

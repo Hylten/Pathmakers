@@ -106,8 +106,7 @@ Consider the operator evaluating acquisition targets in Germany, Sweden, and Spa
 
 The correct approach: build three distinct financing stacks for the same acquisition thesis. Optimize leverage per jurisdiction. Blend rates. Compress overall cost of capital. Use Asset-Based Lending precision as the stabilizer. Use acquisition financing as the expansion vector. Translate collateral advantage into acquisition velocity.
 
-Machine gun clarity.  One deal. Three markets. Three stacks. 
-One optimized capital curve. 
+Machine gun clarity.  One deal. One optimized capital curve. 
 
 Cross‑border transactions fail for predictable reasons: 
 • Misaligned working‑capital assumptions. 

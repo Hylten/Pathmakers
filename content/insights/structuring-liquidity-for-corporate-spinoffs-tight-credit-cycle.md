@@ -13,7 +13,8 @@ The capital vacuum in the 2026 credit regime is the result of procyclical deleve
 
 This briefing outlines how complex corporate spinoffs can be structured, financed, and executed in the tightest credit environment in a decade. The framework emphasizes neutrality, operational truth, and balance sheet architecture. The focus is exit readiness, M&A friction removal, and tactical navigation for mid market operators who require institutional grade precision without institutional bureaucracy.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The 2026 credit cycle is defined by three variables that shape every spinoff or carve out event.
 
@@ -28,7 +29,8 @@ What was tolerated in 2019 is rejected in 2026. Intercompany loans, undefined tr
 
 This is the macro context in which liquidity must be engineered. Spinoffs that align with the new constraints transact. Spinoffs that rely on legacy liquidity assumptions stagnate.
 
-PHASE 2: TECHNICAL MECHANICS OF SPINOFF LIQUIDITY IN A TIGHT CREDIT REGIME
+
+ TECHNICAL MECHANICS OF SPINOFF LIQUIDITY IN A TIGHT CREDIT REGIME
 
 Liquidity engineering in corporate carve outs is a discipline of converting operational complexity into financial clarity. The technical mechanics can be grouped into six institutional vectors.
 
@@ -84,7 +86,8 @@ The degree of documentation completeness determines the degree of buyer confiden
 6. Market Discovery Without Market Exposure  
 In tight credit cycles, public auctions destroy value. High intent buyers prefer off market or lightly shopped transactions where informational leakage is controlled. Operators who fail to control market exposure experience price decay and extended timelines. The optimal strategy is curated introductions, not broad solicitation.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. For corporate spinoffs, the model follows four principles.
 
