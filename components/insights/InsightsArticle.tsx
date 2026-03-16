@@ -138,22 +138,23 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                 )}
             </header>
 
-            <div className="article-content" style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '1.1rem', fontWeight: 300 }}>
+            <div className="article-content" style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '1.2rem', fontWeight: 300, fontFamily: "'Inter', sans-serif" }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
 
             <style>{`
-                .article-content { line-height: 2.2; }
+                .article-content { line-height: 2.2; -webkit-font-smoothing: antialiased; }
                 .article-content p { margin-bottom: 3.5rem; }
-                .article-content h2 { font-family: serif; font-size: 2.4rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.3; }
-                .article-content h3 { font-family: serif; font-size: 1.7rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; }
+                .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.2; font-weight: 300; }
+                .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
                 .article-content li { margin-bottom: 1.5rem; }
                 .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
                 .article-content strong { color: #fff; font-weight: 500; }
-                .article-content a { color: #E2AD33; text-decoration: underline; }
+                .article-content a { color: #E2AD33; text-decoration: underline; text-underline-offset: 4px; }
+                .article-content blockquote { border-left: 1px solid #E2AD33; padding-left: 1.5rem; margin: 4.5rem 0; font-style: italic; color: rgba(255, 255, 255, 0.5); }
             `}</style>
 
             <footer className="mt-16 text-center">
