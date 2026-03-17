@@ -4,7 +4,7 @@ description: "A high‑end strategic guide for HNWI and UHNW investors on liquid
 date: "2025-09-20"
 author: "Jonas Hyltén"
 slug: "structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle"
----
+--- 
 
 # Structuring Liquidity for Complex Corporate Spinoffs Corporate spinoffs are rarely graceful events.
 

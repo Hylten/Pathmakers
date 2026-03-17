@@ -4,7 +4,7 @@ description: "Institutional briefing on how asset based lending structures reduc
 date: "2026-01-18"
 author: "Jonas Hyltén"
 slug: "asset-based-lending-precision-infrastructure-spin-offs"
----
+--- 
 
 The capital vacuum in North American and European industrial markets is a function of regulatory compression and banking retrenchment, not operational underperformance.
 

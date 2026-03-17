@@ -4,7 +4,7 @@ description: "Institutional briefing on asset based lending as a transaction acc
 date: "2026-01-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-in-ma-uhnw-abl-velocity"
----
+--- 
 
 The structural gap in mid market M&A velocity is not caused by a shortage of buyers.
 

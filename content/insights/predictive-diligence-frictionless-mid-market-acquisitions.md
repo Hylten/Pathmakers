@@ -4,7 +4,7 @@ description: "How Pathmaker uses predictive diligence to compress timelines, exp
 date: "2026-01-04"
 author: "Pathmaker Analyst Group"
 slug: "predictive-diligence-frictionless-mid-market-acquisitions"
----
+--- 
 
 Predictive diligence is no longer a novelty.
 

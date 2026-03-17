@@ -4,7 +4,7 @@ description: "Tactical Due Diligence: Hardening Assets For Gp Ac"
 date: "2025-12-25"
 author: "Jonas Hyltén"
 slug: "tactical-due-diligence-hardening-assets-for-gp-ac"
----
+--- 
 
 # Tactical Due Diligence Hardening Assets for GP Acquisition The mid-market battlefield rewards the prepared.
 

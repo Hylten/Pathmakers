@@ -4,7 +4,7 @@ description: "How HNWI and UHNW investors create liquidity for healthcare carve-
 date: "2025-11-28"
 author: "Jonas Hyltén"
 slug: "financing-healthcare-carve-outs-with-hybrid-asset-collateral"
----
+--- 
 
 # Financing Healthcare Carve-Outs with Hybrid Asset Collateral Healthcare carve-outs are not clean.
 

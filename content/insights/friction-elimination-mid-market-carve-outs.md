@@ -4,7 +4,7 @@ description: "Technical intelligence briefing on structural friction in European
 date: "2025-10-03"
 author: "Jonas Hyltén"
 slug: "friction-elimination-mid-market-carve-outs"
----
+--- 
 
 The capital vacuum in European mid market carve outs is a structural consequence of operational friction rather than a shortage of transaction appetite.
 

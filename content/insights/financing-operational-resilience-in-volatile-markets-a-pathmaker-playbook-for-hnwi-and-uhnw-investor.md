@@ -4,7 +4,7 @@ description: "A strategic view of liquidity, private credit, and asset based liq
 date: "2026-01-27"
 author: "Jonas Hyltén"
 slug: "financing-operational-resilience-in-volatile-markets-a-pathmaker-playbook-for-hnwi-and-uhnw-investor"
----
+--- 
 
 # Financing Operational Resilience in Volatile Markets Operational resilience is no longer a theoretical concern.
 

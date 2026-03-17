@@ -4,7 +4,7 @@ description: "A technical institutional briefing on how Asset-Based Lending stru
 date: "2026-03-01"
 author: "Jonas Hyltén"
 slug: "abl-precision-infrastructure-tight-credit-cycle"
----
+--- 
 
 The structural gap defining the current cycle is not a shortage of credible operators.
 

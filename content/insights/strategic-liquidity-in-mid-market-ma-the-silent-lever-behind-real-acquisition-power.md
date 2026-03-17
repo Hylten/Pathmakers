@@ -4,7 +4,7 @@ description: "A pragmatic analysis of liquidity engineering in mid-market M&A, w
 date: "2025-09-06"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-mid-market-ma-the-silent-lever-behind-real-acquisition-power"
----
+--- 
 
 # Strategic Liquidity in Mid-Market M&A Mid‑market M&A has always been a grind.
 

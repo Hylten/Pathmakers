@@ -4,7 +4,7 @@ description: "A deep analyst‑level reconstruction of trust mechanics, exit rea
 date: "2025-10-26"
 author: "Pathmaker Analyst Division"
 slug: "analyst-team-rebuilding-trust-post-broken-process-mna"
----
+--- 
 
 The fracture line begins where trust died.
 

@@ -4,7 +4,7 @@ description: "Institutional-level analysis of capital inefficiencies, structural
 date: "2026-01-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-financing-midmarket-spinoffs"
----
+--- 
 
 The capital vacuum across the mid-market separation landscape is a direct result of structural complexity rather than the availability of assets or buyer intent.
 

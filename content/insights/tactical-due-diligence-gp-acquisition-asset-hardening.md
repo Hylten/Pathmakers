@@ -4,7 +4,7 @@ description: "A strategic framework for institutional allocators and GP buyers e
 date: "2026-03-05"
 author: "Jonas Hyltén"
 slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
----
+--- 
 
 The capital vacuum shaping the 2026 European and North American mid-market M&A environment is not a function of scarcity.
 

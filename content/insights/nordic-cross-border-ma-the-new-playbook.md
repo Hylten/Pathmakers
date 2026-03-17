@@ -4,7 +4,7 @@ description: "How Nordic acquirers are leveraging structural advantages in cross
 date: "2025-10-12"
 author: "Jonas Hyltén"
 slug: "nordic-cross-border-ma-the-new-playbook"
----
+--- 
 
 # Nordic Cross-Border M&A: The New Playbook The Nordic middle market is experiencing a tectonic shift in how cross-border transactions are originated, structured, and closed. 
 

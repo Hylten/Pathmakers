@@ -4,7 +4,7 @@ description: "A clinical analyst briefing outlining precision financing structur
 date: "2025-11-26"
 author: "Jonas Hyltén"
 slug: "precision-financing-healthcare-disruptors"
----
+--- 
 
 The capital vacuum in European healthcare is not a consequence of demographic strain.
 

@@ -4,7 +4,7 @@ description: "Strategic Asset Hardening: The Path To Institution"
 date: "2026-02-25"
 author: "Jonas Hyltén"
 slug: "strategic-asset-hardening-the-path-to-institution"
----
+--- 
 
 # Strategic Asset Hardening.
 

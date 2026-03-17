@@ -4,7 +4,7 @@ description: "A strategic deep dive into liquidity engineering and asset based M
 date: "2026-02-23"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-playbook-for-healthcare-financing"
----
+--- 
 
 # The Pathmaker Playbook for Healthcare Financing The healthcare market is not gentle.
 

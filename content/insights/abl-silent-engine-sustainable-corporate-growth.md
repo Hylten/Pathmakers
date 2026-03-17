@@ -4,7 +4,7 @@ description: "Institutional analysis on the expanding role of Asset-Based Lendin
 date: "2026-03-08"
 author: "Jonas Hyltén"
 slug: "abl-silent-engine-sustainable-corporate-growth"
----
+--- 
 
 Structural displacement in corporate finance is not driven by scarcity of capital.
 

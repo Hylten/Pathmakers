@@ -4,7 +4,7 @@ description: "A principal-grade institutional brief on hybrid liquidity engineer
 date: "2025-07-06"
 author: "The Analyst Team – Pathmaker"
 slug: "strategic-liquidity-ma-hybrid-financing"
----
+--- 
 
 The mid-market is tightening.
 

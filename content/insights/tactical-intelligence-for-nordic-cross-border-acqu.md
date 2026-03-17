@@ -4,7 +4,7 @@ description: "Tactical Intelligence For Nordic Cross Border Acqu"
 date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "tactical-intelligence-for-nordic-cross-border-acqu"
----
+--- 
 
 # Tactical Intelligence for Nordic Cross Border Acquisitions The Nordic mid market has entered a structural pivot point.
 

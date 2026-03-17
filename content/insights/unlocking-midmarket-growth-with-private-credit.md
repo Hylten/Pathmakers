@@ -4,7 +4,7 @@ description: "A strategic analysis of how private credit and asset based liquidi
 date: "2025-10-08"
 author: "Jonas Hyltén"
 slug: "unlocking-midmarket-growth-with-private-credit"
----
+--- 
 
 # Unlocking Mid-Market Growth With Private Credit Mid‑market operators do not need inspirational slogans.
 

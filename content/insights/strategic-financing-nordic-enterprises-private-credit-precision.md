@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural capital gap in Nordic 
 date: "2025-09-19"
 author: "Jonas Hyltén"
 slug: "strategic-financing-nordic-enterprises-private-credit-precision"
----
+--- 
 
 The capital vacuum in the Nordic mid-market is a structural consequence of regulatory tightening and banking concentration, not a reflection of deteriorating enterprise quality.
 

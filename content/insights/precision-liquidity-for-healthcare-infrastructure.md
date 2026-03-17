@@ -4,7 +4,7 @@ description: "A strategic analysis of precision liquidity, private credit, and a
 date: "2025-11-16"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-healthcare-infrastructure"
----
+--- 
 
 # Precision Liquidity for Healthcare Infrastructure Healthcare infrastructure is not built on sentiment.
 

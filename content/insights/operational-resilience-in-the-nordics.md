@@ -4,7 +4,7 @@ description: "Insights on Operational Resilience in the Nordics from Roials Capi
 date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "operational-resilience-in-the-nordics"
----
+--- 
 
 # Operational Resilience in the Nordics How Mid-Market Investors Protect Value When Carve-Outs Get Messy Operational resilience in the Nordic market is not an abstract concept.
 

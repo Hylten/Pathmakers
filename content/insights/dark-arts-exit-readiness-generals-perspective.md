@@ -4,7 +4,7 @@ description: "A high‑density institutional brief on exit readiness, frictionle
 date: "2025-06-24"
 author: "Jonas Hyltén — The Analyst Team"
 slug: "dark-arts-exit-readiness-generals-perspective"
----
+--- 
 
 Exit readiness is not a procedural exercise.
 

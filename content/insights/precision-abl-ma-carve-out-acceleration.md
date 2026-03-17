@@ -4,7 +4,7 @@ description: "A technical examination of how Precision Asset Based Lending restr
 date: "2025-09-24"
 author: "Jonas Hyltén"
 slug: "precision-abl-ma-carve-out-acceleration"
----
+--- 
 
 The liquidity compression in the mid market is a structural consequence of balance sheet rigidity rather than a shortage of acquisition targets.
 

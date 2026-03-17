@@ -4,7 +4,7 @@ description: "A deep, pragmatic analysis of how Asset-Based Institutional Liquid
 date: "2025-09-21"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-technology-carve-outs-liquidity-engineering-for-serious-operators"
----
+--- 
 
 # The Role of Asset-Based Lending in Technology Carve-Outs Technology carve-outs are rarely elegant.
 

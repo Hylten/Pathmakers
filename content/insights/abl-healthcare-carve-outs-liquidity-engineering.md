@@ -4,7 +4,7 @@ description: "An institutional analysis of asset based lending structures in hea
 date: "2025-07-20"
 author: "Jonas Hyltén"
 slug: "abl-healthcare-carve-outs-liquidity-engineering"
----
+--- 
 
 The recurrent capital friction inside European and North American healthcare portfolios is not a function of inadequate operating performance.
 

@@ -4,7 +4,7 @@ description: "A clinical, analyst-grade briefing on liquidity engineering, balan
 date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "precision-financing-mid-market-leaders"
----
+--- 
 
 The structural gap in European mid-market finance is not attributable to a scarcity of capital.
 

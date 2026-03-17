@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity, private credit, and asset ba
 date: "2025-11-16"
 author: "Jonas Hyltén"
 slug: "the-power-of-sovereign-capital-in-mid-market-deals"
----
+--- 
 
 # The Power of Sovereign Capital in Mid-Market Deals Mid-market dealmaking does not reward idealists.
 

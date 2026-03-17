@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural mechanics driving Europe 
 date: "2025-07-25"
 author: "Jonas Hyltén"
 slug: "unlocking-mid-market-growth-private-credit"
----
+--- 
 
 The capital vacuum across Europe and North America’s mid‑market is a direct result of regulatory drift and bank retrenchment rather than borrower degradation.
 

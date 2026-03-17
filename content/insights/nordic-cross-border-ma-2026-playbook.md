@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on Nordic cross-border M&A m
 date: "2025-09-16"
 author: "Analyst Team — Tactical Intelligence (Jonas Hyltén)"
 slug: "nordic-cross-border-ma-2026-playbook"
----
+--- 
 
 Nordic cross-border M&A has shifted from opportunistic acquisition to engineered statecraft.
 

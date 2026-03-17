@@ -4,7 +4,7 @@ description: "A high authority analysis on using Asset-Based Lending to unlock l
 date: "2025-08-29"
 author: "Jonas Hyltén"
 slug: "unlocking-value-in-healthcare-assets-via-asset-based-liquidity-engineering"
----
+--- 
 
 # Unlocking Value in Healthcare Assets via Asset Based Asset-Backed Frameworks Healthcare assets look stable from a distance.
 

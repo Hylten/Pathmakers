@@ -4,7 +4,7 @@ description: "Institutional brief on private credit deployment to stabilize mid-
 date: "2025-07-27"
 author: "Jonas Hyltén — Analyst Team"
 slug: "private-credit-midmarket-volatility-shield"
----
+--- 
 
 -  
 -  

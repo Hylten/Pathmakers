@@ -4,7 +4,7 @@ description: "A principal‑grade briefing on sovereign financing architecture, 
 date: "2025-12-20"
 author: "Analyst Team — Pathmaker"
 slug: "pathmaker-sovereign-financing-hnwi-uhnw"
----
+--- 
 
 Sovereign financing is not a market.
 

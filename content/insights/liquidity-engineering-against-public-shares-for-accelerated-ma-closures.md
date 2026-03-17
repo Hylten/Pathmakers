@@ -4,7 +4,7 @@ description: "Pathmaker provides liquidity through private credit and asset base
 date: "2025-08-31"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-against-public-shares-for-accelerated-ma-closures"
----
+--- 
 
 # Asset-Backed Frameworks Against Public Shares for Accelerated M&A Closures Mid market M&A is rarely a clean process.
 

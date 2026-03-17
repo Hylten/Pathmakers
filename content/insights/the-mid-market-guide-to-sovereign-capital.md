@@ -4,7 +4,7 @@ description: "A strategic guide for HNWI and UHNW investors using private credit
 date: "2025-09-05"
 author: "Jonas Hyltén"
 slug: "the-mid-market-guide-to-sovereign-capital"
----
+--- 
 
 # The Mid-Market Guide to Sovereign Capital The mid-market has always been where capital inefficiencies surface first.
 

@@ -4,7 +4,7 @@ description: "The Technical Frictionless Method A System for Cross Border Mid Ma
 date: "2026-03-20"
 author: "Pathmaker"
 slug: "the-technical-frictionless-method-a-system-for-cross-border-mid-market-buyers-the-technical-frictionless-method-is-simple-in-architecture-and-unforgiving-in-execution"
----
+--- 
 
 # The Technical Frictionless Method A System for Cross Border Mid Market Buyers The Technical Frictionless Method is simple in architecture and unforgiving in execution.
 

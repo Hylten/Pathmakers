@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on Nordic operational resili
 date: "2026-01-06"
 author: "Tactical Intelligence – Analyst Team"
 slug: "operational-resilience-nordic-mid-market"
----
+--- 
 
 Operational resilience in the Nordics is no longer a functional competence.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on Nordic corporate carve-out mechanics, li
 date: "2025-12-18"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-nordic-carve-outs"
----
+--- 
 
 The liquidity gap in Nordic mid-market carve-outs is a structural artefact of balance-sheet rigidity rather than a shortage of acquirers or operational potential.
 

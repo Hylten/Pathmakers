@@ -4,7 +4,7 @@ description: "A pragmatic guide to liquidity creation through private credit and
 date: "2025-07-29"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-strategic-asset-finance"
----
+--- 
 
 # The Pathmaker Guide to Strategic Asset Finance Strategic capital is no longer about bravado.
 

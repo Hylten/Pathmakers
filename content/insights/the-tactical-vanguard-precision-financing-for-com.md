@@ -4,7 +4,7 @@ description: "The Tactical Vanguard: Precision Financing For Com"
 date: "2025-12-29"
 author: "Jonas Hyltén"
 slug: "the-tactical-vanguard-precision-financing-for-com"
----
+--- 
 
 # The Tactical Vanguard.
 

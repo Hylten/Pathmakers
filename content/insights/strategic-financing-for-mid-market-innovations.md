@@ -4,7 +4,7 @@ description: "A pragmatic exploration of liquidity and asset based liquidity eng
 date: "2025-09-28"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-mid-market-innovations"
----
+--- 
 
 # Strategic Financing for Mid-Market Innovations Mid-market leadership is a battlefield.
 

@@ -4,7 +4,7 @@ description: "A high-density analyst briefing on structural misalignment in midâ
 date: "2025-11-20"
 author: "Pathmaker Analyst Team"
 slug: "misaligned-financial-models-killing-deals"
----
+--- 
 
 The collapse rarely begins where the operator thinks it begins.
 

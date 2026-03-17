@@ -4,7 +4,7 @@ description: "A pragmatic guide to strategic liquidity using private credit and 
 date: "2026-01-03"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-ma-the-pathmaker-guide-to-hybrid-financing"
----
+--- 
 
 # Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing Mid market M&A is not a place for improvisation.
 

@@ -4,7 +4,7 @@ description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and U
 date: "2025-06-24"
 author: "Jonas Hyltén"
 slug: "the-nordic-ma-outlook-leveraging-crypto-liquidity-for-mid-market-deals"
----
+--- 
 
 # The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals The Nordic M&A landscape is shifting, quietly but decisively.
 

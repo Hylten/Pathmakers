@@ -4,7 +4,7 @@ description: "Analyst-level structural briefing on exit readiness, mid‑market 
 date: "2025-07-22"
 author: "Pathmaker Analyst Team"
 slug: "high-intent-dealflow-in-saturated-pe-landscape"
----
+--- 
 
 The supply of capital is no longer the constraint.
 

@@ -4,7 +4,7 @@ description: "A strategic memo on liquidity engineering, institutional readiness
 date: "2025-11-27"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-institutional-liquidity"
----
+--- 
 
 The liquidity shortage constraining the mid-market ecosystem is not a consequence of weak demand.
 

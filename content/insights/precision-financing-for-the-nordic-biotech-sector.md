@@ -4,7 +4,7 @@ description: "A strategic deep dive into liquidity generation and asset based li
 date: "2025-10-07"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-the-nordic-biotech-sector"
----
+--- 
 
 # Precision Financing for the Nordic BioTech Sector The Nordic BioTech sector is entering a new phase.
 

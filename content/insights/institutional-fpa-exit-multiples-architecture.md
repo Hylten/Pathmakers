@@ -4,7 +4,7 @@ description: "A tactical, analyst‑grade dissection of FP&A as the decisive mec
 date: "2025-10-09"
 author: "Pathmaker — Analyst Division"
 slug: "institutional-fpa-exit-multiples-architecture"
----
+--- 
 
 The firms that command premium exits never announce themselves with bravado.
 

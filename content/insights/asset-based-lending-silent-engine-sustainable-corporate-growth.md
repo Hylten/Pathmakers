@@ -4,7 +4,7 @@ description: "An institutional brief on the structural ascent of asset‑based l
 date: "2025-10-16"
 author: "The Analyst Team"
 slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
----
+--- 
 
 Asset‑based lending is no longer a peripheral liquidity instrument.
 

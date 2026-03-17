@@ -4,7 +4,7 @@ description: "A pragmatic guide to institutional liquidity strategies leveraging
 date: "2025-09-17"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-institutional-liquidity"
----
+--- 
 
 # The Pathmaker Guide to Institutional Liquidity Institutional liquidity is not a theory.
 

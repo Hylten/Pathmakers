@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on the role of Asset-Based Lendi
 date: "2026-01-08"
 author: "Jonas Hyltén"
 slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
----
+--- 
 
 The structural gap in European mid-market technology transactions is not a lack of capital but a misalignment between operational complexity and liquidity availability at the precise moment when separation risk is highest.
 

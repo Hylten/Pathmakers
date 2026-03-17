@@ -4,7 +4,7 @@ description: "M&A Warfare: Navigating The Middle Market Credit G"
 date: "2025-10-11"
 author: "Jonas Hyltén"
 slug: "ma-warfare-navigating-the-middle-market-credit-g"
----
+--- 
 
 # M&A Warfare.
 

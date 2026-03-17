@@ -4,7 +4,7 @@ description: "A pragmatic analysis of liquidity, private credit, and asset based
 date: "2025-09-06"
 author: "Jonas Hyltén"
 slug: "operational-resilience-through-strategic-financing"
----
+--- 
 
 # Operational Resilience Through Strategic Financing Operational resilience is not built through optimism.
 

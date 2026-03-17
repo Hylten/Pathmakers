@@ -4,7 +4,7 @@ description: "Technical intelligence on institutional liquidity engineering, cap
 date: "2026-03-07"
 author: "Jonas Hyltén"
 slug: "pathmaker-guide-to-institutional-liquidity"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

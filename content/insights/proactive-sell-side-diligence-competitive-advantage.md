@@ -4,7 +4,7 @@ description: "A tactical, high-density analyst briefing on why founders who oper
 date: "2025-09-13"
 author: "Pathmaker Analyst Team"
 slug: "proactive-sell-side-diligence-competitive-advantage"
----
+--- 
 
 Proactive diligence changes the power dynamic.
 

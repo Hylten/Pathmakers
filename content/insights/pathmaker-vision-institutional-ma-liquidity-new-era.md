@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural recalibration of mid m
 date: "2026-02-14"
 author: "Jonas Hyltén"
 slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
----
+--- 
 
 The structural gap in global M&A is not a shortage of acquirers.
 

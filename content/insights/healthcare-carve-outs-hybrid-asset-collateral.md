@@ -4,7 +4,7 @@ description: "Institutional briefing on liquidity engineering, balance sheet opt
 date: "2025-08-20"
 author: "Jonas Hyltén"
 slug: "healthcare-carve-outs-hybrid-asset-collateral"
----
+--- 
 
 The capital vacuum in mid-market healthcare transactions is not caused by a lack of lender appetite but by structural misalignment between operational assets, regulatory constraints, and the collateral frameworks that traditional lenders require.
 

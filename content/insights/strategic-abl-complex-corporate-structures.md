@@ -4,7 +4,7 @@ description: "Institutional briefing on the liquidity engineering mechanics that
 date: "2026-02-19"
 author: "Jonas Hyltén"
 slug: "strategic-abl-complex-corporate-structures"
----
+--- 
 
 The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets.
 

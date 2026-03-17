@@ -4,7 +4,7 @@ description: "A clinical analysis of structural dislocations in European healthc
 date: "2025-11-07"
 author: "Jonas Hyltén"
 slug: "healthcare-ma-strategies-jonas-hylten-2026"
----
+--- 
 
 The structural gap defining European healthcare M&A in 2026 is a capital sequencing failure rather than an asset scarcity problem.
 

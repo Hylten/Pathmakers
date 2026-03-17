@@ -4,7 +4,7 @@ description: "Using Precision Abl To Accelerate M&A And Carve Ou"
 date: "2025-10-24"
 author: "Jonas Hyltén"
 slug: "using-precision-abl-to-accelerate-ma-and-carve-ou"
----
+--- 
 
 # Using Precision Asset-Based Lending to Accelerate M&A and Carve Outs in Tight Liquidity Cycles Mid market M&A is rarely elegant in the current environment.
 

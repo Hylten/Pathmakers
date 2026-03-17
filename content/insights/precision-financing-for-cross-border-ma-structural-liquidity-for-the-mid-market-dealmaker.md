@@ -4,7 +4,7 @@ description: "A deep analysis of precision liquidity, private credit, and asset 
 date: "2025-12-09"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-cross-border-ma-structural-liquidity-for-the-mid-market-dealmaker"
----
+--- 
 
 # Precision Financing for Cross-Border M&A Cross-border M&A is never elegant.
 

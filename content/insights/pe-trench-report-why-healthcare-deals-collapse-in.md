@@ -4,7 +4,7 @@ description: "Pe Trench Report: Why Healthcare Deals Collapse In"
 date: "2025-06-29"
 author: "Jonas Hyltén"
 slug: "pe-trench-report-why-healthcare-deals-collapse-in"
----
+--- 
 
 # PE Trench Report.
 

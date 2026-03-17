@@ -4,7 +4,7 @@ description: "A high density institutional briefing on operational resilience, v
 date: "2026-01-19"
 author: "Jonas Hyltén"
 slug: "operational-resilience-human-friction-removal-exit-readiness"
----
+--- 
 
 The fundamental constraint in mid market M&A is not valuation.
 

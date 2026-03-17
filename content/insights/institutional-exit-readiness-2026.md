@@ -4,7 +4,7 @@ description: "A deep tactical analysis of why mid‑market family offices in 202
 date: "2025-07-20"
 author: "Pathmaker Analyst Team"
 slug: "institutional-exit-readiness-2026"
----
+--- 
 
 The demand signal is unmistakable.
 

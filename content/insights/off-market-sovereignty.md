@@ -4,7 +4,7 @@ description: "A high-density analyst briefing on the collapse of traditional auc
 date: "2026-01-11"
 author: "Pathmaker Analyst Group"
 slug: "off-market-sovereignty"
----
+--- 
 
 The auction model is cracking.
 

@@ -4,7 +4,7 @@ description: "A high density analyst briefing on structural financing gaps, liqu
 date: "2025-09-28"
 author: "Jonas Hyltén"
 slug: "operational-resilience-strategic-financing"
----
+--- 
 
 The capital vacuum across the European and North American mid market is not caused by a lack of lender appetite.
 

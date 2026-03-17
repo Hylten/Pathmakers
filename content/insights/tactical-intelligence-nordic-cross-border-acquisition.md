@@ -4,7 +4,7 @@ description: "A principal-level brief on operational intelligence, exit readines
 date: "2025-10-09"
 author: "The Analyst Team"
 slug: "tactical-intelligence-nordic-cross-border-acquisition"
----
+--- 
 
 The Nordic mid‑market rewards precision.
 

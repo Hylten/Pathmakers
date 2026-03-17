@@ -4,7 +4,7 @@ description: "A high-density institutional analysis on Tactical Intelligence, Ex
 date: "2026-03-13"
 author: "Pathmaker"
 slug: "tactical-intelligence-midmarket-exit-readiness"
----
+--- 
 
 Insight begins here.
 

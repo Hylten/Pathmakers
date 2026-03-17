@@ -4,7 +4,7 @@ description: "Mid‑market exit preparation through pre‑negotiated risk mitiga
 date: "2026-02-20"
 author: "Pathmaker Analyst Division"
 slug: "exit-preparation-pre-negotiated-risk-mitigation"
----
+--- 
 
 The firms that exit cleanly are not the firms that grow fastest.
 

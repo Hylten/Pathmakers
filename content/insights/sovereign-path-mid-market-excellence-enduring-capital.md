@@ -4,7 +4,7 @@ description: "Institutional briefing on mid-market execution, exit readiness, M&
 date: "2025-11-23"
 author: "Jonas Hyltén"
 slug: "sovereign-path-mid-market-excellence-enduring-capital"
----
+--- 
 
 The capital vacuum throughout the European and North American mid‑market is a structural consequence of fragmented diligence practices and inconsistent exit preparedness, not a lack of enterprise value.
 

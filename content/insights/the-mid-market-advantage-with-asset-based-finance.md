@@ -4,7 +4,7 @@ description: "Explore how asset based liquidity engineering and private credit u
 date: "2025-11-09"
 author: "Jonas Hyltén"
 slug: "the-mid-market-advantage-with-asset-based-finance"
----
+--- 
 
 # The Mid-Market Advantage with Asset-Based Finance Mid market operators rarely get glossy headlines, but they carry the weight of most real economic transactions.
 

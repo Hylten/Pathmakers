@@ -4,7 +4,7 @@ description: "A strategic analysis of how Asset Based liquidity engineering unlo
 date: "2025-10-16"
 author: "Jonas Hyltén"
 slug: "how-abl-shapes-precision-infrastructure-spin-offs-in-a-tight-credit-cycle"
----
+--- 
 
 # The Role of Asset-Based Lending in Precision Infrastructure Spin-offs Precision infrastructure has become one of the most active categories in the mid-market carve-out ecosystem.
 

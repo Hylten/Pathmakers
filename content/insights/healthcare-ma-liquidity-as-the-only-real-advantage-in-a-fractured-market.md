@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity in healthcare M&A, with focus
 date: "2025-07-14"
 author: "Jonas Hyltén"
 slug: "healthcare-ma-liquidity-as-the-only-real-advantage-in-a-fractured-market"
----
+--- 
 
 # Healthcare M&A: The Importance of Liquidity Healthcare M&A has never rewarded sentimentality.
 

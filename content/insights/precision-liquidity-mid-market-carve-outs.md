@@ -4,7 +4,7 @@ description: "Institutional briefing on tactical liquidity engineering, carve-ou
 date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-mid-market-carve-outs"
----
+--- 
 
 The liquidity shortfall in the European mid-market is not a function of capital scarcity.
 

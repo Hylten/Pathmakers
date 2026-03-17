@@ -4,7 +4,7 @@ description: "Insights on Precision Healthcare Carve-outs from Roials Capital an
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "precision-healthcare-carve-outs"
----
+--- 
 
 # Precision Healthcare Carve-outs A Pragmatic Playbook for Mid-Market Investors and Operators Healthcare carve-outs are no longer niche transactions.
 

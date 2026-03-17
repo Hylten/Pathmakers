@@ -4,7 +4,7 @@ description: "Institutional briefing on balance sheet optimization, Monetization
 date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-public-shares-ma-closures"
----
+--- 
 
 The capital vacuum shaping mid market corporate transactions in 2026 is not driven by a shortage of buyers or strategic demand.
 

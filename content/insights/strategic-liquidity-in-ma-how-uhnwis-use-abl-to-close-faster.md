@@ -4,7 +4,7 @@ description: "A pragmatic breakdown of how UHNW investors use asset based liquid
 date: "2025-12-04"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
----
+--- 
 
 # Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster Mid-market M&A has shifted.
 

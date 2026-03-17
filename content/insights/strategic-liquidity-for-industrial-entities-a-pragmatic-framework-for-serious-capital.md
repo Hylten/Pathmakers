@@ -4,7 +4,7 @@ description: "A high‑authority analysis of liquidity structuring, private cred
 date: "2025-10-09"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-industrial-entities-a-pragmatic-framework-for-serious-capital"
----
+--- 
 
 # Strategic Liquidity for Industrial Entities Industrial groups do not collapse from lack of opportunity.
 

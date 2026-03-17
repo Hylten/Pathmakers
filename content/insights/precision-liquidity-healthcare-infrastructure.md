@@ -4,7 +4,7 @@ description: "A technical institutional briefing on liquidity engineering, exit 
 date: "2025-10-20"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-healthcare-infrastructure"
----
+--- 
 
 The structural gap in healthcare infrastructure is not driven by a shortage of capital, but by an absence of precision capital capable of compressing transaction friction, stabilizing operational volatility, and creating institutional exit paths.
 

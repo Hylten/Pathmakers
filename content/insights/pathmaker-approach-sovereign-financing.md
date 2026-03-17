@@ -4,7 +4,7 @@ description: "Strategic intelligence on exit readiness, sovereign pathways, liqu
 date: "2025-09-01"
 author: "Jonas Hyltén"
 slug: "pathmaker-approach-sovereign-financing"
----
+--- 
 
 The regulatory tightening within Western capital markets has created a bifurcated system where institutional scale liquidity is available, but not deployable, unless the allocator can demonstrate cross border sophistication and sovereign grade structural preparation.
 

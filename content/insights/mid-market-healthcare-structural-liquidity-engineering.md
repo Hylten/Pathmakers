@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity engineering, exit readiness
 date: "2025-07-09"
 author: "Jonas Hyltén"
 slug: "mid-market-healthcare-structural-liquidity-engineering"
----
+--- 
 
 The structural liquidity gap in mid-market healthcare is not a function of operational weakness.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on how Asset Based Lending structures recon
 date: "2026-01-05"
 author: "Jonas Hyltén"
 slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
----
+--- 
 
 The structural gap in the mid market corporate landscape is no longer valuation compression.
 

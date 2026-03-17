@@ -4,7 +4,7 @@ description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Ma
 date: "2025-07-08"
 author: "Jonas Hyltén"
 slug: "operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs"
----
+--- 
 
 # Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs Operational resilience has become one of the most overused phrases in the middle market.
 

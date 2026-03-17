@@ -4,7 +4,7 @@ description: "A strategic exploration of liquidity, asset based liquidity engine
 date: "2025-07-30"
 author: "Jonas Hyltén"
 slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
----
+--- 
 
 # Building Operational Resilience with Private Credit Operational resilience is not an aspirational concept.
 

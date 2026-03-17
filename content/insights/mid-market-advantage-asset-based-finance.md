@@ -4,7 +4,7 @@ description: "A technical institutional briefing on mid-market asset-based finan
 date: "2025-12-28"
 author: "Jonas Hyltén"
 slug: "mid-market-advantage-asset-based-finance"
----
+--- 
 
 The capital vacuum inside the mid-market is a consequence of structural under-institutionalization, not a lack of bankable assets.
 

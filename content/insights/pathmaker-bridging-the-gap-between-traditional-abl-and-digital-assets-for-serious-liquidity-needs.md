@@ -4,7 +4,7 @@ description: "A pragmatic look at how Pathmaker delivers institutional grade liq
 date: "2025-09-14"
 author: "Jonas Hyltén"
 slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
----
+--- 
 
 # Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy.
 

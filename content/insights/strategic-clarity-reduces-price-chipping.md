@@ -4,7 +4,7 @@ description: "A deep analyst‑level breakdown of how mid‑market founders redu
 date: "2025-11-22"
 author: "Pathmaker Analyst Team"
 slug: "strategic-clarity-reduces-price-chipping"
----
+--- 
 
 Price chipping occurs when a buyer senses fog.
 

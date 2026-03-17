@@ -4,7 +4,7 @@ description: "A technical briefing on the regime shift shaping 2026 M&A markets.
 date: "2026-01-14"
 author: "Jonas Hyltén"
 slug: "strategic-ma-trends-2026-off-market-intelligence"
----
+--- 
 
 The structural gap defining M&A in 2026 is not valuation volatility.
 

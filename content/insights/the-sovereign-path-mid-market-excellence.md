@@ -4,7 +4,7 @@ description: "A pragmatic examination of liquidity, private credit, and asset ba
 date: "2026-03-08"
 author: "Jonas Hyltén"
 slug: "the-sovereign-path-mid-market-excellence"
----
+--- 
 
 # The Sovereign Path: Mid-Market Excellence The mid‑market is where theory dies and operational truth begins.
 

@@ -4,7 +4,7 @@ description: "A technical and institutional analysis of Asset Based Lending vers
 date: "2025-07-24"
 author: "Jonas Hyltén"
 slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
----
+--- 
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity.
 

@@ -4,7 +4,7 @@ description: "A strategic briefing on operational deleveraging, buyer psychology
 date: "2025-10-25"
 author: "Jonas Hyltén"
 slug: "dark-arts-exit-readiness-ma-general-perspective"
----
+--- 
 
 The valuation gap in the European mid-market is not caused by a shortage of buyers.
 

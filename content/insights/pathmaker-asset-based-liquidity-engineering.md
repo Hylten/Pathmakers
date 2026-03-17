@@ -4,7 +4,7 @@ description: "A high-density institutional brief on structural liquidity, asset-
 date: "2025-10-06"
 author: "Pathmaker Analyst Team"
 slug: "pathmaker-asset-based-liquidity-engineering"
----
+--- 
 
 Asset‑based liquidity is no longer a technical sidebar.
 

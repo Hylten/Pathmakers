@@ -4,7 +4,7 @@ description: "A pragmatic exploration of liquidity, private credit, and asset ba
 date: "2026-01-08"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-cross-border-carve-outs"
----
+--- 
 
 # Strategic Liquidity for Cross-Border Carve-Outs Cross-border carve-outs rarely behave.
 

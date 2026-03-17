@@ -4,7 +4,7 @@ description: "Institutional briefing on structural capital inefficiencies in Nor
 date: "2025-12-11"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-nordic-logistics"
----
+--- 
 
 The structural gap in Nordic logistics is a function of capital misalignment rather than operational scarcity.
 

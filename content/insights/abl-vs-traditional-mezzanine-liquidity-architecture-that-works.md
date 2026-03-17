@@ -4,7 +4,7 @@ description: "A principal-grade analysis of asset‑based lending vs mezzanine c
 date: "2025-08-23"
 author: "The Analyst Team"
 slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
----
+--- 
 
 Asset movements decide outcomes in the mid‑market.
 

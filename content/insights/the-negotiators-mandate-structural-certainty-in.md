@@ -4,7 +4,7 @@ description: "The NegotiatorS Mandate: Structural Certainty In"
 date: "2025-10-13"
 author: "Jonas Hyltén"
 slug: "the-negotiators-mandate-structural-certainty-in"
----
+--- 
 
 # The Negotiator's Mandate.
 

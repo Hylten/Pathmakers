@@ -4,7 +4,7 @@ description: "A high-density analyst briefing on deal loss dynamics, exit readin
 date: "2025-10-23"
 author: "Pathmaker Analyst Team"
 slug: "why-pe-funds-lose-to-prepared-sellers"
----
+--- 
 
 The pattern is visible long before the deal room opens.
 

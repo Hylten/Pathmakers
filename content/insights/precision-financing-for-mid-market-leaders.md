@@ -4,7 +4,7 @@ description: "A strategic deep dive into liquidity engineering, private credit C
 date: "2025-08-11"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-mid-market-leaders"
----
+--- 
 
 # Precision Financing for Mid-Market Leaders Mid market operators do not get the luxury of theory.
 

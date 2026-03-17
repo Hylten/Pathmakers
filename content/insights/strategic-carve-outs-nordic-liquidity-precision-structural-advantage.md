@@ -4,7 +4,7 @@ description: "A principal-grade briefing on Nordic carve-out dynamics, liquidity
 date: "2026-02-08"
 author: "Analyst Team – Pathmaker Division"
 slug: "strategic-carve-outs-nordic-liquidity-precision-structural-advantage"
----
+--- 
 
 Strategic carve-outs in the Nordic mid‑market have entered a new cycle.
 

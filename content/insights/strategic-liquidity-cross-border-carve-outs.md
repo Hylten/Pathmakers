@@ -4,7 +4,7 @@ description: "Institutional briefing on cross-border carve-out liquidity enginee
 date: "2025-12-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-cross-border-carve-outs"
----
+--- 
 
 The capital vacuum within cross-border corporate carve-outs does not originate from a shortage of willing acquirers.
 

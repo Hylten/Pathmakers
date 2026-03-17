@@ -4,7 +4,7 @@ description: "A deep analysis of liquidity engineering and asset based Capital S
 date: "2025-06-30"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-healthcare-disruptors"
----
+--- 
 
 # Precision Financing for Healthcare Disruptors Healthcare is not a gentle market.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on asset based lending mechanics, liquidity
 date: "2025-08-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
----
+--- 
 
 The structural gap defining healthcare logistics in 2026 is not a function of asset scarcity.
 

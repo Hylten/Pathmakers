@@ -4,7 +4,7 @@ description: "A high‑authority analysis on operational resilience for mature e
 date: "2026-03-03"
 author: "Jonas Hyltén"
 slug: "operational-resilience-debt-as-a-guardrail-for-mature-enterprises"
----
+--- 
 
 # Operational Resilience: Debt as a Guardrail for Mature Enterprises Mature enterprises do not collapse because the market turns against them.
 

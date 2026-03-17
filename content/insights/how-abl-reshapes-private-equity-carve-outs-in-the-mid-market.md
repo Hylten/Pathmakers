@@ -4,7 +4,7 @@ description: "A strategic analysis of how Asset-Based liquidity engineering deli
 date: "2025-07-29"
 author: "Jonas Hyltén"
 slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
----
+--- 
 
 # The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals.
 

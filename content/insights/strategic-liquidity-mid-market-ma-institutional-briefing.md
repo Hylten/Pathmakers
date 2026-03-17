@@ -4,7 +4,7 @@ description: "Institutional analysis on liquidity engineering, cross collateral 
 date: "2025-11-05"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-mid-market-ma-institutional-briefing"
----
+--- 
 
 The structural gap in mid market M&A today is not valuation uncertainty but liquidity misalignment on the buyer side.
 

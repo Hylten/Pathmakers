@@ -4,7 +4,7 @@ description: "Institutional brief on Capital Structuring, exit readiness, mid‑
 date: "2025-12-05"
 author: "Jonas Hyltén – The Analyst Team"
 slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
----
+--- 
 
 The healthcare mid‑market sits on dormant value.
 

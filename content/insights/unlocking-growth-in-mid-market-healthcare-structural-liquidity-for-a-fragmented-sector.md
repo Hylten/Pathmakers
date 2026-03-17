@@ -4,7 +4,7 @@ description: "A pragmatic analysis of liquidity, private credit, and asset based
 date: "2025-11-13"
 author: "Jonas Hyltén"
 slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
----
+--- 
 
 # Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape.
 

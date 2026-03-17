@@ -4,7 +4,7 @@ description: "A high-density institutional analysis of how mid‑market family o
 date: "2025-10-23"
 author: "Pathmaker"
 slug: "family-office-team-quality-analyst-signals"
----
+--- 
 
 Family offices do not evaluate teams the way accelerators, VCs, or corporate strategics do.
 

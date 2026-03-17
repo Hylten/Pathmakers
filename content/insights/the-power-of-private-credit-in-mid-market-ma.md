@@ -4,7 +4,7 @@ description: "A strategic breakdown of liquidity and asset based liquidity engin
 date: "2025-10-04"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-mid-market-ma"
----
+--- 
 
 # The Power of Private Credit in Mid-Market M&A Mid-market M&A has shifted.
 

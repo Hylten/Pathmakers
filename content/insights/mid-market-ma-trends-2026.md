@@ -4,7 +4,7 @@ description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyl
 date: "2025-07-16"
 author: "Jonas Hyltén"
 slug: "mid-market-ma-trends-2026"
----
+--- 
 
 # Mid-Market M&A Trends 2026 Pathmaker Analysis Mid-market M&A is entering 2026 with clearer lines, tougher filters, and less patience for optimism without evidence.
 

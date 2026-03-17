@@ -4,7 +4,7 @@ description: "How Asset-Based liquidity engineering unlocks liquidity and execut
 date: "2025-12-03"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-cross-border-acquisitions"
----
+--- 
 
 # The Power of Asset-Based Lending in Cross-Border Acquisitions Cross-border acquisitions are no longer a playground for the overly optimistic or the overly romantic.
 

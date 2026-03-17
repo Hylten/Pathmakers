@@ -4,7 +4,7 @@ description: "Analyst-grade examination of how Asset‑Based Lending restructure
 date: "2025-11-24"
 author: "The Analyst Team"
 slug: "abl-midmarket-carveouts-Fund-III"
----
+--- 
 
 Carve‑outs break companies open.
 

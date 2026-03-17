@@ -4,7 +4,7 @@ description: "A pragmatic guide to liquidity generation through Private Credit a
 date: "2025-07-15"
 author: "Jonas Hyltén"
 slug: "strategic-abl-for-complex-corporate-structures"
----
+--- 
 
 # Strategic Asset-Based Lending for Complex Corporate Structures Complex corporate structures require liquidity tools that do not collapse under operational pressure.
 

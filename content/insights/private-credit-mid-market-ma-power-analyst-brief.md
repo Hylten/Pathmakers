@@ -4,7 +4,7 @@ description: "Analyst-grade brief on how private credit restructures mid-market 
 date: "2025-11-01"
 author: "The Analyst Team"
 slug: "private-credit-mid-market-ma-power-analyst-brief"
----
+--- 
 
 Private credit sits where commercial banks hesitate.
 

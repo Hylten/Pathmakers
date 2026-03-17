@@ -4,7 +4,7 @@ description: "A high‑density institutional briefing on sovereign capital, mid�
 date: "2026-03-01"
 author: "The Analyst Team"
 slug: "sovereign-capital-mid-market-force-multiplier"
----
+--- 
 
 Sovereign capital behaves differently in the mid‑market than in the upper‑market.
 

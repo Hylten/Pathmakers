@@ -4,7 +4,7 @@ description: "An institutional analysis of how sovereign allocators reshape mid�
 date: "2026-01-30"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-mid-market-power"
----
+--- 
 
 The capital vacuum affecting mid‑market transactions is a structural byproduct of regulatory compression across European and North American credit channels.
 

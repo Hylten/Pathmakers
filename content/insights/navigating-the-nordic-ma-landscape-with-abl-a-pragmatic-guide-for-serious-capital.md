@@ -4,7 +4,7 @@ description: "A strategic deep dive into liquidity, private credit, and asset ba
 date: "2026-01-15"
 author: "Jonas Hyltén"
 slug: "navigating-the-nordic-ma-landscape-with-abl-a-pragmatic-guide-for-serious-capital"
----
+--- 
 
 # Navigating the Nordic M&A Landscape With Asset-Based Lending The Nordic mid market has entered an era defined by liquidity friction, tougher regulatory oversight, and an investor base that expects structural mastery rather than optimistic narratives.
 

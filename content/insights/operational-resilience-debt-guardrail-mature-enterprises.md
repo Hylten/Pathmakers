@@ -4,7 +4,7 @@ description: "A principal-level institutional brief on how calibrated leverage c
 date: "2025-10-17"
 author: "The Analyst Team"
 slug: "operational-resilience-debt-guardrail-mature-enterprises"
----
+--- 
 
 Operational resilience is not a defensive posture.
 

@@ -4,7 +4,7 @@ description: "A technical memo on [capital structuring](https://hylten.github.io
 date: "2025-09-07"
 author: "Jonas Hyltén"
 slug: "pathmaker-playbook-healthcare-financing"
----
+--- 
 
 The capital dislocation in European healthcare is the product of regulatory compression and demographic acceleration, not the absence of viable operators.
 

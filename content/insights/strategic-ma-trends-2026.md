@@ -4,7 +4,7 @@ description: "A high density institutional briefing on the 2026 M&A regime shift
 date: "2026-02-23"
 author: "Jonas Hyltén"
 slug: "strategic-ma-trends-2026"
----
+--- 
 
 The structural gap in 2026 M&A markets is driven by regulatory fragmentation and interest rate volatility rather than a decline in acquisition appetite.
 

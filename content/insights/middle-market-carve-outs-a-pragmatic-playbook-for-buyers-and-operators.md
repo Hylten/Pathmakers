@@ -4,7 +4,7 @@ description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buy
 date: "2026-01-11"
 author: "Jonas Hyltén"
 slug: "middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators"
----
+--- 
 
 # Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators Middle market carve-outs are not elegant corporate restructurings.
 

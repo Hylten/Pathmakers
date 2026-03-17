@@ -4,7 +4,7 @@ description: "Institutional briefing on structural inefficiencies in healthcare 
 date: "2025-08-16"
 author: "Jonas Hyltén"
 slug: "healthcare-credit-landscape-pragmatic-guide"
----
+--- 
 
 The structural gap in healthcare credit is not a function of borrower weakness.
 

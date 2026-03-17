@@ -4,7 +4,7 @@ description: "A strategic deep dive into precision liquidity and asset based liq
 date: "2025-10-18"
 author: "Jonas Hyltén"
 slug: "precision-liquidity-for-mid-market-carve-outs"
----
+--- 
 
 # Precision Liquidity for Mid-Market Carve-Outs Mid-market carve-outs are not elegant.
 

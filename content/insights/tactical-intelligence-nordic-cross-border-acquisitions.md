@@ -4,7 +4,7 @@ description: "An institutional-grade briefing on the structural dynamics, operat
 date: "2025-12-14"
 author: "Jonas Hyltén"
 slug: "tactical-intelligence-nordic-cross-border-acquisitions"
----
+--- 
 
 The capital vacuum in the Nordic mid market is a consequence of regulatory tightening, compressed bank underwriting lanes, and valuation drift across Europe.
 

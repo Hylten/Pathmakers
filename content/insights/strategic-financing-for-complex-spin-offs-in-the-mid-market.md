@@ -4,7 +4,7 @@ description: "A deep analysis of liquidity engineering and asset based [Asset-Ba
 date: "2025-12-01"
 author: "Jonas Hyltén"
 slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"
----
+--- 
 
 # Strategic Financing for Complex Spin-offs Complex corporate spin-offs are rarely clean.
 

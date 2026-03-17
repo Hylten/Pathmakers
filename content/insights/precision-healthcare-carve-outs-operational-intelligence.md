@@ -4,7 +4,7 @@ description: "Analyst-grade evaluation of precision healthcare carve-out dynamic
 date: "2025-10-31"
 author: "Jonas Hyltén"
 slug: "precision-healthcare-carve-outs-operational-intelligence"
----
+--- 
 
 Structural gap: The capital vacuum in European precision healthcare is driven by operational fragmentation rather than fundamental demand erosion.
 

@@ -4,7 +4,7 @@ description: "An institutional-grade intelligence brief outlining the structural
 date: "2025-07-02"
 author: "Jonas Hyltén"
 slug: "nordic-cross-border-ma-playbook-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

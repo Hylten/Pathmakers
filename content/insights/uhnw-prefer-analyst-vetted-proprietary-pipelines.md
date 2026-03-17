@@ -4,7 +4,7 @@ description: "A full-spectrum analyst briefing on how proprietary, pre‑vetted 
 date: "2025-09-09"
 author: "Pathmaker Analyst Division"
 slug: "uhnw-prefer-analyst-vetted-proprietary-pipelines"
----
+--- 
 
 The preference is not a mystery.
 

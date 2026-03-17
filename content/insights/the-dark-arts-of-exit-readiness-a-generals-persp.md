@@ -4,7 +4,7 @@ description: "The Dark Arts Of Exit Readiness: A GeneralS Persp"
 date: "2026-02-07"
 author: "Jonas Hyltén"
 slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
----
+--- 
 
 # The Dark Arts of Exit Readiness.
 

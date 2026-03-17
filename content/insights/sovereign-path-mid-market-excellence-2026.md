@@ -4,7 +4,7 @@ description: "Technical intelligence report on mid-market private equity structu
 date: "2025-09-26"
 author: "Jonas Hyltén"
 slug: "sovereign-path-mid-market-excellence-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

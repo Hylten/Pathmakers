@@ -4,7 +4,7 @@ description: "A principal‑grade institutional blueprint outlining the new oper
 date: "2025-10-19"
 author: "The Analyst Team"
 slug: "nordic-cross-border-ma-new-playbook"
----
+--- 
 
 Nordic cross‑border M&A has entered a structural rewrite.
 

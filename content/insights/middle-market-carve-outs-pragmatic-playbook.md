@@ -4,7 +4,7 @@ description: "Institutional briefing on structural inefficiencies, execution pat
 date: "2025-09-02"
 author: "Jonas Hyltén"
 slug: "middle-market-carve-outs-pragmatic-playbook"
----
+--- 
 
 The structural gap in middle market carve-outs is not a function of asset scarcity.
 

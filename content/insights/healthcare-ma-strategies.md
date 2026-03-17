@@ -4,7 +4,7 @@ description: "Insights on Healthcare M&A Strategies from Roials Capital and Hylt
 date: "2026-02-18"
 author: "Jonas Hyltén"
 slug: "healthcare-ma-strategies"
----
+--- 
 
 # Healthcare M&A Strategies Pathmaker's Pragmatic Guide to Mid‑Market Value Creation 
 

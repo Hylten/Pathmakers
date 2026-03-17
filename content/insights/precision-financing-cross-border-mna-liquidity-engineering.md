@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on liquidity engineering, cross-
 date: "2025-07-27"
 author: "Jonas Hyltén"
 slug: "precision-financing-cross-border-mna-liquidity-engineering"
----
+--- 
 
 The capital vacuum in the European mid-market M&A corridor is not caused by a shortage of opportunity.
 

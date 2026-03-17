@@ -4,7 +4,7 @@ description: "Operational Resilience: Removing Human Friction Fr"
 date: "2025-11-07"
 author: "Jonas Hyltén"
 slug: "operational-resilience-removing-human-friction-fr"
----
+--- 
 
 # Operational Resilience.
 

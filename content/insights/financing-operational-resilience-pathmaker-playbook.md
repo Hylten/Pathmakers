@@ -4,7 +4,7 @@ description: "A principal-grade briefing on liquidity engineering, operational r
 date: "2025-08-29"
 author: "Tactical Intelligence | Analyst Team"
 slug: "financing-operational-resilience-pathmaker-playbook"
----
+--- 
 
 Volatility exposes structural weakness.
 

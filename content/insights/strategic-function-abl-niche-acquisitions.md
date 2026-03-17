@@ -4,7 +4,7 @@ description: "An institutional analysis of ABL mechanics, acquisition efficiency
 date: "2025-10-31"
 author: "Jonas Hyltén"
 slug: "strategic-function-abl-niche-acquisitions"
----
+--- 
 
 The capital imbalance within niche market acquisitions is a product of fragmentation, not a lack of creditworthy assets.
 

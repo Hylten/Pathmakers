@@ -4,7 +4,7 @@ description: "Institutional briefing on how private credit functions as a volati
 date: "2025-11-15"
 author: "Jonas Hyltén"
 slug: "private-credit-hedge-mid-market-volatility"
----
+--- 
 
 The structural gap in the European and North American mid market is not the lack of buyers.
 

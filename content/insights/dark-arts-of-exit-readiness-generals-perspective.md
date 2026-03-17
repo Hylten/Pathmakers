@@ -4,7 +4,7 @@ description: "A strategic intelligence briefing on exit readiness, M&A friction 
 date: "2025-10-22"
 author: "Jonas Hyltén"
 slug: "dark-arts-of-exit-readiness-generals-perspective"
----
+--- 
 
 The capital vacuum in the transatlantic mid-market is not a product of valuation compression.
 

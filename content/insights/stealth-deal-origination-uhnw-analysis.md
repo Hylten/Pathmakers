@@ -4,7 +4,7 @@ description: "A deep structural analysis of the emerging covert mid‑market acq
 date: "2025-10-01"
 author: "Pathmaker Analyst Division"
 slug: "stealth-deal-origination-uhnw-analysis"
----
+--- 
 
 Stealth deal origination has become the principal hidden channel of mid‑market transaction flow, but most observers misdiagnose the cause.
 

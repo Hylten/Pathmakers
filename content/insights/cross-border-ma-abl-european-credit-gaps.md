@@ -4,7 +4,7 @@ description: "Technical brief on structural leverage, off‑market acquisition f
 date: "2026-02-23"
 author: "The Analyst Team"
 slug: "cross-border-ma-abl-european-credit-gaps"
----
+--- 
 
 The European mid‑market is shifting into a new credit physics.
 

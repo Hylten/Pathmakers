@@ -4,7 +4,7 @@ description: "A strategic deep dive into liquidity generation, private credit, a
 date: "2026-01-08"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-sovereign-financing-for-hnwi-and-uhnw-portfolios"
----
+--- 
 
 # The Pathmaker Approach to Sovereign Financing Liquidity is not a luxury at the upper tiers of capital stewardship.
 

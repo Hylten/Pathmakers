@@ -4,7 +4,7 @@ description: "Friction Elimination In Mid Market Carve Outs"
 date: "2025-08-27"
 author: "Jonas Hyltén"
 slug: "friction-elimination-in-mid-market-carve-outs"
----
+--- 
 
 # Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason.
 

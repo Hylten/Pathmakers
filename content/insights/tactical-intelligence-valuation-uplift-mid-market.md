@@ -4,7 +4,7 @@ description: "Why mid‑market founders are weaponizing tactical intelligence, e
 date: "2026-01-24"
 author: "Pathmaker Analyst Team"
 slug: "tactical-intelligence-valuation-uplift-mid-market"
----
+--- 
 
 The shift always begins in the blind spots.
 

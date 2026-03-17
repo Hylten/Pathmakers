@@ -4,7 +4,7 @@ description: "A pragmatic analysis of how Asset Based liquidity engineering and 
 date: "2026-02-16"
 author: "Jonas Hyltén"
 slug: "cross-border-ma-using-abl-to-navigate-european-credit-gaps-with-precision"
----
+--- 
 
 # Cross-Border M&A: Using Asset-Based Lending to Navigate European Credit Gaps European credit markets have become structurally slower, more compliance heavy, and increasingly risk averse.
 

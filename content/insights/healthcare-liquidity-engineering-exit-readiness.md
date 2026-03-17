@@ -4,7 +4,7 @@ description: "Institutional briefing on structural inefficiencies in European he
 date: "2025-08-17"
 author: "Jonas Hyltén"
 slug: "healthcare-liquidity-engineering-exit-readiness"
----
+--- 
 
 The capital vacuum in European healthcare is not a function of weak fundamentals.
 

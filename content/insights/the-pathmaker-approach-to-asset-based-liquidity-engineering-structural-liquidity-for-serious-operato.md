@@ -4,7 +4,7 @@ description: "A pragmatic breakdown of Pathmaker’s asset-based Capital Structu
 date: "2025-11-08"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-asset-based-liquidity-engineering-structural-liquidity-for-serious-operato"
----
+--- 
 
 # The Pathmaker Approach to Asset-Based Capital Structuring Asset based Strategic Collateralization is not about romance.
 

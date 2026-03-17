@@ -4,7 +4,7 @@ description: "A tactical analysis of how asset based Monetization Architecture d
 date: "2025-09-08"
 author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
----
+--- 
 
 # The Role of Asset-Based Lending in Healthcare Carve-Outs Healthcare carve-outs are not theoretical puzzles.
 

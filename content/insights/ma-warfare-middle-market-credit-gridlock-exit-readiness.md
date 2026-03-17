@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on mid-market M&A friction, 
 date: "2026-02-02"
 author: "The Analyst Team"
 slug: "ma-warfare-middle-market-credit-gridlock-exit-readiness"
----
+--- 
 
 The middle market is in a silent war.
 

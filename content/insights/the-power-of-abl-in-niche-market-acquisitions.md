@@ -4,7 +4,7 @@ description: "A deep institutional analysis of how asset based lending structure
 date: "2025-07-12"
 author: "Jonas Hyltén"
 slug: "the-power-of-abl-in-niche-market-acquisitions"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

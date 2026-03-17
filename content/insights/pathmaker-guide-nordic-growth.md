@@ -4,7 +4,7 @@ description: "A technical navigation framework for Nordic mid-market operators s
 date: "2025-12-07"
 author: "Jonas Hylten"
 slug: "pathmaker-guide-nordic-growth"
----
+--- 
 
 The structural gap shaping Nordic mid-market growth is not a lack of capable operators.
 

@@ -4,7 +4,7 @@ description: "A strategic deep dive into Nordic private credit and asset based l
 date: "2025-12-13"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-nordic-credit-structural-liquidity-for-serious-capital"
----
+--- 
 
 # The Pathmaker Approach to Nordic Credit Nordic private credit is no longer a boutique side lane of European finance.
 

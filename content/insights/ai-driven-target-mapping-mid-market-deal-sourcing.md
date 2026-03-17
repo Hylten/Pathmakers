@@ -4,7 +4,7 @@ description: "A high-density analytical briefing on AI-driven target mapping, of
 date: "2025-06-28"
 author: "Pathmaker Analyst Team"
 slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
----
+--- 
 
 The conventional search stack was always too blunt for the mid‑market.
 

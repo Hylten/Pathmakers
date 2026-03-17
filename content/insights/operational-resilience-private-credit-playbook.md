@@ -4,7 +4,7 @@ description: "Institutional-grade analysis on private credit as an operational r
 date: "2025-07-06"
 author: "Jonas Hyltén"
 slug: "operational-resilience-private-credit-playbook"
----
+--- 
 
 The structural gap in the European and North American credit markets is a byproduct of regulatory compression and banking retrenchment, not a deterioration in underlying business fundamentals.
 

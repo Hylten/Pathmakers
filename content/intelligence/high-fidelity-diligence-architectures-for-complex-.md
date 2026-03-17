@@ -4,7 +4,7 @@ description: "High Fidelity Diligence Architectures for Complex Targets Using Th
 date: "2026-03-20"
 author: "Pathmaker"
 slug: "high-fidelity-diligence-architectures-for-complex-targets-using-the-diagnostic-audit"
----
+--- 
 
 # High Fidelity Diligence Architectures for Complex Targets Using The Diagnostic Audit Mid market M&A has shifted.
 

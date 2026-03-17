@@ -4,7 +4,7 @@ description: "A technical memorandum on Nordic mid market cross border M&A, fric
 date: "2025-11-17"
 author: "Jonas Hyltén"
 slug: "nordic-cross-border-m-and-a-new-playbook"
----
+--- 
 
 The structural gap defining Nordic cross border M&A in 2026 is not valuation volatility.
 

@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity pathways in healthcare using 
 date: "2025-11-19"
 author: "Jonas Hyltén"
 slug: "navigating-the-healthcare-credit-landscape-a-pragmatic-guide-for-hnwi-and-uhnw-investors"
----
+--- 
 
 # Navigating the Healthcare Credit Landscape Healthcare credit is no longer an arena for generalists.
 

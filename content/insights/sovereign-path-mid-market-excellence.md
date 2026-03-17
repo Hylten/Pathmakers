@@ -4,7 +4,7 @@ description: "Institutional analysis of mid-market strategic alignment, exit rea
 date: "2025-07-26"
 author: "Jonas Hyltén"
 slug: "sovereign-path-mid-market-excellence"
----
+--- 
 
 Structural Gap: The durability of mid-market enterprise value across Europe is constrained less by market volatility and more by organizational underdevelopment in exit preparation, governance codification, and readiness for institutional scrutiny.
 

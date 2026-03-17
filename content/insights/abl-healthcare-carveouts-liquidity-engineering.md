@@ -4,7 +4,7 @@ description: "A deep institutional analysis of asset‑based lending structures 
 date: "2026-01-23"
 author: "The Analyst Team"
 slug: "abl-healthcare-carveouts-liquidity-engineering"
----
+--- 
 
 Healthcare carve-outs punish slow operators.
 

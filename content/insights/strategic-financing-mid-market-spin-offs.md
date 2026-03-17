@@ -4,7 +4,7 @@ description: "A technical analyst briefing on liquidity engineering, balance she
 date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "strategic-financing-mid-market-spin-offs"
----
+--- 
 
 The persistent capital friction observed in the European mid-market spin-off environment is a structural consequence of regulatory compression and banking retrenchment rather than a lack of viable operating assets.
 

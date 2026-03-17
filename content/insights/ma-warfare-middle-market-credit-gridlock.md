@@ -4,7 +4,7 @@ description: "Institutional analysis of mid-market M&A compression, credit dislo
 date: "2026-02-03"
 author: "Jonas Hyltén"
 slug: "ma-warfare-middle-market-credit-gridlock"
----
+--- 
 
 The contraction in mid-market credit availability is not a function of deteriorating operating performance.
 

@@ -4,7 +4,7 @@ description: "A strategic deep dive into mid-market liquidity constraints and ho
 date: "2025-09-27"
 author: "Jonas Hyltén"
 slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
----
+--- 
 
 # Navigating Mid-Market Liquidity Challenges With Institutional Precision Mid-market operators face liquidity stress long before the outside world notices.
 

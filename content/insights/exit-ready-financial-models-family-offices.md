@@ -4,7 +4,7 @@ description: "A Pathmaker-level intelligence briefing on the structural rise of 
 date: "2025-09-01"
 author: "Pathmaker Analyst Team"
 slug: "exit-ready-financial-models-family-offices"
----
+--- 
 
 The shift began quietly.
 

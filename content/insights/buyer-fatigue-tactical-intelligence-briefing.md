@@ -4,7 +4,7 @@ description: "A high-density analyst briefing on the structural rise of buyer fa
 date: "2026-03-11"
 author: "Pathmaker Intelligence Unit"
 slug: "buyer-fatigue-tactical-intelligence-briefing"
----
+--- 
 
 Buyer fatigue is no mystery.
 

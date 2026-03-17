@@ -4,7 +4,7 @@ description: "A strategic deep dive into how Asset Based liquidity engineering a
 date: "2025-12-31"
 author: "Jonas Hyltén"
 slug: "precision-ma-using-abl-to-close-complex-deals"
----
+--- 
 
 # Precision M&A: Using Asset-Based Lending to Close Complex Deals Mid market M&A is rarely elegant.
 

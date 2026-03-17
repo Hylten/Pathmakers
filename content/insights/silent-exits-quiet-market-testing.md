@@ -4,7 +4,7 @@ description: "A deep tactical analysis of the rise of silent exits, the mechanic
 date: "2025-12-04"
 author: "Pathmaker Analyst Group"
 slug: "silent-exits-quiet-market-testing"
----
+--- 
 
 The signal rises before the noise.
 

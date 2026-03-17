@@ -4,7 +4,7 @@ description: "A high-level analysis of strategic liquidity and asset based liqui
 date: "2025-12-04"
 author: "Jonas Hyltén"
 slug: "strategic-abl-for-healthcare-logistics-liquidity-architecture-for-real-world-constraints"
----
+--- 
 
 # Strategic Asset-Based Lending for Healthcare Logistics Healthcare logistics is not a romance story.
 

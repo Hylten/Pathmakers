@@ -4,7 +4,7 @@ description: "A deep analysis of strategic liquidity mechanics for Nordic carve-
 date: "2025-07-05"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-nordic-carve-outs-a-pragmatic-path-to-execution"
----
+--- 
 
 # Strategic Liquidity for Nordic Carve-Outs Nordic carve outs tend to look clean on paper.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on liquidity engineering, exit readiness, a
 date: "2025-10-03"
 author: "Jonas Hyltén"
 slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
----
+--- 
 
 The capital vacuum in the 2026 credit regime is the result of procyclical deleveraging inside the European and North American banking systems, not a decline in corporate productivity.
 

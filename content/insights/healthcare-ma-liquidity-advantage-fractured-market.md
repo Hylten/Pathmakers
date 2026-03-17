@@ -4,7 +4,7 @@ description: "A principal-level institutional briefing on liquidity asymmetry, e
 date: "2025-11-10"
 author: "Jonas Hyltén — The Analyst Team"
 slug: "healthcare-ma-liquidity-advantage-fractured-market"
----
+--- 
 
 Liquidity decides outcomes.
 

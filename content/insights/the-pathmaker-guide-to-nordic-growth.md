@@ -4,7 +4,7 @@ description: "A strategic, liquidity‑focused guide to Nordic expansion, privat
 date: "2026-01-06"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-guide-to-nordic-growth"
----
+--- 
 
 # The Pathmaker Guide to Nordic Growth Nordic growth is not a fairy tale about scrappy founders or overnight miracles.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on precision financing, exit readiness, dea
 date: "2025-11-14"
 author: "Jonas Hyltén"
 slug: "tactical-vanguard-precision-financing-midmarket"
----
+--- 
 
 The capital vacuum across the European and North American mid-market is a direct consequence of structural fragmentation, regulatory compression, and an institutional preference for scale.
 

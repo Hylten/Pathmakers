@@ -4,7 +4,7 @@ description: "A deep examination of Pathmaker’s approach to liquidity, private
 date: "2025-09-26"
 author: "Jonas Hyltén"
 slug: "the-pathmaker-vision-for-institutional-ma-structural-liquidity-for-the-new-era"
----
+--- 
 
 # The Pathmaker Vision for Institutional M&A A Structural Liquidity Blueprint for Serious Capital Institutional M&A has entered a new phase.
 

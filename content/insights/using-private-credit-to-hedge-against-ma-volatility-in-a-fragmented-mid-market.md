@@ -4,7 +4,7 @@ description: "A high level look at how HNWI and UHNW operators use private credi
 date: "2025-10-13"
 author: "Jonas Hyltén"
 slug: "using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market"
----
+--- 
 
 # Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market Mid market M&A operates in a volatility band that feels manageable on paper and punishing in real life.
 

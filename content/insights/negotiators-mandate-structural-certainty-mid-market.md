@@ -4,7 +4,7 @@ description: "Institutional analysis on M&A friction removal, exit readiness eng
 date: "2025-06-23"
 author: "Jonas Hyltén"
 slug: "negotiators-mandate-structural-certainty-mid-market"
----
+--- 
 
 The capital vacuum across the European and Nordic mid market is not a liquidity shortage.
 
