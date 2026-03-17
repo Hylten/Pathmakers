@@ -56,9 +56,9 @@ Not advisory chatter.
 
 Warfare.
 
-With white space for air and clarity. 
+With white space for air and clarity.
 
-## The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles
+The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles
 
 .
 
@@ -82,9 +82,9 @@ That is the dark art.
 
 Not a presentation.
 
-A restructuring of reality. 
+A restructuring of reality.
 
-## The First Principle: Asset Hardening Hard assets withstand scrutiny
+The First Principle: Asset Hardening Hard assets withstand scrutiny
 
 .
 
@@ -120,9 +120,9 @@ It is structural alignment.
 
 The owner who neglects this enters negotiations at a disadvantage.
 
-The owner who executes it early gains negotiating command. 
+The owner who executes it early gains negotiating command.
 
-## The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy
+The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy
 
 .
 
@@ -148,9 +148,9 @@ This reduces friction.
 
 Elevates credibility.
 
-Increases velocity. 
+Increases velocity.
 
-## Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder
+Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder
 
 .
 
@@ -188,9 +188,9 @@ No question from the buyer produces hesitation.
 
 Silence is the enemy.
 
-Clarity is the shield. 
+Clarity is the shield.
 
-## The Culture of Covenant Stewardship Covenant stewardship is not a slogan
+The Culture of Covenant Stewardship Covenant stewardship is not a slogan
 
 .
 
@@ -230,9 +230,9 @@ A future-proof asset that honors the people who built it.
 
 This cultural position elevates the exit.
 
-It also elevates the valuation. 
+It also elevates the valuation.
 
-## Removing Founder Dependency Institutional buyers do not acquire personal empires
+Removing Founder Dependency Institutional buyers do not acquire personal empires
 
 .
 
@@ -264,9 +264,9 @@ You remove yourself from the center without collapsing the structure.
 
 It is a slow exfiltration.
 
-Not a sudden departure. 
+Not a sudden departure.
 
-## Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris
+Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris
 
 .
 
@@ -316,9 +316,9 @@ Examples:
 
 - Rationalizing workforce structure Nothing sloppy remains.
 
-The battlefield must be clean. 
+The battlefield must be clean.
 
-## Customer Concentration: The Price Assassin A company with two clients owning
+Customer Concentration: The Price Assassin A company with two clients owning
 
  
 
@@ -350,9 +350,9 @@ But it can be controlled.
 
 The objective is not cosmetic improvement.
 
-The objective is structural mitigation that stands up under diligence. 
+The objective is structural mitigation that stands up under diligence.
 
-## Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns
+Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns
 
 .
 
@@ -376,9 +376,9 @@ A company that runs on improvisation signals risk.
 
 Cadence produces peace.
 
-Peace produces valuation. 
+Peace produces valuation.
 
-## Intelligence Documentation The General does not rely on memory
+Intelligence Documentation The General does not rely on memory
 
 .
 
@@ -414,9 +414,9 @@ Documents typically include:
 
 Buyers interpret velocity as competence.
 
-Velocity raises valuation. 
+Velocity raises valuation.
 
-## The Silent Power: Staff Alignment Staff alignment is not theatrical
+The Silent Power: Staff Alignment Staff alignment is not theatrical
 
 .
 
@@ -448,9 +448,9 @@ A General ensures the internal climate is calm.
 
 A buyer senses stability.
 
-Confidence increases. 
+Confidence increases.
 
-## Preparing for Buyer Psychology Institutional buyers operate with pattern recognition
+Preparing for Buyer Psychology Institutional buyers operate with pattern recognition
 
 .
 
@@ -480,9 +480,9 @@ This accelerates the acquisition timeline.
 
 It reduces grind.
 
-It increases leverage. 
+It increases leverage.
 
-## Strategic Timing: When to Enter the Market The General watches three clocks
+Strategic Timing: When to Enter the Market The General watches three clocks
 
 :
 
@@ -510,9 +510,9 @@ A soft asset enters at a moment of hope.
 
 Hope has no place in M and A.
 
-Only readiness. 
+Only readiness.
 
-## Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals
+Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals
 
 .
 
@@ -532,9 +532,9 @@ Pressure reduces discipline.
 
 Pressure reveals fear.
 
-Fear is exploitable. 
+Fear is exploitable.
 
-## Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction
+Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction
 
 .
 
@@ -554,7 +554,9 @@ Machines command higher multiples.
 
 Velocity is the outcome of hardened assets.
 
-Velocity is the signature of a prepared General. # The Closing View Exit readiness is not decoration.
+Velocity is the signature of a prepared General.
+
+The Closing View Exit readiness is not decoration.
 
 It is covenant stewardship expressed through order.
 
@@ -578,9 +580,9 @@ A legacy that honors family.
 
 Honors community.
 
-Honors the sacred trust of ownership. 
+Honors the sacred trust of ownership.
 
-## Book a strategic consultatio
+Book a strategic consultatio
 
 n
 

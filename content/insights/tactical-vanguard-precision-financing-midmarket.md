@@ -10,13 +10,9 @@ The capital vacuum across the European and North American mid-market is a direct
 
 The highest quality operators often remain sub institutional size for too long, which produces an exploitable gap: exit valuations decline while operational performance strengthens.
 
-Precision financing exists to neutralize this imbalance. 
+Precision financing exists to neutralize this imbalance.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -45,13 +41,9 @@ The operative reality is that high performing mid market companies rarely fail o
 
 They fail to achieve optimal transaction outcomes because they underestimate the structural choreography required to move from owner operated equilibrium to institutional acquisition readiness.
 
-The capital markets reward preparation and penalize improvisation. 
+The capital markets reward preparation and penalize improvisation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -109,7 +101,7 @@ This reduces noise, preserves valuation integrity, and shortens the transaction 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator, not as a principal investor.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -137,13 +129,9 @@ Mid market companies do not lack opportunity.
 
 They lack institutional visibility.
 
-The partnership model exists to close that gap. 
+The partnership model exists to close that gap.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation
+THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation
 
 .
 

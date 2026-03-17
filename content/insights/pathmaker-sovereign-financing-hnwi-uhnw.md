@@ -370,9 +370,7 @@ Sovereign architecture builds downward from mandate.
 
 Pathmaker inverts the capital stack.
 
-It establishes 
-
-## THE MANDAT
+It establishes THE MANDAT
 
 E
 
@@ -388,9 +386,7 @@ They do not negotiate around personal preference.
 
 They finance strategic relevance.
 
-Once 
-
-## THE MANDAT
+Once THE MANDAT
 
 E
 

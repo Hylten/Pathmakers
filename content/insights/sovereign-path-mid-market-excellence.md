@@ -30,13 +30,9 @@ Enterprises that successfully undergo this transformation command materially str
 
 My work across the Nordic landscape has consistently demonstrated that excellence in the mid market is not the product of scale.
 
-It is the product of architecture. 
+It is the product of architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -84,13 +80,9 @@ They create value but do not document it.
 
 They scale but do not articulate the mechanics of the scale.
 
-This disconnect produces a structural discount. 
+This disconnect produces a structural discount.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -236,13 +228,9 @@ Roials Capital provides strategic alignment and institutional
 
  INTRODUCTION
 
- . 
+ .
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction
+THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction
 
 .
 

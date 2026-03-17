@@ -58,9 +58,9 @@ Precision.
 
 White space to allow the mind to maneuver.
 
-Read it as a field manual. 
+Read it as a field manual.
 
-## The Middle-Market Credit Gap The credit gap emerged from three converging forces
+The Middle-Market Credit Gap The credit gap emerged from three converging forces
 
 .
 
@@ -100,9 +100,9 @@ Capital abandons firms that show drift.
 
 For the unprepared owner, the gap becomes a permanent condition.
 
-For the disciplined owner, it becomes an arbitrage. 
+For the disciplined owner, it becomes an arbitrage.
 
-## Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic
+Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic
 
 .
 
@@ -150,9 +150,9 @@ They punish it.
 
 Hardening transforms the business from personality risk to covenant strength.
 
-This is the foundation for credible acquisition. 
+This is the foundation for credible acquisition.
 
-## The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance
+The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance
 
 .
 
@@ -186,9 +186,9 @@ When they do not see it, they stretch diligence and reduce valuations as a defen
 
 Stewardship is therefore not a moral luxury.
 
-It is an economic necessity. 
+It is an economic necessity.
 
-## Execution Velocity as a Competitive Weapon The middle market suffers from inertia
+Execution Velocity as a Competitive Weapon The middle market suffers from inertia
 
 .
 
@@ -224,9 +224,9 @@ Fast companies are considered aligned.
 
 Velocity signals competence.
 
-Competence increases valuation. 
+Competence increases valuation.
 
-## Tactical Intelligence for M&A Friction M&A friction arises from asymmetry
+Tactical Intelligence for M&A Friction M&A friction arises from asymmetry
 
 .
 
@@ -260,9 +260,9 @@ Tactical Intelligence reveals these realities without sentiment.
 
 Friction resolved pre-deal increases exit certainty.
 
-Friction ignored becomes buyer leverage. 
+Friction ignored becomes buyer leverage.
 
-## Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize
+Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize
 
 .
 
@@ -290,9 +290,9 @@ The gap is permanent.
 
 The solution is adaptation.
 
-Not optimism. 
+Not optimism.
 
-## Private Credit as the New Strategic Ally Private credit is not an alternative capital source
+Private Credit as the New Strategic Ally Private credit is not an alternative capital source
 
 .
 
@@ -318,9 +318,9 @@ It responds to clarity and de-risks execution.
 
 Owners who understand this channel accelerate growth, acquisition, and exit readiness with speed unavailable through traditional institutions.
 
-Owners who do not understand it remain constrained by outdated expectations. 
+Owners who do not understand it remain constrained by outdated expectations.
 
-## Intelligence for GP-Grade Exit Readiness GPs acquire clarity
+Intelligence for GP-Grade Exit Readiness GPs acquire clarity
 
 .
 
@@ -348,9 +348,9 @@ Sellers who meet them receive premium multiples.
 
 Sellers who resist them receive conditional offers at discounted valuations.
 
-Exit readiness is achieved through discipline, not hope. 
+Exit readiness is achieved through discipline, not hope.
 
-## The War for Middle-Market Liquidity Liquidity is terrain
+The War for Middle-Market Liquidity Liquidity is terrain
 
 .
 
@@ -374,9 +374,9 @@ Governance signaling integrity.
 
 When these elements exist, liquidity moves quickly.
 
-When they do not, liquidity evaporates. 
+When they do not, liquidity evaporates.
 
-## Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate
+Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate
 
 .
 
@@ -410,9 +410,9 @@ Not quick fixes.
 
 Not cosmetic improvements.
 
-Structural alignment. 
+Structural alignment.
 
-## Crossing the Credit Gap The credit gap is not crossed through optimism
+Crossing the Credit Gap The credit gap is not crossed through optimism
 
 .
 
@@ -434,9 +434,9 @@ It increases valuation.
 
 It opens relationships with private credit providers who operate at velocity that banks cannot match.
 
-The gap becomes an advantage. 
+The gap becomes an advantage.
 
-## Final Directive The middle market is entering a new era
+Final Directive The middle market is entering a new era
 
 .
 

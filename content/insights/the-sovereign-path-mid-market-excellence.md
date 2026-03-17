@@ -30,9 +30,9 @@ We provide the mechanics that upgrade high net worth and ultra high net worth op
 
 This is not a turnaround fantasy.
 
-It is a sovereign path built through liquidity discipline and battle tested execution. 
+It is a sovereign path built through liquidity discipline and battle tested execution.
 
-## The Sovereign Path: What It Means for HNWI and UHNW Operators Sovereignty in the mid‑market is not about having the most capital
+The Sovereign Path: What It Means for HNWI and UHNW Operators Sovereignty in the mid‑market is not about having the most capital
 
 .
 
@@ -46,9 +46,9 @@ It means your liquidity posture becomes the advantage that competitors cannot re
 
 Pathmaker is the architecture behind that level of control.
 
-HNWI and UHNW clients use Pathmaker not because we are loud, but because we are structurally reliable and strategically aligned with their terrain. 
+HNWI and UHNW clients use Pathmaker not because we are loud, but because we are structurally reliable and strategically aligned with their terrain.
 
-## The Endgame: Mastery Through Liquidity Mechanics Mid‑market operators who endure are not the ones with the most optimistic projections
+The Endgame: Mastery Through Liquidity Mechanics Mid‑market operators who endure are not the ones with the most optimistic projections
 
 .
 

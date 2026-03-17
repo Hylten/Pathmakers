@@ -554,7 +554,7 @@ Operators who adapt will scale through dislocation.
 
 Operators who delay will face compression.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

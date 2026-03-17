@@ -12,7 +12,7 @@ slug: "precision-financing-for-the-nordic-biotech-sector"
 
 A 
 
-# Phase D: efined by an unforgiving cost of capital
+### Phase D: efined by an unforgiving cost of capital
 
 .
 
@@ -36,9 +36,9 @@ We underwrite what others ignore.
 
 The Nordic BioTech market is mature in sophistication, but fragmented in financing infrastructure.
 
-Pathmaker exists to bridge that structural fragmentation. 
+Pathmaker exists to bridge that structural fragmentation.
 
-## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000
+Crypto Asset-Backed Frameworks: Minimum Threshold 2,000
 
 ,
 
@@ -59,9 +59,9 @@ It does not create tax events.
 
 Crypto Institutional Liquidity Paths is not a gimmick.
 
-It is a practical liquidity channel for principals who understand asset diversification and who want their balance sheet to function as a multi dimensional financing tool. 
+It is a practical liquidity channel for principals who understand asset diversification and who want their balance sheet to function as a multi dimensional financing tool.
 
-## Mid Market M and A Dynamics in Nordic BioTech Mid market M and A in BioTech is fundamentally tactical
+Mid Market M and A Dynamics in Nordic BioTech Mid market M and A in BioTech is fundamentally tactical
 
 .
 
@@ -93,9 +93,9 @@ Our financing supports:
 
 We do not finance dreams.
 
-We finance executable strategies. 
+We finance executable strategies.
 
-## Carve Outs: The Hardest Transactions in BioTech BioTech carve outs are messy
+Carve Outs: The Hardest Transactions in BioTech BioTech carve outs are messy
 
 .
 
@@ -115,9 +115,9 @@ Carve outs do not need heroics.
 
 They need precision.
 
-That is what we deliver. 
+That is what we deliver.
 
-## Why HNWI and UHNW Principals Choose Pathmaker Our clients are not interested in noise
+Why HNWI and UHNW Principals Choose Pathmaker Our clients are not interested in noise
 
 .
 
@@ -139,9 +139,9 @@ They do not engage with lenders who require education.
 
 They engage with lenders who already understand the battlefield.
 
-Pathmaker is built for that rule. 
+Pathmaker is built for that rule.
 
-## The Strategic Case for Liquidity in 2026 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity
+The Strategic Case for Liquidity in 2026 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity
 
 .
 
@@ -159,9 +159,9 @@ Liquidity is the strategic lever that determines:
 
 The sector is entering an era where financial engineering matters as much as scientific engineering.
 
-Pathmaker stands in that intersection. 
+Pathmaker stands in that intersection.
 
-## Precision Financing Builds Optionality Optionality separates strong operators from the market’s casualties
+Precision Financing Builds Optionality Optionality separates strong operators from the market’s casualties
 
 .
 
@@ -181,9 +181,9 @@ Crypto Monetization Architecture offers optionality.
 
 Public share Capital Structuring offers optionality.
 
-In BioTech, optionality is survival. 
+In BioTech, optionality is survival.
 
-## Final Thought: principal authority in a Noisy Market The Nordic BioTech sector is loud
+Final Thought: principal authority in a Noisy Market The Nordic BioTech sector is loud
 
 .
 

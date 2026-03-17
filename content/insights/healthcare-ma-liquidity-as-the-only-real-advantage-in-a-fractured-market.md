@@ -24,9 +24,9 @@ Liquidity is the only factor that consistently decides who closes and who bleeds
 
 In a market crowded with capital allocators who talk in abstractions, the investors who move fast with real liquidity win the deal and dictate the structure.
 
-Everyone else reacts. 
+Everyone else reacts.
 
-## The Market Has Shifted, Permanently Healthcare used to tolerate slower capital
+The Market Has Shifted, Permanently Healthcare used to tolerate slower capital
 
 .
 
@@ -44,9 +44,9 @@ They want certainty of close more than the theoretical premium a buyer might pay
 
 In this compressed environment, liquidity is not a competitive advantage.
 
-It is the entry fee. 
+It is the entry fee.
 
-## Why Liquidity Dominates Healthcare Carve‑Outs Carve‑outs in healthcare are different from general corporate carve‑outs
+Why Liquidity Dominates Healthcare Carve‑Outs Carve‑outs in healthcare are different from general corporate carve‑outs
 
 .
 
@@ -90,9 +90,9 @@ They discount buyers that use slow, multi‑layered financing stacks, because th
 
 Liquidity is the only antidote to carve‑out complexity.
 
-It is also the only currency sellers trust. 
+It is also the only currency sellers trust.
 
-## The Real Problem: Traditional Capital Moves Too Slowly Institutional capital stacks are methodical, which is a polite way to say slow
+The Real Problem: Traditional Capital Moves Too Slowly Institutional capital stacks are methodical, which is a polite way to say slow
 
 .
 
@@ -116,9 +116,9 @@ The buyer absorbs risk they did not price.
 
 Deal quality erodes.
 
-This is the silent killer of mid‑market healthcare M&A. 
+This is the silent killer of mid‑market healthcare M&A.
 
-## Pathmaker: Liquidity for Healthcare M&A Without Friction Pathmaker exists to eliminate the slowest part of the transaction cycle
+Pathmaker: Liquidity for Healthcare M&A Without Friction Pathmaker exists to eliminate the slowest part of the transaction cycle
 
 .
 
@@ -140,9 +140,9 @@ We provide structural clarity.
 
 We do not provide noise.
 
-This is the principal authority model. 
+This is the principal authority model.
 
-## Why HNWI and UHNW Investors Use Pathmaker During Healthcare Acquisitions Sophisticated buyers understand that you do not win in healthcare by offering the highest valuation
+Why HNWI and UHNW Investors Use Pathmaker During Healthcare Acquisitions Sophisticated buyers understand that you do not win in healthcare by offering the highest valuation
 
 .
 
@@ -174,9 +174,9 @@ Your assets continue working while unlocking deal liquidity.
 
 * Pathmaker provides mechanics that large lenders use internally, but without the slow timeline.
 
-For mid‑market healthcare deals, that delta is the difference between leading and losing. 
+For mid‑market healthcare deals, that delta is the difference between leading and losing.
 
-## Liquidity as a Lever in Deal Negotiation With sufficient liquidity, buyers negotiate from strength
+Liquidity as a Lever in Deal Negotiation With sufficient liquidity, buyers negotiate from strength
 
 .
 
@@ -222,9 +222,9 @@ Liquidity shrinks the need for complex earnouts.
 
 Liquidity replaces bravado with certainty.
 
-Deals respond accordingly. 
+Deals respond accordingly.
 
-## The Hidden Reality: Liquidity Protects Post‑Close Stability Most M&A strategies focus on the close, not the aftermath
+The Hidden Reality: Liquidity Protects Post‑Close Stability Most M&A strategies focus on the close, not the aftermath
 
 .
 
@@ -254,9 +254,9 @@ Liquidity covers:
 
 Liquidity is the shock absorber.
 
-Without it, even good operators drown. 
+Without it, even good operators drown.
 
-## Mid‑Market Operators: Where Liquidity Determines Survivorship The mid‑market is uniquely exposed
+Mid‑Market Operators: Where Liquidity Determines Survivorship The mid‑market is uniquely exposed
 
 .
 
@@ -276,9 +276,9 @@ They also represent the largest volume of healthcare M&A activity today.
 
 For these operators, liquidity is not optional.
 
-It is survival capital. 
+It is survival capital.
 
-## The Strategic Role of Asset Based Capital Structuring in Healthcare Acquisitions Asset Based Capital Structuring solves a critical pain point
+The Strategic Role of Asset Based Capital Structuring in Healthcare Acquisitions Asset Based Capital Structuring solves a critical pain point
 
 .
 
@@ -302,9 +302,9 @@ With Asset-Based Lending, investors unlock liquidity without unwinding long‑te
 
 The result is cleaner capital structuring and faster transaction readiness.
 
-This is why sophisticated healthcare buyers integrate asset based Monetization Architecture into their M&A playbook. 
+This is why sophisticated healthcare buyers integrate asset based Monetization Architecture into their M&A playbook.
 
-## Private Credit as a Precision Tool in Carve‑Out Scenarios Private credit funding is not a luxury in healthcare carve‑outs
+Private Credit as a Precision Tool in Carve‑Out Scenarios Private credit funding is not a luxury in healthcare carve‑outs
 
 .
 
@@ -330,9 +330,9 @@ We create event‑driven liquidity engineered around three priorities:
 
 * 
 
-* When these three conditions are met, the buyer controls the trajectory of the deal from day one. 
+* When these three conditions are met, the buyer controls the trajectory of the deal from day one.
 
-## Liquidity and the F‑Hierarchical Dynamics The F‑Hierarchical Dynamics is simple
+Liquidity and the F‑Hierarchical Dynamics The F‑Hierarchical Dynamics is simple
 
 .
 
@@ -352,9 +352,9 @@ This is the difference between a partner and a distraction.
 
 principal authority amplifies your position.
 
-It never competes with it. 
+It never competes with it.
 
-## Without Liquidity, Even Good Deals Become Bad Quickly Many healthcare acquisitions fail for the same reasons
+Without Liquidity, Even Good Deals Become Bad Quickly Many healthcare acquisitions fail for the same reasons
 
 :
 
@@ -376,9 +376,9 @@ Liquidity absorbs transitional drag.
 
 Liquidity eliminates the need for desperate capital mid‑integration.
 
-It does not guarantee success, but it eliminates avoidable failure. 
+It does not guarantee success, but it eliminates avoidable failure.
 
-## The Only Sustainable Advantage in Healthcare M&A Information moves fast
+The Only Sustainable Advantage in Healthcare M&A Information moves fast
 
 .
 
@@ -394,9 +394,9 @@ Liquidity stabilizes.
 
 Liquidity protects.
 
-That trifecta remains undefeated. 
+That trifecta remains undefeated.
 
-## Pathmaker’s Role in Your Next Transaction If you are an HNWI or UHNW investor operating in healthcare M&A, your challenge is not finding deals
+Pathmaker’s Role in Your Next Transaction If you are an HNWI or UHNW investor operating in healthcare M&A, your challenge is not finding deals
 
 .
 

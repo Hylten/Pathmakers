@@ -26,13 +26,9 @@ It outlines how structural certainty is manufactured through disciplined prepara
 
 The Nordic mid market requires a new archetype.
 
-Not a broker, not a banker, but a strategic architect capable of collapsing complexity and delivering frictionless clarity in the moments when a deal either compounds or collapses. 
+Not a broker, not a banker, but a strategic architect capable of collapsing complexity and delivering frictionless clarity in the moments when a deal either compounds or collapses.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ This regime shift places a new responsibility on the advisor or negotiator of re
 
 Technical negotiation must be supported by operational intelligence and full spectrum preparation.
 
-There is no buyer appetite for improvisation. 
+There is no buyer appetite for improvisation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -212,13 +204,9 @@ The objective is to support the principal in maximizing structural certainty whi
 
 For energy specific transactions, NAEO operates as the institutional grade counterpart for North America.
 
-Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions. 
+Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment
+THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment
 
 .
 

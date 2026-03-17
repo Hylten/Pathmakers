@@ -12,13 +12,9 @@ It is a capital timing problem.
 
 Liquidity misalignment between buyer readiness and seller urgency is now the primary friction point across Europe and North America.
 
-The result is a widening execution gap where assets trade off market to parties capable of mobilizing collateralized liquidity within compressed time windows. 
+The result is a widening execution gap where assets trade off market to parties capable of mobilizing collateralized liquidity within compressed time windows.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ These factors have created an environment where UHNW principals and their family
 
 ABL is not used as rescue liquidity.
 
-It is used as strategic liquidity to solve the timing mismatch that traditional lenders cannot address. 
+It is used as strategic liquidity to solve the timing mismatch that traditional lenders cannot address.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -208,13 +200,9 @@ Some assets lack the collateral depth.
 
 Others benefit more from mezzanine structures or hybrid facilities.
 
-Roials Capital provides calibration on when ABL is structurally advantageous and when alternative liquidity tools create better alignment. 
+Roials Capital provides calibration on when ABL is structurally advantageous and when alternative liquidity tools create better alignment.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
 
 .
 

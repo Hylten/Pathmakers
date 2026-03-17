@@ -40,9 +40,9 @@ Asset based Asset-Backed Frameworks.
 
 Targeted liquidity tools that support high conviction buyers who understand what they want but need precision in capital structure.
 
-Our role is to create stability in moments where the rest of the market hesitates. 
+Our role is to create stability in moments where the rest of the market hesitates.
 
-## The Pathmaker Advantage in Nordic Carve Outs Our advantage is not price
+The Pathmaker Advantage in Nordic Carve Outs Our advantage is not price
 
 .
 
@@ -60,9 +60,9 @@ We craft liquidity tools that absorb shocks.
 
 We allow buyers to focus on integration, people, systems, and operations.
 
-Not on patching liquidity gaps. 
+Not on patching liquidity gaps.
 
-## A Carve Out Is a Liquidity Puzzle Before It Is a Strategic Asset Most acquisition failures are not strategic failures
+A Carve Out Is a Liquidity Puzzle Before It Is a Strategic Asset Most acquisition failures are not strategic failures
 
 .
 
@@ -80,9 +80,9 @@ Unexpected transitional costs.
 
 A buyer can have the right vision, the right management team, the right operational plan, and still fail if the liquidity structure is insufficient.
 
-This is the part of the acquisition equation that Pathmaker solves. 
+This is the part of the acquisition equation that Pathmaker solves.
 
-## The Future of Carve Out Liquidity in the Nordic Region The Nordic markets will continue to generate carve out opportunities
+The Future of Carve Out Liquidity in the Nordic Region The Nordic markets will continue to generate carve out opportunities
 
 .
 
@@ -96,9 +96,9 @@ Pathmaker stands ready in this environment.
 
 Not as a lender from the old model.
 
-As a strategic liquidity partner for buyers who value precision, discretion, and authority that does not need to announce itself. 
+As a strategic liquidity partner for buyers who value precision, discretion, and authority that does not need to announce itself.
 
-## Final Perspective Carve outs reward buyers who respect liquidity
+Final Perspective Carve outs reward buyers who respect liquidity
 
 .
 

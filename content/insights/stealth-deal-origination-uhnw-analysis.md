@@ -42,9 +42,9 @@ Not the diamonds.
 
 This is the inflection.
 
-And the strategic consequences are immense.
+And the strategic consequences are immense. 
 
-# Phase I
+### Phase I
 
 - ## The first structural shift: founders no longer trust the traditional M&A theatre.
 
@@ -172,9 +172,9 @@ They want a counterparty who understands their world without forcing them onto a
 
 Stealth origination is an act of respect.
 
-One founder speaks to another human being, not to a marketplace of bidders.
+One founder speaks to another human being, not to a marketplace of bidders. 
 
-# Phase III: - INTERNAL STRUCTURE The architectural breakdown follows
+### Phase III: - INTERNAL STRUCTURE The architectural breakdown follows
 
 .
 

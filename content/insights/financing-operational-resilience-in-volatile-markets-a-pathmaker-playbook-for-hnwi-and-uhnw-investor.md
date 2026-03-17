@@ -26,9 +26,7 @@ principal authority.
 
 We are the structural mechanics behind institutional grade capital.
 
-We design liquidity ecosystems that hold under stress, that absorb volatility, and that allow operators to execute without waiting for market sentiment to catch up. 
-
-## principal authority: The Structural Role of Pathmaker Pathmaker does not operate as a retail lender
+We design liquidity ecosystems that hold under stress, that absorb volatility, and that allow operators to execute without waiting for market sentiment to catch up. principal authority: The Structural Role of Pathmaker Pathmaker does not operate as a retail lender
 
 .
 
@@ -42,9 +40,9 @@ We focus on engineering the structural capital mechanisms that institutional act
 
 Our value is not in noise.
 
-It is in execution. 
+It is in execution.
 
-## Operational Resilience as a Competitive Weapon In volatile markets, operational resilience is a competitive weapon because it creates asymmetry
+Operational Resilience as a Competitive Weapon In volatile markets, operational resilience is a competitive weapon because it creates asymmetry
 
 .
 
@@ -62,9 +60,9 @@ We equip high net worth operators with the ability to stabilize, to accelerate, 
 
 Volatility is not an excuse.
 
-It is an environment that rewards precision. 
+It is an environment that rewards precision.
 
-## Building a Forward Defensive Posture Companies survive volatility when they build forward
+Building a Forward Defensive Posture Companies survive volatility when they build forward
 
 .
 
@@ -86,9 +84,9 @@ It reinforces both day one resilience and long term maneuverability.
 
 Operational resilience is not reactive.
 
-It is architectural. 
+It is architectural.
 
-## The Pathmaker Approach Our approach is direct
+The Pathmaker Approach Our approach is direct
 
 .
 

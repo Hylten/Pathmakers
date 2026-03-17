@@ -36,7 +36,7 @@ This is where Pathmaker positions itself.
 
 By transforming unstructured private enterprises into acquisition grade assets with institutional posture.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -44,9 +44,9 @@ E
 
 It is command.
 
-It is tactical intelligence for owners who understand that value is engineered before the LOI, not after. 
+It is tactical intelligence for owners who understand that value is engineered before the LOI, not after.
 
-## The Theology of Structure Christian conservative stewardship is not a soft virtue
+The Theology of Structure Christian conservative stewardship is not a soft virtue
 
 .
 
@@ -68,9 +68,9 @@ The presence of structure communicates covenant reliability.
 
 When an owner submits to structural hardening, the enterprise shifts from personality driven to mandate driven.
 
-This is the moment where the private equity buyer begins to view the asset as integrable, not anecdotal. 
+This is the moment where the private equity buyer begins to view the asset as integrable, not anecdotal.
 
-## Asset Hardening as Warfare The market rewards hardened assets
+Asset Hardening as Warfare The market rewards hardened assets
 
 .
 
@@ -104,9 +104,9 @@ They fail from structural neglect.
 
 Private equity acquires this neglect at a discount.
 
-Pathmaker neutralizes it before the buyer arrives. 
+Pathmaker neutralizes it before the buyer arrives.
 
-## M and A Friction
+M and A Friction
 
 .
 
@@ -146,9 +146,9 @@ The negotiator exploits it.
 
 Pathmaker’s tactical intelligence removes friction months before bankers even prepare the CIM.
 
-This is how the seller recovers valuation multiples that buyers are accustomed to stealing through narrative management. 
+This is how the seller recovers valuation multiples that buyers are accustomed to stealing through narrative management.
 
-## Execution Velocity
+Execution Velocity
 
 .
 
@@ -184,9 +184,9 @@ Intelligence is a product of structure.
 
 Structure is a product of stewardship.
 
-This triad defines every acquisition ready firm Pathmaker produces. 
+This triad defines every acquisition ready firm Pathmaker produces.
 
-## The Private Credit Layer
+The Private Credit Layer
 
 .
 
@@ -232,9 +232,9 @@ The negotiator understands that liquidity is leverage.
 
 Not a luxury.
 
-A weapon. 
+A weapon.
 
-## Covenant Stewardship
+Covenant Stewardship
 
 .
 
@@ -282,9 +282,9 @@ They know it reduces risk.
 
 They know it increases integration success.
 
-They know it commands premium valuation. 
+They know it commands premium valuation.
 
-## The Mid Market Blind Spot
+The Mid Market Blind Spot
 
 .
 
@@ -316,9 +316,9 @@ This is the way institutional grade exits are engineered.
 
 Not through hope.
 
-Through posture. 
+Through posture.
 
-## Exit Readiness
+Exit Readiness
 
 .
 
@@ -368,9 +368,9 @@ This is how valuations expand without marketing.
 
 This is how negotiations stabilize without emotion.
 
-This is how sellers maintain strength without posturing. 
+This is how sellers maintain strength without posturing.
 
-## Structural Certainty
+Structural Certainty
 
 .
 
@@ -394,9 +394,9 @@ The negotiator knows that certainty is the most expensive asset in the deal.
 
 It is also the rarest.
 
-Pathmaker exists to manufacture certainty where uncertainty once lived. 
+Pathmaker exists to manufacture certainty where uncertainty once lived.
 
-## Intelligence as Differentiation Most firms operate with information
+Intelligence as Differentiation Most firms operate with information
 
 .
 
@@ -422,9 +422,9 @@ Intelligence maturity signals readiness.
 
 Readiness signals seriousness.
 
-Seriousness signals value. 
+Seriousness signals value.
 
-## The Principal Advantage
+The Principal Advantage
 
 .
 
@@ -448,9 +448,9 @@ Builders of disciplined enterprises.
 
 The principal speaks with precision because structure removes ambiguity.
 
-Pathmaker restores that precision. 
+Pathmaker restores that precision.
 
-## NAEOCC Capital
+NAEOCC Capital
 
 .
 
@@ -478,9 +478,9 @@ It eliminates liquidity pressure during diligence.
 
 Family capital requires structural intelligence from both the borrower and the lender.
 
-Pathmaker meets this requirement without deviation. 
+Pathmaker meets this requirement without deviation.
 
-## Why Structural Certainty Wins
+Why Structural Certainty Wins
 
 .
 
@@ -538,9 +538,9 @@ Quiet.
 
 Exact.
 
-Uncompromising. 
+Uncompromising.
 
-## Book a Strategic Consultation If you need structural certainty, controlled liquidity, and institutional grade exit readiness, book a strategic consultation
+Book a Strategic Consultation If you need structural certainty, controlled liquidity, and institutional grade exit readiness, book a strategic consultation
 
 .
 

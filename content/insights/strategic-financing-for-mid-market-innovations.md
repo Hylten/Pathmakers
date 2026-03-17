@@ -18,9 +18,9 @@ Pathmaker operates inside that pressure.
 
 We are built for HNWI and UHNW decision makers who require institutional depth without institutional bureaucracy.
 
-We provide private credit and asset based Capital Structuring solutions that function as structural leverage, not cosmetic liquidity. 
+We provide private credit and asset based Capital Structuring solutions that function as structural leverage, not cosmetic liquidity.
 
-## The New Reality of Mid-Market Capital Constraints The days of easily accessible credit are over
+The New Reality of Mid-Market Capital Constraints The days of easily accessible credit are over
 
 .
 
@@ -40,9 +40,9 @@ Mid-market operators rarely have it.
 
 The gap between those two realities is where deals stall, acquisitions die, and strategic initiatives suffocate.
 
-Pathmaker exists to close that gap with structural clarity, not optimism. 
+Pathmaker exists to close that gap with structural clarity, not optimism.
 
-## Why Asset Based Asset-Backed Frameworks Is Becoming the Core of Middle Market Liquidity Asset-Based Lending is rising because it is quantifiable, consistent, and immune to market gossip
+Why Asset Based Asset-Backed Frameworks Is Becoming the Core of Middle Market Liquidity Asset-Based Lending is rising because it is quantifiable, consistent, and immune to market gossip
 
 .
 
@@ -68,9 +68,9 @@ Nothing romantic.
 
 No turnaround mythology.
 
-Just disciplined Asset-Backed Frameworks against assets that hold value regardless of market mood. 
+Just disciplined Asset-Backed Frameworks against assets that hold value regardless of market mood.
 
-## Private Credit for Operators Who Need Structural Velocity Private credit is not a luxury anymore
+Private Credit for Operators Who Need Structural Velocity Private credit is not a luxury anymore
 
 .
 
@@ -96,9 +96,9 @@ Not noise.
 
 Not signaling.
 
-Just clean execution. 
+Just clean execution.
 
-## The Rise of Sophisticated Liquidity Tools for the Private Wealth Class HNWI and UHNW clients increasingly require liquidity structures that match institutional quality
+The Rise of Sophisticated Liquidity Tools for the Private Wealth Class HNWI and UHNW clients increasingly require liquidity structures that match institutional quality
 
 .
 
@@ -123,9 +123,9 @@ Each option is structured to provide discreet liquidity without forced liquidati
 
 These tools provide optionality in environments where timing dictates success more than strategy.
 
-When the market tightens, these structures become survival infrastructure. 
+When the market tightens, these structures become survival infrastructure.
 
-## Healthcare Carve-Outs: The Unromantic Truth Healthcare carve-outs do not fail due to lack of demand
+Healthcare Carve-Outs: The Unromantic Truth Healthcare carve-outs do not fail due to lack of demand
 
 .
 
@@ -165,9 +165,9 @@ Not hope.
 
 Not projections.
 
-Not turnaround narratives. 
+Not turnaround narratives.
 
-## M&A Financing Under Operational Pressure Mid-market M&A is never clean
+M&A Financing Under Operational Pressure Mid-market M&A is never clean
 
 .
 
@@ -195,9 +195,9 @@ We solve for:
 
 - Liquidity shocks during diligence
 
-- Post-acquisition stabilization For UHNW and HNWI buyers, this consistency becomes a competitive edge against PE firms with slower committees and stricter covenants. 
+- Post-acquisition stabilization For UHNW and HNWI buyers, this consistency becomes a competitive edge against PE firms with slower committees and stricter covenants.
 
-## Crypto and Public Shares as Leverage, Not Exposure High net worth clients often carry significant value in digital assets or concentrated public positions
+Crypto and Public Shares as Leverage, Not Exposure High net worth clients often carry significant value in digital assets or concentrated public positions
 
 .
 
@@ -216,7 +216,7 @@ Pathmaker structures non-liquidating liquidity solutions:
 
 Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events.
 
-## Public Share Institutional Liquidity Paths Minimum threshold:
+Public Share Institutional Liquidity Paths Minimum threshold:
 
  
 5 million dollars.
@@ -229,9 +229,9 @@ No noise.
 
 No posturing.
 
-No unnecessary visibility. 
+No unnecessary visibility.
 
-## Strategic Liquidity as an Innovation Enabler Innovation does not happen when a firm is comfortable
+Strategic Liquidity as an Innovation Enabler Innovation does not happen when a firm is comfortable
 
 .
 
@@ -251,9 +251,7 @@ Pathmaker Strategic Collateralization removes that lag.
 
 Private credit and Asset-Based Lending give leaders the ability to execute at the speed their strategy requires.
 
-Innovation accelerates when capital is aligned with opportunity, not bureaucracy. 
-
-## principal authority as a Strategic Advantage Pathmaker maintains an F-Hierarchical Dynamics that prioritizes silence, precision, and structural clarity
+Innovation accelerates when capital is aligned with opportunity, not bureaucracy. principal authority as a Strategic Advantage Pathmaker maintains an F-Hierarchical Dynamics that prioritizes silence, precision, and structural clarity
 
 .
 
@@ -269,9 +267,9 @@ We bring the architecture used by institutional capital into the hands of privat
 
 When operators understand the structural options available to them, they stop compromising.
 
-They start executing. 
+They start executing.
 
-## The Path Forward for Mid-Market Innovators The mid-market is entering a cycle defined by scarcity
+The Path Forward for Mid-Market Innovators The mid-market is entering a cycle defined by scarcity
 
 .
 

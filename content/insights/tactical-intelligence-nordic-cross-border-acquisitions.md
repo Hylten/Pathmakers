@@ -166,9 +166,9 @@ Buyers receive operationally reliable insights free from sell side inflation.
 
 For both: Strategic neutrality is maintained throughout.
 
-The objective is structural alignment, not deal pressure.
+The objective is structural alignment, not deal pressure. 
 
-# Phase I: V
+### Phase I: V
 
 The Stewardship Filter Stewardship is a discipline of non wasteful resource management.
 
@@ -194,9 +194,9 @@ Stewardship in Nordic cross border M&A involves:
 
 - Maintenance of operational integrity
 
-- Responsible ownership transition These principles increase integration durability and protect enterprise value post acquisition.
+- Responsible ownership transition These principles increase integration durability and protect enterprise value post acquisition. 
 
-# Phase V
+### Phase V
 
 Allocator Decision Lens And Portfolio Calibration Cross border Nordic M&A requires a disciplined evaluation model:
 

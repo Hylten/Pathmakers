@@ -24,9 +24,9 @@ It punishes delay.
 
 It rewards those who design their exit long before the buyer forms an opinion.
 
-What follows is the internal briefing.
+What follows is the internal briefing. 
 
-# Phase I: - ## : THE STRUCTURAL DIAGNOSIS Private briefing
+### Phase I: - ## : THE STRUCTURAL DIAGNOSIS Private briefing
 
 .
 
@@ -126,9 +126,9 @@ Competitive tension strengthens the seller’s leverage.
 
 Private equity loses the deal.
 
-Not because they mispriced it, but because another buyer moved with greater certainty based on cleaner inputs.
+Not because they mispriced it, but because another buyer moved with greater certainty based on cleaner inputs. 
 
-# Phase I: I
+### Phase I: I
 
 - PRINCIPAL VOICE: DIRECT STATEMENTS FROM THE ANALYST CHAIR This is not conjecture.
 
@@ -246,9 +246,9 @@ Clean data closes.
 
 Prepared sellers dominate.
 
-This is the new landscape.
+This is the new landscape. 
 
-# Phase II: I
+### Phase II: I
 
 - INTERNAL BYPASS : ADVANCED STRUCTURAL DEPTH THE DATA ROOM AS A WEAPON In unprepared deals, the data room is a storage closet.
 

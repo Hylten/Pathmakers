@@ -12,13 +12,9 @@ The friction inside this segment has created a multi-year advantage for operator
 
 In 2026, the most durable private credit opportunities do not originate from distressed borrowers.
 
-They originate from solvent, high-utility mid-market businesses that have never been engineered for institutional readiness. 
+They originate from solvent, high-utility mid-market businesses that have never been engineered for institutional readiness.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ The absence of sophisticated capital engineering inside these businesses creates
 
 These factors combine to form a structural arbitrage: the ability to deploy capital or balance sheet expertise into companies that are not distressed, not speculative, and not reliant on macro cycles.
 
-They are constrained only by a lack of institutional-grade capital architecture. 
+They are constrained only by a lack of institutional-grade capital architecture.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -116,7 +108,7 @@ The technical edge is created by structuring capital around assets the operator 
 
 This reduces friction in future audits, M&A exits, or lender transitions. 
 
-# Phase I: I
+### Phase I: I
 
 B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
 
@@ -144,7 +136,7 @@ In practical terms,
 
 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
 
-# Phase I: I
+### Phase I: I
 
 C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
 
@@ -206,13 +198,9 @@ Institutional
 
 This creates multi-track optionality: refinancing, acquisition, or hybrid solutions.
 
-The partnership model reduces execution risk by eliminating the inconsistencies and data gaps that would normally derail negotiations or underwriting. 
+The partnership model reduces execution risk by eliminating the inconsistencies and data gaps that would normally derail negotiations or underwriting.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 

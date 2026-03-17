@@ -40,9 +40,9 @@ Operators who know that the real challenge is not the acquisition.
 
 It is the first ninety days of operational unbundling.
 
-Below is a pragmatic breakdown of how Asset-Based Lending functions inside technology carve-outs, framed for serious buyers who require precision, speed, and silent structural authority. 
+Below is a pragmatic breakdown of how Asset-Based Lending functions inside technology carve-outs, framed for serious buyers who require precision, speed, and silent structural authority.
 
-## Why Technology Carve-Outs Strain Liquidity Technology carve-outs bleed cash
+Why Technology Carve-Outs Strain Liquidity Technology carve-outs bleed cash
 
 .
 
@@ -66,9 +66,9 @@ Revenue stabilization hits late.
 
 The spread between the two is where many carve-outs become distressed, not because the underlying business is flawed, but because the liquidity architecture was naïve.
 
-Asset-Based Lending exists to solve this mismatch. 
+Asset-Based Lending exists to solve this mismatch.
 
-## Why Asset-Based Lending Works When Other Capital Structures Crack Traditional term lenders want stable cash flow
+Why Asset-Based Lending Works When Other Capital Structures Crack Traditional term lenders want stable cash flow
 
 .
 
@@ -98,9 +98,9 @@ Technology carve-outs often hold:
 
 - Customer payment cycles that can be underwritten with precision These assets can be structured, monitored, and leveraged without relying on bottom-line stability.
 
-Asset-Based Lending turns the asset base into a liquidity engine, allowing buyers to preserve equity for value creation instead of shoring up temporary operational chaos. 
+Asset-Based Lending turns the asset base into a liquidity engine, allowing buyers to preserve equity for value creation instead of shoring up temporary operational chaos.
 
-## The Critical Path: Asset-Based Lending Inside the Carve-Out Timeline Most carve-outs move through four stages
+The Critical Path: Asset-Based Lending Inside the Carve-Out Timeline Most carve-outs move through four stages
 
 .
 
@@ -108,7 +108,7 @@ Asset-Based Lending interacts differently with each stage.
 
 Below is a real, operator-level view of how the mechanics work.
 
-## Stage 1: Pre-Close Liquidity Mapping This is where most buyers under-prepare
+Stage 1: Pre-Close Liquidity Mapping This is where most buyers under-prepare
 
 .
 
@@ -132,7 +132,7 @@ Pre-close Asset-Based Lending underwriting should map:
 
 With it, they create a realistic liquidity model that supports decisive execution.
 
-## Stage 2: Day-One Operational Separation On day one, the buyer inherits a partially operable business
+Stage 2: Day-One Operational Separation On day one, the buyer inherits a partially operable business
 
 .
 
@@ -158,7 +158,7 @@ Asset-Based Lending gives the buyer the liquidity buffer to:
 
 It buys time to fix the carve-out.
 
-## Stage 3: The Transitional Grind This is the twelve-month window where operational truth surfaces
+Stage 3: The Transitional Grind This is the twelve-month window where operational truth surfaces
 
 .
 
@@ -178,7 +178,7 @@ As long as the asset base remains healthy, collateral availability increases eve
 
 This provides liquidity exactly when the business feels the most strained.
 
-## Stage 4: Stabilization and Value Extraction A well-structured carve-out exits the transitional grind with
+Stage 4: Stabilization and Value Extraction A well-structured carve-out exits the transitional grind with
 
 :
 
@@ -208,9 +208,7 @@ g
 
 - Prepare the asset for secondary sale
 
-- Retain Asset-Based Lending as a permanent liquidity utility 
-
-## The principal authority Principle: How Pathmaker Structures Institutional-Grade Liquidity Pathmaker operates with what we call principal authority
+- Retain Asset-Based Lending as a permanent liquidity utility The principal authority Principle: How Pathmaker Structures Institutional-Grade Liquidity Pathmaker operates with what we call principal authority
 
 .
 
@@ -232,9 +230,9 @@ This includes:
 
 - No mythology about heroic turnarounds
 
-- A professional, predictable capital partner Our role is to deliver the liquidity framework that lets sophisticated buyers focus on operational outcomes rather than capital gaps. 
+- A professional, predictable capital partner Our role is to deliver the liquidity framework that lets sophisticated buyers focus on operational outcomes rather than capital gaps.
 
-## Integration With Private Credit: Dual-Track Capital Architecture Most mid‑market buyers deploy blended capital stacks
+Integration With Private Credit: Dual-Track Capital Architecture Most mid‑market buyers deploy blended capital stacks
 
 .
 
@@ -254,9 +252,9 @@ The pairing works because:
 
 - Capital is aligned with operational cadence
 
-- The business transitions without overwhelming the buyer’s balance sheet This dual-track model is especially effective in healthcare technology carve-outs, where AR cycles are complex, regulatory reporting burdens hit early, and the parent often withholds data until late in diligence. 
+- The business transitions without overwhelming the buyer’s balance sheet This dual-track model is especially effective in healthcare technology carve-outs, where AR cycles are complex, regulatory reporting burdens hit early, and the parent often withholds data until late in diligence.
 
-## Asset-Based Lending for HNWI and UHNW Buyers: Precision Instead of Volume We design our structures for investors who do not chase volume
+Asset-Based Lending for HNWI and UHNW Buyers: Precision Instead of Volume We design our structures for investors who do not chase volume
 
 .
 
@@ -274,9 +272,9 @@ HNWI and UHNW buyers prioritize:
 
 - Speed, but never haste
 
-- Underwriting that respects real-world execution difficulty Asset-Based Lending gives them the ability to manage carve-outs without exposing themselves to liquidity shocks that many institutional buyers take for granted. 
+- Underwriting that respects real-world execution difficulty Asset-Based Lending gives them the ability to manage carve-outs without exposing themselves to liquidity shocks that many institutional buyers take for granted.
 
-## When Crypto Institutional Liquidity Paths and Public Share Institutional Liquidity Paths Strengthen the Capital Stack Technology carve-out buyers with diversified portfolios often have liquid but underutilized asset classes
+When Crypto Institutional Liquidity Paths and Public Share Institutional Liquidity Paths Strengthen the Capital Stack Technology carve-out buyers with diversified portfolios often have liquid but underutilized asset classes
 
 .
 
@@ -294,9 +292,9 @@ The benefit is straightforward.
 
 Buyers do not dilute their strategic posture.
 
-They simply weaponize balance sheet optionality. 
+They simply weaponize balance sheet optionality.
 
-## Risk Realities Most Operators Underestimate Technology carve-outs involve specific risks that mainstream lenders tend to romanticize
+Risk Realities Most Operators Underestimate Technology carve-outs involve specific risks that mainstream lenders tend to romanticize
 
 .
 
@@ -304,19 +302,19 @@ We do not.
 
 Below are risks that must be priced correctly if the carve-out is going to survive the first twelve months.
 
-## Systems Migration Risk Most carve-outs underestimate the cost and time required to stand up independent systems
+Systems Migration Risk Most carve-outs underestimate the cost and time required to stand up independent systems
 
 .
 
 Billing and revenue management systems are the most fragile, and the most expensive to stabilize.
 
-## Customer Continuity Risk Customers renew based on perceived stability
+Customer Continuity Risk Customers renew based on perceived stability
 
 .
 
 Turbulence during separation can create unexpected churn, especially in healthcare tech, fintech, and regulated SaaS verticals.
 
-## Vendor Dependency Risk Parent-level pricing disappears
+Vendor Dependency Risk Parent-level pricing disappears
 
 .
 
@@ -324,7 +322,7 @@ Buyers enter contractual negotiations from a weaker position.
 
 Liquidity buys leverage, not just time.
 
-## Margin Decompression Risk Temporary margin collapse is normal after a carve-out
+Margin Decompression Risk Temporary margin collapse is normal after a carve-out
 
 .
 
@@ -332,9 +330,9 @@ It should not trigger panic.
 
 It should be part of the liquidity forecast.
 
-Asset-Based Lending is built for these realities, not for theoretical financial models. 
+Asset-Based Lending is built for these realities, not for theoretical financial models.
 
-## Why Asset-Based Lending Wins in the Mid‑Market The mid‑market is unforgiving
+Why Asset-Based Lending Wins in the Mid‑Market The mid‑market is unforgiving
 
 .
 
@@ -352,11 +350,9 @@ Asset-Based Lending creates:
 
 - A structured liquidity framework that matches actual carve-out behavior
 
-- The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge. 
+- The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

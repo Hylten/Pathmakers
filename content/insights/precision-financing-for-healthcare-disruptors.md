@@ -20,9 +20,9 @@ Pathmaker exists for those who cannot afford slow capital.
 
 We exist for the healthcare disruptors who need structural liquidity, not roundtable theory.
 
-We exist for HNWI and UHNW principals who operate in markets where speed, discretion, and balance sheet leverage determine who survives the carve-out, who controls the consolidation, and who gets swept away by it. 
+We exist for HNWI and UHNW principals who operate in markets where speed, discretion, and balance sheet leverage determine who survives the carve-out, who controls the consolidation, and who gets swept away by it.
 
-## The Reality Healthcare Investors Already Know There is nothing romantic about the middle market
+The Reality Healthcare Investors Already Know There is nothing romantic about the middle market
 
 .
 
@@ -40,9 +40,9 @@ Through engineered capital structures that remove drag and reduce dependency on 
 
 Pathmaker focuses on this exact pressure band.
 
-We provide private credit and asset based Institutional Liquidity Paths that absorb volatility, protect the operator, and create the liquidity needed to move decisively in contested markets. 
+We provide private credit and asset based Institutional Liquidity Paths that absorb volatility, protect the operator, and create the liquidity needed to move decisively in contested markets.
 
-## Structural Liquidity, Not Story-driven Capital Capital that requires a perfect story is useless in healthcare
+Structural Liquidity, Not Story-driven Capital Capital that requires a perfect story is useless in healthcare
 
 .
 
@@ -58,9 +58,9 @@ We do not underwrite fantasy.
 
 We underwrite collateral, cash cycles, and the financial behavior that actually drives stability.
 
-This is where the advantage is created, because the middle market rarely has a partner capable of absorbing operational volatility without stalling the transaction. 
+This is where the advantage is created, because the middle market rarely has a partner capable of absorbing operational volatility without stalling the transaction.
 
-## Designed for Healthcare Carve-outs and Rollups Healthcare carve-outs are not plug and play
+Designed for Healthcare Carve-outs and Rollups Healthcare carve-outs are not plug and play
 
 .
 
@@ -86,9 +86,7 @@ We design funding that matches the consolidation rhythm.
 
 We account for transitional cash burn, uneven integration timelines, and unpredictable reimbursements.
 
-The model works because it was built for the realities of healthcare operations, not for hypotheticals. 
-
-## principal authority for HNWI and UHNW Principals Pathmaker was designed for principals who already know how to control assets, reshape operations, or drive M&A outcomes
+The model works because it was built for the realities of healthcare operations, not for hypotheticals. principal authority for HNWI and UHNW Principals Pathmaker was designed for principals who already know how to control assets, reshape operations, or drive M&A outcomes
 
 .
 
@@ -110,9 +108,9 @@ We engineer the mechanics that institutional capital relies on, and we allow our
 
 Precision liquidity amplifies their capability.
 
-Not through overexposure, but through controlled leverage that aligns with strategic intent. 
+Not through overexposure, but through controlled leverage that aligns with strategic intent.
 
-## Private Credit Built for Operators Who Cannot Pause Healthcare moves fast when the right operator has the right opportunity
+Private Credit Built for Operators Who Cannot Pause Healthcare moves fast when the right operator has the right opportunity
 
 .
 
@@ -144,9 +142,9 @@ We lend against:
 
 - High quality crypto portfolios with a minimum threshold of two million dollars
 
-- Public share positions with a minimum threshold of five million dollars This is liquidity that can be deployed with precision, discretion, and force. 
+- Public share positions with a minimum threshold of five million dollars This is liquidity that can be deployed with precision, discretion, and force.
 
-## Asset Based Institutional Liquidity Paths With Real Teeth Healthcare operators often underestimate the power of Asset-Based Lending because most lenders in the space treat it as a formulaic product
+Asset Based Institutional Liquidity Paths With Real Teeth Healthcare operators often underestimate the power of Asset-Based Lending because most lenders in the space treat it as a formulaic product
 
 .
 
@@ -178,9 +176,9 @@ Asset-Based Lending lets the operator:
 
 - Execute rollups on their timing
 
-- Retain negotiating power in turbulent markets When operators control liquidity they control outcomes. 
+- Retain negotiating power in turbulent markets When operators control liquidity they control outcomes.
 
-## Crypto and Public Share Asset-Backed Frameworks for High Net Worth Operators Healthcare disruptors are increasingly diversified
+Crypto and Public Share Asset-Backed Frameworks for High Net Worth Operators Healthcare disruptors are increasingly diversified
 
 .
 
@@ -196,9 +194,9 @@ These structures allow clients to maintain market exposure while unlocking immed
 
 The benefit is simple.
 
-Operators retain their long positions while gaining the short term firepower needed to execute opportunities before they disappear. 
+Operators retain their long positions while gaining the short term firepower needed to execute opportunities before they disappear.
 
-## M&A Precision in a Market That Rewards Discipline The healthcare market is noisy
+M&A Precision in a Market That Rewards Discipline The healthcare market is noisy
 
 .
 
@@ -218,9 +216,9 @@ It is designed for the operator who understands that nobody is coming to save th
 
 There is nothing romantic about the middle market.
 
-There is only execution. 
+There is only execution.
 
-## Why Healthcare Disruptors Choose Pathmaker Because the environment rewards those who build leverage into their strategy
+Why Healthcare Disruptors Choose Pathmaker Because the environment rewards those who build leverage into their strategy
 
 .
 
@@ -238,9 +236,9 @@ We are the underlying mechanics behind those who win the difficult deals.
 
 We create liquidity structures that outmaneuver legacy lenders.
 
-We give our clients the ability to operate without hesitation. 
+We give our clients the ability to operate without hesitation.
 
-## Book a strategic consultatio
+Book a strategic consultatio
 
 n
 

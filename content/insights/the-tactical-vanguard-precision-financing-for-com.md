@@ -52,9 +52,9 @@ Disciplined.
 
 Unmoved by noise.
 
-This is the terrain Pathmaker occupies. 
+This is the terrain Pathmaker occupies.
 
-## The Core Mandate A spin-off is not a transaction
+The Core Mandate A spin-off is not a transaction
 
 .
 
@@ -64,13 +64,13 @@ If handled correctly it can transform a burden into a strategic asset.
 
 If mishandled it becomes dead weight that poisons balance sheets for years.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  sits on three pillars.
 
-## Asset Hardening A clean carve-out requires an unbroken chain of intelligence
+Asset Hardening A clean carve-out requires an unbroken chain of intelligence
 
 .
 
@@ -106,7 +106,7 @@ Asset hardening is the remedy.
 
 It is the discipline of preparing a company to operate under real scrutiny.
 
-## Covenant Stewardship A spin-off inherits responsibility
+Covenant Stewardship A spin-off inherits responsibility
 
 .
 
@@ -140,7 +140,7 @@ It protects ownership.
 
 It ensures the asset survives the heat of institutional review and emerges usable.
 
-## Execution Velocity The mid-market does not reward slowness
+Execution Velocity The mid-market does not reward slowness
 
 .
 
@@ -162,9 +162,9 @@ It is about removing friction.
 
 It is about placing the spin-off into the hands of Principals who can act without committee paralysis.
 
-Execution velocity creates advantage that compounding alone cannot replicate. 
+Execution velocity creates advantage that compounding alone cannot replicate.
 
-## The Tactical Vanguard Framework Spin-offs follow a predictable pattern
+The Tactical Vanguard Framework Spin-offs follow a predictable pattern
 
 .
 
@@ -257,7 +257,7 @@ Precision financing for spin-offs must address:
 
 - acquisition optionality Pathmaker deploys three primary financing instruments.
 
-## A
+A
 
 .
 
@@ -277,7 +277,7 @@ But not a bridge to nowhere.
 
 A bridge to value crystallization.
 
-## B
+B
 
 .
 
@@ -305,7 +305,7 @@ Public share credit requires 5M.
 
 Below that level the friction exceeds the value.
 
-## C
+C
 
 .
 
@@ -324,7 +324,7 @@ Operational Convergence Once separated and financed, the spin-off must converge 
 
 This 
 
-# Phase I
+### Phase I
 
 s where the asset is hardened for acquisition, scale, or long-term stewardship.
 
@@ -385,9 +385,9 @@ No delays.
 
 No uncertainty.
 
-No trapped value. 
+No trapped value.
 
-## The Strategic Importance of Precision Financing Spin-offs require capital that understands complexity
+The Strategic Importance of Precision Financing Spin-offs require capital that understands complexity
 
 .
 
@@ -417,13 +417,11 @@ The tactical advantages include:
 
 It is not opportunistic credit.
 
-It is the weaponry that transforms a raw carve-out into an investable asset. 
+It is the weaponry that transforms a raw carve-out into an investable asset.
 
-## Why the Mid-Market is Breaking Corporate groups are reaching their
+Why the Mid-Market is Breaking Corporate groups are reaching their 
 
- 
-
-# Phase LIMI: t
+### Phase LIMI: t
 
 .
 
@@ -449,13 +447,11 @@ The mid-market is always the first to feel structural pressure.
 
 It is also the first to miss structural opportunity because it lacks the capital pathways of the upper market.
 
-Precision financing solves the gap. 
+Precision financing solves the gap.
 
-## How Principals Should Think About Spin-off Opportunities A disciplined Principal evaluates spin-offs based o
+How Principals Should Think About Spin-off Opportunities A disciplined Principal evaluates spin-offs based o
 
-n
-
-## Structural Truth Is the business truly standalone, or is it an appendage pretending to be independent
+n Structural Truth Is the business truly standalone, or is it an appendage pretending to be independent
 
 ?
 
@@ -479,9 +475,9 @@ When one is missing, financing becomes fragile.
 
 When two are missing, acquisition becomes unwise.
 
-When three are missing, the spin-off should not exist. 
+When three are missing, the spin-off should not exist.
 
-## The Christian Conservative Foundation Stewardship is not a metaphor
+The Christian Conservative Foundation Stewardship is not a metaphor
 
 .
 
@@ -517,9 +513,9 @@ Spin-offs rooted in covenant stewardship become pillars.
 
 Spin-offs without stewardship become burdens.
 
-Pathmaker aligns with the first category. 
+Pathmaker aligns with the first category.
 
-## Why Pathmaker Operates as a Tactical Vanguard Pathmaker is not an advisory brand
+Why Pathmaker Operates as a Tactical Vanguard Pathmaker is not an advisory brand
 
 .
 
@@ -554,9 +550,9 @@ The timeline is controlled.
 
 Execution velocity is not theatre.
 
-It is the elimination of waste. 
+It is the elimination of waste.
 
-## The Institution-Grade Advantages HNWI and UHNW clients look for assets that offer
+The Institution-Grade Advantages HNWI and UHNW clients look for assets that offer
 
 :
 
@@ -582,9 +578,9 @@ They can withstand scrutiny from Fund-III and above.
 
 The market rewards readiness.
 
-It punishes uncertainty. 
+It punishes uncertainty.
 
-## What Principals Should Do Now The current cycle is producing a rare concentration of carve-out opportunities
+What Principals Should Do Now The current cycle is producing a rare concentration of carve-out opportunities
 
 .
 
@@ -602,9 +598,9 @@ Identify units that:
 
 - can be structurally aligned within a short window
 
-- can be financed with precision instruments Pathmaker stands positioned as your tactical intelligence and financing vanguard. 
+- can be financed with precision instruments Pathmaker stands positioned as your tactical intelligence and financing vanguard.
 
-## Book a strategic consultation If you require structural clarity, carve-out financing pathways, or intelligence mapping for a complex spin-off, you can book a strategic consultation
+Book a strategic consultation If you require structural clarity, carve-out financing pathways, or intelligence mapping for a complex spin-off, you can book a strategic consultation
 
 .
 

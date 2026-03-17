@@ -12,13 +12,9 @@ This gap has widened as regional corporates continue to spin off non-core units 
 
 The result is a persistent misalignment between motivated sellers and capable buyers.
 
-Strategic liquidity becomes the decisive lever that determines whether a carve-out progresses to execution or stalls in multi-quarter delays. 
+Strategic liquidity becomes the decisive lever that determines whether a carve-out progresses to execution or stalls in multi-quarter delays.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,13 +68,9 @@ These pressures define the environment where carve-out assets exist.
 
 The demand is not for more capital.
 
-The demand is for strategic liquidity structures that derisk execution and accelerate the path to transaction certainty. 
+The demand is for strategic liquidity structures that derisk execution and accelerate the path to transaction certainty.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -196,13 +188,9 @@ In energy transactions involving Alberta heavy oil or SAGD assets, Roials Capita
 
 In European corporate carve-outs, the work is centered on liquidity engineering and exit readiness.
 
-Different asset classes, same institutional discipline. 
+Different asset classes, same institutional discipline.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital
 
 .
 

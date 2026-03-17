@@ -88,9 +88,9 @@ Liquidity is a weapon.
 
 Operators who accept this win deals that others never see.
 
-The Analyst Team outlines the institutional logic. 
+The Analyst Team outlines the institutional logic.
 
-## THE STRUCTURAL FUNCTION OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS Asset-Based Lending is not a monolith
+THE STRUCTURAL FUNCTION OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS Asset-Based Lending is not a monolith
 
 .
 
@@ -164,9 +164,9 @@ Clean documentation.
 
 Clean code sets.
 
-This is how a carve‑out becomes a desirable target instead of a compliance liability. 
+This is how a carve‑out becomes a desirable target instead of a compliance liability.
 
-## EXIT READINESS: THE UNDERVALUED LEVER Exit readiness is not due diligence prep
+EXIT READINESS: THE UNDERVALUED LEVER Exit readiness is not due diligence prep
 
 .
 
@@ -216,9 +216,9 @@ The negotiation becomes rational.
 
 Operators who understand this control the exit terms.
 
-Operators who don’t become price-takers. 
+Operators who don’t become price-takers.
 
-## DEAL ORIGINATION: THE OFF-MARKET ADVANTAGE Asset-Based Lending is a magnet
+DEAL ORIGINATION: THE OFF-MARKET ADVANTAGE Asset-Based Lending is a magnet
 
 .
 
@@ -262,9 +262,9 @@ This is how mid-market operators capture deals before they ever reach auction:
 
 Serious operators build pipelines.
 
-Tourists chase teasers. 
+Tourists chase teasers.
 
-## OPERATIONAL STABILIZATION: Asset-Based Lending AS A GOVERNANCE ENGINE Healthcare carve‑outs falter when governance collapses
+OPERATIONAL STABILIZATION: Asset-Based Lending AS A GOVERNANCE ENGINE Healthcare carve‑outs falter when governance collapses
 
 .
 
@@ -318,9 +318,9 @@ This is the very condition buyers pay premiums for.
 
 Governance = valuation.
 
-Simple. 
+Simple.
 
-## THE JURISDICTIONAL ARBITRAGE LAYER Healthcare carve-outs live inside regulatory silos
+THE JURISDICTIONAL ARBITRAGE LAYER Healthcare carve-outs live inside regulatory silos
 
 .
 
@@ -358,9 +358,9 @@ Exit valuations reflect this.
 
 Regulatory friction kills weak operators.
 
-It enriches strong ones. 
+It enriches strong ones.
 
-## THE Hierarchical Dynamics OF CAPITAL DISCIPLINE The mid-market healthcare environment is status-coded
+THE Hierarchical Dynamics OF CAPITAL DISCIPLINE The mid-market healthcare environment is status-coded
 
 .
 
@@ -400,9 +400,9 @@ Asset-Based Lending does not create talent.
 
 It reveals it.
 
-Carve‑outs demand that revelation. 
+Carve‑outs demand that revelation.
 
-## THE Capital Structuring ARCHETYPE Asset-Backed Frameworks is not financial gymnastics
+THE Capital Structuring ARCHETYPE Asset-Backed Frameworks is not financial gymnastics
 
 .
 
@@ -444,9 +444,9 @@ Time compression is value creation.
 
 Time waste is value leakage.
 
-Asset-Based Lending stops leakage. 
+Asset-Based Lending stops leakage.
 
-## THE OPERATOR PROFILE WHO WINS WITH Asset-Based Lending Not all operators should pursue Asset-Based Lending
+THE OPERATOR PROFILE WHO WINS WITH Asset-Based Lending Not all operators should pursue Asset-Based Lending
 
 .
 
@@ -476,9 +476,9 @@ The ideal operator exhibits:
 
 This operator wins carve‑outs that others misjudge.
 
-This operator moves markets. 
+This operator moves markets.
 
-## THE PRIVATE CREDIT ANGLE: WHY THE TIMING IS PERFECT Private credit remains aggressive in healthcare
+THE PRIVATE CREDIT ANGLE: WHY THE TIMING IS PERFECT Private credit remains aggressive in healthcare
 
 .
 
@@ -506,9 +506,9 @@ For Fund-III sophistication, the play is obvious: use Asset-Based Lending to acc
 
 Liquidity stacked.
 
-Velocity multiplied. 
+Velocity multiplied.
 
-## CASE DYNAMICS: WHERE Asset-Based Lending CHANGES THE OUTCOME The Analyst Team has observed consistent patterns across carve‑out pathways
+CASE DYNAMICS: WHERE Asset-Based Lending CHANGES THE OUTCOME The Analyst Team has observed consistent patterns across carve‑out pathways
 
 :
 
@@ -544,9 +544,9 @@ Buyers drive valuation.
 
 This is the loop.
 
-This is the game. 
+This is the game.
 
-## STRATEGIC MANDATE FOR MID-MARKET HEALTHCARE OPERATORS Carve‑outs require liquidity
+STRATEGIC MANDATE FOR MID-MARKET HEALTHCARE OPERATORS Carve‑outs require liquidity
 
 .
 

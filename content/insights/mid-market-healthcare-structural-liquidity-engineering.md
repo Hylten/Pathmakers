@@ -12,13 +12,9 @@ It is a direct consequence of balance sheet fragmentation, legacy capital struct
 
 Operators experience margin stability but lack access to institutional-grade capital structures that support scale.
 
-This is the misalignment creating a multiyear window for those who can deploy disciplined [Capital Structuring]([Roials Capital](https://roialscapital.com/)) and cross-border M&A navigation. 
+This is the misalignment creating a multiyear window for those who can deploy disciplined [Capital Structuring]([Roials Capital](https://roialscapital.com/)) and cross-border M&A navigation.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -69,13 +65,9 @@ THE REGIME SHIFT
 
 It is structural.
 
-The operators who recalibrate their balance sheet architecture now will sit in the strongest position as demographic demand compounds and institutional roll up strategies accelerate. 
+The operators who recalibrate their balance sheet architecture now will sit in the strongest position as demographic demand compounds and institutional roll up strategies accelerate.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -207,13 +199,9 @@ Institutional capital receives pre-vetted opportunities with standardized report
 
 In healthcare, misalignment between lender, operator, and acquirer destroys value.
 
-Strategic navigation ensures the institutional archetype is correct from the beginning. 
+Strategic navigation ensures the institutional archetype is correct from the beginning.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical
+THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical
 
 .
 

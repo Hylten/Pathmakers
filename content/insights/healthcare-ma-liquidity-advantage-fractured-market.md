@@ -72,15 +72,13 @@ Foundations first.
 
 Then the mechanisms.
 
-Then 
-
-## THE MANDAT
+Then THE MANDAT
 
 E
 
-. 
+.
 
-## THE FRACTURED MARKET Healthcare does not fracture uniformly
+THE FRACTURED MARKET Healthcare does not fracture uniformly
 
 .
 
@@ -128,9 +126,9 @@ Liquidity is the ability to say yes without assembling a committee.
 
 Liquidity is an operating system.
 
-In mid-market healthcare-especially in the €10-€150M transaction band-this advantage is absolute. 
+In mid-market healthcare-especially in the €10-€150M transaction band-this advantage is absolute.
 
-## THE LIQUIDITY DELTA Liquidity delta is the gap between theoretical purchasing power and immediate executable purchasing power
+THE LIQUIDITY DELTA Liquidity delta is the gap between theoretical purchasing power and immediate executable purchasing power
 
 .
 
@@ -162,9 +160,9 @@ They can detect buyers who are reading from a playbook rather than moving with c
 
 The healthcare market now punishes theoretical liquidity.
 
-Only executable liquidity matters. 
+Only executable liquidity matters.
 
-## EXIT READINESS: THE NEW DIVIDING LINE Most healthcare operators are not exit ready
+EXIT READINESS: THE NEW DIVIDING LINE Most healthcare operators are not exit ready
 
 .
 
@@ -210,9 +208,9 @@ Exit readiness eliminates this drag.
 
 A seller prepared at this level becomes liquid.
 
-A buyer prepared at this level becomes inevitable. 
+A buyer prepared at this level becomes inevitable.
 
-## THE THREE GREAT OBSTRUCTIONS OF HEALTHCARE M&A Obstruction One: The lender cycle
+THE THREE GREAT OBSTRUCTIONS OF HEALTHCARE M&A Obstruction One: The lender cycle
 
 .
 
@@ -254,9 +252,9 @@ Liquidity allows diligence to compress.
 
 Liquidity allows sellers to trust timelines.
 
-In this sense, liquidity is an integration tool, not only a financial one. 
+In this sense, liquidity is an integration tool, not only a financial one.
 
-## THE PATHMAKER ARCHITECTURE Pathmaker is the internal label our team uses for the deal architecture required in fractured markets
+THE PATHMAKER ARCHITECTURE Pathmaker is the internal label our team uses for the deal architecture required in fractured markets
 
 .
 
@@ -328,9 +326,9 @@ M&A requires rhythm.
 
 Each step triggers the next.
 
-Liquidity enables this choreography. 
+Liquidity enables this choreography.
 
-## THE Fund-III EFFECT Fund-III entities-those entering their third fund cycle-face unique pressures
+THE Fund-III EFFECT Fund-III entities-those entering their third fund cycle-face unique pressures
 
 .
 
@@ -362,9 +360,9 @@ Sellers have learned that speed matters more than headline valuation.
 
 Certainty beats theory.
 
-Liquidity beats size. 
+Liquidity beats size.
 
-## THE FUTURE: A MARKET THAT REWARDS ENGINEERING, NOT SCALE Healthcare M&A will not normalize
+THE FUTURE: A MARKET THAT REWARDS ENGINEERING, NOT SCALE Healthcare M&A will not normalize
 
 .
 
@@ -388,9 +386,9 @@ What changes next:
 
 In this future, liquidity does not simply enable deals.
 
-Liquidity dictates which deals exist. 
+Liquidity dictates which deals exist.
 
-## JURISDICTIONAL ARBITRAGE AND STRUCTURAL LEVERAGE Healthcare runs on local rules but global capital
+JURISDICTIONAL ARBITRAGE AND STRUCTURAL LEVERAGE Healthcare runs on local rules but global capital
 
 .
 
@@ -416,9 +414,9 @@ It is about timing.
 
 It is about reducing drag.
 
-Liquidity is multiplied by regulatory precision. 
+Liquidity is multiplied by regulatory precision.
 
-## THE SELLER’S VIEW: REDUCE RISK, NOT MAXIMIZE PRICE Healthcare founders want clarity
+THE SELLER’S VIEW: REDUCE RISK, NOT MAXIMIZE PRICE Healthcare founders want clarity
 
 .
 
@@ -454,9 +452,9 @@ Liquidity calms the system.
 
 Liquidity wins the seller’s trust.
 
-Liquidity closes. 
+Liquidity closes.
 
-## THE BUYER’S IMPERATIVE: OUTMOVE, NOT OUTBID In a fractured market, outbidding is a losing strategy
+THE BUYER’S IMPERATIVE: OUTMOVE, NOT OUTBID In a fractured market, outbidding is a losing strategy
 
 .
 
@@ -482,9 +480,9 @@ Outmoving requires:
 
 Outmoving allows buyers to close with confidence while others are still conducting preliminary reviews.
 
-This asymmetry compounds. 
+This asymmetry compounds.
 
-## THE STRATEGIC USE OF PRIVATE CREDIT Private credit has become the operative engine behind liquidity asymmetry
+THE STRATEGIC USE OF PRIVATE CREDIT Private credit has become the operative engine behind liquidity asymmetry
 
 .
 
@@ -510,9 +508,9 @@ But speed never is.
 
 In healthcare M&A, speed generates total return in ways that interest rate spreads cannot erode.
 
-Private credit is the real partner for buyers who want to dominate fractured markets. 
+Private credit is the real partner for buyers who want to dominate fractured markets.
 
-## THE OPERATOR’S ADVANTAGE Operators-clinically grounded groups with real patient relationships-now hold structural advantage over pure financial sponsors
+THE OPERATOR’S ADVANTAGE Operators-clinically grounded groups with real patient relationships-now hold structural advantage over pure financial sponsors
 
 .
 
@@ -526,9 +524,9 @@ They can evaluate regulatory risk through lived experience rather than abstract 
 
 When operators combine this insight with real liquidity, they outperform every other buyer class.
 
-This is the formula that consistently wins: Operator intelligence + Liquidity velocity + Exit‑ready packaging + Compressed timelines = Market control. 
+This is the formula that consistently wins: Operator intelligence + Liquidity velocity + Exit‑ready packaging + Compressed timelines = Market control.
 
-## THE FINAL POSITION Liquidity is not a resource
+THE FINAL POSITION Liquidity is not a resource
 
 .
 

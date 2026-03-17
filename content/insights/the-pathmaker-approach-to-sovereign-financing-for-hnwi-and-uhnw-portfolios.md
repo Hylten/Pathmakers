@@ -20,9 +20,9 @@ They are pursuing structural leverage at scale.
 
 They want instruments that behave on command, capital that arrives when needed, and a financial partner that does not require theatrics or hand holding.
 
-The Pathmaker approach sits inside that reality. 
+The Pathmaker approach sits inside that reality.
 
-## The Core Premise: Liquidity as Sovereign Power Most mid market operators and asset holders think about liquidity as a line of credit or an emergency release valve
+The Core Premise: Liquidity as Sovereign Power Most mid market operators and asset holders think about liquidity as a line of credit or an emergency release valve
 
 .
 
@@ -40,9 +40,9 @@ We provide the mechanical architecture that institutional capital respects.
 
 Nothing more.
 
-Nothing less. 
+Nothing less.
 
-## Where Pathmaker Operates Pathmaker focuses on three categories of Asset-Backed Frameworks that fit the balance sheet profile and velocity expectations of serious operators
+Where Pathmaker Operates Pathmaker focuses on three categories of Asset-Backed Frameworks that fit the balance sheet profile and velocity expectations of serious operators
 
 .
 
@@ -52,9 +52,9 @@ Asset Based Strategic Collateralization.
 
 Crypto and Public Share Strategic Collateralization for qualified holders.
 
-Each category supports a specific strategy inside mid market M and A, healthcare carve outs, and liquidity focused capital optimization. 
+Each category supports a specific strategy inside mid market M and A, healthcare carve outs, and liquidity focused capital optimization.
 
-## Private Credit for Strategic Operators Private credit is not an exotic tool
+Private Credit for Strategic Operators Private credit is not an exotic tool
 
 .
 
@@ -78,9 +78,9 @@ There is no chase for romantic turnarounds.
 
 Only structural analysis.
 
-If the asset has residual economic musculature, we can lend against it. 
+If the asset has residual economic musculature, we can lend against it.
 
-## Asset Based Asset-Backed Frameworks as a Control Lever Asset Based Capital Structuring, Asset-Based Lending, has become a misunderstood term in the marketplace
+Asset Based Asset-Backed Frameworks as a Control Lever Asset Based Capital Structuring, Asset-Based Lending, has become a misunderstood term in the marketplace
 
 .
 
@@ -96,9 +96,9 @@ For mid market M and A, Asset-Based Lending provides an acquisition fulcrum that
 
 For carve outs, Asset-Based Lending provides the working capital runway that keeps operations stable while leadership restructures and removes operational drag.
 
-Pathmaker structures Asset-Based Lending so clients retain governance and do not become subordinates to a lender with an itchy trigger finger. 
+Pathmaker structures Asset-Based Lending so clients retain governance and do not become subordinates to a lender with an itchy trigger finger.
 
-## Crypto Monetization Architecture at Scale Crypto Monetization Architecture only makes sense when the borrower has a large enough position to treat the asset like a capital instrument instead of a speculative bet
+Crypto Monetization Architecture at Scale Crypto Monetization Architecture only makes sense when the borrower has a large enough position to treat the asset like a capital instrument instead of a speculative bet
 
 .
 
@@ -110,9 +110,9 @@ We treat it with the same discipline as any other asset under our Institutional 
 
 Clients leverage their crypto position to generate liquidity without triggering taxable events or forced selling.
 
-This creates maneuverability in markets where timing can be the difference between strategic expansion and passive stagnation. 
+This creates maneuverability in markets where timing can be the difference between strategic expansion and passive stagnation.
 
-## Public Share Monetization Architecture for Large Holders Public shares carry both value and vulnerability
+Public Share Monetization Architecture for Large Holders Public shares carry both value and vulnerability
 
 .
 
@@ -124,9 +124,9 @@ We do not chase penny flows.
 
 We engage with serious holders who treat their shares as part of a broader capital architecture.
 
-We lend against the underlying equity, maintaining principal authority and allowing clients to access liquidity without dilution or forced divestment. 
+We lend against the underlying equity, maintaining principal authority and allowing clients to access liquidity without dilution or forced divestment.
 
-## The Pathmaker Sovereign Framework Sovereign financing is not a product category
+The Pathmaker Sovereign Framework Sovereign financing is not a product category
 
 .
 
@@ -163,9 +163,9 @@ Pathmaker designs financing so clients have functional command over their assets
 
 This is not theoretical.
 
-It is operational reality. 
+It is operational reality.
 
-## Tactical Use Cases in Mid Market M and A Mid market M and A is often messy
+Tactical Use Cases in Mid Market M and A Mid market M and A is often messy
 
 .
 
@@ -173,17 +173,15 @@ Deals stall due to working capital gaps, valuation friction, or timing mismatche
 
 Pathmaker financing is engineered to accelerate these deals by inserting liquidity at the precise pressure point that prevents execution.
 
-## Acquisition Momentum Private credit and Asset-Based Lending create the lift needed to finalize transactions that are fundamentally sound but temporarily constrained
+Acquisition Momentum Private credit and Asset-Based Lending create the lift needed to finalize transactions that are fundamentally sound but temporarily constrained
 
 .
 
 Operators gain the ability to close at the pace the deal requires, not the pace a traditional lender dictates.
 
-## Integration Stability The integration
+Integration Stability The integration 
 
- 
-
-# Phase I: s where most deals fracture
+### Phase I: s where most deals fracture
 
 .
 
@@ -191,15 +189,15 @@ Liquidity is the stabilizer.
 
 Pathmaker structures credit so operational cash flow remains intact while leadership executes the integration roadmap.
 
-## Opportunity Seizure Markets move
+Opportunity Seizure Markets move
 
 .
 
 Competitors hesitate.
 
-The operator with instant liquidity wins. 
+The operator with instant liquidity wins.
 
-## Tactical Use Cases in Healthcare Carve Outs Healthcare carve outs are difficult because the assets are usually stressed but not terminal
+Tactical Use Cases in Healthcare Carve Outs Healthcare carve outs are difficult because the assets are usually stressed but not terminal
 
 .
 
@@ -207,23 +205,23 @@ They require disciplined capital, not hero stories.
 
 Pathmaker provides financing that treats healthcare assets with the same structural rigor as any other collateral class.
 
-## Stabilization Credit We provide liquidity during the separation period so operations can continue without interruption
+Stabilization Credit We provide liquidity during the separation period so operations can continue without interruption
 
 .
 
-## Compliance Backstopping Many carve outs fail due to compliance cost spikes
+Compliance Backstopping Many carve outs fail due to compliance cost spikes
 
 .
 
 Our financing provides the buffer required to maintain operational integrity while compliance frameworks are rebuilt.
 
-## Valuation Unlocking Carve outs often contain undervalued units that become accretive once detached from the legacy system
+Valuation Unlocking Carve outs often contain undervalued units that become accretive once detached from the legacy system
 
 .
 
-Pathmaker capital enables operators to capture that value without surrendering governance. 
+Pathmaker capital enables operators to capture that value without surrendering governance.
 
-## Why HNWI and UHNW Clients Work With Pathmaker High net worth and ultra high net worth clients do not work with us because of branding or promises
+Why HNWI and UHNW Clients Work With Pathmaker High net worth and ultra high net worth clients do not work with us because of branding or promises
 
 .
 
@@ -241,9 +239,9 @@ Liquidity.
 
 Structural control.
 
-principal authority. 
+principal authority.
 
-## The Pathmaker Difference Pathmaker exists for clients who operate quietly but decisively
+The Pathmaker Difference Pathmaker exists for clients who operate quietly but decisively
 
 .
 
@@ -259,9 +257,9 @@ It enables strategic expansion without diluting position or inviting institution
 
 This is sovereign financing.
 
-This is the Pathmaker approach. 
+This is the Pathmaker approach.
 
-## Book a strategic consultation If you are an operator, investor, or asset holder who requires sovereign grade liquidity, Pathmaker is prepared to engage
+Book a strategic consultation If you are an operator, investor, or asset holder who requires sovereign grade liquidity, Pathmaker is prepared to engage
 
 .
 

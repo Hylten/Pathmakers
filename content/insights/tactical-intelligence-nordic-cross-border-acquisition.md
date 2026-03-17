@@ -28,9 +28,7 @@ By architecting clarity.
 
 By constructing operational visibility that forces the deal to move.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 

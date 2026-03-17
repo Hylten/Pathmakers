@@ -12,7 +12,7 @@ Founders who prepare first dictate the frame.
 
 Buyers 
 
-# Step I: nto their structure, not the other way around
+### Step I: nto their structure, not the other way around
 
 .
 
@@ -82,9 +82,9 @@ It is not a checklist.
 
 It is a sovereign rearrangement of the deal physics.
 
-And only a few founders understand its power. 
+And only a few founders understand its power.
 
-## THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
+THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
 
  
 
@@ -128,9 +128,9 @@ They operate like public‑ready companies even while private.
 
 That posture attracts better buyers, creates off‑market visibility, and compresses transaction timelines from months to weeks.
 
-It is the new competitive frontier. 
+It is the new competitive frontier.
 
-## ARCHITECTURE: THE THREE CORE PILLARS OF PROACTIVE SELL‑SIDE DILIGENCE Pillar One: Financial Precision Pillar Two: Operational Transparency Pillar Three: Commercial Predictability Each compounding the next
+ARCHITECTURE: THE THREE CORE PILLARS OF PROACTIVE SELL‑SIDE DILIGENCE Pillar One: Financial Precision Pillar Two: Operational Transparency Pillar Three: Commercial Predictability Each compounding the next
 
 .
 
@@ -241,9 +241,9 @@ Commercial predictability is the assurance that the future is not dependent on a
 
 It is the promise of continuity.
 
-The moment the buyer believes continuity exists, the negotiation shifts in the founder’s favor. 
+The moment the buyer believes continuity exists, the negotiation shifts in the founder’s favor.
 
-## THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places:
+THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places:
 
  
 
@@ -327,9 +327,9 @@ They bring fewer people into the room.
 
 They close with certainty.
 
-This is the profile of the modern mid‑market seller. 
+This is the profile of the modern mid‑market seller.
 
-## WHY AI FIRST FOUNDERS ARE ACCELERATING THIS TREND AI does not replace diligence
+WHY AI FIRST FOUNDERS ARE ACCELERATING THIS TREND AI does not replace diligence
 
 .
 
@@ -361,9 +361,9 @@ Buyers reward clarity.
 
 Buyers reward readiness.
 
-Buyers reward founders who behave like sellers long before they sell. 
+Buyers reward founders who behave like sellers long before they sell.
 
-## THE PRINCIPAL TRUTH A founder who operates in disarray presents disarray
+THE PRINCIPAL TRUTH A founder who operates in disarray presents disarray
 
 .
 
@@ -373,9 +373,9 @@ A founder who eliminates surprise creates competition.
 
 Competition creates price.
 
-Proactive diligence is the architecture behind that competition. 
+Proactive diligence is the architecture behind that competition.
 
-## THE PATHMAKER POSTURE We operate on the side of founders who want to prepare, not react
+THE PATHMAKER POSTURE We operate on the side of founders who want to prepare, not react
 
 .
 

@@ -24,9 +24,9 @@ Pathmaker was built for that reality.
 
 We operate inside the parts of the market where institutional capital wants control and private operators want speed.
 
-We translate both worlds into workable mechanics. 
+We translate both worlds into workable mechanics.
 
-## Monetization Architecture for HNWI and UHNW Healthcare Investors Healthcare is a sector where high net worth and ultra high net worth investors often want exposure but rarely want operational chaos
+Monetization Architecture for HNWI and UHNW Healthcare Investors Healthcare is a sector where high net worth and ultra high net worth investors often want exposure but rarely want operational chaos
 
 .
 
@@ -44,9 +44,9 @@ Creating exit optionality when valuations are favorable.
 
 Our clients operate portfolios, not passion projects.
 
-They need liquidity that behaves like strategy, not luck. 
+They need liquidity that behaves like strategy, not luck.
 
-## Private Credit Structures That Hold Under Pressure In healthcare, capital fails when structure fails
+Private Credit Structures That Hold Under Pressure In healthcare, capital fails when structure fails
 
 .
 
@@ -68,9 +68,9 @@ Liquidity must be immediate.
 
 Liquidity must be stable.
 
-Liquidity must be defensible. 
+Liquidity must be defensible.
 
-## Crypto Strategic Collateralization for Healthcare Investors Some HNWI and UHNW clients prefer to leverage digital asset holdings to unlock liquidity for healthcare transactions
+Crypto Strategic Collateralization for Healthcare Investors Some HNWI and UHNW clients prefer to leverage digital asset holdings to unlock liquidity for healthcare transactions
 
 .
 
@@ -92,9 +92,9 @@ Clear liquidation protocols.
 
 The goal is simple.
 
-Unlock liquidity without compromising asset integrity. 
+Unlock liquidity without compromising asset integrity.
 
-## Public Share Strategic Collateralization for Healthcare Expansion For clients who maintain significant public equity positions, public share Monetization Architecture becomes a strategic tool
+Public Share Strategic Collateralization for Healthcare Expansion For clients who maintain significant public equity positions, public share Monetization Architecture becomes a strategic tool
 
 .
 
@@ -108,9 +108,9 @@ It is a structured liquidity unlock that gives investors the ability to repositi
 
 This allows operators and investors to participate in acquisitions, recapitalizations, or expansions without destabilizing their portfolio positions.
 
-Pathmaker structures these Asset-Backed Frameworks environments to ensure collateral clarity and liquidity consistency throughout the transaction lifecycle. 
+Pathmaker structures these Asset-Backed Frameworks environments to ensure collateral clarity and liquidity consistency throughout the transaction lifecycle.
 
-## Mid Market M and A: Where Liquidity Becomes Strategy The mid market is the terrain where most healthcare deals either succeed quickly or fail quietly
+Mid Market M and A: Where Liquidity Becomes Strategy The mid market is the terrain where most healthcare deals either succeed quickly or fail quietly
 
 .
 
@@ -126,9 +126,9 @@ When investors have capital options, they capture opportunities before competito
 
 Liquidity is not an accessory.
 
-It is the strategy. 
+It is the strategy.
 
-## Operational Realism: No Romantic Turnarounds Healthcare does not reward fairy tales
+Operational Realism: No Romantic Turnarounds Healthcare does not reward fairy tales
 
 .
 
@@ -150,9 +150,9 @@ Asset leverage.
 
 Strategic exits.
 
-This is the realism that healthcare operators respect, because this is what keeps their businesses alive during transition periods. 
+This is the realism that healthcare operators respect, because this is what keeps their businesses alive during transition periods.
 
-## The Pathmaker Advantage in Healthcare Finance We operate where structure meets speed
+The Pathmaker Advantage in Healthcare Finance We operate where structure meets speed
 
 .
 
@@ -170,9 +170,9 @@ We serve clients who move with purpose, not hesitation.
 
 principal authority is not a slogan.
 
-It is the architecture behind every deal we touch. 
+It is the architecture behind every deal we touch.
 
-## The Future of Healthcare Financing Healthcare is shifting toward consolidation, automation, and capital intensity
+The Future of Healthcare Financing Healthcare is shifting toward consolidation, automation, and capital intensity
 
 .
 
@@ -190,9 +190,9 @@ Effectively.
 
 Because in healthcare finance, noise is cheap.
 
-Execution is priceless. 
+Execution is priceless.
 
-## Book a strategic consultatio
+Book a strategic consultatio
 
 n
 

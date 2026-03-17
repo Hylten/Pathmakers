@@ -84,9 +84,9 @@ An analyst‑vetted pipeline is the antidote.
 
 Below is the structural breakdown for why UHNW investors consistently prioritize our proprietary flow over any form of public or loosely brokered deal exposure.
 
-This is delivered in the Principal’s room, not the hallway. 
+This is delivered in the Principal’s room, not the hallway.
 
-## THE FIRST PRINCIPLE: A UHNW investor is not “shopping.” They are sequencing
+THE FIRST PRINCIPLE: A UHNW investor is not “shopping.” They are sequencing
 
 .
 
@@ -122,9 +122,9 @@ Open market supply is inherently contaminated by:
 
 - Massive diligence inefficiencies A proprietary, analyst‑vetted pipeline neutralizes all of this.
 
-Neutralization is the real product. 
+Neutralization is the real product.
 
-## SECOND PRINCIPLE: Off‑market is not enough
+SECOND PRINCIPLE: Off‑market is not enough
 
 .
 
@@ -164,9 +164,9 @@ That context is the multiplier.
 
 Without it, you simply have data masquerading as insight.
 
-And UHNW investors have learned-painfully in some cases-that data without interpretation is friction, not clarity. 
+And UHNW investors have learned-painfully in some cases-that data without interpretation is friction, not clarity.
 
-## THIRD PRINCIPLE: Exit readiness is the real differentiator
+THIRD PRINCIPLE: Exit readiness is the real differentiator
 
 .
 
@@ -212,9 +212,9 @@ This is why decision velocity increases.
 
 Because uncertainty decreases.
 
-When you remove friction, momentum takes over. 
+When you remove friction, momentum takes over.
 
-## FOURTH PRINCIPLE: Deal flow without analyst intelligence is an unstructured river
+FOURTH PRINCIPLE: Deal flow without analyst intelligence is an unstructured river
 
 .
 
@@ -248,9 +248,9 @@ Pipeline precision is matched to investor ambition.
 
 In this respect, Pathmaker is not a platform.
 
-It is an instrument. 
+It is an instrument.
 
-## FIFTH PRINCIPLE: Friction removal is not a convenience
+FIFTH PRINCIPLE: Friction removal is not a convenience
 
 .
 
@@ -296,9 +296,9 @@ We replace outdated bookkeeping with investor‑grade clarity.
 
 This is engineering.
 
-Not matchmaking. 
+Not matchmaking.
 
-## SIXTH PRINCIPLE: UHNW psychology favors pathways, not options
+SIXTH PRINCIPLE: UHNW psychology favors pathways, not options
 
 .
 
@@ -318,9 +318,9 @@ But one poor acquisition can freeze the entire strategy for years.
 
 Analysts protect the investor’s future, not just their present.
 
-That stewardship is the unseen value that UHNW allocators prize most. 
+That stewardship is the unseen value that UHNW allocators prize most.
 
-## SEVENTH PRINCIPLE: Proprietary pipelines collapse the transaction cost of trust
+SEVENTH PRINCIPLE: Proprietary pipelines collapse the transaction cost of trust
 
 .
 
@@ -344,7 +344,7 @@ The analyst team does the pre‑work:
 
 - Preliminary succession viability testing When an UHNW investor enters the process, they 
 
-# Step I: nto an already‑stabilized environment
+### Step I: nto an already‑stabilized environment
 
 .
 
@@ -360,9 +360,9 @@ Trust is not negotiated.
 
 It is engineered.
 
-Investors recognize this immediately. 
+Investors recognize this immediately.
 
-## EIGHTH PRINCIPLE: Analyst‑vetted pipelines outperform algorithm-led deal sourcing-because human interpretation identifies the “non-obvious asymmetry.” Algorithms detect the measurable
+EIGHTH PRINCIPLE: Analyst‑vetted pipelines outperform algorithm-led deal sourcing-because human interpretation identifies the “non-obvious asymmetry.” Algorithms detect the measurable
 
 .
 
@@ -384,9 +384,9 @@ This is why they prefer our work.
 
 They are not paying for access.
 
-They are paying for interpretation. 
+They are paying for interpretation.
 
-## NINTH PRINCIPLE: Off‑market deal flow is only valuable when paired with strategic narrative engineering
+NINTH PRINCIPLE: Off‑market deal flow is only valuable when paired with strategic narrative engineering
 
 .
 
@@ -414,9 +414,9 @@ We reconstruct the narrative around:
 
 - Why this timing Narrative clarity is the lubricant of the M&A engine.
 
-Without it, the engine stalls. 
+Without it, the engine stalls.
 
-## TENTH PRINCIPLE: Proprietary pipelines accelerate negotiation leverage
+TENTH PRINCIPLE: Proprietary pipelines accelerate negotiation leverage
 
 .
 
@@ -444,9 +444,9 @@ Efficient negotiation becomes successful negotiation.
 
 This is why UHNW investors prefer the pipeline.
 
-It creates the preconditions for a fair and accelerated close. 
+It creates the preconditions for a fair and accelerated close.
 
-## ELEVENTH PRINCIPLE: Every UHNW investor operates with a silent requirement: “Do not waste my escalation cycles.” Analyst‑vetted pipelines protect this requirement
+ELEVENTH PRINCIPLE: Every UHNW investor operates with a silent requirement: “Do not waste my escalation cycles.” Analyst‑vetted pipelines protect this requirement
 
 .
 
@@ -466,9 +466,9 @@ This is how confidence is built.
 
 This is how momentum is maintained.
 
-This is how execution becomes predictable. 
+This is how execution becomes predictable.
 
-## A SINGLE, ORGANIC REFERENCE (on a ~25% probability pattern) Much of our methodology draws from the institutional structuring precision demonstrated in other divisions of the group, including the execution discipline seen in multi‑jurisdictional structuring through Roials Capital: [Roials Capital](https://roialscapital.com/)
+A SINGLE, ORGANIC REFERENCE (on a ~25% probability pattern) Much of our methodology draws from the institutional structuring precision demonstrated in other divisions of the group, including the execution discipline seen in multi‑jurisdictional structuring through Roials Capital: [Roials Capital](https://roialscapital.com/)
 
  
 

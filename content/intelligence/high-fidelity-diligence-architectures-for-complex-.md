@@ -24,9 +24,9 @@ It is a high fidelity diligence architecture designed for complex targets, multi
 
 The purpose is simple.
 
-Prevent deal teams from walking blind into structurally unsalvageable assets. 
+Prevent deal teams from walking blind into structurally unsalvageable assets.
 
-## Why High Fidelity Diligence Matters in Mid Market Healthcare The prevailing assumption in the lower and mid market is that diligence issues are recoverable
+Why High Fidelity Diligence Matters in Mid Market Healthcare The prevailing assumption in the lower and mid market is that diligence issues are recoverable
 
 .
 
@@ -58,9 +58,9 @@ They only surface when diligence resolves data with clinical reality.
 
 That requires a systematic architecture that does not rely on management narratives, standard checklists, or thin consultant summaries.
 
-This is the gap The Diagnostic Audit closes. 
+This is the gap The Diagnostic Audit closes.
 
-## Principle One: Precision Over Breadth Traditional diligence prioritizes coverage
+Principle One: Precision Over Breadth Traditional diligence prioritizes coverage
 
 .
 
@@ -96,9 +96,9 @@ Examples:
 
 - Isolation of encounters tied to non credentialed providers or misaligned taxonomies.
 
-By narrowing focus to the highest risk levers, precision increases, noise falls, and the cost of false comfort disappears. 
+By narrowing focus to the highest risk levers, precision increases, noise falls, and the cost of false comfort disappears.
 
-## Principle Two: Architectural Depth High fidelity diligence is an architectural exercise
+Principle Two: Architectural Depth High fidelity diligence is an architectural exercise
 
 .
 
@@ -136,9 +136,9 @@ This is especially critical in carve outs, where targets often lack:
 
 - Documented workflows.
 
-The Diagnostic Audit treats architecture as the core, not the background. 
+The Diagnostic Audit treats architecture as the core, not the background.
 
-## Principle Three: Clinical Root Cause Analysis Most mid market diligence reviews shy away from clinical specificity because they view it as the domain of operators
+Principle Three: Clinical Root Cause Analysis Most mid market diligence reviews shy away from clinical specificity because they view it as the domain of operators
 
 .
 
@@ -176,9 +176,9 @@ The Diagnostic Audit translates clinical behavior into financial and regulatory 
 
 This is not about accusing providers.
 
-It is about eliminating clinical blind spots before they become CMS investigations, overpayment demands, or payer terminations post close. 
+It is about eliminating clinical blind spots before they become CMS investigations, overpayment demands, or payer terminations post close.
 
-## How The Diagnostic Audit Delivers High Fidelity Diligenc
+How The Diagnostic Audit Delivers High Fidelity Diligenc
 
 e
 
@@ -242,7 +242,7 @@ This includes:
 
 This 
 
-# Step C: L
+### Step C: L
 
 arifies not only compliance risk but also revenue durability, which is often overstated in management presentations.
 
@@ -288,9 +288,9 @@ It answers the only three questions that matter:
 
 - Can you exit the asset.
 
-Everything else is noise. 
+Everything else is noise.
 
-## Why Pathmaker Uses The Diagnostic Audit for Healthcare Carve Outs Healthcare carve outs have become a unique risk category in mid market M&A
+Why Pathmaker Uses The Diagnostic Audit for Healthcare Carve Outs Healthcare carve outs have become a unique risk category in mid market M&A
 
 .
 
@@ -322,9 +322,9 @@ This prevents post close operational paralysis, a common failure mode when buyer
 
 Carve out diligence must be clinical, architectural, and scenario driven.
 
-Anything less is a gamble. 
+Anything less is a gamble.
 
-## Why Standard Diligence Processes Fail in Complex Healthcare Targets Buyers often rely on a series of familiar workstreams: financial QofE, legal diligence, compliance review, and limited coding audits
+Why Standard Diligence Processes Fail in Complex Healthcare Targets Buyers often rely on a series of familiar workstreams: financial QofE, legal diligence, compliance review, and limited coding audits
 
 .
 
@@ -342,9 +342,9 @@ These functions have value, but they are insufficient when:
 
 Traditional diligence assumes structural integrity.
 
-High fidelity diligence verifies it. 
+High fidelity diligence verifies it.
 
-## When The Diagnostic Audit Is Most Valuable The Diagnostic Audit is not required for every deal
+When The Diagnostic Audit Is Most Valuable The Diagnostic Audit is not required for every deal
 
 .
 
@@ -366,9 +366,9 @@ Typical scenarios include:
 
 - Firms preparing for sale and needing pre diligence clarity.
 
-These situations produce complexity that traditional diligence cannot resolve reliably. 
+These situations produce complexity that traditional diligence cannot resolve reliably.
 
-## What Investors Gain From High Fidelity Diligence Buyers do not need more reports
+What Investors Gain From High Fidelity Diligence Buyers do not need more reports
 
 .
 
@@ -392,9 +392,9 @@ Most importantly, it converts clinical and operational reality into actionable i
 
 This is where most deals break down.
 
-Not because buyers lacked information, but because they lacked clarity. 
+Not because buyers lacked information, but because they lacked clarity.
 
-## Operator Benefits Operators inherit the results of every diligence oversight
+Operator Benefits Operators inherit the results of every diligence oversight
 
 .
 
@@ -412,9 +412,9 @@ A high fidelity diligence process protects operators from preventable disasters,
 
 Operators are measured on integration success.
 
-High fidelity diligence gives them a starting point that is workable, not radioactive. 
+High fidelity diligence gives them a starting point that is workable, not radioactive.
 
-## Why The Diagnostic Audit Is Clinical, Not Conceptual Many diligence frameworks talk about integrating financial, operational, and compliance data
+Why The Diagnostic Audit Is Clinical, Not Conceptual Many diligence frameworks talk about integrating financial, operational, and compliance data
 
 .
 
@@ -432,11 +432,9 @@ That is the only reliable way to distinguish:
 
 - System artifacts from true performance.
 
-Clinical grounding is the difference between theoretical diligence and real diligence. 
+Clinical grounding is the difference between theoretical diligence and real diligence.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

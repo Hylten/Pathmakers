@@ -40,7 +40,7 @@ Pathmaker’s vantage point works here because off‑market origination forces p
 
 This is the 
 
-# Phase I: Internal Logic
+### Phase I: Internal Logic
 
 .
 
@@ -194,9 +194,9 @@ They always do.
 
 Family offices invest in stewardship.
 
-They retreat from ego.
+They retreat from ego. 
 
-# Phase II: Principal Voice
+### Phase II: Principal Voice
 
 .
 
@@ -280,9 +280,9 @@ This is why analyst signals matter.
 
 This is why family offices test them.
 
-This is why exits fail when founders ignore them.
+This is why exits fail when founders ignore them. 
 
-# Phase III: Internal Bypass
+### Phase III: Internal Bypass
 
 .
 

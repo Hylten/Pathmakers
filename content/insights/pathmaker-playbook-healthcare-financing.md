@@ -128,7 +128,7 @@ The Partnership Model.
 
 Roials Capital operates as a strategic navigator, not as a fund manager or asset owner.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -164,9 +164,9 @@ Institutional acquirers require sellers who have already solved the compliance q
 
 The Pathmaker role ensures that by the time a healthcare platform reaches an acquirer, the operator is already aligned with diligence requirements.
 
-This creates competitive tension and increases execution reliability.
+This creates competitive tension and increases execution reliability. 
 
-# Phase IV: The Stewardship Filter
+### Phase IV: The Stewardship Filter
 
 .
 
@@ -196,9 +196,9 @@ Stewardship therefore becomes a commercial advantage.
 
 It is not a moral accessory.
 
-It is a strategic differentiator.
+It is a strategic differentiator. 
 
-# Phase V: Decision Architecture for Allocators
+### Phase V: Decision Architecture for Allocators
 
 .
 

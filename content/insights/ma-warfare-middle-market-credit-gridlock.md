@@ -14,13 +14,9 @@ This is the underlying driver of the present M&A dislocation.
 
 Enterprises with viable cash flow architecture are encountering a capital grid that is fundamentally misaligned with their operational reality.
 
-The result is a widening gap between asset quality and transaction feasibility. 
+The result is a widening gap between asset quality and transaction feasibility.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -60,13 +56,9 @@ This regime shift has created an environment where off market intelligence, pre 
 
 The market is no longer rewarding size or brand.
 
-It is rewarding structural readiness. 
+It is rewarding structural readiness.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ This avoids mass market processes and prioritizes precision over volume.
 
 For energy sectors, the model leverages NAEO as the institutional grade technical partner.
 
-For mid market corporate M&A, the partner network is shaped around buyers who prioritize operational clarity and reduced execution risk. 
+For mid market corporate M&A, the partner network is shaped around buyers who prioritize operational clarity and reduced execution risk.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization
+THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization
 
 .
 
@@ -242,13 +230,13 @@ This briefing serves as a navigational reference point for market participants r
 
 For operators preparing for exit, the next 
 
-# Step I
+### Step I
 
 s a confidential assessment focused on structural gaps, reporting integrity, and transaction feasibility.
 
 For allocators evaluating opportunities, the next 
 
-# Step I
+### Step I
 
 s an analytical dialogue regarding market posture, sector specific underwriting, and off market sourcing frameworks.
 

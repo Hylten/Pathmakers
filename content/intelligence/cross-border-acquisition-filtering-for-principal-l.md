@@ -54,9 +54,9 @@ Inbound outreach pulls attention to weak candidates.
 
 Principal led buyers cannot afford this waste.
 
-Precision filtering fixes the problem. 
+Precision filtering fixes the problem.
 
-## The Non Negotiable Criteria Set Before outreach begins, Pathmaker builds a criterion grid with the client
+The Non Negotiable Criteria Set Before outreach begins, Pathmaker builds a criterion grid with the client
 
 .
 
@@ -112,9 +112,9 @@ Email chains die.
 
 Responses degrade into polite decline.
 
-Pathmaker corrects this by structuring engagement from day zero. 
+Pathmaker corrects this by structuring engagement from day zero.
 
-## The Country Specific Engagement Model Every country requires a slightly different entry strategy
+The Country Specific Engagement Model Every country requires a slightly different entry strategy
 
 .
 
@@ -134,9 +134,9 @@ Examples:
 
 - The US responds well to clear economic rationale within the first outreach message Pathmaker codifies these patterns and embeds them into contact scripts, validation steps, and seller preparation workflows.
 
-This creates predictability in an area of M and A where most competitors still rely on intuition. 
+This creates predictability in an area of M and A where most competitors still rely on intuition.
 
-## Communication Cadence That Preserves Momentum Every seller receives a phased cadence that includes
+Communication Cadence That Preserves Momentum Every seller receives a phased cadence that includes
 
 :
 
@@ -174,9 +174,9 @@ Sellers go silent.
 
 Advisors stall while shopping offers.
 
-Technical Progression Control solves this with strict next step architecture. 
+Technical Progression Control solves this with strict next step architecture.
 
-## Stage Gates That Force Signal Every seller must progress through defined gates
+Stage Gates That Force Signal Every seller must progress through defined gates
 
 :
 
@@ -202,9 +202,9 @@ Principal led buyers need certainty.
 
 Uncertain sellers introduce risk.
 
-Progression control protects the buyer’s time and increases conversion probability. 
+Progression control protects the buyer’s time and increases conversion probability.
 
-## Removing Human Drag From Scheduling Cross border scheduling is a major drag point
+Removing Human Drag From Scheduling Cross border scheduling is a major drag point
 
 .
 
@@ -232,9 +232,9 @@ Cross border buyers face additional challenges:
 
 - Divergent payer models
 
-- Fragmented legal requirements The Technical Frictionless method solves this by tightening criteria and increasing predictability. 
+- Fragmented legal requirements The Technical Frictionless method solves this by tightening criteria and increasing predictability.
 
-## Carve Out Specific Filters Before contacting a single target, Pathmaker imposes carve out filters such as
+Carve Out Specific Filters Before contacting a single target, Pathmaker imposes carve out filters such as
 
 :
 
@@ -254,9 +254,9 @@ Cross border buyers face additional challenges:
 
 Not a fantasy.
 
-Not a gamble. 
+Not a gamble.
 
-## Carve Out Engagement Scripts Most healthcare sellers respond poorly to generic outreach
+Carve Out Engagement Scripts Most healthcare sellers respond poorly to generic outreach
 
 .
 
@@ -370,7 +370,7 @@ The Technical Frictionless method is the foundation.
 
 Every workflow, message, filter, and progression 
 
-# Step I: s built to reduce drag and increase conversion speed
+### Step I: s built to reduce drag and increase conversion speed
 
 .
 

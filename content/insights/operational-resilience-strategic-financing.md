@@ -22,13 +22,9 @@ They are mechanical.
 
 The following briefing maps the institutional mechanics that enable operational resilience, eliminate M&A friction, and increase deal readiness across the mid market.
 
-This briefing is authored as a leadership directive informed by Nordic corporate execution principles and structured to serve allocators, principals, and board level operators. 
+This briefing is authored as a leadership directive informed by Nordic corporate execution principles and structured to serve allocators, principals, and board level operators.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Across the Nordic region, this has been understood for decades.
 
 Companies maintain liquidity reserves, disciplined capital structures, and modular operational systems to maintain continuity under adverse conditions.
 
-The same discipline is becoming the global requirement for exit readiness. 
+The same discipline is becoming the global requirement for exit readiness.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -172,13 +164,9 @@ The value lies in three areas:
 
 Strategic Financing is not dependent on market conditions.
 
-It is dependent on structural alignment. 
+It is dependent on structural alignment.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources and opportunities
+THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources and opportunities
 
 .
 
@@ -236,7 +224,7 @@ This briefing provides the operational mechanics.
 
 The next 
 
-# Step I: s structural mapping
+### Step I: s structural mapping
 
 .
 

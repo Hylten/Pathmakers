@@ -22,13 +22,9 @@ This briefing outlines
 
  of hybrid collateral structures, and the role of Roials Capital as a strategic navigator in preparing institutional allocators, UHNWIs, and private credit managers for off-market opportunities.
 
-It is written from the vantage point of The General, with the conviction and clarity required for operational execution in Europe and the Nordics. 
+It is written from the vantage point of The General, with the conviction and clarity required for operational execution in Europe and the Nordics.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,13 +66,9 @@ Yet institutional lenders require collateral clarity that most carve-out environ
 
 The market inefficiency is not tied to performance risk but to structural ambiguity.
 
-This is the domain where hybrid collateral frameworks have emerged as a decisive advantage. 
+This is the domain where hybrid collateral frameworks have emerged as a decisive advantage.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -208,13 +200,9 @@ In carve-out transactions, time is a destabilizing factor.
 
 The longer the unit remains entangled in the parent organization, the more operational friction accumulates.
 
-By establishing clarity early in the process, acquirers reduce diligence cycles and bring the asset to exit readiness. 
+By establishing clarity early in the process, acquirers reduce diligence cycles and bring the asset to exit readiness.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste
 
 .
 

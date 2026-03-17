@@ -12,13 +12,9 @@ This disconnect continues to generate an execution bottleneck where high quality
 
 The operational assets are frequently sound.
 
-The constraint emerges in the sequencing of liabilities, the construction of ringfenced cash-flow frameworks, and the need for a disciplined interregnum structure that absorbs integration risk without degrading enterprise value. 
+The constraint emerges in the sequencing of liabilities, the construction of ringfenced cash-flow frameworks, and the need for a disciplined interregnum structure that absorbs integration risk without degrading enterprise value.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -44,25 +40,21 @@ The capital vacuum sits in the mid-market band of EUR
 
 This is the inflection point where liquidity engineering becomes the determining factor.
 
-The ability to construct a balanced, multi-layered credit architecture tailored specifically for separation events is increasingly the primary driver of whether an asset transitions into a stand-alone company with institutional-grade governance or remains stranded within a diversified holding. 
+The ability to construct a balanced, multi-layered credit architecture tailored specifically for separation events is increasingly the primary driver of whether an asset transitions into a stand-alone company with institutional-grade governance or remains stranded within a diversified holding.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
  OF SPIN-OFF FINANCING Complex spin-offs require a structured sequence of capital interventions that differ materially from traditional buyouts.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not simply to purchase an asset.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -144,7 +136,7 @@ In high intent transactions, opportunity velocity is often the differentiator be
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than as an asset acquirer.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -168,13 +160,9 @@ The partnership model is not predicated on capital deployment.
 
 It is predicated on the elimination of execution friction and the engineering of a transaction pathway that respects institutional discipline.
 
-In this context, the advisory function becomes a form of operational intelligence that supports buyers, sellers, and capital providers simultaneously. 
+In this context, the advisory function becomes a form of operational intelligence that supports buyers, sellers, and capital providers simultaneously.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility
+THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility
 
 .
 
@@ -226,7 +214,7 @@ This is the environment in which Roials Capital operates: the engineering of pat
 
 For allocators, the next 
 
-# Step I
+### Step I
 
 s a confidential strategy audit focused on portfolio calibration.
 

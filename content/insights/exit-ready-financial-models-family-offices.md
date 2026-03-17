@@ -122,9 +122,9 @@ The model is the pre‑manifestation of the exit.
 
 The exit is the validation of the model.
 
-And the capital moves toward validation.
+And the capital moves toward validation. 
 
-# Phase I: I
+### Phase I: I
 
 PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
 
@@ -176,9 +176,9 @@ Exit‑ready modeling is the financial equivalent of industrial tolerancing.
 
 Precision is not aesthetic.
 
-Precision is survivability.
+Precision is survivability. 
 
-# Phase II: I
+### Phase II: I
 
 ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
 

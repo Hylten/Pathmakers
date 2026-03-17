@@ -14,13 +14,9 @@ The region hosts disciplined founders, technically sophisticated management team
 
 The friction emerges in the translation from operational excellence to institutional acquisition criteria.
 
-The resulting valuation compression is predictable, mechanical, and avoidable. 
+The resulting valuation compression is predictable, mechanical, and avoidable.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ Companies with institutional documentation, calibrated governance, and clear buy
 
 Companies without these structures are excluded, regardless of performance.
 
-Liquidity is migrating toward businesses that operate with transaction grade discipline. 
+Liquidity is migrating toward businesses that operate with transaction grade discipline.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ Introductory dialogue is initiated only when the operational, financial, and str
 
 This is not a sale.
 
-It is an alignment of institutional archetypes. 
+It is an alignment of institutional archetypes.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline
+THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline
 
 .
 

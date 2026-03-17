@@ -24,9 +24,9 @@ Not as a turnaround shop.
 
 Not as an advisor searching for narrative redemption.
 
-But as a principal authority that structures liquidity with precision for those who already understand what is at stake. 
+But as a principal authority that structures liquidity with precision for those who already understand what is at stake.
 
-## The Pressure Points Unique to Healthcare Carve‑Outs Healthcare spinoffs are structurally more complicated than those in other sectors
+The Pressure Points Unique to Healthcare Carve‑Outs Healthcare spinoffs are structurally more complicated than those in other sectors
 
 .
 
@@ -52,9 +52,9 @@ During a carve‑out, typical pressure points include:
 
 Some can.
 
-Most cannot without external liquidity that can pivot fast and without constraint. 
+Most cannot without external liquidity that can pivot fast and without constraint.
 
-## Timing and Sequencing: The Hidden Drivers of Spinoff Success In every carve‑out we have supported, the determining factor was not strategy or management talent
+Timing and Sequencing: The Hidden Drivers of Spinoff Success In every carve‑out we have supported, the determining factor was not strategy or management talent
 
 .
 
@@ -72,9 +72,9 @@ Proper sequencing requires liquidity that is:
 
 - Structured around transitional volatility rather than penalizing it This is the advantage of private credit combined with Asset-Based Lending.
 
-We can structure against imperfect information as long as the asset base and risk profile are fundamentally real. 
+We can structure against imperfect information as long as the asset base and risk profile are fundamentally real.
 
-## Crypto Monetization Architecture and Public Share Monetization Architecture as Strategic Supplements In certain spinoffs, especially those orchestrated by HNWI and UHNW principals, liquidity may exist outside the operating entities
+Crypto Monetization Architecture and Public Share Monetization Architecture as Strategic Supplements In certain spinoffs, especially those orchestrated by HNWI and UHNW principals, liquidity may exist outside the operating entities
 
 .
 
@@ -94,9 +94,9 @@ These structures deliver liquidity without forcing liquidation.
 
 They allow principals to support the spinoff without altering their market footprint.
 
-This is essential when timing is sensitive and external visibility must remain controlled. 
+This is essential when timing is sensitive and external visibility must remain controlled.
 
-## Avoiding the Three Classic Spinoff Failures After years of handling mid‑market carve‑outs, three failures appear consistently
+Avoiding the Three Classic Spinoff Failures After years of handling mid‑market carve‑outs, three failures appear consistently
 
 .
 
@@ -124,9 +124,9 @@ It never does.
 
 * A single lender with rigid requirements will stall the spinoff the moment variables shift.
 
-Pathmaker structures liquidity intentionally to avoid all three. 
+Pathmaker structures liquidity intentionally to avoid all three.
 
-## The Role of principal authority in Unstable Environments High net worth and ultra high net worth operators do not need a lender who performs expertise for attention
+The Role of principal authority in Unstable Environments High net worth and ultra high net worth operators do not need a lender who performs expertise for attention
 
 .
 
@@ -144,9 +144,9 @@ It means understanding how to complement [institutional capital]([Roials Capital
 
 It means supporting those who already carry significant visibility, without adding more.
 
-This is why our clientele remains private and our approach remains disciplined. 
+This is why our clientele remains private and our approach remains disciplined.
 
-## The Mechanics That Matter Most The mechanics of liquidity structuring during a spinoff are not glamorous
+The Mechanics That Matter Most The mechanics of liquidity structuring during a spinoff are not glamorous
 
 .
 
@@ -166,9 +166,9 @@ We examine:
 
 - Covenant headroom under transitional volatility The unifying goal is simple.
 
-Keep the spinoff liquid until operations stabilize. 
+Keep the spinoff liquid until operations stabilize.
 
-## What High Net Worth Operators Need to Remember In complex corporate spinoffs, especially in healthcare, there is no benefit in optimism
+What High Net Worth Operators Need to Remember In complex corporate spinoffs, especially in healthcare, there is no benefit in optimism
 
 .
 
@@ -180,9 +180,9 @@ We structure.
 
 We provide predictable capital in unpredictable environments.
 
-We deliver mechanics that allow operators to make decisive moves while the market is still processing the transition. 
+We deliver mechanics that allow operators to make decisive moves while the market is still processing the transition.
 
-## Final Thought Spinoffs succeed when liquidity is structured with precision and deployed without hesitation
+Final Thought Spinoffs succeed when liquidity is structured with precision and deployed without hesitation
 
 .
 

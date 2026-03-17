@@ -18,13 +18,9 @@ Yet deals stall because the operating substrate of the target cannot withstand i
 
 The friction is not financial.
 
-The friction is mechanical. 
+The friction is mechanical.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ Not by adjusting price.
 
 Not by escalating marketing.
 
-But by eliminating friction at the source. 
+But by eliminating friction at the source.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -220,13 +212,9 @@ The market rewards operators who demonstrate predictable execution and low noise
 
 This is where friction elimination transitions into value preservation.
 
-The process becomes quiet, efficient, and strategic. 
+The process becomes quiet, efficient, and strategic.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood
+THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood
 
 .
 

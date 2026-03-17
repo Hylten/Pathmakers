@@ -80,9 +80,9 @@ The environment where speed matters more than volume and certainty matters more 
 
 This is not a retail summary.
 
-This is a principal brief. 
+This is a principal brief.
 
-## STRATEGIC CONSTRAINTS Markets punish indecision
+STRATEGIC CONSTRAINTS Markets punish indecision
 
 .
 
@@ -130,9 +130,9 @@ Operators must win across all three.
 
 Not sequentially.
 
-Simultaneously. 
+Simultaneously.
 
-## THE PATHMAKER PRINCIPLE: HYBRID AS FIRST RESORT For years, hybrid solutions were reactive
+THE PATHMAKER PRINCIPLE: HYBRID AS FIRST RESORT For years, hybrid solutions were reactive
 
 .
 
@@ -168,9 +168,9 @@ Speed without risk escalation.
 
 Equity moves expensively.
 
-Hybrids move at the exact speed required for mid‑market M&A: fast enough to seize an off‑market opportunity, structured enough to pass committee. 
+Hybrids move at the exact speed required for mid‑market M&A: fast enough to seize an off‑market opportunity, structured enough to pass committee.
 
-## THE CORE MODELS: THREE INFRASTRUCTURES Hybrid financing isn’t one instrument
+THE CORE MODELS: THREE INFRASTRUCTURES Hybrid financing isn’t one instrument
 
 .
 
@@ -238,9 +238,9 @@ Not all three.
 
 Not always two.
 
-But always tailored to the underlying acquisition-its stability, its volatility, its asymmetry. 
+But always tailored to the underlying acquisition-its stability, its volatility, its asymmetry.
 
-## THE PATHMAKER LAYER: Capital Structuring Acquirers misunderstand liquidity
+THE PATHMAKER LAYER: Capital Structuring Acquirers misunderstand liquidity
 
 .
 
@@ -278,9 +278,9 @@ Operators think cost of capital matters most.
 
 It doesn’t.
 
-Certainty of capital does. 
+Certainty of capital does.
 
-## THE M&A FRICTION MAP Every deal carries intrinsic friction
+THE M&A FRICTION MAP Every deal carries intrinsic friction
 
 .
 
@@ -320,9 +320,9 @@ Risk assignment.
 
 A frictionless deal is not one without problems.
 
-It is one where every problem has a matched instrument. 
+It is one where every problem has a matched instrument.
 
-## EXIT READINESS: THE CORE OF Fund-III STRATEGY Exits fail not because performance is weak
+EXIT READINESS: THE CORE OF Fund-III STRATEGY Exits fail not because performance is weak
 
 .
 
@@ -414,9 +414,9 @@ Deal friction reduction.
 
 Liquidity surfacing.
 
-Narrative shaping. 
+Narrative shaping.
 
-## THE CAPITAL STACK AS A WEAPON Capital is not neutral
+THE CAPITAL STACK AS A WEAPON Capital is not neutral
 
 .
 
@@ -460,9 +460,9 @@ Not when convenient.
 
 The capital stack is a battlefield.
 
-Architecture wins battles. 
+Architecture wins battles.
 
-## TACTICAL INTELLIGENCE: THE PATHMAKER METHOD Jonas’s analytic lineage runs through every model-sharp logic, INTP precision, red‑yellow activation
+TACTICAL INTELLIGENCE: THE PATHMAKER METHOD Jonas’s analytic lineage runs through every model-sharp logic, INTP precision, red‑yellow activation
 
 .
 
@@ -502,9 +502,9 @@ Machine‑gun cadence.
 
 Short sentences.
 
-Fast movement. 
+Fast movement.
 
-## THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language
+THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language
 
 :
 
@@ -562,9 +562,9 @@ Competitive Advantage Competitors using traditional banks lose speed instantly.
 
 Integration Liquidity Post-close performance rises when integration is funded.
 
-Hybrid financing turns buyers into power buyers. 
+Hybrid financing turns buyers into power buyers.
 
-## SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits
+SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits
 
 :
 
@@ -578,9 +578,9 @@ Hybrid financing turns buyers into power buyers.
 
 - Create predictable closing pathway Hybrid-backed buyers close.
 
-That is the seller’s priority. 
+That is the seller’s priority.
 
-## STRATEGIC LIQUIDITY: THE FUTURE STATE The mid‑market is entering a new phase
+STRATEGIC LIQUIDITY: THE FUTURE STATE The mid‑market is entering a new phase
 
 .
 

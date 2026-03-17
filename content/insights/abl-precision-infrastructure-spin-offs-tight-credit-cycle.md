@@ -14,13 +14,9 @@ Asset Based Lending, once viewed as a transitional credit tool, has become the d
 
 In a constrained credit regime, Asset-Based Lending is not a financing product.
 
-It is a separation technology. 
+It is a separation technology.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ The opportunity lies in identifying divisions that become structurally mispriced
 
 Institutional buyers increasingly seek clean-room operational units with standardized asset schedules, independent capital stacks, and predictable free cash flow cycles.
 
-The spin off has become a requirement rather than a strategic option. 
+The spin off has become a requirement rather than a strategic option.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -164,13 +156,9 @@ When spin offs involve precision infrastructure, execution risk increases becaus
 
 The role of an institutional introducer is not to operate the asset.
 
-The role is to ensure the separation process aligns with the standards institutional buyers require for accelerated diligence. 
+The role is to ensure the separation process aligns with the standards institutional buyers require for accelerated diligence.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation
+THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation
 
 .
 

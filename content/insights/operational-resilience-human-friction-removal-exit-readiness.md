@@ -46,13 +46,9 @@ This is where deals slow down, where discounts emerge, or where entire M&A proce
 
 I have seen this pattern across multiple jurisdictions and asset profiles.
 
-It is universal. 
+It is universal.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -102,13 +98,9 @@ This environment favors enterprises with institutional discipline.
 
 It punishes enterprises with operational opacity.
 
-This is the new regime. 
+This is the new regime.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -300,13 +292,9 @@ The partnership model is a discipline of structural alignment.
 
 It is not promotional.
 
-It is architectural. 
+It is architectural.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management
 
 .
 
@@ -342,33 +330,33 @@ Performance is transient.
 
 Resilience is durable.
 
-DECISION MAKING LENS FOR THE ALLOCATOR OR OWNER The owner or allocator must evaluate operational resilience through a multi axis framework.
+DECISION MAKING LENS FOR THE ALLOCATOR OR OWNER The owner or allocator must evaluate operational resilience through a multi axis framework. 
 
-# Axis I
+### Axis I
 
 Systemic Continuity Can the enterprise operate without any one person.
 
-If not, the enterprise is not exit ready.
+If not, the enterprise is not exit ready. 
 
-# Axis I: I
+### Axis I: I
 
 Diligence Readiness Can the enterprise withstand full spectrum diligence without disruption.
 
-Buyers do not accept operational slowdown during diligence.
+Buyers do not accept operational slowdown during diligence. 
 
-# Axis II: I
+### Axis II: I
 
 Integration Burden Is the enterprise architected for low friction integration into a larger platform.
 
-Integration burden is a primary driver of purchase price adjustments.
+Integration burden is a primary driver of purchase price adjustments. 
 
-# Axis I: V
+### Axis I: V
 
 Codified Value Is the business built on documented systems or undocumented habits.
 
-Institutional value must be transferable.
+Institutional value must be transferable. 
 
-# Axis V
+### Axis V
 
 Optionality Does the operational architecture create optionality for sale, recapitalization, management transition, or geographic expansion.
 

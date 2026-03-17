@@ -12,13 +12,9 @@ This structural gap has created one of the most strategically mispriced environm
 
 The borrower quality remains stable, but liquidity distribution has become asymmetric.
 
-The institutional lender who understands how to align credit with exit readiness, operational hardening, and M&A friction removal is positioned to access a deal flow archetype that has become increasingly inaccessible to traditional banks. 
+The institutional lender who understands how to align credit with exit readiness, operational hardening, and M&A friction removal is positioned to access a deal flow archetype that has become increasingly inaccessible to traditional banks.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ For disciplined allocators, this represents a rare environment where liquidity p
 
 In this new regime, private credit is functioning as a growth enabler, a catalyst for exit preparation, and a mechanism for reducing M&A friction.
 
-It is no longer only an instrument for leverage; it has become an instrument for institutional alignment. 
+It is no longer only an instrument for leverage; it has become an instrument for institutional alignment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -210,13 +202,9 @@ This includes:
 
 - Asset hardening requirements The methodology is not promotional.
 
-It is diagnostic. 
+It is diagnostic.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical
+THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical
 
 .
 
@@ -270,7 +258,7 @@ Allocators who understand this dynamic gain access to:
 
 - Non-sponsored companies with strong fundamentals and limited bank access The correct next 
 
-# Step I: s not capital deployment
+### Step I: s not capital deployment
 
 .
 

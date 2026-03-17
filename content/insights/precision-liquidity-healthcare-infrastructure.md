@@ -28,13 +28,9 @@ It is a structural consequence of an industry optimized for care delivery rather
 
 The opportunity for disciplined capital is not in speculation.
 
-It is in correcting these structural inefficiencies through precision liquidity and execution discipline. 
+It is in correcting these structural inefficiencies through precision liquidity and execution discipline.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,13 +68,9 @@ THE REGIME SHIFT
 
 The challenge is not identifying demand.
 
-The challenge is enabling operators to align structurally with institutional transaction standards. 
+The challenge is enabling operators to align structurally with institutional transaction standards.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -198,13 +190,9 @@ Build institutional governance
 
 5.
 
-Prepare for acquisition or structured credit alignment This approach reduces transaction slippage and increases opportunity velocity without creating solicitation dynamics. 
+Prepare for acquisition or structured credit alignment This approach reduces transaction slippage and increases opportunity velocity without creating solicitation dynamics.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks
+THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks
 
 .
 

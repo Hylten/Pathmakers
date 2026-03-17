@@ -12,13 +12,9 @@ This distinction matters because it reframes private credit from a yield instrum
 
 The institutional allocator who understands this mechanics-driven environment does not view private credit as a passive coupon vehicle.
 
-It is a precision tool that alters the velocity, predictability, and durability of corporate outcomes. 
+It is a precision tool that alters the velocity, predictability, and durability of corporate outcomes.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -52,13 +48,9 @@ THE REGIME SHIFT
 
 Institutions accustomed to linear processes now face non linear transaction environments where certainty of execution outweighs price in determining competitive advantage.
 
-This is the climate in which operational resilience becomes a strategic currency. 
+This is the climate in which operational resilience becomes a strategic currency.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -144,13 +136,13 @@ Private credit converts operational uncertainty into structured visibility.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator focused on institutional alignment, technical filtration, and partner selection.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to sell capital.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -170,13 +162,9 @@ The partnership model is designed around transparency.
 
 Every party gains a clear understanding of collateral visibility, operational risk cycles, M&A intentions, and exit timelines.
 
-This reduces negotiation drag, eliminates documentation drift, and aligns incentive structures. 
+This reduces negotiation drag, eliminates documentation drift, and aligns incentive structures.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Operational resilience is not a financial tactic
+THE STEWARDSHIP FILTER Operational resilience is not a financial tactic
 
 .
 

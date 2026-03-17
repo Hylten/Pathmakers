@@ -28,11 +28,11 @@ Pathmaker exists to correct that pattern.
 
 We 
 
-# Step I
+### Step I
 
 n where silence is required, where structural mechanics matter, and where larger institutions cannot or will not move.
 
-## The Mid-Market Liquidity Reality Mid-market companies rarely collapse due to lack of demand
+The Mid-Market Liquidity Reality Mid-market companies rarely collapse due to lack of demand
 
 .
 
@@ -50,9 +50,9 @@ Every owner says the same line just before the pivot point.
 
 They say, "We just need more time." But time is not the variable.
 
-Liquidity is. 
+Liquidity is.
 
-## Why Traditional Credit Fails Mid-Market Operators Traditional underwriting prefers stability
+Why Traditional Credit Fails Mid-Market Operators Traditional underwriting prefers stability
 
 .
 
@@ -70,7 +70,7 @@ They can recapitalize.
 
 They can 
 
-# Layer M: ezzanine
+### Layer M: ezzanine
 
 .
 
@@ -78,9 +78,9 @@ They can negotiate maturity extensions.
 
 HNWI and UHNW individuals operating privately do not always have those tools.
 
-Pathmaker gives them the tools. 
+Pathmaker gives them the tools.
 
-## Pathmaker’s Role: principal authority in Institutional Liquidity Paths Pathmaker does not chase distressed deals or promise turnaround fantasies
+Pathmaker’s Role: principal authority in Institutional Liquidity Paths Pathmaker does not chase distressed deals or promise turnaround fantasies
 
 .
 
@@ -96,9 +96,9 @@ We position our capital quietly, without fanfare, with an institutional discipli
 
 The objective is not rescue.
 
-The objective is optionality. 
+The objective is optionality.
 
-## Understanding Liquidity Stress in Healthcare Carve-Outs Healthcare carve-outs in the mid-market sit in a unique category
+Understanding Liquidity Stress in Healthcare Carve-Outs Healthcare carve-outs in the mid-market sit in a unique category
 
 .
 
@@ -128,9 +128,9 @@ We know where the cash traps form.
 
 We see the silent liabilities that do not appear in the quality-of-earnings deck.
 
-And we finance against the assets that still hold institutional value, even when the market does not fully understand them. 
+And we finance against the assets that still hold institutional value, even when the market does not fully understand them.
 
-## The Mid-Market Struggle With Asset Efficiency Mid-market companies frequently sit on assets that are underleveraged
+The Mid-Market Struggle With Asset Efficiency Mid-market companies frequently sit on assets that are underleveraged
 
 .
 
@@ -146,9 +146,9 @@ We deploy Asset-Based Lending structures that behave like institutional-grade to
 
 This is not theoretical finance.
 
-This is liquidity in motion. 
+This is liquidity in motion.
 
-## The Evolution of Private Credit for HNWI and UHNW Investors Most private credit structures are built for funds, not individuals
+The Evolution of Private Credit for HNWI and UHNW Investors Most private credit structures are built for funds, not individuals
 
 .
 
@@ -174,9 +174,9 @@ The operator.
 
 The strategist.
 
-We supply the structural mechanics that institutional lenders take for granted, and private owners usually cannot access. 
+We supply the structural mechanics that institutional lenders take for granted, and private owners usually cannot access.
 
-## Crypto Monetization Architecture for Serious Capital Holders Pathmaker does not participate in retail crypto Institutional Liquidity Paths
+Crypto Monetization Architecture for Serious Capital Holders Pathmaker does not participate in retail crypto Institutional Liquidity Paths
 
 .
 
@@ -196,9 +196,9 @@ No hype.
 
 No theatrics.
 
-Simply capital against collateral. 
+Simply capital against collateral.
 
-## Public Share Institutional Liquidity Paths for Strategic Liquidity For clients who hold significant public positions, the largest mistake is allowing shares to sit idle while liquidity constraints tighten elsewhere
+Public Share Institutional Liquidity Paths for Strategic Liquidity For clients who hold significant public positions, the largest mistake is allowing shares to sit idle while liquidity constraints tighten elsewhere
 
 .
 
@@ -212,9 +212,9 @@ The structure is quiet.
 
 The capital is efficient.
 
-The liquidity is immediate. 
+The liquidity is immediate.
 
-## Why HNWI and UHNW Operators Choose Pathmaker Pathmaker clients are not looking for narrative-driven capital partners
+Why HNWI and UHNW Operators Choose Pathmaker Pathmaker clients are not looking for narrative-driven capital partners
 
 .
 
@@ -234,9 +234,9 @@ HNWI and UHNW operators choose Pathmaker because:
 
 There is a tactical advantage in partnering with a lender that understands subtlety and timing.
 
-That advantage compounds. 
+That advantage compounds.
 
-## Liquidity as a Strategic Weapon Liquidity is not about survival
+Liquidity as a Strategic Weapon Liquidity is not about survival
 
 .
 
@@ -256,9 +256,9 @@ When a mid-market operator stabilizes their liquidity position, several things h
 
 Calm creates strategy.
 
-Strategy creates value. 
+Strategy creates value.
 
-## The Pathmaker Methodology Pathmaker operates with a battle-tested methodology, developed through years of work across mid-market transactions, carve-outs, and complex liquidity cases
+The Pathmaker Methodology Pathmaker operates with a battle-tested methodology, developed through years of work across mid-market transactions, carve-outs, and complex liquidity cases
 
 .
 
@@ -276,7 +276,7 @@ Exit optionality.
 
 Each 
 
-# Step I
+### Step I
 
 s executed with institutional precision and private discretion.
 
@@ -284,9 +284,9 @@ We do not inflate expectations.
 
 We do not romanticize liquidity events.
 
-We engineer them. 
+We engineer them.
 
-## Collateral Mapping: The Core of Structural Liquidity One of our central advantages is our ability to identify collateral streams that others miss
+Collateral Mapping: The Core of Structural Liquidity One of our central advantages is our ability to identify collateral streams that others miss
 
 .
 
@@ -308,9 +308,9 @@ Examples include:
 
 000 dollar threshold Collateral mapping converts complexity into accessibility.
 
-This creates liquidity where the operator assumed none existed. 
+This creates liquidity where the operator assumed none existed.
 
-## Structural Engineering: Precision Over Velocity We do not chase speed at the expense of structure
+Structural Engineering: Precision Over Velocity We do not chase speed at the expense of structure
 
 .
 
@@ -324,9 +324,9 @@ We build:
 
 - Asset-Based Lending structures that respond dynamically to asset quality
 
-- Collateral agreements that protect both sides without restricting maneuverability This is institutional machinery applied to the private domain. 
+- Collateral agreements that protect both sides without restricting maneuverability This is institutional machinery applied to the private domain.
 
-## The Real Cost of Delayed Liquidity Many owners wait too long to secure liquidity
+The Real Cost of Delayed Liquidity Many owners wait too long to secure liquidity
 
 .
 
@@ -340,9 +340,9 @@ The later capital arrives, the more punitive the terms become, the narrower the 
 
 Early structural liquidity is the least costly path.
 
-Pathmaker structures protect against compression before it becomes catastrophic. 
+Pathmaker structures protect against compression before it becomes catastrophic.
 
-## The Mid-Market Carve-Out Trap Carve-outs are rarely priced correctly
+The Mid-Market Carve-Out Trap Carve-outs are rarely priced correctly
 
 .
 
@@ -368,9 +368,9 @@ Pathmaker has seen the pattern enough times to anticipate it.
 
 We finance against the assets that retain value even when the carve-out structure strains liquidity.
 
-This creates breathing room, clarity, and strategic optionality. 
+This creates breathing room, clarity, and strategic optionality.
 
-## Institutional Discipline Without Institutional Friction Large institutions move slowly
+Institutional Discipline Without Institutional Friction Large institutions move slowly
 
 .
 
@@ -384,9 +384,9 @@ Our focus is clarity.
 
 Our posture is principal authority.
 
-Our value is the structural engineering that UHNW clients expect but rarely find outside multi-billion-dollar credit funds. 
+Our value is the structural engineering that UHNW clients expect but rarely find outside multi-billion-dollar credit funds.
 
-## The Liquidity Playbook For Mid-Market Operators The playbook is straightforward
+The Liquidity Playbook For Mid-Market Operators The playbook is straightforward
 
 .
 
@@ -404,9 +404,9 @@ Move quietly.
 
 This is the playbook we build with every client.
 
-This is the structure that keeps mid-market operators in control of their timeline instead of being controlled by it. 
+This is the structure that keeps mid-market operators in control of their timeline instead of being controlled by it.
 
-## Pathmaker’s Advantage in an Overcrowded Capital Market There is no shortage of lenders today
+Pathmaker’s Advantage in an Overcrowded Capital Market There is no shortage of lenders today
 
 .
 
@@ -422,9 +422,9 @@ We interpret it.
 
 We lend into it when others retreat, provided the collateral is sound and the operator is serious.
 
-This combination is rare and valuable in the mid-market. 
+This combination is rare and valuable in the mid-market.
 
-## Final Perspective: Liquidity Is Not an Event, It Is a System Liquidity must be engineered, maintained, and recalibrated as markets shift
+Final Perspective: Liquidity Is Not an Event, It Is a System Liquidity must be engineered, maintained, and recalibrated as markets shift
 
 .
 
@@ -436,9 +436,9 @@ Pathmaker’s purpose is to eliminate the guesswork.
 
 We give HNWI and UHNW clients the structural mechanics that allow them to operate with institutional-grade stability inside real-world volatility.
 
-If liquidity is the bloodstream of your business, Pathmaker is the vascular architecture. 
+If liquidity is the bloodstream of your business, Pathmaker is the vascular architecture.
 
-## Book a strategic consultatio
+Book a strategic consultatio
 
 n
 

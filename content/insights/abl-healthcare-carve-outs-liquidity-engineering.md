@@ -16,13 +16,9 @@ The
 
  INTRODUCTION
 
- of disciplined Asset Based Lending within carve-out environments has emerged as one of the most reliable Monetization Architecture tools for serious operators preparing for scale, divestiture, or strategic consolidation. 
+ of disciplined Asset Based Lending within carve-out environments has emerged as one of the most reliable Monetization Architecture tools for serious operators preparing for scale, divestiture, or strategic consolidation.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -46,13 +42,9 @@ Hard collateral, inventory fluidity, predictable receivables, and auditable equi
 
 Healthcare operators that fail to align with these regime conditions encounter a valuation discount that is structural rather than cyclical.
 
-Conversely, operators that introduce disciplined Asset-Based Lending frameworks into the carve-out process demonstrate balance sheet integrity that institutional buyers reward with reduced diligence friction and faster transaction velocity. 
+Conversely, operators that introduce disciplined Asset-Based Lending frameworks into the carve-out process demonstrate balance sheet integrity that institutional buyers reward with reduced diligence friction and faster transaction velocity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,13 +158,9 @@ Integration Alignment Effective carve-outs require post closing liquidity stabil
 
 Asset-Based Lending facilities are configured to match integration timelines.
 
-This protects both buyer and seller from post transaction disruptions. 
+This protects both buyer and seller from post transaction disruptions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services
+THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services
 
 .
 

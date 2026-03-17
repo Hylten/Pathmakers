@@ -22,7 +22,7 @@ Niche markets such as specialized manufacturing, renewable micro infrastructure,
 
 This is particularly pronounced where businesses exhibit high asset density but volatile EBITDA profiles, or where regulatory restrictions, such as EU MiFID II firm acquisitions requirements, impose pressure on upfront equity commitments.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -64,13 +64,9 @@ NAEOCC energy infrastructure investment and similar sectors value equipment and 
 
 The structural reality is that Asset-Based Lending is no longer ancillary.
 
-It is a principal acquisition mechanism that differentiates operators capable of deep forensic asset evaluation from those reliant on generic leverage structures. 
+It is a principal acquisition mechanism that differentiates operators capable of deep forensic asset evaluation from those reliant on generic leverage structures.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -206,9 +202,9 @@ While EBITDA is only $19M with high seasonal variance, the business possesses a 
 
 14 upstream and midstream customers.
 
-Objective Acquire the business with minimal equity outlay to maintain capital raising for mid-market buyout momentum while positioning for bolt on expansion.
+Objective Acquire the business with minimal equity outlay to maintain capital raising for mid-market buyout momentum while positioning for bolt on expansion. 
 
-# Step I
+### Step I
 
 Asset Evaluation The sponsor executes a forensic asset audit.
 
@@ -237,9 +233,9 @@ Obsolescence minimal.
 
 - Real estate: $9M of owned land and structures.
 
-Appraised at $12.4M.
+Appraised at $12.4M. 
 
-# Step I: I
+### Step I: I
 
 Advance Rate Determination The Asset-Based Lending partner offers:
 
@@ -269,9 +265,9 @@ Total liquidity potential:
 
 - Real estate: $7.44M.
 
-Cumulative borrowing base: $79.65M.
+Cumulative borrowing base: $79.65M. 
 
-# Step III: Capital Stack Construction Purchase price: $145M
+### Step III: Capital Stack Construction Purchase price: $145M
 
 .
 
@@ -288,9 +284,9 @@ Sponsor equity as percent of transaction: 29.
 
 However, the sponsor employs a UHNW co investment vehicle integrated with UHNW liquidity planning protocols, reducing direct fund equity contribution to $19M.
 
-This preserves capital for simultaneous bolt on targeting a smaller $18M compression unit refurbisher.
+This preserves capital for simultaneous bolt on targeting a smaller $18M compression unit refurbisher. 
 
-# Step IV: RCM Optimization Post acquisition, the sponsor introduces
+### Step IV: RCM Optimization Post acquisition, the sponsor introduces
 
 a
 
@@ -304,9 +300,9 @@ Days sales outstanding drops from
 
 120 days.
 
-The Asset-Based Lending line auto expands by $3.1M due to increased eligible receivables.
+The Asset-Based Lending line auto expands by $3.1M due to increased eligible receivables. 
 
-# Step V: Asset Hardening The operator deploys IoT modules o
+### Step V: Asset Hardening The operator deploys IoT modules o
 
 n
 
@@ -315,9 +311,9 @@ n
 This reduces field audit requirements and increases lender comfort.
 
 Asset-Based Lending advance adjustments allow a 
-2 percent increase to equipment borrowing base yielding an additional $1.02M liquidity.
+2 percent increase to equipment borrowing base yielding an additional $1.02M liquidity. 
 
-# Step V: I
+### Step V: I
 
 Covenant Resilience During Oil Price Shock Six months post acquisition, crude prices drop
 
@@ -327,9 +323,9 @@ EBITDA compresses temporarily to $15M but asset values remain stable.
 
 Since the Asset-Based Lending is governed by asset values, not EBITDA leverage, no covenant breach occurs.
 
-The business continues stable servicing during a market contraction.
+The business continues stable servicing during a market contraction. 
 
-# Step VI: I
+### Step VI: I
 
 Exit Scenario By year four the sponsor executes a secondary sale to a strategic consolidator at a $228M valuation.
 
@@ -396,13 +392,9 @@ Stewardship ensures Asset-Based Lending is not misused.
 
 Gnosjö ensures respect for the operational core.
 
-Technical edge ensures precision in structuring. 
+Technical edge ensures precision in structuring.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

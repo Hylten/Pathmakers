@@ -12,13 +12,9 @@ This disconnect between operational performance and capital availability has cre
 
 Nordic enterprises with disciplined cash generation and defensible market positioning routinely face elongated credit approvals, conservative collateral interpretation, and inconsistent underwriting velocity.
 
-The resulting delay suppresses deal readiness, stalls M&A execution, and converts otherwise high quality opportunities into stranded transactions. 
+The resulting delay suppresses deal readiness, stalls M&A execution, and converts otherwise high quality opportunities into stranded transactions.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ This is
 
  THE REGIME SHIFT
 
- : capital velocity is declining at the same time that operational performance is improving. 
+ : capital velocity is declining at the same time that operational performance is improving.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -152,13 +144,9 @@ By realigning collateral, restructuring amortization, or clarifying capital stac
 
 Opportunity Velocity In a competitive acquisition environment, velocity is an advantage.
 
-Precision private credit reduces time to close, increases strategic optionality, and enables operators to execute on off market opportunities before competing buyers mobilize. 
+Precision private credit reduces time to close, increases strategic optionality, and enables operators to execute on off market opportunities before competing buyers mobilize.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction
 
 .
 

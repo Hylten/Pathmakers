@@ -158,9 +158,7 @@ Even in oil and gas supply chains-long-lead, spec-heavy, capital-intense-Asset-B
 
 It turns float into structure.
 
-Fund-III 
-
-## MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase
+Fund-III MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase
 
 .
 
@@ -439,35 +437,35 @@ TACTICAL SEQUENCING FOR FUND‑III OPERATORS To operationalize Asset-Based Lendi
 
 Not theory.
 
-Execution.
+Execution. 
 
-# Step I: Extract asset map from seller systems
+### Step I: Extract asset map from seller systems
 
-.
+. 
 
-# Step II: Validate AR, inventory, equipment residuals
+### Step II: Validate AR, inventory, equipment residuals
 
-.
+. 
 
-# Step III: Construct liquidity corridors tied to operational cycles
+### Step III: Construct liquidity corridors tied to operational cycles
 
-.
+. 
 
-# Step IV: Pre‑build Day
+### Step IV: Pre‑build Day
 
 ‑
 
-1 liquidity events.
+1 liquidity events. 
 
-# Step V: Neutralize vendor uncertainty
+### Step V: Neutralize vendor uncertainty
 
-.
+. 
 
-# Step VI: Engineer early integration signals to the market
+### Step VI: Engineer early integration signals to the market
 
-.
+. 
 
-# Step VII: Document cycle stability for eventual exit packages
+### Step VII: Document cycle stability for eventual exit packages
 
 .
 

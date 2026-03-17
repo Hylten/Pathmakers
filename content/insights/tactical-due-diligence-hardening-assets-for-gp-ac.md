@@ -24,7 +24,7 @@ It is the discipline of hardening an asset until it carries the posture, cadence
 
 Pathmaker operates inside this trench.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -250,9 +250,7 @@ Built to be entrusted to institutional buyers without fear.
 
 - 
 
-- ## Book a strategic consultation If 
-
-## THE MANDAT
+- ## Book a strategic consultation If THE MANDAT
 
 E
 

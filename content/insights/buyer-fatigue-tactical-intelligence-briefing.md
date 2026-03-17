@@ -120,9 +120,9 @@ Tactical Intelligence.
 
 True Tactical Intelligence does not “improve the pitch.” It eliminates the structural ambiguity that creates buyer fatigue in the first place.
 
-It reshapes the buyer’s entire decision-making environment. 
+It reshapes the buyer’s entire decision-making environment.
 
-## INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture
+INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture
 
 .
 
@@ -170,7 +170,7 @@ But Exit Readiness alone is insufficient.
 
 The second 
 
-# Pillar I: s Off‑Market Origination
+### Pillar I: s Off‑Market Origination
 
 .
 
@@ -182,7 +182,7 @@ When both sides enter with pre-aligned expectations, the negotiation becomes str
 
 The third 
 
-# Pillar I: s Friction Removal
+### Pillar I: s Friction Removal
 
 .
 
@@ -198,9 +198,9 @@ Conviction closes deals.
 
 The principal truth stands: fatigue rises in environments where uncertainty compounds faster than insight.
 
-Tactical Intelligence restores the ratio. 
+Tactical Intelligence restores the ratio.
 
-## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical sectio
+STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical sectio
 
 n
 
@@ -256,9 +256,9 @@ If the seller enters the process engineered, prepared, and aligned, the inversio
 
 Buyer fatigue becomes buyer acceleration.
 
-This is where Tactical Intelligence becomes structural, not cosmetic. 
+This is where Tactical Intelligence becomes structural, not cosmetic.
 
-## THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment
+THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment
 
 .
 
@@ -296,9 +296,9 @@ Protect it.
 
 Momentum moves deals across the finish line.
 
-A single sentence captures the doctrine: Momentum beats fatigue. 
+A single sentence captures the doctrine: Momentum beats fatigue.
 
-## THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate
+THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate
 
 .
 
@@ -314,9 +314,9 @@ Higher-quality questions accelerate alignment.
 
 Accelerated alignment accelerates commitment.
 
-Commitment is the beginning of the close. 
+Commitment is the beginning of the close.
 
-## THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation
+THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation
 
 .
 
@@ -346,21 +346,19 @@ Noise collapses deals.
 
 Clarity rescues them.
 
-Architecture multiplies them. 
+Architecture multiplies them.
 
-## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next
+THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next 
 
- 
-
-# Step I: s to integrate institutional preparation
+### Step I: s to integrate institutional preparation
 
 .
 
 Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
 
-- a structural reinforcement rather than a substitute. 
+- a structural reinforcement rather than a substitute.
 
-## THE FINAL BRIEF Buyer fatigue is not a mood
+THE FINAL BRIEF Buyer fatigue is not a mood
 
 .
 
@@ -382,7 +380,7 @@ Only the prepared move forward.
 
 If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next 
 
-# Step I: s a tactical consultation
+### Step I: s a tactical consultation
 
 .
 

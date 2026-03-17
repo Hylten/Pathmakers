@@ -12,15 +12,11 @@ It is a structural byproduct of regulatory recalibration, extended diligence cyc
 
 Precision Liquidity is now the decisive variable for any corporate division preparing for a high velocity separation or strategic sale.
 
-In 2026, the most predictable execution outcomes are emerging not from distressed restructurings but from operationally clean carve-outs with engineered liquidity corridors that reduce transactional drag.
+In 2026, the most predictable execution outcomes are emerging not from distressed restructurings but from operationally clean carve-outs with engineered liquidity corridors that reduce transactional drag. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,15 +54,11 @@ As a result, mid-market corporate owners are increasingly prioritizing exit read
 
 Operational separation is no longer a post LOI activity.
 
-It is a pre mandate requirement that governs the quality of institutional interest.
+It is a pre mandate requirement that governs the quality of institutional interest. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -124,9 +116,9 @@ The objective is to eliminate informational asymmetry before the buyer attempts 
 
 These mechanics reduce M&A friction by enabling the buyer to underwrite not only the financial performance of the division but also the operational survivability of the standalone entity.
 
-High caliber institutional buyers, particularly in the Nordic and Northern European markets, apply increasingly strict filters in these categories.
+High caliber institutional buyers, particularly in the Nordic and Northern European markets, apply increasingly strict filters in these categories. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator for corporate owners preparing divisional separations or sale mandates.
 
@@ -160,9 +152,9 @@ The introducer role is strictly neutral.
 
 The objective is to reduce friction and enable high conviction engagement.
 
-This model is built to accelerate the transaction lifecycle while maintaining institutional discipline.
+This model is built to accelerate the transaction lifecycle while maintaining institutional discipline. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship operates as a discipline of precision and accountability.
 
@@ -184,9 +176,9 @@ Precision Liquidity is a form of responsible capital allocation.
 
 Asset hardening is a form of protection against waste.
 
-Stewardship ensures the organizational transition strengthens rather than destabilizes the corporate ecosystem.
+Stewardship ensures the organizational transition strengthens rather than destabilizes the corporate ecosystem. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING FRAMEWORK FOR ALLOCATORS AND OWNERS Corporate owners preparing a potential carve-out or divisional exit face a series of non negotiable diagnostic questions.
 

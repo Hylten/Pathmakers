@@ -52,9 +52,9 @@ A crowded one.
 
 A misaligned one.
 
-And we are done tolerating it. 
+And we are done tolerating it.
 
-## THE INTERNAL SKELETON OF TRUST Trust is not sentimental
+THE INTERNAL SKELETON OF TRUST Trust is not sentimental
 
 .
 
@@ -92,9 +92,9 @@ Exit readiness architecture tied to real operations, not pitch decks This is whe
 
 Everyone raced to polish the surface.
 
-No one reinforced the load‑bearing beams. 
+No one reinforced the load‑bearing beams.
 
-## THE ERA OF BROKEN PROCESSES The post‑pandemic M&A surge disguised structural fragility
+THE ERA OF BROKEN PROCESSES The post‑pandemic M&A surge disguised structural fragility
 
 .
 
@@ -140,9 +140,9 @@ Only deals with verifiable readiness survive this environment.
 
 And readiness is not cosmetic.
 
-It is infrastructural. 
+It is infrastructural.
 
-## THE RECONSTRUCTION MODEL: ANALYST FIRST, ADVISOR SECOND Pathmaker’s analyst division operates with a simple doctrine: no founder should enter an M&A process without an institutional blueprint
+THE RECONSTRUCTION MODEL: ANALYST FIRST, ADVISOR SECOND Pathmaker’s analyst division operates with a simple doctrine: no founder should enter an M&A process without an institutional blueprint
 
 .
 
@@ -196,9 +196,9 @@ Build exit‑readiness architecture first
 
 2.
 
-Remove friction buried in the operational base
+Remove friction buried in the operational base 
 
-# Layer III: .
+### Layer III: .
 
 Pre‑screen narrative inconsistencies 
 
@@ -218,9 +218,9 @@ Only then introduce buyers
 
 Maintain trust through unbroken clarity and unbroken data Old world: reactive.
 
-New world: architected. 
+New world: architected.
 
-## THE REAL REASONS TRUST COLLAPSED Founders often assume trust collapsed because buyers became cautious
+THE REAL REASONS TRUST COLLAPSED Founders often assume trust collapsed because buyers became cautious
 
 .
 
@@ -254,9 +254,9 @@ They miss reality.
 
 Reason 6: Under‑prepared sellers Founders underestimate the operational transparency required to justify a valuation.
 
-In short, the infrastructure of trust collapsed because the infrastructure of preparation collapsed. 
+In short, the infrastructure of trust collapsed because the infrastructure of preparation collapsed.
 
-## THE PATHMAKER ANALYST ARCHITECTURE Our internal operating model rebuilds trust by rebuilding structure
+THE PATHMAKER ANALYST ARCHITECTURE Our internal operating model rebuilds trust by rebuilding structure
 
 .
 
@@ -278,9 +278,9 @@ Trust is a structural output.
 
 Trust is the reward for clarity.
 
-Trust is the byproduct of removing every unnecessary unknown from the process. 
+Trust is the byproduct of removing every unnecessary unknown from the process.
 
-## THE OFF‑MARKET ADVANTAGE The middle market remains inefficient, which means the best deals are rarely found on open exchanges
+THE OFF‑MARKET ADVANTAGE The middle market remains inefficient, which means the best deals are rarely found on open exchanges
 
 .
 
@@ -308,9 +308,9 @@ Our system maps off‑market intention before intention becomes action.
 
 The middle market is noisy.
 
-We listen beneath the noise. 
+We listen beneath the noise.
 
-## EXIT READINESS AS A TRUST ENGINE Exit readiness is not a document set
+EXIT READINESS AS A TRUST ENGINE Exit readiness is not a document set
 
 .
 
@@ -324,29 +324,29 @@ Exit readiness contains seven structural layers:
 
 # Layer I: Financial narrative integrit
 
-y
+y 
 
-# Layer II: Customer and revenue durabilit
+### Layer II: Customer and revenue durabilit
 
-y
+y 
 
-# Layer III: Operational redundanc
+### Layer III: Operational redundanc
 
-y
+y 
 
-# Layer IV: Leadership transition clarit
+### Layer IV: Leadership transition clarit
 
-y
+y 
 
-# Layer V: Legal and compliance hygien
+### Layer V: Legal and compliance hygien
 
-e
+e 
 
-# Layer VI: Market positioning realis
+### Layer VI: Market positioning realis
 
-m
+m 
 
-# Layer VI: I
+### Layer VI: I
 
 Diligence pre‑qualification Exit readiness eliminates surprise.
 
@@ -358,9 +358,9 @@ Eliminate friction and deals close.
 
 This is not theory.
 
-This is geometry. 
+This is geometry.
 
-## THE ANALYST TEAM MANDATE We operate with one mandate: Restore clarity to a system that lost its compass
+THE ANALYST TEAM MANDATE We operate with one mandate: Restore clarity to a system that lost its compass
 
 .
 
@@ -384,9 +384,9 @@ We provide:
 
 - Structure over sentiment This is how an M&A ecosystem is rebuilt-one verifiable structure at a time.
 
-And occasionally, that structure requires partnering with external liquidity specialists such as those found through [institutional capital execution]([Roials Capital](https://roialscapital.com/)) when a deal demands deeper structuring alignment. 
+And occasionally, that structure requires partnering with external liquidity specialists such as those found through [institutional capital execution]([Roials Capital](https://roialscapital.com/)) when a deal demands deeper structuring alignment.
 
-## THE NEW TRUST PARADIGM If the old M&A world was about signaling strength, the new world is about demonstrating reality
+THE NEW TRUST PARADIGM If the old M&A world was about signaling strength, the new world is about demonstrating reality
 
 .
 

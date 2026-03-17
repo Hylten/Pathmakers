@@ -66,13 +66,9 @@ The collateral resilience of energy, industrials, and healthcare workflows inclu
 
 Institutional liquidity is therefore not a passive factor.
 
-It is a design requirement that determines velocity, resilience, and exit predictability across the deal lifecycle. 
+It is a design requirement that determines velocity, resilience, and exit predictability across the deal lifecycle.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -313,13 +309,9 @@ This includes:
 
 It is the refusal to rely on general market conditions and instead build internal capability that continually produces liquidity independent of cycles.
 
-This is institutional autonomy. 
+This is institutional autonomy.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

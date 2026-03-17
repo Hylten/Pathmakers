@@ -10,13 +10,9 @@ The capital imbalance within niche market acquisitions is a product of fragmenta
 
 The structural gap is created by institutional undercoverage and operational opacity.
 
-This is the precise environment where Asset Based Lending becomes an architecture of control, enabling acquirers and operators to extract precision, predictability, and acquisition velocity without absorbing unnecessary balance sheet drag. 
+This is the precise environment where Asset Based Lending becomes an architecture of control, enabling acquirers and operators to extract precision, predictability, and acquisition velocity without absorbing unnecessary balance sheet drag.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ This shift is directly visible in:
 
 The institutional landscape is rewarding speed, certainty, and collateral intelligence.
 
-It is penalizing operators who rely on conventional leverage structures. 
+It is penalizing operators who rely on conventional leverage structures.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -208,13 +200,9 @@ Roials Capital facilitates introductions where the strategic fit is clear and wh
 
 In the North American energy sector, NAEO functions as a technical partner with deep operational expertise.
 
-In European and Nordic markets, the focus is on capital optimization within manufacturing, industrial services, and specialized logistics. 
+In European and Nordic markets, the focus is on capital optimization within manufacturing, industrial services, and specialized logistics.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment
+THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment
 
 .
 

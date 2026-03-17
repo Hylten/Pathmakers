@@ -48,9 +48,7 @@ And structural gaps always create opportunity.
 
 This is where Pathmaker stands.
 
-PHASE ONE. 
-
- ## .
+PHASE ONE. .
 
 PRIVATE BRIEFING.
 

@@ -50,9 +50,9 @@ HNWI and UHNW mandates.
 
 Long horizon capital with an aversion to noise and a tolerance for discipline.
 
-What follows is intelligence, not commentary. 
+What follows is intelligence, not commentary.
 
-## The Nordic Corridor Cross border buyers consistently underestimate one structural reality
+The Nordic Corridor Cross border buyers consistently underestimate one structural reality
 
 .
 
@@ -74,9 +74,9 @@ Buyers shift from interest to caution.
 
 The solution is not to accelerate legal reviews or widen the valuation range.
 
-The solution is to deploy Tactical Intelligence earlier than the market expects. 
+The solution is to deploy Tactical Intelligence earlier than the market expects.
 
-## Intelligence as Pre Acquisition Infrastructure A General does not move troops into unknown terrain without reconnaissance
+Intelligence as Pre Acquisition Infrastructure A General does not move troops into unknown terrain without reconnaissance
 
 .
 
@@ -119,9 +119,9 @@ Latency in Decision Rights Nordic firms tend to distribute decision rights acros
 
 This decentralization is productive during growth phases but slows momentum during acquisition phases.
 
-Intelligence work isolates the true decision centers and compresses the negotiation path. 
+Intelligence work isolates the true decision centers and compresses the negotiation path.
 
-## Jonas Hyltén and the Pathmaker Method Tactical Intelligence is not abstract
+Jonas Hyltén and the Pathmaker Method Tactical Intelligence is not abstract
 
 .
 
@@ -143,9 +143,9 @@ Conditioning assets for institutional ownership.
 
 Conditioning founders for covenant-grade stewardship.
 
-Conditioning buyers for accelerated integration. 
+Conditioning buyers for accelerated integration.
 
-## Asset Hardening An asset is hardened when it withstands institutional scrutiny without requiring narrative defense
+Asset Hardening An asset is hardened when it withstands institutional scrutiny without requiring narrative defense
 
 .
 
@@ -173,9 +173,9 @@ Shortens valuation disputes.
 
 Time is the invisible currency in every acquisition.
 
-Hardening preserves it. 
+Hardening preserves it.
 
-## Covenant Stewardship The Christian conservative worldview treats a business as a trust
+Covenant Stewardship The Christian conservative worldview treats a business as a trust
 
 .
 
@@ -211,7 +211,7 @@ Buyers who speak the language of stewardship gain Access is restricted to approv
 
 Minimum mandate depth: $5M+ target size.
 
-## Execution Velocity Once readiness is established, velocity determines outcome
+Execution Velocity Once readiness is established, velocity determines outcome
 
 .
 
@@ -231,15 +231,15 @@ Early alignment between operational and financial leadership.
 
 Delayed execution increases valuation drift.
 
-Velocity preserves mandate discipline. 
+Velocity preserves mandate discipline.
 
-## Cross Border Frictions Nordic cross border acquisitions contain unique friction points
+Cross Border Frictions Nordic cross border acquisitions contain unique friction points
 
 .
 
 Five dominate the market.
 
-## Regulatory Variability Regulatory differences between Sweden, Norway, Denmark, and Finland appear minor at a distance
+Regulatory Variability Regulatory differences between Sweden, Norway, Denmark, and Finland appear minor at a distance
 
 .
 
@@ -259,7 +259,7 @@ Sometimes months.
 
 Tactical Intelligence neutralizes this friction early.
 
-## Capital Structure Drift Nordic firms often maintain low leverage by cultural inclination
+Capital Structure Drift Nordic firms often maintain low leverage by cultural inclination
 
 .
 
@@ -271,7 +271,7 @@ A disciplined buyer respects the founder’s stewardship model while aligning th
 
 This requires precision and messaging.
 
-## Founder Liquidity Psychology Nordic founders dislike appearing greedy
+Founder Liquidity Psychology Nordic founders dislike appearing greedy
 
 .
 
@@ -281,7 +281,7 @@ Buyers must navigate this duality.
 
 Structured liquidity paths preserve dignity for the founder and clarity for the buyer.
 
-## Talent Retention Under Foreign Ownership Nordic teams fear cultural dilution under foreign owners
+Talent Retention Under Foreign Ownership Nordic teams fear cultural dilution under foreign owners
 
 .
 
@@ -293,7 +293,7 @@ Not slogans.
 
 Not superficial incentives.
 
-## Integration Lag Post acquisition lag is the primary destroyer of cross border value
+Integration Lag Post acquisition lag is the primary destroyer of cross border value
 
 .
 
@@ -303,21 +303,21 @@ Not misunderstanding.
 
 Lag.
 
-Velocity eliminates lag. 
+Velocity eliminates lag.
 
-## The Intelligence Stack A disciplined acquirer deploys an Intelligence Stack built on six layers
+The Intelligence Stack A disciplined acquirer deploys an Intelligence Stack built on six layers
 
 .
 
 Each 
 
-# Layer I: s independent
+### Layer I: s independent
 
 .
 
-Each reinforced by the next.
+Each reinforced by the next. 
 
-# Layer I: .
+### Layer I: .
 
 Covenant Mapping Before financial review.
 
@@ -333,15 +333,15 @@ Stewardship priorities.
 
 Mandate boundaries.
 
-This is the foundation.
+This is the foundation. 
 
-# Layer II: .
+### Layer II: .
 
 Structural Integrity Scan A rapid structural assessment that isolates weaknesses that will surface later.
 
-It reduces surprises for both buyer and seller.
+It reduces surprises for both buyer and seller. 
 
-# Layer III: .
+### Layer III: .
 
 Cross Border Constraint Identification Every market has silent constraints.
 
@@ -353,9 +353,9 @@ Licensing pathways.
 
 Capital deployment speed.
 
-Mapping them early preserves time.
+Mapping them early preserves time. 
 
-# Layer IV: .
+### Layer IV: .
 
 Institutional Diligence Conditioning Preparation for buyers with Fund-III or greater requirements.
 
@@ -367,23 +367,23 @@ Contract stabilizing.
 
 Leadership alignment.
 
-This is the territory Pathmaker dominates.
+This is the territory Pathmaker dominates. 
 
-# Layer V: .
+### Layer V: .
 
 Founder Narrative Calibration The founder’s voice determines market temperature.
 
 Calibrated correctly, it attracts disciplined capital.
 
-Calibrated poorly, it invites discounting.
+Calibrated poorly, it invites discounting. 
 
-# Layer VI: .
+### Layer VI: .
 
 Integration Vector Design Execution velocity begins before acquisition.
 
-Integration vectors define how value will be preserved once ownership transfers. 
+Integration vectors define how value will be preserved once ownership transfers.
 
-## Liquidity and liquidity engineering Alignment Institutional buyers and UHNW clients frequently require liquidity solutions that align with the acquisition timeline
+Liquidity and liquidity engineering Alignment Institutional buyers and UHNW clients frequently require liquidity solutions that align with the acquisition timeline
 
 .
 
@@ -399,9 +399,9 @@ No drift.
 
 No dilution.
 
-Liquidity is a tool for precision, not speculation. 
+Liquidity is a tool for precision, not speculation.
 
-## Why Tactical Intelligence Decides Outcomes Buyers often believe their advantage lies in capital availability
+Why Tactical Intelligence Decides Outcomes Buyers often believe their advantage lies in capital availability
 
 .
 
@@ -425,9 +425,9 @@ Negotiates cleaner.
 
 Integrates smoother.
 
-And exits stronger. 
+And exits stronger.
 
-## Nordic Mid Market Exit Readiness Most Nordic firms are not born exit ready
+Nordic Mid Market Exit Readiness Most Nordic firms are not born exit ready
 
 .
 
@@ -447,9 +447,9 @@ The seller gains dignity and value.
 
 The buyer gains visibility and velocity.
 
-The market gains order. 
+The market gains order.
 
-## What Principals Must Understand You are not purchasing a company
+What Principals Must Understand You are not purchasing a company
 
 .
 
@@ -465,38 +465,38 @@ Respect this reality and you gain Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-Ignore it and the asset will close its gates. 
+Ignore it and the asset will close its gates.
 
-## Deployment Framework for Cross Border Buyers A disciplined Principal deploys in five movements
+Deployment Framework for Cross Border Buyers A disciplined Principal deploys in five movements
 
 .
 
-## Movement
+Movement
 
  
 1 Establish covenant alignment before touching financials.
 
-## Movement
+Movement
 
  
 2 Deploy Tactical Intelligence to expose structural barriers.
 
-## Movement
+Movement
 
  
 3 Stabilize the founder’s stewardship concerns.
 
-## Movement
+Movement
 
  
 4 Execute diligence conditioned for institutional scrutiny.
 
-## Movement
+Movement
 
  
-5 Accelerate integration with pre structured vectors. 
+5 Accelerate integration with pre structured vectors.
 
-## The Spirit of Gnosjö The Spirit of Gnosjö is not folklore
+The Spirit of Gnosjö The Spirit of Gnosjö is not folklore
 
 .
 
@@ -518,9 +518,9 @@ This is the foundation of durable acquisitions.
 
 This is the architecture of long horizon value.
 
-This is the territory where Pathmaker and Tactical Intelligence operate with precision. 
+This is the territory where Pathmaker and Tactical Intelligence operate with precision.
 
-## Closing Position Nordic cross border acquisitions are won by those who combine: Intelligence
+Closing Position Nordic cross border acquisitions are won by those who combine: Intelligence
 
 .
 

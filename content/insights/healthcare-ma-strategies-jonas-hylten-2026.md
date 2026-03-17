@@ -12,13 +12,9 @@ Most operators are not blocked by demand constraints.
 
 The friction sits in fragmented ownership, under-documented operations, and a widening execution gulf between institutional buyers and mid-market private providers.
 
-This gap has created a persistent pricing arbitrage where assets with institutional fundamentals still transact at mid-market valuations because they never reach institutional readiness. 
+This gap has created a persistent pricing arbitrage where assets with institutional fundamentals still transact at mid-market valuations because they never reach institutional readiness.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ The dominant variable in 2026 is not EBITDA.
 
 The dominant variable is integration friction.
 
-Operators who do not eliminate that friction remain invisible to strategic buyers and private equity platforms. 
+Operators who do not eliminate that friction remain invisible to strategic buyers and private equity platforms.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -276,11 +268,7 @@ The objective is to eliminate institutional objections before the first buyer co
 
 3.
 
-OFF-MARKET STRATEGIC 
-
- 
-
-## INTRODUCTIO
+OFF-MARKET STRATEGIC INTRODUCTIO
 
 N
 
@@ -316,13 +304,9 @@ NAVIGATING CROSS-BORDER M&A LOGISTICS Healthcare consolidation in Europe often r
 
 Institutional buyers rely on clean navigation structures.
 
-Operators who cannot harmonize cross-border fundamentals are perceived as higher friction. 
+Operators who cannot harmonize cross-border fundamentals are perceived as higher friction.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral overlay
+THE STEWARDSHIP FILTER Stewardship is not a moral overlay
 
 .
 
@@ -394,13 +378,13 @@ For allocators, the lens focuses on:
 
 The next 
 
-# Step I: s not deal execution
+### Step I: s not deal execution
 
 .
 
 The next 
 
-# Step I
+### Step I
 
 s a Confidential Strategy Audit focused on operational calibration, risk mapping, and institutional alignment.
 

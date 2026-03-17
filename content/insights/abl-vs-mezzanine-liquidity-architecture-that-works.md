@@ -12,13 +12,9 @@ It is the predictable outcome of capital providers clinging to pre 2019 underwri
 
 Traditional mezzanine structures were built for interest rate regimes that have ended.
 
-Asset Based Lending architectures are filling the vacuum not because they are aggressive, but because they are mechanically aligned with how cash conversion now occurs in real operating companies. 
+Asset Based Lending architectures are filling the vacuum not because they are aggressive, but because they are mechanically aligned with how cash conversion now occurs in real operating companies.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ Asset-Based Lending financing maps collateral value to liquidity availability in
 
 This creates a predictable liquidity corridor for acquisitions that does not depend on selling a future earnings story.
 
-In a market where institutional buyers require clarity, the capital instrument aligned with physical assets wins. 
+In a market where institutional buyers require clarity, the capital instrument aligned with physical assets wins.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -160,13 +152,9 @@ This model allows operators to remove deal friction by ensuring that liquidity i
 
 For energy transactions, Roials Capital introduces NAEOCC as the institutional grade operator.
 
-For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect. 
+For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
 
 .
 

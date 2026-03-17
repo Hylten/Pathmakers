@@ -16,13 +16,9 @@ This is the invisible leverage point that Asset Based Lending delivers.
 
 Asset-Based Lending in a carve-out is not a financing tactic.
 
-It is a structural instrument that stabilizes operational continuity, accelerates exit readiness, and eliminates M&A friction by transforming stranded assets into immediate strategic capacity. 
+It is a structural instrument that stabilizes operational continuity, accelerates exit readiness, and eliminates M&A friction by transforming stranded assets into immediate strategic capacity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ THE REGIME SHIFT
 
 Capital availability must be precise, asset-tied, covenant-light, and engineered for operational sovereignty rather than leveraged speculation.
 
-This is the point where Asset-Based Lending becomes an institutional tool for buyers who understand that speed, certainty, and control outperform financial leverage in transitional markets. 
+This is the point where Asset-Based Lending becomes an institutional tool for buyers who understand that speed, certainty, and control outperform financial leverage in transitional markets.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -151,7 +143,7 @@ The objective is never to promote a financing solution.
 
 The objective is to align operator capability, asset profile, and liquidity architecture in a way that preserves operational sovereignty.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -193,13 +185,9 @@ Strategic Integration Oversight The focus is not financing execution but:
 
 Where energy transactions rely on our strategic partner NAEO for technical recovery expertise, carve-out transactions rely on specialist Asset-Based Lending institutions capable of engineering liquidity inside assets undergoing structural redefinition.
 
-The role of Roials Capital remains constant: alignment, navigation, and institutional clarity. 
+The role of Roials Capital remains constant: alignment, navigation, and institutional clarity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not capital accumulation
+THE STEWARDSHIP FILTER Stewardship is not capital accumulation
 
 .
 

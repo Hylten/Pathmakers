@@ -356,7 +356,7 @@ The mid‑market rewards those who see the unseen-early, clearly, confidently.
 
 To 
 
-# Step I
+### Step I
 
 nto the next acquisition with real momentum, predictive diligence is no longer optional.
 

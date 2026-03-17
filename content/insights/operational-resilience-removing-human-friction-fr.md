@@ -30,9 +30,9 @@ The stance is conservative.
 
 The ethic is stewardship.
 
-The goal is covenant durability that outlives the founder and meets the scrutiny of GP capital. 
+The goal is covenant durability that outlives the founder and meets the scrutiny of GP capital.
 
-## The Principle
+The Principle
 
 .
 
@@ -54,9 +54,9 @@ They purchase repeatability.
 
 Repeatability emerges only when human drag is removed.
 
-Operational resilience is therefore not an “upgrade.” It is the minimum viable architecture for valuation protection. 
+Operational resilience is therefore not an “upgrade.” It is the minimum viable architecture for valuation protection.
 
-## The Gnosjö Standard
+The Gnosjö Standard
 
 .
 
@@ -78,9 +78,9 @@ Clarity demands the removal of every nonessential human variable.
 
 This is the standard institutional capital expects.
 
-This is the standard Pathmaker operationalizes. 
+This is the standard Pathmaker operationalizes.
 
-## The M&A Battlefield
+The M&A Battlefield
 
 .
 
@@ -114,9 +114,9 @@ Institutional buyers will not cross a field filled with hidden traps.
 
 They expect a cleared path.
 
-Pathmaker’s mandate is clearing that field before a buyer steps onto it. 
+Pathmaker’s mandate is clearing that field before a buyer steps onto it.
 
-## Information Friction
+Information Friction
 
 .
 
@@ -152,7 +152,7 @@ He is selling a story.
 
 Buyers do not pay institutional multiples for stories.
 
-## The Remedy
+The Remedy
 
 .
 
@@ -168,9 +168,9 @@ Hard Data Operational resilience begins here:
 
 This is not technology for its own sake.
 
-This is asset hardening. 
+This is asset hardening.
 
-## Decision Friction
+Decision Friction
 
 .
 
@@ -192,7 +192,7 @@ They pay for systems that function without the founder.
 
 A company that cannot self‑govern cannot be sold for a premium valuation.
 
-## The Remedy
+The Remedy
 
 .
 
@@ -208,9 +208,9 @@ Mandate Architecture Operational resilience requires:
 
 Mandate architecture replaces tribal hierarchy with institutional discipline.
 
-It is the backbone of exit readiness. 
+It is the backbone of exit readiness.
 
-## Process Friction
+Process Friction
 
 .
 
@@ -236,7 +236,7 @@ Risk discounts valuation.
 
 Discounted valuation is avoidable.
 
-## The Remedy
+The Remedy
 
 .
 
@@ -254,9 +254,9 @@ This architecture converts craft into discipline without destroying the human co
 
 It is a conservative principle.
 
-Order precedes blessing. 
+Order precedes blessing.
 
-## Character Friction
+Character Friction
 
 .
 
@@ -278,7 +278,7 @@ Culture is the problem.
 
 Culture is always a reflection of character.
 
-## The Remedy
+The Remedy
 
 .
 
@@ -296,9 +296,9 @@ This is conservative governance.
 
 This is biblical stewardship.
 
-This is the only cultural foundation that institutionalizes trust. 
+This is the only cultural foundation that institutionalizes trust.
 
-## Exit Readiness
+Exit Readiness
 
 .
 
@@ -324,9 +324,9 @@ This is what institutional buyers verify ruthlessly.
 
 The goal is to remove every point of friction long before a buyer conducts diligence.
 
-This is Pathmaker’s arena. 
+This is Pathmaker’s arena.
 
-## Covenant Stewardship
+Covenant Stewardship
 
 .
 
@@ -350,9 +350,9 @@ It accelerates the path to institutional alignment.
 
 Covenant stewardship produces covenant-grade operations.
 
-Covenant-grade operations command covenant-grade valuations. 
+Covenant-grade operations command covenant-grade valuations.
 
-## Intelligence Framework
+Intelligence Framework
 
 .
 
@@ -403,9 +403,9 @@ This is not consulting.
 
 This is structural transformation.
 
-Executed with military precision. 
+Executed with military precision.
 
-## Why Removal of Human Friction Matters to Capital Providers and Buyers Institutional buyers evaluate friction before they evaluate opportunity
+Why Removal of Human Friction Matters to Capital Providers and Buyers Institutional buyers evaluate friction before they evaluate opportunity
 
 .
 
@@ -459,9 +459,9 @@ For HNWI and UHNW principals:
 
 Operational resilience is therefore not an operational concept.
 
-It is a financial strategy. 
+It is a financial strategy.
 
-## The Mid‑Market Blind Spot
+The Mid‑Market Blind Spot
 
 .
 
@@ -483,9 +483,9 @@ Founders see what the business “could be.” Buyers see:
 
 The gap between potential and reality is where valuation disappears.
 
-Removing human friction closes that gap. 
+Removing human friction closes that gap.
 
-## Private Credit Perspective
+Private Credit Perspective
 
 .
 
@@ -515,9 +515,9 @@ Operational resilience reduces haircuts.
 
 It increases liquidity access.
 
-It ensures alignment with institutional standards of covenant stewardship. 
+It ensures alignment with institutional standards of covenant stewardship.
 
-## The GP Lens
+The GP Lens
 
 .
 
@@ -539,9 +539,9 @@ A GP wants one thing: A clean acquisition that integrates without disruption.
 
 Operational resilience ensures that integration risk is minimized before the LOI is signed.
 
-This accelerates closing timelines and strengthens negotiating position. 
+This accelerates closing timelines and strengthens negotiating position.
 
-## Pathmaker
+Pathmaker
 
 .
 
@@ -549,7 +549,7 @@ Tactical Intelligence for M&A Hardening Pathmaker does not “advise.” It fort
 
 The stance is tactical.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -561,9 +561,9 @@ This is the difference between interest and acquisition.
 
 Between acquisition and premium pricing.
 
-Between premium pricing and legacy transfer. 
+Between premium pricing and legacy transfer.
 
-## The Conservative Mandate
+The Conservative Mandate
 
 .
 
@@ -579,9 +579,9 @@ It is the conservative view that stability is strength and discipline is blessin
 
 Operational resilience is therefore not only pragmatic.
 
-It is righteous stewardship. 
+It is righteous stewardship.
 
-## Final Position Mid‑market M&A collapses when human friction overwhelms operational truth
+Final Position Mid‑market M&A collapses when human friction overwhelms operational truth
 
 .
 
@@ -593,9 +593,7 @@ Operational resilience is the architecture that converts a privately held compan
 
 It is the difference between a hopeful seller and a prepared one.
 
-For principals who intend to transfer a legacy, not merely transact, this is 
-
-## THE MANDAT
+For principals who intend to transfer a legacy, not merely transact, this is THE MANDAT
 
 E
 

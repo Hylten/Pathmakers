@@ -24,9 +24,9 @@ This article takes a battle-hardened view of precision carve-outs, built from re
 
 It is not a romantic story about turnarounds.
 
-It is a manual for controlling risk, standing up operations quickly, and building a platform that scales without burning people or capital. 
+It is a manual for controlling risk, standing up operations quickly, and building a platform that scales without burning people or capital.
 
-## Why Precision Matters in Healthcare Carve-outs Healthcare carve-outs differ from other industries for three reasons
+Why Precision Matters in Healthcare Carve-outs Healthcare carve-outs differ from other industries for three reasons
 
 .
 
@@ -44,9 +44,9 @@ Precision matters because execution sloppiness is expensive.
 
 In healthcare carve-outs, sloppiness shows up as productivity loss, revenue cycle leakage, denied claims, clinician attrition, and regulatory exposure.
 
-Any one of these destroys deal economics. 
+Any one of these destroys deal economics.
 
-## The Mid-Market Investor’s Reality Most mid-market deals lack the budget for Big
+The Mid-Market Investor’s Reality Most mid-market deals lack the budget for Big
 
  
 4 style carve-out programs.
@@ -59,9 +59,9 @@ They cannot afford bloated PMOs or theoretical roadmaps.
 
 They need operators who have lived through carve-outs and know exactly what matters in the first 
 
-120 days. 
+120 days.
 
-## The Precision Carve-out Framework The framework below is purpose-built for healthcare carve-outs where
+The Precision Carve-out Framework The framework below is purpose-built for healthcare carve-outs where
 
 :
 
@@ -265,9 +265,9 @@ The stand-up roadmap includes:
 
 - TSA exit plans Everything else is post-Day One optimization.
 
-Precision is about controlling Day One risk and preparing for scale, not building the perfect machine in advance. 
+Precision is about controlling Day One risk and preparing for scale, not building the perfect machine in advance.
 
-## The Economics of Precision Carve-outs Precision carve-outs create value by compressing risk and accelerating operational maturity
+The Economics of Precision Carve-outs Precision carve-outs create value by compressing risk and accelerating operational maturity
 
 .
 
@@ -291,9 +291,9 @@ Accelerated integration Rollups and platform strategies depend on integration ti
 
 You cannot integrate an unstable asset.
 
-Precision accelerates this path. 
+Precision accelerates this path.
 
-## The Operators Who Thrive in Precision Carve-outs Precision carve-outs require a specific operator profile
+The Operators Who Thrive in Precision Carve-outs Precision carve-outs require a specific operator profile
 
 .
 
@@ -307,15 +307,15 @@ They must move without noise, without theatrics, and without committees.
 
 Precision operators are not theorists.
 
-They are builders who take ambiguous assets and turn them into stable, scalable businesses. 
+They are builders who take ambiguous assets and turn them into stable, scalable businesses.
 
-## Common Failure Modes and How to Avoid Them Most carve-out failures are predictable
+Common Failure Modes and How to Avoid Them Most carve-out failures are predictable
 
 .
 
 They follow the same patterns across organizations and sectors.
 
-## Failure Mode
+Failure Mode
 
  
 
@@ -329,7 +329,7 @@ Stabilize first.
 
 Optimize later.
 
-## Failure Mode
+Failure Mode
 
  
 
@@ -341,7 +341,7 @@ Parents are protective.
 
 Parents are not incentivized to help you move fast.
 
-## Failure Mode
+Failure Mode
 
  
 
@@ -353,7 +353,7 @@ Then claims start denying.
 
 Then cash flow stalls.
 
-## Failure Mode
+Failure Mode
 
  
 
@@ -363,7 +363,7 @@ Lack of operational owners Every major function needs a clear owner by Day One.
 
 Shared accountability is no accountability.
 
-## Failure Mode
+Failure Mode
 
  
 
@@ -373,9 +373,9 @@ Misjudging clinical workflows Clinical workflows are fragile.
 
 Break them, and clinicians leave.
 
-Lose clinicians, and the asset shrinks. 
+Lose clinicians, and the asset shrinks.
 
-## Precision Healthcare Carve-outs as a Competitive Advantage Mid-market firms that master precision carve-outs gain a structural advantage
+Precision Healthcare Carve-outs as a Competitive Advantage Mid-market firms that master precision carve-outs gain a structural advantage
 
 .
 
@@ -389,9 +389,9 @@ They can out-execute larger firms weighed down by bureaucracy.
 
 Precision turns carve-outs from risky transactions into repeatable playbooks.
 
-This consistency compounds over multiple deals. 
+This consistency compounds over multiple deals.
 
-## Why Pathmaker Specializes in Precision Carve-outs Pathmaker was built for one mission
+Why Pathmaker Specializes in Precision Carve-outs Pathmaker was built for one mission
 
 .
 
@@ -421,9 +421,9 @@ Just disciplined execution.
 
 Precision carve-outs require operators who have lived through them.
 
-Pathmaker was designed by those operators. 
+Pathmaker was designed by those operators.
 
-## The Bottom Line Healthcare carve-outs are won or lost on execution
+The Bottom Line Healthcare carve-outs are won or lost on execution
 
 .
 

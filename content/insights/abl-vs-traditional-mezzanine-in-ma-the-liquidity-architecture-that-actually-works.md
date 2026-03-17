@@ -26,9 +26,9 @@ Our mandate is quiet strength.
 
 principal authority.
 
-We engineer liquidity structures that [institutional capital]([Roials Capital](https://roialscapital.com/)) respects, without the noise or posturing that usually comes with mezzanine desks. 
+We engineer liquidity structures that [institutional capital]([Roials Capital](https://roialscapital.com/)) respects, without the noise or posturing that usually comes with mezzanine desks.
 
-## Why This Comparison Matters Most investors assume mezzanine fills the gap between senior debt and equity
+Why This Comparison Matters Most investors assume mezzanine fills the gap between senior debt and equity
 
 .
 
@@ -50,9 +50,9 @@ And collateral driven intelligence controls risk without forcing operators into 
 
 For the investor who values control and liquidity optionality, this shift matters.
 
-Deeply. 
+Deeply.
 
-## The Nature of Asset-Based Lending in Modern Transactions Asset Based Asset-Backed Frameworks used to be seen as a tool for distressed companies
+The Nature of Asset-Based Lending in Modern Transactions Asset Based Asset-Backed Frameworks used to be seen as a tool for distressed companies
 
 .
 
@@ -84,9 +84,9 @@ Revenue cycles are long.
 
 Payer lag is normal.
 
-And cash flow predictability is rarely smooth enough to satisfy mezzanine lenders who want formulas instead of facts. 
+And cash flow predictability is rarely smooth enough to satisfy mezzanine lenders who want formulas instead of facts.
 
-## The Hard Truth About Traditional Mezzanine Mezzanine capital is marketed as flexible
+The Hard Truth About Traditional Mezzanine Mezzanine capital is marketed as flexible
 
 .
 
@@ -114,9 +114,9 @@ They prefer stable platforms where underwriting is more about portfolio optics t
 
 HNWI and UHNW investors know that speed and clarity matter more than optics.
 
-This is why they move toward Asset-Based Lending before they ever entertain mezzanine. 
+This is why they move toward Asset-Based Lending before they ever entertain mezzanine.
 
-## Liquidity Predictability vs Liquidity Theatre Asset-Based Lending provides liquidity predictability
+Liquidity Predictability vs Liquidity Theatre Asset-Based Lending provides liquidity predictability
 
 .
 
@@ -138,7 +138,7 @@ Theater means:
 
 - Lenders who 
 
-# Step I: n when EBITDA misses guidance by even a small delta
+### Step I: n when EBITDA misses guidance by even a small delta
 
 .
 
@@ -148,9 +148,9 @@ Theater means:
 
 Institutional partners know the difference.
 
-This is why Asset-Based Lending backed private credit continues to increase its share in M&A structures while mezzanine demand declines. 
+This is why Asset-Based Lending backed private credit continues to increase its share in M&A structures while mezzanine demand declines.
 
-## The Asset-Based Lending Advantage in Healthcare Carve Outs Healthcare carve outs are a category of their own
+The Asset-Based Lending Advantage in Healthcare Carve Outs Healthcare carve outs are a category of their own
 
 .
 
@@ -172,9 +172,9 @@ Mezzanine lenders usually do not want to price reimbursement risk.
 
 Asset-Based Lending lenders know exactly how to model it.
 
-This difference determines the success or failure of many carve out acquisitions. 
+This difference determines the success or failure of many carve out acquisitions.
 
-## Asset-Based Lending Enhances Optionality for HNWI and UHNW Buyers HNWI and UHNW investors value optionality more than anything
+Asset-Based Lending Enhances Optionality for HNWI and UHNW Buyers HNWI and UHNW investors value optionality more than anything
 
 .
 
@@ -204,9 +204,9 @@ Their economics depend on maintaining a static capital position.
 
 They prefer long duration and high yield.
 
-That means they oppose early exits, rapid refinancing, or structural upgrades. 
+That means they oppose early exits, rapid refinancing, or structural upgrades.
 
-## The Pathmaker Position Pathmaker does not behave like a mezzanine shop
+The Pathmaker Position Pathmaker does not behave like a mezzanine shop
 
 .
 
@@ -230,9 +230,9 @@ We also provide specialized liquidity tools:
 
 These instruments give our clients leverage without compromising control.
 
-They strengthen the capital architecture instead of adding friction to it. 
+They strengthen the capital architecture instead of adding friction to it.
 
-## Execution Speed and Reliability In M&A, timing is strategic
+Execution Speed and Reliability In M&A, timing is strategic
 
 .
 
@@ -254,9 +254,9 @@ The other is based on assumptions.
 
 Reality produces faster closes.
 
-Assumptions produce delays. 
+Assumptions produce delays.
 
-## Structural Resilience in Volatile Markets Rates move
+Structural Resilience in Volatile Markets Rates move
 
 .
 
@@ -278,9 +278,9 @@ HNWI and UHNW buyers do not need more adversaries.
 
 They need liquidity partners who stay predictable.
 
-Pathmaker provides that predictability. 
+Pathmaker provides that predictability.
 
-## The M&A Capital Stack That Actually Works In modern mid market transactions the optimal capital stack is no longer traditional
+The M&A Capital Stack That Actually Works In modern mid market transactions the optimal capital stack is no longer traditional
 
 .
 
@@ -304,9 +304,9 @@ It respects operational realities.
 
 It maximizes optionality.
 
-It is also the stack Pathmaker architects every day. 
+It is also the stack Pathmaker architects every day.
 
-## For Investors Who Value Signal Over Noise The mid market is full of capital providers who want to speak loudly
+For Investors Who Value Signal Over Noise The mid market is full of capital providers who want to speak loudly
 
 .
 
@@ -318,7 +318,9 @@ The ones who operate without theatrics.
 
 The ones who demand liquidity mechanics that hold in real conditions.
 
-The ones who do not need approval from mezzanine desks to make strategic moves. # Book a strategic consultation
+The ones who do not need approval from mezzanine desks to make strategic moves.
+
+Book a strategic consultation
 
 Access is restricted to approved mandates.
 

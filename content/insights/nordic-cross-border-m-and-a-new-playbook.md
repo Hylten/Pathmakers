@@ -20,13 +20,9 @@ The friction is avoidable.
 
 The inefficiency is structural.
 
-The new playbook is designed to erase it. 
+The new playbook is designed to erase it.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ Buyers protect their balance sheet by demanding certainty.
 
 When uncertainty is present, price erodes.
 
-The new M&A playbook is built on eliminating these points of uncertainty prior to market entry. 
+The new M&A playbook is built on eliminating these points of uncertainty prior to market entry.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -210,13 +202,9 @@ This elevates efficiency, reduces time wastage for all parties, and ensures that
 
 The model is not about creating competition.
 
-It is about creating precision. 
+It is about creating precision.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value
+THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value
 
 .
 

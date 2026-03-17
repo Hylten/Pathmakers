@@ -12,15 +12,11 @@ The structural gap is created by accounting opacity, not credit scarcity.
 
 In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures.
 
-This is the opening for strategic Asset-Based Lending.
+This is the opening for strategic Asset-Based Lending. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -68,11 +64,7 @@ Strategic Asset-Based Lending converts complexity into eligible collateral. (See
 
 # Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -146,9 +138,9 @@ This includes:
 
 - Protected reinvestment corridors Waterfall architecture determines lender confidence.
 
-The clearer the intercompany monetisation pathways, the lower the friction cost of capital.
+The clearer the intercompany monetisation pathways, the lower the friction cost of capital. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
@@ -204,9 +196,9 @@ Their operational intelligence in Alberta, combined with field level visibility,
 
 The same principle applies to multi entity corporate groups in manufacturing, logistics, technology, and industrial services.
 
-When the operating partner has clarity, the lender can price risk accurately.
+When the operating partner has clarity, the lender can price risk accurately. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
@@ -248,9 +240,9 @@ The stewardship filter aligns with the principle in **Proverbs 13:22
 
 Corporate assets become durable when they are structured coherently.
 
-Capital follows coherence.
+Capital follows coherence. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION LENS FOR THE ALLOCATOR OR OWNER For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available.
 

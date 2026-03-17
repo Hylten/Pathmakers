@@ -578,7 +578,7 @@ No summaries.
 
 No recaps.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

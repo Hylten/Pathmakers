@@ -12,13 +12,9 @@ The current environment is shaped by regulatory recalibration across Europe and 
 
 This has widened the execution gap between motivated corporate sellers and financial buyers that require operational clarity before underwriting acquisition velocity.
 
-Precision Asset-Based Lending has emerged as a corrective instrument that neutralizes this friction by transforming under analyzed operational assets into predictable collateral with verifiable liquidation pathways. 
+Precision Asset-Based Lending has emerged as a corrective instrument that neutralizes this friction by transforming under analyzed operational assets into predictable collateral with verifiable liquidation pathways.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -36,13 +32,9 @@ Acquirers are no longer constrained by target availability but by time to certai
 
 Precision Asset-Based Lending aligns with this environment by introducing a liquidity layer that is based on asset certainty rather than EBITDA interpretation.
 
-This shift removes dependence on the seller’s accounting maturity and restores deal momentum even when financial statements require reconstruction. 
+This shift removes dependence on the seller’s accounting maturity and restores deal momentum even when financial statements require reconstruction.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -118,13 +110,9 @@ Roials Capital does not operate the lending book.
 
 It curates alignment between acquirer archetype, collateral profile, and funding mechanics.
 
-This separation maintains institutional clarity and enhances credibility with both sides of the transaction. 
+This separation maintains institutional clarity and enhances credibility with both sides of the transaction.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in corporate transitions is a discipline of restoring order to disorganized assets
+THE STEWARDSHIP FILTER Stewardship in corporate transitions is a discipline of restoring order to disorganized assets
 
 .
 

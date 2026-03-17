@@ -168,7 +168,7 @@ Each friction layer extracts equity.
 
 Each 
 
-# Layer C: ompounds risk
+### Layer C: ompounds risk
 
 .
 
@@ -426,9 +426,7 @@ The war is not external.
 
 The war is internal.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 

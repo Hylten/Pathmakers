@@ -94,7 +94,7 @@ The next move is to expand the architecture layer by layer.
 
 INSTITUTIONAL-READY FP&A: THE FIVE-PILLAR CONSTRUCTION Each 
 
-# Pillar I
+### Pillar I
 
 s non-negotiable if an operator expects a premium multiple or a frictionless close.
 

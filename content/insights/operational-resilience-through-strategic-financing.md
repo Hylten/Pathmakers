@@ -24,9 +24,9 @@ This article outlines the structural approach to financing operational resilienc
 
 Nothing romanticized.
 
-Only what works. 
+Only what works.
 
-## Building a Liquidity Stack That Can Absorb Shock Operational resilience comes from stacking complementary financing mechanisms rather than relying on a single source
+Building a Liquidity Stack That Can Absorb Shock Operational resilience comes from stacking complementary financing mechanisms rather than relying on a single source
 
 .
 
@@ -40,9 +40,9 @@ When combined, these provide a buffer that absorbs unexpected shocks without der
 
 This is the model used by sophisticated operators across private equity, healthcare consolidators, and serial acquirers.
 
-HNWI and UHNW investors who adopt this structure gain the same resilience advantages without needing to operate as a fund. 
+HNWI and UHNW investors who adopt this structure gain the same resilience advantages without needing to operate as a fund.
 
-## The Future of Resilient Finance Markets are not becoming calmer
+The Future of Resilient Finance Markets are not becoming calmer
 
 .
 
@@ -76,7 +76,9 @@ Quiet.
 
 Functional.
 
-Precise. # Book a strategic consultation
+Precise.
+
+Book a strategic consultation
 
 Access is restricted to approved mandates.
 

@@ -12,15 +12,11 @@ Across Europe and North America, acquisition attempts stall not because the targ
 
 The constraint is systemic.
 
-Regulatory tightening on commercial lending, fragmented private credit markets, and increased diligence requirements have produced a capital environment where acquisition readiness is primarily determined by liquidity engineering rather than headline balance sheet size.
+Regulatory tightening on commercial lending, fragmented private credit markets, and increased diligence requirements have produced a capital environment where acquisition readiness is primarily determined by liquidity engineering rather than headline balance sheet size. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -57,15 +53,11 @@ Buyers who cannot demonstrate operational liquidity readiness move to the back o
 
 High intent sellers will not tolerate prolonged funding discovery.
 
-The result is a market where the strategic operator with optimized liquidity architecture outperforms larger competitors whose capital stack is slower and less adaptable.
+The result is a market where the strategic operator with optimized liquidity architecture outperforms larger competitors whose capital stack is slower and less adaptable. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -136,13 +128,13 @@ These mechanics remove ambiguity from the buyer’s capital stack.
 
 Sellers and their advisory firms recognize this immediately.
 
-Process friction is reduced, negotiation leverage increases, and off market access expands.
+Process friction is reduced, negotiation leverage increases, and off market access expands. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within the M&A ecosystem as a strategic navigator for liquidity optimization.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -192,9 +184,9 @@ In energy focused mandates, Roials Capital aligns with its strategic partner NAE
 
 In M&A mandates outside that domain, the function is structural alignment and friction removal on the buyer side.
 
-The model remains neutral, analytical, and strategically focused.
+The model remains neutral, analytical, and strategically focused. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship within acquisition execution is the discipline of managing capital with moral precision and non wasteful intent.
 
@@ -234,13 +226,13 @@ Stewardship produces resilience.
 
 It reduces integration volatility.
 
-It improves long term operator credibility in local markets and lender networks.
+It improves long term operator credibility in local markets and lender networks. 
 
-# Phase V: .
+### Phase V: .
 
 ALLOCATOR LENS For buyers preparing for a strategic acquisition 
 
-# Phase I: n 2026, the most relevant assessment criteria are
+### Phase I: n 2026, the most relevant assessment criteria are
 
 :
 

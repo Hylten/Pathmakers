@@ -48,9 +48,7 @@ The countermeasure is architecture.
 
 The following briefing is written as if for the founder who understands the gravity of exit preparation and treats the M&A process as a sovereign act-an assertion of control, not a plea for capital.
 
-Pathmaker serves this category alone. 
-
- ## ( 
+Pathmaker serves this category alone. ( 
 
 # Phase I: )
 
@@ -346,7 +344,7 @@ Strategic clarity is pre‑deal work.
 
 Deal 
 
-# Phase I: s performance, not rehearsal
+### Phase I: s performance, not rehearsal
 
 .
 

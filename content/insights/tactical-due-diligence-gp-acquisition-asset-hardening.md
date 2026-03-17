@@ -14,13 +14,9 @@ This vacuum has created an identifiable pattern in GP led transactions: the high
 
 Tactical due diligence is no longer a procedural stage.
 
-It is the operational triage through which acquirable companies are separated from those that remain indefinitely untransactable. 
+It is the operational triage through which acquirable companies are separated from those that remain indefinitely untransactable.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ In this regime, tactical due diligence has displaced traditional commercial revi
 
 It is not the strategic narrative that moves a platform toward exit readiness but the structural coherence of its operational identity.
 
-Asset hardening is therefore the governing discipline. 
+Asset hardening is therefore the governing discipline.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -240,13 +232,9 @@ Only platforms demonstrating institutional coherence, validated through tactical
 
 This neutrality is critical.
 
-The focus is operational truth, not transaction momentum. 
+The focus is operational truth, not transaction momentum.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management
+THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management
 
 .
 

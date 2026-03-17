@@ -22,9 +22,9 @@ Pathmaker specializes in providing that oxygen through private credit and asset 
 
 We operate with principal authority, offering institutional mechanics without requiring institutional bureaucracy.
 
-We are designed for the HNWI and UHNW investor who understands that leverage is a tool, not a fantasy. 
+We are designed for the HNWI and UHNW investor who understands that leverage is a tool, not a fantasy.
 
-## The Mid Market Needs Precision, Not Theater Most liquidity solutions in the mid market are framed either as emergencies or as miracles
+The Mid Market Needs Precision, Not Theater Most liquidity solutions in the mid market are framed either as emergencies or as miracles
 
 .
 
@@ -36,9 +36,9 @@ It is the operator’s advantage.
 
 It is how deals close, how carve outs stabilize, and how investors maintain control of the timing and sequence of their moves.
 
-Pathmaker exists to deliver this advantage with clarity and without noise. 
+Pathmaker exists to deliver this advantage with clarity and without noise.
 
-## Why Pathmaker Creates Leverage That Matters We do not trade in sentiment
+Why Pathmaker Creates Leverage That Matters We do not trade in sentiment
 
 .
 
@@ -64,9 +64,9 @@ Our focus is on:
 
 We provide capital mechanics that allow sophisticated operators to execute cleanly and quietly.
 
-This is principal authority in practice. 
+This is principal authority in practice.
 
-## The Pathmaker Advantage in Practice When liquidity is predictable, deals accelerate
+The Pathmaker Advantage in Practice When liquidity is predictable, deals accelerate
 
 .
 
@@ -76,9 +76,9 @@ When capital is available without institutional friction, operators focus on exe
 
 A mid market investor who controls liquidity controls the outcome.
 
-Pathmaker provides the structural foundation that makes this possible. 
+Pathmaker provides the structural foundation that makes this possible.
 
-## The Mid Market Never Stops, and Liquidity Should Not Either Operators who wait for clarity rarely find it
+The Mid Market Never Stops, and Liquidity Should Not Either Operators who wait for clarity rarely find it
 
 .
 
@@ -96,9 +96,9 @@ In opportunity capture.
 
 Sophisticated capital does not chase markets.
 
-It prepares for them. 
+It prepares for them.
 
-## Final Perspective: Liquidity Wins Quietly The most decisive advantage in mid market transactions is often invisible
+Final Perspective: Liquidity Wins Quietly The most decisive advantage in mid market transactions is often invisible
 
 .
 

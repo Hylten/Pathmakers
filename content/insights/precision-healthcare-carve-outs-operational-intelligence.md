@@ -28,13 +28,9 @@ The present briefing outlines the
 
 The orientation is decisively tactical.
 
-The focus is on removing M&A friction, compressing transaction latency, and generating clarity for buyers, lenders, and strategic consolidators. 
+The focus is on removing M&A friction, compressing transaction latency, and generating clarity for buyers, lenders, and strategic consolidators.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Precision healthcare assets with predictable clinical volumes become trapped ins
 
 Carve-outs are not value creation events.
 
-Carve-outs are value revelation events. 
+Carve-outs are value revelation events.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -214,13 +206,9 @@ In precision healthcare, the greatest competitive advantage is not price discove
 
 The greatest competitive advantage is operational readability.
 
-Institutions deploy capital more confidently when operational opacity is removed. 
+Institutions deploy capital more confidently when operational opacity is removed.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance
+THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance
 
 .
 

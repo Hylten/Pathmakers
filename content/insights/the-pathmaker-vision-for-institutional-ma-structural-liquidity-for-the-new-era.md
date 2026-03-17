@@ -24,9 +24,9 @@ Our role is not to romanticize turnarounds or promote the mythology of heroic re
 
 Our role is structural.
 
-We engineer liquidity for buyers who need precision, not optimism. 
+We engineer liquidity for buyers who need precision, not optimism.
 
-## The Institutional Problem Set Mid Market
+The Institutional Problem Set Mid Market
 
 .
 
@@ -44,9 +44,9 @@ Carve outs from large health systems, multi-entity consolidations, revenue cycle
 
 This is where most lenders hesitate.
 
-This is where Pathmaker steps in. 
+This is where Pathmaker steps in.
 
-## Why Structural Liquidity Matters More Than Nominal Capital Most buyers do not lose deals due to lack of interest
+Why Structural Liquidity Matters More Than Nominal Capital Most buyers do not lose deals due to lack of interest
 
 .
 
@@ -68,15 +68,15 @@ principal authority means we do not create noise.
 
 We create structure.
 
-We create certainty when the clock is ticking and the opportunity is perishable. 
+We create certainty when the clock is ticking and the opportunity is perishable.
 
-## The Pathmaker Capital Suite Precision Tools for Sophisticated Buyers Our platform is simple by design
+The Pathmaker Capital Suite Precision Tools for Sophisticated Buyers Our platform is simple by design
 
 .
 
 We offer three primary [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators.
 
-## Private Credit Capital Structuring Private credit is now the backbone of mid market M&A
+Private Credit Capital Structuring Private credit is now the backbone of mid market M&A
 
 .
 
@@ -86,7 +86,7 @@ Our underwriting philosophy is grounded in cash flow reality, not hypothetical f
 
 We finance the deal that exists, not the version the sell side pitched.
 
-## Asset Based Monetization Architecture Asset based Monetization Architecture is experiencing a renaissance
+Asset Based Monetization Architecture Asset based Monetization Architecture is experiencing a renaissance
 
 .
 
@@ -102,7 +102,7 @@ The assets are often underutilized, mispriced, or misaligned within large parent
 
 We understand how to unlock that value.
 
-## Crypto Strategic Collateralization Minimum threshold:
+Crypto Strategic Collateralization Minimum threshold:
 
  
 2 million.
@@ -117,7 +117,7 @@ Pathmaker lends in a way that respects the asset class without exaggerating it.
 
 This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure.
 
-## Public Share Capital Structuring Minimum threshold:
+Public Share Capital Structuring Minimum threshold:
 
  
 5 million.
@@ -130,9 +130,9 @@ Their caution slows deals and forces buyers to either overcommit cash or overrea
 
 Pathmaker treats public equity as a flexible, strategic collateral layer, not a static investment.
 
-When deployed correctly, public share Asset-Backed Frameworks can accelerate deal timelines, outperform traditional debt, and reduce closing friction. 
+When deployed correctly, public share Asset-Backed Frameworks can accelerate deal timelines, outperform traditional debt, and reduce closing friction.
 
-## The Pathmaker Vision for Institutional M&A A Playbook Built on Reality Our vision is not about making deals easier
+The Pathmaker Vision for Institutional M&A A Playbook Built on Reality Our vision is not about making deals easier
 
 .
 
@@ -156,9 +156,9 @@ You can move sooner.
 
 You can move with conviction.
 
-You can structure offers that competitors cannot match because their lenders require conditions that do not align with real market timelines. 
+You can structure offers that competitors cannot match because their lenders require conditions that do not align with real market timelines.
 
-## Mid Market M&A Is No Longer Forgiving Precision Is the New Leverage The era of companies selling for ten times EBITDA regardless of operational health is gone
+Mid Market M&A Is No Longer Forgiving Precision Is the New Leverage The era of companies selling for ten times EBITDA regardless of operational health is gone
 
 .
 
@@ -178,9 +178,9 @@ Buyers have adjusted.
 
 Yet most lenders remain stuck in another cycle.
 
-Pathmaker was built for the present environment, where liquidity is not abundant and time is not a renewable resource. 
+Pathmaker was built for the present environment, where liquidity is not abundant and time is not a renewable resource.
 
-## Healthcare Carve Outs Require More Than Capital They Require Structural Interpretation Healthcare carve outs are often mispriced because the assets inside them have been trapped in systems designed for scale, not efficiency
+Healthcare Carve Outs Require More Than Capital They Require Structural Interpretation Healthcare carve outs are often mispriced because the assets inside them have been trapped in systems designed for scale, not efficiency
 
 .
 
@@ -200,9 +200,7 @@ Liquidity becomes the strategic weapon that allows buyers to take positions comp
 
 Healthcare carve outs are not about turnaround theatrics.
 
-They are about asset intelligence and liquidity precision. 
-
-## principal authority The F Hierarchical Dynamics principal authority means we do not become part of your narrative
+They are about asset intelligence and liquidity precision. principal authority The F Hierarchical Dynamics principal authority means we do not become part of your narrative
 
 .
 
@@ -226,13 +224,11 @@ A shift in how counterparties respond once they realize your liquidity infrastru
 
 principal authority is power without noise.
 
-It is influence without spectacle. 
+It is influence without spectacle.
 
-## Liquidity as Strategy Not a Last Step, a First
+Liquidity as Strategy Not a Last Step, a First 
 
- 
-
-# Step M
+### Step M
 
 ost buyers still treat liquidity as the final box to check after negotiation.
 
@@ -250,9 +246,9 @@ You can make commitments that others cannot.
 
 Because you have already built the liquidity architecture behind them.
 
-This is the Pathmaker approach. 
+This is the Pathmaker approach.
 
-## Why HNWI and UHNW Buyers Choose Pathmaker Our clients are individuals and institutions with real stakes
+Why HNWI and UHNW Buyers Choose Pathmaker Our clients are individuals and institutions with real stakes
 
 .
 
@@ -280,9 +276,9 @@ They choose Pathmaker because we:
 
 - prioritize execution over speculation We do not sell dreams.
 
-We engineer outcomes. 
+We engineer outcomes.
 
-## Institutional M&A Will Only Get Harder The Winners Will Be the Ones With Structural Liquidity The next decade will punish unprepared buyers and undisciplined lenders
+Institutional M&A Will Only Get Harder The Winners Will Be the Ones With Structural Liquidity The next decade will punish unprepared buyers and undisciplined lenders
 
 .
 
@@ -294,9 +290,9 @@ Every cycle produces predators and casualties.
 
 The difference is always structure.
 
-Pathmaker positions its clients on the predator side of the cycle. 
+Pathmaker positions its clients on the predator side of the cycle.
 
-## The Pathmaker Promise Structural Liquidity
+The Pathmaker Promise Structural Liquidity
 
 .
 
@@ -318,9 +314,9 @@ We provide clarity.
 
 We provide executable liquidity when it matters.
 
-For the buyers who understand what this cycle demands, Pathmaker becomes a strategic extension of their acquisition architecture. 
+For the buyers who understand what this cycle demands, Pathmaker becomes a strategic extension of their acquisition architecture.
 
-## Ready to Strengthen Your Liquidity Strategy
+Ready to Strengthen Your Liquidity Strategy
 
 ?
 

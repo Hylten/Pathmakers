@@ -28,13 +28,9 @@ They are rewarded for executing clean, efficient transactions with predictable i
 
 This briefing outlines the methods, decision architectures, and disciplined rituals of preparation that create frictionless M&A execution.
 
-It reflects a General’s perspective: decisive, structured, and grounded in the reality that order creates value while disorder invites discounting. 
+It reflects a General’s perspective: decisive, structured, and grounded in the reality that order creates value while disorder invites discounting.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ Companies that internalize this discipline shift from reactive negotiation to st
 
 They no longer enter a sale process as a collection of departmental activities.
 
-They enter as a synchronized system with a consciously engineered narrative that institutional buyers can evaluate without friction. 
+They enter as a synchronized system with a consciously engineered narrative that institutional buyers can evaluate without friction.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -234,13 +226,13 @@ Without it, acquirers assume hidden liabilities and load valuation downward to c
 
 THE PARTNERSHIP MODEL Roials Capital is structured as a strategic navigator and institutional introducer.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to sell assets or operate companies.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -256,7 +248,7 @@ The partnership model follows four pillars.
 
 Strategic Alignment The first 
 
-# Step I
+### Step I
 
 s aligning the company’s internal objectives with the expectations of acquirers who operate within a professional investment framework.
 
@@ -318,7 +310,7 @@ Institutional introductions reduce noise and accelerate the path toward prelimin
 
 Execution Oversight The final 
 
-# Pillar I: nvolves constant pressure testing of
+### Pillar I: nvolves constant pressure testing of
 
 :
 
@@ -334,13 +326,9 @@ Execution Oversight The final
 
 Execution oversight is an act of disciplined orchestration.
 
-The objective is friction minimization and process predictability. 
+The objective is friction minimization and process predictability.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness
+THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness
 
 .
 

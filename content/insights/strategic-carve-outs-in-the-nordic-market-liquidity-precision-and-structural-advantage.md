@@ -20,9 +20,9 @@ Provide institutional grade liquidity to HNWI and UHNW clients through private c
 
 The Nordic carve-out market rewards those who can execute cleanly.
 
-And execution requires a partner who has seen the operational scars of real transitions. 
+And execution requires a partner who has seen the operational scars of real transitions.
 
-## The Nordic Carve-Out Landscape: A Region Built for Precision The Nordics remain one of the most structurally efficient environments for corporate separations
+The Nordic Carve-Out Landscape: A Region Built for Precision The Nordics remain one of the most structurally efficient environments for corporate separations
 
 .
 
@@ -46,9 +46,9 @@ Most institutional funds prefer to wait for the separation to be complete before
 
 This creates a liquidity gap.
 
-Pathmaker steps directly into that gap. 
+Pathmaker steps directly into that gap.
 
-## What Makes Carve-Outs Difficult in the Nordic Mid-Market Carve-outs are not difficult because of strategy
+What Makes Carve-Outs Difficult in the Nordic Mid-Market Carve-outs are not difficult because of strategy
 
 .
 
@@ -76,9 +76,9 @@ And traditional lenders do not want to touch the pre separation phase.
 
 They prefer a stable post integration picture, clean metrics, and a neat presentation deck.
 
-Pathmaker was designed for the opposite scenario. 
+Pathmaker was designed for the opposite scenario.
 
-## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under
+The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under
 
  
 
@@ -104,9 +104,9 @@ Private credit solutions offer:
 
 - Strategic optionality for buyers who want to move before competition forms For HNWI and UHNW individuals, private credit serves as a multiplier.
 
-It converts operational confidence into capital advantage. 
+It converts operational confidence into capital advantage.
 
-## Asset Based Monetization Architecture: The Backbone of Carve-Out Stability Asset based Monetization Architecture is often misunderstood in the Nordic market
+Asset Based Monetization Architecture: The Backbone of Carve-Out Stability Asset based Monetization Architecture is often misunderstood in the Nordic market
 
 .
 
@@ -138,9 +138,9 @@ Key advantages:
 
 It is not meant to be.
 
-It is the backbone that keeps the separation upright. 
+It is the backbone that keeps the separation upright.
 
-## Healthcare Carve-Outs: Where Discipline Matters Most Healthcare is the sector where carve-outs often deliver the highest long term value
+Healthcare Carve-Outs: Where Discipline Matters Most Healthcare is the sector where carve-outs often deliver the highest long term value
 
 .
 
@@ -164,9 +164,9 @@ HNWI and UHNW investors understand that healthcare assets do not need dramatic t
 
 They need stability, capital, and clean separation mechanics.
 
-When these conditions exist, the asset performs naturally. 
+When these conditions exist, the asset performs naturally.
 
-## Liquidity as a Competitive Weapon In the modern Nordic carve-out landscape, liquidity is not just an enabler
+Liquidity as a Competitive Weapon In the modern Nordic carve-out landscape, liquidity is not just an enabler
 
 .
 
@@ -194,9 +194,9 @@ We offer:
 - Public share Capital Structuring with a minimum threshold of 
 5 million USD These instruments allow sophisticated investors to execute where others hesitate.
 
-And in carve-outs, hesitation is often fatal to deal economics. 
+And in carve-outs, hesitation is often fatal to deal economics.
 
-## The principal authority: How Pathmaker Interfaces With Institutional Capital Pathmaker maintains what we call the principal authority stance
+The principal authority: How Pathmaker Interfaces With Institutional Capital Pathmaker maintains what we call the principal authority stance
 
 .
 
@@ -220,9 +220,9 @@ Pathmaker operates in the background, solid and unmovable, ensuring:
 
 - Counterparties are insulated from disruption The entire purpose is to make the investor look stronger, more capable, and more credible.
 
-This is the essence of principal authority. 
+This is the essence of principal authority.
 
-## Why HNWI and UHNW Investors Are Winning Carve-Outs The institutional bidding environment in the Nordics is disciplined to the point of paralysis
+Why HNWI and UHNW Investors Are Winning Carve-Outs The institutional bidding environment in the Nordics is disciplined to the point of paralysis
 
 .
 
@@ -240,9 +240,9 @@ This is the strategic window that Pathmaker opens.
 
 A window where private capital moves faster than institutional capital.
 
-A window where the strongest buyer is simply the one with the cleanest liquidity structure. 
+A window where the strongest buyer is simply the one with the cleanest liquidity structure.
 
-## The Strategic Blueprint for a High Performing Carve-Out Success comes from discipline, not heroics
+The Strategic Blueprint for a High Performing Carve-Out Success comes from discipline, not heroics
 
 .
 
@@ -278,9 +278,9 @@ Drive the separation with precision and mechanical focus.
 
 This is not a turnaround philosophy.
 
-It is a carve-out execution philosophy. 
+It is a carve-out execution philosophy.
 
-## Where the Market Is Going The Nordic carve-out cycle is only accelerating
+Where the Market Is Going The Nordic carve-out cycle is only accelerating
 
 .
 
@@ -294,7 +294,9 @@ And mid-market industrials are under pressure to carve out digital or tech const
 
 All of this creates a sustained pipeline for disciplined investors who can execute with liquidity certainty.
 
-Pathmaker stands precisely at this intersection. # Final Thoughts Carve-outs are not theatrical.
+Pathmaker stands precisely at this intersection.
+
+Final Thoughts Carve-outs are not theatrical.
 
 The real work happens in spreadsheets, asset registers, and liquidity models.
 

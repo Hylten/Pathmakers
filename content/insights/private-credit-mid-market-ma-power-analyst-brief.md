@@ -68,9 +68,9 @@ Hard edges only. **Proverbs 13:22
 
 * 
 
-* : A good man leaves an inheritance to his children’s children. 
+* : A good man leaves an inheritance to his children’s children.
 
-## PRIVATE CREDIT AS A PATHMAKER Liquidity bends markets
+PRIVATE CREDIT AS A PATHMAKER Liquidity bends markets
 
 .
 
@@ -114,9 +114,9 @@ Banks underwrite risk.
 
 Private credit underwrites intent.
 
-This difference reshapes everything. 
+This difference reshapes everything.
 
-## EXIT READINESS AS A CAPITAL-STRUCTURE FUNCTION Exit readiness is not a cosmetic process
+EXIT READINESS AS A CAPITAL-STRUCTURE FUNCTION Exit readiness is not a cosmetic process
 
 .
 
@@ -266,9 +266,9 @@ Massively profitable.
 
 Private credit does not chase deals.
 
-Deals chase private credit. 
+Deals chase private credit.
 
-## JURISDICTIONAL ARBITRAGE IN MID-MARKET M&A Jurisdiction matters
+JURISDICTIONAL ARBITRAGE IN MID-MARKET M&A Jurisdiction matters
 
 .
 
@@ -307,9 +307,9 @@ The right jurisdiction adds
 
 - 3 turns of EBITDA to valuation.
 
-The wrong one subtracts them. 
+The wrong one subtracts them.
 
-## DEBT AS AN OPERATIONAL TOOL Banks treat debt as a risk instrument
+DEBT AS AN OPERATIONAL TOOL Banks treat debt as a risk instrument
 
 .
 
@@ -335,9 +335,9 @@ No growth hesitation.
 
 No liquidity choke points.
 
-The capital behaves like a strategy, not like a burden. 
+The capital behaves like a strategy, not like a burden.
 
-## WHY MID-MARKET ACQUIRERS FAIL WITHOUT PRIVATE CREDIT Failure patterns repeat across industries
+WHY MID-MARKET ACQUIRERS FAIL WITHOUT PRIVATE CREDIT Failure patterns repeat across industries
 
 :
 
@@ -367,9 +367,9 @@ Private credit resolves this across the chain:
 
 - Direct relationship with decision makers The mid-market acquirer armed with private credit operates with institutional precision.
 
-The one without it operates with retail constraints. 
+The one without it operates with retail constraints.
 
-## THE PRIVATE CREDIT PLAYBOOK FOR MID-MARKET BUYERS Mechanics matter more than slogans
+THE PRIVATE CREDIT PLAYBOOK FOR MID-MARKET BUYERS Mechanics matter more than slogans
 
 .
 
@@ -433,9 +433,9 @@ This is repeatable.
 
 This is scalable.
 
-This is institutional. 
+This is institutional.
 
-## THE ROLE OF Fund-III STYLE DEPLOYMENT Fund-III discipline differs from Fund-I optimism or Fund-II aggressiveness
+THE ROLE OF Fund-III STYLE DEPLOYMENT Fund-III discipline differs from Fund-I optimism or Fund-II aggressiveness
 
 .
 
@@ -471,9 +471,9 @@ Durable assets create predictable exits.
 
 Predictable exits attract premium buyers.
 
-Cycle complete. 
+Cycle complete.
 
-## THE PATHMAKER ARCHETYPE Private credit is not a follower
+THE PATHMAKER ARCHETYPE Private credit is not a follower
 
 .
 
@@ -501,9 +501,9 @@ No hesitation.
 
 Mid-market M&A rewards those who move decisively.
 
-Private credit ensures they can. 
+Private credit ensures they can.
 
-## MANDATE For mid-market buyers, founders, consolidators, and institutional operators: Move from bank dependency to private-credit sovereignty
+MANDATE For mid-market buyers, founders, consolidators, and institutional operators: Move from bank dependency to private-credit sovereignty
 
 .
 

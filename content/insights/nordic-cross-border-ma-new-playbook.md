@@ -549,7 +549,7 @@ The new model rewards readiness, reduces friction, and leverages off‑market in
 
 This is the environment where operators either architect their legacy or lose value silently.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

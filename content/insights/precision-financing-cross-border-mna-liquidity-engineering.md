@@ -14,13 +14,9 @@ This has created a regime where high conviction operators see strategic targets 
 
 In 2026, the constraint is not deal quality.
 
-The constraint is structural liquidity and the ability to engineer frictionless balance sheet readiness across borders. 
+The constraint is structural liquidity and the ability to engineer frictionless balance sheet readiness across borders.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ European buyers moving into North America face unfamiliar banking expectations, 
 
 Conversely, North American buyers entering Europe encounter slower diligence rhythms and legal frameworks that elongate the acquisition calendar.
 
-Both require precision financing frameworks that translate across borders. 
+Both require precision financing frameworks that translate across borders.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -132,13 +124,9 @@ The partnership model is deliberately neutral.
 
 Roials Capital is an introducer and structural strategist, not a lender.
 
-This ensures alignment with the operator rather than the capital provider. 
+This ensures alignment with the operator rather than the capital provider.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity
+THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity
 
 .
 

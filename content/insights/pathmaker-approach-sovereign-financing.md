@@ -14,13 +14,9 @@ It is the natural result of a compliance driven capital architecture that reward
 
 The Pathmaker Approach was created to neutralize these frictions for HNWI and UHNW families that require clear routes into sovereign financing structures without sacrificing autonomy or control.
 
-The methodology focuses on institutional readiness, operational maturity, and the removal of any element that would stall a transaction during a sovereign due diligence cycle. 
+The methodology focuses on institutional readiness, operational maturity, and the removal of any element that would stall a transaction during a sovereign due diligence cycle.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ The technical position of a portfolio, not its narrative, determines its clearan
 
 Within this environment, the Pathmaker Approach acts as the navigational system.
 
-It is the architecture that converts privately held assets into institutionally intelligible structures with frictionless pathways for sovereign alignment. 
+It is the architecture that converts privately held assets into institutionally intelligible structures with frictionless pathways for sovereign alignment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -70,7 +62,7 @@ S
 
 Every 
 
-# Step I
+### Step I
 
 s designed to meet the institutional threshold required by sovereign entities, private credit platforms, and major family office consortiums.
 
@@ -142,13 +134,9 @@ For all non energy applications, the Pathmaker approach retains a neutral introd
 
 No solicitation, no promotion, no commitments.
 
-Only structural navigation. 
+Only structural navigation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral concept
+THE STEWARDSHIP FILTER Stewardship is not a moral concept
 
 .
 
@@ -192,7 +180,7 @@ It ensures that the allocator can operate without unnecessary friction, without 
 
 The next 
 
-# Phase I
+### Phase I
 
 s a confidential strategy audit designed to identify structural constraints, assess institutional readiness, and map the allocator's existing position against sovereign financing thresholds.
 

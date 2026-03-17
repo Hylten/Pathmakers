@@ -14,13 +14,9 @@ They are constrained by balance sheet drag, fragmented ownership archetypes, and
 
 The capital vacuum has widened as traditional lenders apply Basel weightings that are mismatched to asset productivity, creating an environment where operationally strong logistics platforms operate below optimal liquidity thresholds.
 
-This distortion creates a precision liquidity opportunity for operators who are exit capable but capital constrained. 
+This distortion creates a precision liquidity opportunity for operators who are exit capable but capital constrained.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -42,13 +38,9 @@ The Nordic logistics sector remains one of the most operationally resilient segm
 
 The result is a consistent pattern: assets that are operationally robust but exit opaque.
 
-This is where precision liquidity becomes a critical differentiator. 
+This is where precision liquidity becomes a critical differentiator.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -146,13 +138,9 @@ This intelligence feeds into capital introductions, exit preparation, and govern
 
 For operators seeking precision liquidity, this model delivers neutral institutional validation.
 
-For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed. 
+For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing
+THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing
 
 .
 

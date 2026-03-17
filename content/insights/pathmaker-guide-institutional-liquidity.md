@@ -18,13 +18,9 @@ This is the structural gap that defines the current environment.
 
 Liquidity does not flow toward businesses that need capital.
 
-Liquidity flows toward businesses engineered to be investable. 
+Liquidity flows toward businesses engineered to be investable.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ The core truth is simple.
 
 The mid-market is not undercapitalized because capital is scarce.
 
-It is undercapitalized because institutional friction has intensified. 
+It is undercapitalized because institutional friction has intensified.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -202,13 +194,9 @@ In non energy sectors, the focus centers on:
 
 - Market aligned valuation logic The objective is not to sell.
 
-The objective is to render the operator legible to institutional decision frameworks. 
+The objective is to render the operator legible to institutional decision frameworks.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not sentiment
+THE STEWARDSHIP FILTER Stewardship is not sentiment
 
 .
 

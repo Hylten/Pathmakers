@@ -16,9 +16,9 @@ They rarely behave like the sanitized case studies circulating in mid-market ban
 
 They require liquidity at the exact moment the acquisition ecosystem becomes most structurally rigid.
 
-And this is where hybrid asset collateral becomes a weapon instead of an afterthought. 
+And this is where hybrid asset collateral becomes a weapon instead of an afterthought.
 
-## The Structural Reality of Healthcare Carve-Out Financing In healthcare carve-outs, the acquirer steps into a thicket of operational liabilities, revenue cycle inconsistencies, legacy vendor entanglements, and compliance exposures
+The Structural Reality of Healthcare Carve-Out Financing In healthcare carve-outs, the acquirer steps into a thicket of operational liabilities, revenue cycle inconsistencies, legacy vendor entanglements, and compliance exposures
 
 .
 
@@ -36,9 +36,9 @@ The friction slows down closings and erodes negotiating leverage.
 
 Mid-market buyers feel this strain more acutely than institutional strategics because they cannot rely on balance-sheet deployed corporate credit.
 
-They need external liquidity. 
+They need external liquidity.
 
-## Pathmaker’s Position: We Specialize in Private Credit and Asset-Based Asset-Backed Frameworks Pathmaker enters before the friction compounds
+Pathmaker’s Position: We Specialize in Private Credit and Asset-Based Asset-Backed Frameworks Pathmaker enters before the friction compounds
 
 .
 
@@ -50,9 +50,9 @@ We operate without theatrics and without romance.
 
 We extend liquidity because we understand the mechanics of collateralized private credit and Asset-Based Lending, not because we believe in turnarounds.
 
-This creates a structural advantage for HNW and UHNW buyers who want to execute quickly, quietly, and with authority. 
+This creates a structural advantage for HNW and UHNW buyers who want to execute quickly, quietly, and with authority.
 
-## Why Hybrid Asset Collateral Works in Healthcare Carve-Outs Healthcare carve-outs are liquidity traps
+Why Hybrid Asset Collateral Works in Healthcare Carve-Outs Healthcare carve-outs are liquidity traps
 
 .
 
@@ -70,9 +70,9 @@ Institutional capital respects collateral.
 
 It respects hard assets with verifiable value and deterministic liquidability.
 
-Hybrid collateral turns a constrained deal into a financeable one. 
+Hybrid collateral turns a constrained deal into a financeable one.
 
-## The Three Collateral Pillars Pathmaker Leverages These pillars apply to HNWI and UHNW clients who have complex asset architecture and require institutional-grade structuring.
+The Three Collateral Pillars Pathmaker Leverages These pillars apply to HNWI and UHNW clients who have complex asset architecture and require institutional-grade structuring.
 
  
 1.
@@ -119,9 +119,9 @@ It reduces the need for expensive equity fills.
 
 It shortens diligence cycles.
 
-It eliminates negotiation drag. 
+It eliminates negotiation drag.
 
-## Why Healthcare Carve-Outs Create Unpriced Risk for Traditional Lenders There are predictable failure points in healthcare carve-out underwriting
+Why Healthcare Carve-Outs Create Unpriced Risk for Traditional Lenders There are predictable failure points in healthcare carve-out underwriting
 
 .
 
@@ -143,9 +143,9 @@ Common friction points include:
 
 It does not, however, impact the value of the acquirer's external collateral.
 
-This is the strategic loophole that hybrid collateral exploits. 
+This is the strategic loophole that hybrid collateral exploits.
 
-## The Mechanics: How Hybrid Asset Collateral Fits into the Capital Stack The goal is not creativity
+The Mechanics: How Hybrid Asset Collateral Fits into the Capital Stack The goal is not creativity
 
 .
 
@@ -165,9 +165,9 @@ The lender consensus becomes easier to align.
 
 Institutional capital prefers clear separability of collateral.
 
-Hybrid structures provide exactly that. 
+Hybrid structures provide exactly that.
 
-## Liquidity Timing: The Knife-Edge Moment in Carve-Out Execution When closing a healthcare carve-out, the timing gap between signing and operating control is the most dangerous window
+Liquidity Timing: The Knife-Edge Moment in Carve-Out Execution When closing a healthcare carve-out, the timing gap between signing and operating control is the most dangerous window
 
 .
 
@@ -185,9 +185,9 @@ Pathmaker plans for it.
 
 By front-loading liquidity with hybrid asset collateral, buyers stabilize the transition window before friction compounds.
 
-This is one of the few advantages in a carve-out that is entirely controllable. 
+This is one of the few advantages in a carve-out that is entirely controllable.
 
-## Why HNW and UHNW Buyers Rely on Pathmaker Structures Most HNW and UHNW buyers do not want public visibility in their financing decisions
+Why HNW and UHNW Buyers Rely on Pathmaker Structures Most HNW and UHNW buyers do not want public visibility in their financing decisions
 
 .
 
@@ -203,9 +203,9 @@ We bring mechanical clarity without the noise of unnecessary advisory.
 
 We build Institutional Liquidity Paths structures that minimize friction and reduce counterparty uncertainty.
 
-We solve liquidity gaps without interfering with strategy. 
+We solve liquidity gaps without interfering with strategy.
 
-## Case Pattern: Hybrid Collateral Unlocking a Blocked Healthcare Carve-Out A common pattern looks like this
+Case Pattern: Hybrid Collateral Unlocking a Blocked Healthcare Carve-Out A common pattern looks like this
 
 .
 
@@ -239,9 +239,9 @@ The deal clears.
 
 The buyer controls the transition.
 
-The lender receives clean collateral with minimal operational risk exposure. 
+The lender receives clean collateral with minimal operational risk exposure.
 
-## The Strategic Advantage of Hybrid Collateral in Healthcare M&A Hybrid collateral is not creativity for its own sake
+The Strategic Advantage of Hybrid Collateral in Healthcare M&A Hybrid collateral is not creativity for its own sake
 
 .
 
@@ -257,9 +257,9 @@ It allows acquirers to:
 
 - Win negotiations through certainty of funds
 
-- Reduce dependence on the target company’s health This is how HNW and UHNW buyers consistently outperform in mid-market healthcare transactions. 
+- Reduce dependence on the target company’s health This is how HNW and UHNW buyers consistently outperform in mid-market healthcare transactions.
 
-## Pathmaker as the Structural Engine Behind the Capital We do not market
+Pathmaker as the Structural Engine Behind the Capital We do not market
 
 .
 
@@ -275,9 +275,9 @@ Hybrid asset collateral is not theory.
 
 It is a tool.
 
-For the right buyer, it is decisive. 
+For the right buyer, it is decisive.
 
-## Final Thought: Healthcare Carve-Outs Reward Liquidity, Not Hope Healthcare carve-outs punish optimism
+Final Thought: Healthcare Carve-Outs Reward Liquidity, Not Hope Healthcare carve-outs punish optimism
 
 .
 

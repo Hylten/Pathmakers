@@ -24,13 +24,9 @@ It is designed for investors and acquirers who understand that contemporary M&A 
 
 The companies most affected are those with technical strength but insufficient structural readiness.
 
-This is the precise locus where modern Institutional Liquidity Paths creates advantage. 
+This is the precise locus where modern Institutional Liquidity Paths creates advantage.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ Off market channels now define the opportunity velocity of M&A, particularly in 
 
 These macro drivers produce a simple institutional truth: M&A friction has increased, but the appetite for structurally prepared companies has intensified.
 
-The Pathmaker model exists to convert this imbalance into clarity and alignment. 
+The Pathmaker model exists to convert this imbalance into clarity and alignment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -198,13 +190,9 @@ Pathmaker functions as the European execution arm responsible for:
 
 Pathmaker retains responsibility for financial architecture and exit readiness if a portfolio company seeks strategic divestiture.
 
-Each partner plays a defined role within the institutional ecosystem. 
+Each partner plays a defined role within the institutional ecosystem.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline
+THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline
 
 .
 

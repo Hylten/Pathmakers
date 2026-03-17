@@ -26,9 +26,9 @@ We do not promise inspirational turnarounds.
 
 We engineer outcomes through private credit and asset based Monetization Architecture.
 
-We structure liquidity that lets serious owners control their destiny rather than react to it. 
+We structure liquidity that lets serious owners control their destiny rather than react to it.
 
-## The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products
+The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products
 
 .
 
@@ -54,11 +54,9 @@ Not promises.
 
 Not projections.
 
-Structure. 
+Structure.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

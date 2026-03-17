@@ -34,9 +34,9 @@ This is how high net worth and ultra high net worth principals protect their pos
 
 This is how they negotiate with institutional actors without having to posture.
 
-This is the role of principal authority. 
+This is the role of principal authority.
 
-## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 1000 operate with armies of advisors and entire consulting ecosystems
+Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 1000 operate with armies of advisors and entire consulting ecosystems
 
 .
 
@@ -70,9 +70,9 @@ Not ambition.
 
 Liquidity.
 
-Pathmaker enters precisely at this fracture point. 
+Pathmaker enters precisely at this fracture point.
 
-## Liquidity as the Primary Lever in Spin-off Success Many spin-offs fail not because the business model is weak but because the liquidity structure is wrong
+Liquidity as the Primary Lever in Spin-off Success Many spin-offs fail not because the business model is weak but because the liquidity structure is wrong
 
 .
 
@@ -90,7 +90,7 @@ Liquidity requirements emerge in several categories.
 
 Each must be handled with precision.
 
-## The operational gap A newly separated unit almost never has a stabilized working capital cycle
+The operational gap A newly separated unit almost never has a stabilized working capital cycle
 
 .
 
@@ -110,7 +110,7 @@ It uses what the business already owns.
 
 It creates operational oxygen without relying on optimistic projections.
 
-## The negotiation gap During a spin-off, buyers often attempt to exploit the seller's time pressure
+The negotiation gap During a spin-off, buyers often attempt to exploit the seller's time pressure
 
 .
 
@@ -124,15 +124,15 @@ By having alternative capital ready, principals do not need to accept compressed
 
 They can hold the line.
 
-## The equity gap HNWI and UHNW principals often want to maintain a meaningful ownership position post-spin, but they cannot tie up all personal liquidity
+The equity gap HNWI and UHNW principals often want to maintain a meaningful ownership position post-spin, but they cannot tie up all personal liquidity
 
 .
 
 They want strategic control without balance sheet sacrifice.
 
-This is where Pathmaker structures collateralized Strategic Collateralization solutions that free liquidity without forcing a sale of long-term assets. 
+This is where Pathmaker structures collateralized Strategic Collateralization solutions that free liquidity without forcing a sale of long-term assets.
 
-## The Pathmaker Position in the Spin-off Capital Stack Pathmaker lends against private credit and asset based structures
+The Pathmaker Position in the Spin-off Capital Stack Pathmaker lends against private credit and asset based structures
 
 .
 
@@ -156,9 +156,9 @@ Our role is to be the invisible infrastructure behind strategic events.
 
 principal authority.
 
-The capital architects behind the capital. 
+The capital architects behind the capital.
 
-## Healthcare Spin-offs: Why They Are Operationally Volatile Healthcare carve-outs carry unique risks that traditional lenders underestimate
+Healthcare Spin-offs: Why They Are Operationally Volatile Healthcare carve-outs carry unique risks that traditional lenders underestimate
 
 .
 
@@ -192,9 +192,9 @@ They must secure capital against both personal assets and corporate assets.
 
 They must maintain optionality in their personal portfolio while protecting operational runway.
 
-Pathmaker designs this dual-layer solution. 
+Pathmaker designs this dual-layer solution.
 
-## Why Private Credit is an Advantage in Spin-offs Private credit has become one of the most powerful tools for spin-offs because it is not constrained by traditional underwriting logic
+Why Private Credit is an Advantage in Spin-offs Private credit has become one of the most powerful tools for spin-offs because it is not constrained by traditional underwriting logic
 
 .
 
@@ -218,9 +218,9 @@ Private credit delivers timing advantage.
 
 Timing advantage creates negotiation advantage.
 
-Negotiation advantage produces better deal economics. 
+Negotiation advantage produces better deal economics.
 
-## Asset Based Strategic Collateralization: The Quiet Backbone of Separation Asset based Capital Structuring is often dismissed as an old economy tool, but in complex separations it is the most reliable capital structure available
+Asset Based Strategic Collateralization: The Quiet Backbone of Separation Asset based Capital Structuring is often dismissed as an old economy tool, but in complex separations it is the most reliable capital structure available
 
 .
 
@@ -248,9 +248,9 @@ Asset-Based Lending provides clarity during chaos.
 
 It creates predictable liquidity in an unpredictable moment.
 
-Pathmaker uses Asset-Based Lending as the stabilizing core of many spin-off financing structures. 
+Pathmaker uses Asset-Based Lending as the stabilizing core of many spin-off financing structures.
 
-## Crypto Institutional Liquidity Paths and Public Share Monetization Architecture in the Spin-off Environment HNWI and UHNW principals often hold significant digital assets or appreciated public equities
+Crypto Institutional Liquidity Paths and Public Share Monetization Architecture in the Spin-off Environment HNWI and UHNW principals often hold significant digital assets or appreciated public equities
 
 .
 
@@ -278,9 +278,9 @@ Strategic decision making improves.
 
 Negotiation posture strengthens.
 
-The separation process becomes less personally draining. 
+The separation process becomes less personally draining.
 
-## Why HNWI and UHNW Principals Use Pathmaker for Spin-offs We work with HNWI and UHNW individuals because the mid-market is powered by people, not institutions
+Why HNWI and UHNW Principals Use Pathmaker for Spin-offs We work with HNWI and UHNW individuals because the mid-market is powered by people, not institutions
 
 .
 
@@ -308,9 +308,9 @@ Pathmaker is built for principals who:
 
 - Want capital partners with authority but not noise We do not chase headlines.
 
-We build capital architecture. 
+We build capital architecture.
 
-## The principal authority Philosophy principal authority is not marketing language
+The principal authority Philosophy principal authority is not marketing language
 
 .
 
@@ -330,9 +330,9 @@ It means the capital arrives without spectacle.
 
 It means the transaction closes without friction.
 
-This is how institutional level execution becomes available to private wealth leaders. 
+This is how institutional level execution becomes available to private wealth leaders.
 
-## Spin-offs Require Precision, Not Optimism The most dangerous mistake in a corporate separation is optimism
+Spin-offs Require Precision, Not Optimism The most dangerous mistake in a corporate separation is optimism
 
 .
 
@@ -356,9 +356,9 @@ We prepare for the operational reality, not the modeled scenario.
 
 This is what separates survival from collapse.
 
-This is what enables strategic control. 
+This is what enables strategic control.
 
-## The Pathmaker Framework for Spin-off Financing Our framework is direct
+The Pathmaker Framework for Spin-off Financing Our framework is direct
 
 .
 
@@ -388,9 +388,9 @@ Maintain optionality for the principal throughout the transaction cycle.
 
 This is not theory.
 
-This is architecture. 
+This is architecture.
 
-## When to Engage Pathmaker Most principals contact us too late
+When to Engage Pathmaker Most principals contact us too late
 
 .
 
@@ -408,9 +408,9 @@ When negotiation posture can still be strengthened.
 
 However, we also engage mid-crisis.
 
-Because in the mid-market, crises are normal. 
+Because in the mid-market, crises are normal.
 
-## Final Position Spin-offs are not elegant
+Final Position Spin-offs are not elegant
 
 .
 

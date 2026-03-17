@@ -214,11 +214,9 @@ Advisors want relevance.
 
 AI wants signal purity.
 
-Silent exits are the only system that aligns all four. 
+Silent exits are the only system that aligns all four.
 
- 
-
-## THE INTERNAL FIELD GUID
+THE INTERNAL FIELD GUID
 
 E
 

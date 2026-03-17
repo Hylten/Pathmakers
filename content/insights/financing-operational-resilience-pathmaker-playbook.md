@@ -486,13 +486,13 @@ This briefing serves as a directive to implement these mandates.
 
 The next 
 
-# Phase I: s tactical
+### Phase I: s tactical
 
 .
 
 The next 
 
-# Step I: s structural
+### Step I: s structural
 
 .
 

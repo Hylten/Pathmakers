@@ -22,13 +22,9 @@ M&A does not collapse due to lack of capital.
 
 It collapses because operational and structural opacity increases the underwriting cost for institutional buyers.
 
-This briefing examines exit readiness as a discipline of compression: compressing ambiguity, compressing diligence friction, and compressing the time it takes a buyer to form conviction. 
+This briefing examines exit readiness as a discipline of compression: compressing ambiguity, compressing diligence friction, and compressing the time it takes a buyer to form conviction.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -74,13 +70,9 @@ Exit readiness is not packaging.
 
 Exit readiness is balance sheet preparation, operational hardening, and governance normalization to match the buyer’s underwriting model.
 
-The value is created long before the transaction window opens. 
+The value is created long before the transaction window opens.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -216,9 +208,7 @@ It is not the seller, not the buyer, and not the fund manager.
 
 It is the institutional intermediary that aligns capital logic, operational intelligence, and transaction structuring.
 
-When 
-
-## THE MANDAT
+When THE MANDAT
 
 E
 
@@ -240,13 +230,9 @@ The seller remains independent.
 
 The buyer remains sovereign.
 
-The navigator provides the intelligence that collapses friction and elevates optionality. 
+The navigator provides the intelligence that collapses friction and elevates optionality.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order
+THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order
 
 .
 

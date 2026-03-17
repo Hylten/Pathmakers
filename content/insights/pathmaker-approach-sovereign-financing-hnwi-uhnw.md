@@ -12,13 +12,9 @@ The institutions did not withdraw due to risk escalation.
 
 They withdrew because the regulatory burden on traditional credit creation increased faster than balance sheet adaptability.
 
-The Pathmaker model exists to navigate this imbalance by constructing sovereign aligned capital corridors that reduce transaction latency at the portfolio company level. 
+The Pathmaker model exists to navigate this imbalance by constructing sovereign aligned capital corridors that reduce transaction latency at the portfolio company level.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ The Pathmaker framework is the velocity engine.
 
 It establishes acquisition readiness, exit optionality, and sovereign grade compliance infrastructure before any transaction is presented.
 
-This converts a historically reactive financing environment into a pre-optimised ecosystem where the allocation journey is defined before the capital enters. 
+This converts a historically reactive financing environment into a pre-optimised ecosystem where the allocation journey is defined before the capital enters.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -168,13 +160,9 @@ HNWI and UHNW portfolios benefit because transaction certainty increases, balanc
 
 The framework does not dictate outcome.
 
-It defines the corridor within which outcomes become achievable. 
+It defines the corridor within which outcomes become achievable.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the decisive differentiator in the Pathmaker approach
+THE STEWARDSHIP FILTER Stewardship is the decisive differentiator in the Pathmaker approach
 
 .
 

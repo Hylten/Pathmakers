@@ -10,13 +10,9 @@ The structural gap in 2026 M&A markets is driven by regulatory fragmentation and
 
 Institutional buyers continue to pursue strategic consolidation, but the operational friction at the point of transaction has increased.
 
-This shift creates a segmented market where prepared sellers transact rapidly at premium certainty multipliers, while unprepared companies experience stalled processes, extended diligence cycles, and valuation compression. 
+This shift creates a segmented market where prepared sellers transact rapidly at premium certainty multipliers, while unprepared companies experience stalled processes, extended diligence cycles, and valuation compression.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,7 @@ Formal processes have become structurally less efficient, creating a premium on:
 
 - Pre verified sellers with exit readiness discipline
 
-- Quiet mandates with minimal competitive distortion 
-
- 
-
- 
-
-## TECHNICAL MECHANIC
+- Quiet mandates with minimal competitive distortion TECHNICAL MECHANIC
 
 S
 
@@ -186,13 +176,9 @@ Where the briefing intersects with the North American energy vertical, NAEO is r
 
 Their expertise in reservoir verification, decline curve mapping, thermal recovery systems, and Alberta regulatory mechanics provide institutional clarity within that asset class.
 
-In M&A contexts outside the energy sector, Roials Capital maintains strict introducer neutrality while providing strategic calibration. 
+In M&A contexts outside the energy sector, Roials Capital maintains strict introducer neutrality while providing strategic calibration.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operations, and organizational structure without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operations, and organizational structure without waste
 
 .
 

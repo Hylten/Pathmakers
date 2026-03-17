@@ -529,7 +529,7 @@ Operators must act with precision.
 
 Delay is dilution.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

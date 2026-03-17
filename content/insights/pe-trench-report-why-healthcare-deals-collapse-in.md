@@ -38,9 +38,9 @@ What breaks.
 
 Why it breaks.
 
-And what must be hardened before a GP will take the asset to committee. 
+And what must be hardened before a GP will take the asset to committee.
 
-## The Structural Reality of 2026 Healthcare sits at the intersection of compliance volatility, wage compression, payer unpredictability, and digital fragmentation
+The Structural Reality of 2026 Healthcare sits at the intersection of compliance volatility, wage compression, payer unpredictability, and digital fragmentation
 
 .
 
@@ -61,9 +61,9 @@ Many founders think the tightening is cyclical.
 
 It is not cyclical.
 
-It is structural. 
+It is structural.
 
-## Why Deals Collapse
+Why Deals Collapse
 
 .
 
@@ -275,9 +275,9 @@ The lack of it shows up in:
 
 GPs do not want to steer a drifting vessel.
 
-They want an asset already moving with purpose. 
+They want an asset already moving with purpose.
 
-## Why These Failures Intensify in 2026 Three macro forces:
+Why These Failures Intensify in 2026 Three macro forces:
 
  
 
@@ -305,9 +305,9 @@ Institutions respond by raising standards.
 
 Mid-market founders respond by hoping the standards revert.
 
-They will not revert. 
+They will not revert.
 
-## Where Sellers Misread Buyers Founders think GPs want perfection
+Where Sellers Misread Buyers Founders think GPs want perfection
 
 .
 
@@ -323,9 +323,9 @@ The misunderstanding leads to:
 
 Buyers are not looking for charisma.
 
-They are looking for covenant stewardship. 
+They are looking for covenant stewardship.
 
-## The Pathmaker Lens: What Institutional Buyers Actually Want From the GP perspective, mid-market healthcare assets must exhibit
+The Pathmaker Lens: What Institutional Buyers Actually Want From the GP perspective, mid-market healthcare assets must exhibit
 
 :
 
@@ -349,9 +349,9 @@ This is exit readiness.
 
 This is the only path to institutional acquisition in 
 
-2026. 
+2026.
 
-## The Role of Tactical Intelligence Healthcare deals collapse when a founder steps into a negotiation without battlefield intelligence
+The Role of Tactical Intelligence Healthcare deals collapse when a founder steps into a negotiation without battlefield intelligence
 
 .
 
@@ -369,9 +369,9 @@ Tactical Intelligence prevents collapse by:
 
 This is not cosmetic.
 
-It is surgical. 
+It is surgical.
 
-## Six Mandates for Founders Preparing for a 2026 Exit Below are the Pathmaker mandates
+Six Mandates for Founders Preparing for a 2026 Exit Below are the Pathmaker mandates
 
 .
 
@@ -405,9 +405,9 @@ Produce a QofE architecture that can withstand aggressive institutional analysis
 
 These six mandates eliminate 
 
-90 percent of collapse risk. 
+90 percent of collapse risk.
 
-## Why Most Advisors Cannot Deliver This Level of Hardening Traditional advisors operate as service providers
+Why Most Advisors Cannot Deliver This Level of Hardening Traditional advisors operate as service providers
 
 .
 
@@ -421,9 +421,9 @@ This is Pathmaker’s domain: preparing assets for the scrutiny of GPs, private 
 
 Tactical Intelligence is not a back office service.
 
-It is a forward operating unit. 
+It is a forward operating unit.
 
-## For HNWI and UHNW Clients Many private investors participate in healthcare deals through co investment or direct acquisition
+For HNWI and UHNW Clients Many private investors participate in healthcare deals through co investment or direct acquisition
 
 .
 
@@ -439,9 +439,9 @@ Their risk profile is shaped by:
 
 HNWI and UHNW investors require institutional grade intelligence to avoid stepping into structural traps.
 
-Pathmaker provides that intelligence. 
+Pathmaker provides that intelligence.
 
-## The Liquidity Perspective Private credit remains active but selective
+The Liquidity Perspective Private credit remains active but selective
 
 .
 
@@ -463,9 +463,9 @@ Covenant failure leads to accelerated enforcement.
 
 Investors understand this.
 
-Operators often do not. 
+Operators often do not.
 
-## Why Founders Need Pre Diligence Pre diligence is not optional for healthcare transactions in
+Why Founders Need Pre Diligence Pre diligence is not optional for healthcare transactions in
 
  
 
@@ -483,9 +483,9 @@ Loss of trust collapses deals.
 
 Pathmaker’s pre diligence framework is engineered to expose every weakness before the buyer touches it.
 
-This prevents collapse. 
+This prevents collapse.
 
-## The Final Intelligence Layer: Execution Velocity Velocity distinguishes institutional grade assets from founder dependent operators
+The Final Intelligence Layer: Execution Velocity Velocity distinguishes institutional grade assets from founder dependent operators
 
 .
 
@@ -501,11 +501,9 @@ Velocity is the ability to:
 
 Execution velocity signals operational maturity.
 
-Operational maturity commands a premium. 
+Operational maturity commands a premium.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -523,9 +521,9 @@ Founders who cling to improvisation will not.
 
 The difference is structural.
 
-And structural differences decide outcomes. 
+And structural differences decide outcomes.
 
-## Strategic Continuation If you are preparing a healthcare asset for acquisition or evaluating one for investment, you require principal grade intelligence
+Strategic Continuation If you are preparing a healthcare asset for acquisition or evaluating one for investment, you require principal grade intelligence
 
 .
 

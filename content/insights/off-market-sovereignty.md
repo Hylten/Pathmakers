@@ -30,9 +30,7 @@ That is the truth the mid‑market now lives with.
 
 A truth most advisors avoid because acknowledging it would dismantle their own business model overnight.
 
-We begin. 
-
- ## ( 
+We begin. ( 
 
 # Phase I
 
@@ -370,9 +368,7 @@ Some do.
 
 The architecture determines the path.
 
-CLOSING 
-
-## ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted
+CLOSING ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted
 
 .
 

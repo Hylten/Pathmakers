@@ -14,15 +14,11 @@ The demand for strategic combinations remains stable.
 
 The constraint resides in the liquidity architecture that governs deal execution.
 
-Private credit has therefore migrated from a peripheral asset class to a central instrument for tactical Strategic Collateralization across the acquisition lifecycle.
+Private credit has therefore migrated from a peripheral asset class to a central instrument for tactical Strategic Collateralization across the acquisition lifecycle. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,15 +60,11 @@ Its relevance in mid market M and A is tied to its ability to provide reliable, 
 
 This function is not cyclical.
 
-It is structural.
+It is structural. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -196,9 +188,9 @@ Private credit structures in mid market M and A typically include:
 
 * Escrow alignment for integration related contingencies.
 
-The waterfall functions as a financial architecture that ensures acquisition stability during post close integration.
+The waterfall functions as a financial architecture that ensures acquisition stability during post close integration. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates in the role of strategic navigator and institutional introducer.
 
@@ -242,9 +234,9 @@ When aligned with specialized private credit partners, the entire acquisition cy
 
 This model does not replace lawyers, bankers, or consultants.
 
-It aligns them.
+It aligns them. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of coordinated resource management.
 
@@ -278,9 +270,9 @@ Mid market transactions often involve family enterprises transitioning leadershi
 
 Stewardship ensures continuity, not disruption.
 
-The aim is the preservation of legacy through strategic alignment.
+The aim is the preservation of legacy through strategic alignment. 
 
-# Phase V: .
+### Phase V: .
 
 THE
 

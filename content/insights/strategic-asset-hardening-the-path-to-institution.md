@@ -46,9 +46,9 @@ This document outlines the architecture required for that transition.
 
 The objective is simple.
 
-Institutional-grade valuation through disciplined asset hardening. 
+Institutional-grade valuation through disciplined asset hardening.
 
-## The Institutional Eye Before discussing tactics, one must understand the institutional lens
+The Institutional Eye Before discussing tactics, one must understand the institutional lens
 
 .
 
@@ -72,9 +72,9 @@ The result is a valuation discount and a punitive term sheet.
 
 Institutional readiness eliminates that discount.
 
-Asset hardening neutralizes uncertainty. 
+Asset hardening neutralizes uncertainty.
 
-## Asset Hardening Defined Asset hardening is the systematic removal of friction in the operating, financial, and governance architecture of a company
+Asset Hardening Defined Asset hardening is the systematic removal of friction in the operating, financial, and governance architecture of a company
 
 .
 
@@ -104,9 +104,9 @@ They read a business that can be governed rather than rescued.
 
 Asset hardening does not beautify a company.
 
-It clarifies it. 
+It clarifies it.
 
-## The Friction Map Every institution maintains an internal friction map
+The Friction Map Every institution maintains an internal friction map
 
 .
 
@@ -142,9 +142,9 @@ An acquirer does not buy survival.
 
 They buy command.
 
-Asset hardening is the shift from founder command to institutional command. 
+Asset hardening is the shift from founder command to institutional command.
 
-## Financial Architecture Financial clarity is the first battlefield
+Financial Architecture Financial clarity is the first battlefield
 
 .
 
@@ -172,9 +172,9 @@ Institutions require a single language.
 
 A hardened financial architecture eliminates interpretive risk.
 
-It converts a founder narrative into an institutional asset. 
+It converts a founder narrative into an institutional asset.
 
-## Operational Rhythm Institutions seek rhythm
+Operational Rhythm Institutions seek rhythm
 
 .
 
@@ -206,9 +206,9 @@ Institutions punish opacity.
 
 Operational rhythm is not productivity.
 
-It is predictability. 
+It is predictability.
 
-## Contractual Infrastructure Contracts must speak institutional language
+Contractual Infrastructure Contracts must speak institutional language
 
 .
 
@@ -232,9 +232,9 @@ It signals future cash flow stability.
 
 Institutions always price future friction.
 
-Contractual clarity eliminates that friction. 
+Contractual clarity eliminates that friction.
 
-## Leadership Alignment Founders often believe leadership alignment is cultural
+Leadership Alignment Founders often believe leadership alignment is cultural
 
 .
 
@@ -256,9 +256,9 @@ Leadership alignment decentralizes command.
 
 It converts a personality company into a transferable company.
 
-Transferability is valuation. 
+Transferability is valuation.
 
-## Reporting Intelligence Reporting intelligence is the final gate
+Reporting Intelligence Reporting intelligence is the final gate
 
 .
 
@@ -284,9 +284,9 @@ Institutions price these costs into the deal.
 
 Valuation decreases.
 
-Reporting intelligence creates valuation lift because it eliminates onboarding friction. 
+Reporting intelligence creates valuation lift because it eliminates onboarding friction.
 
-## Covenant Stewardship Covenant stewardship is the principle that a business is a trust
+Covenant Stewardship Covenant stewardship is the principle that a business is a trust
 
 .
 
@@ -318,9 +318,9 @@ It clarifies accountability.
 
 It signals stability.
 
-Institutions reward stability. 
+Institutions reward stability.
 
-## Execution Velocity Execution velocity is the ability to move an asset from mid-market disorder to institutional alignment without delay
+Execution Velocity Execution velocity is the ability to move an asset from mid-market disorder to institutional alignment without delay
 
 .
 
@@ -340,9 +340,9 @@ Execution velocity is the compression of time between:
 
 - presentation In the Pathmaker methodology, velocity is engineered through tactical intelligence sprints that remove friction sequentially, not simultaneously.
 
-The sequencing is part of the discipline. 
+The sequencing is part of the discipline.
 
-## The Strategic Ledger Mid-market owners must understand a simple rule
+The Strategic Ledger Mid-market owners must understand a simple rule
 
 .
 
@@ -364,9 +364,9 @@ Every element of your business will be assigned to one column or the other.
 
 Asset hardening moves items from uncertainty to confidence.
 
-Each transfer increases valuation. 
+Each transfer increases valuation.
 
-## Institutional Valuation Dynamics Institutional valuation is the sum of three factors
+Institutional Valuation Dynamics Institutional valuation is the sum of three factors
 
 .
 
@@ -388,9 +388,7 @@ Reduces integration cycles.
 
 Reduces risk.
 
-A reduced risk profile generates valuation lift. 
-
-## liquidity engineering Architecture for the Prepared Once an asset is hardened, high-grade liquidity becomes accessible
+A reduced risk profile generates valuation lift. liquidity engineering Architecture for the Prepared Once an asset is hardened, high-grade liquidity becomes accessible
 
 .
 
@@ -408,9 +406,9 @@ Liquidity follows structure.
 
 Structure follows readiness.
 
-Readiness follows asset hardening. 
+Readiness follows asset hardening.
 
-## The Pathmaker Doctrine The Pathmaker doctrine is built on three pillars
+The Pathmaker Doctrine The Pathmaker doctrine is built on three pillars
 
 .
 
@@ -430,9 +428,9 @@ It is the systematic removal of everything that obstructs valuation lift.
 
 Pathmaker does not decorate assets.
 
-Pathmaker weaponizes them. 
+Pathmaker weaponizes them.
 
-## The Threshold Every owner reaches a threshold where operational success is no longer sufficient
+The Threshold Every owner reaches a threshold where operational success is no longer sufficient
 
 .
 
@@ -470,7 +468,7 @@ They acquire discipline.
 
 They acquire companies that demonstrate covenant stewardship and structural alignment.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -478,9 +476,9 @@ E
 
 Harden the asset now.
 
-Control the valuation later. 
+Control the valuation later.
 
-## Final Directive You are operating in an era of rapid institutional consolidation
+Final Directive You are operating in an era of rapid institutional consolidation
 
 .
 

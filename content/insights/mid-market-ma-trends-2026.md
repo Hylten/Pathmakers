@@ -26,9 +26,9 @@ No sentiment.
 
 No fantasies about hero operators saving distressed assets.
 
-Just sober guidance for a market that is rewarding precision and punishing hopeful guessing. 
+Just sober guidance for a market that is rewarding precision and punishing hopeful guessing.
 
-## The Market Context for 2026 Mid-market M&A is stabilizing, but it is not soft
+The Market Context for 2026 Mid-market M&A is stabilizing, but it is not soft
 
 .
 
@@ -52,7 +52,7 @@ High complexity.
 
 High sensitivity to execution errors.
 
-## What Is Actually Moving in 2026
+What Is Actually Moving in 2026
 
  
 
@@ -74,9 +74,9 @@ No speculative business models.
 
 No burn rates.
 
-No heroics. 
+No heroics.
 
-## The Buyer Mindset in 2026 Buyers want clarity
+The Buyer Mindset in 2026 Buyers want clarity
 
 .
 
@@ -84,7 +84,7 @@ Sellers want credit.
 
 The negotiation is now a discussion about evidence, not storytelling.
 
-## Buyers Are Asking Different Questions The modern buyer is less interested in growth cases and more interested in operational risk compression
+Buyers Are Asking Different Questions The modern buyer is less interested in growth cases and more interested in operational risk compression
 
 .
 
@@ -104,7 +104,7 @@ They want to know:
 
 The shift is simple.
 
-Instead of looking for upside, buyers are pricing downside and only paying premiums when downside is limited. ## [Capital Structuring]([Roials Capital](https://roialscapital.com/)) Environment Debt is still available for quality assets.
+Instead of looking for upside, buyers are pricing downside and only paying premiums when downside is limited. [Capital Structuring]([Roials Capital](https://roialscapital.com/)) Environment Debt is still available for quality assets.
 
 But lenders are enforcing discipline that some sellers are not yet comfortable with.
 
@@ -118,9 +118,9 @@ This dynamic is producing a more pragmatic market.
 
 It is not constrained.
 
-It is selective. 
+It is selective.
 
-## The Seller Mindset in 2026 Sellers in the mid-market are still digesting the reality that 2021 valuations were an anomaly, not a benchmark
+The Seller Mindset in 2026 Sellers in the mid-market are still digesting the reality that 2021 valuations were an anomaly, not a benchmark
 
 .
 
@@ -140,7 +140,7 @@ They accept that buyers will not finance hope.
 
 The ones who do not close tend to anchor on “strategic value” without strategic assets to justify it.
 
-## Sellers Want Clean Narratives The most successful mid-market sellers bring a simple story to market
+Sellers Want Clean Narratives The most successful mid-market sellers bring a simple story to market
 
 .
 
@@ -154,9 +154,9 @@ The ones who do not close tend to anchor on “strategic value” without strate
 
 The story does not need to be beautiful.
 
-It needs to be clean. 
+It needs to be clean.
 
-## Trend 1: Healthcare Carve-Outs Are Dominating 2026 Healthcare carve-outs are the workhorses of the 2026 M&A cycle
+Trend 1: Healthcare Carve-Outs Are Dominating 2026 Healthcare carve-outs are the workhorses of the 2026 M&A cycle
 
 .
 
@@ -166,7 +166,7 @@ Not explosive.
 
 But deeply needed and structurally supported by demographic and regulatory realities.
 
-## Why Healthcare Carve-Outs Keep Winning Hospitals and major systems are still overloaded
+Why Healthcare Carve-Outs Keep Winning Hospitals and major systems are still overloaded
 
 .
 
@@ -188,7 +188,7 @@ As a result, they are divesting:
 
 - Aging IT and analytics teams that do not fit modern system strategy Buyers who understand the operational grit of healthcare, including credentialing cycles, payer mix shifts, and clinical staffing volatility, are closing deals at scale.
 
-## What Makes Healthcare Carve-Outs Attractive
+What Makes Healthcare Carve-Outs Attractive
 
  
 
@@ -206,7 +206,7 @@ Immediate operational improvements available in administrative workflows In 2026
 
 They are looking for predictable revenue and non-speculative operational improvements.
 
-## The Execution Risk Most Buyers Underestimate Healthcare carve-outs fail when buyers assume they can restructure staff and billing processes inside
+The Execution Risk Most Buyers Underestimate Healthcare carve-outs fail when buyers assume they can restructure staff and billing processes inside
 
  
 
@@ -227,9 +227,9 @@ In reality, the integration timeline is often closer to
 
 - Compliance review bottlenecks Veteran acquirers know this.
 
-New entrants tend to learn the hard way. 
+New entrants tend to learn the hard way.
 
-## Trend 2: Quality of Earnings Is Becoming a Defensive Tool, Not an Offensive One In 2026, Q of E is not just a box to check
+Trend 2: Quality of Earnings Is Becoming a Defensive Tool, Not an Offensive One In 2026, Q of E is not just a box to check
 
 .
 
@@ -241,7 +241,7 @@ Sellers use it to validate price.
 
 Lenders use it to justify leverage.
 
-## What Q of E Reports Look Like in 2026 Modern Q of E reports are deeper and more forensic
+What Q of E Reports Look Like in 2026 Modern Q of E reports are deeper and more forensic
 
 .
 
@@ -263,9 +263,9 @@ There is no tolerance for unexplained swings.
 
 Clean Q of E sells deals.
 
-Messy Q of E kills them. 
+Messy Q of E kills them.
 
-## Trend 3: Integration Planning Is Now Mandatory Pre-Close In the mid-market, integration used to be something you did after the champagne toast
+Trend 3: Integration Planning Is Now Mandatory Pre-Close In the mid-market, integration used to be something you did after the champagne toast
 
 .
 
@@ -273,7 +273,7 @@ Not anymore.
 
 Buyers and lenders now require a detailed integration plan before they release funds.
 
-## What Pre-Close Integration Looks Like in 2026 A modern integration plan includes
+What Pre-Close Integration Looks Like in 2026 A modern integration plan includes
 
 :
 
@@ -291,13 +291,13 @@ Buyers and lenders now require a detailed integration plan before they release f
 
 - Regulatory and compliance checkpoints This is especially true in healthcare carve-outs where IT systems, billing, and patient data migration are sensitive and delay prone.
 
-## Why This Shift Happened Too many deals failed in 2021 and 2022 because post-close integration was sloppy. 2026 buyers do not assume anything will go smoothly
+Why This Shift Happened Too many deals failed in 2021 and 2022 because post-close integration was sloppy. 2026 buyers do not assume anything will go smoothly
 
 .
 
-If it is not documented pre-close, they assume it will break post-close. 
+If it is not documented pre-close, they assume it will break post-close.
 
-## Trend 4: The Rise of Operational Due Diligence Financial diligence used to be enough
+Trend 4: The Rise of Operational Due Diligence Financial diligence used to be enough
 
 .
 
@@ -315,9 +315,7 @@ Operational due diligence is growing because mid-market companies often hide ris
 
 - Underinvested technology
 
-- Compliance shortcuts
-
-## Why Operators Matter More Than Ever Buyers want to know if the company can stand on its own without founders
+- Compliance shortcuts Why Operators Matter More Than Ever Buyers want to know if the company can stand on its own without founders
 
 .
 
@@ -325,11 +323,11 @@ If the answer is no, the discount is immediate.
 
 Strong second 
 
-# Layer M: anagement is now one of the biggest drivers of valuation
+### Layer M: anagement is now one of the biggest drivers of valuation
 
 .
 
-## Trend 5: Multiples Are Stable But Compressed Mid-market M&A multiples in 2026 are not dropping sharply, but they are not rebounding either
+Trend 5: Multiples Are Stable But Compressed Mid-market M&A multiples in 2026 are not dropping sharply, but they are not rebounding either
 
 .
 
@@ -339,7 +337,7 @@ A business with high visibility, low friction, and strong management can still c
 
 A business with any combination of risk factors sees a rapid compression.
 
-## The New Valuation Reality Buyers break risk into clear buckets
+The New Valuation Reality Buyers break risk into clear buckets
 
 .
 
@@ -355,9 +353,9 @@ A business with any combination of risk factors sees a rapid compression.
 
 - Integration friction The more risk buckets a business touches, the faster the valuation drops.
 
-This is the new normal. 
+This is the new normal.
 
-## What Sellers Must Do to Win in 2026 Sellers cannot rely on narrative
+What Sellers Must Do to Win in 2026 Sellers cannot rely on narrative
 
 .
 
@@ -367,7 +365,7 @@ They need a clean financial story.
 
 They need a defensible operational model.
 
-## Essential Seller Preparation High performing sellers in 2026 prepare in four ways.
+Essential Seller Preparation High performing sellers in 2026 prepare in four ways.
 
  
 
@@ -387,9 +385,9 @@ Document processes that live only in someone’s head
 
 Develop a transition plan that reduces buyer anxiety This is not conceptual.
 
-It is functional. 
+It is functional.
 
-## What Buyers Must Do to Win in 2026 Buyers who close consistently share two traits
+What Buyers Must Do to Win in 2026 Buyers who close consistently share two traits
 
 .
 
@@ -397,7 +395,7 @@ First, they are decisive.
 
 Second, they are disciplined.
 
-## Buyer Action Playbook To win in 2026, buyers must
+Buyer Action Playbook To win in 2026, buyers must
 
 :
 
@@ -413,9 +411,9 @@ Second, they are disciplined.
 
 - Price deals with a hard focus on friction Deals fail when buyers overestimate their ability to fix operational or cultural problems quickly.
 
-This is especially true in healthcare. 
+This is especially true in healthcare.
 
-## The Healthcare Carve-Out Opportunity Window Large healthcare systems are under pressure in 2026 due to costs, staffing shortages, and compliance requirements
+The Healthcare Carve-Out Opportunity Window Large healthcare systems are under pressure in 2026 due to costs, staffing shortages, and compliance requirements
 
 .
 
@@ -433,9 +431,7 @@ Specialty clinics with uneven profitability
 
 3.
 
-IT and analytics teams that can operate more efficiently outside the system
-
-## The Buyer Advantage Experienced healthcare buyers who know how to manage
+IT and analytics teams that can operate more efficiently outside the system The Buyer Advantage Experienced healthcare buyers who know how to manage
 
 :
 
@@ -451,9 +447,9 @@ IT and analytics teams that can operate more efficiently outside the system
 
 This window will not stay open forever.
 
-Once systems stabilize, the volume of carve-outs will decline. 
+Once systems stabilize, the volume of carve-outs will decline.
 
-## Execution Is the Ultimate Differentiator In 2026, the mid-market rewards execution, not optimism
+Execution Is the Ultimate Differentiator In 2026, the mid-market rewards execution, not optimism
 
 .
 
@@ -461,7 +457,7 @@ The winners are not the buyers who make the boldest pro formas.
 
 They are the buyers who integrate cleanly, stabilize quickly, and avoid operational shock.
 
-## What Execution Really Means Execution means
+What Execution Really Means Execution means
 
 :
 
@@ -477,9 +473,9 @@ They are the buyers who integrate cleanly, stabilize quickly, and avoid operatio
 
 - Zero surprises in customer churn Execution is not a pretty slide deck.
 
-It is friction reduction. 
+It is friction reduction.
 
-## Final Word Mid-market M&A in 2026 is not a growth story
+Final Word Mid-market M&A in 2026 is not a growth story
 
 .
 

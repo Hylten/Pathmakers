@@ -92,9 +92,9 @@ Liquidity creates the optionality that leads to superior multiples.
 
 This is the dark art: controlling perception by removing friction long before friction becomes a conversation.
 
-Below is how the Analyst Team frames the work. 
+Below is how the Analyst Team frames the work.
 
-## INTELLIGENCE POSITIONING Exit readiness is intelligence readiness
+INTELLIGENCE POSITIONING Exit readiness is intelligence readiness
 
 .
 
@@ -130,9 +130,9 @@ They eliminate diligence tension.
 
 They compress the buyer’s energy expenditure to near zero.
 
-Quiet assets trade at a premium. 
+Quiet assets trade at a premium.
 
-## THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit
+THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit
 
 .
 
@@ -166,9 +166,9 @@ Zero.
 
 Generals do not accept cracks in the armor.
 
-They reinforce pressure points until they become pressure multipliers. 
+They reinforce pressure points until they become pressure multipliers.
 
-## INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status
+INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status
 
 .
 
@@ -270,9 +270,9 @@ It is knowing who is hungry, who is restructuring, who is repositioning for Fund
 
 Deals are won in the shadows.
 
-Not at the table. 
+Not at the table.
 
-## DISMANTLING FRICTION Firms fail exits because friction compounds
+DISMANTLING FRICTION Firms fail exits because friction compounds
 
 :
 
@@ -316,9 +316,9 @@ Clean records speak louder than pitch decks.
 
 Firms that master friction removal achieve a psychological advantage: buyers feel comfortable moving fast.
 
-Speed becomes a valuation weapon. 
+Speed becomes a valuation weapon.
 
-## THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline
+THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline
 
 .
 
@@ -350,9 +350,9 @@ This is not optimization.
 
 It is militarized clarity.
 
-A General’s perspective is simple: win before the first meeting. 
+A General’s perspective is simple: win before the first meeting.
 
-## THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it
+THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it
 
 .
 
@@ -380,9 +380,9 @@ Scalable.
 
 Hardened.
 
-This is the realm where dark arts become visible. 
+This is the realm where dark arts become visible.
 
-## TACTICAL INTELLIGENCE FOR Fund-III ACQUIRERS Fund-III buyers think in patterns
+TACTICAL INTELLIGENCE FOR Fund-III ACQUIRERS Fund-III buyers think in patterns
 
 :
 
@@ -414,9 +414,9 @@ They prefer targets with:
 
 - backward‑tested financial statements
 
-- hardened audit trails Exit readiness is building these traits before diligence begins. 
+- hardened audit trails Exit readiness is building these traits before diligence begins.
 
-## THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance
+THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance
 
 .
 
@@ -448,9 +448,9 @@ A premium emerges.
 
 A General never negotiates from weakness.
 
-He constructs the battlefield so strength is the only visible option. 
+He constructs the battlefield so strength is the only visible option.
 
-## THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them
+THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them
 
 .
 
@@ -466,9 +466,9 @@ A buyer who feels rushed retreats.
 
 A buyer who feels clarity advances.
 
-The art lies in engineering those feelings through structural preparation. 
+The art lies in engineering those feelings through structural preparation.
 
-## THE BIBLICAL LAW OF LEGACY **Proverbs 13:22
+THE BIBLICAL LAW OF LEGACY **Proverbs 13:22
 
 * 
 
@@ -488,9 +488,9 @@ A precise exit compounds it.
 
 The work is not optional.
 
-It is mandate. 
+It is mandate.
 
-## FINAL IMPERATIVE Exit readiness is war architecture
+FINAL IMPERATIVE Exit readiness is war architecture
 
 .
 

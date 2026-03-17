@@ -52,7 +52,7 @@ Energy and infrastructure rotation.
 
 With NAEOCC energy infrastructure investment mandates accelerating across 2026, the Nordics represent one of the few environments where predictable permitting, resilient grid architecture, and engineering density allow megaproject capital to deploy with lower execution risk.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -60,13 +60,9 @@ E
 
 The Nordics are no longer a high quality niche.
 
-They are a strategic balancing mechanism in global capital allocation, a geography where reliability compounds returns and where disciplined operators can achieve multi cycle asset hardening. 
+They are a strategic balancing mechanism in global capital allocation, a geography where reliability compounds returns and where disciplined operators can achieve multi cycle asset hardening.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -322,13 +318,9 @@ It emerges from technical insight.
 
 Engineering fluency, regulatory literacy, treasury sophistication, and integration planning determine who captures multi cycle advantage.
 
-Operators who treat the Nordics as a simple sourcing geography or a low risk add on will fail to capture full value. 
+Operators who treat the Nordics as a simple sourcing geography or a low risk add on will fail to capture full value.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -338,7 +330,7 @@ The region is no longer a quiet corner of Europe suitable for occasional opportu
 
 It has become a central 
 
-# Axis I
+### Axis I
 
 n global private equity rotation, driven by governance stability, engineering density, and energy infrastructure adjacency.
 

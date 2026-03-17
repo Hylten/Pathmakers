@@ -22,15 +22,11 @@ This specific gap defines a category of strategic liquidity where the objective 
 
 The objective is friction removal, disentanglement, and balance sheet stabilization so that an asset can change hands without destroying enterprise continuity.
 
-This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers.
+This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,15 +58,11 @@ Deal compression Operationally intensive carve-outs, especially those crossing E
 
 Without liquidity engineering, otherwise qualified transactions fail to reach definitive agreement.
 
-This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition.
+This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -112,19 +104,19 @@ Without this, even fundamentally strong divisions can collapse during the first
 
 Cross-Border Compliance Synchronization Each jurisdiction introduces its own capital controls, tax leakage risks, and operational disclosure requirements.
 
-Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions.
+Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this landscape.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to act as lender or acquirer.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -158,9 +150,9 @@ Execution support for exit readiness Exit readiness is not about preparing a pit
 
 It is the systemic hardening of the division so that the buyer can assume operational command without destabilization.
 
-Roials Capital provides the architecture for this positioning.
+Roials Capital provides the architecture for this positioning. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
 
@@ -184,7 +176,7 @@ Stewardship within the Roials framework includes:
 
 - Transparent alignment between seller, liquidity provider, and acquirer 
 
-# Phase V: .
+### Phase V: .
 
 THE DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating carve-out liquidity or cross-border divestiture strategies benefit from a structured lens based on four core assessments.
 

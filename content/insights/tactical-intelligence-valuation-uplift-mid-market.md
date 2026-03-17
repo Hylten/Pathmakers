@@ -22,11 +22,9 @@ It is not effortless.
 
 It is engineered.
 
-And the founders who embrace this architecture consistently walk into the exit process with gravity, clarity, and leverage. ,-,.--,-.,--...-.. 
+And the founders who embrace this architecture consistently walk into the exit process with gravity, clarity, and leverage. ,-,.--,-.,--...-..
 
- 
-
-## We begin where most sellers never look: the design of the information surface itself
+We begin where most sellers never look: the design of the information surface itself
 
 .
 
@@ -42,13 +40,13 @@ Three domains consistently show the highest uplift effect:
 
 1.
 
-Operational Transparency
+Operational Transparency 
 
-# Layer II: .
+### Layer II: .
 
-Financial Coherence
+Financial Coherence 
 
-# Layer III: .
+### Layer III: .
 
 Forward Narrative Layer Together they form the exit readiness spine.
 
@@ -68,7 +66,7 @@ Control the valuation dynamic.
 
 But the execution requires disciplined architecture. ,-,-,.--,-,-.,-,-, Operational Transparency 
 
-# Layer M: achine‑gun clarity first: Buyers hate guessing
+### Layer M: achine‑gun clarity first: Buyers hate guessing
 
 .
 

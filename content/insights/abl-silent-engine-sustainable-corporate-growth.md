@@ -12,13 +12,9 @@ It is driven by the misalignment between traditional underwriting models and the
 
 Asset Based Lending has expanded because it relies on measurable asset integrity rather than sentiment-driven credit committees.
 
-This shift has redefined how mid-market companies secure working capital, absorb shocks, and prepare for M&A events without risking balance sheet fragility. 
+This shift has redefined how mid-market companies secure working capital, absorb shocks, and prepare for M&A events without risking balance sheet fragility.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ The mechanism is simple.
 
 Institutions align lending capacity to physical and financial asset integrity.
 
-This transforms dormant balance sheet items into liquidity engines. 
+This transforms dormant balance sheet items into liquidity engines.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -136,11 +128,9 @@ Predictability accumulates.
 
 Asset-Based Lending facilities, when properly structured, act as validation of internal control systems.
 
-They reduce friction in diligence and improve credibility during negotiation. 
+They reduce friction in diligence and improve credibility during negotiation.
 
- 
-
-## THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition
+THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition
 
 .
 

@@ -28,9 +28,9 @@ We do not romanticize turnarounds.
 
 We do not peddle inspirational narratives.
 
-We structure capital so the right operators can move with speed, silence, and confidence. 
+We structure capital so the right operators can move with speed, silence, and confidence.
 
-## The Pragmatic Landscape of Mid Market Financing Most mid market transactions suffer from the same recurring weaknesses
+The Pragmatic Landscape of Mid Market Financing Most mid market transactions suffer from the same recurring weaknesses
 
 .
 
@@ -58,9 +58,9 @@ This is our principal authority.
 
 We do not compete with institutions.
 
-We enable them to deploy confidently. 
+We enable them to deploy confidently.
 
-## Private Credit as a Tactical Instrument Private credit has matured into a powerful tool for mid market leaders, but only when deployed precisely
+Private Credit as a Tactical Instrument Private credit has matured into a powerful tool for mid market leaders, but only when deployed precisely
 
 .
 
@@ -90,9 +90,9 @@ It means keeping long horizon strategies intact while executing on near horizon 
 
 Private credit, when used correctly, is not an escape hatch.
 
-It is a multiplier. 
+It is a multiplier.
 
-## Asset Based Asset-Backed Frameworks That Reflects Operational Reality Asset Based Capital Structuring, or Asset-Based Lending, forms the backbone of many mid market transactions
+Asset Based Asset-Backed Frameworks That Reflects Operational Reality Asset Based Capital Structuring, or Asset-Based Lending, forms the backbone of many mid market transactions
 
 .
 
@@ -126,9 +126,9 @@ Asset-Based Lending should reflect the business as it is.
 
 Not the business as some static model wishes it were.
 
-That is the difference between transactional Asset-Backed Frameworks and precision financing. 
+That is the difference between transactional Asset-Backed Frameworks and precision financing.
 
-## Precision in Healthcare Carve Outs Healthcare carve outs are not abstract corporate maneuvers
+Precision in Healthcare Carve Outs Healthcare carve outs are not abstract corporate maneuvers
 
 .
 
@@ -164,9 +164,9 @@ Infrastructure modernization without compromising care delivery.
 
 This is not theoretical precision.
 
-It is precision that keeps doors open and revenue alive. 
+It is precision that keeps doors open and revenue alive.
 
-## High Net Worth and Ultra High Net Worth Liquidity Requirements HNWI and UHNW leaders approach financing differently from institutional operators
+High Net Worth and Ultra High Net Worth Liquidity Requirements HNWI and UHNW leaders approach financing differently from institutional operators
 
 .
 
@@ -202,9 +202,9 @@ This allows HNWI and UHNW operators to stay fully invested while still capturing
 
 Liquidity should never interrupt strategy.
 
-It should support it without forcing portfolio distortion. 
+It should support it without forcing portfolio distortion.
 
-## Crypto Institutional Liquidity Paths With Institutional Discipline Crypto Strategic Collateralization is often associated with retail volatility and speculative behavior
+Crypto Institutional Liquidity Paths With Institutional Discipline Crypto Strategic Collateralization is often associated with retail volatility and speculative behavior
 
 .
 
@@ -224,9 +224,9 @@ No noise, only structure.
 
 For clients with meaningful crypto positions, we create liquidity without triggering unnecessary tax events or exit timing risk.
 
-This is strategic liquidity, not opportunistic Capital Structuring. 
+This is strategic liquidity, not opportunistic Capital Structuring.
 
-## Public Share Monetization Architecture for Strategic Operators Public share Asset-Backed Frameworks remains misunderstood by most lenders
+Public Share Monetization Architecture for Strategic Operators Public share Asset-Backed Frameworks remains misunderstood by most lenders
 
 .
 
@@ -250,9 +250,7 @@ We maintain a minimum threshold of 5,000,
 
 000 to ensure alignment with the clients who can benefit from this level of engineering.
 
-We allow operators to unlock liquidity quietly, without reducing strategic exposure. 
-
-## principal authority, Not Visibility Pathmaker is not the loudest voice in the capital structure
+We allow operators to unlock liquidity quietly, without reducing strategic exposure. principal authority, Not Visibility Pathmaker is not the loudest voice in the capital structure
 
 .
 
@@ -276,9 +274,9 @@ They need a lender that understands the difference between complexity and chaos.
 
 One can be structured.
 
-The other appears only when structure is absent. 
+The other appears only when structure is absent.
 
-## Liquidity That Keeps Deals Alive Liquidity is not about access
+Liquidity That Keeps Deals Alive Liquidity is not about access
 
 .
 
@@ -296,9 +294,9 @@ Especially in healthcare carve outs where hours can change the trajectory of a t
 
 Pathmaker designs liquidity that respects operational timelines.
 
-Not lender timelines. 
+Not lender timelines.
 
-## A Better Model for Mid Market Leadership Mid market operators do not ask for simplicity
+A Better Model for Mid Market Leadership Mid market operators do not ask for simplicity
 
 .
 
@@ -316,9 +314,9 @@ Precision financing is not a buzzword.
 
 It is a necessity for operators who live in markets where one misstep destroys value permanently.
 
-Pathmaker delivers financing that is realistic, grounded, and built for the environments others avoid. 
+Pathmaker delivers financing that is realistic, grounded, and built for the environments others avoid.
 
-## The Pathmaker Difference We do not sell optimism
+The Pathmaker Difference We do not sell optimism
 
 .
 
@@ -338,9 +336,9 @@ Architects of capital motion in spaces where stability is rare.
 
 Operators who work with Pathmaker do not need to be convinced of the risks.
 
-They have already lived them. 
+They have already lived them.
 
-## Final Word Mid market leaders deserve financing that respects their realities
+Final Word Mid market leaders deserve financing that respects their realities
 
 .
 

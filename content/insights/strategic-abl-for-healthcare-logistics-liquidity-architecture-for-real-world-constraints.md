@@ -34,9 +34,9 @@ We provide Public Share Institutional Liquidity Paths with a minimum threshold o
 
 We operate with principal authority, giving our clients the mechanics institutional capital expects without unnecessary noise.
 
-This article breaks down how strategic Asset-Based Lending applies to healthcare logistics, the mistakes operators make, and how capital architecture reshapes outcomes. 
+This article breaks down how strategic Asset-Based Lending applies to healthcare logistics, the mistakes operators make, and how capital architecture reshapes outcomes.
 
-## The Structural Problems Operators Must Solve A healthcare logistics business typically faces three strategic constraints
+The Structural Problems Operators Must Solve A healthcare logistics business typically faces three strategic constraints
 
 .
 
@@ -54,9 +54,9 @@ When liquidity matches operational rhythm, margin pressure becomes manageable an
 
 The operators who survive are not the ones with the best fleet, warehouse design, or software.
 
-They are the ones with the most resilient capital architecture. 
+They are the ones with the most resilient capital architecture.
 
-## Strategic Asset-Based Lending for Carve Outs Carve outs in healthcare logistics are a specialized battlefield
+Strategic Asset-Based Lending for Carve Outs Carve outs in healthcare logistics are a specialized battlefield
 
 .
 
@@ -90,9 +90,9 @@ Asset-Based Lending provides the buffer.
 
 Private credit provides the structure.
 
-Principal level collateral provides the acceleration. 
+Principal level collateral provides the acceleration.
 
-## The Mechanics of principal authority principal authority means we do not replace operators
+The Mechanics of principal authority principal authority means we do not replace operators
 
 .
 
@@ -120,9 +120,9 @@ We are structural mechanics.
 
 The principals and operators maintain visibility.
 
-We ensure the architecture beneath them is engineered to withstand real pressure. 
+We ensure the architecture beneath them is engineered to withstand real pressure.
 
-## The Competitive Advantage of Liquidity Precision Healthcare logistics is becoming a consolidation market
+The Competitive Advantage of Liquidity Precision Healthcare logistics is becoming a consolidation market
 
 .
 
@@ -138,9 +138,9 @@ Precision means:
 
 This precision keeps operators acquisition ready, operationally stable, and strategically aggressive.
 
-Without it, they will spend the next decade reacting instead of leading. 
+Without it, they will spend the next decade reacting instead of leading.
 
-## Building a Liquidity Architecture Instead of a liquidity facility Package A liquidity facility package is a one time fix
+Building a Liquidity Architecture Instead of a liquidity facility Package A liquidity facility package is a one time fix
 
 .
 
@@ -160,9 +160,9 @@ For healthcare logistics operators, this is not optional.
 
 It is survival.
 
-For HNWI and UHNW owners, this is capital sophistication aligned with the real world instead of theoretical models. 
+For HNWI and UHNW owners, this is capital sophistication aligned with the real world instead of theoretical models.
 
-## Final Thought Healthcare logistics rewards discipline, not optimism
+Final Thought Healthcare logistics rewards discipline, not optimism
 
 .
 
@@ -172,7 +172,7 @@ Pathmaker builds the capital structures that allow operators and principals to m
 
 If you need to architect liquidity that can withstand the realities of healthcare logistics, carve outs, and mid market consolidation, the next 
 
-# Step I: s simple
+### Step I: s simple
 
 .
 

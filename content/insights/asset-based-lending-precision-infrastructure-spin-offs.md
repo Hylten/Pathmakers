@@ -10,15 +10,11 @@ The capital vacuum in North American and European industrial markets is a functi
 
 This structural gap determines how mid market infrastructure operators migrate toward asset centric financing to stabilize working capital, prepare divisional carve outs, and position non correlated units for institutional acquisition.
 
-In a tight credit cycle, precision infrastructure entities are forced to transition from balance sheet dependency to asset centric capital architectures that reduce financing latency and protect operational continuity.
+In a tight credit cycle, precision infrastructure entities are forced to transition from balance sheet dependency to asset centric capital architectures that reduce financing latency and protect operational continuity. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -46,15 +42,11 @@ Divisions that previously operated as internal cost centers now represent isolat
 
 Mid market operators face increasing pressure to extract these units, assign standalone capital structures, and convert them into spin offs with institutionally acceptable collateral profiles.
 
-This is the origin point for asset based lending in the current cycle.
+This is the origin point for asset based lending in the current cycle. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -116,9 +108,9 @@ A properly structured Asset-Based Lending removes historical entanglements by es
 
 - Cash flow cycles calibrated to match acquisition financing models.
 
-ABLs reduce M and A friction because the target arrives pre organized for institutional underwriting.
+ABLs reduce M and A friction because the target arrives pre organized for institutional underwriting. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator in this environment.
 
@@ -126,7 +118,7 @@ The work is not transactional.
 
 It is structural.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -138,9 +130,9 @@ Asset based lending is not introduced as financing but as an architectural reali
 
 In high complexity cases, Roials Capital introduces asset oriented private credit groups, specialty valuation partners, and collateral management operators capable of executing on the structural requirements of the spin off.
 
-Where energy intersects with infrastructure, our strategic partner NAEO provides operational intelligence relating to field deployment, asset maintenance sequencing, and lifecycle cost analysis that ensures asset pools demonstrate institutional durability.
+Where energy intersects with infrastructure, our strategic partner NAEO provides operational intelligence relating to field deployment, asset maintenance sequencing, and lifecycle cost analysis that ensures asset pools demonstrate institutional durability. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -162,9 +154,9 @@ Divisions must be managed in alignment with their natural purpose, and capital s
 
 This filter rejects extractive short term financing.
 
-It prioritizes capital structures that preserve operational integrity while enabling strategic evolution.
+It prioritizes capital structures that preserve operational integrity while enabling strategic evolution. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS For allocators, executives, and operators, the governing question is structural alignment.
 

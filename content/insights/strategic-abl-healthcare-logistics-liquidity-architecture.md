@@ -14,13 +14,9 @@ The capital vacuum forming inside this subsector reflects a divergence between o
 
 The cycle is clear: high predictability of receivables, high repeatability of contracted flows, and low standardization of lender underwriting.
 
-This misalignment is not cyclical economics but institutional calibration drift. 
+This misalignment is not cyclical economics but institutional calibration drift.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ Liquidity is no longer a treasury accessory.
 
 It is an operational instrument that directly controls acquisition timing, procurement continuity, and regulatory fulfillment risk.
 
-Healthcare logistics platforms that fail to engineer liquidity become non participants in off market M&A despite having strong underlying cash flow quality. 
+Healthcare logistics platforms that fail to engineer liquidity become non participants in off market M&A despite having strong underlying cash flow quality.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -130,7 +122,7 @@ It removes friction from the diligence timeline.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lending entity.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -156,13 +148,9 @@ For mid market operators preparing for acquisition, the
 
 The goal is to understand collateral physics, throughput patterns, regulatory dependencies, and the cadence of receivable conversions.
 
-This intelligence informs the selection of institutional credit partners who match the operator's liquidity geometry. 
+This intelligence informs the selection of institutional credit partners who match the operator's liquidity geometry.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission
+THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission
 
 .
 

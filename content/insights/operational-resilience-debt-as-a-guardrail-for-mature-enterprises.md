@@ -38,9 +38,9 @@ Optionality protects enterprise value.
 
 And in a market shaped by institutional capital and private credit expansion, those who understand this operate with quiet advantage.
 
-Those who do not get introduced to entropy. 
+Those who do not get introduced to entropy.
 
-## The Mid Market Reality: No Romance, Only Mechanics Pathmaker works with operators who understand that there is no romance in a turnaround
+The Mid Market Reality: No Romance, Only Mechanics Pathmaker works with operators who understand that there is no romance in a turnaround
 
 .
 
@@ -68,9 +68,9 @@ These are mechanics.
 
 Not stories.
 
-Not speeches. 
+Not speeches.
 
-## Healthcare Carve Outs: Where Liquidity Dictates Survivability No vertical exposes operational fragility more reliably than healthcare
+Healthcare Carve Outs: Where Liquidity Dictates Survivability No vertical exposes operational fragility more reliably than healthcare
 
 .
 
@@ -108,9 +108,9 @@ Pathmaker solves this with institutional grade private credit structures that br
 
 Not to inflate valuation.
 
-But to protect it. 
+But to protect it.
 
-## Private Credit as a Stabilizing Force Institutional capital does not favor chaos
+Private Credit as a Stabilizing Force Institutional capital does not favor chaos
 
 .
 
@@ -136,9 +136,9 @@ It reinforces strategic transitions, especially in acquisitions and carve outs, 
 
 180 days are structurally dangerous.
 
-When designed properly, private credit eliminates fragility before it manifests. 
+When designed properly, private credit eliminates fragility before it manifests.
 
-## The Role of Asset Based Monetization Architecture in Operational Resilience Asset based Monetization Architecture avoids abstraction
+The Role of Asset Based Monetization Architecture in Operational Resilience Asset based Monetization Architecture avoids abstraction
 
 .
 
@@ -174,9 +174,9 @@ We build liquidity from assets that enterprises overlook.
 
 We treat the balance sheet as a tool.
 
-Never as a museum. 
+Never as a museum.
 
-## Public Share Strategic Collateralization and Crypto Capital Structuring for UHNW Liquidity Events High net worth and ultra high net worth individuals face a different challenge
+Public Share Strategic Collateralization and Crypto Capital Structuring for UHNW Liquidity Events High net worth and ultra high net worth individuals face a different challenge
 
 .
 
@@ -204,9 +204,9 @@ They convert static holdings into strategic ammunition.
 
 This is operational resilience at the personal balance sheet level.
 
-And it feeds directly back into enterprise resilience. 
+And it feeds directly back into enterprise resilience.
 
-## Mature Enterprises Need Guardrails, Not Optimism Optimism is not a strategy
+Mature Enterprises Need Guardrails, Not Optimism Optimism is not a strategy
 
 .
 
@@ -232,9 +232,9 @@ Liquidity lines that prevent cognitive overload during stress cycles.
 
 Pathmaker does not elevate drama.
 
-We eliminate it. 
+We eliminate it.
 
-## Institutional Capital Rewards Prepared Operators The market has shifted
+Institutional Capital Rewards Prepared Operators The market has shifted
 
 .
 
@@ -250,9 +250,9 @@ Mature enterprises capable of absorbing shocks receive preferential treatment.
 
 Those who operate without guardrails get sidelined. they lack stability.
 
-Pathmaker exists to give them that stability. 
+Pathmaker exists to give them that stability.
 
-## The principal authority Position Pathmaker maintains a simple posture
+The principal authority Position Pathmaker maintains a simple posture
 
 .
 
@@ -278,9 +278,9 @@ Our clients do not need fanfare.
 
 They need architecture.
 
-And architecture is what we deliver. 
+And architecture is what we deliver.
 
-## The Strategic Imperative Operational resilience has become the new creditworthiness
+The Strategic Imperative Operational resilience has become the new creditworthiness
 
 .
 

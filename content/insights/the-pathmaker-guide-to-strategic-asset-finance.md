@@ -20,9 +20,9 @@ We serve HNWI and UHNW principals who are navigating carve outs, recapitalizatio
 
 We do not sell inspiration.
 
-We engineer liquidity. 
+We engineer liquidity.
 
-## The New Landscape of Asset Based Finance for Principals Who Already Know the Terrain The modern private credit environment is not for newcomers
+The New Landscape of Asset Based Finance for Principals Who Already Know the Terrain The modern private credit environment is not for newcomers
 
 .
 
@@ -38,9 +38,9 @@ We focus on the structural load bearing elements of asset based Capital Structur
 
 There is no glamour in this work.
 
-Only leverage, collateral, and precision. 
+Only leverage, collateral, and precision.
 
-## What Strategic Asset Finance Means in Real Practice Asset based Asset-Backed Frameworks is simple in theory
+What Strategic Asset Finance Means in Real Practice Asset based Asset-Backed Frameworks is simple in theory
 
 .
 
@@ -70,9 +70,9 @@ Capital must be engineered to move quietly.
 
 Most deals fail because liquidity is reactive.
 
-We make it proactive. 
+We make it proactive.
 
-## The Pathmaker Private Credit Philosophy Private credit is no longer fringe
+The Pathmaker Private Credit Philosophy Private credit is no longer fringe
 
 .
 
@@ -94,9 +94,9 @@ It creates mobility without undermining long term strategy.
 
 This is what sophisticated buyers understand.
 
-Leverage is not risk, lack of liquidity is risk. 
+Leverage is not risk, lack of liquidity is risk.
 
-## The Role of Asset Based Monetization Architecture in Mid Market Mergers and Acquisitions Mid market M&A is driven by speed
+The Role of Asset Based Monetization Architecture in Mid Market Mergers and Acquisitions Mid market M&A is driven by speed
 
 .
 
@@ -122,9 +122,9 @@ We rebuild the collateral story until the Strategic Collateralization value is c
 
 This is where principal authority matters.
 
-We never need to shout to prove the structure is sound. 
+We never need to shout to prove the structure is sound.
 
-## Crypto Institutional Liquidity Paths: Institutional Structure for Digital Wealth Crypto wealth is real capital
+Crypto Institutional Liquidity Paths: Institutional Structure for Digital Wealth Crypto wealth is real capital
 
 .
 
@@ -150,9 +150,9 @@ When those conditions are met, liquidity becomes immediate and reliable.
 
 That is the difference between a crypto enthusiast and a crypto strategist.
 
-We only serve the latter. 
+We only serve the latter.
 
-## Public Share Asset-Backed Frameworks: Structured Liquidity for Market Exposed Wealth Public equity positions often sit idle because selling them creates tax consequences or disrupts a long term strategy
+Public Share Asset-Backed Frameworks: Structured Liquidity for Market Exposed Wealth Public equity positions often sit idle because selling them creates tax consequences or disrupts a long term strategy
 
 .
 
@@ -174,9 +174,9 @@ No noise.
 
 No overcomplication.
 
-Just structured liquidity backed by institutional grade mechanics. 
+Just structured liquidity backed by institutional grade mechanics.
 
-## Why HNWI and UHNW Principals Choose Pathmaker The affluent do not choose lenders based on marketing
+Why HNWI and UHNW Principals Choose Pathmaker The affluent do not choose lenders based on marketing
 
 .
 
@@ -208,9 +208,9 @@ We operate behind the scenes to ensure liquidity is never the limiting factor fo
 
 This is the heart of principal authority.
 
-The structure speaks for itself. 
+The structure speaks for itself.
 
-## How Pathmaker Supports Carve Outs and Complex Transactions Healthcare carve outs are notorious for broken data, fragmented assets, and emotional sellers
+How Pathmaker Supports Carve Outs and Complex Transactions Healthcare carve outs are notorious for broken data, fragmented assets, and emotional sellers
 
 .
 
@@ -238,13 +238,13 @@ Transaction pacing.
 
 Each 
 
-# Step I: s vital
+### Step I: s vital
 
 .
 
 Each 
 
-# Step D
+### Step D
 
 etermines whether the deal survives diligence or collapses under its own weight.
 
@@ -258,9 +258,9 @@ It is never clean.
 
 It is always high pressure.
 
-The winners are the ones who can maintain liquidity discipline long enough to cross the finish line. 
+The winners are the ones who can maintain liquidity discipline long enough to cross the finish line.
 
-## Liquidity as a Strategic Weapon Liquidity is not an emergency resource
+Liquidity as a Strategic Weapon Liquidity is not an emergency resource
 
 .
 
@@ -292,9 +292,9 @@ This is the difference between reacting to opportunity and engineering opportuni
 
 Experienced principals know the difference.
 
-They come to us because they are tired of working with lenders who promise speed but cannot deliver structural readiness. 
+They come to us because they are tired of working with lenders who promise speed but cannot deliver structural readiness.
 
-## The Psychology of Serious Capital Sophisticated clients do not need hype
+The Psychology of Serious Capital Sophisticated clients do not need hype
 
 .
 
@@ -320,9 +320,9 @@ Clients come to us because they recognize discipline.
 
 They see that we are not trying to impress.
 
-We are building something that lasts. 
+We are building something that lasts.
 
-## The Future of Strategic Asset Finance for Principals Who Move Quietly The next decade of private credit and Asset-Based Lending will belong to firms that understand structural liquidity, collateral discipline, and silent execution
+The Future of Strategic Asset Finance for Principals Who Move Quietly The next decade of private credit and Asset-Based Lending will belong to firms that understand structural liquidity, collateral discipline, and silent execution
 
 .
 
@@ -344,9 +344,9 @@ They need liquidity that speaks in quiet authority.
 
 That is the future.
 
-And we are building it now. 
+And we are building it now.
 
-## Book a Strategic Consultation If you operate at the HNWI or UHNW level and require institutional grade liquidity, strategic asset based Strategic Collateralization, or private credit leverage, Pathmaker is prepared to assist
+Book a Strategic Consultation If you operate at the HNWI or UHNW level and require institutional grade liquidity, strategic asset based Strategic Collateralization, or private credit leverage, Pathmaker is prepared to assist
 
 .
 

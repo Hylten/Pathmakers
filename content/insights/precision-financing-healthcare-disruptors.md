@@ -16,15 +16,11 @@ This briefing outlines the technical architecture used by institutional operator
 
 The objective is not deal promotion.
 
-It is strategic orientation for allocators who require a neutral, system level view of how high intent healthcare platforms are positioned for strategic liquidity events when their balance sheets are engineered correctly.
+It is strategic orientation for allocators who require a neutral, system level view of how high intent healthcare platforms are positioned for strategic liquidity events when their balance sheets are engineered correctly. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,15 +60,11 @@ THE REGIME SHIFT
 
 The operators who understand Capital Structuring, treasury discipline, and exit readiness attract premium valuations.
 
-Everyone else competes on labor price and operational fatigue.
+Everyone else competes on labor price and operational fatigue. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -142,9 +134,9 @@ Precision financing supports this through:
 
 80 percent.
 
-These mechanics create an operator profile that is attractive to institutional buyers and defensible under audit conditions.
+These mechanics create an operator profile that is attractive to institutional buyers and defensible under audit conditions. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator for allocators and operators requiring neutrality across the financing ecosystem.
 
@@ -176,9 +168,9 @@ Market Navigation Off market deal origination is a function of reputation, not s
 
 Operators with discipline in their financial presentation, acquisition frameworks, and integration capacity receive access to higher quality opportunities.
 
-Roials Capital functions as a market filter by identifying operators that demonstrate readiness for institutional buyers but are not yet visible in conventional pipelines.
+Roials Capital functions as a market filter by identifying operators that demonstrate readiness for institutional buyers but are not yet visible in conventional pipelines. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship inside healthcare financing is centered on resource conservation, long term operational stability, and ethical deployment of capital.
 
@@ -212,9 +204,9 @@ Stewardship filters out deals that raise revenue but degrade operational or fina
 
 Growth must align with load bearing capacity.
 
-Institutional buyers value this discipline, and valuation multiples reflect it.
+Institutional buyers value this discipline, and valuation multiples reflect it. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR ALLOCATORS Institutional allocators assessing healthcare platforms in this regime should use a calibrated framework. 
 

@@ -20,9 +20,9 @@ It delivers certainty, collateral clarity, and execution speed in an environment
 
 For High Net Worth and Ultra High Net Worth buyers, the question is not whether Asset-Based Lending fits into healthcare carve-outs.
 
-The question is whether anything else does. 
+The question is whether anything else does.
 
-## The Overlooked Advantage: Reimbursement Cycles as Collateral Engines Healthcare receivables confuse lenders who are not fluent in reimbursement mechanics
+The Overlooked Advantage: Reimbursement Cycles as Collateral Engines Healthcare receivables confuse lenders who are not fluent in reimbursement mechanics
 
 .
 
@@ -40,9 +40,9 @@ The asset is not the receivable on paper.
 
 The asset is the payer’s probability of settlement.
 
-This transforms healthcare receivables into a predictable liquidity engine, something carve-out buyers typically underestimate until they face month one payroll pressure. 
+This transforms healthcare receivables into a predictable liquidity engine, something carve-out buyers typically underestimate until they face month one payroll pressure.
 
-## When Private Credit Alone Is Not Enough Private credit is still critical, but in carve-outs it often cannot be the lead instrument
+When Private Credit Alone Is Not Enough Private credit is still critical, but in carve-outs it often cannot be the lead instrument
 
 .
 
@@ -62,9 +62,9 @@ It keeps private credit in its proper role, as strategic leverage rather than em
 
 This is why Pathmaker lends across both arenas.
 
-We create a dual structure so investors can push forward with cleaner execution and fewer capital‑related bottlenecks. 
+We create a dual structure so investors can push forward with cleaner execution and fewer capital‑related bottlenecks.
 
-## Why HNWI and UHNW Investors Increasingly Prefer Asset-Based Lending Structures Ultra‑affluent investors have learned that healthcare carve-outs can produce outsized returns, but only when liquidity constraints are removed
+Why HNWI and UHNW Investors Increasingly Prefer Asset-Based Lending Structures Ultra‑affluent investors have learned that healthcare carve-outs can produce outsized returns, but only when liquidity constraints are removed
 
 .
 
@@ -80,9 +80,7 @@ Faster underwriting.
 
 Resistance to operational noise.
 
-These qualities appeal to private investors who want control without exposing themselves to raw cashflow risk. 
-
-## principal authority in a Sector Full of Noise Healthcare carve-outs attract loud operators
+These qualities appeal to private investors who want control without exposing themselves to raw cashflow risk. principal authority in a Sector Full of Noise Healthcare carve-outs attract loud operators
 
 .
 
@@ -96,9 +94,9 @@ We engineer liquidity mechanics that institutional capital depends on.
 
 We do not need credit for the transaction’s narrative.
 
-We simply ensure the deal survives long enough for the narrative to matter. 
+We simply ensure the deal survives long enough for the narrative to matter.
 
-## Case Dynamics: What Asset-Based Lending Solves in Real Transactions Asset-Based Lending stabilizes the following carve-out conditions: Vendor payment backlogs that threaten service delivery
+Case Dynamics: What Asset-Based Lending Solves in Real Transactions Asset-Based Lending stabilizes the following carve-out conditions: Vendor payment backlogs that threaten service delivery
 
 .
 
@@ -114,9 +112,9 @@ Without Asset-Based Lending, the buyer must carry these burdens with equity or p
 
 That creates unnecessary dilution or elevated cost of capital.
 
-With Asset-Based Lending, liquidity is mapped to collateral and released on schedule. 
+With Asset-Based Lending, liquidity is mapped to collateral and released on schedule.
 
-## The Capital Stack That Wins Mid-Market Healthcare A functional carve-out capital stack generally includes: An asset based Asset-Backed Frameworks facility tied to receivables
+The Capital Stack That Wins Mid-Market Healthcare A functional carve-out capital stack generally includes: An asset based Asset-Backed Frameworks facility tied to receivables
 
 .
 
@@ -134,9 +132,9 @@ Crypto collateral:
 Public stock Strategic Collateralization: 
 5 million minimum.
 
-We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility. 
+We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility.
 
-## The Misconception: Asset-Based Lending Is Not Only for Distressed Deals Many mid‑market buyers believe Asset-Based Lending signals distress
+The Misconception: Asset-Based Lending Is Not Only for Distressed Deals Many mid‑market buyers believe Asset-Based Lending signals distress
 
 .
 
@@ -146,9 +144,9 @@ Asset-Based Lending is simply the most operationally accurate tool, the one that
 
 It is a stabilizer, not a distress lever.
 
-It is how professional buyers maintain liquidity discipline without compromising execution. 
+It is how professional buyers maintain liquidity discipline without compromising execution.
 
-## Asset-Based Lending as a Strategic Defense Mechanism Healthcare carve-outs fail when liquidity evaporates during transition
+Asset-Based Lending as a Strategic Defense Mechanism Healthcare carve-outs fail when liquidity evaporates during transition
 
 .
 
@@ -164,9 +162,9 @@ It is not designed to fix a broken operation.
 
 It is designed to give buyers enough runway to fix it themselves.
 
-That is the pragmatic reality of healthcare carve-outs, and it is a reality Pathmaker structures around every day. 
+That is the pragmatic reality of healthcare carve-outs, and it is a reality Pathmaker structures around every day.
 
-## Where Pathmaker Fits Pathmaker serves HNWI and UHNW investors who require structural certainty, fast execution, and capital strategies that withstand the turbulence of healthcare carve-outs
+Where Pathmaker Fits Pathmaker serves HNWI and UHNW investors who require structural certainty, fast execution, and capital strategies that withstand the turbulence of healthcare carve-outs
 
 .
 
@@ -176,9 +174,9 @@ We lend using asset based Strategic Collateralization.
 
 We structure collateralized solutions for crypto and public equities at institutional thresholds.
 
-We operate quietly, as the structural authority behind the scenes, delivering liquidity mechanics that allow investors to move with institutional force. 
+We operate quietly, as the structural authority behind the scenes, delivering liquidity mechanics that allow investors to move with institutional force.
 
-## The Real Lesson: Liquidity Determines Survivors In healthcare carve-outs, operational excellence matters
+The Real Lesson: Liquidity Determines Survivors In healthcare carve-outs, operational excellence matters
 
 .
 
@@ -188,9 +186,9 @@ If capital collapses early, the operation never reaches the stage where improvem
 
 Asset-Based Lending is the difference between investors who endure the transition period and those who are buried by it.
 
-It is the only structure that consistently holds under mid‑market healthcare volatility. 
+It is the only structure that consistently holds under mid‑market healthcare volatility.
 
-## Final Thought Healthcare carve-outs reward disciplined operators who understand that capital architecture is not an afterthought
+Final Thought Healthcare carve-outs reward disciplined operators who understand that capital architecture is not an afterthought
 
 .
 

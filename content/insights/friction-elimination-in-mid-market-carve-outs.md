@@ -312,7 +312,7 @@ It is the architecture of trust.
 
 - ## M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
-## Zone One: Information Friction When buyers cannot see the truth
+Zone One: Information Friction When buyers cannot see the truth
 
 .
 
@@ -322,7 +322,7 @@ When structures shift under scrutiny.
 
 Information friction kills transaction momentum.
 
-## Zone Two: Decision Friction When leadership hesitates
+Zone Two: Decision Friction When leadership hesitates
 
 .
 
@@ -332,7 +332,7 @@ When no single voice carries authority.
 
 Decision friction signals weakness.
 
-## Zone Three: Covenant Friction When stewardship is compromised
+Zone Three: Covenant Friction When stewardship is compromised
 
 .
 

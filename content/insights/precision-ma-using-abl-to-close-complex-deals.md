@@ -36,9 +36,9 @@ And we do it while maintaining principal authority.
 
 No spotlight.
 
-Only results. 
+Only results.
 
-## Why Asset-Based Lending Matters in Real M&A, Not the Textbook Version Mid market M&A works in inches, not theoretical diagrams
+Why Asset-Based Lending Matters in Real M&A, Not the Textbook Version Mid market M&A works in inches, not theoretical diagrams
 
 .
 
@@ -60,9 +60,9 @@ Inventory, receivables, equipment, and contractual revenue streams can be moneti
 
 When structured correctly, Asset-Based Lending becomes a bridge.
 
-Not a temporary patch, but a tactical alignment between acquisition timing and operational stability. 
+Not a temporary patch, but a tactical alignment between acquisition timing and operational stability.
 
-## The Mid Market Problem: Complexity Without Institutional Memory Small deals are simple
+The Mid Market Problem: Complexity Without Institutional Memory Small deals are simple
 
 .
 
@@ -92,9 +92,9 @@ We know how to underwrite imperfect, transitional periods without romanticizing 
 
 No heroic narratives.
 
-Only measurable collateral and disciplined structure. 
+Only measurable collateral and disciplined structure.
 
-## Precision Carve Outs, Backed by Collateral Logic In a healthcare carve out, Asset-Based Lending does one crucial job
+Precision Carve Outs, Backed by Collateral Logic In a healthcare carve out, Asset-Based Lending does one crucial job
 
 .
 
@@ -118,9 +118,9 @@ It buys time.
 
 It buys control.
 
-It buys strategic optionality. 
+It buys strategic optionality.
 
-## What Makes Asset-Based Lending Effective in Complex M&A Precision Asset-Based Lending is not about maximum leverage
+What Makes Asset-Based Lending Effective in Complex M&A Precision Asset-Based Lending is not about maximum leverage
 
 .
 
@@ -160,9 +160,9 @@ Strategic buyer.
 
 Asset sale.
 
-The exit is always designed from day one. 
+The exit is always designed from day one.
 
-## Pathmaker’s Structural Role in the Capital Stack Pathmaker operates in a narrow but strategic lane
+Pathmaker’s Structural Role in the Capital Stack Pathmaker operates in a narrow but strategic lane
 
 .
 
@@ -188,9 +188,9 @@ We provide capital without requiring visibility.
 
 principal authority means that while our structures support the deal, the operator maintains the narrative.
 
-We focus on mechanics, not presentation. 
+We focus on mechanics, not presentation.
 
-## Precision M&A Case Logic: How Asset-Based Lending Closes Deals Others Cannot Every operator eventually meets a transaction that should close but cannot
+Precision M&A Case Logic: How Asset-Based Lending Closes Deals Others Cannot Every operator eventually meets a transaction that should close but cannot
 
 .
 
@@ -204,7 +204,7 @@ Asset-Based Lending solves friction.
 
 Here is how that plays out in practice.
 
-## Scenario 1: The seller wants a clean exit, but the business needs immediate stabilization An operator identifies a distressed division inside a larger healthcare system
+Scenario 1: The seller wants a clean exit, but the business needs immediate stabilization An operator identifies a distressed division inside a larger healthcare system
 
 .
 
@@ -226,7 +226,7 @@ This provides the liquidity to stabilize operations during the immediate post cl
 
 The deal closes, not because it is beautiful, but because the capital structure absorbs its complexity.
 
-## Scenario 2: The buyer has adequate equity but refuses to compromise liquidity HNWI and UHNW buyers understand that liquidity is strategy
+Scenario 2: The buyer has adequate equity but refuses to compromise liquidity HNWI and UHNW buyers understand that liquidity is strategy
 
 .
 
@@ -238,7 +238,7 @@ The structure preserves their ability to move quickly on subsequent opportunitie
 
 It also prevents concentration risk that private investors often underestimate.
 
-## Scenario 3: The carve out requires parallel integration and disengagement In a carve out, two timelines run simultaneously
+Scenario 3: The carve out requires parallel integration and disengagement In a carve out, two timelines run simultaneously
 
 .
 
@@ -256,9 +256,9 @@ Compliance frameworks.
 
 Asset-Based Lending provides liquidity that matches the timeline of separation, not the timeline desired by a spreadsheet.
 
-This granularity is the difference between a clean transition and a structural failure. 
+This granularity is the difference between a clean transition and a structural failure.
 
-## Why HNWI and UHNW Operators Prefer Asset-Based Lending When Deals Matter Institutional capital is cheap in theory
+Why HNWI and UHNW Operators Prefer Asset-Based Lending When Deals Matter Institutional capital is cheap in theory
 
 .
 
@@ -274,9 +274,9 @@ They want to:
 
 - Maintain strategic leverage post close
 
-- Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles. 
+- Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles.
 
-## Private Credit as the Second Layer of Precision M&A Asset-Based Lending is the first move
+Private Credit as the Second Layer of Precision M&A Asset-Based Lending is the first move
 
 .
 
@@ -296,11 +296,11 @@ The operator refinances with longer term capital or positions for sale.
 
 This three stage progression absorbs risk at each 
 
-# Phase I: nstead of concentrating it
+### Phase I: nstead of concentrating it
 
 .
 
-## Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch
+Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch
 
 .
 
@@ -314,9 +314,9 @@ Above 2,000,
 
 This unlocks liquidity for operators who otherwise would have to sell positions, trigger tax events, or disrupt long term allocation strategies.
 
-Capital becomes available without dismantling their portfolio. 
+Capital becomes available without dismantling their portfolio.
 
-## The principal authority Position We do not manage the spotlight
+The principal authority Position We do not manage the spotlight
 
 .
 
@@ -334,9 +334,9 @@ Operators lead.
 
 We support.
 
-The transaction holds. 
+The transaction holds.
 
-## The Future of Precision Asset-Based Lending in M&A As banking becomes more rigid and private equity becomes more selective, the demand for precision liquidity will only increase
+The Future of Precision Asset-Based Lending in M&A As banking becomes more rigid and private equity becomes more selective, the demand for precision liquidity will only increase
 
 .
 
@@ -356,9 +356,9 @@ Pathmaker sits at that intersection.
 
 We do not replace institutional capital.
 
-We provide the mechanics that allow it to function in environments it cannot natively navigate. 
+We provide the mechanics that allow it to function in environments it cannot natively navigate.
 
-## Strategic
+Strategic
 
  
 

@@ -16,7 +16,7 @@ They punish assumptions and expose every weak point in a deal.
 
 They also remain one of the most reliable paths to asymmetric value creation for buyers who know how to stabilize liquidity before the transaction closes.
 
-## The mid-market and healthcare bias Most cross-border carve-outs sit in the mid-market
+The mid-market and healthcare bias Most cross-border carve-outs sit in the mid-market
 
 .
 
@@ -34,7 +34,7 @@ This is the environment where liquidity is not merely a financial tool.
 
 It becomes a stabilizing perimeter that allows the buyer to protect the operating footprint during the first ninety to one hundred eighty days.
 
-## Structural liquidity
+Structural liquidity
 
 .
 
@@ -46,7 +46,7 @@ We do not sell optimism, stories, or theoretical turnarounds.
 
 We build structural liquidity mechanics that allow high net worth and ultra high net worth buyers to 
 
-# Step I
+### Step I
 
 nto a carve-out with institutional discipline and private capital agility.
 
@@ -56,9 +56,9 @@ To neutralize the transition period.
 
 To make it boring.
 
-To remove liquidity as a variable that can sabotage the deal. 
+To remove liquidity as a variable that can sabotage the deal.
 
-## The Reality of Cross-Border Carve-Out Liquidity A carve-out is not a typical acquisition
+The Reality of Cross-Border Carve-Out Liquidity A carve-out is not a typical acquisition
 
 .
 
@@ -84,9 +84,9 @@ Institutional credit wants lineage.
 
 Carve-outs have inherited inconsistencies.
 
-HNWI and UHNW buyers need a liquidity partner that accepts the inherent disorder and prices against real assets, real collateral, and real flows. 
+HNWI and UHNW buyers need a liquidity partner that accepts the inherent disorder and prices against real assets, real collateral, and real flows.
 
-## Private Credit and Asset-Based Lending as the Lead Instruments Pathmaker lends against two core categories
+Private Credit and Asset-Based Lending as the Lead Instruments Pathmaker lends against two core categories
 
 .
 
@@ -106,7 +106,7 @@ They allow leverage against working assets instead of narratives.
 
 This gives the buyer a liquidity structure that behaves like a shock absorber instead of a speculative bet.
 
-## Private Credit Private credit is the foundation for many cross-border acquisitions because it is flexible, faster than institutional bank debt, and can be structured around the realities of transition services agreements, uneven cash cycles, and partial data
+Private Credit Private credit is the foundation for many cross-border acquisitions because it is flexible, faster than institutional bank debt, and can be structured around the realities of transition services agreements, uneven cash cycles, and partial data
 
 .
 
@@ -120,7 +120,7 @@ Billing systems are inconsistent.
 
 A private credit line calibrated to these patterns allows the carve-out to survive long enough for the buyer to rebuild structure from within.
 
-## Asset Based Institutional Liquidity Paths Asset-Based Lending works because assets do not lie
+Asset Based Institutional Liquidity Paths Asset-Based Lending works because assets do not lie
 
 .
 
@@ -130,9 +130,9 @@ Asset-Based Lending gives the carve-out enough runway to correct cost structures
 
 This is especially relevant in cross-border conditions where delays at customs, regional tax differences, and regulatory friction can create liquidity gaps that conventional financing cannot accommodate.
 
-Pathmaker uses Asset-Based Lending as a liquidity shield that prevents short term volatility from triggering long term operational damage. 
+Pathmaker uses Asset-Based Lending as a liquidity shield that prevents short term volatility from triggering long term operational damage.
 
-## Liquidity as a Tactical Advantage in Cross-Border Deals Most buyers underestimate one fact
+Liquidity as a Tactical Advantage in Cross-Border Deals Most buyers underestimate one fact
 
 .
 
@@ -140,7 +140,7 @@ The carve-out does not fail because the asset is weak.
 
 It fails because liquidity is not synchronized with operational complexity.
 
-## Currency friction Cross-border deals introduce currency risk and timing gaps that a static financing structure cannot absorb
+Currency friction Cross-border deals introduce currency risk and timing gaps that a static financing structure cannot absorb
 
 .
 
@@ -150,7 +150,7 @@ Without this, a buyer can lose weeks of operating capital simply due to structur
 
 Pathmaker designs liquidity infrastructure that reduces these frictions before they become operational issues.
 
-## Transition Services Agreements TSAs are temporary bridges
+Transition Services Agreements TSAs are temporary bridges
 
 .
 
@@ -162,7 +162,7 @@ Pathmaker positions liquidity so that the buyer can exit the TSA on its own term
 
 Not under pressure.
 
-## De-risking the separation Every separation creates an operational vacuum
+De-risking the separation Every separation creates an operational vacuum
 
 .
 
@@ -176,9 +176,9 @@ Supply chain.
 
 This vacuum drains liquidity.
 
-When liquidity is pre-stabilized, the carve-out team executes without panic, without rushed decisions, and without relying on the seller for longer than necessary. 
+When liquidity is pre-stabilized, the carve-out team executes without panic, without rushed decisions, and without relying on the seller for longer than necessary.
 
-## Why HNWI and UHNW Buyers Have an Edge Large institutional players often walk away from carve-outs because the economics look too uneven
+Why HNWI and UHNW Buyers Have an Edge Large institutional players often walk away from carve-outs because the economics look too uneven
 
 .
 
@@ -190,9 +190,7 @@ They can move faster.
 
 They can take positions that do not fit institutional mandates.
 
-But to do this effectively, they need a liquidity partner that provides institutional rigor without institutional drag.
-
-## principal authority Pathmaker operates with principal authority
+But to do this effectively, they need a liquidity partner that provides institutional rigor without institutional drag. principal authority Pathmaker operates with principal authority
 
 .
 
@@ -206,17 +204,17 @@ We do not insert soft governance that slows the buyer down.
 
 We simply ensure that liquidity is never the constraint that breaks the deal.
 
-## Speed without recklessness HNWI and UHNW buyers excel when they can act decisively
+Speed without recklessness HNWI and UHNW buyers excel when they can act decisively
 
 .
 
-Our role is to ensure that this decisiveness is supported by reliable liquidity mechanics rather than short term improvisation. 
+Our role is to ensure that this decisiveness is supported by reliable liquidity mechanics rather than short term improvisation.
 
-## Expanded Liquidity Tools for Cross-Border Complexity Pathmaker supports additional Institutional Liquidity Paths verticals for buyers who need nontraditional liquidity sources
+Expanded Liquidity Tools for Cross-Border Complexity Pathmaker supports additional Institutional Liquidity Paths verticals for buyers who need nontraditional liquidity sources
 
 .
 
-## Crypto Asset-Backed Frameworks Minimum threshold is
+Crypto Asset-Backed Frameworks Minimum threshold is
 
  
 2 million dollars.
@@ -225,16 +223,16 @@ Crypto backed Institutional Liquidity Paths provides fast collateralized liquidi
 
 In a cross-border carve-out, this capital can bridge timing delays or serve as rapid deployment liquidity during closing cycles.
 
-## Public Share Institutional Liquidity Paths Minimum threshold is
+Public Share Institutional Liquidity Paths Minimum threshold is
 
  
 5 million dollars.
 
 Public equities offer another collateral base for sophisticated buyers who want to participate in a carve-out without liquidating high performing positions.
 
-This strategy enables investors to keep their broader portfolio intact while still optimizing leverage for the acquisition. 
+This strategy enables investors to keep their broader portfolio intact while still optimizing leverage for the acquisition.
 
-## What Makes a Carve-Out Succeed A successful carve-out is not elegant
+What Makes a Carve-Out Succeed A successful carve-out is not elegant
 
 .
 
@@ -263,17 +261,17 @@ The buyer needs a liquidity framework that supports independence from the parent
 Liquidity must not be. 
 5.
 
-The financing structure must respect asset reality This is why we lean on private credit and Asset-Based Lending rather than speculative projections. 
+The financing structure must respect asset reality This is why we lean on private credit and Asset-Based Lending rather than speculative projections.
 
-## The Pathmaker Model for Cross-Border Carve-Out Liquidity Our model is intentionally stripped down
+The Pathmaker Model for Cross-Border Carve-Out Liquidity Our model is intentionally stripped down
 
 .
 
 It avoids unnecessary theatrics.
 
-It focuses on what keeps a carve-out alive during uncertain early stages.
+It focuses on what keeps a carve-out alive during uncertain early stages. 
 
-# Step I: Assess the real asset base We analyze collateral
+### Step I: Assess the real asset base We analyze collateral
 
 .
 
@@ -283,35 +281,35 @@ Inventory.
 
 Contracts.
 
-We examine what is stable, what is temporary, and what is misreported due to parent company allocation.
+We examine what is stable, what is temporary, and what is misreported due to parent company allocation. 
 
-# Step I: I
+### Step I: I
 
 Map liquidity to operational rhythm Every jurisdiction operates at a different pace.
 
-We synchronize liquidity to those rhythms so the buyer does not have to.
+We synchronize liquidity to those rhythms so the buyer does not have to. 
 
-# Step III: Build redundancy One source of liquidity is never enough
+### Step III: Build redundancy One source of liquidity is never enough
 
 .
 
-We build overlapping liquidity so that shocks are absorbed instead of transmitted through the organization.
+We build overlapping liquidity so that shocks are absorbed instead of transmitted through the organization. 
 
-# Step I: V
+### Step I: V
 
 Support the transition window The first ninety to one hundred eighty days define the outcome.
 
-We position capital so that the carve-out can operate without relying on incomplete systems or slow parent company processes.
+We position capital so that the carve-out can operate without relying on incomplete systems or slow parent company processes. 
 
-# Step V: Exit cleanly Our role is tactical
+### Step V: Exit cleanly Our role is tactical
 
 .
 
 We create stability.
 
-Once the carve-out reaches operational equilibrium, the buyer can refinance, renegotiate, or restructure without pressure. 
+Once the carve-out reaches operational equilibrium, the buyer can refinance, renegotiate, or restructure without pressure.
 
-## Why Liquidity Decides the Outcome Cross-border carve-outs do not respect budgets or timelines
+Why Liquidity Decides the Outcome Cross-border carve-outs do not respect budgets or timelines
 
 .
 
@@ -325,9 +323,9 @@ Liquidity gives the management team time to rebuild functions.
 
 It gives operations the ability to handle errors without cascading failures.
 
-It gives the buyer the opportunity to shape the carve-out into a standalone entity instead of a distressed asset in disguise. 
+It gives the buyer the opportunity to shape the carve-out into a standalone entity instead of a distressed asset in disguise.
 
-## Final Perspective Pathmaker exists for buyers who operate in the real world rather than theoretical spreadsheets
+Final Perspective Pathmaker exists for buyers who operate in the real world rather than theoretical spreadsheets
 
 .
 

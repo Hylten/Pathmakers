@@ -8,13 +8,9 @@ slug: "sovereign-path-mid-market-excellence-enduring-capital"
 
 The capital vacuum throughout the European and North American mid‑market is a structural consequence of fragmented diligence practices and inconsistent exit preparedness, not a lack of enterprise value.
 
-This regime shift is altering the institutional landscape, prioritizing operational truth over promotional narrative and rewarding businesses that can demonstrate audit-ready continuity rather than momentum-based growth claims. 
+This regime shift is altering the institutional landscape, prioritizing operational truth over promotional narrative and rewarding businesses that can demonstrate audit-ready continuity rather than momentum-based growth claims.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ This regime shift elevates a new hierarchy.
 
 Businesses that pre-engineer institutional clarity attract strategic alignment.
 
-Those that do not remain in liquidity limbo. 
+Those that do not remain in liquidity limbo.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -206,13 +198,9 @@ In mid-market non-energy transactions, Roials deploys analyst-grade market intel
 
 The objective is not promotion.
 
-The objective is institutional navigation. 
+The objective is institutional navigation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management
+THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management
 
 .
 

@@ -32,9 +32,7 @@ Remove excuses.
 
 This is the new standard.
 
-PHASE ONE. 
-
- ## .
+PHASE ONE. .
 
 Private briefing.
 
@@ -268,9 +266,9 @@ Multiples rise.
 
 Buyer hesitation is expensive.
 
-Buyer momentum is priceless. 
+Buyer momentum is priceless.
 
-## COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive
+COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive
 
 .
 

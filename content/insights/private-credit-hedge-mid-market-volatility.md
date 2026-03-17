@@ -12,13 +12,9 @@ It is the absence of stable liquidity bridges capable of reducing execution drag
 
 Private credit fills that vacuum with precision because it replaces transactional uncertainty with engineered optionality.
 
-In a fragmented mid market marked by inconsistent data hygiene, uneven governance standards, and widening bid ask spreads, the capital that can control timing becomes the dominant force. 
+In a fragmented mid market marked by inconsistent data hygiene, uneven governance standards, and widening bid ask spreads, the capital that can control timing becomes the dominant force.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ The contemporary allocator recognises that the mid market no longer rewards spee
 
 It rewards optionality, timing control, and liquidity architecture.
 
-This is the environment where private credit operates as an M&A stabiliser. 
+This is the environment where private credit operates as an M&A stabiliser.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -182,13 +174,9 @@ This includes:
 
 - Facilitating introductions to specialised private credit providers This positioning eliminates adverse selection.
 
-It also ensures that the private credit instrument serves as a stabiliser rather than an additional complexity. 
+It also ensures that the private credit instrument serves as a stabiliser rather than an additional complexity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management
 
 .
 

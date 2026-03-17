@@ -26,9 +26,9 @@ Operational resilience is no longer a post deal agenda item.
 
 It is a pre condition for value creation.
 
-And it is increasingly a differentiator for sponsors who want predictable entry, controlled integration, and a clean path to EBITDA uplift. 
+And it is increasingly a differentiator for sponsors who want predictable entry, controlled integration, and a clean path to EBITDA uplift.
 
-## What Operational Resilience Really Means in the Nordic Context Operational resilience is often misunderstood as a polished corporate term used in annual reports
+What Operational Resilience Really Means in the Nordic Context Operational resilience is often misunderstood as a polished corporate term used in annual reports
 
 .
 
@@ -48,9 +48,9 @@ Lower integration friction.
 
 And minimal erosion of the investment case caused by surprises hidden deep in operations.
 
-It is less about transformation and more about protecting the base. 
+It is less about transformation and more about protecting the base.
 
-## Why This Matters More in Healthcare and Critical Services Healthcare is uniquely exposed in the Nordics
+Why This Matters More in Healthcare and Critical Services Healthcare is uniquely exposed in the Nordics
 
 .
 
@@ -72,9 +72,9 @@ Key drivers of fragility include:
 
 - Compliance workloads that expand faster than headcount These factors compound during due diligence and integration.
 
-They also create silent risks that rarely show up in the data room. 
+They also create silent risks that rarely show up in the data room.
 
-## The Blind Spots That Destroy Value in Nordic Carve Outs Experienced investors in the region repeatedly face the same operational shocks
+The Blind Spots That Destroy Value in Nordic Carve Outs Experienced investors in the region repeatedly face the same operational shocks
 
 .
 
@@ -121,9 +121,9 @@ These blind spots do not destroy businesses.
 But they erode returns by forcing reactive firefighting in the first 
 6 to 
 
-12 months. 
+12 months.
 
-## What Battle Hardened Operational Resilience Looks Like Operational resilience is not built through workshops or future state slides
+What Battle Hardened Operational Resilience Looks Like Operational resilience is not built through workshops or future state slides
 
 .
 
@@ -164,13 +164,13 @@ Leadership capacity that is protected during transactions Management teams have 
 
 These traits are achievable.
 
-They require discipline, not transformation theatre. 
+They require discipline, not transformation theatre.
 
-## How Investors Use Operational Resilience to Protect Value Operational resilience gives investors real advantages during the transaction cycle
+How Investors Use Operational Resilience to Protect Value Operational resilience gives investors real advantages during the transaction cycle
 
 .
 
-## During Diligence Resilience provides clarity
+During Diligence Resilience provides clarity
 
 .
 
@@ -178,27 +178,27 @@ It exposes hidden dependencies, structural weaknesses, and system level constrai
 
 This prevents the scenario where a deal that looked efficient in the data room becomes a year one margin problem.
 
-## During Carve Out Resilience reduces friction
+During Carve Out Resilience reduces friction
 
 .
 
 It shortens the separation timeline, limits transitional service agreement exposure, and allows the acquired business to function independently sooner.
 
-## During Integration Resilience stabilises the base
+During Integration Resilience stabilises the base
 
 .
 
 It ensures that synergy programs do not overload the management team or interrupt essential services.
 
-## During Hold Period Resilience compounds value
+During Hold Period Resilience compounds value
 
 .
 
 Stable operations allow for controlled scaling, faster bolt ons, and smoother digital upgrades.
 
-Across the Nordic region, these effects translate directly into IRR protection. 
+Across the Nordic region, these effects translate directly into IRR protection.
 
-## Why the Nordics Demand a Different Operational Playbook The Nordic operating environment is defined by three conditions that make operational resilience more complex than in other European markets.
+Why the Nordics Demand a Different Operational Playbook The Nordic operating environment is defined by three conditions that make operational resilience more complex than in other European markets.
 
  
 1.
@@ -223,9 +223,9 @@ Small operational failures stay hidden because teams solve them manually and qui
 
 When uncovered during integration, these gaps become structural risks.
 
-Investors who rely on resilience as a proactive capability outperform those who treat it as post close clean up. 
+Investors who rely on resilience as a proactive capability outperform those who treat it as post close clean up.
 
-## The Pathmaker Approach Practical Operational Resilience For Investors Who Cannot Afford Surprises Pathmaker works exclusively in environments where operational stability is non negotiable
+The Pathmaker Approach Practical Operational Resilience For Investors Who Cannot Afford Surprises Pathmaker works exclusively in environments where operational stability is non negotiable
 
 .
 
@@ -262,9 +262,9 @@ Only stabilisation.
 
 Carve Out and Integration Execution We reduce the operational load on management teams and secure continuity while integrations proceed.
 
-This protects EBITDA and preserves energy for value creation. 
+This protects EBITDA and preserves energy for value creation.
 
-## What Investors Gain After two decades of navigating Nordic operators, the patterns are clear
+What Investors Gain After two decades of navigating Nordic operators, the patterns are clear
 
 .
 
@@ -284,9 +284,9 @@ When operational resilience is addressed early, investors gain:
 
 - A more stable platform for bolt ons These are not theoretical benefits.
 
-They are measurable. 
+They are measurable.
 
-## The Future of Operational Resilience in the Nordics Regulation will tighten
+The Future of Operational Resilience in the Nordics Regulation will tighten
 
 .
 

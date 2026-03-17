@@ -26,13 +26,13 @@ This corridor remains mispriced relative to intrinsic cash flow stability, hard 
 
 It is in this structural gap that the thesis around Private equity Fund-III investment opportunities 2026 emerges with maximum clarity.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to chase yield.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -60,13 +60,9 @@ European regulatory harmonization and EU MiFID II firm acquisitions create pipel
 
 These dynamics create a once per decade alignment.
 
-The sovereign path is to build a platform that is slow enough to understand operational truth and fast enough to arbitrage mispriced liquidity. 
+The sovereign path is to build a platform that is slow enough to understand operational truth and fast enough to arbitrage mispriced liquidity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -337,13 +333,9 @@ Capital raising for mid-market buyout vehicles must articulate not only return p
 
 UHNW liquidity planning increasingly prioritizes capital managers who are stewards rather than speculators.
 
-In this environment stewardship becomes a competitive advantage equal to financial engineering. 
+In this environment stewardship becomes a competitive advantage equal to financial engineering.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

@@ -20,9 +20,9 @@ This has created the most significant liquidity gap since
 
 2009.
 
-And that gap is exactly where private credit outperforms. 
+And that gap is exactly where private credit outperforms.
 
-## Why Private Credit Has Become the Primary Engine for Mid-Market Transactions Mid-market deals require certainty of capital
+Why Private Credit Has Become the Primary Engine for Mid-Market Transactions Mid-market deals require certainty of capital
 
 .
 
@@ -52,9 +52,7 @@ For HNWI and UHNW buyers, this creates a unique arbitrage window.
 
 A sponsor or entrepreneur with the right capital partner can take control of assets that are fundamentally strong but operationally neglected.
 
-Pathmaker exists to provide that capital with mechanical precision. 
-
-## principal authority in Action: Pathmaker’s Structural Advantage Pathmaker focuses on private credit and asset-based Monetization Architecture that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition
+Pathmaker exists to provide that capital with mechanical precision. principal authority in Action: Pathmaker’s Structural Advantage Pathmaker focuses on private credit and asset-based Monetization Architecture that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition
 
 .
 
@@ -88,9 +86,9 @@ These pillars matter even more when the target is not a polished asset.
 
 Most mid-market targets are not.
 
-Especially healthcare carve-outs. 
+Especially healthcare carve-outs.
 
-## The Mid-Market is Operationally Messy, and That Creates Opportunity There is a misconception that mid-market opportunities are hidden gems
+The Mid-Market is Operationally Messy, and That Creates Opportunity There is a misconception that mid-market opportunities are hidden gems
 
 .
 
@@ -120,9 +118,9 @@ What matters is margin.
 
 What matters is runway.
 
-Pathmaker underwrites these factors with clarity and without hesitation. 
+Pathmaker underwrites these factors with clarity and without hesitation.
 
-## Asset-Based Capital Structuring as a Precision Tool in M&A Asset-Based Lending is often misunderstood
+Asset-Based Capital Structuring as a Precision Tool in M&A Asset-Based Lending is often misunderstood
 
 .
 
@@ -148,9 +146,9 @@ Asset-Based Lending compresses time.
 
 Private credit stabilizes execution.
 
-Pathmaker blends both. 
+Pathmaker blends both.
 
-## Healthcare Carve-Outs Need Structural Capital, Not Optimism Healthcare carve-outs are not brand stories
+Healthcare Carve-Outs Need Structural Capital, Not Optimism Healthcare carve-outs are not brand stories
 
 .
 
@@ -176,9 +174,9 @@ Pathmaker evaluates the asset at the real-world level, not the theoretical model
 
 If the collateral is sound, the working capital cycle is predictable, and the acquisition thesis is rational, we fund.
 
-No theatrics. 
+No theatrics.
 
-## Liquidity Is the Real Competitive Advantage in Mid-Market M&A In the mid-market, strategy matters
+Liquidity Is the Real Competitive Advantage in Mid-Market M&A In the mid-market, strategy matters
 
 .
 
@@ -198,25 +196,25 @@ Private credit provides:
 
 - Greater negotiating leverage For HNWI and UHNW buyers, this becomes a weaponized advantage.
 
-The market rewards decisiveness, and decisiveness requires liquidity. 
+The market rewards decisiveness, and decisiveness requires liquidity.
 
-## Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers
+Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers
 
 .
 
-## Private Credit Strategic Collateralization We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints
+Private Credit Strategic Collateralization We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints
 
 .
 
 Our private credit solutions are designed to match the real timeline of acquisitions, not the theoretical timeline imagined by traditional lenders.
 
-## Asset-Based Strategic Collateralization Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets
+Asset-Based Strategic Collateralization Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets
 
 .
 
 We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt.
 
-## Crypto Monetization Architecture Minimum threshold: 2,000,
+Crypto Monetization Architecture Minimum threshold: 2,000,
 
  
 
@@ -224,7 +222,7 @@ We underwrite against inventory, receivables, equipment, and other tangible asse
 
 Ideal for high conviction buyers who maintain digital asset portfolios and want to tactically unlock liquidity without liquidating core positions.
 
-## Public Share Monetization Architecture Minimum threshold: 5,000,
+Public Share Monetization Architecture Minimum threshold: 5,000,
 
  
 
@@ -240,9 +238,9 @@ Enable execution.
 
 Avoid ego.
 
-Deliver results. 
+Deliver results.
 
-## The Real Mechanics of Winning Mid-Market Deals Private credit is not the savior of the mid-market
+The Real Mechanics of Winning Mid-Market Deals Private credit is not the savior of the mid-market
 
 .
 
@@ -274,9 +272,9 @@ Our role is structural.
 
 We provide the capital mechanics that allow the buyer to execute without friction.
 
-This is principal authority in practice. 
+This is principal authority in practice.
 
-## Why High Net Worth and Ultra High Net Worth Buyers Are Leaning Into Private Credit HNWI and UHNW buyers have always had access to capital
+Why High Net Worth and Ultra High Net Worth Buyers Are Leaning Into Private Credit HNWI and UHNW buyers have always had access to capital
 
 .
 
@@ -300,9 +298,9 @@ HNWI and UHNW clients work with Pathmaker because:
 
 - We protect optionality for future transactions.
 
-In short, we behave like a strategic partner, not a gatekeeper. 
+In short, we behave like a strategic partner, not a gatekeeper.
 
-## Private Credit Is Not Alternative Anymore The liquidity landscape has evolved
+Private Credit Is Not Alternative Anymore The liquidity landscape has evolved
 
 .
 
@@ -316,9 +314,9 @@ And mid-market buyers who recognize this shift are acquiring assets at valuation
 
 Pathmaker’s clients understand that private credit is not a financial instrument.
 
-It is a competitive edge. 
+It is a competitive edge.
 
-## The Next
+The Next
 
  
 
@@ -330,9 +328,9 @@ This window is finite.
 
 When institutional lenders eventually return to the mid-market, valuations will rise and velocity will slow.
 
-Private credit is the tool that allows serious acquirers to capitalize on the current gap before the cycle resets. 
+Private credit is the tool that allows serious acquirers to capitalize on the current gap before the cycle resets.
 
-## The Pathmaker Position We do not market ourselves as disruptors
+The Pathmaker Position We do not market ourselves as disruptors
 
 .
 
@@ -350,9 +348,9 @@ Our posture is straightforward:
 
 - Zero romanticism
 
-- Maximum execution If you understand the opportunity in mid-market M&A, and especially if you operate in healthcare or other operationally fragmented sectors, our capital is engineered for your strategy. 
+- Maximum execution If you understand the opportunity in mid-market M&A, and especially if you operate in healthcare or other operationally fragmented sectors, our capital is engineered for your strategy.
 
-## Book a strategic consultatio
+Book a strategic consultatio
 
 n
 

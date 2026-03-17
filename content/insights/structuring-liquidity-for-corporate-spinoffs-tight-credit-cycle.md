@@ -18,13 +18,9 @@ This briefing outlines how complex corporate spinoffs can be structured, finance
 
 The framework emphasizes neutrality, operational truth, and balance sheet architecture.
 
-The focus is exit readiness, M&A friction removal, and tactical navigation for mid market operators who require institutional grade precision without institutional bureaucracy. 
+The focus is exit readiness, M&A friction removal, and tactical navigation for mid market operators who require institutional grade precision without institutional bureaucracy.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ This is the macro context in which liquidity must be engineered.
 
 Spinoffs that align with the new constraints transact.
 
-Spinoffs that rely on legacy liquidity assumptions stagnate. 
+Spinoffs that rely on legacy liquidity assumptions stagnate.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -182,7 +174,7 @@ For corporate spinoffs, the model follows four principles.
 
 Neutral intelligence Roials Capital does not act as a broker or seller of assets.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -222,13 +214,9 @@ This includes
 
 - legal structure coherence
 
-- covenant preparation The partnership model creates a neutral ground where buyers and sellers engage with clarity instead of ambiguity. 
+- covenant preparation The partnership model creates a neutral ground where buyers and sellers engage with clarity instead of ambiguity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 

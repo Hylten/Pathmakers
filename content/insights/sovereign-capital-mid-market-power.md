@@ -14,13 +14,9 @@ The gap between mid‑market operational strength and the capital available to s
 
 Sovereign allocators have moved into this vacuum not as opportunists but as stabilizers.
 
-Their entry has altered the mechanics, cadence, and discipline of deal formation. 
+Their entry has altered the mechanics, cadence, and discipline of deal formation.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -46,13 +42,9 @@ This structural realignment has created three outcomes.
 
 - A demand for exit readiness engineering rather than simple financial packaging.
 
-- An increased premium on operational transparency and governance maturity. 
+- An increased premium on operational transparency and governance maturity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -148,13 +140,9 @@ Opportunity Velocity Most high‑quality mid‑market deals never enter public m
 
 They move through private networks with strict information discipline.
 
-Roials Capital’s role is to accelerate opportunity velocity by positioning qualified businesses into controlled visibility pathways where sovereign interest can be assessed. 
+Roials Capital’s role is to accelerate opportunity velocity by positioning qualified businesses into controlled visibility pathways where sovereign interest can be assessed.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Capital without stewardship leads to entropy
+THE STEWARDSHIP FILTER Capital without stewardship leads to entropy
 
 .
 

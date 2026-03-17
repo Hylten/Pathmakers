@@ -78,9 +78,9 @@ Miss two and the exit collapses.
 
 Miss all three and you never enter the room where the real buyers sit.
 
-Let's take them sequentially, without ornament. 
+Let's take them sequentially, without ornament.
 
-## DOMAIN ONE: EXIT READINESS ARCHITECTURE Exit readiness is not a checklist
+DOMAIN ONE: EXIT READINESS ARCHITECTURE Exit readiness is not a checklist
 
 .
 

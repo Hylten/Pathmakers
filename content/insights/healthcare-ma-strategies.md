@@ -6,11 +6,7 @@ author: "Jonas Hyltén"
 slug: "healthcare-ma-strategies"
 --- 
 
-# Healthcare M&A Strategies Pathmaker's Pragmatic Guide to Mid‑Market Value Creation
-
- 
-
-## The Real State of Healthcare M&A Mid‑market healthcare M&A is not romantic
+# Healthcare M&A Strategies Pathmaker's Pragmatic Guide to Mid‑Market Value Creation The Real State of Healthcare M&A Mid‑market healthcare M&A is not romantic
 
 .
 
@@ -28,9 +24,9 @@ Diligence reveals more operational debt than most buyers expect.
 
 And carve outs require a level of precision few internal teams can sustain without external support.
 
-This is the environment where disciplined strategy wins and wishful thinking destroys IRR. 
+This is the environment where disciplined strategy wins and wishful thinking destroys IRR.
 
-## Why Mid‑Market Healthcare Deals Behave Differently Healthcare targets are not generic companies that can be reshaped overnight
+Why Mid‑Market Healthcare Deals Behave Differently Healthcare targets are not generic companies that can be reshaped overnight
 
 .
 
@@ -48,9 +44,9 @@ And the selling owners often believe their business is more scalable than it act
 
 A buyer who underestimates this loses money.
 
-A buyer who overestimates operational synergies loses even more. 
+A buyer who overestimates operational synergies loses even more.
 
-## The Only Strategic Lens That Works: Precision Winning in healthcare M&A requires a cold‑eyed view of what is real
+The Only Strategic Lens That Works: Precision Winning in healthcare M&A requires a cold‑eyed view of what is real
 
 .
 
@@ -68,7 +64,9 @@ Elimination of what destroys value.
 
 Refusal to carry legacy complexity into the new entity.
 
-This is the foundation of Pathmaker’s approach. # Core Strategies for Healthcare M&A Success 
+This is the foundation of Pathmaker’s approach.
+
+Core Strategies for Healthcare M&A Success 
 1.
 
 Diagnose Operational Fragility Before You Price the Deal Most mid‑market healthcare companies have one or more hidden structural weaknesses.
@@ -206,7 +204,7 @@ During a transaction, buyers often underestimate how fragmented the data really 
 
 If the data 
 
-# Layer I
+### Layer I
 
 s not stabilized early, every integration initiative will stall.
 
@@ -328,7 +326,9 @@ A platform requires:
 
 - Governance that prevents drift Until these exist, you do not have a platform.
 
-You have a company preparing to become one. # The Pathmaker Approach: What Actually Moves the Needle 
+You have a company preparing to become one.
+
+The Pathmaker Approach: What Actually Moves the Needle 
 1.
 
 Pre‑Close Operational Risk Mapping We identify structural risks that impact valuation, closing conditions, and the first year of ownership.
@@ -368,7 +368,9 @@ Efficiency second.
 
 Growth third.
 
-This is the order that consistently drives returns. # The Outcome: Deals That Actually Deliver EBITDA When executed with precision, mid‑market healthcare M&A can produce strong, predictable returns.
+This is the order that consistently drives returns.
+
+The Outcome: Deals That Actually Deliver EBITDA When executed with precision, mid‑market healthcare M&A can produce strong, predictable returns.
 
 Not because the assets are perfect.
 
@@ -388,7 +390,9 @@ Buyers who win are buyers who:
 
 - Execute without drama These are not glamorous strategies.
 
-They are effective strategies. # The Bottom Line Healthcare M&A is unforgiving.
+They are effective strategies.
+
+The Bottom Line Healthcare M&A is unforgiving.
 
 You cannot improvise.
 

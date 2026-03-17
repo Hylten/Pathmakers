@@ -24,9 +24,9 @@ We are not storytellers.
 
 We are not turnaround romantics.
 
-We provide the structural mechanics that let institutional capital move with precision and without noise. 
+We provide the structural mechanics that let institutional capital move with precision and without noise.
 
-## The Pathmaker Liquidity Framework At its core, our framework is built around four principles.
+The Pathmaker Liquidity Framework At its core, our framework is built around four principles.
 
  
 
@@ -52,9 +52,9 @@ They use it to create leverage in negotiations.
 
 They use it to stabilize transitional assets.
 
-They use it to operate with confidence instead of caution. 
+They use it to operate with confidence instead of caution.
 
-## Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism
+Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism
 
 .
 

@@ -30,9 +30,7 @@ We are not hunting emotional stories.
 
 We create engineered liquidity for buyers who understand the battlefield.
 
-What follows is a pragmatic walkthrough of the realities defining Nordic M&A today, and how Asset-Based Lending structures deliver speed, control, and execution strength for serious operators. 
-
-## principal authority in Practice principal authority is not a marketing term
+What follows is a pragmatic walkthrough of the realities defining Nordic M&A today, and how Asset-Based Lending structures deliver speed, control, and execution strength for serious operators. principal authority in Practice principal authority is not a marketing term
 
 .
 
@@ -60,9 +58,9 @@ principal authority means:
 
 The strongest advantage they hold is preparedness and discretion.
 
-Pathmaker is designed around that reality. 
+Pathmaker is designed around that reality.
 
-## The Mechanics of Asset-Based Lending for Nordic M&A Effective Asset-Based Lending requires three pillars
+The Mechanics of Asset-Based Lending for Nordic M&A Effective Asset-Based Lending requires three pillars
 
 .
 
@@ -104,9 +102,9 @@ They underestimate the legal mechanics.
 
 Pathmaker does not.
 
-It is part of our operating system. 
+It is part of our operating system.
 
-## Why Private Credit Still Outperforms Bank Asset-Backed Frameworks Banks have slowed their deal activities
+Why Private Credit Still Outperforms Bank Asset-Backed Frameworks Banks have slowed their deal activities
 
 .
 
@@ -134,9 +132,9 @@ Deals collapse when delays undermine momentum.
 
 Pathmaker’s model is built for movement.
 
-Private credit combined with Asset-Based Lending is how our clients stay ahead while others wait for approvals that never arrive. 
+Private credit combined with Asset-Based Lending is how our clients stay ahead while others wait for approvals that never arrive.
 
-## Why Liquidity Is the Modern Moat The most dangerous misconception in M&A today is that valuation creates advantage
+Why Liquidity Is the Modern Moat The most dangerous misconception in M&A today is that valuation creates advantage
 
 .
 
@@ -162,9 +160,9 @@ Private credit transforms future cash flows into measurable leverage.
 
 Together, they form a moat that very few Nordic buyers possess.
 
-Our clients do. 
+Our clients do.
 
-## Asset-Based Lending in a Nordic Cross Border Context Cross border deals demand clarity across jurisdictions
+Asset-Based Lending in a Nordic Cross Border Context Cross border deals demand clarity across jurisdictions
 
 .
 
@@ -180,9 +178,9 @@ Pathmaker structures are built to adapt to:
 
 Our structures do not.
 
-Clients gain a playbook that works in all four markets using the same institutional mechanics. 
+Clients gain a playbook that works in all four markets using the same institutional mechanics.
 
-## The Real Reason Sellers Prefer Asset-Based Lending Backed Buyers Sellers do not care about capital theory
+The Real Reason Sellers Prefer Asset-Based Lending Backed Buyers Sellers do not care about capital theory
 
 .
 
@@ -196,9 +194,9 @@ Asset-Based Lending provides:
 
 - Minimal committee interference These elements shorten closing times.
 
-In healthcare and industrial carve outs, that is the difference between winning and losing a deal. 
+In healthcare and industrial carve outs, that is the difference between winning and losing a deal.
 
-## The Pathmaker Profile: Who We Serve Pathmaker is engineered for
+The Pathmaker Profile: Who We Serve Pathmaker is engineered for
 
 :
 
@@ -212,9 +210,9 @@ In healthcare and industrial carve outs, that is the difference between winning 
 
 They need structural ammunition.
 
-Our minimum thresholds for crypto Institutional Liquidity Paths and public share Monetization Architecture reflect that expectation and ensure alignment with serious capital operators. 
+Our minimum thresholds for crypto Institutional Liquidity Paths and public share Monetization Architecture reflect that expectation and ensure alignment with serious capital operators.
 
-## The Tactical Advantage of Asset-Based Lending in 2026 and Beyond The Nordic economy is stable but cautious
+The Tactical Advantage of Asset-Based Lending in 2026 and Beyond The Nordic economy is stable but cautious
 
 .
 
@@ -226,9 +224,9 @@ Private credit will remain the accelerator because it provides liquidity speed t
 
 Together, these structures define the next era of Nordic M&A.
 
-Pathmaker builds both for those who operate above market noise. 
+Pathmaker builds both for those who operate above market noise.
 
-## Book a Strategic Consultation If you require engineered liquidity for a Nordic acquisition, a healthcare carve out, or a mid market consolidation, connect with us
+Book a Strategic Consultation If you require engineered liquidity for a Nordic acquisition, a healthcare carve out, or a mid market consolidation, connect with us
 
 .
 
