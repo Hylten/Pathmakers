@@ -10,7 +10,7 @@ function parseFrontmatter(raw: string) {
 
     const data: Record<string, string> = {};
     let i = 1;
-    while (i < lines.length && lines[i].trim() !== '---') {
+    while (i < lines.length && !lines[i].trim().startsWith('---')) {
         const line = lines[i];
         const colonIdx = line.indexOf(':');
         if (colonIdx !== -1) {
@@ -24,7 +24,14 @@ function parseFrontmatter(raw: string) {
         i++;
     }
 
-    const content = lines.slice(i + 1).join('\n');
+    const closingLine = lines[i] || '';
+    const remainder = closingLine.trim().slice(3).trim();
+    
+    let content = lines.slice(i + 1).join('\n');
+    if (remainder) {
+        content = remainder + '\n' + content;
+    }
+    
     return { data, content };
 }
 
@@ -145,8 +152,8 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
             </div>
 
             <style>{`
-                .article-content { line-height: 2.2; -webkit-font-smoothing: antialiased; }
-                .article-content p { margin-bottom: 3.5rem; }
+                .article-content { line-height: 2.4; -webkit-font-smoothing: antialiased; }
+                .article-content p { margin-bottom: 4.5rem; }
                 .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.2; font-weight: 300; }
                 .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }

@@ -1,295 +1,237 @@
 ---
 title: "Operational Resilience in the Nordics"
 description: "Insights on Operational Resilience in the Nordics from Roials Capital and Hyltén Invest."
-date: "2021-05-30"
+date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "operational-resilience-in-the-nordics"
-keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
-# Operational Resilience in the Nordics 
-How Mid-Market Investors Protect Value When Carve-Outs Get Messy 
+# Operational Resilience in the Nordics How Mid-Market Investors Protect Value When Carve-Outs Get Messy Operational resilience in the Nordic market is not an abstract concept.
 
-Operational resilience in the Nordic market is not an abstract concept. 
+It is a survival requirement.
 
-It is a survival requirement. 
+Especially for investors who operate in mid-market M&A and healthcare carve outs where timelines compress, information asymmetry is significant, and the margin for error is thin.
 
-Especially for investors who operate in mid-market M&A and healthcare carve outs where timelines compress, information asymmetry is significant, and the margin for error is thin. 
+The Nordics project stability.
 
-The Nordics project stability. 
+But underneath the surface, private and public operators are navigating aging infrastructure, chronic labour shortages, tightening regulation, and fragmented legacy systems.
 
-But underneath the surface, private and public operators are navigating aging infrastructure, chronic labour shortages, tightening regulation, and fragmented legacy systems. 
+These pressures do not pause for transactions.
 
-These pressures do not pause for transactions. 
+They accelerate during them.
 
-They accelerate during them. 
+Operational resilience is no longer a post deal agenda item.
 
-Operational resilience is no longer a post deal agenda item. 
+It is a pre condition for value creation.
 
-It is a pre condition for value creation. 
+And it is increasingly a differentiator for sponsors who want predictable entry, controlled integration, and a clean path to EBITDA uplift. ## What Operational Resilience Really Means in the Nordic Context Operational resilience is often misunderstood as a polished corporate term used in annual reports.
 
-And it is increasingly a differentiator for sponsors who want predictable entry, controlled integration, and a clean path to EBITDA uplift. 
+In the Nordics, where healthcare and essential services dominate mid market portfolios, resilience is far more practical.
 
-## What Operational Resilience Really Means in the Nordic Context 
+It means that when the organisation faces a regulatory inspection, a cut in region level funding, a cyber incident, or a failed system migration, nothing critical breaks.
 
-Operational resilience is often misunderstood as a polished corporate term used in annual reports. 
+It means continuity under pressure.
 
-In the Nordics, where healthcare and essential services dominate mid market portfolios, resilience is far more practical. 
+It means that leadership teams do not have to choose which part of the business to sacrifice in order to keep the lights on.
 
-It means that when the organisation faces a regulatory inspection, a cut in region level funding, a cyber incident, or a failed system migration, nothing critical breaks. 
+For investors, operational resilience means three things.
 
-It means continuity under pressure. 
+Predictable handover in a carve out.
 
-It means that leadership teams do not have to choose which part of the business to sacrifice in order to keep the lights on. 
+Lower integration friction.
 
-For investors, operational resilience means three things. 
+And minimal erosion of the investment case caused by surprises hidden deep in operations.
 
-Predictable handover in a carve out. 
+It is less about transformation and more about protecting the base. ## Why This Matters More in Healthcare and Critical Services Healthcare is uniquely exposed in the Nordics.
 
-Lower integration friction. 
+The system is highly regulated, decentralised, and dependent on public procurement cycles.
 
-And minimal erosion of the investment case caused by surprises hidden deep in operations. 
+When you execute a carve out in this environment, you are not only acquiring assets.
 
-It is less about transformation and more about protecting the base. 
-
-## Why This Matters More in Healthcare and Critical Services 
-
-Healthcare is uniquely exposed in the Nordics. 
-The system is highly regulated, decentralised, and dependent on public procurement cycles. 
-
-When you execute a carve out in this environment, you are not only acquiring assets. 
-You are absorbing obligations. 
+You are absorbing obligations.
 
 Key drivers of fragility include: 
 
-• Talent scarcity across clinical, operational, and IT functions 
-• Region specific reimbursement models that shift annually 
-• Disconnected patient and operational data systems 
-• Legacy infrastructure that cannot support scaling 
-• Compliance workloads that expand faster than headcount 
+-  Talent scarcity across clinical, operational, and IT functions 
 
-These factors compound during due diligence and integration. 
+-  Region specific reimbursement models that shift annually 
 
-They also create silent risks that rarely show up in the data room. 
+-  Disconnected patient and operational data systems 
 
-## The Blind Spots That Destroy Value in Nordic Carve Outs 
+-  Legacy infrastructure that cannot support scaling 
 
-Experienced investors in the region repeatedly face the same operational shocks. 
-None are dramatic. 
-All are costly. 
+-  Compliance workloads that expand faster than headcount These factors compound during due diligence and integration.
 
-### 1. Hidden dependencies on the seller 
+They also create silent risks that rarely show up in the data room. ## The Blind Spots That Destroy Value in Nordic Carve Outs Experienced investors in the region repeatedly face the same operational shocks.
 
-Carve outs in the Nordics often rely on undocumented support networks. 
+None are dramatic.
 
-A lab that still depends on the seller’s procurement system. 
-A care operation tied to a shared HR platform without a clean exit plan. 
-A billing workflow that only functions because one specialist in the old parent organisation manually adjusts files every Friday. 
+All are costly. # ## 
 
-These dependencies surface only after day one. 
-At that point the new owner is already exposed. 
+1. Hidden dependencies on the seller Carve outs in the Nordics often rely on undocumented support networks.
 
-### 2. Compliance load underestimated by a factor of two 
+A lab that still depends on the seller’s procurement system.
 
-Most operators underestimate the resource cost of MDR, GDPR, ISO requirements, medication handling rules, and region level inspections. 
+A care operation tied to a shared HR platform without a clean exit plan.
 
-Compliance is not a checklist in the Nordics. 
-It is a parallel operating system. 
+A billing workflow that only functions because one specialist in the old parent organisation manually adjusts files every Friday.
 
-If the carve out does not have a dedicated compliance spine on day one, the investment case can erode through repeated minor deviations that drain management capacity. 
+These dependencies surface only after day one.
 
-### 3. IT fragmentation that prevents scale 
+At that point the new owner is already exposed. # ## 
 
-Nordic operators often run a hybrid of cloud, on prem, and legacy systems. 
+2. Compliance load underestimated by a factor of two Most operators underestimate the resource cost of MDR, GDPR, ISO requirements, medication handling rules, and region level inspections.
 
-During diligence the technical debt appears manageable. 
-Post close, once integrations begin, the organisation discovers undocumented interfaces, manual workarounds, and infrastructure constraints that block efficiency programs. 
+Compliance is not a checklist in the Nordics.
 
-### 4. Leadership stretch during integration 
+It is a parallel operating system.
 
-Mid market management teams in healthcare and critical services rarely have the bench strength to run operations and integration in parallel. 
+If the carve out does not have a dedicated compliance spine on day one, the investment case can erode through repeated minor deviations that drain management capacity. # ## 
 
-As a result, performance dips precisely when investors need stability to secure early value creation. 
+3. IT fragmentation that prevents scale Nordic operators often run a hybrid of cloud, on prem, and legacy systems.
 
-These blind spots do not destroy businesses. 
-But they erode returns by forcing reactive firefighting in the first 6 to 12 months. 
+During diligence the technical debt appears manageable.
 
-## What Battle Hardened Operational Resilience Looks Like 
+Post close, once integrations begin, the organisation discovers undocumented interfaces, manual workarounds, and infrastructure constraints that block efficiency programs. # ## 
 
-Operational resilience is not built through workshops or future state slides. 
+4. Leadership stretch during integration Mid market management teams in healthcare and critical services rarely have the bench strength to run operations and integration in parallel.
 
-It is built by reshaping the operational backbone so that the business can remain stable even when several variables break simultaneously. 
+As a result, performance dips precisely when investors need stability to secure early value creation.
 
-A resilient Nordic operator shows the following traits. 
+These blind spots do not destroy businesses.
 
-### 1. Clear owner of cross functional operations 
+But they erode returns by forcing reactive firefighting in the first 6 to 12 months. ## What Battle Hardened Operational Resilience Looks Like Operational resilience is not built through workshops or future state slides.
 
-There is a single point of accountability for operational continuity. 
+It is built by reshaping the operational backbone so that the business can remain stable even when several variables break simultaneously.
 
-Not a committee. 
-Not a matrix. 
-A real owner. 
+A resilient Nordic operator shows the following traits. # ## 
 
-### 2. Documented and stress tested critical processes 
+1. Clear owner of cross functional operations There is a single point of accountability for operational continuity.
 
-The organisation knows which processes cannot fail and what the fallback procedures are. 
+Not a committee.
 
-This is not about creating manuals. 
-It is about removing mystery from operations. 
+Not a matrix.
 
-### 3. Technology that supports, not constrains, the business 
+A real owner. # ## 
 
-Systems are clean enough to integrate into a buyer platform without delaying synergy programs. 
+2. Documented and stress tested critical processes The organisation knows which processes cannot fail and what the fallback procedures are.
 
-Technical debt is known. 
-Workarounds are eliminated. 
+This is not about creating manuals.
 
-### 4. A compliance spine that scales with growth 
+It is about removing mystery from operations. # ## 
 
-Compliance is embedded into daily operations, not parked in a central expert team. 
+3. Technology that supports, not constrains, the business Systems are clean enough to integrate into a buyer platform without delaying synergy programs.
 
-Frontline teams know what is required and why. 
+Technical debt is known.
 
-### 5. Leadership capacity that is protected during transactions 
+Workarounds are eliminated. # ## 
 
-Management teams have the bandwidth and structure to absorb integration without sacrificing day to day stability. 
+4. A compliance spine that scales with growth Compliance is embedded into daily operations, not parked in a central expert team.
 
-These traits are achievable. 
-They require discipline, not transformation theatre. 
+Frontline teams know what is required and why. # ## 
 
-## How Investors Use Operational Resilience to Protect Value 
+5. Leadership capacity that is protected during transactions Management teams have the bandwidth and structure to absorb integration without sacrificing day to day stability.
 
-Operational resilience gives investors real advantages during the transaction cycle. 
+These traits are achievable.
 
-### During Diligence 
+They require discipline, not transformation theatre. ## How Investors Use Operational Resilience to Protect Value Operational resilience gives investors real advantages during the transaction cycle. # ## During Diligence Resilience provides clarity.
 
-Resilience provides clarity. 
+It exposes hidden dependencies, structural weaknesses, and system level constraints early enough to price them.
 
-It exposes hidden dependencies, structural weaknesses, and system level constraints early enough to price them. 
+This prevents the scenario where a deal that looked efficient in the data room becomes a year one margin problem. # ## During Carve Out Resilience reduces friction.
 
-This prevents the scenario where a deal that looked efficient in the data room becomes a year one margin problem. 
+It shortens the separation timeline, limits transitional service agreement exposure, and allows the acquired business to function independently sooner. # ## During Integration Resilience stabilises the base.
 
-### During Carve Out 
+It ensures that synergy programs do not overload the management team or interrupt essential services. # ## During Hold Period Resilience compounds value.
 
-Resilience reduces friction. 
+Stable operations allow for controlled scaling, faster bolt ons, and smoother digital upgrades.
 
-It shortens the separation timeline, limits transitional service agreement exposure, and allows the acquired business to function independently sooner. 
+Across the Nordic region, these effects translate directly into IRR protection. ## Why the Nordics Demand a Different Operational Playbook The Nordic operating environment is defined by three conditions that make operational resilience more complex than in other European markets. # ## 
 
-### During Integration 
+1. A decentralised public sector that sets the tempo Care operators, diagnostics groups, and specialised service providers depend on regional procurement structures.
 
-Resilience stabilises the base. 
+Timelines, contracts, and reimbursement frameworks vary widely.
 
-It ensures that synergy programs do not overload the management team or interrupt essential services. 
+A resilient operation must be able to navigate this fragmentation without overloading the management team. # ## 
 
-### During Hold Period 
+2. A labour market characterised by scarcity, not mobility Where other regions can plug capability gaps with contractors, the Nordics cannot.
 
-Resilience compounds value. 
+Clinical and technical talent is limited.
 
-Stable operations allow for controlled scaling, faster bolt ons, and smoother digital upgrades. 
+This means that resilience must be built into processes and systems, not through temporary staffing. # ## 
 
-Across the Nordic region, these effects translate directly into IRR protection. 
+3. High trust cultures that mask operational gaps Nordic organisations often avoid escalations until very late.
 
-## Why the Nordics Demand a Different Operational Playbook 
+Small operational failures stay hidden because teams solve them manually and quietly.
 
-The Nordic operating environment is defined by three conditions that make operational resilience more complex than in other European markets. 
+When uncovered during integration, these gaps become structural risks.
 
-### 1. A decentralised public sector that sets the tempo 
+Investors who rely on resilience as a proactive capability outperform those who treat it as post close clean up. ## The Pathmaker Approach Practical Operational Resilience For Investors Who Cannot Afford Surprises Pathmaker works exclusively in environments where operational stability is non negotiable.
 
-Care operators, diagnostics groups, and specialised service providers depend on regional procurement structures. 
+Mid market M&A.
 
-Timelines, contracts, and reimbursement frameworks vary widely. 
+Healthcare carve outs.
 
-A resilient operation must be able to navigate this fragmentation without overloading the management team. 
+Mission critical operations.
 
-### 2. A labour market characterised by scarcity, not mobility 
+Our focus is simple.
 
-Where other regions can plug capability gaps with contractors, the Nordics cannot. 
+We stabilise operations so buyers and owners can execute strategy without firefighting.
 
-Clinical and technical talent is limited. 
+We do this through three areas of work. # ## 
 
-This means that resilience must be built into processes and systems, not through temporary staffing. 
+1. Pre Close Operational Exposure Mapping We identify the operational dependencies, compliance landmines, and technology risks that do not appear in the data room.
 
-### 3. High trust cultures that mask operational gaps 
+This gives investors a real view of what they are buying, not the curated version. # ## 
 
-Nordic organisations often avoid escalations until very late. 
+2. Post Close Stabilisation We build control in the first 90 to 180 days.
 
-Small operational failures stay hidden because teams solve them manually and quietly. 
+We prioritise system reliability, compliance readiness, leadership bandwidth, and clean separation from the seller.
 
-When uncovered during integration, these gaps become structural risks. 
+No transformation theatre.
 
-Investors who rely on resilience as a proactive capability outperform those who treat it as post close clean up. 
+Only stabilisation. # ## 
 
-## The Pathmaker Approach 
-Practical Operational Resilience For Investors Who Cannot Afford Surprises 
+3. Carve Out and Integration Execution We reduce the operational load on management teams and secure continuity while integrations proceed.
 
-Pathmaker works exclusively in environments where operational stability is non negotiable. 
-
-Mid market M&A. 
-Healthcare carve outs. 
-Mission critical operations. 
-
-Our focus is simple. 
-
-We stabilise operations so buyers and owners can execute strategy without firefighting. 
-
-We do this through three areas of work. 
-
-### 1. Pre Close Operational Exposure Mapping 
-
-We identify the operational dependencies, compliance landmines, and technology risks that do not appear in the data room. 
-
-This gives investors a real view of what they are buying, not the curated version. 
-
-### 2. Post Close Stabilisation 
-
-We build control in the first 90 to 180 days. 
-
-We prioritise system reliability, compliance readiness, leadership bandwidth, and clean separation from the seller. 
-
-No transformation theatre. 
-Only stabilisation. 
-
-### 3. Carve Out and Integration Execution 
-
-We reduce the operational load on management teams and secure continuity while integrations proceed. 
-
-This protects EBITDA and preserves energy for value creation. 
-
-## What Investors Gain 
-
-After two decades of navigating Nordic operators, the patterns are clear. 
+This protects EBITDA and preserves energy for value creation. ## What Investors Gain After two decades of navigating Nordic operators, the patterns are clear.
 
 When operational resilience is addressed early, investors gain: 
 
-• Shorter separation periods 
-• Lower risk of recurring compliance deviations 
-• Faster synergy realisation 
-• Smaller management disruption 
-• Reduced dependency on seller infrastructure 
-• A predictable integration timeline 
-• A more stable platform for bolt ons 
+-  Shorter separation periods 
 
-These are not theoretical benefits. 
-They are measurable. 
+-  Lower risk of recurring compliance deviations 
 
-## The Future of Operational Resilience in the Nordics 
+-  Faster synergy realisation 
 
-Regulation will tighten. 
-Digital infrastructure will remain fragmented. 
-Public funding pressure will increase. 
-Talent scarcity will intensify. 
+-  Smaller management disruption 
 
-Operators who rely on manual heroics will not keep pace. 
+-  Reduced dependency on seller infrastructure 
 
-The only sustainable path is a resilient operational core. 
+-  A predictable integration timeline 
 
-One that remains stable under pressure. 
-One that does not crack when forced into a carve out timeline. 
-One that allows investors to execute their deal thesis without constant operational drag. 
+-  A more stable platform for bolt ons These are not theoretical benefits.
 
-In the Nordic market, operational resilience is now a competitive advantage. 
+They are measurable. ## The Future of Operational Resilience in the Nordics Regulation will tighten.
 
-Sponsors who build it early will outperform those who treat it as cleanup work. 
+Digital infrastructure will remain fragmented.
+
+Public funding pressure will increase.
+
+Talent scarcity will intensify.
+
+Operators who rely on manual heroics will not keep pace.
+
+The only sustainable path is a resilient operational core.
+
+One that remains stable under pressure.
+
+One that does not crack when forced into a carve out timeline.
+
+One that allows investors to execute their deal thesis without constant operational drag.
+
+In the Nordic market, operational resilience is now a competitive advantage.
+
+Sponsors who build it early will outperform those who treat it as cleanup work.
 
 Book a strategic consultation
-
