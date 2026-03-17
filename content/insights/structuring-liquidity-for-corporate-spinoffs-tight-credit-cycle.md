@@ -6,9 +6,11 @@ author: "Jonas Hyltén"
 slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
 --- 
 
-The capital vacuum in the 2026 credit regime is the result of procyclical deleveraging inside the European and North American banking systems, not a decline in corporate productivity.
+The capital vacuum in the 202
+6 credit regime is the result of procyclical deleveraging inside the European and North American banking systems, not a decline in corporate productivity.
 
-The structural gap allows well prepared operators to execute corporate spinoffs with a precision that was not possible in the high liquidity cycle of 2016 to 
+The structural gap allows well prepared operators to execute corporate spinoffs with a precision that was not possible in the high liquidity cycle of 201
+6 to 
 
 2021. Effective execution requires discipline, liquidity engineering, and a clear separation between operational narratives and institutional capital patterns.
 
@@ -20,7 +22,8 @@ The focus is exit readiness, M&A friction removal, and tactical navigation for m
 
 ## THE REGIME SHIFT
 
- The 2026 credit cycle is defined by three variables that shape every spinoff or carve out event. 
+ The 202
+6 credit cycle is defined by three variables that shape every spinoff or carve out event. 
 
 1. Regulatory induced capital compression Stress testing protocols in the EU and North America have forced banks to shorten duration and remove exposure to operationally entangled entities.
 
@@ -34,7 +37,8 @@ Sellers who cannot produce certainty experience severe valuation drag.
 
 Complex spinoffs are impacted disproportionately because uncertainty compounds across shared services, cross guarantees, and multi entity cash pools. 
 
-3. Off balance sheet opacity is now penalized What was tolerated in 2019 is rejected in 
+3. Off balance sheet opacity is now penalized What was tolerated in 201
+9 is rejected in 
 
 2026. Intercompany loans, undefined transfer pricing, and unsecured related party receivables are triggers for prolonged due diligence or complete withdrawal of buyers. ## 
 
@@ -158,7 +162,8 @@ Effective operators
 -  respect capital 
 -  create enduring structures 
 -  reduce systemic fragility 
--  handle transitions without operational waste **Proverbs 13:22** frames stewardship as intergenerational responsibility.
+-  handle transitions without operational waste **Proverbs 13:22*
+* frames stewardship as intergenerational responsibility.
 
 In corporate terms, it means designing structures that will remain resilient long after the transaction is closed.
 

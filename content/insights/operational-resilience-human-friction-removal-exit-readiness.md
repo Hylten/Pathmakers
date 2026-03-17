@@ -244,7 +244,8 @@ Stewardship builds enterprises that can endure.
 
 It eliminates fragility.
 
-It aligns operational practice with long horizon thinking. **Proverbs 13:22** articulates the intergenerational responsibility inherent in capital management.
+It aligns operational practice with long horizon thinking. **Proverbs 13:22*
+* articulates the intergenerational responsibility inherent in capital management.
 
 Stewardship requires systems that survive their creators.
 

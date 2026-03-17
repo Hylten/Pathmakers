@@ -70,7 +70,8 @@ Precision Liquidity is calibrated through timeline analysis, operational sequenc
 
 It is not a generic working capital top-up but a deliberately structured liquidity frame that matches the operational load of the separation phase. 
 
-2. Balance Sheet Optimization The separation balance sheet must be constructed to withstand the due diligence compression seen in 2025 through 
+2. Balance Sheet Optimization The separation balance sheet must be constructed to withstand the due diligence compression seen in 202
+5 through 
 
 2026. Buyers no longer accept ambiguous liabilities, opaque intra company flows, or unsegmented cost centers.
 
@@ -140,7 +141,8 @@ Divisional separations must honor the principles of clarity, resource integrity,
 
 Stewardship is not soft philosophy.
 
-It is the governance architecture that ensures the separation process produces transparent, resilient assets. **Proverbs 13:22** states that a good person leaves an inheritance for their children.
+It is the governance architecture that ensures the separation process produces transparent, resilient assets. **Proverbs 13:22*
+* states that a good person leaves an inheritance for their children.
 
 In a corporate context, stewardship means leaving the next owner an asset that is operationally clean, structurally sound, and free of unnecessary complexity.
 

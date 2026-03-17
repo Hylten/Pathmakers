@@ -12,7 +12,8 @@ Institutional operators no longer compete on capital velocity alone.
 
 They compete on jurisdictional fluency, supply-chain intelligence, and prebuilt regulatory clearance pathways.
 
-The 2026 environment rewards operators who treat the Nordic region not as four markets but as a single operational corridor with asymmetric incentives and differential enforcement thresholds.
+The 202
+6 environment rewards operators who treat the Nordic region not as four markets but as a single operational corridor with asymmetric incentives and differential enforcement thresholds.
 
 Capital moves faster here.
 
@@ -54,7 +55,8 @@ Build the door before you arrive.
 
 Ensure the corridor is empty.
 
-Move. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
+Move. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 In institutional terms, this means structural stewardship.
 
@@ -146,7 +148,8 @@ Transparency accelerates valuation.
 
 Lack of clarity destroys it.
 
-The Nordic M&A climate in 2026 contains structural asymmetries beneficial to disciplined operators.
+The Nordic M&A climate in 202
+6 contains structural asymmetries beneficial to disciplined operators.
 
 Mid-market founders are aging.
 
@@ -312,7 +315,8 @@ Increase valuation.
 
 Capital Structuring now plays a central role in cross-border M&A.
 
-Traditional financing structures cannot absorb the speed and complexity of 2026 transactions.
+Traditional financing structures cannot absorb the speed and complexity of 202
+6 transactions.
 
 Private credit funds dominate.
 
@@ -350,7 +354,8 @@ Hard systems.
 
 This is the path to exit readiness.
 
-Nordic cross-border M&A in 2026 rewards operators who build invisible advantages.
+Nordic cross-border M&A in 202
+6 rewards operators who build invisible advantages.
 
 Intelligence networks.
 
@@ -388,6 +393,7 @@ Build it now.
 
 Book a tactical consultation.
 
-Conversion metric: 0.12 friction index.
+Conversion metric: 0.1
+2 friction index.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

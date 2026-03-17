@@ -22,7 +22,8 @@ The resulting mispricing represents a persistent arbitrage for allocators and st
 
 The underlying forces shaping this regime include: 
 -  Regulatory divergence across jurisdictions, increasing the governance premium embedded in operationally entangled companies. 
--  Narrowing credit channels as traditional lenders apply post-2024 risk models that penalize cross-collateralized or partially integrated enterprises. 
+-  Narrowing credit channels as traditional lenders apply post-202
+4 risk models that penalize cross-collateralized or partially integrated enterprises. 
 -  Escalation of compliance obligations, increasing the cost of standalone readiness for divisions being prepared for sale. 
 -  Compression of bidder universes because many sponsors no longer maintain in-house transformation capabilities required to absorb complex integrations. 
 -  Higher demand for off-market origination as competitive processes erode value for disciplined acquirers, pushing them toward proprietary or partially proprietary channels.
@@ -159,7 +160,8 @@ Waste manifests as duplicated functions, nonessential overhead, and misaligned s
 
 Stewardship requires disciplined simplification. 
 
-3. Moral stewardship Stewardship originates in the principle articulated in **Proverbs 13:22** , which frames capital as an intergenerational responsibility.
+3. Moral stewardship Stewardship originates in the principle articulated in **Proverbs 13:22*
+* , which frames capital as an intergenerational responsibility.
 
 In practice, this means structuring separations that ensure continuity, clarity, and long-term resilience rather than short-term cosmetic gains. 
 

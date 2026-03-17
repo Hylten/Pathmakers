@@ -36,7 +36,11 @@ Demand for buy side liquidity persists across family owned, founder led, and low
 
 The liquidity gap widened further as large scale private equity funds migrated upstream to mega transactions, leaving a segment of the market where acquisition needs are high but capital support is inconsistent.
 
-The resulting environment is characterized by: * A persistent spread between acquisition intent and available leverage. * Compressed transaction velocity due to prolonged capital sourcing cycles. * Increased sell side ambiguity driven by uncertain buyer financing. * Expanded valuation dispersion that complicates negotiation.
+The resulting environment is characterized by: 
+* A persistent spread between acquisition intent and available leverage. 
+* Compressed transaction velocity due to prolonged capital sourcing cycles. 
+* Increased sell side ambiguity driven by uncertain buyer financing. 
+* Expanded valuation dispersion that complicates negotiation.
 
 Private credit did not fill this gap through aggressive risk taking.
 
@@ -68,7 +72,10 @@ Each segment has distinct mechanics, incentives, and risk structures.
 
 1. Acquisition Financing The central objective is balance sheet optimization.
 
-Buyers deploy private credit to: * Increase leverage coverage where banks cap out at conservative Loan to Value thresholds. * Bridge timing mismatches between asset readiness and long form refinancing. * Support acquisition premiums by stabilizing cash flow reserves.
+Buyers deploy private credit to: 
+* Increase leverage coverage where banks cap out at conservative Loan to Value thresholds. 
+* Bridge timing mismatches between asset readiness and long form refinancing. 
+* Support acquisition premiums by stabilizing cash flow reserves.
 
 In this function, private credit provides flexibility in amortization structures, collateral configuration, and covenant calibration.
 
@@ -96,7 +103,11 @@ Families and founder led enterprises often require short form working capital or
 
 This is exit readiness capital.
 
-It is used to: * Resolve deferred maintenance. * Complete accounting normalization. * Finalize key hires or leadership transitions. * Resolve contingent liabilities.
+It is used to: 
+* Resolve deferred maintenance. 
+* Complete accounting normalization. 
+* Finalize key hires or leadership transitions. 
+* Resolve contingent liabilities.
 
 This technical role is one of asset hardening.
 
@@ -110,7 +121,10 @@ Buyers use these scenarios to position the target for a strategic combination wi
 
 5. Cross Collateralized Structures Lenders may secure loans across multiple asset pools to stabilize risk.
 
-In M and A, cross collateralization can: * Combine the acquired entity with an existing portfolio company. * Support multi subsidiary groups with uneven cash flow profiles. * Enable a buyer to leverage assets across jurisdictions with a single instrument.
+In M and A, cross collateralization can: 
+* Combine the acquired entity with an existing portfolio company. 
+* Support multi subsidiary groups with uneven cash flow profiles. 
+* Enable a buyer to leverage assets across jurisdictions with a single instrument.
 
 This structure supports institutional alignment by harmonizing asset exposure and improving credit durability. 
 
@@ -120,7 +134,11 @@ These covenants are not punitive.
 
 They function as early warning indicators for integration risk.
 
-Well engineered covenants focus on: * EBITDA conversion rates. * Accounts receivable velocity. * Inventory turnover discipline. * Customer concentration exposure.
+Well engineered covenants focus on: 
+* EBITDA conversion rates. 
+* Accounts receivable velocity. 
+* Inventory turnover discipline. 
+* Customer concentration exposure.
 
 The aim is not to restrict the enterprise but to guide it.
 
@@ -128,7 +146,11 @@ Covenant design becomes an operational intelligence tool.
 
 7. Cash Flow Waterfalls The hierarchy of payments defines lender protection.
 
-Private credit structures in mid market M and A typically include: * Senior interest priority. * Operating expense stabilization buffers. * Maintenance covenants tied to liquidity thresholds. * Escrow alignment for integration related contingencies.
+Private credit structures in mid market M and A typically include: 
+* Senior interest priority. 
+* Operating expense stabilization buffers. 
+* Maintenance covenants tied to liquidity thresholds. 
+* Escrow alignment for integration related contingencies.
 
 The waterfall functions as a financial architecture that ensures acquisition stability during post close integration. 
 
@@ -190,7 +212,8 @@ Stewardship prioritizes stability.
 
 A stewardship lens ensures that leverage levels reflect cash flow durability and that integration demands do not exceed organizational capacity. 
 
-3. Ethical Continuity **Proverbs 13:22** articulates the principle of generational responsibility.
+3. Ethical Continuity **Proverbs 13:22*
+* articulates the principle of generational responsibility.
 
 Mid market transactions often involve family enterprises transitioning leadership or ownership.
 

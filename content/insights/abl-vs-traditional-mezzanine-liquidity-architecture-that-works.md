@@ -96,7 +96,8 @@ It is, in many cases, optional capital that behaves like mandatory supervision.
 
 Asset-Based Lending behaves like infrastructure.
 
-That difference is everything. **Proverbs 13:22** speaks clearly: a good man leaves an inheritance for his children’s children.
+That difference is everything. **Proverbs 13:22*
+* speaks clearly: a good man leaves an inheritance for his children’s children.
 
 In corporate architecture, the “inheritance” is durability.
 

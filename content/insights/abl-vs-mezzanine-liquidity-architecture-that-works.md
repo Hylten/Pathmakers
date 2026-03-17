@@ -8,7 +8,8 @@ slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity.
 
-It is the predictable outcome of capital providers clinging to pre 2019 underwriting frameworks that no longer match the operational physics of contemporary balance sheets.
+It is the predictable outcome of capital providers clinging to pre 201
+9 underwriting frameworks that no longer match the operational physics of contemporary balance sheets.
 
 Traditional mezzanine structures were built for interest rate regimes that have ended.
 
@@ -145,7 +146,8 @@ Asset-Based Lending embodies optionality because it grows and contracts with the
 
 Mezzanine consumes optionality because it demands fixed payments from cash flows that may not be stable.
 
-The stewardship principle is anchored in the foundational wisdom of **Proverbs 13:22** .
+The stewardship principle is anchored in the foundational wisdom of **Proverbs 13:22*
+* .
 
 The responsible allocator builds systems that outlast short term volatility.
 

@@ -165,7 +165,8 @@ Healthcare operators who practice stewardship manage their clinical assets, huma
 This aligns with the Theology of Capital, where resources are deployed without waste and where decisions generate continuity across generations.
 
 Stewardship demands clarity, discipline, and documentary integrity. 
--  **Proverbs 13:22** speaks of the enduring impact of strategic resource management.
+-  **Proverbs 13:22*
+* speaks of the enduring impact of strategic resource management.
 
 In healthcare, stewardship manifests in the avoidance of operational shortcuts and the careful allocation of clinical and financial resources.
 

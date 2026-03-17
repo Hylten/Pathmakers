@@ -30,11 +30,15 @@ Several macro shifts define the current environment.
 
 Operators must modernize regulatory systems without corresponding access to growth capital. 
 
-2. Institutional capital has moved upstream into platform consolidators, leaving the 5 to 50 million revenue cohort undercapitalized.
+2. Institutional capital has moved upstream into platform consolidators, leaving the 
+5 to 5
+0 million revenue cohort undercapitalized.
 
 This creates a vacuum where operational excellence exists but transaction readiness does not. 
 
-3. The healthcare labor market has stabilized relative to 2021 to 2023 volatility, yet operators remain overleveraged with short duration debt taken during higher interest cycles.
+3. The healthcare labor market has stabilized relative to 202
+1 to 202
+3 volatility, yet operators remain overleveraged with short duration debt taken during higher interest cycles.
 
 This limits acquisition readiness even when targets become available. 
 
@@ -162,7 +166,8 @@ Stewardship requires:
 -  board level structure 
 -  financial controls 
 -  clinical compliance oversight 
--  transparent audit trails **Proverbs 13:22** reinforces the multi generational mindset required for healthcare stewardship. 
+-  transparent audit trails **Proverbs 13:22*
+* reinforces the multi generational mindset required for healthcare stewardship. 
 
 3. Ethical Expansion Expansion in healthcare must respect the clinical and human implications of scaling.
 

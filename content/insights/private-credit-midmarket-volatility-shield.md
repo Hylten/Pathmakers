@@ -97,11 +97,16 @@ It is not alternative financing.
 It is the operating system for off-market transactions.
 
 Fragmented mid‑market ecosystems typically display five structural failures: 
--  **Information Asymmetry:** Sellers lack institutional financials; buyers misprice operational risk. 
--  **Timing Incoherence:** Closing windows collapse before diligence is completed. 
--  **Liquidity Fragility:** Working capital absorbs shocks unpredictably. 
--  **Jurisdictional Misalignment:** Cross-border entities create compliance drag. 
--  **Exit Illiquidity:** Owners underestimate the capital needed to secure competitive bids.
+-  **Information Asymmetry:*
+* Sellers lack institutional financials; buyers misprice operational risk. 
+-  **Timing Incoherence:*
+* Closing windows collapse before diligence is completed. 
+-  **Liquidity Fragility:*
+* Working capital absorbs shocks unpredictably. 
+-  **Jurisdictional Misalignment:*
+* Cross-border entities create compliance drag. 
+-  **Exit Illiquidity:*
+* Owners underestimate the capital needed to secure competitive bids.
 
 Private credit neutralizes these failures by providing pre‑transaction liquidity architecture.
 
@@ -136,13 +141,17 @@ Deliberate.
 Measured.
 
 Strategic Collateralization follows three rules: 
--  **Rule One: Liquidity precedes valuation.** 
--  **Rule Two: Valuation precedes negotiation.** 
--  **Rule Three: Negotiation precedes premium.** Break any rule and the exit deteriorates.
+-  **Rule One: Liquidity precedes valuation.*
+* 
+-  **Rule Two: Valuation precedes negotiation.*
+* 
+-  **Rule Three: Negotiation precedes premium.*
+* Break any rule and the exit deteriorates.
 
 Follow all three and the exit compounds.
 
-Private credit enforces these rules structurally. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
+Private credit enforces these rules structurally. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 In mid‑market terms: institutional preparation compounds across generations; unstructured operations surrender value to better-prepared buyers.
 
@@ -167,9 +176,12 @@ Sellers accept conditions they would never tolerate in stable cycles.
 Private credit stabilizes this sector by smoothing operational volatility long enough to complete an exit.
 
 Private credit operates across three vectors: 
--  **Vector A: Pre‑M&A Liquidity Provisioning** 
--  **Vector B: Operational Smoothing for EBITDA Defense** 
--  **Vector C: Bid‑Side Enhancement and Structured Buyer Alignment** Vector A is foundational.
+-  **Vector A: Pre‑M&A Liquidity Provisioning*
+* 
+-  **Vector B: Operational Smoothing for EBITDA Defense*
+* 
+-  **Vector C: Bid‑Side Enhancement and Structured Buyer Alignment*
+* Vector A is foundational.
 
 Without organized liquidity, the seller negotiates from weakness.
 
@@ -516,6 +528,7 @@ Private credit is the architecture.
 
 Book a tactical consultation.
 
-Mandate: 1.00 debt‑stability ratio minimum before market exposure.
+Mandate: 1.0
+0 debt‑stability ratio minimum before market exposure.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

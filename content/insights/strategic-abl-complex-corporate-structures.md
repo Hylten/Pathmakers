@@ -184,7 +184,9 @@ This is a stewardship failure because value is trapped.
 
 2. M and A friction costs Acquirers penalise administrative opacity with valuation discounts.
 
-When a business loses 10 to 20 percent of value due to documentation gaps, the organisation is not being stewarded correctly. 
+When a business loses 1
+0 to 2
+0 percent of value due to documentation gaps, the organisation is not being stewarded correctly. 
 
 3. Liquidity misalignment When liquidity, assets, and cash flow sit in different entities with no structural cohesion, capital efficiency diminishes.
 
@@ -192,7 +194,8 @@ This is not a market condition.
 
 It is a stewardship issue.
 
-The stewardship filter aligns with the principle in **Proverbs 13:22** which positions resource continuity as a multi generational responsibility.
+The stewardship filter aligns with the principle in **Proverbs 13:22*
+* which positions resource continuity as a multi generational responsibility.
 
 Corporate assets become durable when they are structured coherently.
 

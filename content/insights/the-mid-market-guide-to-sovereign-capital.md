@@ -130,7 +130,8 @@ It is engineered for deal flow, acquisitions, carve outs, and operational transi
 
 It allows investors to maintain strategic control without dilution. # ## 
 
-2. Crypto Monetization Architecture Minimum threshold is 2,000,000 USD.
+2. Crypto Monetization Architecture Minimum threshold is 2,000,00
+0 USD.
 
 Crypto Capital Structuring is not for speculation.
 
@@ -148,7 +149,8 @@ Used incorrectly, it becomes an exposure.
 
 Pathmaker only participates when the investor has institutional grade custody, asset allocation discipline, and a non emotional approach to digital markets. # ## 
 
-3. Public Share Monetization Architecture Minimum threshold is 5,000,000 USD.
+3. Public Share Monetization Architecture Minimum threshold is 5,000,00
+0 USD.
 
 Public share Asset-Backed Frameworks is the most underutilized liquidity channel in the HNWI space.
 

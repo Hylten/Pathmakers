@@ -44,7 +44,9 @@ Healthcare carve-outs have unpredictable cash burn during transition periods.
 
 Private credit capital is expensive when used as working capital instead of structured leverage.
 
-Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first 90 to 180 days.
+Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first 9
+0 to 18
+0 days.
 
 Asset-Based Lending complements private credit by absorbing the volatility.
 
@@ -110,9 +112,11 @@ Optional structures for public shares or digital assets, depending on the invest
 
 At Pathmaker, these configurations are engineered around strict thresholds.
 
-Crypto collateral: 2 million minimum.
+Crypto collateral: 
+2 million minimum.
 
-Public stock Strategic Collateralization: 5 million minimum.
+Public stock Strategic Collateralization: 
+5 million minimum.
 
 We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility. 
 

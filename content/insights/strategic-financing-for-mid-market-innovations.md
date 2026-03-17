@@ -97,7 +97,9 @@ Pathmaker provides three pillars of specialized liquidity: # ##
 
 Ideal for healthcare operators with clean receivables or tangible asset value. # ## 
 
-3. Alternative Collateral Monetization Architecture This category includes crypto Strategic Collateralization with a minimum threshold of 2 million dollars, and public share Monetization Architecture with a minimum threshold of 5 million dollars.
+3. Alternative Collateral Monetization Architecture This category includes crypto Strategic Collateralization with a minimum threshold of 
+2 million dollars, and public share Monetization Architecture with a minimum threshold of 
+5 million dollars.
 
 Each option is structured to provide discreet liquidity without forced liquidation.
 
@@ -113,7 +115,8 @@ Regulatory friction.
 
 And the operational decay that occurs when a parent entity disengages.
 
-Mid-market operators stepping into these assets often underestimate the liquidity needed to stabilize the first 90 days.
+Mid-market operators stepping into these assets often underestimate the liquidity needed to stabilize the first 9
+0 days.
 
 This includes: 
 -  Payroll gaps 
@@ -169,11 +172,13 @@ Market timing risk is visible.
 
 Pathmaker structures non-liquidating liquidity solutions: # 
 
-## Crypto Asset-Backed Frameworks Minimum threshold: 2 million dollars.
+## Crypto Asset-Backed Frameworks Minimum threshold: 
+2 million dollars.
 
 Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events. # 
 
-## Public Share Institutional Liquidity Paths Minimum threshold: 5 million dollars.
+## Public Share Institutional Liquidity Paths Minimum threshold: 
+5 million dollars.
 
 Ideal for founders, executives, and investors with concentrated equity positions who require capital for acquisitions or portfolio expansion.
 

@@ -182,7 +182,8 @@ Stewardship requires three filters:
 -  Compliance integrity: Documentation and regulatory governance treated as assets, not obligations. 
 -  Operational prudence: Conservative cash‑flow allocation that strengthens the balance sheet.
 
-Allocators who adopt stewardship as an investment philosophy outperform by reducing volatility, not by increasing aggressiveness. **Proverbs 13:22** reinforces the principle of long‑term capital continuity, which is an essential anchor in healthcare environments with multi‑year reimbursement dynamics. 
+Allocators who adopt stewardship as an investment philosophy outperform by reducing volatility, not by increasing aggressiveness. **Proverbs 13:22*
+* reinforces the principle of long‑term capital continuity, which is an essential anchor in healthcare environments with multi‑year reimbursement dynamics. 
 
 ## PHASE 
 

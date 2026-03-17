@@ -38,7 +38,8 @@ They fail because human systems were allowed to grow informal, idiosyncratic, or
 
 Informality is the silent enemy of [institutional capital]([Roials Capital](https://roialscapital.com/)).
 
-Once a business crosses 10 million EBITDA, the founding team’s habits are no longer neutral.
+Once a business crosses 1
+0 million EBITDA, the founding team’s habits are no longer neutral.
 
 They become structural liabilities.
 
@@ -272,17 +273,24 @@ Covenant-grade operations command covenant-grade valuations.
 
 ## Intelligence Framework.
 
-Removing Human Friction in 12 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week 1 to 2 System extraction and structural mapping.
+Removing Human Friction in 1
+2 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week 
+1 to 
+2 System extraction and structural mapping.
 
 Identify the hidden variables that drive friction.
 
-Week 3 to 5 Hardening of financial truth.
+Week 
+3 to 
+5 Hardening of financial truth.
 
 Automated data streams.
 
 Institutional reporting logic.
 
-Week 6 to 8 Mandate architecture.
+Week 
+6 to 
+8 Mandate architecture.
 
 Decision rights.
 
@@ -290,13 +298,16 @@ Leadership recalibration.
 
 Cultural reset.
 
-Week 9 to 11 Operational mapping.
+Week 
+9 to 1
+1 Operational mapping.
 
 Process design.
 
 Cycle standardization.
 
-Week 12 Stress testing across information, operations, and leadership.
+Week 1
+2 Stress testing across information, operations, and leadership.
 
 Institutional readiness.
 
@@ -375,8 +386,10 @@ Human friction creates uncertainty in three dimensions:
 Operational resilience therefore strengthens creditworthiness.
 
 For clients above the liquidity engineering thresholds: 
--  Crypto Institutional Liquidity Paths begins at 2 million. 
--  Public shares Capital Structuring begins at 5 million.
+-  Crypto Institutional Liquidity Paths begins at 
+2 million. 
+-  Public shares Capital Structuring begins at 
+5 million.
 
 Operational resilience reduces haircuts.
 

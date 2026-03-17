@@ -139,7 +139,8 @@ It also ensures that the private credit instrument serves as a stabiliser rather
 
 ## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management.
 
-It aligns with the principle in **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
+It aligns with the principle in **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children.
 
 In the corporate environment, inheritance is not limited to wealth transfer.
 

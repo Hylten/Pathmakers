@@ -101,7 +101,9 @@ As a result, performance dips precisely when investors need stability to secure 
 
 These blind spots do not destroy businesses.
 
-But they erode returns by forcing reactive firefighting in the first 6 to 12 months. 
+But they erode returns by forcing reactive firefighting in the first 
+6 to 1
+2 months. 
 
 ## What Battle Hardened Operational Resilience Looks Like Operational resilience is not built through workshops or future state slides.
 
@@ -201,7 +203,9 @@ We do this through three areas of work. # ##
 
 This gives investors a real view of what they are buying, not the curated version. # ## 
 
-2. Post Close Stabilisation We build control in the first 90 to 180 days.
+2. Post Close Stabilisation We build control in the first 9
+0 to 18
+0 days.
 
 We prioritise system reliability, compliance readiness, leadership bandwidth, and clean separation from the seller.
 

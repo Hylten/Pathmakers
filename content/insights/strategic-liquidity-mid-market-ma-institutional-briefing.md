@@ -38,7 +38,9 @@ The valuation gap remains persistent, and the only element that can bridge it is
 
 3. Counterparty fatigue.
 
-In the 5 to 50 million enterprise value band, sellers prioritize transaction certainty over marginally higher valuation.
+In the 
+5 to 5
+0 million enterprise value band, sellers prioritize transaction certainty over marginally higher valuation.
 
 Buyers who cannot demonstrate operational liquidity readiness move to the back of the queue.
 
@@ -96,7 +98,10 @@ It is a sequencing question.
 
 A disciplined buyer structures a clear liquidity activation path for transactions of different sizes.
 
-Targets at 3 million, 10 million, and 25 million enterprise value require distinct capital activation protocols.
+Targets at 
+3 million, 1
+0 million, and 2
+5 million enterprise value require distinct capital activation protocols.
 
 Without defined sequencing, transactions collapse due to misaligned timelines.
 
@@ -176,7 +181,8 @@ Viewing acquisitions not as transactional events but as generational assets.
 
 4. Ethical negotiation posture.
 
-Treating sellers with respect and transparency. **Proverbs 13:22** establishes the framework for generational capital stewardship.
+Treating sellers with respect and transparency. **Proverbs 13:22*
+* establishes the framework for generational capital stewardship.
 
 Stewardship produces resilience.
 

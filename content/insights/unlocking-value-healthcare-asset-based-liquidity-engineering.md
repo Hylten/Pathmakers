@@ -96,7 +96,8 @@ Elevate the signal.
 
 Build the spine.
 
-Core premise: value is not created in the sale; value is crystallized in the structure. **Proverbs 13:22** reminds us: a good man leaves an inheritance to his children's children.
+Core premise: value is not created in the sale; value is crystallized in the structure. **Proverbs 13:22*
+* reminds us: a good man leaves an inheritance to his children's children.
 
 The institutional translation is continuity.
 
@@ -246,7 +247,9 @@ Premium crystallizes.
 
 The Analyst Team focuses on the mid-market gap.
 
-Revenues between 5 and 80 million.
+Revenues between 
+5 and 8
+0 million.
 
 Fragmented management.
 

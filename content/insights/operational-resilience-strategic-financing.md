@@ -10,7 +10,8 @@ The capital vacuum across the European and North American mid market is not caus
 
 It is created by structural misalignment between operational risk profiles and institutional underwriting models.
 
-Operationally healthy companies are often treated as distressed credits, not because of performance degradation, but due to rigid capital frameworks that have not adapted to the post 2023 regulatory, geopolitical, and liquidity regime.
+Operationally healthy companies are often treated as distressed credits, not because of performance degradation, but due to rigid capital frameworks that have not adapted to the post 202
+3 regulatory, geopolitical, and liquidity regime.
 
 This environment rewards enterprises that understand Strategic Financing not as a transaction, but as an operational discipline.
 
@@ -143,7 +144,8 @@ The stewardship framework has four components:
 
 4. Legacy Preparation for eventual transition, sale, or generational transfer.
 
-Stewardship aligns with the principle in **Proverbs 13:22** which frames capital as an instrument for building continuity across generations.
+Stewardship aligns with the principle in **Proverbs 13:22*
+* which frames capital as an instrument for building continuity across generations.
 
 In corporate structure, continuity is operational resilience. ## ## ## 
 

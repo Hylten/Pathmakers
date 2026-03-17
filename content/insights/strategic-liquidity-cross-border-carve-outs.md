@@ -10,7 +10,8 @@ The capital vacuum within cross-border corporate carve-outs does not originate f
 
 The inefficiency is created by structural asymmetry between transactional velocity and the liquidity constraints of the sellers themselves.
 
-In the 2026 environment, exit friction is primarily an operational problem rather than a demand problem.
+In the 202
+6 environment, exit friction is primarily an operational problem rather than a demand problem.
 
 The acquirers exist.
 
@@ -92,7 +93,8 @@ Operational Independence Hardening The most overlooked variable in carve-out exe
 
 This includes inventory buffers, procurement restructuring, contract novation support, and working capital bridging.
 
-Without this, even fundamentally strong divisions can collapse during the first 120 days post-close.
+Without this, even fundamentally strong divisions can collapse during the first 12
+0 days post-close.
 
 Cross-Border Compliance Synchronization Each jurisdiction introduces its own capital controls, tax leakage risks, and operational disclosure requirements.
 
@@ -138,7 +140,8 @@ Roials Capital provides the architecture for this positioning.
 
 ## THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
 
-It is the application of **Proverbs 13:22** to commercial strategy: the preservation and orderly transfer of productive assets across generational or structural boundaries.
+It is the application of **Proverbs 13:22*
+* to commercial strategy: the preservation and orderly transfer of productive assets across generational or structural boundaries.
 
 Cross-border carve-outs test stewardship because misaligned separation creates waste: workforce disruption, supply chain breakdown, operational redundancies, and capital impairment.
 

@@ -264,7 +264,9 @@ This three stage progression absorbs risk at each phase instead of concentrating
 
 Pathmaker does.
 
-Above 2,000,000 in crypto assets Above 5,000,000 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
+Above 2,000,00
+0 in crypto assets Above 5,000,00
+0 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
 
 This unlocks liquidity for operators who otherwise would have to sell positions, trigger tax events, or disrupt long term allocation strategies.
 
@@ -332,9 +334,11 @@ We engineer Asset-Based Lending with institutional discipline.
 
 We extend collateral based Capital Structuring into crypto and public shares where scale and sophistication begin.
 
-Above 2,000,000 for crypto.
+Above 2,000,00
+0 for crypto.
 
-Above 5,000,000 for public equities.
+Above 5,000,00
+0 for public equities.
 
 No noise.
 

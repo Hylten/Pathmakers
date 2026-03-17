@@ -76,7 +76,9 @@ In many cases, the realizable collateral value is materially higher than the boo
 
 For precision infrastructure carve-outs, that delta is the difference between capital starvation and capital readiness. 
 
-## Asset-Based Lending as a Tool for Transitional Liquidity The first 12 to 18 months post-spin are where deals succeed or stall.
+## Asset-Based Lending as a Tool for Transitional Liquidity The first 1
+2 to 1
+8 months post-spin are where deals succeed or stall.
 
 Revenue is rarely the issue.
 

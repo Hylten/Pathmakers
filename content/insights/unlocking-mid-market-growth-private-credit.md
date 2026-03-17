@@ -166,7 +166,8 @@ Stewardship is governed by three principles:
 
 1. Non‑wasteful capital deployment Allocators should only deploy where capital produces structural improvement rather than temporary relief.
 
-This aligns with the principle of **Proverbs 13:22** .
+This aligns with the principle of **Proverbs 13:22*
+* .
 
 Capital should create durability, not dependency. 
 

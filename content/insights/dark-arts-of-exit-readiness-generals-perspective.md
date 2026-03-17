@@ -94,7 +94,9 @@ Exit readiness eliminates this by:
 -  Mapping seasonal variance through multi-year historical curves 
 -  Establishing a normalized peg that mirrors institutional expectations When the seller provides this, the buyer views the transaction as friction controlled.
 
-This reduces negotiation cycles by 30 to 50 percent in most mid-market contexts. 
+This reduces negotiation cycles by 3
+0 to 5
+0 percent in most mid-market contexts. 
 
 3. Governance Upgrading Institutional buyers penalize governance opacity.
 
@@ -188,7 +190,8 @@ A hardened asset is less exposed to operational disorder, valuation erosion, or 
 
 Stewardship requires the founder or owner to view the company as an entrusted entity, not an expendable one.
 
-As recorded in **Proverbs 13:22** , stewardship extends across generations.
+As recorded in **Proverbs 13:22*
+* , stewardship extends across generations.
 
 In exit readiness, stewardship becomes a quantitative and qualitative standard.
 

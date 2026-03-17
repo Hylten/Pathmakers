@@ -157,7 +157,8 @@ Capital enters only once the operational ecosystem is structurally prepared.
 Financial engineering is used for stability, not artificial valuation inflation. 
 -  Responsibility to Successive Generations.
 
-In alignment with **Proverbs 13:22** , the enterprise must be configured in a manner that preserves integrity long after the current owner exits.
+In alignment with **Proverbs 13:22*
+* , the enterprise must be configured in a manner that preserves integrity long after the current owner exits.
 
 Stewardship transforms exit planning from a liquidity event into a generational continuity mechanism.
 

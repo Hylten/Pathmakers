@@ -126,7 +126,8 @@ That posture decides deal flow.
 
 That flow decides timing.
 
-Timing decides return. **Proverbs 13:22** : Wealth flows through structural stewardship.
+Timing decides return. **Proverbs 13:22*
+* : Wealth flows through structural stewardship.
 
 Cross‑border M&A obeys the same law.
 
@@ -229,7 +230,8 @@ This is not cosmetic due diligence.
 
 This is structural due diligence.
 
-It is the difference between a smooth exit at Year 5 and a forced restructure at Year 
+It is the difference between a smooth exit at Year 
+5 and a forced restructure at Year 
 
 3. Fund‑III discipline requires a certain posture.
 
@@ -323,7 +325,8 @@ Windows close quickly.
 
 They reopen unpredictably.
 
-Tactical Intelligence tracks reopening probability across 63 indicators spanning regulatory changes, board sentiment signals, covenant pressure markers, and policy‑driven capital flow variations.
+Tactical Intelligence tracks reopening probability across 6
+3 indicators spanning regulatory changes, board sentiment signals, covenant pressure markers, and policy‑driven capital flow variations.
 
 Cross‑border buyers rarely see these indicators.
 

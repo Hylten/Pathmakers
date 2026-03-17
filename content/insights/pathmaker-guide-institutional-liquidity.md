@@ -22,7 +22,9 @@ Liquidity flows toward businesses engineered to be investable. ## ## ## ##
 
 ## THE REGIME SHIFT
 
- The institutional liquidity regime that dominated from 2012 to 2022 was defined by cheap leverage, yield compression, and a behavioral assumption that capital would remain abundant.
+ The institutional liquidity regime that dominated from 201
+2 to 202
+2 was defined by cheap leverage, yield compression, and a behavioral assumption that capital would remain abundant.
 
 Operators did not optimize for resilience because capital itself functioned as an inexpensive buffer.
 
@@ -160,7 +162,8 @@ The discipline rests on three pillars:
 When stewardship is embedded, institutions perceive: 
 -  Reduced counterparty volatility 
 -  Higher governance reliability 
--  Lower operational opacity The theological blueprint for this discipline is consistent. **Proverbs 13:22** presents the long horizon logic of capital environments that are structured for generational continuity rather than transactional extraction.
+-  Lower operational opacity The theological blueprint for this discipline is consistent. **Proverbs 13:22*
+* presents the long horizon logic of capital environments that are structured for generational continuity rather than transactional extraction.
 
 This filter creates the behavioral foundation for institutional compatibility. ## 
 

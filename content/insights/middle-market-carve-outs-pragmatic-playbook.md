@@ -145,7 +145,8 @@ Stewardship is defined by three principles:
 -  Transparent operational governance. 
 -  Purposeful leadership aligned with value creation.
 
-In **Proverbs 13:22** , the emphasis on generational allocation speaks to the discipline of structuring assets with longevity rather than short-term extraction.
+In **Proverbs 13:22*
+* , the emphasis on generational allocation speaks to the discipline of structuring assets with longevity rather than short-term extraction.
 
 Carve-out operators who apply this lens avoid reactive restructuring and instead build operational systems that scale predictably. ## 
 

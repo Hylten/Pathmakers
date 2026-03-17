@@ -185,7 +185,8 @@ Tactical Intelligence restores the ratio.
 
 Mandates are abundant; closable deals are scarce.
 
-The Analyst Team has studied over 400 mid‑market pipelines in the last three cycles.
+The Analyst Team has studied over 40
+0 mid‑market pipelines in the last three cycles.
 
 The structural patterns repeat with uncanny consistency.
 

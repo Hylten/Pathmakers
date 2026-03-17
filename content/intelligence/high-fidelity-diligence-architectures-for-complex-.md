@@ -206,7 +206,9 @@ It is to model how the business reacts under real world stress.
 
 Mid market deals often skip this.
 
-That is why integration teams spend 12 to 18 months unwinding preventable errors. # 
+That is why integration teams spend 1
+2 to 1
+8 months unwinding preventable errors. # 
 
 ## Step Five: Decision Grade Synthesis The final output is not a binder.
 

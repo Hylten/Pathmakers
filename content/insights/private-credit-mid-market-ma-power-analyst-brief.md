@@ -20,7 +20,8 @@ Surgical.
 
 High-leverage.
 
-Private credit is not an alternative asset class; it is the underlying **force multiplier** behind acquisition velocity, exit readiness, and structural advantage.
+Private credit is not an alternative asset class; it is the underlying **force multiplier*
+* behind acquisition velocity, exit readiness, and structural advantage.
 
 Markets rarely recognize this because private credit operates in the shadows of regulated finance.
 
@@ -60,7 +61,8 @@ Machine gun cadence.
 
 No fillers.
 
-Hard edges only. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children. 
+Hard edges only. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children. 
 
 ## PRIVATE CREDIT AS A PATHMAKER Liquidity bends markets.
 
@@ -264,7 +266,8 @@ This is not avoidance.
 
 This is precision engineering.
 
-The right jurisdiction adds 1-3 turns of EBITDA to valuation.
+The right jurisdiction adds 1-
+3 turns of EBITDA to valuation.
 
 The wrong one subtracts them. 
 

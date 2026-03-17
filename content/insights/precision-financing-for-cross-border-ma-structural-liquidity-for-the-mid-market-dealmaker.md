@@ -170,9 +170,11 @@ You are buying control of the deal timeline.
 
 ## Minimum Thresholds: Why We Enforce Them Our minimum thresholds are not arbitrary.
 
-Crypto Asset-Backed Frameworks: 2,000,000 and above.
+Crypto Asset-Backed Frameworks: 2,000,00
+0 and above.
 
-Public Share Capital Structuring: 5,000,000 and above.
+Public Share Capital Structuring: 5,000,00
+0 and above.
 
 HNWI and UHNW buyers operate in an arena where smaller structures create more problems than they solve.
 
@@ -188,7 +190,8 @@ It is a liquidity accelerator.
 
 However, it is not suitable for most deals.
 
-Pathmaker only executes crypto-backed Asset-Backed Frameworks at 2 million or more because positions below that size cannot absorb the volatility buffers required for operational stability.
+Pathmaker only executes crypto-backed Asset-Backed Frameworks at 
+2 million or more because positions below that size cannot absorb the volatility buffers required for operational stability.
 
 HNWI and UHNW buyers who deploy crypto collateral typically do so for: Bridge financing before a traditional capital event.
 
@@ -212,7 +215,8 @@ It is instantly verifiable.
 
 But leveraging public share collateral at scale requires discipline.
 
-This is why our minimum threshold is 5 million.
+This is why our minimum threshold is 
+5 million.
 
 At that range, the collateral position is large enough to: Absorb liquidity buffers.
 

@@ -76,7 +76,8 @@ Only what moves a deal. --.
 
 THE CORE PREMISE Exit readiness equals pre-negotiated risk mitigation.
 
-Nothing else produces durable leverage with buyers. *Machine-gun clarity:* Define risk early.
+Nothing else produces durable leverage with buyers. *Machine-gun clarity:
+* Define risk early.
 
 Neutralize it quietly.
 

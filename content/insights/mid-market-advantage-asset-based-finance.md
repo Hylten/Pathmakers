@@ -89,7 +89,9 @@ Exit readiness is engineered through:
 
 Legibility reduces the discount rate applied during purchase price negotiation.
 
-In practical terms, 15 to 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
+In practical terms, 1
+5 to 3
+0 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
 
 ## PHASE 2C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
 
@@ -145,7 +147,8 @@ The partnership model reduces execution risk by eliminating the inconsistencies 
 
 It is a capital discipline rooted in non-wasteful resource management.
 
-As stated in **Proverbs 13:22** , stewardship is generational and structural, not transactional.
+As stated in **Proverbs 13:22*
+* , stewardship is generational and structural, not transactional.
 
 The mid-market suffers from two forms of capital waste. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 

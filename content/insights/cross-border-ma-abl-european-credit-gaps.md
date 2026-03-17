@@ -44,7 +44,8 @@ No abstractions.
 
 No theatre.
 
-Just executable leverage. **Proverbs 13:22** : A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous.
+Just executable leverage. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous.
 
 The inheritance in this context is institutional durability-capital structures that survive cycles, jurisdictions, politics, and regulatory drift.
 
@@ -142,7 +143,11 @@ Every regulator shapes enforcement differently.
 
 Europe is not one market.
 
-Europe is 27 enforcement realities. 27 insolvency codes. 27 banking risk models. 27 interpretations of "value." The operator who assumes equivalence will lose money.
+Europe is 2
+7 enforcement realities. 2
+7 insolvency codes. 2
+7 banking risk models. 2
+7 interpretations of "value." The operator who assumes equivalence will lose money.
 
 The operator who assumes asymmetry will engineer advantage.
 
@@ -206,7 +211,8 @@ The institutional problem is that most operators underestimate the degree to whi
 
 A lender does not price "inventory." A lender prices "recoverable inventory under local legal constraints." The distinction is decisive.
 
-A lender does not price "receivables." A lender prices "receivables governed by debtor‑friendly law where enforcement cycles exceed 400 days." This is why collateral mapping, in Fund-III discipline, becomes the central instrument.
+A lender does not price "receivables." A lender prices "receivables governed by debtor‑friendly law where enforcement cycles exceed 40
+0 days." This is why collateral mapping, in Fund-III discipline, becomes the central instrument.
 
 Define asset pools.
 
@@ -390,7 +396,8 @@ Cross‑border Asset-Based Lending also supports integration.
 
 Post‑acquisition liquidity gaps destroy integration strategies.
 
-Cash is consumed faster during the first 180 days than in any other period.
+Cash is consumed faster during the first 18
+0 days than in any other period.
 
 Inventory rebuild.
 
@@ -502,7 +509,8 @@ Liquidity attracts opportunity.
 
 Structure attracts trust.
 
-Precision attracts premium. **Proverbs 13:22** applies again: durability is legacy.
+Precision attracts premium. **Proverbs 13:22*
+* applies again: durability is legacy.
 
 Precision is stewardship.
 

@@ -154,7 +154,8 @@ This is where premiums rise.
 
 Where speed compounds.
 
-Where value realizes. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children.
+Where value realizes. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children.
 
 Structurally translated into M&A: long-term architecture outperforms opportunistic timing. 
 -  
@@ -395,7 +396,8 @@ Core buyer signals include:
 
 These signals create a new perimeter for readiness.
 
-A seller prepared for domestic buyers may be engaging at level 4 while international buyers operate at level 
+A seller prepared for domestic buyers may be engaging at level 
+4 while international buyers operate at level 
 
 8. The gap becomes valuation loss.
 

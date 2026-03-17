@@ -76,7 +76,8 @@ It reduces the cost of capital relative to uncertainty.
 
 It removes dependency on corporate willingness to cooperate.
 
-Most important: it decouples deal timing from the parent’s internal politics. **Proverbs 13:22** : The wealth of the sinner is laid up for the just.
+Most important: it decouples deal timing from the parent’s internal politics. **Proverbs 13:22*
+* : The wealth of the sinner is laid up for the just.
 
 In the mid‑market, the just are the prepared.
 
@@ -294,7 +295,8 @@ Integration is momentum.
 
 Asset-Based Lending creates momentum.
 
-EXIT READINESS BEGINS ON DAY 1 The strongest exit multiples come from businesses that demonstrate: 
+EXIT READINESS BEGINS ON DAY 
+1 The strongest exit multiples come from businesses that demonstrate: 
 -  Independent financial systems. 
 -  Reliable working capital. 
 -  Stable trade cycles. 
@@ -405,7 +407,8 @@ Step 2: Validate AR, inventory, equipment residuals.
 
 Step 3: Construct liquidity corridors tied to operational cycles.
 
-Step 4: Pre‑build Day‑1 liquidity events.
+Step 4: Pre‑build Day‑
+1 liquidity events.
 
 Step 5: Neutralize vendor uncertainty.
 
@@ -469,6 +472,7 @@ Therefore carve‑outs succeed.
 
 Book a tactical consultation.
 
-Technical metric: 97.4 percent liquidity‑to‑asset coverage ratio (LACR) under stabilized mid‑market conditions.
+Technical metric: 97.
+4 percent liquidity‑to‑asset coverage ratio (LACR) under stabilized mid‑market conditions.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

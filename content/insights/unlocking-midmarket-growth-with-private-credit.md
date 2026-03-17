@@ -131,11 +131,13 @@ We provide the structural mechanics.
 
 You direct the strategy. 
 
-## Public Share Asset-Backed Frameworks: Minimum Threshold 5 Million Public equity positions often sit idle during high‑velocity deal environments.
+## Public Share Asset-Backed Frameworks: Minimum Threshold 
+5 Million Public equity positions often sit idle during high‑velocity deal environments.
 
 They are valuable, but not liquid enough to deploy quickly without damaging the long‑term strategy.
 
-Pathmaker solves this by Capital Structuring against public shares with a minimum threshold of 5 million.
+Pathmaker solves this by Capital Structuring against public shares with a minimum threshold of 
+5 million.
 
 This creates: 
 -  Fast liquidity 
@@ -144,9 +146,11 @@ This creates:
 -  Better timing control 
 -  A buffer against market volatility This mechanism is particularly valuable for mid‑market operators who have accumulated concentrated positions through earlier exits or strategic holdings. 
 
-## Crypto Strategic Collateralization: Minimum Threshold 2 Million Digital assets are volatile, but they are also collateral.
+## Crypto Strategic Collateralization: Minimum Threshold 
+2 Million Digital assets are volatile, but they are also collateral.
 
-Pathmaker lends against crypto positions with a minimum threshold of 2 million.
+Pathmaker lends against crypto positions with a minimum threshold of 
+2 million.
 
 We do not treat crypto as speculative hype.
 
@@ -214,7 +218,8 @@ It depends on structural clarity and disciplined execution.
 
 Pathmaker is built for exactly this environment. 
 
-## What Operators Should Expect in the Next 24 Months Mid‑market liquidity will tighten.
+## What Operators Should Expect in the Next 2
+4 Months Mid‑market liquidity will tighten.
 
 Compliance costs will rise, especially in healthcare and industrial sectors.
 

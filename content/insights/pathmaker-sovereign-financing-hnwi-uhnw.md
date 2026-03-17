@@ -239,7 +239,8 @@ It positions the operator as an energy‑relevant stabilizer.
 
 This is why the architecture matters.
 
-Sovereign recognition is structural, not personal. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children, but the wealth of the sinner is laid up for the just.
+Sovereign recognition is structural, not personal. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children, but the wealth of the sinner is laid up for the just.
 
 Sovereign capital rewards structure.
 
@@ -587,4 +588,5 @@ Sovereign recognition requires institutional discipline.
 
 Capital follows once identity stabilizes.
 
-Metric anchor: Sovereign Readiness Index ≥ 0.82 required for corridor Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Metric anchor: Sovereign Readiness Index ≥ 0.8
+2 required for corridor Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

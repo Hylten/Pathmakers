@@ -374,6 +374,7 @@ And they build an advantage that compounds across markets.
 
 For teams preparing to scale their M&A funnels or expand across new markets, the Diagnostic Audit is the correct starting point.
 
-It provides the architecture required to construct sourcing systems that endure. **Book a strategic consultation**
+It provides the architecture required to construct sourcing systems that endure. **Book a strategic consultation*
+*
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

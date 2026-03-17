@@ -422,15 +422,20 @@ Ignore it and the asset will close its gates.
 
 ## Deployment Framework for Cross Border Buyers A disciplined Principal deploys in five movements. # 
 
-## Movement 1 Establish covenant alignment before touching financials. # 
+## Movement 
+1 Establish covenant alignment before touching financials. # 
 
-## Movement 2 Deploy Tactical Intelligence to expose structural barriers. # 
+## Movement 
+2 Deploy Tactical Intelligence to expose structural barriers. # 
 
-## Movement 3 Stabilize the founder’s stewardship concerns. # 
+## Movement 
+3 Stabilize the founder’s stewardship concerns. # 
 
-## Movement 4 Execute diligence conditioned for institutional scrutiny. # 
+## Movement 
+4 Execute diligence conditioned for institutional scrutiny. # 
 
-## Movement 5 Accelerate integration with pre structured vectors. 
+## Movement 
+5 Accelerate integration with pre structured vectors. 
 
 ## The Spirit of Gnosjö The Spirit of Gnosjö is not folklore.
 

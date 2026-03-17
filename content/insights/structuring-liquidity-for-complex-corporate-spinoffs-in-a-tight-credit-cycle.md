@@ -85,11 +85,14 @@ This is essential when timing is sensitive and external visibility must remain c
 They are predictable.
 
 They are preventable. 
--  **Underestimating cash flow disruption** Executives model accounts receivable as if payer behavior remains unchanged.
+-  **Underestimating cash flow disruption*
+* Executives model accounts receivable as if payer behavior remains unchanged.
 
 It never does. 
--  **Delaying liquidity until after the carve‑out** By the time the new entity begins billing, the liquidity window has already tightened. 
--  **Using capital structures that cannot flex** A single lender with rigid requirements will stall the spinoff the moment variables shift.
+-  **Delaying liquidity until after the carve‑out*
+* By the time the new entity begins billing, the liquidity window has already tightened. 
+-  **Using capital structures that cannot flex*
+* A single lender with rigid requirements will stall the spinoff the moment variables shift.
 
 Pathmaker structures liquidity intentionally to avoid all three. 
 

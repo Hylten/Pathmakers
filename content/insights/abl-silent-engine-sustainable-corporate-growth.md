@@ -8,7 +8,8 @@ slug: "abl-silent-engine-sustainable-corporate-growth"
 
 Structural displacement in corporate finance is not driven by scarcity of capital.
 
-It is driven by the misalignment between traditional underwriting models and the operational volatility of the post-2023 enterprise.
+It is driven by the misalignment between traditional underwriting models and the operational volatility of the post-202
+3 enterprise.
 
 Asset Based Lending has expanded because it relies on measurable asset integrity rather than sentiment-driven credit committees.
 
@@ -58,9 +59,13 @@ Several mechanics define institutional grade Asset-Based Lending execution:
 -  Collateral Velocity Assessment The lender analyzes the turnover speed of inventory and receivables to determine predictable liquidity conversion.
 
 Companies with stable invoice cycles can unlock higher borrowing bases because the asset flow validates forward visibility. 
--  Advance Rate Structuring Receivables prime-rated at 80 to 90 percent.
+-  Advance Rate Structuring Receivables prime-rated at 8
+0 to 9
+0 percent.
 
-Inventory often ranges between 40 and 65 percent depending on granularity, perishability, and valuation methodology.
+Inventory often ranges between 4
+0 and 6
+5 percent depending on granularity, perishability, and valuation methodology.
 
 The architecture is designed to reflect verifiable liquidation scenarios rather than speculation. 
 -  Dominant Security Position Asset-Based Lending lenders secure first-ranking claims on working assets.
@@ -166,7 +171,8 @@ The model centers on three functions:
 
 ## THE STEWARDSHIP FILTER Stewardship in capital architecture requires responsible structuring.
 
-It is the discipline of maintaining operational integrity, protecting employees, and managing resources without waste. **Proverbs 13:22** frames the principle: stable enterprises build generational continuity.
+It is the discipline of maintaining operational integrity, protecting employees, and managing resources without waste. **Proverbs 13:22*
+* frames the principle: stable enterprises build generational continuity.
 
 Asset-Based Lending supports this mandate by preventing unnecessary equity erosion, protecting productive assets, and preserving the operational engine of the company. ## 
 

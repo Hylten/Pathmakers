@@ -127,7 +127,8 @@ The ##
 
 It is not merely financial prudence.
 
-It is an ethical framework for strategic decision making rooted in responsibility and clarity. **Proverbs 13:22** establishes the principle that durable value is a generational responsibility.
+It is an ethical framework for strategic decision making rooted in responsibility and clarity. **Proverbs 13:22*
+* establishes the principle that durable value is a generational responsibility.
 
 Mid-market operators frequently operate at high velocity with limited structural discipline.
 

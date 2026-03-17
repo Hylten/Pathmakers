@@ -30,7 +30,9 @@ At the same time, conglomerates face intensifying shareholder pressure to decons
 
 The result is a high velocity environment where corporate boards identify assets for divestiture faster than capital markets can provision the separation liquidity required to execute.
 
-The capital vacuum sits in the mid-market band of EUR 40 to 400 million enterprise value, where private equity sponsors compete aggressively for platform roll-ups but often cannot deploy quickly enough into complex spin-offs that lack standalone operational readiness.
+The capital vacuum sits in the mid-market band of EUR 4
+0 to 40
+0 million enterprise value, where private equity sponsors compete aggressively for platform roll-ups but often cannot deploy quickly enough into complex spin-offs that lack standalone operational readiness.
 
 This is the inflection point where liquidity engineering becomes the determining factor.
 
@@ -134,11 +136,13 @@ In this context, the advisory function becomes a form of operational intelligenc
 ## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility.
 
 The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience. 
--  **Proverbs 13:22** provides a foundational principle: capital is to be positioned in a manner that benefits future generations, not consumed in short-term transactions.
+-  **Proverbs 13:22*
+* provides a foundational principle: capital is to be positioned in a manner that benefits future generations, not consumed in short-term transactions.
 
 The stewardship filter in corporate separations includes: 
 -  Ensuring that the division receives sufficient transitional liquidity to protect employees, supply chains, and strategic customers. 
--  Building governance structures that prevent operational drift during the first 24 months post-separation. 
+-  Building governance structures that prevent operational drift during the first 2
+4 months post-separation. 
 -  Avoiding extraction-based financial engineering that compromises long-term viability. 
 -  Structuring credit facilities in a manner that aligns cash-flow obligations with operational reality rather than short-term investor preferences.
 

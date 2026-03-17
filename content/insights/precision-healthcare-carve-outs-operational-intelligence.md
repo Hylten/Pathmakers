@@ -98,7 +98,8 @@ Balance sheet calibration Precision healthcare carve-outs require balance sheet 
 
 This includes separating: 
 -  Equipment financing obligations 
--  Lease commitments under IFRS 16 
+-  Lease commitments under IFRS 1
+6 
 -  Supplier contracts and consumables 
 -  Service agreements for clinical devices 
 -  Working capital accounts Allocators cannot accept balance sheet contamination.
@@ -184,7 +185,8 @@ The stewardship filter evaluates:
 
 Stewardship is not a philosophical exercise.
 
-It is a technical posture that aligns with **Proverbs 13:22** .
+It is a technical posture that aligns with **Proverbs 13:22*
+* .
 
 Effective operators build structures that endure beyond transitional ownership and generate long-term stability for patients, clinicians, and capital partners. ## ## ## 
 

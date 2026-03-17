@@ -94,7 +94,8 @@ Healthcare targets tend to have:
 -  Strong predictable receivables 
 -  Equipment and infrastructure that can be valued 
 -  Repeatable service lines that generate consistent working capital 
--  High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last 36 months.
+-  High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last 3
+6 months.
 
 This is why UHNW operators who specialize in healthcare carve-outs rarely bother with traditional senior debt anymore.
 
@@ -110,7 +111,8 @@ The strategic advantage comes from how it is deployed. # ##
 
 UHNW buyers do not.
 
-With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish Phase 1 diligence.
+With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish Phase 
+1 diligence.
 
 This intimidates sellers.
 
@@ -144,7 +146,9 @@ Not to over-leverage.
 But to eliminate every possible closing delay.
 
 A common approach is: 
--  40 to 60 percent of purchase price covered by an Asset-Based Lending facility 
+-  4
+0 to 6
+0 percent of purchase price covered by an Asset-Based Lending facility 
 -  Remainder covered by personal funds or a family office pool 
 -  Immediate follow-on liquidity reserved for post-close stabilization This hybrid structure allows them to close faster than PE firms that must syndicate or seek LP approval.
 
@@ -178,7 +182,9 @@ Asset-Based Lending:
 
 1. Use Asset-Based Lending to close. 
 
-2. Bring in private credit 60 to 120 days post-close. 
+2. Bring in private credit 6
+0 to 12
+0 days post-close. 
 
 3. Recycle personal capital into the next opportunity.
 

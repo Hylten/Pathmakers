@@ -200,8 +200,10 @@ HNWI and UHNW buyers prioritize:
 ## When Crypto Institutional Liquidity Paths and Public Share Institutional Liquidity Paths Strengthen the Capital Stack Technology carve-out buyers with diversified portfolios often have liquid but underutilized asset classes.
 
 Pathmaker supports this dynamic through: 
--  Crypto Capital Structuring with a minimum threshold of 2,000,000 
--  Public Share Strategic Collateralization with a minimum threshold of 5,000,000 These mechanisms allow buyers to unlock liquidity from their broader assets without exiting long-term positions.
+-  Crypto Capital Structuring with a minimum threshold of 2,000,00
+0 
+-  Public Share Strategic Collateralization with a minimum threshold of 5,000,00
+0 These mechanisms allow buyers to unlock liquidity from their broader assets without exiting long-term positions.
 
 The benefit is straightforward.
 
@@ -268,7 +270,8 @@ Asset-Based Lending gives buyers:
 
 We provide Capital Structuring against Private Credit and Asset-Based Capital Structuring.
 
-We support crypto Monetization Architecture starting at 2,000,000 and public share Capital Structuring starting at 5,000, 
+We support crypto Monetization Architecture starting at 2,000,00
+0 and public share Capital Structuring starting at 5,000, 
 
 000. We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
 

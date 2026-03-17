@@ -34,7 +34,8 @@ Not those who romanticise turnarounds or chase discounted assets because they lo
 
 This article outlines that environment, the pressures shaping mid-market M&A, and how crypto-backed liquidity has become a non-correlated accelerant for serious buyers. 
 
-## The Nordic Mid-Market Environment in 2026 The region has always been structurally conservative.
+## The Nordic Mid-Market Environment in 202
+6 The region has always been structurally conservative.
 
 That conservatism has not disappeared, but it has morphed.
 
@@ -213,7 +214,9 @@ This is where Pathmaker operates with principal authority.
 
 We provide the structural mechanics so our clients can move faster, negotiate better, and acquire with precision. 
 
-## How HNWI and UHNW Investors Should Position Themselves Now Over the next 12 to 24 months, the most attractive Nordic deals will be won by investors who prepare their liquidity profile before entering negotiations.
+## How HNWI and UHNW Investors Should Position Themselves Now Over the next 1
+2 to 2
+4 months, the most attractive Nordic deals will be won by investors who prepare their liquidity profile before entering negotiations.
 
 This preparation includes: 
 -  Setting up crypto Strategic Collateralization lines above two million dollars 

@@ -22,7 +22,8 @@ It requires balance sheet simplification, asset hardening, and the removal of M&
 
 ## THE REGIME SHIFT
 
- Europe, the Nordics, and the DACH region entered 2026 with a convergence of regulatory, demographic, and credit market dynamics that amplified the stress on healthcare operators: 
+ Europe, the Nordics, and the DACH region entered 202
+6 with a convergence of regulatory, demographic, and credit market dynamics that amplified the stress on healthcare operators: 
 -  Long term interest rate elevation persists, limiting refinancing optionality and compressing traditional credit availability. 
 -  Operator fragmentation across the mid market creates inefficiencies in procurement, staffing allocation, and asset utilization. 
 -  Tangible asset value remains under leveraged due to outdated collateral policies and conservative sector classification within traditional banking frameworks. 
@@ -150,7 +151,8 @@ Within healthcare, stewardship carries heightened responsibility due to the miss
 
 Three stewardship principles guide the Strategic Collateralization process: 
 
-1. Non wasteful capital deployment Aligning financing structures with productive assets ensures the operator does not incur unnecessary leverage or misaligned obligations. **Proverbs 13:22** establishes the ethical framework for generational planning and responsible asset management. 
+1. Non wasteful capital deployment Aligning financing structures with productive assets ensures the operator does not incur unnecessary leverage or misaligned obligations. **Proverbs 13:22*
+* establishes the ethical framework for generational planning and responsible asset management. 
 
 2. Transparency as operational governance Institutions do not penalize complexity.
 

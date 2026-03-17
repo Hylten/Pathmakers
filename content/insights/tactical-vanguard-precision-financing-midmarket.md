@@ -21,7 +21,9 @@ Instead, the decisive factors are transaction clarity, exit visibility, and the 
 Private credit funds, sovereign entities, and consolidation buyers have compressed their underwriting cycles, and the result is a divergence between capital with mandate rigidity and companies requiring liquidity aligned to strategic timing.
 
 This shift is characterized by: 
--  Regulatory delay cycles that extend acquisition or divestiture timelines by 6 to 18 months. 
+-  Regulatory delay cycles that extend acquisition or divestiture timelines by 
+6 to 1
+8 months. 
 -  A rising threshold for financial reporting sophistication. 
 -  A recalibration of leverage appetite across private credit markets due to LTV corridor tightening. 
 -  Institutional preference for off market opportunities that provide predictable integration burden. 
@@ -120,7 +122,8 @@ The theology of capital treats capital as a resource with purpose, not as an ins
 
 The foundational principle is that capital stewardship must preserve optionality, strengthen operational resilience, and create multi generational value.
 
-Scriptural alignment reinforces the discipline. **Proverbs 13:22** states: A good man leaves an inheritance to his childrens children.
+Scriptural alignment reinforces the discipline. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his childrens children.
 
 In the institutional context, this reflects the obligation to build structures that endure beyond a single transaction.
 

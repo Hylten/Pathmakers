@@ -175,9 +175,11 @@ HNWI and UHNW families gravitate to private credit because it expresses:
 -  Real world discipline 
 -  Alignment with conservative values The requirements are clear.
 
-Crypto backed liquidity engineering begins at 2 million.
+Crypto backed liquidity engineering begins at 
+2 million.
 
-Public share Strategic Collateralization begins at 5 million.
+Public share Strategic Collateralization begins at 
+5 million.
 
 Borrowers who understand stewardship qualify.
 

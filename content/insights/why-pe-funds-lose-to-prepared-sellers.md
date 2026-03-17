@@ -26,7 +26,8 @@ It rewards those who design their exit long before the buyer forms an opinion.
 
 What follows is the internal briefing. 
 
-## PHASE 1 
+## PHASE 
+1 
 -  ## ## ## : THE STRUCTURAL DIAGNOSIS Private briefing.
 
 No sentiment.
@@ -51,7 +52,8 @@ Speed wins.
 
 But speed requires architecture.
 
-Prepared sellers move with institutional precision because they frontload the work that most sellers attempt to complete in the last 45 days.
+Prepared sellers move with institutional precision because they frontload the work that most sellers attempt to complete in the last 4
+5 days.
 
 This inversion creates an unbridgeable advantage.
 
@@ -119,7 +121,8 @@ Private equity loses the deal.
 
 Not because they mispriced it, but because another buyer moved with greater certainty based on cleaner inputs. 
 
-## PHASE 2 
+## PHASE 
+2 
 -  PRINCIPAL VOICE: DIRECT STATEMENTS FROM THE ANALYST CHAIR This is not conjecture.
 
 This is field intelligence.
@@ -218,7 +221,8 @@ Prepared sellers dominate.
 
 This is the new landscape. 
 
-## PHASE 3 
+## PHASE 
+3 
 -  ## 
 
 ## INTERNAL BYPASS : ADVANCED STRUCTURAL DEPTH THE DATA ROOM AS A WEAPON In unprepared deals, the data room is a storage closet.
@@ -266,7 +270,8 @@ High‑intent sellers move quickly.
 
 Funds used to multi‑month underwriting windows cannot keep pace.
 
-THE 72-HOUR ADVANTAGE WINDOW A prepared seller often creates an advantage window of 72 hours.
+THE 72-HOUR ADVANTAGE WINDOW A prepared seller often creates an advantage window of 7
+2 hours.
 
 Once the buyer believes the deal is real, the momentum is irreversible.
 
@@ -344,7 +349,8 @@ They do not wait for a buyer to define them.
 
 They define themselves.
 
-If you intend to exit within 36 months, the work begins now.
+If you intend to exit within 3
+6 months, the work begins now.
 
 Preparation is not optional.
 

@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
 --- 
 
-The structural gap defining healthcare logistics in 2026 is not a function of asset scarcity.
+The structural gap defining healthcare logistics in 202
+6 is not a function of asset scarcity.
 
 It is a consequence of regulatory compression, margin standardization, and fragmented credit interpretation across mid-market operators.
 
@@ -22,7 +23,10 @@ This misalignment is not cyclical economics but institutional calibration drift.
 
 Demand accelerates as aging populations expand intake volumes, yet balance sheets remain trapped between contract timing and regulatory service guarantees.
 
-The capital inefficiency emerges from three forces. * First, regulatory load elongates DSO cycles while forcing higher inventory obligations. * Second, mid-market operators lack the treasury sophistication to convert these obligations into structured collateral narratives legible to credit committees. * Third, traditional lenders benchmark logistics as a general industrial category rather than a compliance governed distribution system with stable throughput physics.
+The capital inefficiency emerges from three forces. 
+* First, regulatory load elongates DSO cycles while forcing higher inventory obligations. 
+* Second, mid-market operators lack the treasury sophistication to convert these obligations into structured collateral narratives legible to credit committees. 
+* Third, traditional lenders benchmark logistics as a general industrial category rather than a compliance governed distribution system with stable throughput physics.
 
 The macro environment compounds this.
 
@@ -142,11 +146,16 @@ This intelligence informs the selection of institutional credit partners who mat
 
 Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
 
-The theology of capital is represented in **Proverbs 13:22** which frames resource management as generational responsibility.
+The theology of capital is represented in **Proverbs 13:22*
+* which frames resource management as generational responsibility.
 
 In operational terms this means reducing waste, eliminating avoidable liquidity shocks, and ensuring that capital supports continuity rather than speculation.
 
-Stewardship in healthcare logistics is demonstrated through: * Stable procurement cycles that eliminate emergency sourcing premiums * Inventory systems that reduce expirations and prevent supply gaps * Liquidity structures that support patient facing service continuity * Balance sheet optimization that reinforces institutional trust with partners and acquirers Capital becomes a tool for maintaining service integrity.
+Stewardship in healthcare logistics is demonstrated through: 
+* Stable procurement cycles that eliminate emergency sourcing premiums 
+* Inventory systems that reduce expirations and prevent supply gaps 
+* Liquidity structures that support patient facing service continuity 
+* Balance sheet optimization that reinforces institutional trust with partners and acquirers Capital becomes a tool for maintaining service integrity.
 
 This is the inverse of leverage driven growth models.
 

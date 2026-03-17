@@ -221,7 +221,8 @@ HNWI and UHNW clients choose Pathmaker because we do not dilute their narrative.
 
 We strengthen their leverage. 
 
-## The Nordic Logistics Landscape in 2030 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
+## The Nordic Logistics Landscape in 203
+0 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
 
 Terminals will use higher density pallet systems.
 

@@ -6,7 +6,8 @@ author: "Jonas Hyltén"
 slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
 --- 
 
-The capital vacuum shaping the 2026 European and North American mid-market M&A environment is not a function of scarcity.
+The capital vacuum shaping the 202
+6 European and North American mid-market M&A environment is not a function of scarcity.
 
 It is a structural artifact of regulatory compression, balance sheet fatigue, and the progressive withdrawal of traditional sponsor-backed acquisition engines.
 
@@ -18,7 +19,8 @@ It is the operational triage through which acquirable companies are separated fr
 
 ## THE REGIME SHIFT
 
- European and Nordic mid-market acquirers entered 2026 under conditions defined by reduced liquidity velocity, dislocated pricing ranges, and a widening spread between formal valuation models and the realized exit values in private bilateral negotiations.
+ European and Nordic mid-market acquirers entered 202
+6 under conditions defined by reduced liquidity velocity, dislocated pricing ranges, and a widening spread between formal valuation models and the realized exit values in private bilateral negotiations.
 
 Capital allocators now underwrite transactions with a significantly lower tolerance for operational ambiguity.
 
@@ -27,7 +29,9 @@ The delta between book assumptions and actual unit economics is penalized more a
 2011. The structural shift can be summarized as follows. 
 -  Balance sheet elasticity has contracted.
 
-Banks and alternative credit providers have reduced leverage allowances relative to EBITDA by 0.5 to 1.0 turns across general industries. 
+Banks and alternative credit providers have reduced leverage allowances relative to EBITDA by 0.
+5 to 1.
+0 turns across general industries. 
 -  Regulatory friction has increased, particularly around environmental disclosures, supply chain continuity, and data governance, which now function as gating variables in M&A due diligence. 
 -  Mid-market sellers often lack the internal infrastructure to meet institutional buyer expectations.
 
@@ -185,7 +189,8 @@ Stewardship prioritizes durability over short-term optimization.
 
 It is not a compliance function but a structural safeguard against drift. 
 
-4. Moral Accountability Stewardship recognizes that capital allocation and asset transfer are responsibilities with long-term consequences. **Proverbs 13:22** sets the standard: creating structures that survive beyond a single generation of leadership. ## 
+4. Moral Accountability Stewardship recognizes that capital allocation and asset transfer are responsibilities with long-term consequences. **Proverbs 13:22*
+* sets the standard: creating structures that survive beyond a single generation of leadership. ## 
 
 ## A DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating GP acquisitions in the current environment require a disciplined framework.
 

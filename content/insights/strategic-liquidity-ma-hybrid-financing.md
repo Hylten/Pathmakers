@@ -54,7 +54,8 @@ The objective is capital leverage.
 
 Precision liquidity.
 
-Engineered to move the deal, protect the acquirer, and strengthen the exit vector. **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
+Engineered to move the deal, protect the acquirer, and strengthen the exit vector. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children.
 
 The institutional parallel: build capital structures that endure beyond the transaction.
 
@@ -90,9 +91,11 @@ Hybrid financing neutralizes that friction through structural layering.
 
 Not complexity-architecture. 
 
-1. The liquidity gap Banks fund 50-65 percent.
+1. The liquidity gap Banks fund 50-6
+5 percent.
 
-Equity investors demand 20-40 percent.
+Equity investors demand 20-4
+0 percent.
 
 The remaining tranche-the silent gap-kills most deals. 
 
@@ -138,7 +141,8 @@ Speed without risk escalation.
 -  Non‑dilutive 
 -  Covenants engineered, not inherited 
 -  Amortization aligned with cashflow peaks 
--  Rapid deployability (14-28 days) 
+-  Rapid deployability (14-2
+8 days) 
 -  Survivability under macro stress Banks move slowly.
 
 Equity moves expensively.
@@ -160,7 +164,8 @@ Senior or unitranche.
 Built for acquirers requiring scale.
 
 Characteristics: 
--  8,14 percent cost of capital 
+-  8,1
+4 percent cost of capital 
 -  High structural control 
 -  Predictable underwriting framework 
 -  Performs well in asset-backed environments Use-case: First acquisition or bolt-on consolidation where speed, simplicity, and certainty outrank optimization.

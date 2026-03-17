@@ -32,7 +32,8 @@ Buyers able to price operational risk are increasingly non-Nordic.
 
 U.S. private capital allocators and specialized funds evaluate Nordic operations with a more mechanical lens that favors cash-flow durability and cost visibility rather than brand heritage or legacy market position.
 
-Transaction momentum often collapses because the seller expects premium valuation while the buyer assumes transitional inefficiencies that dilute cash conversion in the first 18 months.
+Transaction momentum often collapses because the seller expects premium valuation while the buyer assumes transitional inefficiencies that dilute cash conversion in the first 1
+8 months.
 
 Pressure 2: Execution Bottlenecks.
 
@@ -46,7 +47,8 @@ Legacy IT interdependencies are downplayed.
 
 These factors create friction that institutional acquirers treat as binary execution risk rather than hygiene tasks.
 
-Deals that should be 90-day processes extend past 180 days.
+Deals that should be 90-day processes extend past 18
+0 days.
 
 Velocity collapses.
 
@@ -216,7 +218,8 @@ When a carve-out misses timing windows, competitor activity, macro shifts, and i
 
 Stewardship ensures that decisions are executed within the optimal velocity window.
 
-Principle 4: Intergenerational Logic. **Proverbs 13:22** establishes a principle that resonates with institutional allocators: capital must be positioned in a way that strengthens future capability.
+Principle 4: Intergenerational Logic. **Proverbs 13:22*
+* establishes a principle that resonates with institutional allocators: capital must be positioned in a way that strengthens future capability.
 
 For corporates, this means redeploying resources toward strategically essential domains rather than maintaining operational drag from non-core assets.
 

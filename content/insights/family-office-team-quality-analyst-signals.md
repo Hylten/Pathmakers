@@ -294,7 +294,8 @@ It also predicts compressibility, meaning the ability of the enterprise to be in
 
 Pathmaker observes this constantly in acquisition pipelines.
 
-Coherent analyst teams shorten diligence timelines by 30.40 percent.
+Coherent analyst teams shorten diligence timelines by 30.4
+0 percent.
 
 Family offices know this.
 

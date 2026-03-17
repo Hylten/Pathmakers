@@ -70,9 +70,11 @@ We underscore correctly because these tools require maturity.
 
 Our thresholds reflect this maturity.
 
-Crypto Monetization Architecture begins at 2 million dollars.
+Crypto Monetization Architecture begins at 
+2 million dollars.
 
-Public share Capital Structuring begins at 5 million dollars.
+Public share Capital Structuring begins at 
+5 million dollars.
 
 These positions allow buyers to create liquidity without exiting core holdings.
 

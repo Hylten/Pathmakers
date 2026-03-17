@@ -102,9 +102,12 @@ Loan to Value calibration in these environments follows a functional approach ra
 
 LTV curves are matched to the liquidation liquidity of each collateral class.
 
-Receivables may sit in the 55 to 75 range.
+Receivables may sit in the 5
+5 to 7
+5 range.
 
-Equipment typically ranges between 30 and 
+Equipment typically ranges between 3
+0 and 
 
 45. Digital infrastructure requires a bespoke valuation aligned to replacement cost and operational continuity factors.
 
@@ -182,7 +185,8 @@ The stewardship filter evaluates three dimensions:
 
 Financing structures must not disrupt clinical operations or data integrity.
 
-This reflects the principle in **Proverbs 13:22** where generational responsibility is anchored in continuity. 
+This reflects the principle in **Proverbs 13:22*
+* where generational responsibility is anchored in continuity. 
 
 2. Responsible leverage.
 

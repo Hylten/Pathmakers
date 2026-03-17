@@ -35,7 +35,8 @@ In niche markets, EBITDA often distorts the operational truth.
 Asset Based Lending removes projection volatility and replaces it with measurable collateral value.
 
 This shift is directly visible in: 
--  The decline of generalist bank underwriting in sub 100 million EUR transactions. 
+-  The decline of generalist bank underwriting in sub 10
+0 million EUR transactions. 
 -  The rise of private credit allocators demanding faster collateral verification. 
 -  The need for acquirers to secure off market control before competitors arrive.
 
@@ -172,7 +173,8 @@ Stewardship creates:
 
 The principle is simple.
 
-Resources must be deployed where they strengthen operational resilience. **Proverbs 13:22** outlines this principle with clarity.
+Resources must be deployed where they strengthen operational resilience. **Proverbs 13:22*
+* outlines this principle with clarity.
 
 Capital is not a trophy.
 
@@ -180,7 +182,8 @@ It is a tool for sustaining productive systems across generations.
 
 ABL structures, when engineered correctly, reinforce this generational discipline by protecting downside risk and enhancing operational continuity. ## 
 
-## THE DECISION LENS FOR THE ALLOCATOR OR OPERATOR Operators who intend to execute niche market acquisitions in 2026 must adopt a structured evaluation framework.
+## THE DECISION LENS FOR THE ALLOCATOR OR OPERATOR Operators who intend to execute niche market acquisitions in 202
+6 must adopt a structured evaluation framework.
 
 ABL is advantageous when the operator can demonstrate: 
 -  Verifiable collateral across multiple target entities. 

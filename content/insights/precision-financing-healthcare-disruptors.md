@@ -102,7 +102,9 @@ Opportunity velocity measures how quickly an operator can evaluate, secure, and 
 Precision financing supports this through: 
 -  Pre vetted acquisition credit envelopes. 
 -  Legal standardization for rapid LOI deployment. 
--  Centralized diligence frameworks that reduce deal cycle by 60 to 80 percent.
+-  Centralized diligence frameworks that reduce deal cycle by 6
+0 to 8
+0 percent.
 
 These mechanics create an operator profile that is attractive to institutional buyers and defensible under audit conditions. 
 
@@ -150,7 +152,8 @@ The objective is not to inflate valuations artificially but to create durable va
 
 Stewardship as a discipline requires three commitments. 
 
-1. Clarity of Intent Operators must treat their balance sheet as a trust, not a tactical instrument. **Proverbs 13:22** positions this clearly: capital is intergenerational when stewarded wisely.
+1. Clarity of Intent Operators must treat their balance sheet as a trust, not a tactical instrument. **Proverbs 13:22*
+* positions this clearly: capital is intergenerational when stewarded wisely.
 
 Healthcare platforms with transparent accounting, controlled expense allocation, and defensible cash cycles embody this principle. 
 

@@ -124,7 +124,8 @@ It creates a liquidity buffer that is not dependent on a commercial bank’s qua
 
 It provides capital that understands complexity, not just collateral.
 
-It reinforces strategic transitions, especially in acquisitions and carve outs, where the first 180 days are structurally dangerous.
+It reinforces strategic transitions, especially in acquisitions and carve outs, where the first 18
+0 days are structurally dangerous.
 
 When designed properly, private credit eliminates fragility before it manifests. 
 

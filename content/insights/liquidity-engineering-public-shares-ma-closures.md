@@ -6,7 +6,8 @@ author: "Jonas Hyltén"
 slug: "liquidity-engineering-public-shares-ma-closures"
 --- 
 
-The capital vacuum shaping mid market corporate transactions in 2026 is not driven by a shortage of buyers or strategic demand.
+The capital vacuum shaping mid market corporate transactions in 202
+6 is not driven by a shortage of buyers or strategic demand.
 
 It is caused by a misalignment between the liquidity profile of asset holders and the transaction velocity required by institutional acquirers.
 
@@ -70,7 +71,8 @@ Opportunity velocity.
 
 Liquidity must be available at speeds that match M&A deal flow.
 
-This often requires pre cleared structures, standing credit arrangements, and executability within a 72 hour window.
+This often requires pre cleared structures, standing credit arrangements, and executability within a 7
+2 hour window.
 
 Price insulation.
 
@@ -168,7 +170,8 @@ Both paths undermine strategic compounding.
 
 Stewardship requires a third path.
 
-Unlock value without destroying exposure. **Proverbs 13:22** establishes the framework.
+Unlock value without destroying exposure. **Proverbs 13:22*
+* establishes the framework.
 
 Strategic capital must be structured in a way that strengthens future generations of enterprise, not weakens them through reactive decision making.
 

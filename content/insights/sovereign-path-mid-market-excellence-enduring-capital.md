@@ -152,7 +152,8 @@ Stewardship involves:
 -  Ethical capital structuring 
 -  Transparent record-keeping 
 -  Predictable governance frameworks 
--  Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in **Proverbs 13:22** .
+-  Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in **Proverbs 13:22*
+* .
 
 The stewardship filter ensures that enterprises do not simply prepare for exit but prepare for continuity. ## 
 

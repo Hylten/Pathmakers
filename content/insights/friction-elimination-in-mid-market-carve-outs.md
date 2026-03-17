@@ -329,13 +329,15 @@ Clean structure.
 
 Clear covenant language. # ## 
 
-3. Public Share Strategic Collateralization Minimum 5 million.
+3. Public Share Strategic Collateralization Minimum 
+5 million.
 
 Used for founders or HNWI holders of liquid listed equity.
 
 Structured for speed. # ## 
 
-4. Crypto Monetization Architecture Minimum 2 million.
+4. Crypto Monetization Architecture Minimum 
+2 million.
 
 Asset backed.
 

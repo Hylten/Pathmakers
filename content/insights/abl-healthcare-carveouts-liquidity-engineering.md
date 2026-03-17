@@ -30,7 +30,8 @@ The market respects precision.
 
 Buyers reward readiness.
 
-Sellers capture delta. **Proverbs 13:22** .
+Sellers capture delta. **Proverbs 13:22*
+* .
 
 Most healthcare assets fail not because of clinical inefficiencies but because balance-sheet inertia traps them.
 
@@ -164,7 +165,8 @@ The strongest operators use Asset-Based Lending to engineer this stance months b
 
 Because when the acquirer appears, the clock compresses.
 
-The operator must demonstrate three things in under 30 minutes: 
+The operator must demonstrate three things in under 3
+0 minutes: 
 -  Financial predictability 
 -  Compliance integrity 
 -  Scalable liquidity discipline Asset-Based Lending forces this discipline.
@@ -446,7 +448,8 @@ Velocity multiplied.
 -  Asset-Based Lending enables clean separation before buyer involvement. 
 -  Asset-Based Lending reduces parent-company resistance by offering certainty. 
 -  Asset-Based Lending improves quality-of-earnings outputs. 
--  Asset-Based Lending reduces M&A negotiation time by 30-50 percent.
+-  Asset-Based Lending reduces M&A negotiation time by 30-5
+0 percent.
 
 Time reduction is not merely convenience.
 
@@ -486,7 +489,8 @@ The carve‑out is the corridor.
 
 The exit is the endpoint.
 
-And the endpoint rewards the operator who engineered readiness before the market asked for it. **Proverbs 13:22** .
+And the endpoint rewards the operator who engineered readiness before the market asked for it. **Proverbs 13:22*
+* .
 
 Operators who apply this win with precision.
 
@@ -494,6 +498,7 @@ Operators who hesitate lose quietly.
 
 Book a tactical consultation.
 
-Metric: Borrowing-base efficiency target: 78 percent minimum.
+Metric: Borrowing-base efficiency target: 7
+8 percent minimum.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

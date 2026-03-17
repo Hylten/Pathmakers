@@ -96,7 +96,8 @@ Everything tradable on the open market is late.
 
 Everything quietly traded off-market drives the real returns.
 
-Family offices in 2026 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
+Family offices in 202
+6 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
 
 They want deals unlisted, uncirculated, unexposed.
 
@@ -126,7 +127,8 @@ Order creates optionality.
 
 Disorder kills deals.
 
-The Analyst Team states this unequivocally: the firms that win in 2026 do not build for the transaction.
+The Analyst Team states this unequivocally: the firms that win in 202
+6 do not build for the transaction.
 
 They build for the scrutiny.
 
@@ -158,7 +160,8 @@ In effect: exit readiness is the new covenant between mid‑market operators and
 
 Phase Three: Deep Analytical Architecture (1500+ Words) We now widen the aperture.
 
-The drivers behind the 2026 shift are not superficial.
+The drivers behind the 202
+6 shift are not superficial.
 
 They are structural.
 
@@ -180,7 +183,8 @@ Family offices now recognize that mid‑market companies with institutional disc
 
 Every messy operator reduces their own valuation before negotiation even begins. 
 
-2. The Acceleration of Cross‑Border Deal Flow 2026 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
+2. The Acceleration of Cross‑Border Deal Flow 202
+6 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
 
 AI-first mapping identifies adjacencies that human deal teams would never see.
 
@@ -266,7 +270,9 @@ Not through charisma.
 
 Through readiness.
 
-Off-Market Deal Origination and Why It Dominates 2026 The most powerful family offices in 2026 have abandoned auction processes almost entirely.
+Off-Market Deal Origination and Why It Dominates 202
+6 The most powerful family offices in 202
+6 have abandoned auction processes almost entirely.
 
 The public markets, brokered markets, and circulated deal rooms deliver noise, competition, inflated valuations, and reduced access.
 

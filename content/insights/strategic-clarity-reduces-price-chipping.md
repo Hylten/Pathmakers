@@ -88,7 +88,8 @@ Strategic clarity is a codified architecture describing:
 -  How it defends its margins. 
 -  Which capabilities cannot be replicated. 
 -  How talent is recruited, measured, and cycled. 
--  How the next 36 months unfold-quantitatively.
+-  How the next 3
+6 months unfold-quantitatively.
 
 These are not abstractions.
 

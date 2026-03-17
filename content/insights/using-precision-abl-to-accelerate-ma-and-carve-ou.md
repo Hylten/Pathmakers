@@ -12,7 +12,8 @@ Capital is cautious.
 
 Processes take longer.
 
-Sellers remain price anchored to 2021 while buyers are pricing in recessionary scenarios.
+Sellers remain price anchored to 202
+1 while buyers are pricing in recessionary scenarios.
 
 And every week that passes without movement costs the business real cash.
 
@@ -84,7 +85,8 @@ No generic discounts.
 
 No waiting for a post exclusivity surprise. ## 
 
-2. balance sheet optimization bases that flex to the first 180 days of operational reality Most carve outs and first time stand ups face an unavoidable dip in performance.
+2. balance sheet optimization bases that flex to the first 18
+0 days of operational reality Most carve outs and first time stand ups face an unavoidable dip in performance.
 
 Precision Asset-Based Lending anticipates that dip and builds a capital structure that absorbs it.
 
@@ -158,12 +160,14 @@ Precision Asset-Based Lending structures liquidity around the expected turbulenc
 
 It adds availability where the dip occurs and constrains availability where operational stability has not been proven. 
 
-## It supports aggressive 100 day value creation cycles Healthcare targets often have: 
+## It supports aggressive 10
+0 day value creation cycles Healthcare targets often have: 
 -  Slow coding throughput 
 -  Backlogged denials 
 -  Under optimized payer contracts 
 -  Fragmented intake workflows 
--  Unmonitored case mix shifts Precision Asset-Based Lending creates liquidity room to invest in these fixes during the first 100 days.
+-  Unmonitored case mix shifts Precision Asset-Based Lending creates liquidity room to invest in these fixes during the first 10
+0 days.
 
 This prevents the typical vicious cycle where operators know what needs improvement but lack the working capital to execute. # Precision Asset-Based Lending in Industrial and Manufacturing M&A Manufacturing deals look clean on paper.
 

@@ -20,7 +20,8 @@ In mid market M&A and healthcare carve outs, it is the difference between an ass
 
 It dictates whether a transaction creates enterprise value or erodes it.
 
-And in carve outs, it decides whether the parent quietly exits or spends the next 18 months in remediation hell.
+And in carve outs, it decides whether the parent quietly exits or spends the next 1
+8 months in remediation hell.
 
 Mid market assets rarely fail because of  issues.
 
@@ -68,7 +69,8 @@ This leaves acquirers with hollowed out operational continuity and no easy path 
 
 ## Capacity Bottlenecks A business with single point failure roles is not resilient.
 
-A business where key functions break down at 85 percent utilization is not resilient.
+A business where key functions break down at 8
+5 percent utilization is not resilient.
 
 A business where teams work long hours to maintain baseline service delivery is not resilient.
 
@@ -286,7 +288,8 @@ A quantifiable data integrity score. #
 
 ## During Integration A stabilization team.
 
-A 100 day plan built on measurable outcomes.
+A 10
+0 day plan built on measurable outcomes.
 
 A reporting cadence that shows performance, not activity. # 
 

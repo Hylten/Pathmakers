@@ -62,7 +62,9 @@ Accounts receivable and contractual recurring revenue produce a definable liquid
 -  Accounts receivable eligibility tests 
 -  Contract renewal probability curves 
 -  Dilution histories 
--  Concentration ceilings These assets are highly responsive, allowing liquidity release inside the first 30 to 45 days post-close.
+-  Concentration ceilings These assets are highly responsive, allowing liquidity release inside the first 3
+0 to 4
+5 days post-close.
 
 The precision of eligibility testing creates a dynamic liquidity profile that adapts to operational performance rather than forward-looking projections. 
 
@@ -76,7 +78,8 @@ While traditional lenders discount IP aggressively due to enforcement complexity
 
 This transforms IP from a valuation narrative into a functional liquidity instrument. 
 
-3. Asset Hardening Through Operational Separation The critical moment is Day 1 separation.
+3. Asset Hardening Through Operational Separation The critical moment is Day 
+1 separation.
 
 Once the carve-out stands independently, Asset-Based Lending allows rapid asset hardening.
 
@@ -135,7 +138,8 @@ It is capital ordering.
 
 For operators and allocators, stewardship means deploying resources in a manner that does not burden the enterprise with speculative leverage.
 
-Instead, it emphasizes disciplined resource allocation, asset stabilization, and respect for operational truth. **Proverbs 13:22** articulates the principle of generational responsibility through prudence and structured governance.
+Instead, it emphasizes disciplined resource allocation, asset stabilization, and respect for operational truth. **Proverbs 13:22*
+* articulates the principle of generational responsibility through prudence and structured governance.
 
 Within carve-outs, stewardship appears in four forms. 
 
@@ -157,11 +161,14 @@ Stewardship as a discipline ensures that Monetization Architecture supports resp
 
 The decision lens is simplified through three questions. 
 
-1. Can the asset become operationally sovereign within 120 days 
+1. Can the asset become operationally sovereign within 12
+0 days 
 
 2. Can liquidity be engineered through asset hardening rather than term debt 
 
-3. Can the capital stack be optimized to create exit optionality within a 24 to 36 month horizon These questions define the institutional archetype of a disciplined operator.
+3. Can the capital stack be optimized to create exit optionality within a 2
+4 to 3
+6 month horizon These questions define the institutional archetype of a disciplined operator.
 
 Asset-Based Lending is not a financing product but a structural tool that converts separation risk into operational momentum.
 

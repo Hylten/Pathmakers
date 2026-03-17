@@ -111,7 +111,8 @@ The exit is the validation of the model.
 
 And the capital moves toward validation. 
 
-## PHASE 2 PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
+## PHASE 
+2 PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
 
 They refuse opacity.
 
@@ -162,11 +163,13 @@ Precision is not aesthetic.
 
 Precision is survivability. 
 
-## PHASE 3 ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
+## PHASE 
+3 ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
 
 That is superficial.
 
-True exit readiness begins 36 months before the liquidity event.
+True exit readiness begins 3
+6 months before the liquidity event.
 
 It begins in the model.
 
@@ -215,7 +218,8 @@ Exit‑ready models remove unknowns.
 And they do so in a way that immediately lowers the Family Office’s post-close administrative load 
 -  the hidden cost that most operators never realize exists.
 
-THE STRATEGIC CONVERGENCE Why This Trend Accelerated in 2023-2026 Three converging forces hardened this requirement into standard practice: 
+THE STRATEGIC CONVERGENCE Why This Trend Accelerated in 2023-202
+6 Three converging forces hardened this requirement into standard practice: 
 
 1. Buyer sophistication surged.
 
@@ -227,9 +231,11 @@ They demand sellers present in a compatible language.
 
 2. Intermediaries became bottlenecks.
 
-Traditional brokers and M&A advisors still package deals for 2017 buyers.
+Traditional brokers and M&A advisors still package deals for 201
+7 buyers.
 
-But 2026 buyers expect data‑driven precision.
+But 202
+6 buyers expect data‑driven precision.
 
 Family Offices circumvent the intermediary loss by requiring exit-ready logic on day one. 
 
@@ -279,7 +285,8 @@ This is the skeleton.
 
 This is the spine. 
 
-3. Temporal Architecture (the sequencing truth) How the company behaves across the next 36 months under real conditions.
+3. Temporal Architecture (the sequencing truth) How the company behaves across the next 3
+6 months under real conditions.
 
 This forms the cadence. 
 

@@ -20,7 +20,9 @@ The resulting valuation compression is predictable, mechanical, and avoidable. #
 
  Nordic mid-market companies are operating through an environment where cost of capital recalibration has outpaced organizational adaptation.
 
-The equity driven expansion cycle that defined 2013 to 2021 has been replaced with a balance sheet centric regime.
+The equity driven expansion cycle that defined 201
+3 to 202
+1 has been replaced with a balance sheet centric regime.
 
 Buyers no longer prioritize momentum.
 
@@ -145,7 +147,8 @@ It is precision.
 
 It is the avoidance of waste.
 
-It is the intentional construction of organizations that outlive their founders. **Proverbs 13:22** frames the principle: A good person leaves an inheritance to their children, but the sinner’s wealth is stored up for the righteous.
+It is the intentional construction of organizations that outlive their founders. **Proverbs 13:22*
+* frames the principle: A good person leaves an inheritance to their children, but the sinner’s wealth is stored up for the righteous.
 
 In corporate terms, stewardship manifests through: 
 -  Decisions that strengthen balance sheet trajectory 

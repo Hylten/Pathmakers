@@ -66,7 +66,8 @@ This is the foundation of Pathmaker’s approach. # Core Strategies for Healthca
 
 These weaknesses are usually not visible in the CIM.
 
-They surface when it is too late, usually in the first 120 days post‑close.
+They surface when it is too late, usually in the first 12
+0 days post‑close.
 
 Examples: 
 -  A single clinical leader whose departure cripples operations 
@@ -221,7 +222,10 @@ Not through bureaucracy.
 
 Through alignment on value drivers. ## 
 
-9. Your First 120 Days Determine 80 Percent of Outcomes The first 120 days after closing are where deals win or lose.
+9. Your First 12
+0 Days Determine 8
+0 Percent of Outcomes The first 12
+0 days after closing are where deals win or lose.
 
 This period sets the tone, direction, and viability of the integration plan.
 

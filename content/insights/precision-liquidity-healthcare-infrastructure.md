@@ -32,7 +32,8 @@ It is in correcting these structural inefficiencies through precision liquidity 
 
 ## THE REGIME SHIFT
 
- Healthcare infrastructure in 2026 is defined by three converging regime forces: 
+ Healthcare infrastructure in 202
+6 is defined by three converging regime forces: 
 
 1. Capital Inertia Traditional lenders deploy capital slowly due to regulatory tightening, stress testing sensitivities, and risk weighting recalibrations.
 
@@ -143,7 +144,8 @@ The execution methodology integrates Nordic precision and disciplined sequencing
 
 It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
 
-The principle is grounded in the theology of capital articulated in **Proverbs 13:22** which emphasizes generational responsibility and strategic preservation.
+The principle is grounded in the theology of capital articulated in **Proverbs 13:22*
+* which emphasizes generational responsibility and strategic preservation.
 
 Stewardship is expressed through: 
 -  Non wasteful capital deployment 
@@ -174,6 +176,7 @@ Roials Capital provides confidential strategy calibration for allocators seeking
 
 The process evaluates technical readiness, structural gaps, and off market opportunity maps without forming solicitation or investment guidance.
 
-The institutions capable of navigating the 2026 healthcare regime shift will be those that combine analytical discipline, structural awareness, and stewardship-centered capital deployment. [END OF BRIEFING]
+The institutions capable of navigating the 202
+6 healthcare regime shift will be those that combine analytical discipline, structural awareness, and stewardship-centered capital deployment. [END OF BRIEFING]
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

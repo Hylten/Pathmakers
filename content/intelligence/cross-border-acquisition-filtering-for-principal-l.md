@@ -27,7 +27,8 @@ Together they create a dealflow system that feels clean, light, and fully aligne
 -  
 -  # Pillar 
 
-1. Precision Filtering Remove 80 percent of targets before the first call Most buyers spend too much time on the wrong targets.
+1. Precision Filtering Remove 8
+0 percent of targets before the first call Most buyers spend too much time on the wrong targets.
 
 Especially when moving into new geographies.
 
@@ -57,7 +58,8 @@ Typically it includes:
 -  Geographic constraints 
 -  Contract structure constraints 
 -  Minimum operational resilience thresholds 
--  Willingness to transact in the next 12 months If a target misses a single criterion, the conversation ends.
+-  Willingness to transact in the next 1
+2 months If a target misses a single criterion, the conversation ends.
 
 There is no exception.
 

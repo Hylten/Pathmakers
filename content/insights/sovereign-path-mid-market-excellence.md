@@ -8,7 +8,8 @@ slug: "sovereign-path-mid-market-excellence"
 
 Structural Gap: The durability of mid-market enterprise value across Europe is constrained less by market volatility and more by organizational underdevelopment in exit preparation, governance codification, and readiness for institutional scrutiny.
 
-The present environment in 2026 demands a more disciplined architecture of capital.
+The present environment in 202
+6 demands a more disciplined architecture of capital.
 
 The mid-market segment across the Nordics and Continental Europe presents one of the most material opportunity sets in the global private markets stack.
 
@@ -208,7 +209,8 @@ Roials Capital provides strategic alignment and institutional ##
 
 It is a practical discipline that guides capital allocation.
 
-Stewardship requires avoiding waste, preserving the integrity of enterprise value, and constructing businesses capable of enduring beyond the founder. **Proverbs 13:22** identifies the principle: the responsibility of capital is generational, not transactional.
+Stewardship requires avoiding waste, preserving the integrity of enterprise value, and constructing businesses capable of enduring beyond the founder. **Proverbs 13:22*
+* identifies the principle: the responsibility of capital is generational, not transactional.
 
 Stewardship in the mid-market context is expressed through: 
 

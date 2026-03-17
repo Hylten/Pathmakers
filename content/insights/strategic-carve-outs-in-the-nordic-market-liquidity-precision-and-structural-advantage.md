@@ -66,7 +66,8 @@ They prefer a stable post integration picture, clean metrics, and a neat present
 
 Pathmaker was designed for the opposite scenario. 
 
-## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under 250 million EUR.
+## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under 25
+0 million EUR.
 
 Institutional lenders move slower than operational realities.
 
@@ -149,8 +150,10 @@ But with precision.
 We offer: 
 -  Private credit deployments 
 -  Asset based Institutional Liquidity Paths frameworks 
--  Crypto Asset-Backed Frameworks with a minimum threshold of 2 million USD 
--  Public share Capital Structuring with a minimum threshold of 5 million USD These instruments allow sophisticated investors to execute where others hesitate.
+-  Crypto Asset-Backed Frameworks with a minimum threshold of 
+2 million USD 
+-  Public share Capital Structuring with a minimum threshold of 
+5 million USD These instruments allow sophisticated investors to execute where others hesitate.
 
 And in carve-outs, hesitation is often fatal to deal economics. 
 

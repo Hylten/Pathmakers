@@ -34,7 +34,8 @@ This is how they negotiate with institutional actors without having to posture.
 
 This is the role of principal authority. 
 
-## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 1000 operate with armies of advisors and entire consulting ecosystems.
+## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 100
+0 operate with armies of advisors and entire consulting ecosystems.
 
 Most mid-market carve-outs are the opposite.
 
@@ -74,7 +75,8 @@ Liquidity is not a theoretical issue.
 
 It is day one survival.
 
-It is day 100 stability.
+It is day 10
+0 stability.
 
 It is the six month bridge that keeps the carve-out from collapsing under its own transitional weight.
 

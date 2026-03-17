@@ -28,7 +28,8 @@ In the mid‑market, especially in healthcare carve outs, the investor who contr
 
 ## The Additional Liquidity Channels # 
 
-## Crypto Capital Structuring Minimum threshold: 2,000,000 USD.
+## Crypto Capital Structuring Minimum threshold: 2,000,00
+0 USD.
 
 This is not retail Capital Structuring.
 
@@ -36,7 +37,8 @@ This is not speculative.
 
 It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force. # 
 
-## Public Share Capital Structuring Minimum threshold: 5,000,000 USD.
+## Public Share Capital Structuring Minimum threshold: 5,000,00
+0 USD.
 
 This enables sophisticated holders of public equities to transform market value into strategic M&A liquidity without triggering premature dispositions.
 

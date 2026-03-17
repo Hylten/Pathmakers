@@ -144,7 +144,8 @@ This intelligence is often missing from generic lender models.
 
 Stewardship determines whether capital is used with discipline or dissipated through reactive financing.
 
-Under a stewardship framework, capital deployment is aligned with long term durability and non wasteful resource management. **Proverbs 13:22** emphasizes the responsibility of building assets with intergenerational utility.
+Under a stewardship framework, capital deployment is aligned with long term durability and non wasteful resource management. **Proverbs 13:22*
+* emphasizes the responsibility of building assets with intergenerational utility.
 
 In operational terms, stewardship means: 
 -  Avoiding overleveraging that undermines balance sheet resilience 

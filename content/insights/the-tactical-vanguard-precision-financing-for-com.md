@@ -368,7 +368,8 @@ Precision financing solves the gap.
 
 ## Structural Truth Is the business truly standalone, or is it an appendage pretending to be independent? # 
 
-## Operational Truth Can the business operate without the parent system within 180 days? # 
+## Operational Truth Can the business operate without the parent system within 18
+0 days? # 
 
 ## Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments? # 
 

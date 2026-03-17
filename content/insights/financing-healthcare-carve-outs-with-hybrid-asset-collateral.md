@@ -87,8 +87,10 @@ Asset-Based Lending is particularly effective in carve-outs during the transitio
 3. Hybrid Collateral from Public Shares or Crypto Holdings This is where Pathmaker becomes structurally distinct.
 
 We support: 
--  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,000 
--  Public share Institutional Liquidity Paths with a minimum threshold of 5,000,000 These are not retail Asset-Backed Frameworks structures.
+-  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,00
+0 
+-  Public share Institutional Liquidity Paths with a minimum threshold of 5,000,00
+0 These are not retail Asset-Backed Frameworks structures.
 
 These are institutional-grade liquidity engines for HNW and UHNW clients.
 
@@ -191,7 +193,8 @@ We evaluate the buyer’s external asset footprint.
 We build a hybrid structure composed of: 
 -  A private credit facility backed by external securities. 
 -  An Asset-Based Lending tranche tied to non-healthcare assets. 
--  A 2,000,000 crypto-backed tranche to close the gap.
+-  A 2,000,00
+0 crypto-backed tranche to close the gap.
 
 The deal clears.
 

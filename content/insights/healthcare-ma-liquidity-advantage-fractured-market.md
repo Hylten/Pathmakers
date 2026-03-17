@@ -56,7 +56,8 @@ Certainty is liquidity in motion.
 
 Healthcare M&A is no longer about strategy.
 
-It is about readiness. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
+It is about readiness. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 In M&A translation, value flows toward operational discipline, financial foresight, and institutions that know how to move capital without frictions.
 
@@ -476,7 +477,8 @@ Move first.
 
 Close fast.
 
-Technical End Metric: Target execution window for €25M.€150M healthcare acquisitions should compress to 41-63 days end-to-end.
+Technical End Metric: Target execution window for €25M.€150M healthcare acquisitions should compress to 41-6
+3 days end-to-end.
 
 Book a tactical consultation.
 

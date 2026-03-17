@@ -36,7 +36,8 @@ High yield.
 
 Low noise.
 
-Clean execution. **Proverbs 13:22** : capital migrates.
+Clean execution. **Proverbs 13:22*
+* : capital migrates.
 
 Capital consolidates.
 
@@ -86,7 +87,8 @@ If the narrative is clean.
 
 Exit readiness is the multiplier.
 
-Operators who underestimate exit readiness lose 20,40 percent valuation uplift.
+Operators who underestimate exit readiness lose 20,4
+0 percent valuation uplift.
 
 They invite diligence friction.
 

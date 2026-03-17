@@ -20,7 +20,8 @@ It is a separation technology. ## ## ## ##
 
  The present credit cycle is not a symmetric slowdown.
 
-The withdrawal of regional banks, coupled with regulatory intensification under post 2025 Basel harmonization, has reduced the liquidity available to non sponsor backed industrials.
+The withdrawal of regional banks, coupled with regulatory intensification under post 202
+5 Basel harmonization, has reduced the liquidity available to non sponsor backed industrials.
 
 This has created an acute distortion between operating performance and credit eligibility.
 
@@ -141,7 +142,8 @@ It is measurable through four filters.
 -  Non Wasteful Asset Deployment Equipment is maintained based on lifecycle productivity rather than short cycle accounting. 
 -  Contract Integrity Service agreements are honored through consistent workforce training and predictable project delivery. 
 -  Capital Responsibility Liquidity is allocated to maintain operational continuity rather than speculative expansion. 
--  Governance Alignment The spin off maintains clarity of ownership, reporting, and risk management, consistent with **Proverbs 13:22** which underscores preservation and generational foresight.
+-  Governance Alignment The spin off maintains clarity of ownership, reporting, and risk management, consistent with **Proverbs 13:22*
+* which underscores preservation and generational foresight.
 
 These filters create institutional confidence.
 

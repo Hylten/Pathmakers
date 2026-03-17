@@ -44,7 +44,8 @@ This is the inflection.
 
 And the strategic consequences are immense. 
 
-## PHASE 1 
+## PHASE 
+1 
 -  ## ## 
 
 ## The first structural shift: founders no longer trust the traditional M&A theatre.
@@ -113,7 +114,8 @@ The sovereign question becomes: What does this shift mean for the UHNW direct in
 
 And what architecture must be built to capture the new flow? 
 
-## PHASE 2 
+## PHASE 
+2 
 -  INTERNAL TONE Principal voice activated.
 
 Clarity first.
@@ -174,7 +176,8 @@ Stealth origination is an act of respect.
 
 One founder speaks to another human being, not to a marketplace of bidders. 
 
-## PHASE 3 
+## PHASE 
+3 
 -  INTERNAL STRUCTURE The architectural breakdown follows.
 
 The tactical map of stealth origination has four dominant corridors.

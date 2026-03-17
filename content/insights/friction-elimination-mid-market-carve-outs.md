@@ -204,7 +204,8 @@ It means ensuring that the asset is structurally sound, organizationally coheren
 
 This is capital stewardship.
 
-The same principle found in **Proverbs 13:22** , which frames responsible transfer as an act of legacy rather than liquidation.
+The same principle found in **Proverbs 13:22*
+* , which frames responsible transfer as an act of legacy rather than liquidation.
 
 Stewardship rejects short term opportunism.
 

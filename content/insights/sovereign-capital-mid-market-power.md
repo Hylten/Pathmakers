@@ -28,7 +28,8 @@ Traditional private credit managers, while more flexible, often require uniformi
 
 The result is a fragmentation of capital pathways.
 
-Deals that would have cleared comfortably in 2016 now stall due to procedural friction rather than economic fundamentals.
+Deals that would have cleared comfortably in 201
+6 now stall due to procedural friction rather than economic fundamentals.
 
 Sovereign allocators, equipped with mandate breadth, structural patience, and multi‑cycle orientation, are filling this gap with a distinct form of capital.
 
@@ -127,7 +128,8 @@ The stewardship filter applies four evaluative lenses.
 
 Stewardship begins with precision.
 
-Structures must reflect **Proverbs 21:5** which underscores that diligence creates advantage. 
+Structures must reflect **Proverbs 21:5*
+* which underscores that diligence creates advantage. 
 
 2. Asset Hardening A sovereign partner requires demonstrable resilience.
 
@@ -137,7 +139,8 @@ This involves reducing single point failure risk, codifying supply chain depende
 
 True Strategic Collateralization involves designing balance sheets that remain functional through volatility rather than surplus.
 
-This principle is consistent with **Ecclesiastes 7:12** which equates wisdom and defense, framing capital as a protective mechanism rather than a speculative instrument. 
+This principle is consistent with **Ecclesiastes 7:12*
+* which equates wisdom and defense, framing capital as a protective mechanism rather than a speculative instrument. 
 
 4. Institutional Archetyping Sovereign allocators require that businesses adopt the behavioral patterns of institutional organizations.
 

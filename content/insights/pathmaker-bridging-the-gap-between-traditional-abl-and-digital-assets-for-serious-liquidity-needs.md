@@ -84,7 +84,8 @@ But they require discipline, transparency, and underwriting that respects volati
 
 Pathmaker incorporates digital assets within Asset-Based Lending logic: value the asset, apply a haircut policy, monitor custody, lend responsibly.
 
-Crypto Monetization Architecture begins at 2,000,000 dollars.
+Crypto Monetization Architecture begins at 2,000,00
+0 dollars.
 
 This threshold is deliberate.
 
@@ -118,7 +119,8 @@ Private banks take months to approve transactions they do not truly want.
 
 Pathmaker simplifies this.
 
-We lend against publicly traded equity with a minimum threshold of 5,000,000 dollars.
+We lend against publicly traded equity with a minimum threshold of 5,000,00
+0 dollars.
 
 This ensures the liquidity profile is institutional.
 

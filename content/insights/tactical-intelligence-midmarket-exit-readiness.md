@@ -34,7 +34,8 @@ The mid-market now rewards the operator who understands that value is not create
 
 And revelation requires architecture.
 
-Tactical intelligence **is** that architecture.
+Tactical intelligence **is*
+* that architecture.
 
 We proceed. ## ## ## 
 
@@ -244,7 +245,8 @@ Not mass outreach.
 
 Reputation-driven, trust-driven, operator-to-operator. 
 
-4. Post-Acquisition Literacy Sellers trust buyers who can articulate the first 90 days post-acquisition in operational terms.
+4. Post-Acquisition Literacy Sellers trust buyers who can articulate the first 9
+0 days post-acquisition in operational terms.
 
 Tactical Intelligence gives buyers that vocabulary.
 

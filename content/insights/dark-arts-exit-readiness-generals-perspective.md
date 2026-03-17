@@ -394,7 +394,8 @@ A buyer who feels clarity advances.
 
 The art lies in engineering those feelings through structural preparation. 
 
-## THE BIBLICAL LAW OF LEGACY **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
+## THE BIBLICAL LAW OF LEGACY **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children.
 
 Exit readiness is a legacy discipline.
 

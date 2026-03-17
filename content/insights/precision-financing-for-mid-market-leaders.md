@@ -194,7 +194,8 @@ Pathmaker operates on a completely different wavelength.
 
 We treat crypto as collateral only when it is held in institutional grade custody.
 
-We maintain a minimum threshold of 2,000,000 to ensure alignment with sophisticated asset owners.
+We maintain a minimum threshold of 2,000,00
+0 to ensure alignment with sophisticated asset owners.
 
 We engineer Strategic Collateralization mechanics that reflect real risk, not retail panic.
 
@@ -224,7 +225,8 @@ Liquidating these positions to fund a transaction is often the worst possible de
 
 Pathmaker fills that gap with Monetization Architecture mechanics built specifically for sophisticated equity holders.
 
-We maintain a minimum threshold of 5,000,000 to ensure alignment with the clients who can benefit from this level of engineering.
+We maintain a minimum threshold of 5,000,00
+0 to ensure alignment with the clients who can benefit from this level of engineering.
 
 We allow operators to unlock liquidity quietly, without reducing strategic exposure. 
 

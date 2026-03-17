@@ -143,7 +143,8 @@ It extends beyond capital and into operational governance.
 
 Nordic companies reflect stewardship in their engineering culture, environmental respect, and long term orientation.
 
-Acquirers who align with these values experience smoother transitions. **Proverbs 13:22** states that a good individual leaves an inheritance for future generations.
+Acquirers who align with these values experience smoother transitions. **Proverbs 13:22*
+* states that a good individual leaves an inheritance for future generations.
 
 In corporate practice, this reflects leadership continuity, institutional governance, and responsible succession planning.
 

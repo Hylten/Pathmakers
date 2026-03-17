@@ -54,11 +54,13 @@ They want to validate order.
 
 If they cannot validate order quickly, they quietly move on to the next file.
 
-Here is the hidden arithmetic: Every buyer can evaluate three times more opportunities than they could 10 years ago.
+Here is the hidden arithmetic: Every buyer can evaluate three times more opportunities than they could 1
+0 years ago.
 
 Time has become their scarcest resource.
 
-The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills 80 percent of pipeline.
+The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills 8
+0 percent of pipeline.
 
 Proactive sell‑side diligence is not a binder.
 
@@ -136,7 +138,9 @@ Competence proves reliability.
 
 Reliability lowers the buyer’s cost of capital and increases the price they will pay.
 
-When a founder hands a buyer a model that withstands scrutiny, the buyer reduces their diligence budget by 30 to 50 percent.
+When a founder hands a buyer a model that withstands scrutiny, the buyer reduces their diligence budget by 3
+0 to 5
+0 percent.
 
 They accelerate their internal approvals.
 
@@ -155,7 +159,8 @@ The key is structured transparency:
 -  Documented process flows for the core revenue engine. 
 -  Systems maps for software, data, and reporting. 
 -  Identified dependencies on key individuals-especially the founder. 
--  Pre‑defined handoff plans for Day‑1 integration.
+-  Pre‑defined handoff plans for Day‑
+1 integration.
 
 When buyers can see the machinery, they stop imagining the worst.
 

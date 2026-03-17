@@ -72,9 +72,11 @@ Even crypto and public shares, although these require specialized underwriting a
 
 For Pathmaker that threshold is explicit.
 
-Crypto Asset-Backed Frameworks requires a minimum of 2 million dollars.
+Crypto Asset-Backed Frameworks requires a minimum of 
+2 million dollars.
 
-Public share Capital Structuring requires a minimum of 5 million dollars.
+Public share Capital Structuring requires a minimum of 
+5 million dollars.
 
 This is intentional.
 

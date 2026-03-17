@@ -20,7 +20,8 @@ The methodology focuses on institutional readiness, operational maturity, and th
 
  The modern capital ecosystem has entered a regime where allocators face three structural conditions that cannot be ignored if sovereign alignment is the objective.
 
-First, regulatory drift has increased the procedural load on every meaningful transaction above 50 million EUR.
+First, regulatory drift has increased the procedural load on every meaningful transaction above 5
+0 million EUR.
 
 Jurisdictions in the EU and North America require clear lineage of capital, documented operational governance, and a verified commercial rationale before funds can be transferred at scale.
 
@@ -121,7 +122,8 @@ Capital misallocation creates fragility.
 
 Capital purposefulness creates resilience.
 
-The Pathmaker approach is built on a stewardship logic that aligns with the principle recorded in **Proverbs 13:22** which establishes continuity of capital across generations through disciplined management rather than opportunistic allocation.
+The Pathmaker approach is built on a stewardship logic that aligns with the principle recorded in **Proverbs 13:22*
+* which establishes continuity of capital across generations through disciplined management rather than opportunistic allocation.
 
 This filter ensures that: 
 -  Liquidity is engaged only when structurally justified 

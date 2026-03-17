@@ -34,7 +34,8 @@ Dense regulation.
 
 Perfect terrain for precision sellers.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22** ).
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+* ).
 
 In institutional terms: create optionality that compounds.
 
@@ -148,7 +149,8 @@ Every friction removed ahead of process multiplies deal certainty.
 
 Mid‑market CFOs know this intuitively but often lack frameworks for compression.
 
-We track 11 friction categories.
+We track 1
+1 friction categories.
 
 Carve-outs fail in these zones: 
 -  Undefined perimeter 
@@ -368,7 +370,8 @@ Liquidity cycles in the region are tied to:
 -  Private credit deployment phases 
 -  Treasury rate movements 
 -  Stock market volatility 
--  Cross-border acquisition appetite Carve-outs thrive when macro conditions create dislocations. 2026 is prime.
+-  Cross-border acquisition appetite Carve-outs thrive when macro conditions create dislocations. 202
+6 is prime.
 
 Pricing spreads favor clean assets.
 

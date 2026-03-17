@@ -22,7 +22,8 @@ The unseen brake on acquirer hesitation.
 
 The hidden amplifier that turns an ordinary business into a strategic acquisition.
 
-We operate where mid‑market operators routinely lose 20-40 percent of enterprise value simply because their internal financial intelligence has never been elevated to institutional posture.
+We operate where mid‑market operators routinely lose 20-4
+0 percent of enterprise value simply because their internal financial intelligence has never been elevated to institutional posture.
 
 The tragedy is structural, not moral.
 
@@ -170,7 +171,8 @@ Strength in cash modeling transforms the acquisition from perceived risk into pe
 
 Cash disciplines always command valuation respect. 
 
-5. Acquisition Readiness Protocols Operators underestimate the gravity of the final 90 days before going to market.
+5. Acquisition Readiness Protocols Operators underestimate the gravity of the final 9
+0 days before going to market.
 
 The institutional world does not tolerate improvisation.
 
@@ -334,7 +336,8 @@ Institutional-grade FP&A creates a glide path so clean that acquirers accelerate
 
 We focus on: 
 -  Mid‑market companies preparing for acquisition 
--  Founders planning a 12.36 month exit arc 
+-  Founders planning a 12.3
+6 month exit arc 
 -  Management teams seeking valuation sovereignty 
 -  Companies that already have strong fundamentals but lack institutional posture 
 -  Off-market buyers searching for order, clarity, and reliability We operate upstream.

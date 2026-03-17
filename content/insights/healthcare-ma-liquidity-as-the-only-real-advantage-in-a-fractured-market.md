@@ -52,7 +52,8 @@ The compliance overlay is heavier.
 
 If you cannot produce liquidity quickly, you are out before you begin. 
 
-1. **Regulatory velocity** Healthcare regulations evolve quickly.
+1. **Regulatory velocity*
+* Healthcare regulations evolve quickly.
 
 Acquiring an asset is only half the job.
 
@@ -60,13 +61,15 @@ Stabilizing it under new ownership takes cash.
 
 Without liquidity, regulatory corrections become existential threats. 
 
-2. **Working capital spikes post‑close** Collections slow during ownership transitions.
+2. **Working capital spikes post‑close*
+* Collections slow during ownership transitions.
 
 Vendors demand proof of solvency.
 
 Staff often expects immediate reassurance through payroll stability, benefit continuity, and capital investment commitments. 
 
-3. **Vendor carve‑out fatigue** Large corporate sellers want clean separation.
+3. **Vendor carve‑out fatigue*
+* Large corporate sellers want clean separation.
 
 They discount buyers that use slow, multi‑layered financing stacks, because those delays create compliance risk for the parent company.
 
@@ -99,8 +102,10 @@ This is the silent killer of mid‑market healthcare M&A.
 We lend against Private Credit and Asset Based Capital Structuring.
 
 We also unlock liquidity through two specialized instruments designed for HNWI and UHNW investors who need institutional mechanics without institutional drag: 
--  Crypto Strategic Collateralization with a minimum threshold of 2,000,000 
--  Public Share Institutional Liquidity Paths with a minimum threshold of 5,000,000 Our function is simple.
+-  Crypto Strategic Collateralization with a minimum threshold of 2,000,00
+0 
+-  Public Share Institutional Liquidity Paths with a minimum threshold of 5,000,00
+0 Our function is simple.
 
 We create immediate liquidity so buyers can execute before the market shifts under their feet.
 
@@ -116,17 +121,20 @@ You win by offering the seller certainty.
 
 HNWI and UHNW operators lean on Pathmaker for three reasons: 
 
-1. **Speed without compromise** Liquidity arrives faster than traditional private credit because we lend against assets you already own.
+1. **Speed without compromise*
+* Liquidity arrives faster than traditional private credit because we lend against assets you already own.
 
 The underwriting is clean.
 
 The movement is direct. 
 
-2. **Preservation of primary investment strategy** You do not need to unwind public positions or liquidate crypto at the wrong time.
+2. **Preservation of primary investment strategy*
+* You do not need to unwind public positions or liquidate crypto at the wrong time.
 
 Your assets continue working while unlocking deal liquidity. 
 
-3. **Institutional structure without bureaucracy** Pathmaker provides mechanics that large lenders use internally, but without the slow timeline.
+3. **Institutional structure without bureaucracy*
+* Pathmaker provides mechanics that large lenders use internally, but without the slow timeline.
 
 For mid‑market healthcare deals, that delta is the difference between leading and losing. 
 
@@ -139,13 +147,18 @@ Healthcare sellers respond to liquidity signals more than anything else.
 The moment a buyer demonstrates the ability to fund quickly, the negotiation dynamic shifts.
 
 Liquidity creates leverage in five areas: 
--  **Price discipline** Buyers with liquidity can hold their valuation line because they are not fighting the clock. 
--  **Reduced earnout dependency** Sellers prefer cash certainty.
+-  **Price discipline*
+* Buyers with liquidity can hold their valuation line because they are not fighting the clock. 
+-  **Reduced earnout dependency*
+* Sellers prefer cash certainty.
 
 Liquidity shrinks the need for complex earnouts. 
--  **Accelerated diligence** Cash‑ready buyers get priority access to financials and operational documents. 
--  **Seller concessions** When a seller believes the buyer will close, concessions become easier. 
--  **Competitive insulation** Other bidders lose confidence once a liquid buyer signals readiness.
+-  **Accelerated diligence*
+* Cash‑ready buyers get priority access to financials and operational documents. 
+-  **Seller concessions*
+* When a seller believes the buyer will close, concessions become easier. 
+-  **Competitive insulation*
+* Other bidders lose confidence once a liquid buyer signals readiness.
 
 Liquidity replaces bravado with certainty.
 
@@ -155,7 +168,8 @@ Deals respond accordingly.
 
 In healthcare, the aftermath is where value is won or lost.
 
-Liquidity is the stabilizer during the first 120 days.
+Liquidity is the stabilizer during the first 12
+0 days.
 
 That period determines whether a carve‑out thrives or becomes a distressed asset.
 
@@ -223,11 +237,14 @@ Pathmaker’s model blends both.
 
 We create event‑driven liquidity engineered around three priorities: 
 
-1. **Closing certainty** 
+1. **Closing certainty*
+* 
 
-2. **Operational runway** 
+2. **Operational runway*
+* 
 
-3. **Minimal disruption to asset portfolios** When these three conditions are met, the buyer controls the trajectory of the deal from day one. 
+3. **Minimal disruption to asset portfolios*
+* When these three conditions are met, the buyer controls the trajectory of the deal from day one. 
 
 ## Liquidity and the F‑Hierarchical Dynamics The F‑Hierarchical Dynamics is simple.
 

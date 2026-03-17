@@ -6,7 +6,8 @@ author: "Jonas Hyltén"
 slug: "healthcare-ma-strategies-jonas-hylten-2026"
 --- 
 
-The structural gap defining European healthcare M&A in 2026 is a capital sequencing failure rather than an asset scarcity problem.
+The structural gap defining European healthcare M&A in 202
+6 is a capital sequencing failure rather than an asset scarcity problem.
 
 Most operators are not blocked by demand constraints.
 
@@ -48,7 +49,8 @@ The constraint is not capital.
 
 The constraint is institutional investability.
 
-The dominant variable in 2026 is not EBITDA.
+The dominant variable in 202
+6 is not EBITDA.
 
 The dominant variable is integration friction.
 
@@ -105,7 +107,8 @@ They evaluate them.
 
 The Nordic mid-market still treats data rooms as a late-stage activity.
 
-Under the 2026 regime, data room completion is the first gate to buyer engagement.
+Under the 202
+6 regime, data room completion is the first gate to buyer engagement.
 
 Core elements include: 
 -  Multi-year clinical outcome data. 
@@ -232,7 +235,8 @@ Operators who cannot harmonize cross-border fundamentals are perceived as higher
 
 ## THE STEWARDSHIP FILTER Stewardship is not a moral overlay.
 
-It is a capital discipline that prevents decay. **Proverbs 13:22** states that wise stewardship preserves resources across generations.
+It is a capital discipline that prevents decay. **Proverbs 13:22*
+* states that wise stewardship preserves resources across generations.
 
 In M&A, stewardship ensures that operational assets are not allowed to lapse into inefficiency, opacity, or fragility.
 
@@ -263,7 +267,8 @@ When an operator aligns with these principles, institutional capital views the o
 
 ## DECISION-MAKING LENS FOR ALLOCATORS AND OPERATORS Operators evaluating a potential transaction require a structured lens.
 
-The 2026 environment rewards preparedness and penalizes opacity.
+The 202
+6 environment rewards preparedness and penalizes opacity.
 
 The decision-making sequence includes: 
 -  Determining whether the operator possesses institutional quality fundamentals. 

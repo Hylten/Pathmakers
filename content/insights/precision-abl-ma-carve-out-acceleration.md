@@ -100,7 +100,8 @@ This separation maintains institutional clarity and enhances credibility with bo
 
 Precision Asset-Based Lending supports this discipline by imposing operational truth on businesses that are structurally valuable but administratively underdeveloped.
 
-This aligns with the ethic articulated in **Proverbs 13:22** , where capital continuity is treated as a multigenerational responsibility rather than a short term extraction.
+This aligns with the ethic articulated in **Proverbs 13:22*
+* , where capital continuity is treated as a multigenerational responsibility rather than a short term extraction.
 
 The stewardship lens reframes M&A not as a race for ownership but as a process of responsible operational transfer.
 

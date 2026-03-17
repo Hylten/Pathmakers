@@ -90,7 +90,8 @@ The delta shows up late.
 
 Temporal misalignment presents three sub‑failures: 
 -  The curve is wrong: growth is modeled as linear while market conditions are cyclical. 
--  The cadence is wrong: 12‑month logic applied to 36‑60 month underwriting windows. 
+-  The cadence is wrong: 12‑month logic applied to 36‑6
+0 month underwriting windows. 
 -  The resilience is wrong: no stress‑testing of failure scenarios that buyers automatically run.
 
 Institutional acquirers aren’t shocked by volatility.

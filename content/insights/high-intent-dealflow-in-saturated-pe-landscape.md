@@ -301,7 +301,8 @@ Intent is forged upstream.
 
 Exit readiness is built upstream.
 
-The most valuable deals of 2026-2028 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
+The most valuable deals of 2026-202
+8 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
 
 When readiness meets timing, deal velocity increases.
 

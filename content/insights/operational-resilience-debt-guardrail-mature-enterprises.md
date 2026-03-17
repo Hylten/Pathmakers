@@ -32,7 +32,8 @@ A jurisdictional shield.
 
 It allows mid-market companies to operate with institutional fluency long before they face an institutional buyer.
 
-This is where operational resilience is forged-not in austerity, but in engineered liquidity. **Proverbs 13:22** : “A good man leaves an inheritance to his children's children.” In enterprise terms, the inheritance is stability.
+This is where operational resilience is forged-not in austerity, but in engineered liquidity. **Proverbs 13:22*
+* : “A good man leaves an inheritance to his children's children.” In enterprise terms, the inheritance is stability.
 
 Continuity.
 
@@ -345,7 +346,8 @@ It fulfills
 
 ## THE MANDATE
 
- of **Proverbs 13:22** -continuity across generations, continuity across leadership transitions, continuity across market cycles.
+ of **Proverbs 13:22*
+* -continuity across generations, continuity across leadership transitions, continuity across market cycles.
 
 Debt is inheritance architecture.
 

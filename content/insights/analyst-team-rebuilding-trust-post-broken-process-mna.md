@@ -88,7 +88,8 @@ No one reinforced the load‑bearing beams.
 
 ## THE ERA OF BROKEN PROCESSES The post‑pandemic M&A surge disguised structural fragility.
 
-For 18 months, everything sold.
+For 1
+8 months, everything sold.
 
 Every memo found a reader.
 

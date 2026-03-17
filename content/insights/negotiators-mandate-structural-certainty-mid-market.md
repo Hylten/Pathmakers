@@ -52,7 +52,9 @@ The seller rarely receives feedback.
 
 3. Volatility pricing Asset quality is less important than transaction predictability.
 
-Mid market enterprises that fail to demonstrate execution certainty face risk adjusted discounting that can compress value by 15 to 35 percent before commercial negotiation even begins.
+Mid market enterprises that fail to demonstrate execution certainty face risk adjusted discounting that can compress value by 1
+5 to 3
+5 percent before commercial negotiation even begins.
 
 This is the hidden cost of unprepared exits. 
 
@@ -165,7 +167,8 @@ Roials Capital maintains strategic oversight and ensures that the European or No
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment.
 
-It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22** provides a foundational principle that capital should be transferred with foresight and integrity.
+It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22*
+* provides a foundational principle that capital should be transferred with foresight and integrity.
 
 Within transaction environments, stewardship expresses itself through: 
 -  Avoidance of value destruction Delayed exits, emotional negotiation, or reactive strategy lead to unnecessary erosion. 

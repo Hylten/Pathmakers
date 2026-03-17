@@ -153,7 +153,8 @@ We supply the structural mechanics that institutional lenders take for granted, 
 
 We operate only where the liquidity and asset scale justify institutional discipline.
 
-Our minimum threshold for crypto Monetization Architecture is 2,000,000 dollars.
+Our minimum threshold for crypto Monetization Architecture is 2,000,00
+0 dollars.
 
 This screens out speculative participants and ensures that the capital base is serious, sophisticated, and aligned with institutional expectations.
 
@@ -169,7 +170,8 @@ Simply capital against collateral.
 
 ## Public Share Institutional Liquidity Paths for Strategic Liquidity For clients who hold significant public positions, the largest mistake is allowing shares to sit idle while liquidity constraints tighten elsewhere.
 
-Pathmaker provides public share Institutional Liquidity Paths with a minimum threshold of 5,000,000 dollars.
+Pathmaker provides public share Institutional Liquidity Paths with a minimum threshold of 5,000,00
+0 dollars.
 
 This allows clients to unlock liquidity without premature liquidation and without broadcasting their moves to the market.
 
@@ -241,7 +243,8 @@ Examples include:
 -  Inventory with strong turnover profiles 
 -  Equipment with durable valuations 
 -  Public market positions suitable for securities Monetization Architecture 
--  Crypto assets qualifying under the 2,000,000 dollar threshold Collateral mapping converts complexity into accessibility.
+-  Crypto assets qualifying under the 2,000,00
+0 dollar threshold Collateral mapping converts complexity into accessibility.
 
 This creates liquidity where the operator assumed none existed. 
 

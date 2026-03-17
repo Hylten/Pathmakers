@@ -120,7 +120,8 @@ A dedicated commercial engine can reignite growth. #
 
 Replacing them with right-sized platforms reduces overhead and accelerates decision-making. 
 
-## The First 120 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
+## The First 12
+0 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
 
 You do not.
 
@@ -128,7 +129,9 @@ Stabilization must happen immediately.
 
 Here is the battle-tested sequence. # 
 
-## Day 1 to Day 30 Your single job is stabilization.
+## Day 
+1 to Day 3
+0 Your single job is stabilization.
 
 You must keep payroll running, keep customers informed, keep core compliance intact, and maintain IT continuity.
 
@@ -141,7 +144,9 @@ Priorities include:
 -  Securing short-term IT function 
 -  Managing cultural tension from the transition If you fail here, the rest of the plan does not matter. # 
 
-## Day 30 to Day 60 This is the diagnostic phase.
+## Day 3
+0 to Day 6
+0 This is the diagnostic phase.
 
 You identify the fundamental problems that the parent ignored or hid.
 
@@ -153,7 +158,9 @@ You break down unit-level economics by product, service line, or location.
 
 This period generates the real value creation thesis. # 
 
-## Day 60 to Day 120 This is where the rebuild begins.
+## Day 6
+0 to Day 12
+0 This is where the rebuild begins.
 
 You deploy new systems.
 

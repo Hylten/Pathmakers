@@ -182,13 +182,15 @@ Our role is to ensure that this decisiveness is supported by reliable liquidity 
 
 ## Expanded Liquidity Tools for Cross-Border Complexity Pathmaker supports additional Institutional Liquidity Paths verticals for buyers who need nontraditional liquidity sources. # 
 
-## Crypto Asset-Backed Frameworks Minimum threshold is 2 million dollars.
+## Crypto Asset-Backed Frameworks Minimum threshold is 
+2 million dollars.
 
 Crypto backed Institutional Liquidity Paths provides fast collateralized liquidity for investors with digital asset portfolios that are otherwise underutilized.
 
 In a cross-border carve-out, this capital can bridge timing delays or serve as rapid deployment liquidity during closing cycles. # 
 
-## Public Share Institutional Liquidity Paths Minimum threshold is 5 million dollars.
+## Public Share Institutional Liquidity Paths Minimum threshold is 
+5 million dollars.
 
 Public equities offer another collateral base for sophisticated buyers who want to participate in a carve-out without liquidating high performing positions.
 
@@ -276,6 +278,7 @@ We understand the need for structural support that does not interfere with the d
 
 HNWI and UHNW investors deserve a capital partner that works at their level of precision, speed, and discipline.
 
-This is the framework we provide. **Book a strategic consultation**
+This is the framework we provide. **Book a strategic consultation*
+*
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

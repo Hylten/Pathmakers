@@ -243,7 +243,8 @@ Pathmaker’s clients understand that private credit is not a financial instrume
 
 It is a competitive edge. 
 
-## The Next 24 Months: A Window That Will Not Repeat Itself Regulatory tightening has created an artificial scarcity of traditional Institutional Liquidity Paths.
+## The Next 2
+4 Months: A Window That Will Not Repeat Itself Regulatory tightening has created an artificial scarcity of traditional Institutional Liquidity Paths.
 
 This has shifted the market in favor of buyers with decisive access to private credit.
 

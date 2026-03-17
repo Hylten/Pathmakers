@@ -237,11 +237,13 @@ We evaluate assets, isolate value, and deploy capital responsibly.
 
 Asset-Based Lending provides liquidity so the operator can address issues quickly instead of losing the deal. # 
 
-## To Unlock Value From Public Shares When strategic decisions require immediate capital, our public share Monetization Architecture starting at 5,000,000 becomes a fast and silent liquidity mechanism. # 
+## To Unlock Value From Public Shares When strategic decisions require immediate capital, our public share Monetization Architecture starting at 5,000,00
+0 becomes a fast and silent liquidity mechanism. # 
 
 ## To Leverage Crypto Without Selling Selling crypto can trigger tax events or disrupt long term strategies.
 
-A crypto backed liquidity facility at 2,000,000 or more preserves both strategy and liquidity. 
+A crypto backed liquidity facility at 2,000,00
+0 or more preserves both strategy and liquidity. 
 
 ## The Quiet Advantage Pathmaker is built for decision makers who do not need applause.
 

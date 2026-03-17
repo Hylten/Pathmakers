@@ -42,7 +42,8 @@ In healthcare carve-outs, sloppiness shows up as productivity loss, revenue cycl
 
 Any one of these destroys deal economics. 
 
-## The Mid-Market Investor’s Reality Most mid-market deals lack the budget for Big 4 style carve-out programs.
+## The Mid-Market Investor’s Reality Most mid-market deals lack the budget for Big 
+4 style carve-out programs.
 
 At the same time, the assets they acquire are often under-built, under-documented, and reliant on tribal knowledge.
 
@@ -50,7 +51,8 @@ This means investors must move with speed, clarity, and tight alignment.
 
 They cannot afford bloated PMOs or theoretical roadmaps.
 
-They need operators who have lived through carve-outs and know exactly what matters in the first 120 days. 
+They need operators who have lived through carve-outs and know exactly what matters in the first 12
+0 days. 
 
 ## The Precision Carve-out Framework The framework below is purpose-built for healthcare carve-outs where: 
 -  Time is compressed 
@@ -104,9 +106,11 @@ A precision approach identifies:
 -  Which data sets are legally required 
 -  What must be migrated before Day One 
 -  What can wait 
--  What can be retired altogether The biggest mistake buyers make is overcommitting to tech scope in the first 60 days.
+-  What can be retired altogether The biggest mistake buyers make is overcommitting to tech scope in the first 6
+0 days.
 
-Focus on the critical 20 percent that enables operations.
+Focus on the critical 2
+0 percent that enables operations.
 
 Defer the rest until after stabilization. # ## 
 
@@ -179,7 +183,9 @@ Precision compliance means:
 
 Compliance by design prevents this. # ## 
 
-8. Operational Stand-up in 120 Days A precision carve-out targets operational readiness inside a 120 day window.
+8. Operational Stand-up in 12
+0 Days A precision carve-out targets operational readiness inside a 12
+0 day window.
 
 This timeline forces prioritization and avoids multi-year drift.
 

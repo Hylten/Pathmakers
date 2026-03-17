@@ -20,7 +20,8 @@ The ##
 
 ## THE REGIME SHIFT
 
- The healthcare M&A environment of 2026 is defined by three regime-level shifts that directly influence carve-out execution and post-transaction stabilization.
+ The healthcare M&A environment of 202
+6 is defined by three regime-level shifts that directly influence carve-out execution and post-transaction stabilization.
 
 First, capital providers have shortened their tolerance for slow integration cycles.
 
@@ -138,7 +139,8 @@ This protects both buyer and seller from post transaction disruptions. ## ## ## 
 
 Healthcare operators are entrusted with resources that directly affect human welfare.
 
-A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in **Proverbs 13:22** .
+A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in **Proverbs 13:22*
+* .
 
 Stewardship filters within Asset-Based Lending-backed carve-outs include: 
 
