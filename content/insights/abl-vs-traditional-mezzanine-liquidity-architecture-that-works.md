@@ -97,7 +97,9 @@ It is, in many cases, optional capital that behaves like mandatory supervision.
 Asset-Based Lending behaves like infrastructure.
 
 That difference is everything. **Proverbs 13:22
-*
+
+* 
+
 * speaks clearly: a good man leaves an inheritance for his children’s children.
 
 In corporate architecture, the “inheritance” is durability.
@@ -114,10 +116,13 @@ Mezzanine erodes it when used as the primary load‑bearing layer.
 
 The mid‑market buyer who understands this wins more deals, closes faster, and exits cleaner.
 
-Below is the institutional breakdown. 
--  
--  
--  Asset-Based Lending is one of the few financing instruments that respects operational reality.
+Below is the institutional breakdown.
+
+- 
+
+- 
+
+- Asset-Based Lending is one of the few financing instruments that respects operational reality.
 
 Traditional mezzanine respects lender psychology.
 
@@ -135,12 +140,17 @@ They expect certainty without theatre.
 
 Asset-Based Lending aligns with those expectations because it operates on numbers, not personality.
 
-Machine‑gun logic: 
--  Assets speak. 
--  Cash converts. 
--  Inventory moves. 
--  Receivables pay. 
--  Collateral drives liquidity.
+Machine‑gun logic:
+
+- Assets speak.
+
+- Cash converts.
+
+- Inventory moves.
+
+- Receivables pay.
+
+- Collateral drives liquidity.
 
 No committees.
 
@@ -204,20 +214,29 @@ Asset-Based Lending maintains exit readiness throughout the hold period because 
 
 Mezzanine degrades exit readiness because it introduces compounding obligations that expand during performance dips.
 
-Principal view: 
--  Asset-Based Lending compounds stability. 
--  Mezzanine compounds supervision. 
--  Asset-Based Lending aligns with asset velocity. 
--  Mezzanine aligns with lender narrative. 
--  Asset-Based Lending keeps exit optionality open. 
--  Mezzanine narrows pathways on stress.
+Principal view:
+
+- Asset-Based Lending compounds stability.
+
+- Mezzanine compounds supervision.
+
+- Asset-Based Lending aligns with asset velocity.
+
+- Mezzanine aligns with lender narrative.
+
+- Asset-Based Lending keeps exit optionality open.
+
+- Mezzanine narrows pathways on stress.
 
 In mid-market ecosystems dominated by private credit and inorganic growth roll-ups, the sponsor cannot afford narrowing.
 
-The architecture must widen. 
--  
--  
--  Now shift into deeper structural jurisdiction.
+The architecture must widen.
+
+- 
+
+- 
+
+- Now shift into deeper structural jurisdiction.
 
 Liquidity architecture is not capital raising.
 
@@ -321,30 +340,45 @@ Asset-Based Lending transforms operations into capability.
 
 Mezzanine transforms risk into cost.
 
-Operational capability always outperforms risk-cost dynamics over a multi-year hold period. 
--  
--  
--  Now move deeper.
+Operational capability always outperforms risk-cost dynamics over a multi-year hold period.
+
+- 
+
+- 
+
+- Now move deeper.
 
 Examine covenant posture.
 
 Covenant behaviour drives real-world performance outcomes more than headline pricing.
 
-Asset-Based Lending covenant posture: 
--  Inventory. 
--  Receivables. 
--  Borrowing base. 
--  Field audits. 
--  Mechanical ratios. 
--  Objective triggers.
+Asset-Based Lending covenant posture:
 
-Mezzanine covenant posture: 
--  EBITDA. 
--  Leverage. 
--  Coverage. 
--  Behavioral restrictions. 
--  Monitoring rights. 
--  Subjective triggers.
+- Inventory.
+
+- Receivables.
+
+- Borrowing base.
+
+- Field audits.
+
+- Mechanical ratios.
+
+- Objective triggers.
+
+Mezzanine covenant posture:
+
+- EBITDA.
+
+- Leverage.
+
+- Coverage.
+
+- Behavioral restrictions.
+
+- Monitoring rights.
+
+- Subjective triggers.
 
 Mechanical triggers produce predictable outcomes.
 
@@ -380,10 +414,13 @@ Mezzanine sees these businesses as risk.
 
 Asset-Based Lending sees them as liquidity.
 
-This is the entire playbook. 
--  
--  
--  Now address the Fund-III scenario.
+This is the entire playbook.
+
+- 
+
+- 
+
+- Now address the Fund-III scenario.
 
 When a sponsor enters Fund-III mode-meaning moving past proof of concept into institutional permanence-the capital stack must evolve into an autonomous system.
 
@@ -435,18 +472,27 @@ The Pathmaker cannot slow.
 
 Pathmakers compound velocity.
 
-Asset-Based Lending is velocity architecture. 
--  
--  
--  Now address exit readiness.
+Asset-Based Lending is velocity architecture.
 
-Exit readiness is defined by: 
--  Clean leverage stack. 
--  Predictable liquidity. 
--  Minimal supervision. 
--  Scalable working capital. 
--  No behavioral restrictions. 
--  Seller-friendly optics.
+- 
+
+- 
+
+- Now address exit readiness.
+
+Exit readiness is defined by:
+
+- Clean leverage stack.
+
+- Predictable liquidity.
+
+- Minimal supervision.
+
+- Scalable working capital.
+
+- No behavioral restrictions.
+
+- Seller-friendly optics.
 
 Asset-Based Lending produces clean optics at exit because it matches operating cycles.
 
@@ -484,10 +530,13 @@ Not narrative.
 
 Asset-Based Lending maintains structure.
 
-Mezzanine complicates it. 
--  
--  
--  Oil and gas presents a special case.
+Mezzanine complicates it.
+
+- 
+
+- 
+
+- Oil and gas presents a special case.
 
 The sector is capital-intensive.
 
@@ -517,10 +566,13 @@ It is survival.
 
 The winners in O&G consolidation use Asset-Based Lending-first structures.
 
-The laggards use mezzanine and pay for the privilege in both time and valuation leakage. 
--  
--  
--  Now address sponsor psychology.
+The laggards use mezzanine and pay for the privilege in both time and valuation leakage.
+
+- 
+
+- 
+
+- Now address sponsor psychology.
 
 Mid-market founders want certainty.
 
@@ -560,10 +612,13 @@ In mid-market ecosystems, trust is economics.
 
 Asset-Based Lending strengthens trust.
 
-Mezzanine weakens it. 
--  
--  
--  Now the final institutional mandate.
+Mezzanine weakens it.
+
+- 
+
+- 
+
+- Now the final institutional mandate.
 
 In the mid-market, liquidity architecture determines who gets deals, who closes deals, and who exits deals at premium multiples.
 

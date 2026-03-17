@@ -38,8 +38,7 @@ The capital vacuum sits in the mid-market band of EUR
 
 40 to 
 
-40
-0 million enterprise value, where private equity sponsors compete aggressively for platform roll-ups but often cannot deploy quickly enough into complex spin-offs that lack standalone operational readiness.
+400 million enterprise value, where private equity sponsors compete aggressively for platform roll-ups but often cannot deploy quickly enough into complex spin-offs that lack standalone operational readiness.
 
 This is the inflection point where liquidity engineering becomes the determining factor.
 
@@ -143,12 +142,17 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 
 In the context of mid-market spin-offs, the role is to identify the capital architecture that allows the division to transition cleanly from parent to new ownership without degrading value or introducing structural risk.
 
-This includes: 
--  Pre-transaction operational diagnostics to assess the separation readiness of the division. 
--  Mapping of cash-flow waterfalls, structural seniority, and LTV curves aligned with institutional private credit requirements. 
--  Introducing capital partners with specific expertise in transitional financing and corporate separations. 
--  Coordinating with legal, regulatory, and operational stakeholders to ensure compliance alignment. 
--  Overseeing the sequencing of events so that balance sheet optimization occurs in parallel with operational build-out.
+This includes:
+
+- Pre-transaction operational diagnostics to assess the separation readiness of the division.
+
+- Mapping of cash-flow waterfalls, structural seniority, and LTV curves aligned with institutional private credit requirements.
+
+- Introducing capital partners with specific expertise in transitional financing and corporate separations.
+
+- Coordinating with legal, regulatory, and operational stakeholders to ensure compliance alignment.
+
+- Overseeing the sequencing of events so that balance sheet optimization occurs in parallel with operational build-out.
 
 The partnership model is not predicated on capital deployment.
 
@@ -162,18 +166,25 @@ In this context, the advisory function becomes a form of operational intelligenc
 
 ## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility.
 
-The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience. 
--  **Proverbs 13:22
-*
+The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience.
+
+- **Proverbs 13:22
+
+* 
+
 * provides a foundational principle: capital is to be positioned in a manner that benefits future generations, not consumed in short-term transactions.
 
-The stewardship filter in corporate separations includes: 
--  Ensuring that the division receives sufficient transitional liquidity to protect employees, supply chains, and strategic customers. 
--  Building governance structures that prevent operational drift during the first 
+The stewardship filter in corporate separations includes:
 
-24 months post-separation. 
--  Avoiding extraction-based financial engineering that compromises long-term viability. 
--  Structuring credit facilities in a manner that aligns cash-flow obligations with operational reality rather than short-term investor preferences.
+- Ensuring that the division receives sufficient transitional liquidity to protect employees, supply chains, and strategic customers.
+
+- Building governance structures that prevent operational drift during the first 
+
+24 months post-separation.
+
+- Avoiding extraction-based financial engineering that compromises long-term viability.
+
+- Structuring credit facilities in a manner that aligns cash-flow obligations with operational reality rather than short-term investor preferences.
 
 Stewardship is the counterweight to opportunistic arbitrage.
 
@@ -183,12 +194,17 @@ THE DECISION-MAKING LENS FOR ALLOCATORS Allocators evaluating mid-market spin-of
 
 The determining factors are not headline revenue numbers or EBITDA multiples.
 
-The determining factors are: 
--  The precision of the separation plan. 
--  The robustness of the transitional liquidity framework. 
--  The quality of the ringfenced capital structure. 
--  The discipline of cash-flow calibration. 
--  The presence of a strategic navigator capable of orchestrating introductions, verifying operational assumptions, and aligning the transaction to institutional requirements.
+The determining factors are:
+
+- The precision of the separation plan.
+
+- The robustness of the transitional liquidity framework.
+
+- The quality of the ringfenced capital structure.
+
+- The discipline of cash-flow calibration.
+
+- The presence of a strategic navigator capable of orchestrating introductions, verifying operational assumptions, and aligning the transaction to institutional requirements.
 
 High intent mid-market carve-outs rarely reach the open market.
 

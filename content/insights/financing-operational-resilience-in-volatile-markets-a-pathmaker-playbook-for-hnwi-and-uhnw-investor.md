@@ -60,11 +60,15 @@ It is an environment that rewards precision.
 
 ## Building a Forward Defensive Posture Companies survive volatility when they build forward.
 
-This means: 
--  Liquidity established before disruption 
--  Credit lines structured around real collateral 
--  Capital partners who understand the asset class 
--  Mechanisms that scale as operations evolve Pathmaker structures credit that anticipates pressure rather than responding to it.
+This means:
+
+- Liquidity established before disruption
+
+- Credit lines structured around real collateral
+
+- Capital partners who understand the asset class
+
+- Mechanisms that scale as operations evolve Pathmaker structures credit that anticipates pressure rather than responding to it.
 
 Our framework minimizes surprises.
 

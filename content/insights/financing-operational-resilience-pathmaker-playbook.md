@@ -26,9 +26,12 @@ The question is not whether the cycle turns.
 
 It is who remains solvent, mobile, and acquisition-ready when it does.
 
-As written in 
--  **Proverbs 13:22
-*
+As written in
+
+- **Proverbs 13:22
+
+* 
+
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Resilience is the mechanism.
@@ -71,9 +74,12 @@ The liquidity gap widens.
 
 And across that widening gap, the prepared investor constructs a bridge.
 
-This bridge takes three primary forms: 
-* Balance-sheet reinforcement. 
-* Operational stabilisation. 
+This bridge takes three primary forms:
+
+* Balance-sheet reinforcement.
+
+* Operational stabilisation.
+
 * Structured Institutional Liquidity Paths.
 
 The playbook integrates all three.
@@ -156,9 +162,12 @@ Engineered liquidity is dynamic.
 
 Engineered liquidity reshapes risk surfaces and enables capital deployment under hostile market conditions.
 
-High-intent investors require liquidity that moves across three planes: 
-* Time (duration flexibility). 
-* Jurisdiction (tax and legal arbitrage). 
+High-intent investors require liquidity that moves across three planes:
+
+* Time (duration flexibility).
+
+* Jurisdiction (tax and legal arbitrage).
+
 * Structure (convertible, layered, or collateralised).
 
 The constraint is never capital.
@@ -171,11 +180,16 @@ Single-lane systems fail under multi-vector shocks.
 
 Pathmaker architecture mandates multi-lane systems.
 
-The most powerful liquidity instruments in volatile markets include: 
-* Private credit with tactical draw schedules. 
-* Collateralised facilities against real assets or structured cashflows. 
-* Revenue-backed financing for operational expansion. 
-* Cross‑jurisdiction credit lines with FX shields. 
+The most powerful liquidity instruments in volatile markets include:
+
+* Private credit with tactical draw schedules.
+
+* Collateralised facilities against real assets or structured cashflows.
+
+* Revenue-backed financing for operational expansion.
+
+* Cross‑jurisdiction credit lines with FX shields.
+
 * Asset-light acquisition vehicles with conditional commitments.
 
 These instruments are not hypothetical.
@@ -204,10 +218,14 @@ The delta in time-to-close is measurable.
 
 The delta in buyer competition is measurable.
 
-An enterprise is exit-ready when four components align: 
-* Structural resilience. 
-* Clean financial infrastructure. 
-* Covenant discipline. 
+An enterprise is exit-ready when four components align:
+
+* Structural resilience.
+
+* Clean financial infrastructure.
+
+* Covenant discipline.
+
 * Liquidity runway.
 
 This alignment increases buyer credibility instantly.
@@ -262,10 +280,14 @@ They avoid the liquidity traps that ensnare reactive investors.
 
 The Pathmaker Playbook emphasises this distance.
 
-In practice, this distance becomes: 
-* Slower decision cycles, faster execution cycles. 
-* Multi-scenario modelling, single-scenario commitment. 
-* Multi-lane liquidity, single-lane deployment. 
+In practice, this distance becomes:
+
+* Slower decision cycles, faster execution cycles.
+
+* Multi-scenario modelling, single-scenario commitment.
+
+* Multi-lane liquidity, single-lane deployment.
+
 * Macro awareness, micro action.
 
 Institutional resilience engineering becomes competitive advantage.
@@ -421,7 +443,9 @@ Governance at the architecture layer amplifies operational resilience.
 Poor governance erodes it silently.
 
 Resilient architecture allows an investor to respond to shocks without compromising strategic direction. **Proverbs 13:22
-*
+
+* 
+
 * binds the philosophy together: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Inheritance is not merely financial.

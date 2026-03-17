@@ -84,12 +84,17 @@ Excess leverage, non essential assets, informal shareholder arrangements, and in
 
 The Pathmaker system applies Asset-Backed Frameworks to remove distortions, creating balance sheet symmetry.
 
-This includes: 
--  Capital hygiene audits 
--  Cash conversion cycle optimization 
--  Liability stratification 
--  Asset hardening through enforceable valuation pathways 
--  Alignment with institutional reporting cadence Once normalized, the portfolio becomes navigable for high tier capital. 
+This includes:
+
+- Capital hygiene audits
+
+- Cash conversion cycle optimization
+
+- Liability stratification
+
+- Asset hardening through enforceable valuation pathways
+
+- Alignment with institutional reporting cadence Once normalized, the portfolio becomes navigable for high tier capital. 
 
 3.
 
@@ -144,14 +149,20 @@ Capital misallocation creates fragility.
 Capital purposefulness creates resilience.
 
 The Pathmaker approach is built on a stewardship logic that aligns with the principle recorded in **Proverbs 13:22
-*
+
+* 
+
 * which establishes continuity of capital across generations through disciplined management rather than opportunistic allocation.
 
-This filter ensures that: 
--  Liquidity is engaged only when structurally justified 
--  Assets are prepared before exposure to sovereign counterparties 
--  Valuation pathways remain defensible 
--  Capital is deployed in alignment with long term solvency principles Stewardship, when applied to sovereign financing readiness, becomes a safeguard against strategic error.
+This filter ensures that:
+
+- Liquidity is engaged only when structurally justified
+
+- Assets are prepared before exposure to sovereign counterparties
+
+- Valuation pathways remain defensible
+
+- Capital is deployed in alignment with long term solvency principles Stewardship, when applied to sovereign financing readiness, becomes a safeguard against strategic error.
 
 DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW investors who require sovereign grade financing or cross border liquidity access must evaluate their current positioning through an institutional lens.
 

@@ -138,10 +138,13 @@ Lenders hate incoherence because incoherence destroys recovery pathways.
 
 Pathmaker builds coherence.
 
-Operators who implement this approach gain three unfair advantages: 
--  They raise faster. 
--  They negotiate stronger. 
--  They exit cleaner.
+Operators who implement this approach gain three unfair advantages:
+
+- They raise faster.
+
+- They negotiate stronger.
+
+- They exit cleaner.
 
 Every mid‑market operator feels the liquidity gap during inflection cycles.
 
@@ -172,8 +175,11 @@ Equity becomes optional.
 This is the core thesis behind Capital Structuring: remove emotion, replace with mechanics.
 
 Remove uncertainty, replace with instruments. **Proverbs 13:22
-*
+
+* 
+
 * : *A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
+
 * Intergenerational asset discipline begins with institutional order, not personal intention.
 
 Operators who treat liquidity as an inheritance tool outperform operators who treat liquidity as a survival tool.
@@ -272,15 +278,23 @@ Pathmaker builds the bridge.
 
 Our Analyst Team models exit friction as a baseline diagnostic.
 
-We quantify: 
--  Entity incoherence 
--  Redundant liability vectors 
--  Collateral inefficiency 
--  Tax drag 
--  Integration difficulty 
--  Due diligence latency 
--  Covenant risk 
--  Buyer discount expectations These variables form the Friction Delta Profile.
+We quantify:
+
+- Entity incoherence
+
+- Redundant liability vectors
+
+- Collateral inefficiency
+
+- Tax drag
+
+- Integration difficulty
+
+- Due diligence latency
+
+- Covenant risk
+
+- Buyer discount expectations These variables form the Friction Delta Profile.
 
 Once the delta is known, we engineer it down.
 

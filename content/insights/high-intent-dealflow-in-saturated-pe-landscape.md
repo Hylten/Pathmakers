@@ -258,14 +258,21 @@ The latter drains calendars.
 
 The shift now underway is a recognition that intent itself can be engineered-if approached structurally.
 
-Pathmaker focuses on the structural signal indicators: 
--  Financial storytelling coherence 
--  Forecast credibility 
--  Succession realism 
--  Clean operational governance 
--  Decision-making clarity 
--  Alignment of valuation expectation with market physics 
--  Willingness to engage in bidirectional diligence These are not soft factors.
+Pathmaker focuses on the structural signal indicators:
+
+- Financial storytelling coherence
+
+- Forecast credibility
+
+- Succession realism
+
+- Clean operational governance
+
+- Decision-making clarity
+
+- Alignment of valuation expectation with market physics
+
+- Willingness to engage in bidirectional diligence These are not soft factors.
 
 They are the determinants of close probability.
 
@@ -303,9 +310,7 @@ Intent is forged upstream.
 
 Exit readiness is built upstream.
 
-The most valuable deals of 2026-20
-
-28 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
+The most valuable deals of 2026-2028 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
 
 When readiness meets timing, deal velocity increases.
 

@@ -120,13 +120,19 @@ Pathmaker builds structures that match the speed of execution required in health
 
 We move fast because our underwriting is focused on collateral, not committee theater.
 
-We lend against: 
--  Hard assets 
--  Receivables 
--  Intellectual property 
--  Monetizable equity positions 
--  High quality crypto portfolios with a minimum threshold of two million dollars 
--  Public share positions with a minimum threshold of five million dollars This is liquidity that can be deployed with precision, discretion, and force. 
+We lend against:
+
+- Hard assets
+
+- Receivables
+
+- Intellectual property
+
+- Monetizable equity positions
+
+- High quality crypto portfolios with a minimum threshold of two million dollars
+
+- Public share positions with a minimum threshold of five million dollars This is liquidity that can be deployed with precision, discretion, and force. 
 
 ## Asset Based Institutional Liquidity Paths With Real Teeth Healthcare operators often underestimate the power of Asset-Based Lending because most lenders in the space treat it as a formulaic product.
 
@@ -148,12 +154,17 @@ The value is not the capital itself.
 
 It is the optionality created when the operator is no longer constrained by reimbursement cycles or corporate slowdowns.
 
-Asset-Based Lending lets the operator: 
--  Acquire faster 
--  Negotiate harder 
--  Buffer operational volatility 
--  Execute rollups on their timing 
--  Retain negotiating power in turbulent markets When operators control liquidity they control outcomes. 
+Asset-Based Lending lets the operator:
+
+- Acquire faster
+
+- Negotiate harder
+
+- Buffer operational volatility
+
+- Execute rollups on their timing
+
+- Retain negotiating power in turbulent markets When operators control liquidity they control outcomes. 
 
 ## Crypto and Public Share Asset-Backed Frameworks for High Net Worth Operators Healthcare disruptors are increasingly diversified.
 

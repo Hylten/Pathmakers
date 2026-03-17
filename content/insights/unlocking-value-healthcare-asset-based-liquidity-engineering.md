@@ -97,7 +97,9 @@ Elevate the signal.
 Build the spine.
 
 Core premise: value is not created in the sale; value is crystallized in the structure. **Proverbs 13:22
-*
+
+* 
+
 * reminds us: a good man leaves an inheritance to his children's children.
 
 The institutional translation is continuity.

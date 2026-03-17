@@ -42,12 +42,17 @@ Pathmaker exists to close that gap with structural clarity, not optimism.
 
 It allows operators to leverage what they already control instead of negotiating against sentiment or macro cycles.
 
-When executed correctly, Asset-Based Lending provides: 
--  Predictable liquidity 
--  Non-correlated leverage 
--  Rapid underwriting when collateral is clean 
--  Flexibility during transition periods 
--  Insulation from market volatility For healthcare assets in particular, Asset-Based Lending eliminates subjective valuation battles.
+When executed correctly, Asset-Based Lending provides:
+
+- Predictable liquidity
+
+- Non-correlated leverage
+
+- Rapid underwriting when collateral is clean
+
+- Flexibility during transition periods
+
+- Insulation from market volatility For healthcare assets in particular, Asset-Based Lending eliminates subjective valuation battles.
 
 It turns revenue streams, receivables, contracts, and equipment into immediate optionality.
 
@@ -125,13 +130,19 @@ Mid-market operators stepping into these assets often underestimate the liquidit
 
 90 days.
 
-This includes: 
--  Payroll gaps 
--  Vendor uncertainty 
--  Contract renegotiations 
--  Compliance realignment 
--  Revenue cycle clogging 
--  Cultural dislocation Traditional lenders rarely underwrite these risks at deal speed.
+This includes:
+
+- Payroll gaps
+
+- Vendor uncertainty
+
+- Contract renegotiations
+
+- Compliance realignment
+
+- Revenue cycle clogging
+
+- Cultural dislocation Traditional lenders rarely underwrite these risks at deal speed.
 
 Which is why so many carve-out opportunities are lost before they even reach diligence.
 
@@ -161,13 +172,19 @@ They are the ones with the most reliable liquidity.
 
 Pathmaker financing supports acquisition velocity while maintaining structural discipline.
 
-We solve for: 
--  Earnout alignment 
--  Bridge financing gaps 
--  Delayed receivables 
--  Rapid collateral-based underwriting 
--  Liquidity shocks during diligence 
--  Post-acquisition stabilization For UHNW and HNWI buyers, this consistency becomes a competitive edge against PE firms with slower committees and stricter covenants. 
+We solve for:
+
+- Earnout alignment
+
+- Bridge financing gaps
+
+- Delayed receivables
+
+- Rapid collateral-based underwriting
+
+- Liquidity shocks during diligence
+
+- Post-acquisition stabilization For UHNW and HNWI buyers, this consistency becomes a competitive edge against PE firms with slower committees and stricter covenants. 
 
 ## Crypto and Public Shares as Leverage, Not Exposure High net worth clients often carry significant value in digital assets or concentrated public positions.
 

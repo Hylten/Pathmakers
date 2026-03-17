@@ -196,37 +196,55 @@ Liquidity gives operators the ability to isolate the noise while stabilizing the
 
 ## The Role of Asset-Based Lending in Portfolio Strategy for HNWI and UHNW Clients High net worth and ultra high net worth individuals do not use liquidity the way retail investors do.
 
-They use it as an instrument for: 
--  Acquisition timing 
--  Tax strategy 
--  Risk insulation 
--  Opportunity capture 
--  Market neutral leverage 
--  Consolidation or expansion moves Asset based Asset-Backed Frameworks transforms static assets into strategic capital.
+They use it as an instrument for:
+
+- Acquisition timing
+
+- Tax strategy
+
+- Risk insulation
+
+- Opportunity capture
+
+- Market neutral leverage
+
+- Consolidation or expansion moves Asset based Asset-Backed Frameworks transforms static assets into strategic capital.
 
 It allows wealthy clients to operate with institutional level sophistication without exposing themselves to unnecessary loss of ownership or dilution.
 
 In a world where private credit, crypto, and public shares represent major components of wealth architecture, Pathmaker provides the structural leverage that keeps those assets functioning rather than sitting idle. 
 
-## The Pathmaker Advantage Pathmaker delivers: 
--  Institutional grade structuring 
--  Private market speed 
--  Silent execution 
--  Collateral centric underwriting 
--  Minimum friction interactions 
--  Clean mechanics for leverage and liquidity We do not promise simplicity.
+## The Pathmaker Advantage Pathmaker delivers:
+
+- Institutional grade structuring
+
+- Private market speed
+
+- Silent execution
+
+- Collateral centric underwriting
+
+- Minimum friction interactions
+
+- Clean mechanics for leverage and liquidity We do not promise simplicity.
 
 We promise clarity.
 
 We promise a Strategic Collateralization environment where professionals can move without being bottlenecked by institutional indecision. 
 
-## Who We Work With Pathmaker is built for: 
--  High net worth individuals 
--  Ultra high net worth individuals 
--  Operators involved in healthcare carve outs 
--  Mid market M and A professionals 
--  Investors with concentrated crypto or public share positions 
--  Families or principals who require liquidity without divestment If an individual or family operates in a world where timing, structure, and discretion matter, Pathmaker fits. 
+## Who We Work With Pathmaker is built for:
+
+- High net worth individuals
+
+- Ultra high net worth individuals
+
+- Operators involved in healthcare carve outs
+
+- Mid market M and A professionals
+
+- Investors with concentrated crypto or public share positions
+
+- Families or principals who require liquidity without divestment If an individual or family operates in a world where timing, structure, and discretion matter, Pathmaker fits. 
 
 ## The Future of Asset Based Strategic Collateralization Asset based Capital Structuring is evolving.
 

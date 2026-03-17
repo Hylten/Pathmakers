@@ -127,7 +127,9 @@ That posture decides deal flow.
 That flow decides timing.
 
 Timing decides return. **Proverbs 13:22
-*
+
+* 
+
 * : Wealth flows through structural stewardship.
 
 Cross‑border M&A obeys the same law.
@@ -214,14 +216,21 @@ The mechanism is nonlinear.
 
 We architect the pre‑exit environment before closing.
 
-We remove friction by mapping every operational choke-point across border transition: 
--  Financial statement translation asymmetry 
--  Legal structure mismatch 
--  Tax regime collisions 
--  HR protocol divergence 
--  Environmental compliance non‑alignment 
--  Subsidy eligibility variance 
--  Sovereign data‑residency constraints Each friction slows integration.
+We remove friction by mapping every operational choke-point across border transition:
+
+- Financial statement translation asymmetry
+
+- Legal structure mismatch
+
+- Tax regime collisions
+
+- HR protocol divergence
+
+- Environmental compliance non‑alignment
+
+- Subsidy eligibility variance
+
+- Sovereign data‑residency constraints Each friction slows integration.
 
 Each slowdown erodes value.
 

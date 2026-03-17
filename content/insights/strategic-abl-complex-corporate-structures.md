@@ -14,7 +14,7 @@ In 2026, deployable capital sits idle while businesses with strong collateral pr
 
 This is the opening for strategic Asset-Based Lending.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -64,7 +64,7 @@ What institutions perceive as risk is often simply a lack of technical mapping.
 
 Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -96,11 +96,15 @@ Multi entity borrowing base engineering The borrowing base is not a single pool 
 
 The challenge is determining which assets can support senior secured lending without violating corporate separations.
 
-Techniques include: 
--  Cross entity collateral synchronisation 
--  Covenant neutral intercompany agreements 
--  Limited recourse structures that maintain corporate integrity 
--  Asset hardening procedures that preserve collateral stability across acquisition cycles Borrowing base engineering is not about pushing leverage.
+Techniques include:
+
+- Cross entity collateral synchronisation
+
+- Covenant neutral intercompany agreements
+
+- Limited recourse structures that maintain corporate integrity
+
+- Asset hardening procedures that preserve collateral stability across acquisition cycles Borrowing base engineering is not about pushing leverage.
 
 It is about removing noise so collateral can carry liquidity. 
 
@@ -110,10 +114,13 @@ LTV curve calibration Loan to Value cannot be linear across entities.
 
 Strategic Asset-Based Lending uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity.
 
-For example: 
--  Hard assets with established resale markets follow high stability LTV curves. 
--  Receivables tied to diversified clients follow mid band curves with time decay functions. 
--  Intellectual property or contractual rights may require structural subordination or cross collateralisation.
+For example:
+
+- Hard assets with established resale markets follow high stability LTV curves.
+
+- Receivables tied to diversified clients follow mid band curves with time decay functions.
+
+- Intellectual property or contractual rights may require structural subordination or cross collateralisation.
 
 The objective is to define a defensible seniority stack that institutional lenders can recognise without being forced into binary credit decisions. 
 
@@ -123,16 +130,21 @@ Cash flow waterfalls for multi entity groups When liquidity flows across entitie
 
 Strategic Asset-Based Lending constructs waterfalls that reflect operational reality rather than accounting formality.
 
-This includes: 
--  Entity specific operating reserves 
--  Group level senior obligations 
--  Structured intra group compensation 
--  Acquisition staging reserves 
--  Protected reinvestment corridors Waterfall architecture determines lender confidence.
+This includes:
+
+- Entity specific operating reserves
+
+- Group level senior obligations
+
+- Structured intra group compensation
+
+- Acquisition staging reserves
+
+- Protected reinvestment corridors Waterfall architecture determines lender confidence.
 
 The clearer the intercompany monetisation pathways, the lower the friction cost of capital.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
@@ -190,7 +202,7 @@ The same principle applies to multi entity corporate groups in manufacturing, lo
 
 When the operating partner has clarity, the lender can price risk accurately.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
@@ -225,14 +237,16 @@ This is not a market condition.
 It is a stewardship issue.
 
 The stewardship filter aligns with the principle in **Proverbs 13:22
-*
+
+* 
+
 * which positions resource continuity as a multi generational responsibility.
 
 Corporate assets become durable when they are structured coherently.
 
 Capital follows coherence.
 
-Phase V: .
+### Phase V: .
 
 DECISION LENS FOR THE ALLOCATOR OR OWNER For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available.
 

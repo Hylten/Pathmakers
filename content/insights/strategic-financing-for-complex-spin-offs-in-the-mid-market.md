@@ -34,9 +34,7 @@ This is how they negotiate with institutional actors without having to posture.
 
 This is the role of principal authority. 
 
-## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 10
-
-00 operate with armies of advisors and entire consulting ecosystems.
+## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 1000 operate with armies of advisors and entire consulting ecosystems.
 
 Most mid-market carve-outs are the opposite.
 
@@ -78,8 +76,7 @@ It is day one survival.
 
 It is day 
 
-10
-0 stability.
+100 stability.
 
 It is the six month bridge that keeps the carve-out from collapsing under its own transitional weight.
 
@@ -151,14 +148,21 @@ The capital architects behind the capital.
 
 Before any valuation discussion even begins, operational gaps create liquidity drag.
 
-Common realities include: 
--  Provider enrollment delays 
--  Licensing transfers stuck in regulatory queues 
--  Credentialing timelines that break revenue cycle predictability 
--  Expensive temporary staffing to maintain service lines 
--  Payer contract renegotiations that reduce reimbursement visibility 
--  IT system migrations that destabilize billing and scheduling 
--  Audit and compliance burdens unique to healthcare transactions These issues do not respond to enthusiasm or optimism.
+Common realities include:
+
+- Provider enrollment delays
+
+- Licensing transfers stuck in regulatory queues
+
+- Credentialing timelines that break revenue cycle predictability
+
+- Expensive temporary staffing to maintain service lines
+
+- Payer contract renegotiations that reduce reimbursement visibility
+
+- IT system migrations that destabilize billing and scheduling
+
+- Audit and compliance burdens unique to healthcare transactions These issues do not respond to enthusiasm or optimism.
 
 They respond to capitalization.
 
@@ -180,12 +184,17 @@ Lenders in this category can move faster, structure with more creativity, and op
 
 For mid-market principals, this is a decisive advantage.
 
-Private credit allows for: 
--  Faster close cycles compared to banks 
--  Higher tolerance for transitional volatility 
--  Collateral structures that reflect real world constraints 
--  Non-dilutive capital that preserves ownership 
--  Negotiation leverage at the separation table In a spin-off, the capital that arrives on time is often more valuable than capital with the lowest cost.
+Private credit allows for:
+
+- Faster close cycles compared to banks
+
+- Higher tolerance for transitional volatility
+
+- Collateral structures that reflect real world constraints
+
+- Non-dilutive capital that preserves ownership
+
+- Negotiation leverage at the separation table In a spin-off, the capital that arrives on time is often more valuable than capital with the lowest cost.
 
 Private credit delivers timing advantage.
 
@@ -261,13 +270,19 @@ They carry financial exposure that institutions do not face.
 
 Our approach respects the weight of that reality.
 
-Pathmaker is built for principals who: 
--  Need discreet, high velocity financing 
--  Cannot rely on bank committees 
--  Need collateralized structures across mixed asset classes 
--  Must protect personal liquidity while executing corporate strategy 
--  Operate in competitive environments where timing is leverage 
--  Want capital partners with authority but not noise We do not chase headlines.
+Pathmaker is built for principals who:
+
+- Need discreet, high velocity financing
+
+- Cannot rely on bank committees
+
+- Need collateralized structures across mixed asset classes
+
+- Must protect personal liquidity while executing corporate strategy
+
+- Operate in competitive environments where timing is leverage
+
+- Want capital partners with authority but not noise We do not chase headlines.
 
 We build capital architecture. 
 

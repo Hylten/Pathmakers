@@ -72,8 +72,7 @@ For example, a company with
 
 90 day cash conversion cycles cannot rely on a facility designed for 
 
-18
-0 day cycles.
+180 day cycles.
 
 Precision financing requires calibration to working capital rhythms, not broad sector averages. 
 
@@ -168,7 +167,9 @@ The stewardship filter evaluates decisions based on three principles.
 Non wasteful deployment Every krone deployed must enhance enterprise resilience.
 
 This reflects **Proverbs 13:22
-*
+
+* 
+
 * , where long term inheritance is the result of disciplined planning, not opportunistic spending. 
 
 2.

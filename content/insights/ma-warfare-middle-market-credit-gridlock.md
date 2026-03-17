@@ -24,27 +24,27 @@ The result is a widening gap between asset quality and transaction feasibility.
 
  The mid-market M&A environment across Europe and North America is moving through a regime transition.
 
-The pre 20
+The pre 2020 capital landscape was defined by abundant leverage, compressed diligence timelines, and an oversupply of buyers willing to price aggressive forward EBITDA assumptions.
 
-20 capital landscape was defined by abundant leverage, compressed diligence timelines, and an oversupply of buyers willing to price aggressive forward EBITDA assumptions.
-
-The post 20
-
-23 framework is structurally different.
+The post 2023 framework is structurally different.
 
 The institutions controlling the flow of credit have recalibrated their tolerance for uncertainty and placed heavier emphasis on covenants, documentation accuracy, and verified cash flow durability.
 
-Key dynamics include: 
--  A significant decline in loan-to-value ceilings.
+Key dynamics include:
 
-Many lenders who once operated at 4.0x leverage thresholds are imposing 2.0x to 2.5x caps. 
--  Higher hurdle rates for new capital deployment.
+- A significant decline in loan-to-value ceilings.
 
-This reduces the volume of competitive term sheets entering mid-market processes. 
--  A more rigid stance on operational transparency.
+Many lenders who once operated at 4.0x leverage thresholds are imposing 2.0x to 2.5x caps.
 
-Any deficiency in reporting, forecasting, or contract structuring automatically degrades lender confidence and reduces available leverage. 
--  Slowing buyer cycles.
+- Higher hurdle rates for new capital deployment.
+
+This reduces the volume of competitive term sheets entering mid-market processes.
+
+- A more rigid stance on operational transparency.
+
+Any deficiency in reporting, forecasting, or contract structuring automatically degrades lender confidence and reduces available leverage.
+
+- Slowing buyer cycles.
 
 Strategic buyers have expanded diligence periods to neutralize execution risk and avoid balance sheet mispricing.
 
@@ -66,9 +66,7 @@ It is rewarding structural readiness.
 
 ## TECHNICAL MECHANICS
 
- OF MID MARKET M&A IN 20
-
-26 The mid market ecosystem consists of operators who often possess strong client retention, defensible cash flow, and deep domain expertise.
+ OF MID MARKET M&A IN 2026 The mid market ecosystem consists of operators who often possess strong client retention, defensible cash flow, and deep domain expertise.
 
 What they frequently lack is transaction grade documentation, institutional accounting cadence, and the operational discipline required for cross border acquisition processes.
 
@@ -186,14 +184,22 @@ Stewardship is the discipline of handling resources with precision, integrity, a
 
 Enterprises preparing for acquisition must demonstrate stewardship in their financial and operational behavior.
 
-The stewardship filter includes: 
--  Clean documentation 
--  Accurate financial reporting 
--  Verified contracts 
--  Transparent governance 
--  Responsible capital deployment 
--  Sustainable operational practices This is aligned with the theological principle in **Proverbs 13:22
-*
+The stewardship filter includes:
+
+- Clean documentation
+
+- Accurate financial reporting
+
+- Verified contracts
+
+- Transparent governance
+
+- Responsible capital deployment
+
+- Sustainable operational practices This is aligned with the theological principle in **Proverbs 13:22
+
+* 
+
 * that underscores the responsibility of long term resource management.
 
 Stewardship is not a moral abstraction.
@@ -208,9 +214,7 @@ DECISION MAKING LENS FOR ALLOCATORS AND OPERATORS Executives and owners evaluati
 
 The market rewards alignment, not assumptions.
 
-Operators who continue to prepare for exit using pre 20
-
-20 playbooks encounter valuation compression and failed processes.
+Operators who continue to prepare for exit using pre 2020 playbooks encounter valuation compression and failed processes.
 
 Operators who apply disciplined readiness protocols experience increased buyer engagement and higher transaction efficiency.
 

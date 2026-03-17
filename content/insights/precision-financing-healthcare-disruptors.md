@@ -18,7 +18,7 @@ The objective is not deal promotion.
 
 It is strategic orientation for allocators who require a neutral, system level view of how high intent healthcare platforms are positioned for strategic liquidity events when their balance sheets are engineered correctly.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -64,7 +64,7 @@ The operators who understand Capital Structuring, treasury discipline, and exit 
 
 Everyone else competes on labor price and operational fatigue.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -82,10 +82,13 @@ Balance Sheet Optimization This is the stabilizing function.
 
 The objective is to convert operational volatility into controlled financial architecture.
 
-Techniques include: 
--  Normalization of working capital cycles without creating dependency on short term revolving credit. 
--  Conversion of nonperforming receivables into predictable inflow curves through structured reimbursement modeling. 
--  Recalibration of liabilities to increase acquisition readiness without inflating leverage ratios. 
+Techniques include:
+
+- Normalization of working capital cycles without creating dependency on short term revolving credit.
+
+- Conversion of nonperforming receivables into predictable inflow curves through structured reimbursement modeling.
+
+- Recalibration of liabilities to increase acquisition readiness without inflating leverage ratios. 
 
 2.
 
@@ -93,10 +96,13 @@ Strategic Collateralization Liquidity becomes a strategic asset rather than a re
 
 Institutional operators deploy predictable liquidity structures that support acquisition or integration events.
 
-Methods include: 
--  Sequenced liquidity tranches aligned with clinical milestones and facility throughput. 
--  Cross clinic liquidity cushions to neutralize regional reimbursement delays. 
--  Timed liquidity injections to prepare for regulatory audits and buyer grade financial assessments. 
+Methods include:
+
+- Sequenced liquidity tranches aligned with clinical milestones and facility throughput.
+
+- Cross clinic liquidity cushions to neutralize regional reimbursement delays.
+
+- Timed liquidity injections to prepare for regulatory audits and buyer grade financial assessments. 
 
 3.
 
@@ -106,10 +112,13 @@ The weakness is that every buyer and lender discounts soft assets.
 
 Asset hardening transforms clinical output into institutionally recognized value.
 
-Examples include: 
--  Contract hardening: converting informal referral pipelines into written clinical service agreements. 
--  Data hardening: building clinical outcome datasets capable of surviving due diligence stress testing. 
--  Operational hardening: standardized SOPs that reduce integration drag for consolidators. 
+Examples include:
+
+- Contract hardening: converting informal referral pipelines into written clinical service agreements.
+
+- Data hardening: building clinical outcome datasets capable of surviving due diligence stress testing.
+
+- Operational hardening: standardized SOPs that reduce integration drag for consolidators. 
 
 4.
 
@@ -117,10 +126,13 @@ Opportunity Velocity Healthcare disruptors grow through structured acquisition p
 
 Opportunity velocity measures how quickly an operator can evaluate, secure, and integrate clinics or specialized practices.
 
-Precision financing supports this through: 
--  Pre vetted acquisition credit envelopes. 
--  Legal standardization for rapid LOI deployment. 
--  Centralized diligence frameworks that reduce deal cycle by 
+Precision financing supports this through:
+
+- Pre vetted acquisition credit envelopes.
+
+- Legal standardization for rapid LOI deployment.
+
+- Centralized diligence frameworks that reduce deal cycle by 
 
 60 to 
 
@@ -128,7 +140,7 @@ Precision financing supports this through:
 
 These mechanics create an operator profile that is attractive to institutional buyers and defensible under audit conditions.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator for allocators and operators requiring neutrality across the financing ecosystem.
 
@@ -162,7 +174,7 @@ Operators with discipline in their financial presentation, acquisition framework
 
 Roials Capital functions as a market filter by identifying operators that demonstrate readiness for institutional buyers but are not yet visible in conventional pipelines.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship inside healthcare financing is centered on resource conservation, long term operational stability, and ethical deployment of capital.
 
@@ -173,7 +185,9 @@ Stewardship as a discipline requires three commitments.
 1.
 
 Clarity of Intent Operators must treat their balance sheet as a trust, not a tactical instrument. **Proverbs 13:22
-*
+
+* 
+
 * positions this clearly: capital is intergenerational when stewarded wisely.
 
 Healthcare platforms with transparent accounting, controlled expense allocation, and defensible cash cycles embody this principle. 
@@ -196,7 +210,7 @@ Growth must align with load bearing capacity.
 
 Institutional buyers value this discipline, and valuation multiples reflect it.
 
-Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR ALLOCATORS Institutional allocators assessing healthcare platforms in this regime should use a calibrated framework. 
 

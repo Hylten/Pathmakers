@@ -128,12 +128,17 @@ The absence of these signals founder dependency.
 
 Founder dependency is priced as risk.
 
-Key elements include: 
--  documented authority matrix 
--  structured meeting cadence 
--  risk register with quarterly review 
--  performance dashboards decoupled from founder oversight 
--  compliance mapping aligned to jurisdictional standards 
+Key elements include:
+
+- documented authority matrix
+
+- structured meeting cadence
+
+- risk register with quarterly review
+
+- performance dashboards decoupled from founder oversight
+
+- compliance mapping aligned to jurisdictional standards 
 
 2.
 
@@ -143,12 +148,17 @@ Standard operating procedures create predictable output per unit of input.
 
 This is what buyers are underwriting.
 
-Technical requirements include: 
--  cross functional workflow mapping 
--  removal of decision bottlenecks 
--  time to throughput analysis 
--  automation of repetitive decision making 
--  error rate tracking and reduction 
+Technical requirements include:
+
+- cross functional workflow mapping
+
+- removal of decision bottlenecks
+
+- time to throughput analysis
+
+- automation of repetitive decision making
+
+- error rate tracking and reduction 
 
 3.
 
@@ -158,12 +168,17 @@ Institutional buyers do not pay for tacit knowledge.
 
 They pay for codified systems.
 
-Codification requires: 
--  technical manuals 
--  process libraries 
--  onboarding modules 
--  version controlled documentation 
--  performance scoring models independent of personality judgment Tacit knowledge is a liability.
+Codification requires:
+
+- technical manuals
+
+- process libraries
+
+- onboarding modules
+
+- version controlled documentation
+
+- performance scoring models independent of personality judgment Tacit knowledge is a liability.
 
 Codified knowledge is an asset. 
 
@@ -175,12 +190,17 @@ Manual workarounds create execution risk.
 
 Buyers want seamless system connectivity.
 
-Integration criteria include: 
--  data interoperability 
--  governance over system access 
--  audit trails 
--  centralized data architecture 
--  real time operational analytics Integration eliminates friction.
+Integration criteria include:
+
+- data interoperability
+
+- governance over system access
+
+- audit trails
+
+- centralized data architecture
+
+- real time operational analytics Integration eliminates friction.
 
 Friction delays transactions.
 
@@ -192,12 +212,17 @@ Financial Traceability Acquirers do not accept financial opacity.
 
 They require data lineage, clean reporting, and integrated forecasting.
 
-Key mechanics include: 
--  reconciliations tied to operational drivers 
--  revenue recognition consistency 
--  forward cash flow mapping 
--  bridge models from management accounts to audited statements 
--  documentation of financial controls Without financial traceability, valuation becomes theoretical.
+Key mechanics include:
+
+- reconciliations tied to operational drivers
+
+- revenue recognition consistency
+
+- forward cash flow mapping
+
+- bridge models from management accounts to audited statements
+
+- documentation of financial controls Without financial traceability, valuation becomes theoretical.
 
 Institutional buyers will not transact based on theory. 
 
@@ -207,12 +232,17 @@ Decision Autonomy An enterprise must function without continuous intervention fr
 
 Decision autonomy is the highest form of operational resilience.
 
-Core indicators include: 
--  outcome driven KPIs 
--  distributed authority models 
--  scenario based decision protocols 
--  pre programmed response procedures 
--  dynamic role portfolios that continue in the absence of any individual When decision autonomy is engineered, the business becomes scalable.
+Core indicators include:
+
+- outcome driven KPIs
+
+- distributed authority models
+
+- scenario based decision protocols
+
+- pre programmed response procedures
+
+- dynamic role portfolios that continue in the absence of any individual When decision autonomy is engineered, the business becomes scalable.
 
 Scale invites premium pricing.
 
@@ -281,7 +311,9 @@ Stewardship builds enterprises that can endure.
 It eliminates fragility.
 
 It aligns operational practice with long horizon thinking. **Proverbs 13:22
-*
+
+* 
+
 * articulates the intergenerational responsibility inherent in capital management.
 
 Stewardship requires systems that survive their creators.
@@ -292,10 +324,13 @@ An enterprise that collapses without the founder fails the stewardship test.
 
 It also fails the institutional underwriting test.
 
-The stewardship filter imposes three obligations: 
--  protect the enterprise from single point vulnerabilities 
--  ensure systems outlive individuals 
--  engineer a business that can be handed over without degradation This filter separates enterprises that are transaction ready from those that are merely performing well.
+The stewardship filter imposes three obligations:
+
+- protect the enterprise from single point vulnerabilities
+
+- ensure systems outlive individuals
+
+- engineer a business that can be handed over without degradation This filter separates enterprises that are transaction ready from those that are merely performing well.
 
 Performance is transient.
 

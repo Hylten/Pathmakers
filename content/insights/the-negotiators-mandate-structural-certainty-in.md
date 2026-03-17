@@ -76,14 +76,21 @@ This is not a cosmetic exercise.
 
 This is strategic warfare against entropy.
 
-Asset hardening confronts: 
--  Revenue concentration 
--  Informal governance 
--  Talent gaps 
--  Diluted product discipline 
--  Manual processes 
--  Fragile balance sheets 
--  Shadow negotiations inside the organization Mid-market firms rarely fail from competitive pressure.
+Asset hardening confronts:
+
+- Revenue concentration
+
+- Informal governance
+
+- Talent gaps
+
+- Diluted product discipline
+
+- Manual processes
+
+- Fragile balance sheets
+
+- Shadow negotiations inside the organization Mid-market firms rarely fail from competitive pressure.
 
 They fail from structural neglect.
 
@@ -145,14 +152,21 @@ Mid-market founders mistake busyness for velocity.
 
 Institutional buyers recognize the difference instantly.
 
-True velocity emerges from: 
--  Codified decision rights 
--  Data integrity 
--  Clean governance lines 
--  Formalized financial cadence 
--  Predictable operating rhythms 
--  Written leadership accountability 
--  Cross functional clarity Velocity is a product of intelligence.
+True velocity emerges from:
+
+- Codified decision rights
+
+- Data integrity
+
+- Clean governance lines
+
+- Formalized financial cadence
+
+- Predictable operating rhythms
+
+- Written leadership accountability
+
+- Cross functional clarity Velocity is a product of intelligence.
 
 Intelligence is a product of structure.
 
@@ -168,12 +182,17 @@ It is not emotional capital.
 
 It is covenant capital.
 
-HNWI and UHNW families gravitate to private credit because it expresses: 
--  Control 
--  Predictability 
--  Collateral intelligence 
--  Real world discipline 
--  Alignment with conservative values The requirements are clear.
+HNWI and UHNW families gravitate to private credit because it expresses:
+
+- Control
+
+- Predictability
+
+- Collateral intelligence
+
+- Real world discipline
+
+- Alignment with conservative values The requirements are clear.
 
 Crypto backed liquidity engineering begins at 
 2 million.
@@ -211,12 +230,17 @@ It communicates discipline.
 
 It communicates alignment.
 
-A firm that exhibits covenant stewardship displays: 
--  Respect for agreements 
--  Integrity of reporting 
--  Predictability of conduct 
--  Financial prudence 
--  Operational truthfulness These attributes shorten diligence by weeks.
+A firm that exhibits covenant stewardship displays:
+
+- Respect for agreements
+
+- Integrity of reporting
+
+- Predictability of conduct
+
+- Financial prudence
+
+- Operational truthfulness These attributes shorten diligence by weeks.
 
 They elevate multiples without theatrics.
 
@@ -296,17 +320,27 @@ Efficiently.
 
 Without theatrics.
 
-Exit readiness requires: 
--  Clean legal architecture 
--  Formal board cadence 
--  Defined leadership protocols 
--  Hardened financial reporting 
--  Predictable cash flow intelligence 
--  Personnel clarity 
--  Operational segmentation 
--  Process documentation 
--  Scalable technology posture 
--  Realistic risk mapping When these elements are neutralized, the buyer stops negotiating with fear.
+Exit readiness requires:
+
+- Clean legal architecture
+
+- Formal board cadence
+
+- Defined leadership protocols
+
+- Hardened financial reporting
+
+- Predictable cash flow intelligence
+
+- Personnel clarity
+
+- Operational segmentation
+
+- Process documentation
+
+- Scalable technology posture
+
+- Realistic risk mapping When these elements are neutralized, the buyer stops negotiating with fear.
 
 The buyer begins negotiating with appetite.
 
@@ -392,12 +426,17 @@ Pathmaker restores that precision.
 
 ## NAEOCC Capital.
 
-The Institutional Twin Track HNWI and UHNW families seek vehicles that combine: 
--  Control 
--  Liquidity 
--  Governance clarity 
--  Asset integrity 
--  Predictable yield NAEOC capital aligns with these expectations through private credit structures that bypass noise and bureaucracy.
+The Institutional Twin Track HNWI and UHNW families seek vehicles that combine:
+
+- Control
+
+- Liquidity
+
+- Governance clarity
+
+- Asset integrity
+
+- Predictable yield NAEOC capital aligns with these expectations through private credit structures that bypass noise and bureaucracy.
 
 It allows high capacity clients to deploy into real world collateral without the volatility of public markets.
 

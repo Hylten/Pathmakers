@@ -46,11 +46,15 @@ Execution uncertainty from buyers is penalized through valuation adjustments or 
 
 3.
 
-Operators facing operational latency Buyers entering a carve-out inherit a structure that does not yet exist: 
--  No standalone cash management 
--  No independent ERP 
--  No procurement autonomy 
--  No isolated working capital cycle The absence of operational sovereignty creates a strategic blind spot, especially when the target depends on transitional service agreements with expiry deadlines.
+Operators facing operational latency Buyers entering a carve-out inherit a structure that does not yet exist:
+
+- No standalone cash management
+
+- No independent ERP
+
+- No procurement autonomy
+
+- No isolated working capital cycle The absence of operational sovereignty creates a strategic blind spot, especially when the target depends on transitional service agreements with expiry deadlines.
 
 THE REGIME SHIFT
 
@@ -74,11 +78,15 @@ The mechanics operate through three pillars.
 
 Working Capital Collateralization The working capital cycle in technology businesses is often more predictable than cash flow forecasts.
 
-Accounts receivable and contractual recurring revenue produce a definable liquidation profile, allowing Asset-Based Lending providers to structure senior facilities around: 
--  Accounts receivable eligibility tests 
--  Contract renewal probability curves 
--  Dilution histories 
--  Concentration ceilings These assets are highly responsive, allowing liquidity release inside the first 
+Accounts receivable and contractual recurring revenue produce a definable liquidation profile, allowing Asset-Based Lending providers to structure senior facilities around:
+
+- Accounts receivable eligibility tests
+
+- Contract renewal probability curves
+
+- Dilution histories
+
+- Concentration ceilings These assets are highly responsive, allowing liquidity release inside the first 
 
 30 to 
 
@@ -90,11 +98,15 @@ The precision of eligibility testing creates a dynamic liquidity profile that ad
 
 Intellectual Property Anchoring In carve-outs, the majority of intangible value sits within the intellectual property stack.
 
-While traditional lenders discount IP aggressively due to enforcement complexity, specialist Asset-Based Lending practitioners use structural seniority models that include: 
--  First-ranking security filings 
--  Cash flow sweep covenants 
--  Restricted payment frameworks 
--  Trigger-based step-up clauses The objective is not aggressive monetization of IP but recognition that IP stability underpins recurring revenue predictability.
+While traditional lenders discount IP aggressively due to enforcement complexity, specialist Asset-Based Lending practitioners use structural seniority models that include:
+
+- First-ranking security filings
+
+- Cash flow sweep covenants
+
+- Restricted payment frameworks
+
+- Trigger-based step-up clauses The objective is not aggressive monetization of IP but recognition that IP stability underpins recurring revenue predictability.
 
 This transforms IP from a valuation narrative into a functional liquidity instrument. 
 
@@ -105,17 +117,25 @@ Asset Hardening Through Operational Separation The critical moment is Day
 
 Once the carve-out stands independently, Asset-Based Lending allows rapid asset hardening.
 
-This can include: 
--  Dedicated treasury accounts 
--  Contract migration from parent entity 
--  Autonomous invoicing systems 
--  Server, IT, and infrastructure unbundling The unique advantage of Asset-Based Lending is its ability to fund the separation process itself.
+This can include:
 
-Liquidity is deployed for: 
--  ERP replacement 
--  Transitional service buyouts 
--  Staff onboarding and HR infrastructure 
--  Vendor re-contracting This transforms Asset-Based Lending from a financing tool into an operational integrator.
+- Dedicated treasury accounts
+
+- Contract migration from parent entity
+
+- Autonomous invoicing systems
+
+- Server, IT, and infrastructure unbundling The unique advantage of Asset-Based Lending is its ability to fund the separation process itself.
+
+Liquidity is deployed for:
+
+- ERP replacement
+
+- Transitional service buyouts
+
+- Staff onboarding and HR infrastructure
+
+- Vendor re-contracting This transforms Asset-Based Lending from a financing tool into an operational integrator.
 
 Asset-Based Lending as a carve-out instrument is not a cost of capital decision.
 
@@ -133,12 +153,17 @@ The objective is to align operator capability, asset profile, and liquidity arch
 
 1.
 
-Technical Diagnostics Roials Capital conducts a structural assessment of: 
--  Receivables velocity 
--  Customer tenure and renewal cadence 
--  Parent-company dependency levels 
--  Contract portability 
--  Asset integrity and assignability This diagnostic produces a liquidity contour map, identifying where Asset-Based Lending can replace seller dependency with operational autonomy. 
+Technical Diagnostics Roials Capital conducts a structural assessment of:
+
+- Receivables velocity
+
+- Customer tenure and renewal cadence
+
+- Parent-company dependency levels
+
+- Contract portability
+
+- Asset integrity and assignability This diagnostic produces a liquidity contour map, identifying where Asset-Based Lending can replace seller dependency with operational autonomy. 
 
 2.
 
@@ -150,11 +175,15 @@ The alignment is based on operational intelligence, not credit packaging.
 
 3.
 
-Strategic Integration Oversight The focus is not financing execution but: 
--  Reducing M&A friction 
--  Calibrating capital stack construction 
--  Ensuring covenant structures promote separation readiness 
--  Accelerating exit readiness through cleaner reporting structures This creates a symmetry between buyer strategy, asset structure, and transitional liquidity.
+Strategic Integration Oversight The focus is not financing execution but:
+
+- Reducing M&A friction
+
+- Calibrating capital stack construction
+
+- Ensuring covenant structures promote separation readiness
+
+- Accelerating exit readiness through cleaner reporting structures This creates a symmetry between buyer strategy, asset structure, and transitional liquidity.
 
 Where energy transactions rely on our strategic partner NAEO for technical recovery expertise, carve-out transactions rely on specialist Asset-Based Lending institutions capable of engineering liquidity inside assets undergoing structural redefinition.
 
@@ -171,7 +200,9 @@ It is capital ordering.
 For operators and allocators, stewardship means deploying resources in a manner that does not burden the enterprise with speculative leverage.
 
 Instead, it emphasizes disciplined resource allocation, asset stabilization, and respect for operational truth. **Proverbs 13:22
-*
+
+* 
+
 * articulates the principle of generational responsibility through prudence and structured governance.
 
 Within carve-outs, stewardship appears in four forms. 
@@ -206,8 +237,7 @@ The decision lens is simplified through three questions.
 
 Can the asset become operationally sovereign within 
 
-12
-0 days 
+120 days 
 
 2.
 

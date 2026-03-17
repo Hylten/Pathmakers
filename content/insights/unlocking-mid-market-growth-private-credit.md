@@ -80,11 +80,15 @@ Four mechanical components define the category.
 
 Structural Seniority Institutional lenders increasingly target hybrid positions that blend seniority protection with operational flexibility.
 
-The evolution has moved from rigid senior secured instruments to multi‑layered structures integrating: 
--  First‑out protections 
--  Cross collateralization 
--  Performance step‑downs 
--  Operational governance triggers This is not financial creativity.
+The evolution has moved from rigid senior secured instruments to multi‑layered structures integrating:
+
+- First‑out protections
+
+- Cross collateralization
+
+- Performance step‑downs
+
+- Operational governance triggers This is not financial creativity.
 
 It is a risk stabilization protocol that aligns liquidity with operational interdependence. 
 
@@ -96,19 +100,25 @@ The question is not nominal leverage.
 
 The question is the velocity of EBIT conversion into unencumbered cash.
 
-In practical terms: 
--  A 4x leverage multiple in a high‑conversion industrial is structurally safer than 2x in a software company with deferred revenue obligations. 
--  LTV curves are non‑linear; discipline requires dynamic recalibration, not static underwriting. 
+In practical terms:
+
+- A 4x leverage multiple in a high‑conversion industrial is structurally safer than 2x in a software company with deferred revenue obligations.
+
+- LTV curves are non‑linear; discipline requires dynamic recalibration, not static underwriting. 
 
 3.
 
 Exit Readiness Financing Private credit is increasingly used to remove the friction that delays acquisition activity.
 
-Technical application includes: 
--  Balance sheet simplification to enhance buyer clarity 
--  Settlement of legacy liabilities to reduce diligence drag 
--  Asset hardening to eliminate perceived volatility 
--  Liquidity injection to accelerate strategic hiring or operational reconfiguration This is engineering, not leverage.
+Technical application includes:
+
+- Balance sheet simplification to enhance buyer clarity
+
+- Settlement of legacy liabilities to reduce diligence drag
+
+- Asset hardening to eliminate perceived volatility
+
+- Liquidity injection to accelerate strategic hiring or operational reconfiguration This is engineering, not leverage.
 
 It transforms a mid‑market company from structurally undescriptive to institutionally consumable. 
 
@@ -118,11 +128,15 @@ M&A Friction Removal The most strategic borrowers are not distressed.
 
 They are underoptimized.
 
-Private credit accelerates their readiness by: 
--  Consolidating cap tables 
--  Retiring high friction shareholder notes 
--  Replacing vendor financing with institutional-grade structures 
--  Creating clean cash flow waterfalls for acquirers This process increases the probability and speed of a transaction without distorting the company’s operational rhythm.
+Private credit accelerates their readiness by:
+
+- Consolidating cap tables
+
+- Retiring high friction shareholder notes
+
+- Replacing vendor financing with institutional-grade structures
+
+- Creating clean cash flow waterfalls for acquirers This process increases the probability and speed of a transaction without distorting the company’s operational rhythm.
 
 When executed correctly, private credit becomes a tool for strategic velocity.
 
@@ -152,11 +166,15 @@ Institutional navigation requires granular pattern recognition.
 
 Identifying structural bottlenecks Every mid‑market company has unseen constraints that would reduce an acquirer’s confidence.
 
-These include: 
--  Undocumented supplier concentration 
--  Fragmented governance 
--  Legacy financing overruns 
--  Insufficient working capital buffers Roials Capital’s role is to illuminate these patterns so that private credit becomes a correction mechanism rather than a compensatory facility. 
+These include:
+
+- Undocumented supplier concentration
+
+- Fragmented governance
+
+- Legacy financing overruns
+
+- Insufficient working capital buffers Roials Capital’s role is to illuminate these patterns so that private credit becomes a correction mechanism rather than a compensatory facility. 
 
 3.
 
@@ -178,11 +196,15 @@ They require deep visibility into the operational mechanics behind the borrower�
 
 Roials Capital provides that visibility.
 
-This includes: 
--  Downside risk architecture 
--  Process resilience metrics 
--  Cash flow stability testing 
--  Asset hardening requirements The methodology is not promotional.
+This includes:
+
+- Downside risk architecture
+
+- Process resilience metrics
+
+- Cash flow stability testing
+
+- Asset hardening requirements The methodology is not promotional.
 
 It is diagnostic. 
 
@@ -203,7 +225,9 @@ Stewardship is governed by three principles:
 Non‑wasteful capital deployment Allocators should only deploy where capital produces structural improvement rather than temporary relief.
 
 This aligns with the principle of **Proverbs 13:22
-*
+
+* 
+
 * .
 
 Capital should create durability, not dependency. 
@@ -230,11 +254,15 @@ DECISION ARCHITECTURE FOR THE ALLOCATOR Private credit in the mid‑market is no
 
 It is defined by strategic entry points into off‑market transactions.
 
-Allocators who understand this dynamic gain access to: 
--  Companies preparing for exit and requiring institutional-grade restructuring 
--  Operators seeking growth capital without surrendering governance control 
--  Strategic acquirers needing liquidity to accelerate cross-border expansion 
--  Non-sponsored companies with strong fundamentals and limited bank access The correct next step is not capital deployment.
+Allocators who understand this dynamic gain access to:
+
+- Companies preparing for exit and requiring institutional-grade restructuring
+
+- Operators seeking growth capital without surrendering governance control
+
+- Strategic acquirers needing liquidity to accelerate cross-border expansion
+
+- Non-sponsored companies with strong fundamentals and limited bank access The correct next step is not capital deployment.
 
 It is clarity.
 

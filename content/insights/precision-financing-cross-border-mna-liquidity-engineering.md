@@ -138,9 +138,12 @@ This ensures alignment with the operator rather than the capital provider.
 
 Stewardship is not austerity.
 
-Stewardship is precision. 
--  **Proverbs 13:22
-*
+Stewardship is precision.
+
+- **Proverbs 13:22
+
+* 
+
 * prioritizes generational capital alignment, which translates into a requirement that acquisitions must reinforce the operator's long term balance sheet, not just short term growth metrics.
 
 Stewardship requires that liquidity be used to expand operational resilience, strengthen asset durability, and increase the scalability of the platform.
@@ -159,9 +162,7 @@ For allocators, the key evaluation metric is not the transaction itself.
 
 It is the operator's structural readiness.
 
-The highest performing mid-market platforms in 20
-
-26 are those that engineer liquidity before they need it, calibrate their balance sheet to institutional norms, and maintain operational freedom during acquisition cycles.
+The highest performing mid-market platforms in 2026 are those that engineer liquidity before they need it, calibrate their balance sheet to institutional norms, and maintain operational freedom during acquisition cycles.
 
 This is the architecture that enables off market targeting, negotiation leverage, and exit readiness.
 

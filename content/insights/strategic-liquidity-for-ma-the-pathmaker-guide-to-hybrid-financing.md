@@ -78,11 +78,15 @@ When combined correctly, hybrid liquidity outperforms traditional debt for buyer
 
 It replaces the rigidity of traditional bank financing with a lender that understands deal dynamics and does not require months of committee cycles.
 
-Private credit works well for: 
--  Time constrained acquisitions. 
--  Distressed or misaligned healthcare assets. 
--  Carve outs with unclear historical reporting. 
--  Buyers who need nontraditional collateral frameworks.
+Private credit works well for:
+
+- Time constrained acquisitions.
+
+- Distressed or misaligned healthcare assets.
+
+- Carve outs with unclear historical reporting.
+
+- Buyers who need nontraditional collateral frameworks.
 
 Pathmaker underwrites private credit with the assumption that the data room will contain gaps.
 
@@ -202,12 +206,17 @@ This is where Pathmaker’s structures outperform.
 
 They need structural mechanics that amplify their capital posture.
 
-HNWI and UHNW clients choose Pathmaker because: 
--  We lend against private credit and asset based frameworks. 
--  We offer large scale crypto Capital Structuring starting at two million dollars. 
--  We structure public share Institutional Liquidity Paths starting at five million dollars. 
--  We engineer hybrid liquidity that institutional lenders are too rigid to assemble. 
--  We operate with silence.
+HNWI and UHNW clients choose Pathmaker because:
+
+- We lend against private credit and asset based frameworks.
+
+- We offer large scale crypto Capital Structuring starting at two million dollars.
+
+- We structure public share Institutional Liquidity Paths starting at five million dollars.
+
+- We engineer hybrid liquidity that institutional lenders are too rigid to assemble.
+
+- We operate with silence.
 
 We reinforce your authority, we do not replace it.
 
@@ -221,12 +230,17 @@ It happens every time diligence uncovers weak points.
 
 The correct approach is to construct a liquidity architecture that bends without collapsing.
 
-This requires: 
--  A primary capital layer based on private credit. 
--  A secondary layer using asset based Capital Structuring to unlock operational assets. 
--  A tertiary layer that draws from public share Asset-Backed Frameworks or crypto Asset-Backed Frameworks. 
--  A timing model that anticipates regulatory and operational delays. 
--  A risk buffer that prevents dilution or covenant failures during integration.
+This requires:
+
+- A primary capital layer based on private credit.
+
+- A secondary layer using asset based Capital Structuring to unlock operational assets.
+
+- A tertiary layer that draws from public share Asset-Backed Frameworks or crypto Asset-Backed Frameworks.
+
+- A timing model that anticipates regulatory and operational delays.
+
+- A risk buffer that prevents dilution or covenant failures during integration.
 
 When these components are engineered into a single stack, the buyer gains something rare.
 

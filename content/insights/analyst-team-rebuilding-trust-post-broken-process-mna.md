@@ -108,13 +108,19 @@ Momentum masqueraded as trust.
 
 When the market normalized, gravity returned.
 
-Suddenly: 
--  Buyer bandwidth vanished 
--  Quality pipelines evaporated 
--  Broken financials resurfaced 
--  Diligence cycles doubled 
--  Trust premiums evaporated 
--  Sellers discovered their valuations were aspirational, not defensible The middle market woke up to a truth analysts had already known: the majority of deals were never structurally ready to close.
+Suddenly:
+
+- Buyer bandwidth vanished
+
+- Quality pipelines evaporated
+
+- Broken financials resurfaced
+
+- Diligence cycles doubled
+
+- Trust premiums evaporated
+
+- Sellers discovered their valuations were aspirational, not defensible The middle market woke up to a truth analysts had already known: the majority of deals were never structurally ready to close.
 
 We are now in the era of post‑broken‑process.
 
@@ -186,7 +192,7 @@ Build exit‑readiness architecture first
 
 Remove friction buried in the operational base
 
-Layer III:.
+### Layer III: .
 
 Pre‑screen narrative inconsistencies 
 
@@ -272,13 +278,19 @@ Off‑market deal origination is not a tactic.
 
 It is an ecosystem.
 
-It requires: 
--  Long‑cycle relationship mapping 
--  Multi‑vector industry intelligence 
--  Behavioral profiling of acquirer motivations 
--  Early‑stage signal tracking 
--  Deal‑flow scoring based on operational depth, not headline metrics 
--  Pattern indexing across Fund-III mandates, strategics, and operator‑backed buyers This is where Pathmaker’s analysts operate with the greatest advantage.
+It requires:
+
+- Long‑cycle relationship mapping
+
+- Multi‑vector industry intelligence
+
+- Behavioral profiling of acquirer motivations
+
+- Early‑stage signal tracking
+
+- Deal‑flow scoring based on operational depth, not headline metrics
+
+- Pattern indexing across Fund-III mandates, strategics, and operator‑backed buyers This is where Pathmaker’s analysts operate with the greatest advantage.
 
 Our system maps off‑market intention before intention becomes action.
 
@@ -296,19 +308,19 @@ It is a process of removing future litigation, future renegotiation, future valu
 
 Exit readiness contains seven structural layers:
 
-Layer I:: Financial narrative integrity
+### Layer I: Financial narrative integrity
 
-Layer II:: Customer and revenue durability
+### Layer II: Customer and revenue durability
 
-Layer III:: Operational redundancy
+### Layer III: Operational redundancy
 
-Layer IV:: Leadership transition clarity
+### Layer IV: Leadership transition clarity
 
-Layer V:: Legal and compliance hygiene
+### Layer V: Legal and compliance hygiene
 
-Layer VI:: Market positioning realism
+### Layer VI: Market positioning realism
 
-Layer VII: :: Diligence pre‑qualification Exit readiness eliminates surprise.
+### Layer VII: Diligence pre‑qualification Exit readiness eliminates surprise.
 
 Eliminate surprise and you eliminate mistrust.
 
@@ -330,12 +342,17 @@ It is foundational.
 
 It is the unseen architecture that allows founders to meet the market without fear and allows buyers to engage without suspicion.
 
-We provide: 
--  Precision over persuasion 
--  Architecture over assumption 
--  Intelligence over exposure 
--  Preparation over performance 
--  Structure over sentiment This is how an M&A ecosystem is rebuilt-one verifiable structure at a time.
+We provide:
+
+- Precision over persuasion
+
+- Architecture over assumption
+
+- Intelligence over exposure
+
+- Preparation over performance
+
+- Structure over sentiment This is how an M&A ecosystem is rebuilt-one verifiable structure at a time.
 
 And occasionally, that structure requires partnering with external liquidity specialists such as those found through [institutional capital execution]([Roials Capital](https://roialscapital.com/)) when a deal demands deeper structuring alignment. 
 

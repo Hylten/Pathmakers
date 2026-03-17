@@ -45,18 +45,24 @@ No abstractions.
 No theatre.
 
 Just executable leverage. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous.
 
 The inheritance in this context is institutional durability-capital structures that survive cycles, jurisdictions, politics, and regulatory drift.
 
 It is continuity engineered through precision.
 
-The European mid‑market faces four simultaneous pressures. 
--  Funding latency. 
--  Collateral ambiguity. 
--  Multi‑jurisdictional valuation drift. 
--  Execution drag in M&A closing cycles.
+The European mid‑market faces four simultaneous pressures.
+
+- Funding latency.
+
+- Collateral ambiguity.
+
+- Multi‑jurisdictional valuation drift.
+
+- Execution drag in M&A closing cycles.
 
 This creates a paradox: deal appetites remain strong, but execution velocity collapses.
 
@@ -218,8 +224,7 @@ A lender does not price "inventory." A lender prices "recoverable inventory unde
 
 A lender does not price "receivables." A lender prices "receivables governed by debtor‑friendly law where enforcement cycles exceed 
 
-40
-0 days." This is why collateral mapping, in Fund-III discipline, becomes the central instrument.
+400 days." This is why collateral mapping, in Fund-III discipline, becomes the central instrument.
 
 Define asset pools.
 
@@ -257,12 +262,17 @@ Transparent.
 
 Clean.
 
-Create schedules that include: 
--  Cross‑jurisdictional inventory reconciliation. 
--  Receivables stratification by governing law. 
--  Asset location mapping with enforcement pathways. 
--  Machine‑level serial traceability for industrial operators. 
--  Realistic liquidation vectors for stressed scenarios.
+Create schedules that include:
+
+- Cross‑jurisdictional inventory reconciliation.
+
+- Receivables stratification by governing law.
+
+- Asset location mapping with enforcement pathways.
+
+- Machine‑level serial traceability for industrial operators.
+
+- Realistic liquidation vectors for stressed scenarios.
 
 This is how to speak the language lenders trust.
 
@@ -390,12 +400,17 @@ One deal.
 
 One optimized capital curve.
 
-Cross‑border transactions fail for predictable reasons: 
--  Misaligned working‑capital assumptions. 
--  Inconsistent accounting interpretations. 
--  Overestimated collateral recoveries. 
--  Underestimated regulatory drift. 
--  Negotiation fatigue from elongated diligence.
+Cross‑border transactions fail for predictable reasons:
+
+- Misaligned working‑capital assumptions.
+
+- Inconsistent accounting interpretations.
+
+- Overestimated collateral recoveries.
+
+- Underestimated regulatory drift.
+
+- Negotiation fatigue from elongated diligence.
 
 Remove these, and execution becomes inevitable.
 
@@ -405,8 +420,7 @@ Post‑acquisition liquidity gaps destroy integration strategies.
 
 Cash is consumed faster during the first 
 
-18
-0 days than in any other period.
+180 days than in any other period.
 
 Inventory rebuild.
 
@@ -519,7 +533,9 @@ Liquidity attracts opportunity.
 Structure attracts trust.
 
 Precision attracts premium. **Proverbs 13:22
-*
+
+* 
+
 * applies again: durability is legacy.
 
 Precision is stewardship.

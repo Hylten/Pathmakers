@@ -126,8 +126,7 @@ It provides capital that understands complexity, not just collateral.
 
 It reinforces strategic transitions, especially in acquisitions and carve outs, where the first 
 
-18
-0 days are structurally dangerous.
+180 days are structurally dangerous.
 
 When designed properly, private credit eliminates fragility before it manifests. 
 

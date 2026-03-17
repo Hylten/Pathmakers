@@ -110,11 +110,15 @@ Pathmaker is not a product.
 
 It is a strategic classifier.
 
-It determines whether the portfolio meets the four gating criteria: 
--  Asset Hardness Ratio. 
--  Liquidity Compression Sensitivity. 
--  Geopolitical Neutrality Index. 
--  Exit Readiness Horizon.
+It determines whether the portfolio meets the four gating criteria:
+
+- Asset Hardness Ratio.
+
+- Liquidity Compression Sensitivity.
+
+- Geopolitical Neutrality Index.
+
+- Exit Readiness Horizon.
 
 HNWI portfolios fail primarily on the fourth.
 
@@ -208,10 +212,13 @@ They allow governments and sovereign vehicles to deploy capital into industrial 
 
 The HNWI portfolio that is architected as an institutional participant becomes eligible for these pipelines.
 
-Pathmaker generates deal flow from three sources: 
--  Institutional sellers who cannot publicly divest. 
--  Distressed industrials seeking strategic rescue without bankruptcy optics. 
--  Sovereign vehicles seeking co‑investment partners for commodity or infrastructure stabilization.
+Pathmaker generates deal flow from three sources:
+
+- Institutional sellers who cannot publicly divest.
+
+- Distressed industrials seeking strategic rescue without bankruptcy optics.
+
+- Sovereign vehicles seeking co‑investment partners for commodity or infrastructure stabilization.
 
 High‑intent mid‑market deals sit at the intersection of speed, discretion, and capability.
 
@@ -244,7 +251,9 @@ It positions the operator as an energy‑relevant stabilizer.
 This is why the architecture matters.
 
 Sovereign recognition is structural, not personal. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children, but the wealth of the sinner is laid up for the just.
 
 Sovereign capital rewards structure.
@@ -267,12 +276,17 @@ Optional.
 
 The goal is to shift into essential status.
 
-Essential portfolios carry these signatures: 
--  Multi‑jurisdictional compliance. 
--  Convertible governance stacks. 
--  Mandate continuity beyond a single generation. 
--  Neutral capital routing. 
--  Counter‑cyclical asset exposure.
+Essential portfolios carry these signatures:
+
+- Multi‑jurisdictional compliance.
+
+- Convertible governance stacks.
+
+- Mandate continuity beyond a single generation.
+
+- Neutral capital routing.
+
+- Counter‑cyclical asset exposure.
 
 Once essential, the sovereign relationship changes.
 
@@ -488,12 +502,17 @@ Sovereign allocators fund narratives.
 
 Not decks.
 
-The narrative required: 
--  You stabilize what matters. 
--  You operate beyond personal appetite. 
--  You hold assets that align with national priorities. 
--  You maintain governance that transcends individual risk tolerance. 
--  You project continuity across cycles and generations.
+The narrative required:
+
+- You stabilize what matters.
+
+- You operate beyond personal appetite.
+
+- You hold assets that align with national priorities.
+
+- You maintain governance that transcends individual risk tolerance.
+
+- You project continuity across cycles and generations.
 
 The narrative is structural.
 
@@ -551,11 +570,15 @@ It is also the gateway.
 
 Seventeenth layer: the Pathmaker qualification test.
 
-The portfolio must answer four questions: 
--  What national interest does it stabilize? 
--  What sovereign risk does it reduce? 
--  What industrial corridor does it reinforce? 
--  What geopolitical neutrality does it maintain?
+The portfolio must answer four questions:
+
+- What national interest does it stabilize?
+
+- What sovereign risk does it reduce?
+
+- What industrial corridor does it reinforce?
+
+- What geopolitical neutrality does it maintain?
 
 If the portfolio cannot answer, it is not sovereign‑ready.
 

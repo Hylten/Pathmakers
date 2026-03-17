@@ -48,8 +48,9 @@ From sloppy architecture.
 
 Family Offices now remove that uncertainty early.
 
-They demand models engineered for the terminal state 
--  not the acquisition moment.
+They demand models engineered for the terminal state
+
+- not the acquisition moment.
 
 Because the exit is the truth-event.
 
@@ -69,8 +70,9 @@ Family Offices do not tolerate that asymmetry anymore.
 
 They have institutional obligations, even if they never speak of them publicly.
 
-Their capital is often flexible, long‑horizon, multi‑generational 
--  but their execution is not.
+Their capital is often flexible, long‑horizon, multi‑generational
+
+- but their execution is not.
 
 A Family Office today sits under five invisible constraints: 
 
@@ -108,8 +110,9 @@ Buyer‑validated multiples.
 
 Scenario‑tested EBITA bridges.
 
-And most importantly 
--  the machinery of exit friction reduction.
+And most importantly
+
+- the machinery of exit friction reduction.
 
 Exit friction has become the new underwriting metric.
 
@@ -121,7 +124,7 @@ The exit is the validation of the model.
 
 And the capital moves toward validation.
 
-Phase II: PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
+### Phase II: PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
 
 They refuse opacity.
 
@@ -155,8 +158,9 @@ No trust, no capital.
 
 Family Offices have learned hard lessons from the last two liquidity cycles.
 
-They now demand models that behave like blueprints 
--  not diaries.
+They now demand models that behave like blueprints
+
+- not diaries.
 
 A blueprint survives the builder.
 
@@ -172,7 +176,7 @@ Precision is not aesthetic.
 
 Precision is survivability.
 
-Phase III: ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
+### Phase III: ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
 
 That is superficial.
 
@@ -238,12 +242,11 @@ Buyers pay more for reduction in unknowns.
 
 Exit‑ready models remove unknowns.
 
-And they do so in a way that immediately lowers the Family Office’s post-close administrative load 
--  the hidden cost that most operators never realize exists.
+And they do so in a way that immediately lowers the Family Office’s post-close administrative load
 
-THE STRATEGIC CONVERGENCE Why This Trend Accelerated in 2023-20
+- the hidden cost that most operators never realize exists.
 
-26 Three converging forces hardened this requirement into standard practice: 
+THE STRATEGIC CONVERGENCE Why This Trend Accelerated in 2023-2026 Three converging forces hardened this requirement into standard practice: 
 
 1.
 
@@ -259,13 +262,9 @@ They demand sellers present in a compatible language.
 
 Intermediaries became bottlenecks.
 
-Traditional brokers and M&A advisors still package deals for 20
+Traditional brokers and M&A advisors still package deals for 2017 buyers.
 
-17 buyers.
-
-But 20
-
-26 buyers expect data‑driven precision.
+But 2026 buyers expect data‑driven precision.
 
 Family Offices circumvent the intermediary loss by requiring exit-ready logic on day one. 
 
@@ -279,8 +278,9 @@ Models with missing links break pipelines and reduce deal velocity.
 
 Family Offices refuse to buy friction.
 
-At Pathmaker, we see this pattern across every high‑intent inbound 
--  founders who know buyers expect higher precision, and founders who don’t.
+At Pathmaker, we see this pattern across every high‑intent inbound
+
+- founders who know buyers expect higher precision, and founders who don’t.
 
 Only the first group receives capital interest.
 
@@ -304,8 +304,9 @@ They Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-They trigger what we internally call “silent dealflow gravity” 
--  the natural pull toward institutions seeking frictionless assets.
+They trigger what we internally call “silent dealflow gravity”
+
+- the natural pull toward institutions seeking frictionless assets.
 
 For 25% probability linkage: A minority of these founders eventually progress into institutional capital execution through Roials Capital, though the strategic path begins long before that point.
 
@@ -353,8 +354,9 @@ Exits create legacy.
 
 Legacy is the business of Family Offices.
 
-THE PATHMAKER POSITION Our Mandate: Remove Friction Pathmaker operates at the signal layer 
--  the first point of Access is restricted to approved mandates.
+THE PATHMAKER POSITION Our Mandate: Remove Friction Pathmaker operates at the signal layer
+
+- the first point of Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

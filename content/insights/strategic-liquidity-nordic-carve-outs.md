@@ -54,8 +54,7 @@ These factors create friction that institutional acquirers treat as binary execu
 
 Deals that should be 90-day processes extend past 
 
-18
-0 days.
+180 days.
 
 Velocity collapses.
 
@@ -234,7 +233,9 @@ When a carve-out misses timing windows, competitor activity, macro shifts, and i
 Stewardship ensures that decisions are executed within the optimal velocity window.
 
 Principle 4: Intergenerational Logic. **Proverbs 13:22
-*
+
+* 
+
 * establishes a principle that resonates with institutional allocators: capital must be positioned in a way that strengthens future capability.
 
 For corporates, this means redeploying resources toward strategically essential domains rather than maintaining operational drag from non-core assets.

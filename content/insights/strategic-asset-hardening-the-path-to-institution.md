@@ -52,10 +52,13 @@ A General Partner does not assess a company as an operator.
 
 A GP assesses it as a future asset under management.
 
-Every element is measured against friction, clarity, covenant structure, and execution capacity. 
--  Predictability 
--  Transferability 
--  Scalability If these pillars are weak, valuation collapses.
+Every element is measured against friction, clarity, covenant structure, and execution capacity.
+
+- Predictability
+
+- Transferability
+
+- Scalability If these pillars are weak, valuation collapses.
 
 If these pillars are strong, valuation accelerates.
 
@@ -77,12 +80,17 @@ It is not presentation.
 
 It is foundational.
 
-Asset hardening requires five domains. 
--  Financial architecture 
--  Operational rhythm 
--  Contractual infrastructure 
--  Leadership alignment 
--  Reporting intelligence When these domains are weak, institutional buyers read risk.
+Asset hardening requires five domains.
+
+- Financial architecture
+
+- Operational rhythm
+
+- Contractual infrastructure
+
+- Leadership alignment
+
+- Reporting intelligence When these domains are weak, institutional buyers read risk.
 
 When they are strong, they read covenant stewardship.
 
@@ -98,14 +106,21 @@ They rarely disclose it.
 
 Pathmaker operates directly inside that logic.
 
-There are recurring points of M and A friction that block valuation lift. 
--  Incomplete or informal financial controls 
--  Tribal operations dependent on founder memory 
--  Improper customer concentration risk 
--  No contract standardization 
--  No reporting cadence 
--  Leadership ambiguity 
--  Undefined scaling vectors These friction points are universal.
+There are recurring points of M and A friction that block valuation lift.
+
+- Incomplete or informal financial controls
+
+- Tribal operations dependent on founder memory
+
+- Improper customer concentration risk
+
+- No contract standardization
+
+- No reporting cadence
+
+- Leadership ambiguity
+
+- Undefined scaling vectors These friction points are universal.
 
 Geography does not matter.
 
@@ -129,12 +144,17 @@ GPs do not have patience for stories.
 
 They require precision.
 
-The financial domain requires five structural alignments. 
--  Verified cash flow quality 
--  Clean separation between operating and non-operating assets 
--  Standardized chart of accounts 
--  Documented financial controls 
--  Rolling forecasts grounded in data This is where most mid-market companies fail.
+The financial domain requires five structural alignments.
+
+- Verified cash flow quality
+
+- Clean separation between operating and non-operating assets
+
+- Standardized chart of accounts
+
+- Documented financial controls
+
+- Rolling forecasts grounded in data This is where most mid-market companies fail.
 
 Their numbers speak in dialect.
 
@@ -160,11 +180,15 @@ An operational rhythm is the repeatable cadence that shows an acquirer that the 
 
 It is executing.
 
-The rhythm contains: 
--  Daily performance indicators 
--  Weekly leadership calibration 
--  Monthly financial reconciliation 
--  Quarterly strategic assessment When this cadence is absent, the business becomes opaque.
+The rhythm contains:
+
+- Daily performance indicators
+
+- Weekly leadership calibration
+
+- Monthly financial reconciliation
+
+- Quarterly strategic assessment When this cadence is absent, the business becomes opaque.
 
 Institutions punish opacity.
 
@@ -178,11 +202,15 @@ A mid-market company often holds a fragmented suite of customer agreements, supp
 
 Institutions read this as future litigation or future renegotiation risk.
 
-Contractual infrastructure requires: 
--  Standardized customer contracts 
--  Supplier agreements with defined renewal logic 
--  IP clarity 
--  Employment agreements tied to succession A clean contract base is a valuation weapon.
+Contractual infrastructure requires:
+
+- Standardized customer contracts
+
+- Supplier agreements with defined renewal logic
+
+- IP clarity
+
+- Employment agreements tied to succession A clean contract base is a valuation weapon.
 
 It removes unknown liabilities.
 
@@ -198,11 +226,15 @@ Institutions view it as risk mitigation.
 
 Leadership alignment is the hardening of decision roles, authority lanes, and succession logic.
 
-Institutions ask: 
--  Who commands the P and L 
--  Who commands operations 
--  Who commands client relationships 
--  Who commands technical execution If these answers depend on one individual, the asset is fragile.
+Institutions ask:
+
+- Who commands the P and L
+
+- Who commands operations
+
+- Who commands client relationships
+
+- Who commands technical execution If these answers depend on one individual, the asset is fragile.
 
 Leadership alignment decentralizes command.
 
@@ -212,10 +244,13 @@ Transferability is valuation.
 
 ## Reporting Intelligence Reporting intelligence is the final gate.
 
-Institutions expect clarity in three layers. 
--  Performance reporting 
--  Financial reporting 
--  Strategic reporting The reporting must be consistent.
+Institutions expect clarity in three layers.
+
+- Performance reporting
+
+- Financial reporting
+
+- Strategic reporting The reporting must be consistent.
 
 It must be timely.
 
@@ -241,12 +276,17 @@ It is preserved, not exploited.
 
 Institutional buyers seek companies that signal discipline in this area.
 
-Covenant stewardship is revealed through: 
--  Conservative financial discipline 
--  Transparent governance 
--  Respect for capital 
--  Respect for employees 
--  Respect for customers This is not ideology.
+Covenant stewardship is revealed through:
+
+- Conservative financial discipline
+
+- Transparent governance
+
+- Respect for capital
+
+- Respect for employees
+
+- Respect for customers This is not ideology.
 
 It is operational advantage.
 
@@ -268,11 +308,15 @@ Institutions do not overpay for uncertainty.
 
 They overpay for prepared assets.
 
-Execution velocity is the compression of time between: 
--  diagnosis 
--  stabilization 
--  structural alignment 
--  presentation In the Pathmaker methodology, velocity is engineered through tactical intelligence sprints that remove friction sequentially, not simultaneously.
+Execution velocity is the compression of time between:
+
+- diagnosis
+
+- stabilization
+
+- structural alignment
+
+- presentation In the Pathmaker methodology, velocity is engineered through tactical intelligence sprints that remove friction sequentially, not simultaneously.
 
 The sequencing is part of the discipline. 
 
@@ -298,10 +342,13 @@ Asset hardening moves items from uncertainty to confidence.
 
 Each transfer increases valuation. 
 
-## Institutional Valuation Dynamics Institutional valuation is the sum of three factors. 
--  Structural clarity 
--  Predictable cash flow 
--  Transferable command Once these three align, valuation becomes mechanical rather than subjective.
+## Institutional Valuation Dynamics Institutional valuation is the sum of three factors.
+
+- Structural clarity
+
+- Predictable cash flow
+
+- Transferable command Once these three align, valuation becomes mechanical rather than subjective.
 
 Institutions are not looking for perfect companies.
 

@@ -41,18 +41,22 @@ The kind that de-risks capital allocation, accelerates Fund‑III deployment cyc
 The Nordics reward operators who engineer structural trust.
 
 The market punishes those who rely on narrative alone. **Proverbs 13:22
-*
+
+* 
+
 * .
 
 The Analyst Team delivers this doctrine as a practical, field‑tested architecture.
 
-We map the Nordic mid‑market across five vectors: 
--  Capital discipline .
+We map the Nordic mid‑market across five vectors:
+
+- Capital discipline .
 
 Operational sovereignty .
 
-Data provability , Asset hardening 
--  Continuity integrity Each vector exposes where value leaks and where strategic arbitrage sits hidden underneath ordinary reporting lines.
+Data provability , Asset hardening
+
+- Continuity integrity Each vector exposes where value leaks and where strategic arbitrage sits hidden underneath ordinary reporting lines.
 
 Nordic resilience is not about stability.
 
@@ -332,7 +336,9 @@ For survival.
 For dominance.
 
 For continuity. **Proverbs 13:22
-*
+
+* 
+
 * .
 
 To deploy this framework and build a hardened, exit-ready Nordic enterprise, book a tactical consultation.

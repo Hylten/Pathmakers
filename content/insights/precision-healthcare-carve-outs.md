@@ -53,15 +53,19 @@ They cannot afford bloated PMOs or theoretical roadmaps.
 
 They need operators who have lived through carve-outs and know exactly what matters in the first 
 
-12
-0 days. 
+120 days. 
 
-## The Precision Carve-out Framework The framework below is purpose-built for healthcare carve-outs where: 
--  Time is compressed 
--  Information is incomplete 
--  Compliance cannot slip 
--  Clinical operations must stay stable 
--  Synergy capture depends on operational readiness # ## 
+## The Precision Carve-out Framework The framework below is purpose-built for healthcare carve-outs where:
+
+- Time is compressed
+
+- Information is incomplete
+
+- Compliance cannot slip
+
+- Clinical operations must stay stable
+
+- Synergy capture depends on operational readiness # ## 
 
 1.
 
@@ -71,12 +75,17 @@ Clinical continuity is the true Day One risk.
 
 If clinicians cannot see patients, nothing else matters.
 
-This means focusing on: 
--  Maintaining staffing levels 
--  Preserving clinical workflows 
--  Confirming licensing, credentialing, and delegation of authority 
--  Ensuring EHR access and data migration paths 
--  Securing supply chains for patient care You cannot fix revenue cycle if clinicians cannot chart.
+This means focusing on:
+
+- Maintaining staffing levels
+
+- Preserving clinical workflows
+
+- Confirming licensing, credentialing, and delegation of authority
+
+- Ensuring EHR access and data migration paths
+
+- Securing supply chains for patient care You cannot fix revenue cycle if clinicians cannot chart.
 
 You cannot drive EBITDA if patient flow breaks.
 
@@ -88,12 +97,17 @@ Build a Transitional Operating System A carve-out should not attempt to stand up
 
 It should build a transitional operating system that preserves revenue flow and regulatory stability.
 
-This system includes: 
--  Transitional governance and reporting 
--  A temporary HR and payroll model 
--  A defined billing and collections path 
--  Contracted back-office services with clear exit plans 
--  Minimal viable tech stack to maintain operations Investors who chase a perfect future-state during separation burn time and capital.
+This system includes:
+
+- Transitional governance and reporting
+
+- A temporary HR and payroll model
+
+- A defined billing and collections path
+
+- Contracted back-office services with clear exit plans
+
+- Minimal viable tech stack to maintain operations Investors who chase a perfect future-state during separation burn time and capital.
 
 The goal is not perfection.
 
@@ -109,12 +123,17 @@ IT teams underestimate effort.
 
 Clinicians overestimate system stability.
 
-A precision approach identifies: 
--  Which systems truly matter 
--  Which data sets are legally required 
--  What must be migrated before Day One 
--  What can wait 
--  What can be retired altogether The biggest mistake buyers make is overcommitting to tech scope in the first 
+A precision approach identifies:
+
+- Which systems truly matter
+
+- Which data sets are legally required
+
+- What must be migrated before Day One
+
+- What can wait
+
+- What can be retired altogether The biggest mistake buyers make is overcommitting to tech scope in the first 
 
 60 days.
 
@@ -136,12 +155,17 @@ Incomplete mapping.
 
 Dusty policies carried over from the parent organization.
 
-Precision revenue cycle in a carve-out requires: 
--  Clean provider enrollment and payer setup 
--  Rebuilt charge capture workflows 
--  Accurate fee schedules 
--  Testing, not assumptions 
--  A clean opening AR baseline The goal is simple.
+Precision revenue cycle in a carve-out requires:
+
+- Clean provider enrollment and payer setup
+
+- Rebuilt charge capture workflows
+
+- Accurate fee schedules
+
+- Testing, not assumptions
+
+- A clean opening AR baseline The goal is simple.
 
 Prevent leakage.
 
@@ -157,13 +181,19 @@ Pre-close Governance Alignment Carve-outs magnify misalignment more than almost 
 
 Parents, buyers, operators, lenders, and clinicians all have different priorities.
 
-A precision approach forces alignment on: 
--  Closing requirements 
--  Day One functionality 
--  TSA boundaries 
--  Compliance responsibilities 
--  Capital deployment 
--  Integration sequencing Without this alignment, execution slows, contractors multiply, and the asset drifts for months.
+A precision approach forces alignment on:
+
+- Closing requirements
+
+- Day One functionality
+
+- TSA boundaries
+
+- Compliance responsibilities
+
+- Capital deployment
+
+- Integration sequencing Without this alignment, execution slows, contractors multiply, and the asset drifts for months.
 
 Alignment is not a workshop.
 
@@ -175,12 +205,17 @@ Tight Control of Talent and Knowledge Transfer Healthcare assets are often held 
 
 When these people leave, institutional memory vanishes.
 
-A precision carve-out approach includes: 
--  Early identification of critical talent 
--  Stay bonuses where appropriate 
--  Structured knowledge transfer sessions 
--  Backup owners for every mission critical workflow 
--  Clear role definitions for the new organization Do not assume the parent will help.
+A precision carve-out approach includes:
+
+- Early identification of critical talent
+
+- Stay bonuses where appropriate
+
+- Structured knowledge transfer sessions
+
+- Backup owners for every mission critical workflow
+
+- Clear role definitions for the new organization Do not assume the parent will help.
 
 Do not assume tribal knowledge will magically survive.
 
@@ -192,12 +227,17 @@ Compliance by Design Healthcare carve-outs carry regulatory exposure that most m
 
 Compliance can never be an afterthought.
 
-Precision compliance means: 
--  Fresh policy sets, not inherited ones 
--  Internal audit readiness on Day One 
--  Verifying credentialing, licensing, and privileging files 
--  HIPAA and cybersecurity safeguards in place before separation 
--  Contract compliance reviews across all clinical services Regulatory fines erase returns.
+Precision compliance means:
+
+- Fresh policy sets, not inherited ones
+
+- Internal audit readiness on Day One
+
+- Verifying credentialing, licensing, and privileging files
+
+- HIPAA and cybersecurity safeguards in place before separation
+
+- Contract compliance reviews across all clinical services Regulatory fines erase returns.
 
 Compliance by design prevents this. # ## 
 
@@ -205,21 +245,25 @@ Compliance by design prevents this. # ##
 
 Operational Stand-up in 
 
-12
-0 Days A precision carve-out targets operational readiness inside a 
+120 Days A precision carve-out targets operational readiness inside a 
 
-12
-0 day window.
+120 day window.
 
 This timeline forces prioritization and avoids multi-year drift.
 
-The stand-up roadmap includes: 
--  Clinical stability 
--  Transitional operating system 
--  Clean revenue cycle 
--  Minimal viable tech stack 
--  Organizational structure 
--  TSA exit plans Everything else is post-Day One optimization.
+The stand-up roadmap includes:
+
+- Clinical stability
+
+- Transitional operating system
+
+- Clean revenue cycle
+
+- Minimal viable tech stack
+
+- Organizational structure
+
+- TSA exit plans Everything else is post-Day One optimization.
 
 Precision is about controlling Day One risk and preparing for scale, not building the perfect machine in advance. 
 
@@ -337,14 +381,21 @@ This consistency compounds over multiple deals.
 
 Stand up healthcare carve-outs quickly, cleanly, and without unnecessary complexity.
 
-We focus on: 
--  Clinical continuity 
--  Operational stand-up 
--  Tech separation 
--  Revenue cycle accuracy 
--  Regulatory integrity 
--  Knowledge transfer 
--  Leadership hardening No fluff.
+We focus on:
+
+- Clinical continuity
+
+- Operational stand-up
+
+- Tech separation
+
+- Revenue cycle accuracy
+
+- Regulatory integrity
+
+- Knowledge transfer
+
+- Leadership hardening No fluff.
 
 No heroics.
 

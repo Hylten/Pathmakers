@@ -158,12 +158,17 @@ INTERNAL BYPASS (
 
 By pushing twenty to fifty buyers into the top of the funnel, the advisor introduces the single greatest source of execution risk: heterogeneity of intent.
 
-Five buyer types collide. 
--  The strategic consolidator 
--  The financial sponsor scanning for platform fit 
--  The opportunistic buyer 
--  The legacy‑driven family office 
--  The “tourist”-the buyer who signs NDAs, collects data, but never closes Only the first two are real.
+Five buyer types collide.
+
+- The strategic consolidator
+
+- The financial sponsor scanning for platform fit
+
+- The opportunistic buyer
+
+- The legacy‑driven family office
+
+- The “tourist”-the buyer who signs NDAs, collects data, but never closes Only the first two are real.
 
 Only the first two ever were.
 

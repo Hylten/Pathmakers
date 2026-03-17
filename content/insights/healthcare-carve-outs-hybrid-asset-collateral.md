@@ -229,7 +229,9 @@ Preservation of mission critical functions.
 Financing structures must not disrupt clinical operations or data integrity.
 
 This reflects the principle in **Proverbs 13:22
-*
+
+* 
+
 * where generational responsibility is anchored in continuity. 
 
 2.

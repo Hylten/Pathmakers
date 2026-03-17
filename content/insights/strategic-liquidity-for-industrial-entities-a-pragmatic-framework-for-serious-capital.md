@@ -148,8 +148,7 @@ Equipment or specialized infrastructure can support asset based [Capital Structu
 
 The result is stability during the only period that matters, the first 
 
-18
-0 days post separation. 
+180 days post separation. 
 
 ## The Emergence of Non Traditional Liquidity: Crypto and Public Share Monetization Architecture High net worth operators increasingly hold diversified assets.
 
@@ -161,8 +160,7 @@ Pathmaker structures Monetization Architecture facilities around these assets wi
 
 ## Crypto Asset-Backed Frameworks Minimum threshold: 2,000,
 
-00
-0 USD.
+000 USD.
 
 For principals who understand volatility and custody requirements, crypto backed Monetization Architecture provides tactical liquidity without liquidating strategically held positions.
 
@@ -174,8 +172,7 @@ Pathmaker resolves this through tiered custody and conservative liquidity facili
 
 ## Public Share Institutional Liquidity Paths Minimum threshold: 5,000,
 
-00
-0 USD.
+000 USD.
 
 Public equities held by HNWI or UHNW investors can serve as powerful collateral.
 

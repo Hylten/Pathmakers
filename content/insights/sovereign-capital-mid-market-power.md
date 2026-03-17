@@ -32,18 +32,19 @@ Traditional private credit managers, while more flexible, often require uniformi
 
 The result is a fragmentation of capital pathways.
 
-Deals that would have cleared comfortably in 20
-
-16 now stall due to procedural friction rather than economic fundamentals.
+Deals that would have cleared comfortably in 2016 now stall due to procedural friction rather than economic fundamentals.
 
 Sovereign allocators, equipped with mandate breadth, structural patience, and multi‑cycle orientation, are filling this gap with a distinct form of capital.
 
 Their focus is stability, geopolitical alignment, and long‑arc productive deployment.
 
-This structural realignment has created three outcomes. 
--  The rise of off‑market institutional mandates where sovereign wealth funds prefer controlled origination environments rather than broad auctions. 
--  A demand for exit readiness engineering rather than simple financial packaging. 
--  An increased premium on operational transparency and governance maturity. 
+This structural realignment has created three outcomes.
+
+- The rise of off‑market institutional mandates where sovereign wealth funds prefer controlled origination environments rather than broad auctions.
+
+- A demand for exit readiness engineering rather than simple financial packaging.
+
+- An increased premium on operational transparency and governance maturity. 
 
  
 
@@ -71,10 +72,13 @@ Sovereign institutions measure risk through geopolitical positioning, strategic 
 
 Cross‑Cycle Underwriting Sovereign capital evaluates companies through durability functions.
 
-These include: 
--  Cash flow resilience during commodity cycles. 
--  Exposure analysis to jurisdictional regulatory volatility. 
--  Dependency mapping across supply chains.
+These include:
+
+- Cash flow resilience during commodity cycles.
+
+- Exposure analysis to jurisdictional regulatory volatility.
+
+- Dependency mapping across supply chains.
 
 The objective is structural robustness rather than acceleration. 
 
@@ -122,12 +126,17 @@ Strategic Alignment Sovereign allocators do not engage without mandate congruenc
 
 Roials Capital evaluates whether the enterprise fits a national strategic thesis.
 
-This may include: 
--  Food security 
--  Industrial resilience 
--  Technology independence 
--  Energy transition adjacencies 
--  Infrastructure decentralization Alignment eliminates wasted cycles for both sides. 
+This may include:
+
+- Food security
+
+- Industrial resilience
+
+- Technology independence
+
+- Energy transition adjacencies
+
+- Infrastructure decentralization Alignment eliminates wasted cycles for both sides. 
 
 3.
 
@@ -159,7 +168,9 @@ Stewardship begins with precision.
 
 Structures must reflect **Proverbs 21:
 5
-*
+
+* 
+
 * which underscores that diligence creates advantage. 
 
 2.
@@ -175,7 +186,9 @@ Monetization Architecture Discipline Mid‑market companies often mistake liquid
 True Strategic Collateralization involves designing balance sheets that remain functional through volatility rather than surplus.
 
 This principle is consistent with **Ecclesiastes 7:12
-*
+
+* 
+
 * which equates wisdom and defense, framing capital as a protective mechanism rather than a speculative instrument. 
 
 4.
@@ -186,11 +199,15 @@ This includes reporting cadence, strategic planning horizons, and documentation 
 
 SOVEREIGN CAPITAL AS A DECISION FRAMEWORK Executives and owners navigating this environment must evaluate their enterprises through institutional lenses rather than entrepreneurial ones.
 
-The questions to resolve are structural. 
--  Is the business operating with institutional clarity or entrepreneurial liquidity patterns. 
--  Does the company meet the governance threshold expected by sovereign allocators. 
--  Are compliance, reporting, ESG, and risk structures formatted for multi‑jurisdictional scrutiny. 
--  Can the enterprise withstand the technical rigor of a full-spectrum due diligence sweep.
+The questions to resolve are structural.
+
+- Is the business operating with institutional clarity or entrepreneurial liquidity patterns.
+
+- Does the company meet the governance threshold expected by sovereign allocators.
+
+- Are compliance, reporting, ESG, and risk structures formatted for multi‑jurisdictional scrutiny.
+
+- Can the enterprise withstand the technical rigor of a full-spectrum due diligence sweep.
 
 The presence of sovereign capital in mid‑market M&A is not a trend.
 

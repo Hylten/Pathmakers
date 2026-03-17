@@ -77,23 +77,28 @@ It reduces the cost of capital relative to uncertainty.
 It removes dependency on corporate willingness to cooperate.
 
 Most important: it decouples deal timing from the parent’s internal politics. **Proverbs 13:22
-*
+
+* 
+
 * : The wealth of the sinner is laid up for the just.
 
 In the mid‑market, the just are the prepared.
 
 Asset-Based Lending makes them prepared.
 
-THE CARVE‑OUT FRICTION TRIAD Three frictions consistently cripple mid‑market carve‑outs: 
--  Information asymmetry.
+THE CARVE‑OUT FRICTION TRIAD Three frictions consistently cripple mid‑market carve‑outs:
 
-The parent discloses selectively. 
--  Transition undercapitalization.
+- Information asymmetry.
+
+The parent discloses selectively.
+
+- Transition undercapitalization.
 
 Working capital mismatches on Day 
 
-1. 
--  Operational drift.
+1.
+
+- Operational drift.
 
 Systems, people, vendors in temporary limbo.
 
@@ -177,12 +182,17 @@ LPs expect stability.
 
 Asset-Based Lending provides the buffer needed to convert volatile opportunities into stable executions.
 
-Five Fund‑III pressures converge: 
--  Larger check sizes. 
--  Higher governance scrutiny. 
--  Demand for repeatable systems. 
--  Accelerated deployment timelines. 
--  Lower appetite for custodial risk.
+Five Fund‑III pressures converge:
+
+- Larger check sizes.
+
+- Higher governance scrutiny.
+
+- Demand for repeatable systems.
+
+- Accelerated deployment timelines.
+
+- Lower appetite for custodial risk.
 
 Asset-Based Lending reduces custodial risk.
 
@@ -206,11 +216,15 @@ Revenue cycles swing with commodity volatility.
 
 But O&G also carries high‑quality collateral-equipment, receivables from strong counterparties, inventory with defined secondary markets.
 
-This makes Asset-Based Lending disproportionately effective: 
--  High‑value collateral networks. 
--  Predictable collection patterns with majors. 
--  Strong vendor ecosystems. 
--  Equipment with durable remarketing value.
+This makes Asset-Based Lending disproportionately effective:
+
+- High‑value collateral networks.
+
+- Predictable collection patterns with majors.
+
+- Strong vendor ecosystems.
+
+- Equipment with durable remarketing value.
 
 For carve‑outs in this sector, Asset-Based Lending becomes more than liquidity.
 
@@ -232,11 +246,15 @@ OFF‑MARKET ORIGINATION ADVANTAGE Mid‑market off‑market deal flow is driven
 
 Sellers choose buyers who solve their problems quietly.
 
-Asset-Based Lending lets buyers present: 
--  Faster closing timelines. 
--  Lower demands on corporate cooperation. 
--  Lower execution risk. 
--  Cleaner separation structure.
+Asset-Based Lending lets buyers present:
+
+- Faster closing timelines.
+
+- Lower demands on corporate cooperation.
+
+- Lower execution risk.
+
+- Cleaner separation structure.
 
 This creates a sourcing delta: the buyer who uses Asset-Based Lending wins deals not visible to the buyer who does not.
 
@@ -311,12 +329,17 @@ Integration is momentum.
 Asset-Based Lending creates momentum.
 
 EXIT READINESS BEGINS ON DAY 
-1 The strongest exit multiples come from businesses that demonstrate: 
--  Independent financial systems. 
--  Reliable working capital. 
--  Stable trade cycles. 
--  Documented operational autonomy. 
--  Clean separation history.
+1 The strongest exit multiples come from businesses that demonstrate:
+
+- Independent financial systems.
+
+- Reliable working capital.
+
+- Stable trade cycles.
+
+- Documented operational autonomy.
+
+- Clean separation history.
 
 Asset-Based Lending ensures every component is captured, monitored, and reported.
 

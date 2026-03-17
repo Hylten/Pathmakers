@@ -134,11 +134,15 @@ We do not avoid it.
 
 We model it.
 
-Precision liquidity in this context means structuring Capital Structuring that recognizes: 
--  Covenant strength 
--  Maturity timelines 
--  Underlying asset stability 
--  Recovery waterfall mechanics For investors participating in mid-market carve-outs, this type of liquidity is critical.
+Precision liquidity in this context means structuring Capital Structuring that recognizes:
+
+- Covenant strength
+
+- Maturity timelines
+
+- Underlying asset stability
+
+- Recovery waterfall mechanics For investors participating in mid-market carve-outs, this type of liquidity is critical.
 
 It frees capital locked in strong but inactive private credit positions and redeploys it into the active transaction. 
 
@@ -146,13 +150,19 @@ It frees capital locked in strong but inactive private credit positions and rede
 
 When executed correctly, it is the cleanest form of transaction liquidity.
 
-In a carve-out, Asset-Based Lending supports: 
--  Working capital 
--  Inventory synchronization 
--  Vendor bridge coverage 
--  Receivable ramp 
--  Operational separation costs 
--  Early system integration gaps Asset-Based Lending is agnostic to story.
+In a carve-out, Asset-Based Lending supports:
+
+- Working capital
+
+- Inventory synchronization
+
+- Vendor bridge coverage
+
+- Receivable ramp
+
+- Operational separation costs
+
+- Early system integration gaps Asset-Based Lending is agnostic to story.
 
 It is anchored to assets.
 
@@ -168,11 +178,15 @@ Our minimum threshold is five million dollars.
 
 This ensures the collateral base is large enough to support sophisticated liquidity strategies while maintaining structural integrity.
 
-HNWI and UHNW individuals leverage public share Institutional Liquidity Paths when they need: 
--  Immediate liquidity without liquidating positions 
--  Capital for acquisitions 
--  Leverage for carve-out participation 
--  Bridge liquidity during underwriting cycles The value lies in not disturbing the portfolio while still activating its economic strength. 
+HNWI and UHNW individuals leverage public share Institutional Liquidity Paths when they need:
+
+- Immediate liquidity without liquidating positions
+
+- Capital for acquisitions
+
+- Leverage for carve-out participation
+
+- Bridge liquidity during underwriting cycles The value lies in not disturbing the portfolio while still activating its economic strength. 
 
 ## Crypto Asset-Backed Frameworks as a Collateral Source for Serious Investors Crypto Capital Structuring is often misunderstood.
 
@@ -196,12 +210,17 @@ The solution is not brute-force financing.
 
 It is engineered capital aligned to the mechanics of the asset and the timing of the transaction.
 
-Precision liquidity matters because: 
--  Carve-outs require immediate stabilization, not theoretical capital. 
--  Collateral is often trapped in underutilized asset classes. 
--  HNWI and UHNW investors need silent, reliable leverage. 
--  Institutional capital prefers structured mechanics behind the scenes. 
--  Private credit and Asset-Based Lending are often the only forms of liquidity that can be activated fast enough and reliably enough.
+Precision liquidity matters because:
+
+- Carve-outs require immediate stabilization, not theoretical capital.
+
+- Collateral is often trapped in underutilized asset classes.
+
+- HNWI and UHNW investors need silent, reliable leverage.
+
+- Institutional capital prefers structured mechanics behind the scenes.
+
+- Private credit and Asset-Based Lending are often the only forms of liquidity that can be activated fast enough and reliably enough.
 
 Pathmaker operates in these mechanics.
 
@@ -219,11 +238,15 @@ We provide the structural backbone, the collateral mechanics, and the liquidity 
 
 This posture is what we refer to as maintaining F-Hierarchical Dynamics.
 
-It means: 
--  We reinforce the transaction from the inside. 
--  We eliminate liquidity uncertainty. 
--  We stabilize the collateral environment. 
--  We support the principals without advertising ourselves.
+It means:
+
+- We reinforce the transaction from the inside.
+
+- We eliminate liquidity uncertainty.
+
+- We stabilize the collateral environment.
+
+- We support the principals without advertising ourselves.
 
 principal authority is not marketing language.
 
@@ -235,13 +258,19 @@ In the mid-market, authority shows through execution, not visibility.
 
 They need clarity, discretion, and precision infrastructure.
 
-Pathmaker provides: 
--  Capital Structuring against private credit positions 
--  Robust asset based Institutional Liquidity Paths structures 
--  Public share Asset-Backed Frameworks with thresholds starting at five million 
--  Crypto Institutional Liquidity Paths starting at two million 
--  Strategic Capital Structuring for carve-outs and acquisitions 
--  Institutional-grade structuring without institutional bureaucracy This is not capital for generalist investors.
+Pathmaker provides:
+
+- Capital Structuring against private credit positions
+
+- Robust asset based Institutional Liquidity Paths structures
+
+- Public share Asset-Backed Frameworks with thresholds starting at five million
+
+- Crypto Institutional Liquidity Paths starting at two million
+
+- Strategic Capital Structuring for carve-outs and acquisitions
+
+- Institutional-grade structuring without institutional bureaucracy This is not capital for generalist investors.
 
 It is capital for principals who understand velocity, risk, and the cost of illiquidity during transactions. 
 

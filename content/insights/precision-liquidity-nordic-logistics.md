@@ -151,7 +151,9 @@ For institutional partners, it delivers a filtered pool of opportunities where o
 ## THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing.
 
 Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. **Proverbs 13:22
-*
+
+* 
+
 * establishes the principle of multi generational capital responsibility.
 
 Stewardship requires that capital allocation decisions produce structural stability rather than speculative volatility.

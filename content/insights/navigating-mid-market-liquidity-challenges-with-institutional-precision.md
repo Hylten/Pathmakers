@@ -130,12 +130,17 @@ This is liquidity in motion.
 
 ## The Evolution of Private Credit for HNWI and UHNW Investors Most private credit structures are built for funds, not individuals.
 
-HNWI and UHNW investors attempting direct participation face barriers: 
--  Deal flow difficulty 
--  Complexity of underwriting 
--  Counterparty opacity 
--  Lack of structural control 
--  Limited security over assets Pathmaker bridges this gap.
+HNWI and UHNW investors attempting direct participation face barriers:
+
+- Deal flow difficulty
+
+- Complexity of underwriting
+
+- Counterparty opacity
+
+- Lack of structural control
+
+- Limited security over assets Pathmaker bridges this gap.
 
 We allow sophisticated individuals to leverage institutional-grade Institutional Liquidity Paths frameworks.
 
@@ -155,8 +160,7 @@ We operate only where the liquidity and asset scale justify institutional discip
 
 Our minimum threshold for crypto Monetization Architecture is 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This screens out speculative participants and ensures that the capital base is serious, sophisticated, and aligned with institutional expectations.
 
@@ -174,8 +178,7 @@ Simply capital against collateral.
 
 Pathmaker provides public share Institutional Liquidity Paths with a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This allows clients to unlock liquidity without premature liquidation and without broadcasting their moves to the market.
 
@@ -189,12 +192,17 @@ The liquidity is immediate.
 
 They are looking for precision, discretion, and structural strength.
 
-HNWI and UHNW operators choose Pathmaker because: 
--  We do not require theatrics or external visibility. 
--  We do not insert ourselves into operations. 
--  We do not impose unnecessary governance. 
--  We understand complex collateral. 
--  We move at the speed required by real liquidity stress.
+HNWI and UHNW operators choose Pathmaker because:
+
+- We do not require theatrics or external visibility.
+
+- We do not insert ourselves into operations.
+
+- We do not impose unnecessary governance.
+
+- We understand complex collateral.
+
+- We move at the speed required by real liquidity stress.
 
 There is a tactical advantage in partnering with a lender that understands subtlety and timing.
 
@@ -204,12 +212,17 @@ That advantage compounds.
 
 Liquidity is about leverage.
 
-When a mid-market operator stabilizes their liquidity position, several things happen simultaneously: 
--  Negotiating power increases 
--  Vendor terms improve 
--  Acquisition optionality returns 
--  Covenant pressure decreases 
--  Operational decisions can be made rationally again Liquidity creates calm.
+When a mid-market operator stabilizes their liquidity position, several things happen simultaneously:
+
+- Negotiating power increases
+
+- Vendor terms improve
+
+- Acquisition optionality returns
+
+- Covenant pressure decreases
+
+- Operational decisions can be made rationally again Liquidity creates calm.
 
 Calm creates strategy.
 
@@ -241,16 +254,21 @@ We engineer them.
 
 Mid-market companies often hold assets that have institutional Asset-Backed Frameworks value, yet remain inactive.
 
-Examples include: 
--  Contract rights with predictable cash flow 
--  Healthcare receivables segmented by payor class 
--  Inventory with strong turnover profiles 
--  Equipment with durable valuations 
--  Public market positions suitable for securities Monetization Architecture 
--  Crypto assets qualifying under the 2,000,
+Examples include:
 
-00
-0 dollar threshold Collateral mapping converts complexity into accessibility.
+- Contract rights with predictable cash flow
+
+- Healthcare receivables segmented by payor class
+
+- Inventory with strong turnover profiles
+
+- Equipment with durable valuations
+
+- Public market positions suitable for securities Monetization Architecture
+
+- Crypto assets qualifying under the 2,000,
+
+000 dollar threshold Collateral mapping converts complexity into accessibility.
 
 This creates liquidity where the operator assumed none existed. 
 
@@ -260,10 +278,13 @@ Velocity matters, but precision determines whether liquidity becomes a bridge or
 
 Our structures are designed to withstand volatility without collapsing.
 
-We build: 
--  Private credit frameworks that balance risk and optionality 
--  Asset-Based Lending structures that respond dynamically to asset quality 
--  Collateral agreements that protect both sides without restricting maneuverability This is institutional machinery applied to the private domain. 
+We build:
+
+- Private credit frameworks that balance risk and optionality
+
+- Asset-Based Lending structures that respond dynamically to asset quality
+
+- Collateral agreements that protect both sides without restricting maneuverability This is institutional machinery applied to the private domain. 
 
 ## The Real Cost of Delayed Liquidity Many owners wait too long to secure liquidity.
 

@@ -112,17 +112,25 @@ This is why they move toward Asset-Based Lending before they ever entertain mezz
 
 Mezzanine provides liquidity theater.
 
-Predictability means: 
--  balance sheet optimization against assets with measurable value. 
--  Facility usage that adjusts with receivables and inventory cycles. 
--  Fewer subjective milestones. 
--  Less intervention when the business hits turbulence.
+Predictability means:
 
-Theater means: 
--  Capital that looks flexible on paper. 
--  Lenders who step in when EBITDA misses guidance by even a small delta. 
--  Forced renegotiations when macro conditions shift. 
--  Hidden fees and compounding features that punish operators.
+- balance sheet optimization against assets with measurable value.
+
+- Facility usage that adjusts with receivables and inventory cycles.
+
+- Fewer subjective milestones.
+
+- Less intervention when the business hits turbulence.
+
+Theater means:
+
+- Capital that looks flexible on paper.
+
+- Lenders who step in when EBITDA misses guidance by even a small delta.
+
+- Forced renegotiations when macro conditions shift.
+
+- Hidden fees and compounding features that punish operators.
 
 Institutional partners know the difference.
 
@@ -194,9 +202,11 @@ We lend against private credit.
 
 We lend through asset based structures.
 
-We also provide specialized liquidity tools: 
--  Crypto Strategic Collateralization with a minimum facility size of two million dollars. 
--  Public Share Institutional Liquidity Paths with a minimum threshold of five million dollars.
+We also provide specialized liquidity tools:
+
+- Crypto Strategic Collateralization with a minimum facility size of two million dollars.
+
+- Public Share Institutional Liquidity Paths with a minimum threshold of five million dollars.
 
 These instruments give our clients leverage without compromising control.
 
@@ -210,9 +220,11 @@ Asset-Based Lending facilities can move at institutional speed.
 
 Mezzanine funding rarely can.
 
-The underwriting differences explain why: 
--  Asset-Based Lending relies on asset audits and forensic collateral valuation. 
--  Mezzanine relies on forward looking EBITDA projections.
+The underwriting differences explain why:
+
+- Asset-Based Lending relies on asset audits and forensic collateral valuation.
+
+- Mezzanine relies on forward looking EBITDA projections.
 
 One is based on reality.
 
@@ -248,11 +260,15 @@ Pathmaker provides that predictability.
 
 It is not about replicating the old senior plus mezzanine plus equity formula.
 
-The new stack for serious buyers looks like this: 
--  Asset-Based Lending at the foundation. 
--  Private credit for scalability. 
--  Selective alternative Capital Structuring for acceleration where appropriate. 
--  Equity held by the sponsor with maximum control.
+The new stack for serious buyers looks like this:
+
+- Asset-Based Lending at the foundation.
+
+- Private credit for scalability.
+
+- Selective alternative Capital Structuring for acceleration where appropriate.
+
+- Equity held by the sponsor with maximum control.
 
 This stack works.
 

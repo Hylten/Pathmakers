@@ -98,9 +98,7 @@ Everything tradable on the open market is late.
 
 Everything quietly traded off-market drives the real returns.
 
-Family offices in 20
-
-26 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
+Family offices in 2026 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
 
 They want deals unlisted, uncirculated, unexposed.
 
@@ -130,9 +128,7 @@ Order creates optionality.
 
 Disorder kills deals.
 
-The Analyst Team states this unequivocally: the firms that win in 20
-
-26 do not build for the transaction.
+The Analyst Team states this unequivocally: the firms that win in 2026 do not build for the transaction.
 
 They build for the scrutiny.
 
@@ -164,9 +160,7 @@ In effect: exit readiness is the new covenant between mid‑market operators and
 
 Phase Three: Deep Analytical Architecture (1500+ Words) We now widen the aperture.
 
-The drivers behind the 20
-
-26 shift are not superficial.
+The drivers behind the 2026 shift are not superficial.
 
 They are structural.
 
@@ -192,9 +186,7 @@ Every messy operator reduces their own valuation before negotiation even begins.
 
 2.
 
-The Acceleration of Cross‑Border Deal Flow 20
-
-26 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
+The Acceleration of Cross‑Border Deal Flow 2026 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
 
 AI-first mapping identifies adjacencies that human deal teams would never see.
 
@@ -260,13 +252,19 @@ An advisory practice reports on the company.
 
 A tactical engine restructures the company into institutional clarity.
 
-This includes: 
--  AI-first mapping of the entire revenue stack 
--  Probability-weighted modeling of margin retention 
--  Integration of machine-driven operational diagnostics 
--  Documentation architectures designed for institutional review 
--  Removal of structural bottlenecks that kill exit narratives 
--  Construction of a clean buyer journey long before buyers appear Pathmaker’s role is not persuasion.
+This includes:
+
+- AI-first mapping of the entire revenue stack
+
+- Probability-weighted modeling of margin retention
+
+- Integration of machine-driven operational diagnostics
+
+- Documentation architectures designed for institutional review
+
+- Removal of structural bottlenecks that kill exit narratives
+
+- Construction of a clean buyer journey long before buyers appear Pathmaker’s role is not persuasion.
 
 It is preparation.
 
@@ -286,11 +284,7 @@ Not through charisma.
 
 Through readiness.
 
-Off-Market Deal Origination and Why It Dominates 20
-
-26 The most powerful family offices in 20
-
-26 have abandoned auction processes almost entirely.
+Off-Market Deal Origination and Why It Dominates 2026 The most powerful family offices in 2026 have abandoned auction processes almost entirely.
 
 The public markets, brokered markets, and circulated deal rooms deliver noise, competition, inflated valuations, and reduced access.
 
@@ -302,12 +296,17 @@ Off‑market deal origination has become the sovereign channel for real returns 
 
 Pathmaker’s algorithmic mapping engine provides precisely this advantage.
 
-The engine identifies: 
--  Firms entering inflection points 
--  Operators preparing for succession 
--  Markets signaling consolidation 
--  Hidden assets inside fragmented industries 
--  Companies whose value is suppressed by lack of institutional hygiene Pathmaker then engages quietly, privately, respectfully, and directly.
+The engine identifies:
+
+- Firms entering inflection points
+
+- Operators preparing for succession
+
+- Markets signaling consolidation
+
+- Hidden assets inside fragmented industries
+
+- Companies whose value is suppressed by lack of institutional hygiene Pathmaker then engages quietly, privately, respectfully, and directly.
 
 No noise.
 

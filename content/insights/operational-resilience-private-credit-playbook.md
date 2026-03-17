@@ -173,7 +173,9 @@ This reduces negotiation drag, eliminates documentation drift, and aligns incent
 It is a stewardship discipline.
 
 Stewardship is rooted in the principle of non wasteful resource management grounded in **Proverbs 13:22
-*
+
+* 
+
 * which emphasizes generational responsibility.
 
 Stewardship within private credit requires: 

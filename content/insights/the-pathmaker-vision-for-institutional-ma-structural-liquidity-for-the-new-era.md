@@ -120,12 +120,17 @@ When deployed correctly, public share Asset-Backed Frameworks can accelerate dea
 
 It is about making deals executable.
 
-Institutional M&A is now defined by: 
--  shorter seller patience 
--  higher diligence burden 
--  rising cost of capital 
--  more complex collateral profiles 
--  lower tolerance for execution failure Buyers who win are buyers who solve for liquidity before negotiation begins.
+Institutional M&A is now defined by:
+
+- shorter seller patience
+
+- higher diligence burden
+
+- rising cost of capital
+
+- more complex collateral profiles
+
+- lower tolerance for execution failure Buyers who win are buyers who solve for liquidity before negotiation begins.
 
 Pathmaker positions capital in a way that creates strategic optionality.
 
@@ -137,12 +142,17 @@ You can structure offers that competitors cannot match because their lenders req
 
 ## Mid Market M&A Is No Longer Forgiving Precision Is the New Leverage The era of companies selling for ten times EBITDA regardless of operational health is gone.
 
-The mid market today demands: 
--  forensic level underwriting 
--  deeper collateral analysis 
--  clear cash flow pathways 
--  realistic synergy mapping 
--  discipline in every assumption Sellers have adjusted.
+The mid market today demands:
+
+- forensic level underwriting
+
+- deeper collateral analysis
+
+- clear cash flow pathways
+
+- realistic synergy mapping
+
+- discipline in every assumption Sellers have adjusted.
 
 Buyers have adjusted.
 
@@ -222,14 +232,21 @@ They have urgency.
 
 What they need is precision, discretion, and reliability.
 
-They choose Pathmaker because we: 
--  provide structural mechanics, not noise 
--  solve liquidity at the asset level and the deal level 
--  understand mid market dynamics 
--  understand healthcare complexity 
--  operate on realistic timelines 
--  deploy capital without institutional theatrics 
--  prioritize execution over speculation We do not sell dreams.
+They choose Pathmaker because we:
+
+- provide structural mechanics, not noise
+
+- solve liquidity at the asset level and the deal level
+
+- understand mid market dynamics
+
+- understand healthcare complexity
+
+- operate on realistic timelines
+
+- deploy capital without institutional theatrics
+
+- prioritize execution over speculation We do not sell dreams.
 
 We engineer outcomes. 
 

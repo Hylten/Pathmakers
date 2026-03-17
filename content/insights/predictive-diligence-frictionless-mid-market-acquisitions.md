@@ -28,8 +28,9 @@ Velocity replaces delay.
 
 This is the new frontier of Exit Readiness and off‑market origination. 
 
- ## 
--  PRIVATE BRIEFING Closed‑door mode.
+ ##
+
+- PRIVATE BRIEFING Closed‑door mode.
 
 Structural depth only.
 
@@ -75,8 +76,9 @@ This reconstruction creates a structural map of the business: where value exists
 
 The result is a clean corridor from first contact to closing.
 
-THE PRINCIPAL VOICE 
--  CONTROLLED AUTHORITY Pathmaker tone: cut friction, drive action, decode the architecture.
+THE PRINCIPAL VOICE
+
+- CONTROLLED AUTHORITY Pathmaker tone: cut friction, drive action, decode the architecture.
 
 Predictive diligence eliminates the drag that kills mid‑market deals.
 
@@ -132,8 +134,9 @@ Networks respond to someone who has eliminated friction before entering the room
 
 Predictive diligence becomes the signal that separates serious buyers from curious browsers.
 
-STRUCTURAL technical brief 
--  THE ARCHITECTURE Precision required.
+STRUCTURAL technical brief
+
+- THE ARCHITECTURE Precision required.
 
 No filler.
 

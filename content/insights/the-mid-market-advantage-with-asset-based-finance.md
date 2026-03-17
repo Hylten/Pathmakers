@@ -38,17 +38,23 @@ Pathmaker exists to deliver this advantage with clarity and without noise.
 
 We trade in structure.
 
-Our focus is on: 
--  Asset based Strategic Collateralization anchored in real collateral value. 
--  Private credit solutions for timeline constrained operators. 
--  Strategic Collateralization structures built specifically for HNWI and UHNW balance sheets. 
--  Crypto Institutional Liquidity Paths starting at 2,000, 
+Our focus is on:
 
-000. 
--  Public share Capital Structuring starting at 5,000, 
+- Asset based Strategic Collateralization anchored in real collateral value.
 
-000. 
--  Transactional support for mid market M&A and healthcare carve outs where timing is survival.
+- Private credit solutions for timeline constrained operators.
+
+- Strategic Collateralization structures built specifically for HNWI and UHNW balance sheets.
+
+- Crypto Institutional Liquidity Paths starting at 2,000, 
+
+000.
+
+- Public share Capital Structuring starting at 5,000, 
+
+000.
+
+- Transactional support for mid market M&A and healthcare carve outs where timing is survival.
 
 We provide capital mechanics that allow sophisticated operators to execute cleanly and quietly.
 

@@ -78,11 +78,15 @@ The mid-market enterprise must demonstrate mechanical readiness in six categorie
 
 Structural Cash Flow Reconstruction Institutional processes require calibrated EBITDA normalization.
 
-This involves: 
--  Categorization of recurring vs. non-recurring costs 
--  Working capital delta smoothing 
--  Identification of non-operational revenue 
--  Separation of founder-linked expenses from core unit economics The objective is not embellishment.
+This involves:
+
+- Categorization of recurring vs. non-recurring costs
+
+- Working capital delta smoothing
+
+- Identification of non-operational revenue
+
+- Separation of founder-linked expenses from core unit economics The objective is not embellishment.
 
 The objective is institutional visibility. 
 
@@ -90,11 +94,15 @@ The objective is institutional visibility.
 
 Operational Rhythm Calibration Exit-ready businesses demonstrate predictable cadence in internal processes.
 
-This includes: 
--  Weekly cash balance reconciliations 
--  Monthly management accounts with variance attribution 
--  Quarterly board-ready performance analysis 
--  Annual strategic repositioning plans The lack of rhythm is interpreted as instability.
+This includes:
+
+- Weekly cash balance reconciliations
+
+- Monthly management accounts with variance attribution
+
+- Quarterly board-ready performance analysis
+
+- Annual strategic repositioning plans The lack of rhythm is interpreted as instability.
 
 Rhythm is interpreted as institutional maturity. 
 
@@ -102,42 +110,59 @@ Rhythm is interpreted as institutional maturity.
 
 Balance Sheet Optimization Mid-market companies are disproportionately penalized for suboptimal capital structuring.
 
-Optimization requires: 
--  Liability laddering 
--  Covenant mapping 
--  Collateral allocation structures 
--  Asset-Backed Frameworks to convert idle assets into strategic optionality Capital efficiency is a competitive advantage when preparing for acquisition. 
+Optimization requires:
+
+- Liability laddering
+
+- Covenant mapping
+
+- Collateral allocation structures
+
+- Asset-Backed Frameworks to convert idle assets into strategic optionality Capital efficiency is a competitive advantage when preparing for acquisition. 
 
 4.
 
 Documentation Infrastructure A business with an incomplete data room loses transaction velocity.
 
-High intent buyers require immediate access to: 
--  Corporate governance documents 
--  Historical financial statements 
--  Forward-looking operational models 
--  Compliance and regulatory filings 
--  Customer, supplier, and employment agreements Documentation completeness is the backbone of uninterrupted diligence flow. 
+High intent buyers require immediate access to:
+
+- Corporate governance documents
+
+- Historical financial statements
+
+- Forward-looking operational models
+
+- Compliance and regulatory filings
+
+- Customer, supplier, and employment agreements Documentation completeness is the backbone of uninterrupted diligence flow. 
 
 5.
 
 Institutional Signaling Mechanics Buyers rely on signaling to determine whether a company is prepared for strategic transition.
 
-Key signals include: 
--  Clean audit history 
--  Independent board governance 
--  External valuation mapping 
--  Documented succession frameworks These signals remove ambiguity.
+Key signals include:
+
+- Clean audit history
+
+- Independent board governance
+
+- External valuation mapping
+
+- Documented succession frameworks These signals remove ambiguity.
 
 Institutional ambiguity destroys velocity. 
 
 6.
 
-M&A Friction Removal Friction originates from structural gaps such as: 
--  Misaligned shareholder expectations 
--  Lack of scenario-tested valuation matrices 
--  Undefined transaction perimeter 
--  Operational concentration risk The elimination of these frictions increases enterprise transmissibility, which is the core requirement for any premium exit.
+M&A Friction Removal Friction originates from structural gaps such as:
+
+- Misaligned shareholder expectations
+
+- Lack of scenario-tested valuation matrices
+
+- Undefined transaction perimeter
+
+- Operational concentration risk The elimination of these frictions increases enterprise transmissibility, which is the core requirement for any premium exit.
 
 THE PARTNERSHIP MODEL Roials Capital serves as a strategic navigator.
 
@@ -151,11 +176,15 @@ The partnership model operates through three layers.
 
 1.
 
-Structural Normalization This involves: 
--  Strategic documentation sequencing 
--  Exit scenario modeling 
--  Market positioning calibration 
--  Diligence-prepared operational reorganization This step transforms a company from operationally strong to institutionally interpretable. 
+Structural Normalization This involves:
+
+- Strategic documentation sequencing
+
+- Exit scenario modeling
+
+- Market positioning calibration
+
+- Diligence-prepared operational reorganization This step transforms a company from operationally strong to institutionally interpretable. 
 
 2.
 
@@ -185,13 +214,20 @@ Stewardship is the opposite of extraction.
 
 It is the discipline of non-wasteful operational conduct.
 
-Stewardship involves: 
--  Long-term asset preservation 
--  Ethical capital structuring 
--  Transparent record-keeping 
--  Predictable governance frameworks 
--  Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in **Proverbs 13:22
-*
+Stewardship involves:
+
+- Long-term asset preservation
+
+- Ethical capital structuring
+
+- Transparent record-keeping
+
+- Predictable governance frameworks
+
+- Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in **Proverbs 13:22
+
+* 
+
 * .
 
 The stewardship filter ensures that enterprises do not simply prepare for exit but prepare for continuity.

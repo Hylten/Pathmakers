@@ -92,15 +92,15 @@ Asset-Based Lending is particularly effective in carve-outs during the transitio
 
 Hybrid Collateral from Public Shares or Crypto Holdings This is where Pathmaker becomes structurally distinct.
 
-We support: 
--  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,
+We support:
 
-00
-0 
--  Public share Institutional Liquidity Paths with a minimum threshold of 5,000,
+- Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,
 
-00
-0 These are not retail Asset-Backed Frameworks structures.
+000
+
+- Public share Institutional Liquidity Paths with a minimum threshold of 5,000,
+
+000 These are not retail Asset-Backed Frameworks structures.
 
 These are institutional-grade liquidity engines for HNW and UHNW clients.
 
@@ -120,12 +120,17 @@ These risks tend to be unpriced rather than overpriced.
 
 Traditional lenders avoid them entirely.
 
-Common friction points include: 
--  Ambiguous ownership of receivables during transition 
--  Disconnected EHR and billing infrastructure 
--  Compliance liabilities that do not map cleanly to newco entities 
--  Cost structure distortions due to stranded personnel and vendor contracts 
--  Low-visibility RCM workflows that cannot be audited efficiently This risk profile kills senior financing.
+Common friction points include:
+
+- Ambiguous ownership of receivables during transition
+
+- Disconnected EHR and billing infrastructure
+
+- Compliance liabilities that do not map cleanly to newco entities
+
+- Cost structure distortions due to stranded personnel and vendor contracts
+
+- Low-visibility RCM workflows that cannot be audited efficiently This risk profile kills senior financing.
 
 It does not, however, impact the value of the acquirer's external collateral.
 
@@ -135,10 +140,13 @@ This is the strategic loophole that hybrid collateral exploits.
 
 The goal is structural clarity that institutional capital respects.
 
-A standard hybrid-collateral solution for a healthcare carve-out might include: 
--  A private credit tranche for the acquisition base 
--  An Asset-Based Lending tranche for working capital or transition operations 
--  A crypto or public share collateral tranche to complete the liquidity envelope Because each tranche secures against a different asset type, the underwriting is cleaner.
+A standard hybrid-collateral solution for a healthcare carve-out might include:
+
+- A private credit tranche for the acquisition base
+
+- An Asset-Based Lending tranche for working capital or transition operations
+
+- A crypto or public share collateral tranche to complete the liquidity envelope Because each tranche secures against a different asset type, the underwriting is cleaner.
 
 The timeline is faster.
 
@@ -200,13 +208,15 @@ The buyer brings in Pathmaker.
 
 We evaluate the buyer’s external asset footprint.
 
-We build a hybrid structure composed of: 
--  A private credit facility backed by external securities. 
--  An Asset-Based Lending tranche tied to non-healthcare assets. 
--  A 2,000,
+We build a hybrid structure composed of:
 
-00
-0 crypto-backed tranche to close the gap.
+- A private credit facility backed by external securities.
+
+- An Asset-Based Lending tranche tied to non-healthcare assets.
+
+- A 2,000,
+
+000 crypto-backed tranche to close the gap.
 
 The deal clears.
 
@@ -218,12 +228,17 @@ The lender receives clean collateral with minimal operational risk exposure.
 
 It is a direct response to the inherent underwriting turbulence in healthcare carve-outs.
 
-It allows acquirers to: 
--  Control closing timelines 
--  Avoid unnecessary dilution 
--  Neutralize operational risk for lenders 
--  Win negotiations through certainty of funds 
--  Reduce dependence on the target company’s health This is how HNW and UHNW buyers consistently outperform in mid-market healthcare transactions. 
+It allows acquirers to:
+
+- Control closing timelines
+
+- Avoid unnecessary dilution
+
+- Neutralize operational risk for lenders
+
+- Win negotiations through certainty of funds
+
+- Reduce dependence on the target company’s health This is how HNW and UHNW buyers consistently outperform in mid-market healthcare transactions. 
 
 ## Pathmaker as the Structural Engine Behind the Capital We do not market.
 

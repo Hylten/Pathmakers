@@ -54,12 +54,17 @@ When you execute a carve out in this environment, you are not only acquiring ass
 
 You are absorbing obligations.
 
-Key drivers of fragility include: 
--  Talent scarcity across clinical, operational, and IT functions 
--  Region specific reimbursement models that shift annually 
--  Disconnected patient and operational data systems 
--  Legacy infrastructure that cannot support scaling 
--  Compliance workloads that expand faster than headcount These factors compound during due diligence and integration.
+Key drivers of fragility include:
+
+- Talent scarcity across clinical, operational, and IT functions
+
+- Region specific reimbursement models that shift annually
+
+- Disconnected patient and operational data systems
+
+- Legacy infrastructure that cannot support scaling
+
+- Compliance workloads that expand faster than headcount These factors compound during due diligence and integration.
 
 They also create silent risks that rarely show up in the data room. 
 
@@ -236,8 +241,7 @@ Post Close Stabilisation We build control in the first
 
 90 to 
 
-18
-0 days.
+180 days.
 
 We prioritise system reliability, compliance readiness, leadership bandwidth, and clean separation from the seller.
 
@@ -253,14 +257,21 @@ This protects EBITDA and preserves energy for value creation.
 
 ## What Investors Gain After two decades of navigating Nordic operators, the patterns are clear.
 
-When operational resilience is addressed early, investors gain: 
--  Shorter separation periods 
--  Lower risk of recurring compliance deviations 
--  Faster synergy realisation 
--  Smaller management disruption 
--  Reduced dependency on seller infrastructure 
--  A predictable integration timeline 
--  A more stable platform for bolt ons These are not theoretical benefits.
+When operational resilience is addressed early, investors gain:
+
+- Shorter separation periods
+
+- Lower risk of recurring compliance deviations
+
+- Faster synergy realisation
+
+- Smaller management disruption
+
+- Reduced dependency on seller infrastructure
+
+- A predictable integration timeline
+
+- A more stable platform for bolt ons These are not theoretical benefits.
 
 They are measurable. 
 

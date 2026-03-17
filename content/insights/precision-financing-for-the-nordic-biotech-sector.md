@@ -34,8 +34,7 @@ Pathmaker exists to bridge that structural fragmentation.
 
 ## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000,
 
-00
-0 USD A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
+000 USD A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
 
 These assets are often siloed, unused, and treated as dead capital during BioTech financing events.
 
@@ -66,17 +65,21 @@ They fail because the seller is cornered by timing and leverage.
 
 Pathmaker structures transactions to avoid those conditions.
 
-Our financing supports: 
--  Acquisitions between 
+Our financing supports:
+
+- Acquisitions between 
 
 20 and 
 
-25
-0 million USD. 
--  Carve outs of non core research units. 
--  Spin outs of high value IP portfolios. 
--  Consolidation plays across fragmented verticals. 
--  Distressed asset captures without romanticized turnaround narratives.
+250 million USD.
+
+- Carve outs of non core research units.
+
+- Spin outs of high value IP portfolios.
+
+- Consolidation plays across fragmented verticals.
+
+- Distressed asset captures without romanticized turnaround narratives.
 
 We do not finance dreams.
 
@@ -104,12 +107,17 @@ That is what we deliver.
 
 ## Why HNWI and UHNW Principals Choose Pathmaker Our clients are not interested in noise.
 
-They are interested in: 
--  Execution speed. 
--  Underwriting competence. 
--  Discreet structures. 
--  Stability during volatility. 
--  Control over timing.
+They are interested in:
+
+- Execution speed.
+
+- Underwriting competence.
+
+- Discreet structures.
+
+- Stability during volatility.
+
+- Control over timing.
 
 HNWI and UHNW principals operate with a simple rule.
 
@@ -119,17 +127,19 @@ They engage with lenders who already understand the battlefield.
 
 Pathmaker is built for that rule. 
 
-## The Strategic Case for Liquidity in 20
-
-26 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity.
+## The Strategic Case for Liquidity in 2026 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity.
 
 It will be driven by operators who control liquidity.
 
-Liquidity is the strategic lever that determines: 
--  Which companies survive. 
--  Which companies consolidate. 
--  Which companies acquire. 
--  Which companies exit.
+Liquidity is the strategic lever that determines:
+
+- Which companies survive.
+
+- Which companies consolidate.
+
+- Which companies acquire.
+
+- Which companies exit.
 
 The sector is entering an era where financial engineering matters as much as scientific engineering.
 

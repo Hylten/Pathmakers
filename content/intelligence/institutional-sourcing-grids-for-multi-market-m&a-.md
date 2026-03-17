@@ -107,9 +107,13 @@ Below is a breakdown of the core domains.
 Not a broad vertical description.
 
 A thesis must define:
+
 • The structural driver of value
+
 • The acquirer’s operational advantage
+
 • The transaction mechanics that fit the balance sheet
+
 • The realistic integration bandwidth Most healthcare carve out failures trace back to thesis drift.
 
 The Diagnostic Audit forces the team to reduce the thesis to measurable attributes.
@@ -135,10 +139,15 @@ They become visible only when the market map is exhaustive.
 ## Counterparty Architecture Counterparty architecture defines how each market actually transacts.
 
 It separates counterparties into:
+
 • Direct sellers
+
 • Intermediated sellers
+
 • Influence based participants
+
 • Regulatory or reimbursement pressure nodes
+
 • Strategic blockers In healthcare, this architecture becomes especially critical.
 
 Referral networks, certificate structures, and legacy ownership arrangements distort direct visibility.
@@ -195,7 +204,7 @@ Once each grid is constructed, the team evaluates cross market relationships, ac
 
 Below is the sequence for constructing multi market grids.
 
-Step I: : Market Definition with Constraint Logic Expansion choices often fail because the team uses opportunity logic rather than constraint logic.
+### Step I: Market Definition with Constraint Logic Expansion choices often fail because the team uses opportunity logic rather than constraint logic.
 
 Opportunity logic asks where deals exist.
 
@@ -205,20 +214,25 @@ Multi market grids begin with constraints.
 
 This stabilizes the acquisition thesis and directs sourcing toward markets with accessible transaction pathways.
 
-Step II: : Build the Primary Grid for the Anchor Market The anchor market is the highest confidence environment.
+### Step II: Build the Primary Grid for the Anchor Market The anchor market is the highest confidence environment.
 
 The Diagnostic Audit is applied in full.
 
 The grid becomes the reference model for all other markets.
 
 The anchor market grid defines:
+
 • The thesis filters
+
 • The counterparty architecture
+
 • The signal set
+
 • The outreach cadence
+
 • The conversion process This grid becomes the institutional template.
 
-Step III: : Deploy Parallel Grid Construction in Secondary Markets Parallel grid construction ensures conceptual consistency across markets.
+### Step III: Deploy Parallel Grid Construction in Secondary Markets Parallel grid construction ensures conceptual consistency across markets.
 
 It does not mean identical structures.
 
@@ -230,7 +244,7 @@ Healthcare carve outs often reveal dramatic differences between states, referral
 
 Parallel construction respects these realities.
 
-Step IV: : Cross Market Integration Review Once each market grid is constructed, the team performs an integration review.
+### Step IV: Cross Market Integration Review Once each market grid is constructed, the team performs an integration review.
 
 This review evaluates how the grids interact.
 
@@ -240,15 +254,20 @@ The integration review identifies where the funnel density will be highest and w
 
 This becomes the roadmap for sourcing prioritization.
 
-Step V: : Establish the Multi Market Funnel Engine A multi market funnel engine aligns all grids into a single operating system.
+### Step V: Establish the Multi Market Funnel Engine A multi market funnel engine aligns all grids into a single operating system.
 
 It standardizes certain processes while allowing market specific adaptations.
 
 The engine consists of:
+
 • Unified qualification logic
+
 • Priority scoring across markets
+
 • Centralized signal intelligence tracking
+
 • Harmonized outreach sequencing
+
 • Conversion process oversight The objective is simple.
 
 Multiple markets.
@@ -266,9 +285,13 @@ The Diagnostic Audit removes emotional distortions and focuses strictly on struc
 Below are specific applications for healthcare carve out sourcing. 
 
 ## Identifying Carve Out Ready Segments A segment is carve out ready when:
+
 • The parent organization has negative alignment between cost structure and service line performance
+
 • Compliance risk has escalated
+
 • Leadership transition is imminent
+
 • Adjacent acquisitions have shifted strategic priorities These indicators are visible long before a sale process.
 
 They can be captured within a sourcing grid through targeted signal intelligence. 
@@ -276,10 +299,15 @@ They can be captured within a sourcing grid through targeted signal intelligence
 ## Structuring Counterparty Architecture for Provider Ecosystems Healthcare ecosystems rarely follow clean hierarchical structures.
 
 Counterparty architecture must include:
+
 • Local clinical influencers
+
 • Regional referral concentrations
+
 • Private equity backed roll ups
+
 • Payer contract intermediaries
+
 • Facility lease dependencies Each node affects optionality.
 
 The Diagnostic Audit ensures the grid reflects these operational realities. 
@@ -287,18 +315,27 @@ The Diagnostic Audit ensures the grid reflects these operational realities.
 ## Sequencing Outreach Without Triggering Defensive Behavior Healthcare operators often react defensively when approached.
 
 Outreach sequencing must account for:
+
 • Timing relative to compliance cycles
+
 • Sensitivity to clinical staffing shortages
+
 • Market level distress indicators
+
 • Owner psychology without relying on owner narrative The Diagnostic Audit provides the logic for sequencing.
 
 This reduces the risk of early rejection. 
 
 ## Conversion Operations for Healthcare Transactions Conversion operations in healthcare require readiness in:
+
 • Regulatory diligence
+
 • Clinical workflow mapping
+
 • EMR separation
+
 • Credentialing
+
 • Billing architecture A sourcing grid is ineffective if conversion is weak.
 
 The Diagnostic Audit evaluates conversion capacity before the funnel expands.
@@ -340,10 +377,15 @@ Conversion operations must be in place before multi market expansion.
 These systems create predictable funnel flow and measurable performance indicators.
 
 They also support:
+
 • Cross market portfolio construction
+
 • Structured bolt on strategies
+
 • Implementation planning during early stage sourcing
+
 • Reduced diligence cycle times
+
 • More accurate valuation frameworks Mid market investors benefit the most because they operate with limited internal bandwidth.
 
 The Diagnostic Audit provides leverage without requiring additional personnel. 
@@ -377,9 +419,9 @@ And they build an advantage that compounds across markets.
 For teams preparing to scale their M&A funnels or expand across new markets, the Diagnostic Audit is the correct starting point.
 
 It provides the architecture required to construct sourcing systems that endure. **Book a strategic consultation
-*
-*
 
-Access is restricted to approved mandates.
+* 
+
+* Access is restricted to approved mandates.
 
 Minimum target size: $5M+.

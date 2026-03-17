@@ -48,13 +48,19 @@ Pathmaker steps directly into that gap.
 
 They are difficult because of plumbing.
 
-The typical Nordic mid-market carve-out faces friction in several places: 
--  Transitional Service Agreements that slow operations 
--  Separation of systems and IT stacks 
--  Supply chain renegotiations 
--  HR and compliance fragmentation 
--  Working capital that evaporates due to operational shock 
--  Legacy obligations that the parent is happy to offload This environment creates a predictable pattern.
+The typical Nordic mid-market carve-out faces friction in several places:
+
+- Transitional Service Agreements that slow operations
+
+- Separation of systems and IT stacks
+
+- Supply chain renegotiations
+
+- HR and compliance fragmentation
+
+- Working capital that evaporates due to operational shock
+
+- Legacy obligations that the parent is happy to offload This environment creates a predictable pattern.
 
 The asset is fundamentally strong.
 
@@ -68,8 +74,7 @@ Pathmaker was designed for the opposite scenario.
 
 ## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under 
 
-25
-0 million EUR.
+250 million EUR.
 
 Institutional lenders move slower than operational realities.
 
@@ -79,12 +84,17 @@ Pathmaker lends against private credit with a focus on structural durability.
 
 We build frameworks that do not collapse when the parent company pulls out its services or when a new CFO discovers that the asset has less liquidity than expected.
 
-Private credit solutions offer: 
--  Speed 
--  Structural flexibility 
--  Working capital certainty 
--  The ability to secure assets that traditional banks undervalue 
--  Strategic optionality for buyers who want to move before competition forms For HNWI and UHNW individuals, private credit serves as a multiplier.
+Private credit solutions offer:
+
+- Speed
+
+- Structural flexibility
+
+- Working capital certainty
+
+- The ability to secure assets that traditional banks undervalue
+
+- Strategic optionality for buyers who want to move before competition forms For HNWI and UHNW individuals, private credit serves as a multiplier.
 
 It converts operational confidence into capital advantage. 
 
@@ -106,11 +116,15 @@ Asset-Based Lending turns the acquired assets into a liquidity engine.
 
 This stabilizes the carve-out so that strategic vision can be executed without panic.
 
-Key advantages: 
--  Monetization of assets that are already in motion 
--  Lower sensitivity to earnings volatility during early separation 
--  Improved negotiation leverage with suppliers 
--  Stronger equity story for future refinancing or exit Asset-Based Lending is not glamorous.
+Key advantages:
+
+- Monetization of assets that are already in motion
+
+- Lower sensitivity to earnings volatility during early separation
+
+- Improved negotiation leverage with suppliers
+
+- Stronger equity story for future refinancing or exit Asset-Based Lending is not glamorous.
 
 It is not meant to be.
 
@@ -120,12 +134,17 @@ It is the backbone that keeps the separation upright.
 
 But it is also the domain where operational slippage creates the highest risk.
 
-Nordic healthcare carve-outs suffer from predictable challenges: 
--  Regulatory inertia 
--  High staff dependency 
--  Equipment intensive balance sheets 
--  Long reimbursement cycles 
--  Narrow margins during transition This is the exact environment where Pathmaker’s model performs.
+Nordic healthcare carve-outs suffer from predictable challenges:
+
+- Regulatory inertia
+
+- High staff dependency
+
+- Equipment intensive balance sheets
+
+- Long reimbursement cycles
+
+- Narrow margins during transition This is the exact environment where Pathmaker’s model performs.
 
 Our private credit and Asset-Based Lending structures provide predictable liquidity while the new entity synchronizes its operational rhythm.
 
@@ -149,12 +168,16 @@ Not recklessly.
 
 But with precision.
 
-We offer: 
--  Private credit deployments 
--  Asset based Institutional Liquidity Paths frameworks 
--  Crypto Asset-Backed Frameworks with a minimum threshold of 
-2 million USD 
--  Public share Capital Structuring with a minimum threshold of 
+We offer:
+
+- Private credit deployments
+
+- Asset based Institutional Liquidity Paths frameworks
+
+- Crypto Asset-Backed Frameworks with a minimum threshold of 
+2 million USD
+
+- Public share Capital Structuring with a minimum threshold of 
 5 million USD These instruments allow sophisticated investors to execute where others hesitate.
 
 And in carve-outs, hesitation is often fatal to deal economics. 
@@ -171,11 +194,15 @@ Noise destabilizes management teams.
 
 Noise invites regulatory attention that the deal does not need.
 
-Pathmaker operates in the background, solid and unmovable, ensuring: 
--  Liquidity is certain 
--  Structure is durable 
--  Compliance is clean 
--  Counterparties are insulated from disruption The entire purpose is to make the investor look stronger, more capable, and more credible.
+Pathmaker operates in the background, solid and unmovable, ensuring:
+
+- Liquidity is certain
+
+- Structure is durable
+
+- Compliance is clean
+
+- Counterparties are insulated from disruption The entire purpose is to make the investor look stronger, more capable, and more credible.
 
 This is the essence of principal authority. 
 

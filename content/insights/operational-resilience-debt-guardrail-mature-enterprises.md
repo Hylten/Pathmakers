@@ -33,7 +33,9 @@ A jurisdictional shield.
 It allows mid-market companies to operate with institutional fluency long before they face an institutional buyer.
 
 This is where operational resilience is forged-not in austerity, but in engineered liquidity. **Proverbs 13:22
-*
+
+* 
+
 * : “A good man leaves an inheritance to his children's children.” In enterprise terms, the inheritance is stability.
 
 Continuity.
@@ -124,14 +126,21 @@ They allow enterprise operators to convert strategy into action without exposing
 
 Operational resilience is liquidity first, control second, velocity third.
 
-Debt allows operators to: 
--  Hold pricing power 
--  Protect staff continuity 
--  Stabilize procurement cycles 
--  Absorb input volatility 
--  Maintain strategic optionality 
--  Retain negotiating leverage with both suppliers and buyers 
--  Build verifiable track records of disciplined capital deployment These are the signals institutional buyers track.
+Debt allows operators to:
+
+- Hold pricing power
+
+- Protect staff continuity
+
+- Stabilize procurement cycles
+
+- Absorb input volatility
+
+- Maintain strategic optionality
+
+- Retain negotiating leverage with both suppliers and buyers
+
+- Build verifiable track records of disciplined capital deployment These are the signals institutional buyers track.
 
 These are the markers that reduce diligence friction.
 
@@ -245,14 +254,21 @@ The discount is real.
 
 Operational resilience eliminates discount zones.
 
-When mature enterprises employ strategic leverage, they signal: 
--  Predictable governance 
--  Continuity planning 
--  Capital fluency 
--  Institutional-grade reporting 
--  Ability to survive macro volatility 
--  Sophisticated risk management 
--  Execution capacity under pressure These signals open off-market channels.
+When mature enterprises employ strategic leverage, they signal:
+
+- Predictable governance
+
+- Continuity planning
+
+- Capital fluency
+
+- Institutional-grade reporting
+
+- Ability to survive macro volatility
+
+- Sophisticated risk management
+
+- Execution capacity under pressure These signals open off-market channels.
 
 They create inbound interest.
 
@@ -330,12 +346,17 @@ Leveraged enterprises operate from a position of strategic readiness rather than
 
 Readiness dominates.
 
-When an enterprise has liquidity guardrails in place, the following unfolds: 
--  Competitors retreat under volatility while the leveraged enterprise expands. 
--  Vendors shift terms, but the enterprise maintains procurement rhythm. 
--  Markets tighten, but the enterprise preserves working capital. 
--  Talent markets fluctuate, but retention remains stable. 
--  Opportunities emerge, and the enterprise is positioned to seize them.
+When an enterprise has liquidity guardrails in place, the following unfolds:
+
+- Competitors retreat under volatility while the leveraged enterprise expands.
+
+- Vendors shift terms, but the enterprise maintains procurement rhythm.
+
+- Markets tighten, but the enterprise preserves working capital.
+
+- Talent markets fluctuate, but retention remains stable.
+
+- Opportunities emerge, and the enterprise is positioned to seize them.
 
 Leverage creates strategic asymmetry.
 
@@ -348,7 +369,9 @@ It fulfills
 ## THE MANDATE
 
  of **Proverbs 13:22
-*
+
+* 
+
 * -continuity across generations, continuity across leadership transitions, continuity across market cycles.
 
 Debt is inheritance architecture.

@@ -36,12 +36,17 @@ When integrated with Asset-Based Lending, it forms a hybrid structure that can s
 
 Within Pathmaker, private credit is lent against stable asset bases with clear liquidation pathways and strong operational integrity.
 
-This approach gives clients: 
--  predictable leverage 
--  no dilution 
--  rapid access to liquidity 
--  scale without board interference 
--  optionality during acquisition windows Private credit is not used as a speculative force here.
+This approach gives clients:
+
+- predictable leverage
+
+- no dilution
+
+- rapid access to liquidity
+
+- scale without board interference
+
+- optionality during acquisition windows Private credit is not used as a speculative force here.
 
 It is used as a stabilizing counterweight to market volatility. 
 
@@ -79,12 +84,17 @@ It is an operating condition.
 
 ## The UHNW Use Case: Asset-Based Lending as Controlled Leverage Sophisticated capital allocators use Asset-Based Lending to create ring-fenced liquidity against assets that they have no intention of liquidating.
 
-This is true for: 
--  private credit portfolios 
--  equity positions 
--  commercial assets 
--  specialty assets 
--  long-term value holdings Rather than sell, they borrow.
+This is true for:
+
+- private credit portfolios
+
+- equity positions
+
+- commercial assets
+
+- specialty assets
+
+- long-term value holdings Rather than sell, they borrow.
 
 Rather than dilute, they leverage.
 
@@ -126,10 +136,13 @@ It is about consistency.
 
 Companies that scale in unpredictable markets require predictable liquidity.
 
-Asset-Based Lending provides three core stabilizers: 
--  asset-backed discipline 
--  measurable risk 
--  repeatable leverage Operators who rely only on cash flow struggle to scale.
+Asset-Based Lending provides three core stabilizers:
+
+- asset-backed discipline
+
+- measurable risk
+
+- repeatable leverage Operators who rely only on cash flow struggle to scale.
 
 Operators who rely only on equity lose long-term control.
 

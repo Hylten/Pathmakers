@@ -288,7 +288,7 @@ Each layer is independent.
 
 Each reinforced by the next.
 
-Layer I:.
+### Layer I: .
 
 Covenant Mapping Before financial review.
 
@@ -306,13 +306,13 @@ Mandate boundaries.
 
 This is the foundation.
 
-Layer II:.
+### Layer II: .
 
 Structural Integrity Scan A rapid structural assessment that isolates weaknesses that will surface later.
 
 It reduces surprises for both buyer and seller.
 
-Layer III:.
+### Layer III: .
 
 Cross Border Constraint Identification Every market has silent constraints.
 
@@ -326,7 +326,7 @@ Capital deployment speed.
 
 Mapping them early preserves time.
 
-Layer IV:.
+### Layer IV: .
 
 Institutional Diligence Conditioning Preparation for buyers with Fund-III or greater requirements.
 
@@ -340,7 +340,7 @@ Leadership alignment.
 
 This is the territory Pathmaker dominates.
 
-Layer V:.
+### Layer V: .
 
 Founder Narrative Calibration The founder’s voice determines market temperature.
 
@@ -348,7 +348,7 @@ Calibrated correctly, it attracts disciplined capital.
 
 Calibrated poorly, it invites discounting.
 
-Layer VI:.
+### Layer VI: .
 
 Integration Vector Design Execution velocity begins before acquisition.
 

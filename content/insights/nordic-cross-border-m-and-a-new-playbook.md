@@ -6,9 +6,7 @@ author: "Jonas Hyltén"
 slug: "nordic-cross-border-m-and-a-new-playbook"
 --- 
 
-The structural gap defining Nordic cross border M&A in 20
-
-26 is not valuation volatility.
+The structural gap defining Nordic cross border M&A in 2026 is not valuation volatility.
 
 The real arbitrage is the operational misalignment between Nordic mid market companies and the buyer criteria of institutional strategic acquirers in the United States, Europe, and Asia.
 
@@ -219,7 +217,9 @@ It is about creating precision.
 Nordic companies have historically operated with conservative capital cultures, focusing on reinvestment and operational stability.
 
 This ethos is aligned with the theological principle in **Proverbs 13:22
-*
+
+* 
+
 * , which emphasizes multi generational resource responsibility.
 
 Exit readiness begins with stewardship discipline, not opportunistic timing.

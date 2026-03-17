@@ -242,15 +242,23 @@ A living system.
 
 You assess the company the moment it enters the orbit of the map.
 
-The machine builds a pre-diligence skeleton: 
--  revenue stack dynamics 
--  margin integrity across product lines 
--  customer concentration exposure 
--  operational bottlenecks 
--  misaligned cost centers 
--  leadership dependencies 
--  compliance risks 
--  cultural markers All indexed.
+The machine builds a pre-diligence skeleton:
+
+- revenue stack dynamics
+
+- margin integrity across product lines
+
+- customer concentration exposure
+
+- operational bottlenecks
+
+- misaligned cost centers
+
+- leadership dependencies
+
+- compliance risks
+
+- cultural markers All indexed.
 
 All contextual.
 
@@ -312,12 +320,17 @@ AI compresses these gaps.
 
 You maintain forward motion because the system continuously resolves uncertainties before they slow the human process.
 
-Examples: 
--  drafting risk memos before questions surface 
--  preparing valuation corridors before the founder discusses price 
--  pre-mapping integration friction points so the buyer does not speculate 
--  producing customer cohort projections instantly for scenario models 
--  revealing cultural derailers early enough to neutralize them This is not automation.
+Examples:
+
+- drafting risk memos before questions surface
+
+- preparing valuation corridors before the founder discusses price
+
+- pre-mapping integration friction points so the buyer does not speculate
+
+- producing customer cohort projections instantly for scenario models
+
+- revealing cultural derailers early enough to neutralize them This is not automation.
 
 This is orchestration.
 

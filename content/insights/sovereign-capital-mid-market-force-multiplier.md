@@ -37,7 +37,9 @@ High yield.
 Low noise.
 
 Clean execution. **Proverbs 13:22
-*
+
+* 
+
 * : capital migrates.
 
 Capital consolidates.

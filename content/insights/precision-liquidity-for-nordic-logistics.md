@@ -96,12 +96,17 @@ Pathmaker leverages this predictable asset profile.
 
 We lend against assets that we can trust, in regions where reliability is a baseline, not a luxury. 
 
-## Multi‑Modal Asset Types We Work With Pathmaker structures liquidity against several categories that traditional lenders undervalue or overlook. 
--  Heavy‑duty fleets and multi‑axle units. 
--  Temperature controlled vehicles and cold‑chain modules. 
--  High‑capacity loading docks and terminals. 
--  Warehouse machinery and automation systems. 
--  Maritime adjacent support equipment, not vessels themselves.
+## Multi‑Modal Asset Types We Work With Pathmaker structures liquidity against several categories that traditional lenders undervalue or overlook.
+
+- Heavy‑duty fleets and multi‑axle units.
+
+- Temperature controlled vehicles and cold‑chain modules.
+
+- High‑capacity loading docks and terminals.
+
+- Warehouse machinery and automation systems.
+
+- Maritime adjacent support equipment, not vessels themselves.
 
 These assets are durable.
 
@@ -193,12 +198,17 @@ We focus on the integrity of the assets and the resilience of the model.
 
 We view temporary volatility as a condition to be priced, not a reason to reject the operator. 
 
-## The Pathmaker Approach: Mechanistic, Not Speculative Our methodology is simple. 
--  We measure asset integrity. 
--  We assess contract durability. 
--  We evaluate management discipline. 
--  We calculate timing friction. 
--  We deploy liquidity with principal authority.
+## The Pathmaker Approach: Mechanistic, Not Speculative Our methodology is simple.
+
+- We measure asset integrity.
+
+- We assess contract durability.
+
+- We evaluate management discipline.
+
+- We calculate timing friction.
+
+- We deploy liquidity with principal authority.
 
 This is the same approach used by elite private credit desks, adapted for the Nordic logistics environment.
 
@@ -216,14 +226,17 @@ It is a structural tool.
 
 They require an institution that treats liquidity as architecture, not as a product.
 
-Pathmaker serves this segment with three defining characteristics. 
--  principal authority.
+Pathmaker serves this segment with three defining characteristics.
 
-We enable capital flows without noise. 
--  Structural mechanics.
+- principal authority.
 
-We design liquidity frameworks that institutions later adopt. 
--  Asset backed discipline.
+We enable capital flows without noise.
+
+- Structural mechanics.
+
+We design liquidity frameworks that institutions later adopt.
+
+- Asset backed discipline.
 
 We lend against real value, not speculation.
 
@@ -231,9 +244,7 @@ HNWI and UHNW clients choose Pathmaker because we do not dilute their narrative.
 
 We strengthen their leverage. 
 
-## The Nordic Logistics Landscape in 20
-
-30 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
+## The Nordic Logistics Landscape in 2030 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
 
 Terminals will use higher density pallet systems.
 

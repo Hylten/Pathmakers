@@ -190,15 +190,15 @@ The principal truth stands: fatigue rises in environments where uncertainty comp
 
 Tactical Intelligence restores the ratio. 
 
-## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical section 
--  long-form technical breakdown) The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down.
+## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical section
+
+- long-form technical breakdown) The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down.
 
 Mandates are abundant; closable deals are scarce.
 
 The Analyst Team has studied over 
 
-40
-0 mid‑market pipelines in the last three cycles.
+400 mid‑market pipelines in the last three cycles.
 
 The structural patterns repeat with uncanny consistency.
 
@@ -260,8 +260,9 @@ The reconstructed data is structurally consistent with institutional buyer expec
 
 The buyer feels the difference immediately.
 
-Doctrine Two: Off-Market Signal Extraction We pull deals from proprietary networks, direct founder channels, succession environments, and industry ecosystems 
--  not the broker echo chamber.
+Doctrine Two: Off-Market Signal Extraction We pull deals from proprietary networks, direct founder channels, succession environments, and industry ecosystems
+
+- not the broker echo chamber.
 
 Off-market reduces noise.
 
@@ -303,15 +304,23 @@ Commitment is the beginning of the close.
 
 The modern environment demands architecture.
 
-The future mid‑market playbook is structural: 
--  Exit Readiness built before the first outreach 
--  Off-market origination built through intelligence networks 
--  Narrative clarity built through analytical reconstruction 
--  Buyer engagement driven by operational transparency 
--  Deal momentum engineered, not hoped for 
--  Founder psychology managed with precision, not optimism 
--  Decision pathways shortened through data integrity 
--  Fatigue eliminated at the root through pre‑alignment This is not theory.
+The future mid‑market playbook is structural:
+
+- Exit Readiness built before the first outreach
+
+- Off-market origination built through intelligence networks
+
+- Narrative clarity built through analytical reconstruction
+
+- Buyer engagement driven by operational transparency
+
+- Deal momentum engineered, not hoped for
+
+- Founder psychology managed with precision, not optimism
+
+- Decision pathways shortened through data integrity
+
+- Fatigue eliminated at the root through pre‑alignment This is not theory.
 
 This is the observed reality in the highest close‑rate environments in the mid‑market today.
 
@@ -323,8 +332,9 @@ Architecture multiplies them.
 
 ## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next step is to integrate institutional preparation.
 
-Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process 
--  a structural reinforcement rather than a substitute. 
+Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
+
+- a structural reinforcement rather than a substitute. 
 
 ## THE FINAL BRIEF Buyer fatigue is not a mood.
 

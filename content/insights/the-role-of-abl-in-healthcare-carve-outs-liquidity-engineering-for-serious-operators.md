@@ -48,8 +48,7 @@ Private credit lenders often require covenants that healthcare carve-out entitie
 
 90 to 
 
-18
-0 days.
+180 days.
 
 Asset-Based Lending complements private credit by absorbing the volatility.
 

@@ -100,10 +100,13 @@ If a business is not packaged cleanly-commercially, financially, operationally-t
 
 Friction costs kill deals.
 
-When founders assume the investigative burden before the buyer enters the room, three things happen simultaneously: 
--  Price discovery stabilizes. 
--  The buyer’s perceived risk collapses. 
--  The founder controls the narrative arc.
+When founders assume the investigative burden before the buyer enters the room, three things happen simultaneously:
+
+- Price discovery stabilizes.
+
+- The buyer’s perceived risk collapses.
+
+- The founder controls the narrative arc.
 
 Narrative control is not cosmetic.
 
@@ -133,12 +136,17 @@ This is not about beautifying numbers.
 
 It is about removing ambiguity.
 
-The seller must present: 
--  Normalized EBITDA free of founder distortions. 
--  A clear reconciliation between financial statements and management numbers. 
--  Working capital behavior that is predictable and seasonally mapped. 
--  Cohort‑based revenue analysis for recurring or repeating customers. 
--  A clean, forward‑looking model that mirrors how the business actually runs.
+The seller must present:
+
+- Normalized EBITDA free of founder distortions.
+
+- A clear reconciliation between financial statements and management numbers.
+
+- Working capital behavior that is predictable and seasonally mapped.
+
+- Cohort‑based revenue analysis for recurring or repeating customers.
+
+- A clean, forward‑looking model that mirrors how the business actually runs.
 
 This is not accounting.
 
@@ -168,12 +176,17 @@ Buyers do not fear imperfect operations.
 
 They fear undisclosed operations.
 
-The key is structured transparency: 
--  Org charts that map real decision‑making. 
--  Documented process flows for the core revenue engine. 
--  Systems maps for software, data, and reporting. 
--  Identified dependencies on key individuals-especially the founder. 
--  Pre‑defined handoff plans for Day‑
+The key is structured transparency:
+
+- Org charts that map real decision‑making.
+
+- Documented process flows for the core revenue engine.
+
+- Systems maps for software, data, and reporting.
+
+- Identified dependencies on key individuals-especially the founder.
+
+- Pre‑defined handoff plans for Day‑
 1 integration.
 
 When buyers can see the machinery, they stop imagining the worst.
@@ -198,12 +211,17 @@ PILLAR THREE: COMMERCIAL PREDICTABILITY Revenue without predictability is storyt
 
 Revenue with predictability is enterprise value.
 
-A proactive sell‑side program must reveal: 
--  Revenue segmentation by customer type, geography, and product line. 
--  Pipeline quality scored by probability and sales‑cycle length. 
--  Retention curves and expansion behavior of existing customers. 
--  Clear attribution for what is driving growth-market, product, or operations. 
--  Verified unit economics that survive scenario testing.
+A proactive sell‑side program must reveal:
+
+- Revenue segmentation by customer type, geography, and product line.
+
+- Pipeline quality scored by probability and sales‑cycle length.
+
+- Retention curves and expansion behavior of existing customers.
+
+- Clear attribution for what is driving growth-market, product, or operations.
+
+- Verified unit economics that survive scenario testing.
 
 The buyer wants to see what happens when the founder steps aside.
 
@@ -245,21 +263,29 @@ Not because the business is broken, but because the buyer must see the business 
 
 Proactive diligence is a signal: “We run this company with discipline.
 
-If you buy it, it will behave.” Signals drive valuation more than spreadsheets. 
--  
--  
--  OFF‑MARKET ORIGINATION: THE QUIET INSIDER’S GAME Here is the deeper truth-rarely spoken, but universally understood among institutional buyers.
+If you buy it, it will behave.” Signals drive valuation more than spreadsheets.
+
+- 
+
+- 
+
+- OFF‑MARKET ORIGINATION: THE QUIET INSIDER’S GAME Here is the deeper truth-rarely spoken, but universally understood among institutional buyers.
 
 The best deals never hit the market.
 
 The sellers who run proactive diligence programs attract inbound interest from acquisition groups scanning for companies that already look transactable.
 
-These buyers prefer founders who: 
--  Are operationally mature. 
--  Understand their numbers. 
--  Can speak at an institutional level. 
--  Reduce the buyer’s uncertainty. 
--  Avoid auction theater.
+These buyers prefer founders who:
+
+- Are operationally mature.
+
+- Understand their numbers.
+
+- Can speak at an institutional level.
+
+- Reduce the buyer’s uncertainty.
+
+- Avoid auction theater.
 
 Off‑market does not mean secret.
 
@@ -271,12 +297,17 @@ This is why proactive diligence is not merely a defensive tactic.
 
 It is an origination engine.
 
-When a buyer sees a company with: 
--  Clean financials 
--  Structured operations 
--  Predictable revenue 
--  Documented risk points 
--  Founder transition plans They move faster.
+When a buyer sees a company with:
+
+- Clean financials
+
+- Structured operations
+
+- Predictable revenue
+
+- Documented risk points
+
+- Founder transition plans They move faster.
 
 They price higher.
 
@@ -334,11 +365,15 @@ We work with those who want off‑market options, not auctions.
 
 We support founders who understand that readiness is a quiet, compounding advantage.
 
-Our role is simple: 
--  Remove friction 
--  Build exit readiness 
--  Create clarity 
--  Deliver the founder directly to sophisticated buyers The market responds to order.
+Our role is simple:
+
+- Remove friction
+
+- Build exit readiness
+
+- Create clarity
+
+- Deliver the founder directly to sophisticated buyers The market responds to order.
 
 We build the order.
 

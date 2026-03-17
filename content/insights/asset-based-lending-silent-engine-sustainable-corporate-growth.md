@@ -35,7 +35,9 @@ Controlled.
 Repeatable.
 
 A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
-*
+
+* 
+
 * ).
 
 Corporate architecture follows the same principle: build balance sheets that outlive cycles.
@@ -100,13 +102,19 @@ Hard assets create liquidity leverage.
 
 Asset‑based lending magnifies each of these effects.
 
-When structured properly, it becomes the backbone of: 
--  sustainable working capital 
--  opportunistic acquisition capital 
--  distressed‑asset absorption 
--  covenant‑light scaling 
--  exit readiness 
--  M&A friction removal Assets anchor enterprise value during turbulent cycles.
+When structured properly, it becomes the backbone of:
+
+- sustainable working capital
+
+- opportunistic acquisition capital
+
+- distressed‑asset absorption
+
+- covenant‑light scaling
+
+- exit readiness
+
+- M&A friction removal Assets anchor enterprise value during turbulent cycles.
 
 They also raise the floor price at exit.
 
@@ -216,12 +224,17 @@ It understands the liquidity profile of rigs, of midstream equipment, of downhol
 
 It understands that these assets are not liabilities but monetisable strategic value.
 
-Asset‑based lending becomes an operational stabiliser for oil and gas operators, enabling: 
--  drilling program expansion 
--  acquisitions of distressed leaseholds 
--  equipment fleet upgrades 
--  liquidity bridging between production cycles 
--  debt refinancing at structurally lower cost These companies move from reactive liquidity to proactive capital architecture.
+Asset‑based lending becomes an operational stabiliser for oil and gas operators, enabling:
+
+- drilling program expansion
+
+- acquisitions of distressed leaseholds
+
+- equipment fleet upgrades
+
+- liquidity bridging between production cycles
+
+- debt refinancing at structurally lower cost These companies move from reactive liquidity to proactive capital architecture.
 
 They become buyers when competitors hesitate.
 
@@ -295,12 +308,17 @@ THE STRATEGIC ROLE OF FUND‑III LEVEL CAPITAL Fund‑III capital providers oper
 
 This gives mid‑market companies access to institutional‑grade financing previously unavailable without dilution.
 
-Fund‑III lenders operate with: 
--  faster underwriting cycles 
--  technical asset valuation expertise 
--  tolerance for operational volatility 
--  field‑level inspection capabilities 
--  liquidation modeling that banks cannot replicate This creates a more accurate understanding of enterprise value.
+Fund‑III lenders operate with:
+
+- faster underwriting cycles
+
+- technical asset valuation expertise
+
+- tolerance for operational volatility
+
+- field‑level inspection capabilities
+
+- liquidation modeling that banks cannot replicate This creates a more accurate understanding of enterprise value.
 
 It also allows companies to finance assets at levels that reflect their real economic productivity, not conservative bank assumptions.
 

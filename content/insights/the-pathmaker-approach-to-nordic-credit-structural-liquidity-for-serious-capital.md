@@ -32,12 +32,13 @@ This article breaks down the Pathmaker approach, explains why our model works in
 
 There is nothing romantic here.
 
-Only what works. 
--  
--  
--  
+Only what works.
 
-## principal authority: The F Hierarchical Dynamics Pathmaker maintains what we call principal authority.
+- 
+
+- 
+
+- ## principal authority: The F Hierarchical Dynamics Pathmaker maintains what we call principal authority.
 
 This is not branding.
 
@@ -65,12 +66,13 @@ It is the difference between looking credible and being credible.
 
 Pathmaker does not chase visibility.
 
-We quietly deliver the architecture that moves real capital. 
--  
--  
--  
+We quietly deliver the architecture that moves real capital.
 
-## Why HNWI and UHNW Clients Choose Pathmaker Sophisticated investors choose Pathmaker for three reasons.
+- 
+
+- 
+
+- ## Why HNWI and UHNW Clients Choose Pathmaker Sophisticated investors choose Pathmaker for three reasons.
 
 First, our approach is collateral driven.
 
@@ -88,12 +90,13 @@ HNWI and UHNW clients do not need noise.
 
 They need results that scale and withstand scrutiny.
 
-This is our operating standard. 
--  
--  
--  
+This is our operating standard.
 
-## A Nordic Credit Partner Built for Execution The Nordic credit landscape will continue to evolve, but one principle will remain constant.
+- 
+
+- 
+
+- ## A Nordic Credit Partner Built for Execution The Nordic credit landscape will continue to evolve, but one principle will remain constant.
 
 Liquidity belongs to those who can execute.
 

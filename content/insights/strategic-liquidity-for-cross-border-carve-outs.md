@@ -279,9 +279,9 @@ We understand the need for structural support that does not interfere with the d
 HNWI and UHNW investors deserve a capital partner that works at their level of precision, speed, and discipline.
 
 This is the framework we provide. **Book a strategic consultation
-*
-*
 
-Access is restricted to approved mandates.
+* 
+
+* Access is restricted to approved mandates.
 
 Minimum target size: $5M+.

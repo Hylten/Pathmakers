@@ -79,6 +79,7 @@ Only what moves a deal. --.
 THE CORE PREMISE Exit readiness equals pre-negotiated risk mitigation.
 
 Nothing else produces durable leverage with buyers. *Machine-gun clarity:
+
 * Define risk early.
 
 Neutralize it quietly.
@@ -97,9 +98,11 @@ Speed commands premium.
 
 Premium commands respect.
 
-Buyers pay for structural certainty, not stories. , 
--  
--  THE THREE DOMAINS OF RISK MITIGATION THAT DETERMINE VALUATION Every mid-market transaction, every diligence sweep, every integration model ultimately collapses into three domains: 
+Buyers pay for structural certainty, not stories. ,
+
+- 
+
+- THE THREE DOMAINS OF RISK MITIGATION THAT DETERMINE VALUATION Every mid-market transaction, every diligence sweep, every integration model ultimately collapses into three domains: 
 
 1.
 
@@ -121,12 +124,13 @@ Remove the downside.
 
 The upside becomes inevitable.
 
-Let’s dissect these three domains in full tactical detail. 
--  
--  
--  
+Let’s dissect these three domains in full tactical detail.
 
-1.
+- 
+
+- 
+
+- 1.
 
 OPERATIONAL RISK Operational risk is rarely a mystery; it is usually a lack of discipline.
 
@@ -136,15 +140,23 @@ The seller sees the same gaps but has learned to tolerate them.
 
 Pathmaker breaks tolerance.
 
-The lens: 
--  Documented SOPs across mission-critical workflows 
--  Contractual clarity with suppliers and partners 
--  Encoded pricing discipline 
--  Identifiable throughput constraints 
--  Compliance posture with real teeth 
--  Reliability of forward demand signals 
--  Supply chain redundancy mapped in cold detail 
--  Embedded operational KPIs with real lineage The buyer must see an operator that can scale without reinvention.
+The lens:
+
+- Documented SOPs across mission-critical workflows
+
+- Contractual clarity with suppliers and partners
+
+- Encoded pricing discipline
+
+- Identifiable throughput constraints
+
+- Compliance posture with real teeth
+
+- Reliability of forward demand signals
+
+- Supply chain redundancy mapped in cold detail
+
+- Embedded operational KPIs with real lineage The buyer must see an operator that can scale without reinvention.
 
 If the acquirer smells improvisation, valuation suffers and integration becomes a liability.
 
@@ -168,17 +180,27 @@ Mid-market diligence teams are not looking for arithmetic errors; they are looki
 
 The true battleground is credibility.
 
-Pathmaker’s financial readiness program centers on: 
--  Multi-year financial normalization 
--  Removal of owner-operator noise 
--  Segment-level margin clarity 
--  Contract-level revenue durability 
--  Clean revenue recognition models 
--  Predictable COGS behavior 
--  Identifiable working capital cadence 
--  No unexplained jumps in EBITDA 
--  A cash conversion cycle that makes sense 
--  Reconciled, mapped, and narrative-ready financial lineage The keyword: lineage.
+Pathmaker’s financial readiness program centers on:
+
+- Multi-year financial normalization
+
+- Removal of owner-operator noise
+
+- Segment-level margin clarity
+
+- Contract-level revenue durability
+
+- Clean revenue recognition models
+
+- Predictable COGS behavior
+
+- Identifiable working capital cadence
+
+- No unexplained jumps in EBITDA
+
+- A cash conversion cycle that makes sense
+
+- Reconciled, mapped, and narrative-ready financial lineage The keyword: lineage.
 
 If a firm cannot trace its numbers to first causes, it appears unsophisticated.
 
@@ -196,11 +218,15 @@ This is where sellers underestimate most.
 
 Continuity is the governance of “what happens if.” It is the assurance that the business survives transition without dilution of capability.
 
-There are four subdomains: 
--  Leadership continuity 
--  Customer continuity 
--  Supply continuity 
--  Operational continuity Each must be articulated.
+There are four subdomains:
+
+- Leadership continuity
+
+- Customer continuity
+
+- Supply continuity
+
+- Operational continuity Each must be articulated.
 
 Each must be reinforced.
 
@@ -210,8 +236,9 @@ Pathmaker deploys continuity architecture that makes the buyer comfortable takin
 
 The goal is to make transition look like succession, not disruption.
 
-Buyers will pay to avoid chaos. .. 
--  THE CRITICAL WEAPON: PRE-NEGOTIATED RISK MITIGATION This is the differentiator.
+Buyers will pay to avoid chaos. ..
+
+- THE CRITICAL WEAPON: PRE-NEGOTIATED RISK MITIGATION This is the differentiator.
 
 This is the edge.
 
@@ -249,14 +276,21 @@ We anticipate not just what the buyer will ask but the strategic intent behind t
 
 This is not generic prep; it is adversarial foresight.
 
-We evaluate: 
--  Which risks the buyer is likely to exaggerate 
--  Which categories of ambiguity they exploit for price reduction 
--  Where they will attempt to expand scope 
--  Which integration pressures will drive their urgency 
--  Where they are internally constrained and thus vulnerable 
--  Which deal breakers they pretend are preferences 
--  Which valuation levers they never reveal Once we map the buyer’s probable narrative, we pre-empt it.
+We evaluate:
+
+- Which risks the buyer is likely to exaggerate
+
+- Which categories of ambiguity they exploit for price reduction
+
+- Where they will attempt to expand scope
+
+- Which integration pressures will drive their urgency
+
+- Where they are internally constrained and thus vulnerable
+
+- Which deal breakers they pretend are preferences
+
+- Which valuation levers they never reveal Once we map the buyer’s probable narrative, we pre-empt it.
 
 This is how we ensure that even aggressive acquirers cannot weaponize ambiguity.
 
@@ -303,7 +337,8 @@ Momentum compounds.
 This is why many firms Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  THE TRANSITION FROM OPERATOR TO ASSET A business becomes an asset the moment risk ceases to define its identity.
+
+- THE TRANSITION FROM OPERATOR TO ASSET A business becomes an asset the moment risk ceases to define its identity.
 
 Buyers do not purchase personalities.
 
@@ -313,19 +348,25 @@ They purchase patterns.
 
 They purchase predictability.
 
-Once risk mitigation is embedded: 
--  Diligence accelerates 
--  Integration simplifies 
--  Earnouts shrink 
--  Warrants disappear 
--  Closing certainty rises The buyer’s counsel stops hunting.
+Once risk mitigation is embedded:
+
+- Diligence accelerates
+
+- Integration simplifies
+
+- Earnouts shrink
+
+- Warrants disappear
+
+- Closing certainty rises The buyer’s counsel stops hunting.
 
 The buyer’s board approves with less friction.
 
 The buyer’s financing partners see a stable target.
 
-Everything moves. .. 
--  THE PATHMAKER THESIS Prepare early.
+Everything moves. ..
+
+- THE PATHMAKER THESIS Prepare early.
 
 Refine continuously.
 

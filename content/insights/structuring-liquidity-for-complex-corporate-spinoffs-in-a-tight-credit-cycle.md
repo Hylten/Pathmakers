@@ -34,12 +34,17 @@ AR quality decays faster than anyone admits.
 
 Compliance adds friction to every transaction.
 
-During a carve‑out, typical pressure points include: 
--  Reprocessing claims under new entity IDs 
--  Payer contracts requiring renegotiation 
--  Coding backlogs created by staffing gaps 
--  Cash flow troughs during billing transitions 
--  Legacy liabilities that courts or counterparties attempt to reassign Many operators believe they can manage these internally.
+During a carve‑out, typical pressure points include:
+
+- Reprocessing claims under new entity IDs
+
+- Payer contracts requiring renegotiation
+
+- Coding backlogs created by staffing gaps
+
+- Cash flow troughs during billing transitions
+
+- Legacy liabilities that courts or counterparties attempt to reassign Many operators believe they can manage these internally.
 
 Some can.
 
@@ -53,10 +58,13 @@ If liquidity arrives before operational disruption, the spinoff stabilizes.
 
 If it arrives after, the operator spends the next twelve months in defensive mode.
 
-Proper sequencing requires liquidity that is: 
--  Available before asset schedules fully finalize 
--  Deployable even when financials are partially reconciled 
--  Structured around transitional volatility rather than penalizing it This is the advantage of private credit combined with Asset-Based Lending.
+Proper sequencing requires liquidity that is:
+
+- Available before asset schedules fully finalize
+
+- Deployable even when financials are partially reconciled
+
+- Structured around transitional volatility rather than penalizing it This is the advantage of private credit combined with Asset-Based Lending.
 
 We can structure against imperfect information as long as the asset base and risk profile are fundamentally real. 
 
@@ -84,17 +92,26 @@ This is essential when timing is sensitive and external visibility must remain c
 
 They are predictable.
 
-They are preventable. 
--  **Underestimating cash flow disruption
-*
+They are preventable.
+
+- **Underestimating cash flow disruption
+
+* 
+
 * Executives model accounts receivable as if payer behavior remains unchanged.
 
-It never does. 
--  **Delaying liquidity until after the carve‑out
-*
-* By the time the new entity begins billing, the liquidity window has already tightened. 
--  **Using capital structures that cannot flex
-*
+It never does.
+
+- **Delaying liquidity until after the carve‑out
+
+* 
+
+* By the time the new entity begins billing, the liquidity window has already tightened.
+
+- **Using capital structures that cannot flex
+
+* 
+
 * A single lender with rigid requirements will stall the spinoff the moment variables shift.
 
 Pathmaker structures liquidity intentionally to avoid all three. 
@@ -123,12 +140,17 @@ They are methodical.
 
 They involve assessing asset mobility, transferability, enforceability, and liquidity velocity under stress.
 
-We examine: 
--  Transition service agreement (TSA) exposure 
--  Collateral schedules and perfection timelines 
--  AR quality and payer concentration 
--  Legacy liabilities attaching to the wrong entity 
--  Covenant headroom under transitional volatility The unifying goal is simple.
+We examine:
+
+- Transition service agreement (TSA) exposure
+
+- Collateral schedules and perfection timelines
+
+- AR quality and payer concentration
+
+- Legacy liabilities attaching to the wrong entity
+
+- Covenant headroom under transitional volatility The unifying goal is simple.
 
 Keep the spinoff liquid until operations stabilize. 
 

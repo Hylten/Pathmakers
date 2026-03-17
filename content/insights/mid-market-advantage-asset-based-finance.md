@@ -62,36 +62,51 @@ Four core mechanics define institutional-grade ABF.
 
 1.
 
-Collateral Physics The strongest mid-market assets share a consistent profile. 
--  Slow depreciation curves 
--  Recoverable secondary-market values 
--  Clear chain of ownership 
--  Quantifiable liquidation timelines These enable underwriting based on deterministic value, not probabilistic cash flow prediction. 
+Collateral Physics The strongest mid-market assets share a consistent profile.
+
+- Slow depreciation curves
+
+- Recoverable secondary-market values
+
+- Clear chain of ownership
+
+- Quantifiable liquidation timelines These enable underwriting based on deterministic value, not probabilistic cash flow prediction. 
 
 2.
 
-Cash Flow Sovereignty Institutional ABF prioritizes control over revenue capture through: 
--  Locked-box collection systems 
--  Intercept structures 
--  Controlled disbursement accounts 
--  Real-time reconciliation cycles This architecture ensures that operating volatility does not compromise repayment reliability. 
+Cash Flow Sovereignty Institutional ABF prioritizes control over revenue capture through:
+
+- Locked-box collection systems
+
+- Intercept structures
+
+- Controlled disbursement accounts
+
+- Real-time reconciliation cycles This architecture ensures that operating volatility does not compromise repayment reliability. 
 
 3.
 
-Multi-Asset Cross Collateralization The compression of borrower risk is achieved through asset pooling. 
--  Machinery and equipment 
--  Inventory 
--  Receivables 
--  Contracted future revenue Cross collateralization reduces the sensitivity of the facility to individual asset impairment.
+Multi-Asset Cross Collateralization The compression of borrower risk is achieved through asset pooling.
+
+- Machinery and equipment
+
+- Inventory
+
+- Receivables
+
+- Contracted future revenue Cross collateralization reduces the sensitivity of the facility to individual asset impairment.
 
 It stabilizes the LTV curve and strengthens credit performance without raising interest rates or imposing constrictive covenants. 
 
 4.
 
-Institutional Waterfall Engineering A correct waterfall design creates transparency for all stakeholders. 
--  Priority: senior secured repayment 
--  Secondary: reinvestment triggers 
--  Final tier: residual value extraction This removes ambiguity, accelerates decision-making, and shortens exit timelines.
+Institutional Waterfall Engineering A correct waterfall design creates transparency for all stakeholders.
+
+- Priority: senior secured repayment
+
+- Secondary: reinvestment triggers
+
+- Final tier: residual value extraction This removes ambiguity, accelerates decision-making, and shortens exit timelines.
 
 The technical edge is created by structuring capital around assets the operator already understands intuitively, while recoding that understanding into institutional language.
 
@@ -101,13 +116,19 @@ This reduces friction in future audits, M&A exits, or lender transitions.
 
 They fail due to poor documentation, inconsistent financial architecture, and the absence of an institutional-grade control environment.
 
-Exit readiness is engineered through: 
--  Harmonized financial statements 
--  Data room continuity 
--  Clean asset registers 
--  Contract normalization 
--  Corporate governance calibration 
--  Debt schedule rationalization This allows the enterprise to become legible to private equity buyers, institutional lenders, and strategic acquirers.
+Exit readiness is engineered through:
+
+- Harmonized financial statements
+
+- Data room continuity
+
+- Clean asset registers
+
+- Contract normalization
+
+- Corporate governance calibration
+
+- Debt schedule rationalization This allows the enterprise to become legible to private equity buyers, institutional lenders, and strategic acquirers.
 
 Legibility reduces the discount rate applied during purchase price negotiation.
 
@@ -188,26 +209,36 @@ The partnership model reduces execution risk by eliminating the inconsistencies 
 It is a capital discipline rooted in non-wasteful resource management.
 
 As stated in **Proverbs 13:22
-*
+
+* 
+
 * , stewardship is generational and structural, not transactional.
 
 The mid-market suffers from two forms of capital waste. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
 1.
 
-Operational Waste 
--  Inefficient equipment financing 
--  Under-utilized collateral 
--  Cash conversion delays 
--  Redundant legacy credit facilities 
+Operational Waste
+
+- Inefficient equipment financing
+
+- Under-utilized collateral
+
+- Cash conversion delays
+
+- Redundant legacy credit facilities 
 
 2.
 
-Strategic Waste 
--  Delayed succession planning 
--  Failed M&A processes 
--  Incomplete corporate governance 
--  Fragmented lender relationships A stewardship framework removes these inefficiencies.
+Strategic Waste
+
+- Delayed succession planning
+
+- Failed M&A processes
+
+- Incomplete corporate governance
+
+- Fragmented lender relationships A stewardship framework removes these inefficiencies.
 
 It ensures that capital flows along rational lines, that assets are utilized at their full productive value, and that the enterprise transitions smoothly across ownership cycles.
 

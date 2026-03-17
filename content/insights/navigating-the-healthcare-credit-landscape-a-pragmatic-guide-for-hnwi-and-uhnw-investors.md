@@ -130,11 +130,15 @@ Your deployment size does not fit retail frameworks, and institutional partners 
 
 Pathmaker exists to solve this exact problem.
 
-Our facilities give you: 
--  The agility to move faster than traditional healthcare lenders. 
--  The ability to lever existing positions for new acquisitions. 
--  A shield against operational volatility in early ownership. 
--  Institutional mechanics without institutional drag.
+Our facilities give you:
+
+- The agility to move faster than traditional healthcare lenders.
+
+- The ability to lever existing positions for new acquisitions.
+
+- A shield against operational volatility in early ownership.
+
+- Institutional mechanics without institutional drag.
 
 The result is direct.
 

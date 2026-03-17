@@ -47,11 +47,7 @@ This creates a vacuum where operational excellence exists but transaction readin
 
 3.
 
-The healthcare labor market has stabilized relative to 20
-
-21 to 20
-
-23 volatility, yet operators remain overleveraged with short duration debt taken during higher interest cycles.
+The healthcare labor market has stabilized relative to 2021 to 2023 volatility, yet operators remain overleveraged with short duration debt taken during higher interest cycles.
 
 This limits acquisition readiness even when targets become available. 
 
@@ -87,12 +83,17 @@ Expansion is limited not by demand but by the interplay between operational matu
 
 1.
 
-Monetization Architecture in Healthcare Healthcare operators require long-duration, compliance stable liquidity that can support: 
--  clinical workforce expansion 
--  regulatory modernization 
--  acquisition integration 
--  digital infrastructure upgrades 
--  real estate rationalization Conventional debt structures were not designed for these needs.
+Monetization Architecture in Healthcare Healthcare operators require long-duration, compliance stable liquidity that can support:
+
+- clinical workforce expansion
+
+- regulatory modernization
+
+- acquisition integration
+
+- digital infrastructure upgrades
+
+- real estate rationalization Conventional debt structures were not designed for these needs.
 
 Most mid-market operators are carrying short tenor, high covenant, amortizing debt packages that absorb free cash flow and reduce acquisition optionality.
 
@@ -100,27 +101,41 @@ Capital Structuring for this sector requires recalibrating debt duration, collat
 
 2.
 
-Balance Sheet Optimization Several structural inefficiencies are common: 
--  heavy operational debt on short-term facilities 
--  underleveraged hard assets such as medical equipment or freehold property 
--  fragmented credit relationships across jurisdictions 
--  inconsistent reporting frameworks that reduce institutional credibility 
--  elevated working capital cycles caused by reimbursement timing Optimization focuses on: 
--  restructuring liabilities around care delivery predictability 
--  syndicating credit exposure to align with cross-border expansion 
--  recalibrating debt maturities to extend operational runway 
--  shifting collateral weighting toward stabilized assets This creates a balance sheet that can support both expansion and exit readiness. 
+Balance Sheet Optimization Several structural inefficiencies are common:
+
+- heavy operational debt on short-term facilities
+
+- underleveraged hard assets such as medical equipment or freehold property
+
+- fragmented credit relationships across jurisdictions
+
+- inconsistent reporting frameworks that reduce institutional credibility
+
+- elevated working capital cycles caused by reimbursement timing Optimization focuses on:
+
+- restructuring liabilities around care delivery predictability
+
+- syndicating credit exposure to align with cross-border expansion
+
+- recalibrating debt maturities to extend operational runway
+
+- shifting collateral weighting toward stabilized assets This creates a balance sheet that can support both expansion and exit readiness. 
 
 3.
 
 Asset Hardening Mid-market healthcare operations often possess intangible strength that is not reflected in transactional valuations.
 
-Asset hardening involves converting operational excellence into institutional-grade value through: 
--  clinical protocol standardization 
--  revenue stream stratification 
--  regulatory audit readiness 
--  cross-site consistency mapping 
--  cash flow indexing across service lines Institutional buyers value predictability.
+Asset hardening involves converting operational excellence into institutional-grade value through:
+
+- clinical protocol standardization
+
+- revenue stream stratification
+
+- regulatory audit readiness
+
+- cross-site consistency mapping
+
+- cash flow indexing across service lines Institutional buyers value predictability.
 
 Asset hardening transforms a multi clinic operator into a scalable platform with clear integration pathways. 
 
@@ -132,11 +147,15 @@ Operators locked into inflexible capital structures cannot respond.
 
 Opportunity velocity is the operator’s ability to engage, evaluate, and transact rapidly when off-market acquisition windows open.
 
-This requires: 
--  preconfigured diligence documentation 
--  preapproved lending capacity 
--  cross-border compliance frameworks 
--  integration-ready operational models Without this architecture, operators lose the most attractive deals to better prepared consolidators. 
+This requires:
+
+- preconfigured diligence documentation
+
+- preapproved lending capacity
+
+- cross-border compliance frameworks
+
+- integration-ready operational models Without this architecture, operators lose the most attractive deals to better prepared consolidators. 
 
 5.
 
@@ -144,13 +163,19 @@ Exit Readiness Exit readiness in healthcare is not a cosmetic exercise.
 
 It is a structural discipline.
 
-It requires: 
--  EBITDA normalization 
--  regulatory alignment 
--  contractual mapping across clinical staff 
--  payer mix stability 
--  consolidated reporting 
--  removal of idiosyncratic risk from founder operators Most operators underestimate the time required to reach institutional exit readiness.
+It requires:
+
+- EBITDA normalization
+
+- regulatory alignment
+
+- contractual mapping across clinical staff
+
+- payer mix stability
+
+- consolidated reporting
+
+- removal of idiosyncratic risk from founder operators Most operators underestimate the time required to reach institutional exit readiness.
 
 The real challenge is not valuation negotiation.
 
@@ -160,12 +185,17 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and insti
 
 The objective is not transaction execution but ensuring the capital structure, operational architecture, and strategic positioning are aligned before any transaction is considered.
 
-Our role focuses on: 
--  identifying structural liquidity gaps 
--  mapping institutional counterparty alignment 
--  engineering capital stack recalibration 
--  preparing operators for cross-border M&A navigation 
--  facilitating introductions to private credit groups, family offices, or strategic consolidators This model eliminates friction.
+Our role focuses on:
+
+- identifying structural liquidity gaps
+
+- mapping institutional counterparty alignment
+
+- engineering capital stack recalibration
+
+- preparing operators for cross-border M&A navigation
+
+- facilitating introductions to private credit groups, family offices, or strategic consolidators This model eliminates friction.
 
 Operators avoid mismatched lenders or acquirers.
 
@@ -199,12 +229,18 @@ Stewardship eliminates vanity projects and channels resources into high utility 
 
 Governance Discipline Institutional buyers will not engage with operators who lack governance clarity.
 
-Stewardship requires: 
--  board level structure 
--  financial controls 
--  clinical compliance oversight 
--  transparent audit trails **Proverbs 13:22
-*
+Stewardship requires:
+
+- board level structure
+
+- financial controls
+
+- clinical compliance oversight
+
+- transparent audit trails **Proverbs 13:22
+
+* 
+
 * reinforces the multi generational mindset required for healthcare stewardship. 
 
 3.

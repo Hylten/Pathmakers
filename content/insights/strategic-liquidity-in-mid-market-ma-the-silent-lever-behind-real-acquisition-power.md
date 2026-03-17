@@ -30,8 +30,7 @@ In the mid‑market, especially in healthcare carve outs, the investor who contr
 
 ## Crypto Capital Structuring Minimum threshold: 2,000,
 
-00
-0 USD.
+000 USD.
 
 This is not retail Capital Structuring.
 
@@ -41,8 +40,7 @@ It is structural, and it is for investors who understand the value of turning a 
 
 ## Public Share Capital Structuring Minimum threshold: 5,000,
 
-00
-0 USD.
+000 USD.
 
 This enables sophisticated holders of public equities to transform market value into strategic M&A liquidity without triggering premature dispositions.
 

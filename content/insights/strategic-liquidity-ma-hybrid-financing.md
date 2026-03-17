@@ -55,7 +55,9 @@ The objective is capital leverage.
 Precision liquidity.
 
 Engineered to move the deal, protect the acquirer, and strengthen the exit vector. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children's children.
 
 The institutional parallel: build capital structures that endure beyond the transaction.
@@ -95,14 +97,12 @@ Not complexity-architecture.
 1.
 
 The liquidity gap Banks fund 50
--
 
-65 percent.
+- 65 percent.
 
 Equity investors demand 20
--
 
-40 percent.
+- 40 percent.
 
 The remaining tranche-the silent gap-kills most deals. 
 
@@ -148,15 +148,19 @@ It offers muscle without dilution.
 
 Flexibility without governance intrusion.
 
-Speed without risk escalation. 
--  Non‑dilutive 
--  Covenants engineered, not inherited 
--  Amortization aligned with cashflow peaks 
--  Rapid deployability (14
--
+Speed without risk escalation.
 
-28 days) 
--  Survivability under macro stress Banks move slowly.
+- Non‑dilutive
+
+- Covenants engineered, not inherited
+
+- Amortization aligned with cashflow peaks
+
+- Rapid deployability (14
+
+- 28 days)
+
+- Survivability under macro stress Banks move slowly.
 
 Equity moves expensively.
 
@@ -176,13 +180,17 @@ Senior or unitranche.
 
 Built for acquirers requiring scale.
 
-Characteristics: 
--  8,
+Characteristics:
 
-14 percent cost of capital 
--  High structural control 
--  Predictable underwriting framework 
--  Performs well in asset-backed environments Use-case: First acquisition or bolt-on consolidation where speed, simplicity, and certainty outrank optimization.
+- 8,
+
+14 percent cost of capital
+
+- High structural control
+
+- Predictable underwriting framework
+
+- Performs well in asset-backed environments Use-case: First acquisition or bolt-on consolidation where speed, simplicity, and certainty outrank optimization.
 
 Model B: Revenue‑Secured Liquidity Cashflow engine.
 
@@ -192,10 +200,13 @@ Efficient.
 
 Minimal collateral friction.
 
-Characteristics: 
--  Amortization tied to revenue slope 
--  No board seat 
--  No equity leakage Use-case: Acquirers wanting to avoid hard security packages while preserving covenant lightness.
+Characteristics:
+
+- Amortization tied to revenue slope
+
+- No board seat
+
+- No equity leakage Use-case: Acquirers wanting to avoid hard security packages while preserving covenant lightness.
 
 Model C: Asset‑Hardened Tranches Infra-grade discipline.
 
@@ -207,10 +218,13 @@ Transport.
 
 Power.
 
-Characteristics: 
--  Structurally insulated 
--  Borrowing base expansion optional 
--  Ideal for Fund-III level consolidation Use-case: Multi-asset operators needing cyclical shock absorption.
+Characteristics:
+
+- Structurally insulated
+
+- Borrowing base expansion optional
+
+- Ideal for Fund-III level consolidation Use-case: Multi-asset operators needing cyclical shock absorption.
 
 Hybrid deployments combine these.
 
@@ -330,10 +344,13 @@ Tension raises price.
 
 Exit readiness is not cosmetic.
 
-It is structural warfare. 
--  
--  
--  OFF-MARKET DEAL ORIGINATION: THE PATHMAKER ADVANTAGE Off‑market deals are not found.
+It is structural warfare.
+
+- 
+
+- 
+
+- OFF-MARKET DEAL ORIGINATION: THE PATHMAKER ADVANTAGE Off‑market deals are not found.
 
 They are constructed.
 
@@ -471,25 +488,39 @@ Short sentences.
 
 Fast movement. 
 
-## THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language: 
--  Unitranche facilities 
--  Mezzanine credit 
--  Revenue-backed tranches 
--  Asset-backed lines 
--  Covenant-light structures 
--  Contingent acquisition bridges 
--  Seller liquidity enhancers 
--  Earn‑out finance modules 
--  Cross‑border liquidity blocks 
--  Working capital overlays 
--  Integration finance tranches Each tool addresses a different friction point.
+## THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language:
+
+- Unitranche facilities
+
+- Mezzanine credit
+
+- Revenue-backed tranches
+
+- Asset-backed lines
+
+- Covenant-light structures
+
+- Contingent acquisition bridges
+
+- Seller liquidity enhancers
+
+- Earn‑out finance modules
+
+- Cross‑border liquidity blocks
+
+- Working capital overlays
+
+- Integration finance tranches Each tool addresses a different friction point.
 
 The power lies not in the tool but in the combination.
 
-Architecture beats instrument. 
--  
--  
--  BUY-SIDE APPLICATIONS Buyers deploy hybrid financing for five dominant scenarios: 
+Architecture beats instrument.
+
+- 
+
+- 
+
+- BUY-SIDE APPLICATIONS Buyers deploy hybrid financing for five dominant scenarios: 
 
 1.
 
@@ -515,12 +546,17 @@ Integration Liquidity Post-close performance rises when integration is funded.
 
 Hybrid financing turns buyers into power buyers. 
 
-## SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits: 
--  Strip risk from buyer 
--  Reduce LOI drop-off 
--  Increase buyer pool 
--  Strengthen negotiation position 
--  Create predictable closing pathway Hybrid-backed buyers close.
+## SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits:
+
+- Strip risk from buyer
+
+- Reduce LOI drop-off
+
+- Increase buyer pool
+
+- Strengthen negotiation position
+
+- Create predictable closing pathway Hybrid-backed buyers close.
 
 That is the seller’s priority. 
 

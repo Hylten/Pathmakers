@@ -10,9 +10,7 @@ The capital vacuum within cross-border corporate carve-outs does not originate f
 
 The inefficiency is created by structural asymmetry between transactional velocity and the liquidity constraints of the sellers themselves.
 
-In the 20
-
-26 environment, exit friction is primarily an operational problem rather than a demand problem.
+In the 2026 environment, exit friction is primarily an operational problem rather than a demand problem.
 
 The acquirers exist.
 
@@ -26,7 +24,7 @@ The objective is friction removal, disentanglement, and balance sheet stabilizat
 
 This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -64,7 +62,7 @@ Without liquidity engineering, otherwise qualified transactions fail to reach de
 
 This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -106,14 +104,13 @@ This includes inventory buffers, procurement restructuring, contract novation su
 
 Without this, even fundamentally strong divisions can collapse during the first 
 
-12
-0 days post-close.
+120 days post-close.
 
 Cross-Border Compliance Synchronization Each jurisdiction introduces its own capital controls, tax leakage risks, and operational disclosure requirements.
 
 Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this landscape.
 
@@ -155,25 +152,31 @@ It is the systemic hardening of the division so that the buyer can assume operat
 
 Roials Capital provides the architecture for this positioning.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
 
 It is the application of **Proverbs 13:22
-*
+
+* 
+
 * to commercial strategy: the preservation and orderly transfer of productive assets across generational or structural boundaries.
 
 Cross-border carve-outs test stewardship because misaligned separation creates waste: workforce disruption, supply chain breakdown, operational redundancies, and capital impairment.
 
 Properly engineered liquidity avoids these outcomes by ensuring that the asset transitions in an orderly and sustainable manner.
 
-Stewardship within the Roials framework includes: 
--  Avoidance of capital destruction during separation 
--  Preservation of operational continuity 
--  Ethical handling of workforce and transitional obligations 
--  Transparent alignment between seller, liquidity provider, and acquirer 
+Stewardship within the Roials framework includes:
 
-Phase V: .
+- Avoidance of capital destruction during separation
+
+- Preservation of operational continuity
+
+- Ethical handling of workforce and transitional obligations
+
+- Transparent alignment between seller, liquidity provider, and acquirer 
+
+### Phase V: .
 
 THE DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating carve-out liquidity or cross-border divestiture strategies benefit from a structured lens based on four core assessments.
 

@@ -20,9 +20,7 @@ The result is a widening execution gap where assets trade off market to parties 
 
 ## THE REGIME SHIFT
 
- The M&A environment entering 20
-
-26 is defined by three overlapping pressures that disproportionately affect family owned companies, founder led enterprises, and niche industrial operators.
+ The M&A environment entering 2026 is defined by three overlapping pressures that disproportionately affect family owned companies, founder led enterprises, and niche industrial operators.
 
 First pressure: Regulatory timing.
 
@@ -82,18 +80,21 @@ This approach compresses decision timelines because due diligence aligns directl
 
 2.
 
-Loan to Value Architecture The LTV curve is calibrated based on asset volatility, liquidation depth, and operational transferability. 
--  Receivables typically range from 
+Loan to Value Architecture The LTV curve is calibrated based on asset volatility, liquidation depth, and operational transferability.
+
+- Receivables typically range from 
 
 70 to 
 
-90 percent. 
--  Inventory from 
+90 percent.
+
+- Inventory from 
 
 40 to 
 
-65 percent depending on fungibility. 
--  Machinery and equipment from 
+65 percent depending on fungibility.
+
+- Machinery and equipment from 
 
 40 to 
 
@@ -216,7 +217,9 @@ It applies directly to liquidity governance and transaction execution.
 The purpose is not acceleration for its own sake.
 
 It is precision. **Proverbs 13:22
-*
+
+* 
+
 * outlines the generational perspective that underpins responsible capital architecture.
 
 Liquidity used with discipline extends operational continuity.

@@ -54,21 +54,29 @@ They are the ones with the most resilient capital architecture.
 
 ## Strategic Asset-Based Lending for Carve Outs Carve outs in healthcare logistics are a specialized battlefield.
 
-A division being carved out rarely comes with: 
--  Clean financials. 
--  Optimized procurement. 
--  A stable receivables environment. 
--  A coherent asset register.
+A division being carved out rarely comes with:
+
+- Clean financials.
+
+- Optimized procurement.
+
+- A stable receivables environment.
+
+- A coherent asset register.
 
 You inherit everything the parent company tolerated.
 
 Without the right liquidity structure on day one, the carve out bleeds cash before integration begins.
 
-Strategic Asset-Based Lending solves this by: 
--  Providing liquidity against imperfect assets. 
--  Stabilizing operations immediately post close. 
--  Reducing dependency on parent transition services. 
--  Funding early operational repair before the acquisition model falls apart.
+Strategic Asset-Based Lending solves this by:
+
+- Providing liquidity against imperfect assets.
+
+- Stabilizing operations immediately post close.
+
+- Reducing dependency on parent transition services.
+
+- Funding early operational repair before the acquisition model falls apart.
 
 Most carve outs fail because the operator underestimated the liquidity burn required to regain equilibrium.
 
@@ -88,11 +96,15 @@ They do not need advisors shouting strategy from conference rooms.
 
 What they need is capital that behaves correctly.
 
-principal authority manifests in: 
--  Structures that institutional committees respect. 
--  Liquidity that arrives when operations demand it. 
--  Collateral logic that reflects real world asset behavior. 
--  Capital layers that expand optionality instead of constraining it.
+principal authority manifests in:
+
+- Structures that institutional committees respect.
+
+- Liquidity that arrives when operations demand it.
+
+- Collateral logic that reflects real world asset behavior.
+
+- Capital layers that expand optionality instead of constraining it.
 
 We do not brand ourselves as saviors.
 
@@ -106,10 +118,13 @@ We ensure the architecture beneath them is engineered to withstand real pressure
 
 The operators with liquidity precision will dominate the next decade.
 
-Precision means: 
--  Liquidity on demand. 
--  Liquidity tied to asset behavior. 
--  Liquidity that flexes with volatility.
+Precision means:
+
+- Liquidity on demand.
+
+- Liquidity tied to asset behavior.
+
+- Liquidity that flexes with volatility.
 
 This precision keeps operators acquisition ready, operationally stable, and strategically aggressive.
 
@@ -119,10 +134,13 @@ Without it, they will spend the next decade reacting instead of leading.
 
 A liquidity architecture is a strategic asset.
 
-It integrates: 
--  Asset-Based Lending for operational velocity. 
--  Private credit for structured growth. 
--  Crypto and public share Institutional Liquidity Paths for principal level acceleration.
+It integrates:
+
+- Asset-Based Lending for operational velocity.
+
+- Private credit for structured growth.
+
+- Crypto and public share Institutional Liquidity Paths for principal level acceleration.
 
 This combination creates a liquidity ecosystem that absorbs shocks and amplifies opportunity.
 

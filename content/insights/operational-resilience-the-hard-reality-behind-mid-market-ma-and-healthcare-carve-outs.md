@@ -292,8 +292,7 @@ A quantifiable data integrity score.
 
 A 
 
-10
-0 day plan built on measurable outcomes.
+100 day plan built on measurable outcomes.
 
 A reporting cadence that shows performance, not activity.
 

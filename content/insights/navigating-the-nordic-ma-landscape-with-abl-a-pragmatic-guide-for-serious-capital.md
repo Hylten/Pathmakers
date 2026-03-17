@@ -46,10 +46,13 @@ When a client is pursuing a diagnostic chain acquisition in Sweden, or consolida
 
 They need structural integrity without public exposure.
 
-principal authority means: 
--  Capital architecture without spectacle 
--  Execution strength without announcements 
--  Engineering precision without consultant theatrics Our clients operate in competitive markets.
+principal authority means:
+
+- Capital architecture without spectacle
+
+- Execution strength without announcements
+
+- Engineering precision without consultant theatrics Our clients operate in competitive markets.
 
 The strongest advantage they hold is preparedness and discretion.
 
@@ -107,12 +110,17 @@ Appetite is shifting to lower risk thresholds.
 
 Private credit fills the gaps not by taking reckless risks but by using more dynamic underwriting logic.
 
-Private credit can: 
--  Move faster 
--  Price risk correctly 
--  Accept collateral banks undervalue 
--  Embrace cross border structures 
--  Align with entrepreneurial velocity In M&A, speed is often worth more than interest rate differences.
+Private credit can:
+
+- Move faster
+
+- Price risk correctly
+
+- Accept collateral banks undervalue
+
+- Embrace cross border structures
+
+- Align with entrepreneurial velocity In M&A, speed is often worth more than interest rate differences.
 
 Deals collapse when delays undermine momentum.
 
@@ -130,11 +138,15 @@ If a buyer can show reliable capital on standby, they win more deals at better t
 
 Period.
 
-Liquidity means: 
--  Sellers trust execution 
--  Negotiations stay efficient 
--  Diligence remains contained 
--  Competitors lose footing Asset-Based Lending transforms existing assets into immediate liquidity.
+Liquidity means:
+
+- Sellers trust execution
+
+- Negotiations stay efficient
+
+- Diligence remains contained
+
+- Competitors lose footing Asset-Based Lending transforms existing assets into immediate liquidity.
 
 Private credit transforms future cash flows into measurable leverage.
 
@@ -144,11 +156,15 @@ Our clients do.
 
 ## Asset-Based Lending in a Nordic Cross Border Context Cross border deals demand clarity across jurisdictions.
 
-Pathmaker structures are built to adapt to: 
--  Swedish receivables rules 
--  Finnish equipment valuations 
--  Danish contract structures 
--  Norwegian regulatory expectations Cross border carve outs are slow only when the financing framework ignores these nuances.
+Pathmaker structures are built to adapt to:
+
+- Swedish receivables rules
+
+- Finnish equipment valuations
+
+- Danish contract structures
+
+- Norwegian regulatory expectations Cross border carve outs are slow only when the financing framework ignores these nuances.
 
 Our structures do not.
 
@@ -158,26 +174,31 @@ Clients gain a playbook that works in all four markets using the same institutio
 
 They care about certainty and speed.
 
-Asset-Based Lending provides: 
--  Verified collateral 
--  Clean funding logic 
--  Minimal committee interference These elements shorten closing times.
+Asset-Based Lending provides:
+
+- Verified collateral
+
+- Clean funding logic
+
+- Minimal committee interference These elements shorten closing times.
 
 In healthcare and industrial carve outs, that is the difference between winning and losing a deal. 
 
-## The Pathmaker Profile: Who We Serve Pathmaker is engineered for: 
--  High Net Worth individuals 
--  Ultra High Net Worth individuals 
--  Discreet professional buyers 
--  Sector specialists acquiring strategically These principals do not need education.
+## The Pathmaker Profile: Who We Serve Pathmaker is engineered for:
+
+- High Net Worth individuals
+
+- Ultra High Net Worth individuals
+
+- Discreet professional buyers
+
+- Sector specialists acquiring strategically These principals do not need education.
 
 They need structural ammunition.
 
 Our minimum thresholds for crypto Institutional Liquidity Paths and public share Monetization Architecture reflect that expectation and ensure alignment with serious capital operators. 
 
-## The Tactical Advantage of Asset-Based Lending in 20
-
-26 and Beyond The Nordic economy is stable but cautious.
+## The Tactical Advantage of Asset-Based Lending in 2026 and Beyond The Nordic economy is stable but cautious.
 
 Deals still happen, but only when buyers demonstrate mastery of financing architecture.
 

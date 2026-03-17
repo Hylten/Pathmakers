@@ -35,7 +35,9 @@ The mid-market now rewards the operator who understands that value is not create
 And revelation requires architecture.
 
 Tactical intelligence **is
-*
+
+* 
+
 * that architecture.
 
 We proceed.

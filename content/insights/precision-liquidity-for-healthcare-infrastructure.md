@@ -186,11 +186,15 @@ Intellectual property related to medical operations.
 
 Asset based Institutional Liquidity Paths, when structured correctly, turns these silent assets into active capital.
 
-Asset-Based Lending is particularly valuable for mid market healthcare operators because: 
--  It does not depend on EBITDA manipulation. 
--  It avoids the inflated optimism built into pro forma statements. 
--  It values assets based on hard data, not storytelling. 
--  It restores control to the operator rather than the lender.
+Asset-Based Lending is particularly valuable for mid market healthcare operators because:
+
+- It does not depend on EBITDA manipulation.
+
+- It avoids the inflated optimism built into pro forma statements.
+
+- It values assets based on hard data, not storytelling.
+
+- It restores control to the operator rather than the lender.
 
 Pathmaker uses Asset-Based Lending to create liquidity events without requiring operators to dilute equity or surrender strategic control.
 
@@ -214,12 +218,17 @@ Crypto secured liquidity is clean, fast, and isolated from healthcare operationa
 
 It allows operators to act without disturbing long term investment structures.
 
-This type of liquidity is especially valuable when: 
--  An acquisition timeline is compressed. 
--  A carve out requires rapid capital staging. 
--  A facility upgrade cannot be deferred. 
--  Public markets timing is unfavorable. 
--  Cash positions must remain untouched for tax efficiency.
+This type of liquidity is especially valuable when:
+
+- An acquisition timeline is compressed.
+
+- A carve out requires rapid capital staging.
+
+- A facility upgrade cannot be deferred.
+
+- Public markets timing is unfavorable.
+
+- Cash positions must remain untouched for tax efficiency.
 
 Crypto liquidity creates optionality in moments where traditional capital would stall. 
 
@@ -277,12 +286,17 @@ They have operational or strategic authority.
 
 What they often do not have is the desire to navigate slow moving institutional lenders.
 
-HNWI and UHNW operators choose Pathmaker because: 
--  We understand the structural needs of healthcare transactions. 
--  We work quietly and efficiently. 
--  We do not add noise. 
--  We provide institutional mechanics without institutional delay. 
--  We treat liquidity as a precision tool, not a commodity.
+HNWI and UHNW operators choose Pathmaker because:
+
+- We understand the structural needs of healthcare transactions.
+
+- We work quietly and efficiently.
+
+- We do not add noise.
+
+- We provide institutional mechanics without institutional delay.
+
+- We treat liquidity as a precision tool, not a commodity.
 
 The result is a capital partner who matches the operator’s tempo and strategic posture. 
 

@@ -48,12 +48,17 @@ Both tools give operators the ability to leverage non traditional assets without
 
 The hedge comes from structure.
 
-Liquidity is only protective when: 
--  It is available before the volatility hits 
--  It is not dependent on institutional approval cycles 
--  It is collateral based 
--  It preserves control 
--  It enhances negotiating leverage This is where private credit becomes more than financing.
+Liquidity is only protective when:
+
+- It is available before the volatility hits
+
+- It is not dependent on institutional approval cycles
+
+- It is collateral based
+
+- It preserves control
+
+- It enhances negotiating leverage This is where private credit becomes more than financing.
 
 It becomes a stability engine.
 
@@ -67,14 +72,21 @@ And speed outperforms every other advantage.
 
 That is not what is happening in the field.
 
-Volatility is increasing because: 
--  Regulatory scrutiny is expanding 
--  Sellers are becoming more sophisticated 
--  Large funds are moving downstream 
--  Operators are racing to consolidate 
--  Healthcare remains politically exposed 
--  Labor shortages remain persistent 
--  Reimbursement timelines remain inconsistent Better data does not reduce volatility.
+Volatility is increasing because:
+
+- Regulatory scrutiny is expanding
+
+- Sellers are becoming more sophisticated
+
+- Large funds are moving downstream
+
+- Operators are racing to consolidate
+
+- Healthcare remains politically exposed
+
+- Labor shortages remain persistent
+
+- Reimbursement timelines remain inconsistent Better data does not reduce volatility.
 
 It only reveals more of it.
 

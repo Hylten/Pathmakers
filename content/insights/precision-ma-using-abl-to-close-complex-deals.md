@@ -248,11 +248,15 @@ In practice, it is slow and conditional.
 
 HNWI and UHNW operators value speed more than theoretical pricing.
 
-They want to: 
--  Close without exposing their entire balance sheet 
--  Avoid signaling dependence on banks 
--  Maintain strategic leverage post close 
--  Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles. 
+They want to:
+
+- Close without exposing their entire balance sheet
+
+- Avoid signaling dependence on banks
+
+- Maintain strategic leverage post close
+
+- Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles. 
 
 ## Private Credit as the Second Layer of Precision M&A Asset-Based Lending is the first move.
 
@@ -278,11 +282,9 @@ Pathmaker does.
 
 Above 2,000,
 
-00
-0 in crypto assets Above 5,000,
+000 in crypto assets Above 5,000,
 
-00
-0 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
+000 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
 
 This unlocks liquidity for operators who otherwise would have to sell positions, trigger tax events, or disrupt long term allocation strategies.
 
@@ -352,13 +354,11 @@ We extend collateral based Capital Structuring into crypto and public shares whe
 
 Above 2,000,
 
-00
-0 for crypto.
+000 for crypto.
 
 Above 5,000,
 
-00
-0 for public equities.
+000 for public equities.
 
 No noise.
 

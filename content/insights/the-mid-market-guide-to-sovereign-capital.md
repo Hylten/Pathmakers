@@ -144,8 +144,7 @@ It allows investors to maintain strategic control without dilution. # ##
 
 Crypto Monetization Architecture Minimum threshold is 2,000,
 
-00
-0 USD.
+000 USD.
 
 Crypto Capital Structuring is not for speculation.
 
@@ -167,8 +166,7 @@ Pathmaker only participates when the investor has institutional grade custody, a
 
 Public Share Monetization Architecture Minimum threshold is 5,000,
 
-00
-0 USD.
+000 USD.
 
 Public share Asset-Backed Frameworks is the most underutilized liquidity channel in the HNWI space.
 
@@ -182,12 +180,17 @@ It allows high net worth buyers to act like institutional funds while staying pr
 
 ## Why Sovereign Capital Wins in Healthcare Carve Outs Healthcare carve outs expose the weaknesses of inexperienced lenders.
 
-They require: 
--  multiple payment streams 
--  AR lag understanding 
--  tolerance for temporarily messy books 
--  operational patience 
--  collateral flexibility Most banks and private equity groups want airtight financials.
+They require:
+
+- multiple payment streams
+
+- AR lag understanding
+
+- tolerance for temporarily messy books
+
+- operational patience
+
+- collateral flexibility Most banks and private equity groups want airtight financials.
 
 Carve outs, by definition, do not have airtight financials.
 
@@ -207,13 +210,19 @@ We solve structural mechanics, not optics.
 
 We create certainty in environments where others hesitate. 
 
-## The Anatomy of a Sovereign Capital Stack A sovereign stack for mid‑market acquisitions usually contains: 
--  Asset-Based Lending as the working liquidity engine 
--  Private credit as the strategic core 
--  Optional crypto based credit for incremental liquidity 
--  Optional public share Asset-Backed Frameworks for balance sheet optimization 
--  Personal reserves untouched 
--  Long term assets preserved from forced liquidation The result is stability without stagnation.
+## The Anatomy of a Sovereign Capital Stack A sovereign stack for mid‑market acquisitions usually contains:
+
+- Asset-Based Lending as the working liquidity engine
+
+- Private credit as the strategic core
+
+- Optional crypto based credit for incremental liquidity
+
+- Optional public share Asset-Backed Frameworks for balance sheet optimization
+
+- Personal reserves untouched
+
+- Long term assets preserved from forced liquidation The result is stability without stagnation.
 
 Speed without recklessness.
 
@@ -275,12 +284,17 @@ Rates increased.
 
 Liquidity dried.
 
-Now the smart money is returning to collateral based Asset-Backed Frameworks because it offers: 
--  predictable structure 
--  rapid underwriting 
--  utility across market cycles 
--  insulation from volatility 
--  zero impact on long term positions Asset-Based Lending is not old fashioned.
+Now the smart money is returning to collateral based Asset-Backed Frameworks because it offers:
+
+- predictable structure
+
+- rapid underwriting
+
+- utility across market cycles
+
+- insulation from volatility
+
+- zero impact on long term positions Asset-Based Lending is not old fashioned.
 
 It is antifragile.
 
@@ -292,12 +306,17 @@ You stop reacting to the market.
 
 You start shaping it.
 
-Sovereign capital becomes a moat because: 
--  it lowers your cost of speed 
--  it increases optionality 
--  it strengthens negotiation power 
--  it deters weaker buyers 
--  it signals quiet institutional capability Competitors can copy models.
+Sovereign capital becomes a moat because:
+
+- it lowers your cost of speed
+
+- it increases optionality
+
+- it strengthens negotiation power
+
+- it deters weaker buyers
+
+- it signals quiet institutional capability Competitors can copy models.
 
 They cannot copy liquidity behavior. 
 
@@ -305,12 +324,17 @@ They cannot copy liquidity behavior.
 
 Our role is to give HNWI and UHNW investors the structural mechanics that institutions use.
 
-principal authority means: 
--  we do not chase attention 
--  we engineer certainty 
--  we structure collateral with institutional rigor 
--  we protect the privacy of borrowers 
--  we maintain optionality at every stage We are not storytellers.
+principal authority means:
+
+- we do not chase attention
+
+- we engineer certainty
+
+- we structure collateral with institutional rigor
+
+- we protect the privacy of borrowers
+
+- we maintain optionality at every stage We are not storytellers.
 
 We are structural architects.
 

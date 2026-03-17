@@ -192,7 +192,7 @@ Family offices invest in stewardship.
 
 They retreat from ego.
 
-Phase II: Principal Voice.
+### Phase II: Principal Voice.
 
 States, not explains.
 
@@ -276,7 +276,7 @@ This is why family offices test them.
 
 This is why exits fail when founders ignore them.
 
-Phase III: Internal Bypass.
+### Phase III: Internal Bypass.
 
 Variation.
 

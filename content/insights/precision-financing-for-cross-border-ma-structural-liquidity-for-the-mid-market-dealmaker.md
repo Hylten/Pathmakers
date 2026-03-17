@@ -172,13 +172,11 @@ You are buying control of the deal timeline.
 
 Crypto Asset-Backed Frameworks: 2,000,
 
-00
-0 and above.
+000 and above.
 
 Public Share Capital Structuring: 5,000,
 
-00
-0 and above.
+000 and above.
 
 HNWI and UHNW buyers operate in an arena where smaller structures create more problems than they solve.
 

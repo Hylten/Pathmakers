@@ -130,8 +130,7 @@ Replacing them with right-sized platforms reduces overhead and accelerates decis
 
 ## The First 
 
-12
-0 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
+120 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
 
 You do not.
 
@@ -148,12 +147,17 @@ You must keep payroll running, keep customers informed, keep core compliance int
 
 Nothing else matters.
 
-Priorities include: 
--  Confirming regulatory coverage 
--  Communicating with all customers and partners 
--  Assessing immediate staffing gaps 
--  Securing short-term IT function 
--  Managing cultural tension from the transition If you fail here, the rest of the plan does not matter.
+Priorities include:
+
+- Confirming regulatory coverage
+
+- Communicating with all customers and partners
+
+- Assessing immediate staffing gaps
+
+- Securing short-term IT function
+
+- Managing cultural tension from the transition If you fail here, the rest of the plan does not matter.
 
 ## Day 
 
@@ -175,8 +179,7 @@ This period generates the real value creation thesis.
 
 60 to Day 
 
-12
-0 This is where the rebuild begins.
+120 This is where the rebuild begins.
 
 You deploy new systems.
 
@@ -214,12 +217,17 @@ Most parent companies underestimate the complexity.
 
 Most buyers underbudget the transition.
 
-Common issues include: 
--  Legacy EMR or ERP systems tied to parent licenses 
--  Security risks during the separation period 
--  Data transfer delays 
--  Reporting fragmentation 
--  Loss of institutional knowledge from parent IT staff The best operators do not try to replicate the parent’s system.
+Common issues include:
+
+- Legacy EMR or ERP systems tied to parent licenses
+
+- Security risks during the separation period
+
+- Data transfer delays
+
+- Reporting fragmentation
+
+- Loss of institutional knowledge from parent IT staff The best operators do not try to replicate the parent’s system.
 
 They design a right-sized platform that meets current needs and scales cleanly. 
 
@@ -273,15 +281,23 @@ It is a rebuild.
 
 ## How to Create Lasting Value in a Carve-Out Lasting value comes from structural improvements, not temporary cost cuts.
 
-The most reliable levers include: 
--  Installing scalable systems 
--  Building a real commercial engine 
--  Resetting pricing and contract terms 
--  Rebuilding middle management 
--  Creating operational transparency 
--  Hardening compliance 
--  Enhancing customer experience 
--  Investing in employee capability These are not glamorous levers.
+The most reliable levers include:
+
+- Installing scalable systems
+
+- Building a real commercial engine
+
+- Resetting pricing and contract terms
+
+- Rebuilding middle management
+
+- Creating operational transparency
+
+- Hardening compliance
+
+- Enhancing customer experience
+
+- Investing in employee capability These are not glamorous levers.
 
 They are durable ones. 
 

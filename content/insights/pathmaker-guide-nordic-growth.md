@@ -24,11 +24,7 @@ The resulting valuation compression is predictable, mechanical, and avoidable.
 
  Nordic mid-market companies are operating through an environment where cost of capital recalibration has outpaced organizational adaptation.
 
-The equity driven expansion cycle that defined 20
-
-13 to 20
-
-21 has been replaced with a balance sheet centric regime.
+The equity driven expansion cycle that defined 2013 to 2021 has been replaced with a balance sheet centric regime.
 
 Buyers no longer prioritize momentum.
 
@@ -90,12 +86,17 @@ Documentation Architecture Institutional acquirers prioritize clarity, not story
 
 A company becomes transaction grade when its operational, financial, and strategic systems are documented with precision.
 
-This includes: 
--  Cohort and unit economics 
--  Forward revenue logic grounded in demonstrated physics 
--  Customer concentration and retention architecture 
--  Supply chain resilience mapping 
--  Governance cadence and control environments Institutional buyers evaluate not just the data, but the structural maturity implied by the documentation discipline. 
+This includes:
+
+- Cohort and unit economics
+
+- Forward revenue logic grounded in demonstrated physics
+
+- Customer concentration and retention architecture
+
+- Supply chain resilience mapping
+
+- Governance cadence and control environments Institutional buyers evaluate not just the data, but the structural maturity implied by the documentation discipline. 
 
 2.
 
@@ -184,14 +185,20 @@ It is precision.
 It is the avoidance of waste.
 
 It is the intentional construction of organizations that outlive their founders. **Proverbs 13:22
-*
+
+* 
+
 * frames the principle: A good person leaves an inheritance to their children, but the sinner’s wealth is stored up for the righteous.
 
-In corporate terms, stewardship manifests through: 
--  Decisions that strengthen balance sheet trajectory 
--  Clarity of governance and accountability 
--  Preservation of organizational continuity 
--  Capital deployment that increases resilience rather than volatility Stewardship elevates valuation because it signals institutional durability.
+In corporate terms, stewardship manifests through:
+
+- Decisions that strengthen balance sheet trajectory
+
+- Clarity of governance and accountability
+
+- Preservation of organizational continuity
+
+- Capital deployment that increases resilience rather than volatility Stewardship elevates valuation because it signals institutional durability.
 
 Buyers pay for durability.
 
@@ -201,12 +208,17 @@ THE
 
 The companies that cross this threshold attract premium buyers, access off-market opportunities, and expand beyond regional constraints.
 
-The Pathmaker lens provides a filtered decision framework: 
--  Does the organization operate with documentation discipline? 
--  Are liquidity flows mapped with institutional clarity? 
--  Are leadership and processes hardened against diligence pressure? 
--  Does the strategic position align with identifiable acquirer logic? 
--  Has friction been removed proactively rather than reactively?
+The Pathmaker lens provides a filtered decision framework:
+
+- Does the organization operate with documentation discipline?
+
+- Are liquidity flows mapped with institutional clarity?
+
+- Are leadership and processes hardened against diligence pressure?
+
+- Does the strategic position align with identifiable acquirer logic?
+
+- Has friction been removed proactively rather than reactively?
 
 Companies that meet these criteria enter a new category: Transaction Grade Nordic Operators.
 

@@ -90,13 +90,19 @@ They are not.
 
 They are often underperforming, undersupported, and structurally outdated.
 
-This is particularly true in healthcare, where carve-outs frequently exhibit: 
--  Fragmented operational workflows 
--  Billing and RCM lag 
--  Antiquated compliance protocols 
--  Deferred capital expenditures 
--  Leadership fatigue 
--  Vendor dependence To an institutional lender, these issues represent elevated risk.
+This is particularly true in healthcare, where carve-outs frequently exhibit:
+
+- Fragmented operational workflows
+
+- Billing and RCM lag
+
+- Antiquated compliance protocols
+
+- Deferred capital expenditures
+
+- Leadership fatigue
+
+- Vendor dependence To an institutional lender, these issues represent elevated risk.
 
 To a private credit provider, these issues represent solvable transaction friction.
 
@@ -116,12 +122,17 @@ It is not a last resort.
 
 In M&A, Asset-Based Lending is a precision tool for buyers who want to control their own leverage structure without waiting for the institutional sector to approve their conviction.
 
-Asset-Based Lending provides: 
--  Liquidity aligned to real assets 
--  Faster closes 
--  Less reliance on EBITDA gamesmanship 
--  More flexible debt covenants 
--  Lower execution risk within a transaction timeline For mid-market acquirers, the difference between winning and losing a deal is often measured in days.
+Asset-Based Lending provides:
+
+- Liquidity aligned to real assets
+
+- Faster closes
+
+- Less reliance on EBITDA gamesmanship
+
+- More flexible debt covenants
+
+- Lower execution risk within a transaction timeline For mid-market acquirers, the difference between winning and losing a deal is often measured in days.
 
 Asset-Based Lending compresses time.
 
@@ -133,13 +144,19 @@ Pathmaker blends both.
 
 They are structurally misaligned assets that require a realistic capital partner who understands the operating landscape.
 
-The average carve-out in this sector presents: 
--  Unreliable financial reporting 
--  Incomplete unit economics 
--  Lingering parent-company dependencies 
--  Manual workflows 
--  Low technology adoption 
--  Contractual entanglements This is why banks hesitate.
+The average carve-out in this sector presents:
+
+- Unreliable financial reporting
+
+- Incomplete unit economics
+
+- Lingering parent-company dependencies
+
+- Manual workflows
+
+- Low technology adoption
+
+- Contractual entanglements This is why banks hesitate.
 
 This is why private credit wins.
 
@@ -155,12 +172,17 @@ But liquidity determines outcomes.
 
 During a competitive process, the bidder who can guarantee capital earliest and most definitively becomes the natural buyer.
 
-Private credit provides: 
--  Faster commitment letters 
--  Real collateral alignment 
--  Fewer structural delays 
--  Reduced diligence bottlenecks 
--  Greater negotiating leverage For HNWI and UHNW buyers, this becomes a weaponized advantage.
+Private credit provides:
+
+- Faster commitment letters
+
+- Real collateral alignment
+
+- Fewer structural delays
+
+- Reduced diligence bottlenecks
+
+- Greater negotiating leverage For HNWI and UHNW buyers, this becomes a weaponized advantage.
 
 The market rewards decisiveness, and decisiveness requires liquidity. 
 
@@ -238,12 +260,17 @@ Mid-market M&A is no longer a domain where personal liquidity and traditional le
 
 The speed of deals and complexity of assets require high-velocity capital partners who operate without theatrical bureaucracy.
 
-HNWI and UHNW clients work with Pathmaker because: 
--  We do not slow the deal. 
--  We understand operational ambiguity. 
--  We move with institutional rigor, not institutional drag. 
--  We respect the discretion required at this tier. 
--  We protect optionality for future transactions.
+HNWI and UHNW clients work with Pathmaker because:
+
+- We do not slow the deal.
+
+- We understand operational ambiguity.
+
+- We move with institutional rigor, not institutional drag.
+
+- We respect the discretion required at this tier.
+
+- We protect optionality for future transactions.
 
 In short, we behave like a strategic partner, not a gatekeeper. 
 
@@ -279,12 +306,17 @@ We do not claim to reinvent capital.
 
 We provide structural clarity for serious operators and acquirers.
 
-Our posture is straightforward: 
--  principal authority 
--  Mechanical precision 
--  Collateral driven 
--  Zero romanticism 
--  Maximum execution If you understand the opportunity in mid-market M&A, and especially if you operate in healthcare or other operationally fragmented sectors, our capital is engineered for your strategy. 
+Our posture is straightforward:
+
+- principal authority
+
+- Mechanical precision
+
+- Collateral driven
+
+- Zero romanticism
+
+- Maximum execution If you understand the opportunity in mid-market M&A, and especially if you operate in healthcare or other operationally fragmented sectors, our capital is engineered for your strategy. 
 
 ## Book a strategic consultation
 

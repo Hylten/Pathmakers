@@ -24,15 +24,20 @@ Instead, the decisive factors are transaction clarity, exit visibility, and the 
 
 Private credit funds, sovereign entities, and consolidation buyers have compressed their underwriting cycles, and the result is a divergence between capital with mandate rigidity and companies requiring liquidity aligned to strategic timing.
 
-This shift is characterized by: 
--  Regulatory delay cycles that extend acquisition or divestiture timelines by 
+This shift is characterized by:
+
+- Regulatory delay cycles that extend acquisition or divestiture timelines by 
 6 to 
 
-18 months. 
--  A rising threshold for financial reporting sophistication. 
--  A recalibration of leverage appetite across private credit markets due to LTV corridor tightening. 
--  Institutional preference for off market opportunities that provide predictable integration burden. 
--  A material increase in the discount applied to companies lacking exit readiness structure.
+18 months.
+
+- A rising threshold for financial reporting sophistication.
+
+- A recalibration of leverage appetite across private credit markets due to LTV corridor tightening.
+
+- Institutional preference for off market opportunities that provide predictable integration burden.
+
+- A material increase in the discount applied to companies lacking exit readiness structure.
 
 The operative reality is that high performing mid market companies rarely fail operationally.
 
@@ -108,12 +113,17 @@ Within the North American energy domain, the strategic partner NAEO provides a f
 
 Outside energy, the Roials Capital framework focuses on structural alignment between operator, capital provider, and buyer universe.
 
-Key attributes of the partnership model include: 
--  Introducer neutrality that ensures operators receive pathways, not sales pressure. 
--  Institutional calibration to match capital with operational maturity levels. 
--  Counterparty mapping that respects fit, mandate, and transaction velocity. 
--  Documentation oversight to eliminate diligence failure points. 
--  Strategy refinement that aligns timing with valuation thresholds.
+Key attributes of the partnership model include:
+
+- Introducer neutrality that ensures operators receive pathways, not sales pressure.
+
+- Institutional calibration to match capital with operational maturity levels.
+
+- Counterparty mapping that respects fit, mandate, and transaction velocity.
+
+- Documentation oversight to eliminate diligence failure points.
+
+- Strategy refinement that aligns timing with valuation thresholds.
 
 Precision financing is a discipline of removing obstacles that prevent institutions from engaging.
 
@@ -136,7 +146,9 @@ The theology of capital treats capital as a resource with purpose, not as an ins
 The foundational principle is that capital stewardship must preserve optionality, strengthen operational resilience, and create multi generational value.
 
 Scriptural alignment reinforces the discipline. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his childrens children.
 
 In the institutional context, this reflects the obligation to build structures that endure beyond a single transaction.
@@ -147,11 +159,15 @@ Within the European mid market, stewardship also involves resisting the pressure
 
 Precision financing ensures that every capital instrument reinforces stability rather than imposing hidden fragility.
 
-DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses: 
--  Structural Positioning: Whether the operator has neutralized friction points that reduce valuation spread. 
--  Documentation Integrity: Whether EBITDA normalization, revenue verification, and liabilities are diligence ready. 
--  Transaction Velocity: Whether the liquidity engineering architecture enables fast execution. 
--  Strategic Alignment: Whether the company has mapped itself to acquisition pathways that match its operational reality.
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses:
+
+- Structural Positioning: Whether the operator has neutralized friction points that reduce valuation spread.
+
+- Documentation Integrity: Whether EBITDA normalization, revenue verification, and liabilities are diligence ready.
+
+- Transaction Velocity: Whether the liquidity engineering architecture enables fast execution.
+
+- Strategic Alignment: Whether the company has mapped itself to acquisition pathways that match its operational reality.
 
 The Tactical Vanguard exists to support operators and allocators in navigating this landscape without noise.
 

@@ -88,17 +88,27 @@ Asset hardening is the conversion of operational habit into institutional struct
 
 It is the removal of “this is how we’ve always done it” and its replacement with “this is the system and its logic.” A hardened asset behaves the same way on a Monday as it does on the final day of due diligence.
 
-Asset hardening covers: 
--  Governance logic 
--  Reporting cadence 
--  Operational clarity 
--  Customer concentration control 
--  Margin rationality 
--  Cash hygiene 
--  Working capital discipline 
--  Vendor dependency mapping 
--  Process standardization 
--  Management bench strength This is not decoration.
+Asset hardening covers:
+
+- Governance logic
+
+- Reporting cadence
+
+- Operational clarity
+
+- Customer concentration control
+
+- Margin rationality
+
+- Cash hygiene
+
+- Working capital discipline
+
+- Vendor dependency mapping
+
+- Process standardization
+
+- Management bench strength This is not decoration.
 
 It is structural alignment.
 
@@ -146,15 +156,23 @@ Exit readiness requires a recalibration toward institutional logic.
 
 The General forces the financial stack into clarity long before buyers arrive.
 
-This includes: 
--  GAAP discipline 
--  Rolling 24-month forecast logic 
--  Separation of owner discretionary flows 
--  Reconciliation of customer-level profitability 
--  Vendor tiering 
--  Forward margin modeling 
--  AR and AP cycle diagnostics 
--  Hard segmentation of core versus non-core revenue The outcome is simple.
+This includes:
+
+- GAAP discipline
+
+- Rolling 24-month forecast logic
+
+- Separation of owner discretionary flows
+
+- Reconciliation of customer-level profitability
+
+- Vendor tiering
+
+- Forward margin modeling
+
+- AR and AP cycle diagnostics
+
+- Hard segmentation of core versus non-core revenue The outcome is simple.
 
 No question from the buyer produces hesitation.
 
@@ -206,13 +224,19 @@ It also elevates the valuation.
 
 They acquire systems that can function without the founder.
 
-This requires: 
--  Distribution of authority 
--  Documented processes 
--  Managerial redundancy 
--  Clear delegation maps 
--  Non-founder decision protocols 
--  Codified commercial logic Founder dependency is the silent killer of valuation.
+This requires:
+
+- Distribution of authority
+
+- Documented processes
+
+- Managerial redundancy
+
+- Clear delegation maps
+
+- Non-founder decision protocols
+
+- Codified commercial logic Founder dependency is the silent killer of valuation.
 
 A buyer will not pay full price when the operational brain is preparing to walk out.
 
@@ -256,16 +280,25 @@ Exit readiness requires a black bag phase.
 
 Removal of artifacts that reduce clarity or produce noise.
 
-Examples: 
--  Closure of dead-margin units 
--  Removal of legacy cost centers 
--  Rewriting of vendor agreements 
--  Consolidation of redundant systems 
--  Simplification of product catalog 
--  Repricing of underperforming accounts 
--  Rerouting of owner personal expenses 
--  Updating of insurance architecture 
--  Rationalizing workforce structure Nothing sloppy remains.
+Examples:
+
+- Closure of dead-margin units
+
+- Removal of legacy cost centers
+
+- Rewriting of vendor agreements
+
+- Consolidation of redundant systems
+
+- Simplification of product catalog
+
+- Repricing of underperforming accounts
+
+- Rerouting of owner personal expenses
+
+- Updating of insurance architecture
+
+- Rationalizing workforce structure Nothing sloppy remains.
 
 The battlefield must be clean. 
 
@@ -283,12 +316,17 @@ The General prepares for this early.
 
 Not as reaction but as discipline.
 
-Tactical steps: 
--  Creation of secondary revenue lines 
--  Strengthening mid-tier account base 
--  Diversification of channels 
--  Customer-level profitability strategy 
--  Contract reinforcement for anchor clients Concentration cannot always be removed.
+Tactical steps:
+
+- Creation of secondary revenue lines
+
+- Strengthening mid-tier account base
+
+- Diversification of channels
+
+- Customer-level profitability strategy
+
+- Contract reinforcement for anchor clients Concentration cannot always be removed.
 
 But it can be controlled.
 
@@ -326,19 +364,31 @@ He relies on intelligence briefs.
 
 Exit readiness requires the construction of a Command Dossier.
 
-Documents typically include: 
--  Commercial model overview 
--  Margin tree 
--  Customer segmentation 
--  Vendor hierarchy 
--  Working capital architecture 
--  Organizational map 
--  Compensation logic 
--  Contract repository 
--  Rolling forecasts 
--  Historical performance narratives 
--  Board-pack style reporting 
--  Management principles When the buyer requests data, the response is immediate.
+Documents typically include:
+
+- Commercial model overview
+
+- Margin tree
+
+- Customer segmentation
+
+- Vendor hierarchy
+
+- Working capital architecture
+
+- Organizational map
+
+- Compensation logic
+
+- Contract repository
+
+- Rolling forecasts
+
+- Historical performance narratives
+
+- Board-pack style reporting
+
+- Management principles When the buyer requests data, the response is immediate.
 
 Buyers interpret velocity as competence.
 
@@ -350,15 +400,23 @@ It is structural.
 
 Exit readiness requires an internal core that understands the mission before the buyer appears.
 
-This includes: 
--  Transparent growth logic 
--  Role clarity 
--  Chain of accountability 
--  Performance architecture 
--  Pre-diligence communication plan 
--  Incentive alignment that is not excessive 
--  Removal of internal bottlenecks 
--  Stabilization of key staff Misaligned staff create friction.
+This includes:
+
+- Transparent growth logic
+
+- Role clarity
+
+- Chain of accountability
+
+- Performance architecture
+
+- Pre-diligence communication plan
+
+- Incentive alignment that is not excessive
+
+- Removal of internal bottlenecks
+
+- Stabilization of key staff Misaligned staff create friction.
 
 Friction kills deals.
 
@@ -374,15 +432,23 @@ They are trained to distrust narrative and trust structure.
 
 The General anticipates buyer mindset.
 
-Key principles: 
--  Buyers assume something is missing 
--  Buyers distrust founder optimism 
--  Buyers want repeatability 
--  Buyers scrutinize anomalies 
--  Buyers favor companies that need minimal integration 
--  Buyers reward clean systems 
--  Buyers want clarity in working capital logic 
--  Buyers evaluate downside protection first Exit readiness aligns the asset with buyer psychology.
+Key principles:
+
+- Buyers assume something is missing
+
+- Buyers distrust founder optimism
+
+- Buyers want repeatability
+
+- Buyers scrutinize anomalies
+
+- Buyers favor companies that need minimal integration
+
+- Buyers reward clean systems
+
+- Buyers want clarity in working capital logic
+
+- Buyers evaluate downside protection first Exit readiness aligns the asset with buyer psychology.
 
 This accelerates the acquisition timeline.
 
@@ -390,14 +456,17 @@ It reduces grind.
 
 It increases leverage. 
 
-## Strategic Timing: When to Enter the Market The General watches three clocks: 
--  Internal clock.
+## Strategic Timing: When to Enter the Market The General watches three clocks:
 
-Is the asset hardened. 
--  Market clock.
+- Internal clock.
 
-Is liquidity abundant. 
--  Buyer clock.
+Is the asset hardened.
+
+- Market clock.
+
+Is liquidity abundant.
+
+- Buyer clock.
 
 Are target GPs raising or deploying.
 
@@ -417,12 +486,17 @@ Only readiness.
 
 ## Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals.
 
-This includes: 
--  Private credit lines secured by public shares with 5M minimum 
--  Crypto liquidity engineering structures with 2M minimum 
--  Strategic bridging to manage timing gaps 
--  Preservation of optionality during negotiation 
--  Liquidity extraction without weakening the asset This architecture ensures the owner negotiates without pressure.
+This includes:
+
+- Private credit lines secured by public shares with 5M minimum
+
+- Crypto liquidity engineering structures with 2M minimum
+
+- Strategic bridging to manage timing gaps
+
+- Preservation of optionality during negotiation
+
+- Liquidity extraction without weakening the asset This architecture ensures the owner negotiates without pressure.
 
 Pressure reduces discipline.
 
@@ -432,11 +506,15 @@ Fear is exploitable.
 
 ## Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction.
 
-The General understands: 
--  Speed is not haste 
--  Speed is clarity 
--  Speed is preparation 
--  Speed is discipline When the owner operates with velocity, the buyer sees a machine.
+The General understands:
+
+- Speed is not haste
+
+- Speed is clarity
+
+- Speed is preparation
+
+- Speed is discipline When the owner operates with velocity, the buyer sees a machine.
 
 Machines command respect.
 

@@ -22,10 +22,13 @@ The Pathmaker model exists to navigate this imbalance by constructing sovereign 
 
  European and global HNWI and UHNW balance sheets are operating within a new macro regime.
 
-The shift is defined by three interlinked transitions: 
--  Migration of mid market credit creation from banks to sovereign anchored capital pools. 
--  Escalation of exit complexity caused by fragmented buyer ecosystems, KYC friction, and risk adjusted valuation gaps. 
--  Decline in operational readiness within family controlled enterprises entering succession cycles.
+The shift is defined by three interlinked transitions:
+
+- Migration of mid market credit creation from banks to sovereign anchored capital pools.
+
+- Escalation of exit complexity caused by fragmented buyer ecosystems, KYC friction, and risk adjusted valuation gaps.
+
+- Decline in operational readiness within family controlled enterprises entering succession cycles.
 
 The modern allocator faces a paradox.
 
@@ -93,11 +96,15 @@ The model eliminates the discovery friction that delays capital entry.
 
 Exit Readiness and Balance Sheet Hardening Private sellers often misprice enterprise value because the business lacks institutional defensibility.
 
-Pathmaker executes a readiness protocol focusing on: 
--  [Capital Structuring]([Roials Capital](https://roialscapital.com/)) within working capital cycles. 
--  Debt optimization that adjusts leverage to institutional thresholds. 
--  Asset hardening to increase collateral quality. 
--  Operational governance calibrated to sovereign grade standards.
+Pathmaker executes a readiness protocol focusing on:
+
+- [Capital Structuring]([Roials Capital](https://roialscapital.com/)) within working capital cycles.
+
+- Debt optimization that adjusts leverage to institutional thresholds.
+
+- Asset hardening to increase collateral quality.
+
+- Operational governance calibrated to sovereign grade standards.
 
 Once these elements are installed, valuation conversations evolve from speculative to structural.
 
@@ -113,10 +120,13 @@ Their local financing options are limited by Basel III constraints and conservat
 
 Sovereign aligned capital, especially from GCC and selected Asian structures, is not constrained by the same regulatory architecture.
 
-Pathmaker establishes bilateral capital corridors that allow business owners to access: 
--  Private credit lines with adaptable collateral criteria. 
--  Strategic minority capital constructed without governance disruption. 
--  Performance aligned liquidity frameworks that match generational planning.
+Pathmaker establishes bilateral capital corridors that allow business owners to access:
+
+- Private credit lines with adaptable collateral criteria.
+
+- Strategic minority capital constructed without governance disruption.
+
+- Performance aligned liquidity frameworks that match generational planning.
 
 These structures do not circumvent European regulation.
 
@@ -168,17 +178,22 @@ It is operational.
 
 The model treats capital as a resource that must be deployed without waste, without complexity inflation, and without unnecessary risk escalation.
 
-Three stewardship principles govern the execution: 
--  Precision of Intent.
+Three stewardship principles govern the execution:
 
-Capital enters only once the operational ecosystem is structurally prepared. 
--  Protection of the Future Holder.
+- Precision of Intent.
 
-Financial engineering is used for stability, not artificial valuation inflation. 
--  Responsibility to Successive Generations.
+Capital enters only once the operational ecosystem is structurally prepared.
+
+- Protection of the Future Holder.
+
+Financial engineering is used for stability, not artificial valuation inflation.
+
+- Responsibility to Successive Generations.
 
 In alignment with **Proverbs 13:22
-*
+
+* 
+
 * , the enterprise must be configured in a manner that preserves integrity long after the current owner exits.
 
 Stewardship transforms exit planning from a liquidity event into a generational continuity mechanism.
@@ -189,12 +204,17 @@ DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the Pathmaker ar
 
 They are assessing whether their ecosystem is structurally prepared for sovereign grade interaction.
 
-The key analytical lens includes: 
--  Balance sheet optimization readiness. 
--  Collateral quality, governance maturity, and operational transparency. 
--  Archetype alignment between seller, buyer, and financing counterpart. 
--  Presence or absence of institutional grade capital corridors. 
--  Existence of a pre engineered exit or acquisition pathway.
+The key analytical lens includes:
+
+- Balance sheet optimization readiness.
+
+- Collateral quality, governance maturity, and operational transparency.
+
+- Archetype alignment between seller, buyer, and financing counterpart.
+
+- Presence or absence of institutional grade capital corridors.
+
+- Existence of a pre engineered exit or acquisition pathway.
 
 When these elements align, opportunity velocity increases and portfolio stability strengthens.
 

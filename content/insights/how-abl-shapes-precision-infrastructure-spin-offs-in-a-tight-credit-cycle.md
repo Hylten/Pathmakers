@@ -38,11 +38,15 @@ They are transitional frictions.
 
 Asset-Based Lending funding smooths these frictions by allowing capital to sit close to the assets that matter.
 
-This proximity gives investors: 
--  Better collateral visibility. 
--  Faster funding cycles. 
--  Lower execution risk. 
--  More accurate reserve modeling.
+This proximity gives investors:
+
+- Better collateral visibility.
+
+- Faster funding cycles.
+
+- Lower execution risk.
+
+- More accurate reserve modeling.
 
 In precision infrastructure, time is often the most expensive input.
 
@@ -66,11 +70,15 @@ That alignment is what makes precision infrastructure spin-offs consistently pro
 
 ## Equipment As Collateral: Where Most Lenders Miscalculate Traditional lenders see equipment through standardized depreciation schedules.
 
-Pathmaker sees equipment through the lens of: 
--  Verified productive lifespan. 
--  Field-level utility. 
--  Replacement cost under current inflation cycles. 
--  Market scarcity for specialized tools or vehicles.
+Pathmaker sees equipment through the lens of:
+
+- Verified productive lifespan.
+
+- Field-level utility.
+
+- Replacement cost under current inflation cycles.
+
+- Market scarcity for specialized tools or vehicles.
 
 In many cases, the realizable collateral value is materially higher than the book value.
 
@@ -86,11 +94,15 @@ Revenue is rarely the issue.
 
 Liquidity timing is the issue.
 
-Asset-Based Lending provides targeted liquidity exactly where the carve-out needs it: 
--  Accelerating accounts receivable. 
--  Monetizing equipment assets. 
--  Supporting new vendor terms. 
--  Funding maintenance cycles the parent deferred.
+Asset-Based Lending provides targeted liquidity exactly where the carve-out needs it:
+
+- Accelerating accounts receivable.
+
+- Monetizing equipment assets.
+
+- Supporting new vendor terms.
+
+- Funding maintenance cycles the parent deferred.
 
 Liquidity does not solve every problem.
 
@@ -100,11 +112,15 @@ Asset-Based Lending reduces the amplification effect so operators can execute.
 
 ## Why UHNW Investors Gravitate Toward Asset-Based Lending-Backed Carve-Outs Precision infrastructure spin-offs are attractive to UHNW buyers because they offer controlled volatility, defensible margins, and non-speculative value creation.
 
-Asset-Based Lending amplifies these strengths by providing: 
--  Lower reliance on pro-forma financials. 
--  Higher transparency of collateral. 
--  Faster time to operational stabilization. 
--  Better alignment with asset-heavy business models.
+Asset-Based Lending amplifies these strengths by providing:
+
+- Lower reliance on pro-forma financials.
+
+- Higher transparency of collateral.
+
+- Faster time to operational stabilization.
+
+- Better alignment with asset-heavy business models.
 
 UHNW investors do not chase optionality.
 
@@ -124,9 +140,11 @@ The combined effect adds velocity without sacrificing asset exposure.
 
 ## Crypto and Public Share Institutional Liquidity Paths: Optional Layers of Liquidity For sophisticated clients, liquidity stacking is part of the playbook.
 
-Pathmaker supports additional liquidity layers through: 
--  Crypto Strategic Collateralization, minimum. 
--  Public share Institutional Liquidity Paths, minimum.
+Pathmaker supports additional liquidity layers through:
+
+- Crypto Strategic Collateralization, minimum.
+
+- Public share Institutional Liquidity Paths, minimum.
 
 When deployed correctly, these instruments supplement Asset-Based Lending to create a multi-channel liquidity architecture that accelerates deal execution while preserving portfolio integrity.
 
@@ -134,11 +152,15 @@ This is not for retail investors.
 
 This is for HNWI and UHNW operators who understand capital choreography. 
 
-## The Capital Stack of a Modern Precision Infrastructure Spin-Off A functional capital stack in this category often includes: 
--  Asset-Based Lending at the operational layer. 
--  Private credit Monetization Architecture at the investor layer. 
--  Crypto or public share Asset-Backed Frameworks as liquidity augmentation. 
--  Equity reserved for strategic hires and modernization.
+## The Capital Stack of a Modern Precision Infrastructure Spin-Off A functional capital stack in this category often includes:
+
+- Asset-Based Lending at the operational layer.
+
+- Private credit Monetization Architecture at the investor layer.
+
+- Crypto or public share Asset-Backed Frameworks as liquidity augmentation.
+
+- Equity reserved for strategic hires and modernization.
 
 This is not complex for complexity’s sake.
 

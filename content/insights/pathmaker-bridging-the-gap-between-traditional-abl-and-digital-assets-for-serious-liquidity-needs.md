@@ -86,8 +86,7 @@ Pathmaker incorporates digital assets within Asset-Based Lending logic: value th
 
 Crypto Monetization Architecture begins at 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This threshold is deliberate.
 
@@ -123,8 +122,7 @@ Pathmaker simplifies this.
 
 We lend against publicly traded equity with a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This ensures the liquidity profile is institutional.
 

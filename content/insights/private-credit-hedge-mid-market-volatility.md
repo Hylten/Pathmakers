@@ -96,10 +96,13 @@ The instrument does not replace equity.
 
 It neutralises timing pressure on equity.
 
-Capital Structuring achieves three stabilising effects: 
--  Extends the negotiation window 
--  Allows management to correct operational inefficiencies before buyer scrutiny 
--  Preserves deal value by avoiding distressed optics 
+Capital Structuring achieves three stabilising effects:
+
+- Extends the negotiation window
+
+- Allows management to correct operational inefficiencies before buyer scrutiny
+
+- Preserves deal value by avoiding distressed optics 
 
 2.
 
@@ -107,10 +110,13 @@ Balance Sheet Optimization The mid market often suffers from unprofessional capi
 
 Inconsistent amortisation schedules, personal guarantees, and legacy banking relationships create friction during M&A processes.
 
-Private credit restructures these inefficiencies by: 
--  Refinancing legacy obligations with consistent covenants 
--  Removing personal recourse elements that distort valuation 
--  Aligning leverage profiles with the eventual acquisition perimeter Balance sheet optimization is not cosmetic.
+Private credit restructures these inefficiencies by:
+
+- Refinancing legacy obligations with consistent covenants
+
+- Removing personal recourse elements that distort valuation
+
+- Aligning leverage profiles with the eventual acquisition perimeter Balance sheet optimization is not cosmetic.
 
 It directly increases transaction credibility.
 
@@ -124,11 +130,15 @@ Asset Hardening Many mid market companies appear operationally weak not because 
 
 Private credit reallocates capital toward enterprise assets that are strategically defensible.
 
-This includes: 
--  Equipment consolidation 
--  Digital infrastructure 
--  Contractual revenue hardening 
--  Procurement rationalisation Asset hardening increases exit readiness by converting soft value into modelable value.
+This includes:
+
+- Equipment consolidation
+
+- Digital infrastructure
+
+- Contractual revenue hardening
+
+- Procurement rationalisation Asset hardening increases exit readiness by converting soft value into modelable value.
 
 Buyers place a premium on businesses that can be underwritten without conditional adjustments. 
 
@@ -138,11 +148,15 @@ Opportunity Velocity in Deal Origination The fragmented mid market rewards those
 
 Private credit supports off market origination by providing liquidity that enables a buyer to lock an asset early, stabilise it, and complete extended diligence without signalling weakness.
 
-This is particularly effective in: 
--  Family owned enterprises 
--  Owner operator transitions 
--  Mispriced regional assets 
--  High intent but unstructured opportunities Private credit does not replace M&A strategy.
+This is particularly effective in:
+
+- Family owned enterprises
+
+- Owner operator transitions
+
+- Mispriced regional assets
+
+- High intent but unstructured opportunities Private credit does not replace M&A strategy.
 
 It amplifies the timing power of the acquirer.
 
@@ -152,12 +166,17 @@ The role is to calibrate institutional sponsors, family principals, and mid mark
 
 Roials Capital evaluates the operational perimeter, governance maturity, balance sheet posture, and trajectory of the business, then aligns the client with a private credit structure engineered for their specific volatility profile.
 
-This includes: 
--  Identifying the correct seniority structure 
--  Establishing clean collateralisation paths 
--  Removing structural impediments to exit 
--  Preparing data rooms and financial models for institutional scrutiny 
--  Facilitating introductions to specialised private credit providers This positioning eliminates adverse selection.
+This includes:
+
+- Identifying the correct seniority structure
+
+- Establishing clean collateralisation paths
+
+- Removing structural impediments to exit
+
+- Preparing data rooms and financial models for institutional scrutiny
+
+- Facilitating introductions to specialised private credit providers This positioning eliminates adverse selection.
 
 It also ensures that the private credit instrument serves as a stabiliser rather than an additional complexity. 
 
@@ -168,7 +187,9 @@ It also ensures that the private credit instrument serves as a stabiliser rather
 ## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management.
 
 It aligns with the principle in **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children's children.
 
 In the corporate environment, inheritance is not limited to wealth transfer.
@@ -199,11 +220,15 @@ DECISION MAKING LENS FOR THE ALLOCATOR For institutional principals, family offi
 
 The decision is whether the business is structurally prepared for an M&A environment defined by volatility and inconsistent buyer behaviour.
 
-The decision lens therefore focuses on: 
--  Stability of the capital stack 
--  Maturity of reporting structures 
--  Strength of operational governance 
--  Timing flexibility relative to market windows If these foundations are weak, private credit becomes a stabilisation tool.
+The decision lens therefore focuses on:
+
+- Stability of the capital stack
+
+- Maturity of reporting structures
+
+- Strength of operational governance
+
+- Timing flexibility relative to market windows If these foundations are weak, private credit becomes a stabilisation tool.
 
 If they are strong, private credit becomes an acceleration tool.
 
