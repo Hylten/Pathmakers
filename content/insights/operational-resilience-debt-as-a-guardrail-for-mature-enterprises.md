@@ -124,7 +124,9 @@ It creates a liquidity buffer that is not dependent on a commercial bank’s qua
 
 It provides capital that understands complexity, not just collateral.
 
-It reinforces strategic transitions, especially in acquisitions and carve outs, where the first 18
+It reinforces strategic transitions, especially in acquisitions and carve outs, where the first 
+
+18
 0 days are structurally dangerous.
 
 When designed properly, private credit eliminates fragility before it manifests. 
@@ -289,4 +291,6 @@ Pathmaker is built for you.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -48,9 +48,9 @@ Predict.
 
 They govern everything.
 
-The following briefing is for internal application: a technical spine for anyone constructing an off‑market acquisition engine, an Exit Readiness protocol, or a Fund-III deal funnel that does not waste cycles on noise. 
+The following briefing is for internal application: a technical spine for anyone constructing an off‑market acquisition engine, an Exit Readiness protocol, or a Fund-III deal funnel that does not waste cycles on noise.
 
-## PHASE ONE The internal architecture.
+PHASE ONE The internal architecture.
 
 The first truth: mid‑market companies leave a thick digital exhaust.
 
@@ -110,9 +110,9 @@ It changes tone, it reduces friction, and it accelerates trust.
 
 Trust is the currency.
 
-Precision is the lever. 
+Precision is the lever.
 
-## PHASE TWO Principal Voice.
+PHASE TWO Principal Voice.
 
 The mid‑market is shifting beneath the feet of legacy operators.
 
@@ -148,9 +148,9 @@ The deal finds alignment.
 
 The founder finds direction.
 
-The buyer finds conviction. 
+The buyer finds conviction.
 
-## PHASE THREE Deep mechanics.
+PHASE THREE Deep mechanics.
 
 The structural backbone of AI-driven target mapping runs through five analytical strata.
 
@@ -158,7 +158,9 @@ Each is simple in description but complex in execution.
 
 You combine them and you get something rare: foresight that actually holds up under the weight of real transactions. 
 
-1. Operational Pulse The systems track operating rhythms: procurement patterns, hiring cadence, lag curves in inventory, production elasticity, sales cycles.
+1.
+
+Operational Pulse The systems track operating rhythms: procurement patterns, hiring cadence, lag curves in inventory, production elasticity, sales cycles.
 
 The pulse reveals whether the company is growing into momentum or shrinking out of habit.
 
@@ -166,7 +168,9 @@ Slowdowns rarely occur in isolation; they cluster.
 
 The machine catches the cluster. 
 
-2. Strategic Posture Every mid‑market operator broadcasts its strategy through quiet choices.
+2.
+
+Strategic Posture Every mid‑market operator broadcasts its strategy through quiet choices.
 
 Discontinued SKUs.
 
@@ -178,17 +182,23 @@ Small, easily ignored decisions.
 
 The machine interprets these as signals of owner psychology: retreat, consolidation, or preparation for transition. 
 
-3. Leadership Intent Nothing is as predictive as human behavior.
+3.
+
+Leadership Intent Nothing is as predictive as human behavior.
 
 CEO statements, board minutes, interviews, LinkedIn changes, retention of external advisors-all become part of the inference stack.
 
 Patterns emerge long before succession plans are formalized. 
 
-4. Market Inefficiency Mapping The algorithm identifies where pricing power falters, where competition tightens, where regulation shifts the incentive structure.
+4.
+
+Market Inefficiency Mapping The algorithm identifies where pricing power falters, where competition tightens, where regulation shifts the incentive structure.
 
 Companies positioned on the wrong side of this curve become prime targets for recapitalization or acquisition before external pressure forces reactive decisions. 
 
-5. Exit Tension Index This is the synthetic output: a probability score built on compounded micro-signals.
+5.
+
+Exit Tension Index This is the synthetic output: a probability score built on compounded micro-signals.
 
 Not a guess.
 
@@ -216,9 +226,9 @@ What matters is clarity.
 
 Clarity produces precision.
 
-Precision produces velocity. 
+Precision produces velocity.
 
-## PHASE FOUR Exit Readiness as a predictable function.
+PHASE FOUR Exit Readiness as a predictable function.
 
 Most mid‑market firms are exit-ready only in rhetoric, not in structure.
 
@@ -264,9 +274,9 @@ No misinformation.
 
 No games.
 
-Just a clean corridor leading to a clean deal. 
+Just a clean corridor leading to a clean deal.
 
-## PHASE FIVE Off-market origination.
+PHASE FIVE Off-market origination.
 
 This is where the architecture earns its name.
 
@@ -292,9 +302,9 @@ With intelligence, not force.
 
 With insight, not pressure.
 
-With anticipation, not reaction. 
+With anticipation, not reaction.
 
-## PHASE SIX Friction removal.
+PHASE SIX Friction removal.
 
 Every lost deal is lost in the gaps: the silent delays, the unclear expectations, the poor sequencing of information.
 
@@ -311,9 +321,9 @@ Examples:
 
 This is orchestration.
 
-It changes the tempo of M&A. 
+It changes the tempo of M&A.
 
-## PHASE SEVEN Integration into Fund-III or corporate acquisition funnels.
+PHASE SEVEN Integration into Fund-III or corporate acquisition funnels.
 
 Once the architecture is built, it becomes self-sustaining.
 
@@ -333,9 +343,9 @@ The conviction accelerates execution.
 
 A for some mandates you integrate institutional capital execution using partners such as those within the Roials sphere.
 
-When required, structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)) becomes the natural extension of the map’s predictive power. 
+When required, structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)) becomes the natural extension of the map’s predictive power.
 
-## PHASE EIGHT The Principal Arc.
+PHASE EIGHT The Principal Arc.
 
 AI-driven target mapping has transformed mid‑market sourcing into an active discipline.
 
@@ -379,4 +389,6 @@ This is Pathmaker.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

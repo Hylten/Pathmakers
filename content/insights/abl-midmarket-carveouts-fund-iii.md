@@ -76,7 +76,8 @@ It reduces the cost of capital relative to uncertainty.
 
 It removes dependency on corporate willingness to cooperate.
 
-Most important: it decouples deal timing from the parent’s internal politics. **Proverbs 13:22*
+Most important: it decouples deal timing from the parent’s internal politics. **Proverbs 13:22
+*
 * : The wealth of the sinner is laid up for the just.
 
 In the mid‑market, the just are the prepared.
@@ -122,7 +123,9 @@ It builds accuracy where corporate motives distort.
 
 TRANSITION UNDERCAPITALIZATION REMOVAL Most carve‑outs are undercapitalized on Day 
 
-1. They inherit operations without corporate buffers.
+1.
+
+They inherit operations without corporate buffers.
 
 Asset-Based Lending liquidity fills the gap precisely where cash cycles tighten during transition.
 
@@ -243,15 +246,25 @@ SEPARATION ENGINEERING THROUGH Asset-Based Lending The structural power of Asset
 
 The instrumentality is clear: 
 
-1. Liquidity pools map directly to operational assets. 
+1.
 
-2. TSA becomes optional instead of mandatory. 
+Liquidity pools map directly to operational assets. 
 
-3. Working capital becomes predictable. 
+2.
 
-4. Operational autonomy is achieved immediately. 
+TSA becomes optional instead of mandatory. 
 
-5. Integration can begin without waiting for corporate dependencies to unwind.
+3.
+
+Working capital becomes predictable. 
+
+4.
+
+Operational autonomy is achieved immediately. 
+
+5.
+
+Integration can begin without waiting for corporate dependencies to unwind.
 
 The PE buyer controls the tempo.
 
@@ -279,7 +292,9 @@ Asset-Based Lending solves the timing.
 
 Liquidity lands Day 
 
-1. Vendor confidence locks in.
+1.
+
+Vendor confidence locks in.
 
 Inventory pipelines refill.
 
@@ -399,22 +414,8 @@ TACTICAL SEQUENCING FOR FUND‑III OPERATORS To operationalize Asset-Based Lendi
 
 Not theory.
 
-Execution.
-
-Step 1: Extract asset map from seller systems.
-
-Step 2: Validate AR, inventory, equipment residuals.
-
-Step 3: Construct liquidity corridors tied to operational cycles.
-
-Step 4: Pre‑build Day‑
-1 liquidity events.
-
-Step 5: Neutralize vendor uncertainty.
-
-Step 6: Engineer early integration signals to the market.
-
-Step 7: Document cycle stability for eventual exit packages.
+Execution.### Step I: : Extract asset map from seller systems.### Step II: : Validate AR, inventory, equipment residuals.### Step III: : Construct liquidity corridors tied to operational cycles.### Step IV: : Pre‑build Day‑
+1 liquidity events.### Step V: : Neutralize vendor uncertainty.### Step VI: : Engineer early integration signals to the market.### Step VII: : Document cycle stability for eventual exit packages.
 
 Cycle stability sells.
 
@@ -475,4 +476,6 @@ Book a tactical consultation.
 Technical metric: 97.
 4 percent liquidity‑to‑asset coverage ratio (LACR) under stabilized mid‑market conditions.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -16,7 +16,9 @@ Transaction velocity remains high, yet traditional lenders have stepped back, co
 
 This has created the most significant liquidity gap since 
 
-2009. And that gap is exactly where private credit outperforms. 
+2009.
+
+And that gap is exactly where private credit outperforms. 
 
 ## Why Private Credit Has Become the Primary Engine for Mid-Market Transactions Mid-market deals require certainty of capital.
 
@@ -64,11 +66,17 @@ We provide the structural mechanics, while you provide the thesis.
 
 This means three things for serious acquirers: 
 
-1. Capital reliability. 
+1.
 
-2. Underwriting that aligns with asset realities. 
+Capital reliability. 
 
-3. Zero distractions.
+2.
+
+Underwriting that aligns with asset realities. 
+
+3.
+
+Zero distractions.
 
 These pillars matter even more when the target is not a polished asset.
 
@@ -156,23 +164,27 @@ Private credit provides:
 
 The market rewards decisiveness, and decisiveness requires liquidity. 
 
-## Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers. # 
+## Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers.
 
 ## Private Credit Strategic Collateralization We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints.
 
-Our private credit solutions are designed to match the real timeline of acquisitions, not the theoretical timeline imagined by traditional lenders. # 
+Our private credit solutions are designed to match the real timeline of acquisitions, not the theoretical timeline imagined by traditional lenders.
 
 ## Asset-Based Strategic Collateralization Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets.
 
-We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt. # 
+We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt.
 
 ## Crypto Monetization Architecture Minimum threshold: 2,000, 
 
-000. Ideal for high conviction buyers who maintain digital asset portfolios and want to tactically unlock liquidity without liquidating core positions. # 
+000.
+
+Ideal for high conviction buyers who maintain digital asset portfolios and want to tactically unlock liquidity without liquidating core positions.
 
 ## Public Share Monetization Architecture Minimum threshold: 5,000, 
 
-000. Designed for sophisticated investors with embedded equity value who want capital without triggering taxable events or forced sales.
+000.
+
+Designed for sophisticated investors with embedded equity value who want capital without triggering taxable events or forced sales.
 
 Each product sits within a unified structural philosophy.
 
@@ -192,11 +204,17 @@ Deals close because capital behaves rationally.
 
 And rational capital requires three conditions: 
 
-1. Clear collateral. 
+1.
 
-2. Aligned underwriting. 
+Clear collateral. 
 
-3. Predictable deployment.
+2.
+
+Aligned underwriting. 
+
+3.
+
+Predictable deployment.
 
 Pathmaker specializes in all three.
 
@@ -243,8 +261,9 @@ Pathmaker’s clients understand that private credit is not a financial instrume
 
 It is a competitive edge. 
 
-## The Next 2
-4 Months: A Window That Will Not Repeat Itself Regulatory tightening has created an artificial scarcity of traditional Institutional Liquidity Paths.
+## The Next 
+
+24 Months: A Window That Will Not Repeat Itself Regulatory tightening has created an artificial scarcity of traditional Institutional Liquidity Paths.
 
 This has shifted the market in favor of buyers with decisive access to private credit.
 
@@ -269,4 +288,6 @@ Our posture is straightforward:
 
 ## Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

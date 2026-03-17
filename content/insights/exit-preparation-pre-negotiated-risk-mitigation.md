@@ -30,9 +30,11 @@ Remove surprises.
 
 Remove excuses.
 
-This is the new standard. 
+This is the new standard.
 
-## PHASE ONE. ## ## ## .
+PHASE ONE. 
+
+ ## .
 
 Private briefing.
 
@@ -99,11 +101,17 @@ Buyers pay for structural certainty, not stories. ,
 -  
 -  THE THREE DOMAINS OF RISK MITIGATION THAT DETERMINE VALUATION Every mid-market transaction, every diligence sweep, every integration model ultimately collapses into three domains: 
 
-1. Operational risk 
+1.
 
-2. Financial risk 
+Operational risk 
 
-3. Continuity risk If you neutralize these domains before a buyer arrives, the exit is already half-complete.
+2.
+
+Financial risk 
+
+3.
+
+Continuity risk If you neutralize these domains before a buyer arrives, the exit is already half-complete.
 
 Buyers do not crave upside.
 
@@ -118,7 +126,9 @@ Let’s dissect these three domains in full tactical detail.
 -  
 -  
 
-1. OPERATIONAL RISK Operational risk is rarely a mystery; it is usually a lack of discipline.
+1.
+
+OPERATIONAL RISK Operational risk is rarely a mystery; it is usually a lack of discipline.
 
 The buyer sees process gaps that force them to increase the discount rate and widen contingencies.
 
@@ -148,7 +158,9 @@ Artifacts close gaps.
 
 When the buyer sees an operational architecture that behaves like institutional infrastructure, their risk model recalibrates. ,., 
 
-2. FINANCIAL RISK Financial risk is not about numbers.
+2.
+
+FINANCIAL RISK Financial risk is not about numbers.
 
 It is about trust.
 
@@ -176,7 +188,9 @@ Pre-negotiated mitigation here means eliminating ambiguity so the buyer cannot m
 
 When financial artifacts are clean, valuation becomes arithmetic-not psychology. --. 
 
-3. CONTINUITY RISK This is where buyers fear most.
+3.
+
+CONTINUITY RISK This is where buyers fear most.
 
 This is where sellers underestimate most.
 
@@ -258,23 +272,37 @@ Off-market rigor.
 
 We reduce the exit to its deterministic elements: 
 
-1. Define the risk architecture 
+1.
 
-2. Engineer the mitigations 
+Define the risk architecture 
 
-3. Produce the artifacts 
+2.
 
-4. Position the narrative 
+Engineer the mitigations 
 
-5. Control the valuation logic 
+3.
 
-6. Remove friction until the path is inevitable The founder stops fighting gravity.
+Produce the artifacts 
+
+4.
+
+Position the narrative 
+
+5.
+
+Control the valuation logic 
+
+6.
+
+Remove friction until the path is inevitable The founder stops fighting gravity.
 
 The deal begins to flow.
 
 Momentum compounds.
 
-This is why many firms Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This is why many firms Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  THE TRANSITION FROM OPERATOR TO ASSET A business becomes an asset the moment risk ceases to define its identity.
 
 Buyers do not purchase personalities.
@@ -323,6 +351,8 @@ TACTICAL INVITATION If you want the exit to be clean, the work must begin long b
 
 Pathmaker functions as your analyst core-tight, intelligent, deeply aligned with mid-market realities and the institutional behaviors shaping them.
 
-When you’re ready for a tactical consultation, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+When you’re ready for a tactical consultation, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Book a tactical consultation.

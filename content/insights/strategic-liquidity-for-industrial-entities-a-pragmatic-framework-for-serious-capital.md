@@ -146,7 +146,9 @@ Contracted service lines can anchor private credit facilities.
 
 Equipment or specialized infrastructure can support asset based [Capital Structuring]([Roials Capital](https://roialscapital.com/)).
 
-The result is stability during the only period that matters, the first 18
+The result is stability during the only period that matters, the first 
+
+18
 0 days post separation. 
 
 ## The Emergence of Non Traditional Liquidity: Crypto and Public Share Monetization Architecture High net worth operators increasingly hold diversified assets.
@@ -155,9 +157,11 @@ Industrial wealth is no longer limited to factories and receivables.
 
 Crypto and public share positions now function as secondary liquidity reservoirs.
 
-Pathmaker structures Monetization Architecture facilities around these assets with minimum thresholds. # 
+Pathmaker structures Monetization Architecture facilities around these assets with minimum thresholds.
 
-## Crypto Asset-Backed Frameworks Minimum threshold: 2,000,00
+## Crypto Asset-Backed Frameworks Minimum threshold: 2,000,
+
+00
 0 USD.
 
 For principals who understand volatility and custody requirements, crypto backed Monetization Architecture provides tactical liquidity without liquidating strategically held positions.
@@ -166,9 +170,11 @@ The risk is not the asset class.
 
 The risk is unsecured or poorly collateralized structures.
 
-Pathmaker resolves this through tiered custody and conservative liquidity facility to value ratios that respect the true behavior of digital assets. # 
+Pathmaker resolves this through tiered custody and conservative liquidity facility to value ratios that respect the true behavior of digital assets.
 
-## Public Share Institutional Liquidity Paths Minimum threshold: 5,000,00
+## Public Share Institutional Liquidity Paths Minimum threshold: 5,000,
+
+00
 0 USD.
 
 Public equities held by HNWI or UHNW investors can serve as powerful collateral.
@@ -299,4 +305,6 @@ Relentlessly.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

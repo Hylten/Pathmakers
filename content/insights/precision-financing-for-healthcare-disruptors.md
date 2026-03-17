@@ -211,4 +211,6 @@ We give our clients the ability to operate without hesitation.
 
 ## Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

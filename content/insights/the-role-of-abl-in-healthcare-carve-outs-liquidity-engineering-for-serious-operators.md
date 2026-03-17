@@ -44,8 +44,11 @@ Healthcare carve-outs have unpredictable cash burn during transition periods.
 
 Private credit capital is expensive when used as working capital instead of structured leverage.
 
-Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first 9
-0 to 18
+Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first 
+
+90 to 
+
+18
 0 days.
 
 Asset-Based Lending complements private credit by absorbing the volatility.
@@ -176,4 +179,6 @@ It is the structural backbone that allows the rest of the strategy to function.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

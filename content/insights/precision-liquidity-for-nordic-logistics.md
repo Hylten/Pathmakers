@@ -40,11 +40,17 @@ We deploy capital where institutional models under‑recognize asset integrity.
 
 ## The Mid‑Market Logistics Profile: Strong Assets, Tight Liquidity The majority of Nordic logistics firms in the mid market operate within three categories. 
 
-1. Temperature controlled and cold chain logistics. 
+1.
 
-2. Cross dock and regional freight consolidation. 
+Temperature controlled and cold chain logistics. 
 
-3. Specialized last mile and heavy‑haul distribution.
+2.
+
+Cross dock and regional freight consolidation. 
+
+3.
+
+Specialized last mile and heavy‑haul distribution.
 
 Each category has high infrastructure dependencies.
 
@@ -119,9 +125,13 @@ Pathmaker supports this reality.
 
 We offer crypto Capital Structuring with a minimum threshold of 2,000, 
 
-000. We offer public share Capital Structuring with a minimum threshold of 5,000, 
+000.
 
-000. These tools are not gimmicks.
+We offer public share Capital Structuring with a minimum threshold of 5,000, 
+
+000.
+
+These tools are not gimmicks.
 
 They are liquidity levers for clients who need to unlock capital without destabilizing long‑term positions.
 
@@ -221,8 +231,9 @@ HNWI and UHNW clients choose Pathmaker because we do not dilute their narrative.
 
 We strengthen their leverage. 
 
-## The Nordic Logistics Landscape in 203
-0 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
+## The Nordic Logistics Landscape in 20
+
+30 Looking ahead, the Nordic logistics sector will enter a fully integrated, automation heavy phase.
 
 Terminals will use higher density pallet systems.
 
@@ -278,7 +289,9 @@ We are not a lender in the traditional sense.
 
 We are an institutional mechanism.
 
-We give shape to liquidity that would otherwise remain inaccessible. ## ## 
+We give shape to liquidity that would otherwise remain inaccessible. 
+
+ 
 
 ## CONCLUSION
 
@@ -310,4 +323,6 @@ We provide the structural mechanics that turn assets into actionable liquidity.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

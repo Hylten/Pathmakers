@@ -94,8 +94,9 @@ Healthcare targets tend to have:
 -  Strong predictable receivables 
 -  Equipment and infrastructure that can be valued 
 -  Repeatable service lines that generate consistent working capital 
--  High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last 3
-6 months.
+-  High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last 
+
+36 months.
 
 This is why UHNW operators who specialize in healthcare carve-outs rarely bother with traditional senior debt anymore.
 
@@ -107,18 +108,23 @@ It is the trigger mechanism.
 
 The strategic advantage comes from how it is deployed. # ## 
 
-1. Secure early liquidity before the seller expects it Institutional buyers need approvals.
+1.
+
+Secure early liquidity before the seller expects it Institutional buyers need approvals.
 
 UHNW buyers do not.
 
-With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish Phase 
-1 diligence.
+With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish 
+
+### Phase I: diligence.
 
 This intimidates sellers.
 
 It also accelerates concessions when speed becomes part of the negotiation narrative. # ## 
 
-2. Hedge diligence gaps without renegotiating the full capital stack Diligence in carve-outs always reveals something unpleasant.
+2.
+
+Hedge diligence gaps without renegotiating the full capital stack Diligence in carve-outs always reveals something unpleasant.
 
 A missing contract.
 
@@ -139,22 +145,28 @@ The seller does not sense weakness.
 
 The close stays on track. # ## 
 
-3. Combine Asset-Based Lending with personal liquidity for a hybrid strike structure UHNW buyers frequently pair Asset-Based Lending availability with personal liquidity.
+3.
+
+Combine Asset-Based Lending with personal liquidity for a hybrid strike structure UHNW buyers frequently pair Asset-Based Lending availability with personal liquidity.
 
 Not to over-leverage.
 
 But to eliminate every possible closing delay.
 
 A common approach is: 
--  4
-0 to 6
-0 percent of purchase price covered by an Asset-Based Lending facility 
+-  
+
+40 to 
+
+60 percent of purchase price covered by an Asset-Based Lending facility 
 -  Remainder covered by personal funds or a family office pool 
 -  Immediate follow-on liquidity reserved for post-close stabilization This hybrid structure allows them to close faster than PE firms that must syndicate or seek LP approval.
 
 Velocity is the real advantage. # ## 
 
-4. Use Asset-Based Lending as a defensive tool to take targets off the market early When a seller sees a buyer with ready liquidity, they often accelerate exclusivity.
+4.
+
+Use Asset-Based Lending as a defensive tool to take targets off the market early When a seller sees a buyer with ready liquidity, they often accelerate exclusivity.
 
 They hate uncertainty.
 
@@ -180,13 +192,22 @@ Asset-Based Lending:
 -  Provides stability post-close 
 -  Enables growth without touching working capital A common UHNW playbook is: 
 
-1. Use Asset-Based Lending to close. 
+1.
 
-2. Bring in private credit 6
-0 to 12
+Use Asset-Based Lending to close. 
+
+2.
+
+Bring in private credit 
+
+60 to 
+
+12
 0 days post-close. 
 
-3. Recycle personal capital into the next opportunity.
+3.
+
+Recycle personal capital into the next opportunity.
 
 This creates an infinite loop of liquidity and acquisition velocity. 
 
@@ -206,24 +227,32 @@ This is the kind of underwriting UHNW buyers prefer because it is aligned with r
 
 ## The Strategic Liquidity Stack Used by UHNW Operators Most UHNW buyers with meaningful deal flow use some variation of the following liquidity stack. # ## 
 
-1. Pre-arranged Asset-Based Lending Facility This is the front line.
+1.
+
+Pre-arranged Asset-Based Lending Facility This is the front line.
 
 A relationship-driven facility with: 
 -  Clear advance rates 
 -  Pre-approved industries 
 -  Simple availability mechanics It becomes a deal-closing tool rather than a multi-month underwriting process. # ## 
 
-2. Revolving Personal or Family Office Credit Line This is the shock absorber.
+2.
+
+Revolving Personal or Family Office Credit Line This is the shock absorber.
 
 When diligence reveals something unexpected, personal liquidity covers the gap without slowing the close.
 
 Speed never breaks. # ## 
 
-3. Post-Close Private Credit Takeout This resets leverage to sane levels after the dust settles.
+3.
+
+Post-Close Private Credit Takeout This resets leverage to sane levels after the dust settles.
 
 It also frees personal liquidity for the next acquisition. # ## 
 
-4. Cash Reserve for Post-Close Turnover In healthcare carve-outs, the first ninety days are the danger zone.
+4.
+
+Cash Reserve for Post-Close Turnover In healthcare carve-outs, the first ninety days are the danger zone.
 
 Billing changes.
 
@@ -269,4 +298,6 @@ If you operate in the mid-market and need strategic liquidity that works at the 
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -70,7 +70,8 @@ Anything less triggers lender suspicion and sponsor fatigue.
 
 Blueprints matter.
 
-Discipline becomes capital. **Proverbs 13:22*
+Discipline becomes capital. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 The institutional version is simpler: well‑structured companies transfer value; unstructured companies transfer opportunity to competitors.
@@ -137,17 +138,29 @@ Those who communicate like institutions rise.
 
 The middle‑market war is fought across six friction layers: 
 
-1. Financial Disarray: disorganized ledgers, inconsistent revenue recognition, unclean cash cycles. 
+1.
 
-2. Operational Drift: undocumented processes, dependency risk, leadership gaps. 
+Financial Disarray: disorganized ledgers, inconsistent revenue recognition, unclean cash cycles. 
 
-3. Narrative Incoherence: mismatched strategy, unclear positioning, reactive planning. 
+2.
 
-4. Diligence Fragmentation: scattered files, version conflicts, missing justifications. 
+Operational Drift: undocumented processes, dependency risk, leadership gaps. 
 
-5. Timing Inefficiency: slow responses, unvalidated forecasts, unprepared teams. 
+3.
 
-6. Negotiation Vulnerability: lack of alternatives, absence of benchmarks, reactive posture.
+Narrative Incoherence: mismatched strategy, unclear positioning, reactive planning. 
+
+4.
+
+Diligence Fragmentation: scattered files, version conflicts, missing justifications. 
+
+5.
+
+Timing Inefficiency: slow responses, unvalidated forecasts, unprepared teams. 
+
+6.
+
+Negotiation Vulnerability: lack of alternatives, absence of benchmarks, reactive posture.
 
 Each friction layer extracts equity.
 
@@ -211,13 +224,21 @@ Through quantifiable evidence.
 
 Institutional buyers anchor on four dimensions: 
 
-1. Repeatable Revenue Mechanics 
+1.
 
-2. Durable Cash Conversion 
+Repeatable Revenue Mechanics 
 
-3. Leadership Depth 
+2.
 
-4. Asset Hardening Asset hardening is often misunderstood.
+Durable Cash Conversion 
+
+3.
+
+Leadership Depth 
+
+4.
+
+Asset Hardening Asset hardening is often misunderstood.
 
 It is not asset growth.
 
@@ -409,4 +430,6 @@ Book a tactical consultation.
 
 Technical Metric: Target friction compression delta: 38% reduction in diligence drag.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

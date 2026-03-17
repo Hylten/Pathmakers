@@ -40,7 +40,9 @@ Intelligent filters.
 
 That is the operating field.
 
-What follows is the internal brief-the structural view of why silent exits are surging and how they now function as the dominant path to exit readiness and off‑market origination. ## ## ## 
+What follows is the internal brief-the structural view of why silent exits are surging and how they now function as the dominant path to exit readiness and off‑market origination. 
+
+ ## 
 -  PRIVATE BRIEFING Begin with this: the market is fatigued by over‑orchestrated M&A.
 
 Bankers have turned the process itself into the product.
@@ -69,17 +71,23 @@ The result is an environment where trust migrates to the quiet channels and away
 
 Three forces converge: 
 
-1. Compressed attention.
+1.
+
+Compressed attention.
 
 Buyers no longer have bandwidth for packaged deals.
 
 They want clarity, not theatre. 
 
-2. Founder exhaustion.
+2.
+
+Founder exhaustion.
 
 Operators want to explore exit paths without triggering staff anxiety, competitor awareness, or banker‑driven escalation. 
 
-3. Direct capital networks.
+3.
+
+Direct capital networks.
 
 Serious acquirers now build their own proprietary pipelines.
 
@@ -203,7 +211,9 @@ Advisors want relevance.
 
 AI wants signal purity.
 
-Silent exits are the only system that aligns all four. ## ## 
+Silent exits are the only system that aligns all four. 
+
+ 
 
 ## THE INTERNAL FIELD GUIDE 
 -  HOW A SILENT EXIT ACTUALLY FUNCTIONS Step One: Build the shadow profile Not anonymous.
@@ -244,9 +254,9 @@ Step Six: Decide the threshold If appetite is strong, the founder can either: , 
 
 Transition into a formal sale with leverage already secured Silent exits do not eliminate bankers.
 
-They place the founder in the correct position of power before a banker ever enters the room. ## 
+They place the founder in the correct position of power before a banker ever enters the room.
 
-## WHY FOUNDERS PREFER SILENT EXITS NOW Because they want truth.
+WHY FOUNDERS PREFER SILENT EXITS NOW Because they want truth.
 
 Because they want control.
 
@@ -271,9 +281,9 @@ A founder gains:
 -  A direct path to buyers who matter 
 -  Optionality preserved until the final moment Most deals fall apart because the wrong people learn the wrong things at the wrong time.
 
-A silent exit flips the logic: only the right people learn the right things at the right time. ## 
+A silent exit flips the logic: only the right people learn the right things at the right time.
 
-## THE PATHMAKER ADVANTAGE 
+THE PATHMAKER ADVANTAGE 
 -  WHERE AI SHIFTS THE POWER This is the decisive breakthrough.
 
 True signal‑mapping.
@@ -302,14 +312,18 @@ The filter before the process.
 
 The architecture before the announcement.
 
-The founder enters the market armed, not exposed. ## 
+The founder enters the market armed, not exposed.
 
-## THE NEW REALITY 
+THE NEW REALITY 
 -  THE BEST DEALS NEVER GO TO MARKET The market has split into two parallel universes: 
 
-1. The public market of intermediated deals-competitive, noisy, overbuilt, and often mispriced. 
+1.
 
-2. The private market of silent exits-direct, intelligent, discreet, and controlled.
+The public market of intermediated deals-competitive, noisy, overbuilt, and often mispriced. 
+
+2.
+
+The private market of silent exits-direct, intelligent, discreet, and controlled.
 
 The second universe is where the real deals now reside.
 
@@ -323,4 +337,6 @@ Silent exits function as a modern covenant between buyer and seller: clarity ove
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

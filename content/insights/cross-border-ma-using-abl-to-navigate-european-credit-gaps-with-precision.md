@@ -104,19 +104,31 @@ It should be integrated into the initial transaction architecture.
 
 This is how sophisticated buyers approach it. 
 
-1. Identify assets early, not after diligence. 
+1.
 
-2. Map the collateral quality against jurisdictional constraints. 
+Identify assets early, not after diligence. 
 
-3. Pre define liquidity needs based on realistic, not optimistic, deal timelines. 
+2.
 
-4. Coordinate private credit alongside Asset-Based Lending for layered structural strength. 
+Map the collateral quality against jurisdictional constraints. 
 
-5. Use crypto and public share Monetization Architecture as optional liquidity accelerators.
+3.
+
+Pre define liquidity needs based on realistic, not optimistic, deal timelines. 
+
+4.
+
+Coordinate private credit alongside Asset-Based Lending for layered structural strength. 
+
+5.
+
+Use crypto and public share Monetization Architecture as optional liquidity accelerators.
 
 This framework eliminates guesswork.
 
-It creates certainty in a market that increasingly penalizes uncertainty. ## ## 
+It creates certainty in a market that increasingly penalizes uncertainty. 
+
+ 
 
 ## CONCLUSION
 
@@ -136,4 +148,6 @@ If you are preparing for a cross border acquisition, especially a healthcare car
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

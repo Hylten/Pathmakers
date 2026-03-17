@@ -34,7 +34,8 @@ Dense regulation.
 
 Perfect terrain for precision sellers.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+*
 * ).
 
 In institutional terms: create optionality that compounds.
@@ -149,8 +150,9 @@ Every friction removed ahead of process multiplies deal certainty.
 
 Mid‑market CFOs know this intuitively but often lack frameworks for compression.
 
-We track 1
-1 friction categories.
+We track 
+
+11 friction categories.
 
 Carve-outs fail in these zones: 
 -  Undefined perimeter 
@@ -370,8 +372,9 @@ Liquidity cycles in the region are tied to:
 -  Private credit deployment phases 
 -  Treasury rate movements 
 -  Stock market volatility 
--  Cross-border acquisition appetite Carve-outs thrive when macro conditions create dislocations. 202
-6 is prime.
+-  Cross-border acquisition appetite Carve-outs thrive when macro conditions create dislocations. 20
+
+26 is prime.
 
 Pricing spreads favor clean assets.
 
@@ -427,11 +430,17 @@ Move faster.
 
 The Pathmaker frame asks three questions: 
 
-1. What friction must be neutralized? 
+1.
 
-2. What liquidity can be manufactured? 
+What friction must be neutralized? 
 
-3. What structural advantage can be designed?
+2.
+
+What liquidity can be manufactured? 
+
+3.
+
+What structural advantage can be designed?
 
 Carve-outs answer all three when handled at principal level. 
 
@@ -479,9 +488,9 @@ That strengthens conviction.
 
 That raises bid intensity.
 
-Fund-III buyers compete hardest when complexity is removed. ## ## ## ## ## 
+Fund-III buyers compete hardest when complexity is removed.
 
-## CONCLUSION
+CONCLUSION
 
  : THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
 
@@ -507,4 +516,6 @@ Book a tactical consultation.
 
 Mandate Reference: Integration Load Delta Index 4.37.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

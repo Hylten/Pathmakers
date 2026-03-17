@@ -26,8 +26,9 @@ This creates friction.
 
 This kills velocity.
 
-This suppresses valuation bands by 12,1
-8 percent across sectors.
+This suppresses valuation bands by 12,
+
+18 percent across sectors.
 
 Our mandate is to eliminate that delta.
 
@@ -39,7 +40,8 @@ The kind that de-risks capital allocation, accelerates Fund‑III deployment cyc
 
 The Nordics reward operators who engineer structural trust.
 
-The market punishes those who rely on narrative alone. **Proverbs 13:22*
+The market punishes those who rely on narrative alone. **Proverbs 13:22
+*
 * .
 
 The Analyst Team delivers this doctrine as a practical, field‑tested architecture.
@@ -165,8 +167,9 @@ No interpretive flexibility.
 
 Provability is the currency of exit-readiness.
 
-The companies that invest here remove 30,4
-0 percent of typical friction points encountered in Nordic M&A.
+The companies that invest here remove 30,
+
+40 percent of typical friction points encountered in Nordic M&A.
 
 Time-to-confidence collapses.
 
@@ -286,8 +289,9 @@ They attracted unsolicited buy-side approaches.
 
 Our analysts quantify resilience premiums at the point of transaction.
 
-Hardened Nordic operators achieve valuation uplift between 18.2
-7 percent depending on sector.
+Hardened Nordic operators achieve valuation uplift between 18.
+
+27 percent depending on sector.
 
 They also experience faster transaction cycles.
 
@@ -327,7 +331,8 @@ For survival.
 
 For dominance.
 
-For continuity. **Proverbs 13:22*
+For continuity. **Proverbs 13:22
+*
 * .
 
 To deploy this framework and build a hardened, exit-ready Nordic enterprise, book a tactical consultation.
@@ -335,4 +340,6 @@ To deploy this framework and build a hardened, exit-ready Nordic enterprise, boo
 Resilience Delta: 27.
 4 percent.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

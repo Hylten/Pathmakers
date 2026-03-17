@@ -338,4 +338,6 @@ We enable precision.
 
 For clients stepping into cross-border acquisitions, especially mid-market healthcare carve-outs, this precision becomes the competitive advantage. # Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

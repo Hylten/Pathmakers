@@ -32,7 +32,8 @@ A jurisdictional shield.
 
 It allows mid-market companies to operate with institutional fluency long before they face an institutional buyer.
 
-This is where operational resilience is forged-not in austerity, but in engineered liquidity. **Proverbs 13:22*
+This is where operational resilience is forged-not in austerity, but in engineered liquidity. **Proverbs 13:22
+*
 * : “A good man leaves an inheritance to his children's children.” In enterprise terms, the inheritance is stability.
 
 Continuity.
@@ -346,7 +347,8 @@ It fulfills
 
 ## THE MANDATE
 
- of **Proverbs 13:22*
+ of **Proverbs 13:22
+*
 * -continuity across generations, continuity across leadership transitions, continuity across market cycles.
 
 Debt is inheritance architecture.
@@ -387,4 +389,6 @@ Book a tactical consultation.
 
 Mandate: Liquidity-to-Resilience Ratio ≥ 1.4.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

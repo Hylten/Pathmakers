@@ -46,9 +46,11 @@ The gap is structural.
 
 And structural gaps always create opportunity.
 
-This is where Pathmaker stands. 
+This is where Pathmaker stands.
 
-## PHASE ONE. ## ## ## .
+PHASE ONE. 
+
+ ## .
 
 PRIVATE BRIEFING.
 
@@ -128,9 +130,9 @@ Owners respond to seriousness.
 
 They respond to clarity.
 
-And they respond to an analyst team that does not treat them as leads, but as principals on their own side of the table. 
+And they respond to an analyst team that does not treat them as leads, but as principals on their own side of the table.
 
-## PHASE TWO.
+PHASE TWO.
 
 PRINCIPAL VOICE.
 
@@ -200,11 +202,11 @@ Machine-gun clarity again: Ambiguity kills deals.
 
 Alignment builds deals.
 
-Intent closes deals. 
+Intent closes deals.
 
-## PHASE THREE. ## 
+PHASE THREE.
 
-## INTERNAL BYPASS .
+INTERNAL BYPASS .
 
 VARIED SYNTAX.
 
@@ -301,8 +303,9 @@ Intent is forged upstream.
 
 Exit readiness is built upstream.
 
-The most valuable deals of 2026-202
-8 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
+The most valuable deals of 2026-20
+
+28 will be off‑market, not because they were hidden, but because they were shaped early, conditioned early, clarified early.
 
 When readiness meets timing, deal velocity increases.
 
@@ -410,4 +413,6 @@ Outcomes become principled.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

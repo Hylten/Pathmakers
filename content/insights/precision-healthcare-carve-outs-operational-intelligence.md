@@ -20,15 +20,19 @@ As a result, most mid-market healthcare platforms fail to cross the threshold of
 
 The predictable consequence is a widening gap between intrinsic value and executable enterprise value.
 
-The present briefing outlines the ## 
+The present briefing outlines the 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  of precision healthcare carve-outs, the operational engineering required to achieve exit readiness, and the institutional filters that determine whether a mid-market operator becomes transactable.
 
 The orientation is decisively tactical.
 
-The focus is on removing M&A friction, compressing transaction latency, and generating clarity for buyers, lenders, and strategic consolidators. ## ## ## ## 
+The focus is on removing M&A friction, compressing transaction latency, and generating clarity for buyers, lenders, and strategic consolidators. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -57,7 +61,11 @@ Precision healthcare assets with predictable clinical volumes become trapped ins
 
 Carve-outs are not value creation events.
 
-Carve-outs are value revelation events. ## ## ## ## 
+Carve-outs are value revelation events. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -98,8 +106,9 @@ Balance sheet calibration Precision healthcare carve-outs require balance sheet 
 
 This includes separating: 
 -  Equipment financing obligations 
--  Lease commitments under IFRS 1
-6 
+-  Lease commitments under IFRS 
+
+16 
 -  Supplier contracts and consumables 
 -  Service agreements for clinical devices 
 -  Working capital accounts Allocators cannot accept balance sheet contamination.
@@ -165,7 +174,11 @@ In precision healthcare, the greatest competitive advantage is not price discove
 
 The greatest competitive advantage is operational readability.
 
-Institutions deploy capital more confidently when operational opacity is removed. ## ## ## ## 
+Institutions deploy capital more confidently when operational opacity is removed. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance.
 
@@ -185,12 +198,13 @@ The stewardship filter evaluates:
 
 Stewardship is not a philosophical exercise.
 
-It is a technical posture that aligns with **Proverbs 13:22*
+It is a technical posture that aligns with **Proverbs 13:22
+*
 * .
 
-Effective operators build structures that endure beyond transitional ownership and generate long-term stability for patients, clinicians, and capital partners. ## ## ## 
+Effective operators build structures that endure beyond transitional ownership and generate long-term stability for patients, clinicians, and capital partners.
 
-## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating precision healthcare carve-outs must apply a set of due diligence filters that determine whether the asset is executable, scalable, and resilient.
+DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating precision healthcare carve-outs must apply a set of due diligence filters that determine whether the asset is executable, scalable, and resilient.
 
 The core evaluation criteria include: 
 -  Operational independence: The unit must function autonomously without reliance on seller-controlled infrastructure. 
@@ -208,4 +222,6 @@ Allocators evaluating mid-market healthcare opportunities benefit from assessing
 
 These variables determine the execution probability and ultimately define whether a transaction is viable within institutional timelines.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

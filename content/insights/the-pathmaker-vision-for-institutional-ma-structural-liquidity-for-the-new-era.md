@@ -66,7 +66,7 @@ We create certainty when the clock is ticking and the opportunity is perishable.
 
 ## The Pathmaker Capital Suite Precision Tools for Sophisticated Buyers Our platform is simple by design.
 
-We offer three primary [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators. # 
+We offer three primary [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) categories, each engineered for high net worth and ultra high net worth clients, family offices, institutional buyers, and seasoned consolidators.
 
 ## Private Credit Capital Structuring Private credit is now the backbone of mid market M&A.
 
@@ -74,7 +74,7 @@ We lend against private credit positions with the clarity and pragmatism require
 
 Our underwriting philosophy is grounded in cash flow reality, not hypothetical future stabilization.
 
-We finance the deal that exists, not the version the sell side pitched. # 
+We finance the deal that exists, not the version the sell side pitched.
 
 ## Asset Based Monetization Architecture Asset based Monetization Architecture is experiencing a renaissance.
 
@@ -88,7 +88,7 @@ In healthcare carve outs, Asset-Based Lending becomes particularly strategic.
 
 The assets are often underutilized, mispriced, or misaligned within large parent systems.
 
-We understand how to unlock that value. # 
+We understand how to unlock that value.
 
 ## Crypto Strategic Collateralization Minimum threshold: 
 2 million.
@@ -101,7 +101,7 @@ Digital collateral, when properly analyzed and properly secured, is liquid, port
 
 Pathmaker lends in a way that respects the asset class without exaggerating it.
 
-This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure. # 
+This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure.
 
 ## Public Share Capital Structuring Minimum threshold: 
 5 million.
@@ -271,4 +271,6 @@ For the buyers who understand what this cycle demands, Pathmaker becomes a strat
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

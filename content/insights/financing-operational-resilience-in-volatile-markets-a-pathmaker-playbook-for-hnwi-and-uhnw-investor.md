@@ -110,4 +110,6 @@ We serve HNWI and UHNW operators who require liquidity that performs under press
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -104,4 +104,6 @@ For principals who understand that liquidity is the keystone of execution, the n
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

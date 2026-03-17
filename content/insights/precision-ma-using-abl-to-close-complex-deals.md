@@ -120,21 +120,29 @@ The mechanics that matter are simple.
 
 They just require discipline. # ## 
 
-1. Asset clarity We evaluate what the business is today, not what it might be in six months.
+1.
+
+Asset clarity We evaluate what the business is today, not what it might be in six months.
 
 This protects the borrower and the lender. # ## 
 
-2. Liquidity synchronization Liquidity must release in alignment with operational milestones.
+2.
+
+Liquidity synchronization Liquidity must release in alignment with operational milestones.
 
 If capital arrives too early, it becomes inefficient.
 
 If it arrives too late, the integration suffers. # ## 
 
-3. Covenant realism Transition periods need room, not fantasy projections.
+3.
+
+Covenant realism Transition periods need room, not fantasy projections.
 
 We engineer covenants around operational bandwidth, not investor wish lists. # ## 
 
-4. Exit visibility Asset-Based Lending is not meant to be permanent.
+4.
+
+Exit visibility Asset-Based Lending is not meant to be permanent.
 
 Its value comes from giving the business enough runway to reach a more optimal capital stack.
 
@@ -158,9 +166,13 @@ We lend into crypto and public share positions when liquidity is required above 
 
 Crypto Capital Structuring begins at 2,000, 
 
-000. Public share Strategic Collateralization begins at 5,000, 
+000.
 
-000. These are not retail facilities.
+Public share Strategic Collateralization begins at 5,000, 
+
+000.
+
+These are not retail facilities.
 
 These are engineered liquidity instruments for operators who understand leverage as a tactical asset.
 
@@ -180,7 +192,7 @@ But because legacy financing models cannot accommodate the friction.
 
 Asset-Based Lending solves friction.
 
-Here is how that plays out in practice. # 
+Here is how that plays out in practice.
 
 ## Scenario 1: The seller wants a clean exit, but the business needs immediate stabilization An operator identifies a distressed division inside a larger healthcare system.
 
@@ -200,7 +212,7 @@ Asset-Based Lending unlocks receivables.
 
 This provides the liquidity to stabilize operations during the immediate post close window.
 
-The deal closes, not because it is beautiful, but because the capital structure absorbs its complexity. # 
+The deal closes, not because it is beautiful, but because the capital structure absorbs its complexity.
 
 ## Scenario 2: The buyer has adequate equity but refuses to compromise liquidity HNWI and UHNW buyers understand that liquidity is strategy.
 
@@ -210,7 +222,7 @@ Asset-Based Lending allows them to maintain strength while still closing efficie
 
 The structure preserves their ability to move quickly on subsequent opportunities.
 
-It also prevents concentration risk that private investors often underestimate. # 
+It also prevents concentration risk that private investors often underestimate.
 
 ## Scenario 3: The carve out requires parallel integration and disengagement In a carve out, two timelines run simultaneously.
 
@@ -264,8 +276,12 @@ This three stage progression absorbs risk at each phase instead of concentrating
 
 Pathmaker does.
 
-Above 2,000,00
-0 in crypto assets Above 5,000,00
+Above 2,000,
+
+00
+0 in crypto assets Above 5,000,
+
+00
 0 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
 
 This unlocks liquidity for operators who otherwise would have to sell positions, trigger tax events, or disrupt long term allocation strategies.
@@ -310,9 +326,9 @@ We do not replace institutional capital.
 
 We provide the mechanics that allow it to function in environments it cannot natively navigate. 
 
-## Strategic ## 
+## Strategic 
 
-## CONCLUSION
+ CONCLUSION
 
  Complex M&A is a structural challenge.
 
@@ -334,10 +350,14 @@ We engineer Asset-Based Lending with institutional discipline.
 
 We extend collateral based Capital Structuring into crypto and public shares where scale and sophistication begin.
 
-Above 2,000,00
+Above 2,000,
+
+00
 0 for crypto.
 
-Above 5,000,00
+Above 5,000,
+
+00
 0 for public equities.
 
 No noise.
@@ -348,4 +368,6 @@ Only structural competence.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

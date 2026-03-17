@@ -202,4 +202,6 @@ Built to be entrusted to institutional buyers without fear.
 
  is to prepare for acquisition with institutional authority and eliminate M&A friction through tactical due diligence, you may initiate a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

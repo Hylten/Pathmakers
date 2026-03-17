@@ -86,7 +86,7 @@ Asset-Based Lending turns the asset base into a liquidity engine, allowing buyer
 
 Asset-Based Lending interacts differently with each stage.
 
-Below is a real, operator-level view of how the mechanics work. # 
+Below is a real, operator-level view of how the mechanics work.
 
 ## Stage 1: Pre-Close Liquidity Mapping This is where most buyers under-prepare.
 
@@ -102,7 +102,7 @@ Pre-close Asset-Based Lending underwriting should map:
 -  Vendor contract re-cut schedules 
 -  Balance sheet irregularities hidden by parent allocation methods Without this pre-close map, buyers misprice the capital stack.
 
-With it, they create a realistic liquidity model that supports decisive execution. # 
+With it, they create a realistic liquidity model that supports decisive execution.
 
 ## Stage 2: Day-One Operational Separation On day one, the buyer inherits a partially operable business.
 
@@ -121,7 +121,7 @@ Asset-Based Lending gives the buyer the liquidity buffer to:
 -  Continue payroll without disruption 
 -  Fund TSA requirements without draining equity reserves Asset-Based Lending does not fix the carve-out.
 
-It buys time to fix the carve-out. # 
+It buys time to fix the carve-out.
 
 ## Stage 3: The Transitional Grind This is the twelve-month window where operational truth surfaces.
 
@@ -139,7 +139,7 @@ Asset-Based Lending excels here.
 
 As long as the asset base remains healthy, collateral availability increases even as the P&L compresses temporarily.
 
-This provides liquidity exactly when the business feels the most strained. # 
+This provides liquidity exactly when the business feels the most strained.
 
 ## Stage 4: Stabilization and Value Extraction A well-structured carve-out exits the transitional grind with: 
 -  Cleaner contracts 
@@ -200,9 +200,13 @@ HNWI and UHNW buyers prioritize:
 ## When Crypto Institutional Liquidity Paths and Public Share Institutional Liquidity Paths Strengthen the Capital Stack Technology carve-out buyers with diversified portfolios often have liquid but underutilized asset classes.
 
 Pathmaker supports this dynamic through: 
--  Crypto Capital Structuring with a minimum threshold of 2,000,00
+-  Crypto Capital Structuring with a minimum threshold of 2,000,
+
+00
 0 
--  Public Share Strategic Collateralization with a minimum threshold of 5,000,00
+-  Public Share Strategic Collateralization with a minimum threshold of 5,000,
+
+00
 0 These mechanisms allow buyers to unlock liquidity from their broader assets without exiting long-term positions.
 
 The benefit is straightforward.
@@ -215,21 +219,21 @@ They simply weaponize balance sheet optionality.
 
 We do not.
 
-Below are risks that must be priced correctly if the carve-out is going to survive the first twelve months. # 
+Below are risks that must be priced correctly if the carve-out is going to survive the first twelve months.
 
 ## Systems Migration Risk Most carve-outs underestimate the cost and time required to stand up independent systems.
 
-Billing and revenue management systems are the most fragile, and the most expensive to stabilize. # 
+Billing and revenue management systems are the most fragile, and the most expensive to stabilize.
 
 ## Customer Continuity Risk Customers renew based on perceived stability.
 
-Turbulence during separation can create unexpected churn, especially in healthcare tech, fintech, and regulated SaaS verticals. # 
+Turbulence during separation can create unexpected churn, especially in healthcare tech, fintech, and regulated SaaS verticals.
 
 ## Vendor Dependency Risk Parent-level pricing disappears.
 
 Buyers enter contractual negotiations from a weaker position.
 
-Liquidity buys leverage, not just time. # 
+Liquidity buys leverage, not just time.
 
 ## Margin Decompression Risk Temporary margin collapse is normal after a carve-out.
 
@@ -249,7 +253,9 @@ Asset-Based Lending creates:
 -  Competitive bidding power 
 -  Operational breathing room 
 -  A structured liquidity framework that matches actual carve-out behavior 
--  The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge. ## ## 
+-  The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge. 
+
+ 
 
 ## CONCLUSION
 
@@ -270,11 +276,17 @@ Asset-Based Lending gives buyers:
 
 We provide Capital Structuring against Private Credit and Asset-Based Capital Structuring.
 
-We support crypto Monetization Architecture starting at 2,000,00
+We support crypto Monetization Architecture starting at 2,000,
+
+00
 0 and public share Capital Structuring starting at 5,000, 
 
-000. We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
+000.
+
+We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

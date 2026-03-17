@@ -428,4 +428,6 @@ Your next move determines whether your company becomes an asset or a liability u
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

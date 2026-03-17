@@ -441,9 +441,9 @@ It reduces legal and advisory bleed.
 
 This is not theory.
 
-It is economic law. ## 
+It is economic law.
 
-## THE MANDATE
+THE MANDATE
 
  Every owner will exit.
 
@@ -473,4 +473,6 @@ Uncompromising.
 
 ## Book a Strategic Consultation If you need structural certainty, controlled liquidity, and institutional grade exit readiness, book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

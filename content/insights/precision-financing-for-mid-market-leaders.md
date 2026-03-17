@@ -180,9 +180,13 @@ Private credit positions.
 
 Crypto assets with a minimum threshold of 2,000, 
 
-000. Public share holdings with a minimum threshold of 5,000, 
+000.
 
-000. This allows HNWI and UHNW operators to stay fully invested while still capturing time sensitive opportunities.
+Public share holdings with a minimum threshold of 5,000, 
+
+000.
+
+This allows HNWI and UHNW operators to stay fully invested while still capturing time sensitive opportunities.
 
 Liquidity should never interrupt strategy.
 
@@ -194,7 +198,9 @@ Pathmaker operates on a completely different wavelength.
 
 We treat crypto as collateral only when it is held in institutional grade custody.
 
-We maintain a minimum threshold of 2,000,00
+We maintain a minimum threshold of 2,000,
+
+00
 0 to ensure alignment with sophisticated asset owners.
 
 We engineer Strategic Collateralization mechanics that reflect real risk, not retail panic.
@@ -225,7 +231,9 @@ Liquidating these positions to fund a transaction is often the worst possible de
 
 Pathmaker fills that gap with Monetization Architecture mechanics built specifically for sophisticated equity holders.
 
-We maintain a minimum threshold of 5,000,00
+We maintain a minimum threshold of 5,000,
+
+00
 0 to ensure alignment with the clients who can benefit from this level of engineering.
 
 We allow operators to unlock liquidity quietly, without reducing strategic exposure. 
@@ -318,4 +326,6 @@ Pathmaker provides precision financing for those who operate without margin for 
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

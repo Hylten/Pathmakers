@@ -102,8 +102,9 @@ Hub‑and‑spoke revenue bodies embedded in service ecosystems.
 
 All of them can be structured into lending envelopes.
 
-Most operators only capture 20‑4
-0 percent of collateral potential because assets are trapped inside operational entities that were never designed for extraction.
+Most operators only capture 20‑
+
+40 percent of collateral potential because assets are trapped inside operational entities that were never designed for extraction.
 
 This is the institutional failure Pathmaker corrects.
 
@@ -170,7 +171,8 @@ Equity becomes optional.
 
 This is the core thesis behind Capital Structuring: remove emotion, replace with mechanics.
 
-Remove uncertainty, replace with instruments. **Proverbs 13:22*
+Remove uncertainty, replace with instruments. **Proverbs 13:22
+*
 * : *A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 * Intergenerational asset discipline begins with institutional order, not personal intention.
 
@@ -212,17 +214,29 @@ That is the sovereign posture Pathmaker constructs.
 
 The mechanics: 
 
-1. We identify asset classes with immediate lendability. 
+1.
 
-2. We model collateral values under three scenarios. 
+We identify asset classes with immediate lendability. 
 
-3. We create entity isolation using SPVs, trusts, or JV stacks depending on jurisdiction. 
+2.
 
-4. We assign lender‑friendly covenants. 
+We model collateral values under three scenarios. 
 
-5. We sequence liens vertically. 
+3.
 
-6. We embed exit pathways.
+We create entity isolation using SPVs, trusts, or JV stacks depending on jurisdiction. 
+
+4.
+
+We assign lender‑friendly covenants. 
+
+5.
+
+We sequence liens vertically. 
+
+6.
+
+We embed exit pathways.
 
 The outcome is an institutional asset spine.
 
@@ -424,7 +438,10 @@ That is the Pathmaker mandate.
 
 Book a tactical consultation.
 
-Metric: Collateral Efficiency Ratio target: 0.8
-2 or higher.
+Metric: Collateral Efficiency Ratio target: 0.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+82 or higher.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

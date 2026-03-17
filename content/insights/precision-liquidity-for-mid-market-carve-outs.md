@@ -257,7 +257,9 @@ And the liquidity environment is tightening around anything that looks complicat
 
 Yet complexity is where the best opportunities live.
 
-But only for those who can activate capital decisively. ## ## 
+But only for those who can activate capital decisively. 
+
+ 
 
 ## CONCLUSION
 
@@ -279,4 +281,6 @@ If you need liquidity that behaves with purpose, precision, and principal author
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

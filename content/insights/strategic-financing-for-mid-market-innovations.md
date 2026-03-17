@@ -91,13 +91,19 @@ Traditional credit lines and banking products are insufficient for the scale, ve
 
 Pathmaker provides three pillars of specialized liquidity: # ## 
 
-1. Private Credit Monetization Architecture Used for acquisitions, recapitalizations, opportunistic buys, distressed transitions, and accelerated deployment. # ## 
+1.
 
-2. Asset Based Monetization Architecture Grounded in collateral strength and operational integrity.
+Private Credit Monetization Architecture Used for acquisitions, recapitalizations, opportunistic buys, distressed transitions, and accelerated deployment. # ## 
+
+2.
+
+Asset Based Monetization Architecture Grounded in collateral strength and operational integrity.
 
 Ideal for healthcare operators with clean receivables or tangible asset value. # ## 
 
-3. Alternative Collateral Monetization Architecture This category includes crypto Strategic Collateralization with a minimum threshold of 
+3.
+
+Alternative Collateral Monetization Architecture This category includes crypto Strategic Collateralization with a minimum threshold of 
 2 million dollars, and public share Monetization Architecture with a minimum threshold of 
 5 million dollars.
 
@@ -115,8 +121,9 @@ Regulatory friction.
 
 And the operational decay that occurs when a parent entity disengages.
 
-Mid-market operators stepping into these assets often underestimate the liquidity needed to stabilize the first 9
-0 days.
+Mid-market operators stepping into these assets often underestimate the liquidity needed to stabilize the first 
+
+90 days.
 
 This includes: 
 -  Payroll gaps 
@@ -170,12 +177,12 @@ Tax impact is significant.
 
 Market timing risk is visible.
 
-Pathmaker structures non-liquidating liquidity solutions: # 
+Pathmaker structures non-liquidating liquidity solutions:
 
 ## Crypto Asset-Backed Frameworks Minimum threshold: 
 2 million dollars.
 
-Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events. # 
+Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events.
 
 ## Public Share Institutional Liquidity Paths Minimum threshold: 
 5 million dollars.
@@ -248,4 +255,6 @@ If your strategy requires liquidity you do not yet control, the next move is sim
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

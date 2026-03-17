@@ -12,8 +12,9 @@ Capital is cautious.
 
 Processes take longer.
 
-Sellers remain price anchored to 202
-1 while buyers are pricing in recessionary scenarios.
+Sellers remain price anchored to 20
+
+21 while buyers are pricing in recessionary scenarios.
 
 And every week that passes without movement costs the business real cash.
 
@@ -69,7 +70,9 @@ The longer a transaction drags, the weaker it becomes.
 
 Precision Asset-Based Lending accelerates execution in four ways. ## 
 
-1. Rapid liquidity underwriting around real asset behavior Precision Asset-Based Lending does not wait for standardized field exams.
+1.
+
+Rapid liquidity underwriting around real asset behavior Precision Asset-Based Lending does not wait for standardized field exams.
 
 It builds balance sheet optimization base intelligence early in the process using real time data pulls, industry specific collateral models, and rolling performance analytics.
 
@@ -85,7 +88,9 @@ No generic discounts.
 
 No waiting for a post exclusivity surprise. ## 
 
-2. balance sheet optimization bases that flex to the first 18
+2. balance sheet optimization bases that flex to the first 
+
+18
 0 days of operational reality Most carve outs and first time stand ups face an unavoidable dip in performance.
 
 Precision Asset-Based Lending anticipates that dip and builds a capital structure that absorbs it.
@@ -96,7 +101,9 @@ Examples include:
 -  Trigger based availability expansions tied to integration milestones 
 -  Embedded liquidity cushions for AR re aging cycles This prevents the classic scenario where the deal closes and liquidity collapses in week four. ## 
 
-3. Early identification of hidden working capital requirements Precision Asset-Based Lending exposes the operational liabilities that derail deals.
+3.
+
+Early identification of hidden working capital requirements Precision Asset-Based Lending exposes the operational liabilities that derail deals.
 
 Not the theoretical ones.
 
@@ -113,7 +120,9 @@ You structure correctly.
 
 You negotiate correctly. ## 
 
-4. Accelerated close because lenders are aligned with transaction strategy Traditional Asset-Based Lending lenders slow deals because their risk procedures are not built for M&A stress.
+4.
+
+Accelerated close because lenders are aligned with transaction strategy Traditional Asset-Based Lending lenders slow deals because their risk procedures are not built for M&A stress.
 
 Precision Asset-Based Lending lenders operate differently.
 
@@ -160,13 +169,17 @@ Precision Asset-Based Lending structures liquidity around the expected turbulenc
 
 It adds availability where the dip occurs and constrains availability where operational stability has not been proven. 
 
-## It supports aggressive 10
+## It supports aggressive 
+
+10
 0 day value creation cycles Healthcare targets often have: 
 -  Slow coding throughput 
 -  Backlogged denials 
 -  Under optimized payer contracts 
 -  Fragmented intake workflows 
--  Unmonitored case mix shifts Precision Asset-Based Lending creates liquidity room to invest in these fixes during the first 10
+-  Unmonitored case mix shifts Precision Asset-Based Lending creates liquidity room to invest in these fixes during the first 
+
+10
 0 days.
 
 This prevents the typical vicious cycle where operators know what needs improvement but lack the working capital to execute. # Precision Asset-Based Lending in Industrial and Manufacturing M&A Manufacturing deals look clean on paper.
@@ -285,4 +298,6 @@ It is the tool that determines whether the deal survives the current market real
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

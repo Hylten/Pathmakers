@@ -74,15 +74,25 @@ They involve patient care obligations, reimbursement cycles, credentialing issue
 
 The most common issues in healthcare carve outs include: 
 
-1. Working capital gaps. 
+1.
 
-2. Delays in claims processing. 
+Working capital gaps. 
 
-3. Vendor friction due to new credit identities. 
+2.
 
-4. Payroll timing mismatches. 
+Delays in claims processing. 
 
-5. Compliance driven CapEx requirements.
+3.
+
+Vendor friction due to new credit identities. 
+
+4.
+
+Payroll timing mismatches. 
+
+5.
+
+Compliance driven CapEx requirements.
 
 Traditional lenders hesitate due to regulatory complexity and opaque receivables.
 
@@ -180,4 +190,6 @@ The next move is resilience.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -56,7 +56,8 @@ Certainty is liquidity in motion.
 
 Healthcare M&A is no longer about strategy.
 
-It is about readiness. **Proverbs 13:22*
+It is about readiness. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 In M&A translation, value flows toward operational discipline, financial foresight, and institutions that know how to move capital without frictions.
@@ -238,15 +239,25 @@ No cycles lost.
 
 Pathmaker in healthcare M&A requires five pillars: 
 
-1. Liquidity channels that bypass traditional lender sequencing. 
+1.
 
-2. Underwriting intelligence built on vertical-specific metrics. 
+Liquidity channels that bypass traditional lender sequencing. 
 
-3. Off‑market sourcing that avoids competitive devaluation. 
+2.
 
-4. Exit readiness frameworks that remove diligence volatility. 
+Underwriting intelligence built on vertical-specific metrics. 
 
-5. Transaction choreography that compresses the execution window.
+3.
+
+Off‑market sourcing that avoids competitive devaluation. 
+
+4.
+
+Exit readiness frameworks that remove diligence volatility. 
+
+5.
+
+Transaction choreography that compresses the execution window.
 
 Pillar One: Liquidity Channels The architecture uses diversified capital pathways: private credit, structured equity, specialist funds, cash-flow backed facilities.
 
@@ -477,9 +488,13 @@ Move first.
 
 Close fast.
 
-Technical End Metric: Target execution window for €25M.€150M healthcare acquisitions should compress to 41-6
-3 days end-to-end.
+Technical End Metric: Target execution window for €25M.€150M healthcare acquisitions should compress to 41
+-
+
+63 days end-to-end.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -154,7 +154,8 @@ This is where premiums rise.
 
 Where speed compounds.
 
-Where value realizes. **Proverbs 13:22*
+Where value realizes. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children.
 
 Structurally translated into M&A: long-term architecture outperforms opportunistic timing. 
@@ -399,7 +400,9 @@ These signals create a new perimeter for readiness.
 A seller prepared for domestic buyers may be engaging at level 
 4 while international buyers operate at level 
 
-8. The gap becomes valuation loss.
+8.
+
+The gap becomes valuation loss.
 
 Alignment closes that gap.
 
@@ -488,4 +491,6 @@ This is the environment where operators either architect their legacy or lose va
 
  stands: Structural Delta Required: 18.4% Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

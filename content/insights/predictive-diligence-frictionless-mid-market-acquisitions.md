@@ -26,7 +26,9 @@ Precision replaces speculation.
 
 Velocity replaces delay.
 
-This is the new frontier of Exit Readiness and off‑market origination. ## ## ## 
+This is the new frontier of Exit Readiness and off‑market origination. 
+
+ ## 
 -  PRIVATE BRIEFING Closed‑door mode.
 
 Structural depth only.
@@ -143,7 +145,9 @@ Too large to be informal, too small to be properly institutional.
 
 This creates three predictable forms of hidden risk: 
 
-1. Process Drift Over time, complexity outpaces process.
+1.
+
+Process Drift Over time, complexity outpaces process.
 
 What begins as a clean operational system becomes a collection of workarounds held together by tribal knowledge.
 
@@ -153,7 +157,9 @@ It shows up in patterns: inconsistent lead times, variable margin capture, errat
 
 Predictive diligence surfaces this months before traditional diligence would. 
 
-2. Leadership Fatigue Founder‑led companies often run on accumulated endurance.
+2.
+
+Leadership Fatigue Founder‑led companies often run on accumulated endurance.
 
 Fatigue shows up in leadership rhythms: slow decision cycles, deferred investments, hiring stoppages, or inconsistent executive reporting.
 
@@ -161,7 +167,9 @@ Buyers only see this post‑LOI during management interviews-far too late.
 
 Predictive diligence reads the signals early: calendar rhythms, staffing patterns, vendor relationships, operational backlog. 
 
-3. Value Concentration Fragility Most mid‑market companies have disproportionate revenue concentration, vendor dependence, or technical single points of failure.
+3.
+
+Value Concentration Fragility Most mid‑market companies have disproportionate revenue concentration, vendor dependence, or technical single points of failure.
 
 Traditional diligence identifies the concentration but does not quantify fragility.
 
@@ -349,4 +357,6 @@ It is the new requirement to operate at the highest tier of mid‑market strateg
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -188,4 +188,6 @@ And with structural authority.
 
 ## Book a Strategic Consultation If you require structured financing, Monetization Architecture, or asset based Strategic Collateralization designed for real operations, book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

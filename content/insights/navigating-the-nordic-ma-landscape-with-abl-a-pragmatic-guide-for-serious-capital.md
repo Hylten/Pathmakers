@@ -57,17 +57,17 @@ Pathmaker is designed around that reality.
 
 ## The Mechanics of Asset-Based Lending for Nordic M&A Effective Asset-Based Lending requires three pillars.
 
-All must be present or the structure collapses. # 
+All must be present or the structure collapses.
 
-## Pillar One: Collateral Intelligence We map the value of receivables, inventory, equipment, and contracted revenue streams.
+Pillar One: Collateral Intelligence We map the value of receivables, inventory, equipment, and contracted revenue streams.
 
 Nordic healthcare assets are predictable.
 
 Industrial assets are standardized.
 
-Collateral intelligence transforms this predictability into leverage without inflating expectations. # 
+Collateral intelligence transforms this predictability into leverage without inflating expectations.
 
-## Pillar Two: Cash Flow Discipline Asset-Based Lending must pair with real cash flow visibility.
+Pillar Two: Cash Flow Discipline Asset-Based Lending must pair with real cash flow visibility.
 
 Not projections.
 
@@ -77,9 +77,9 @@ We analyze billing cycles, payer mixes, and reimbursement rhythms in healthcare 
 
 Industrial and logistics assets follow different timing but equally tight patterns.
 
-Discipline here ensures balance sheet optimization bases remain stable even in seasonal variance. # 
+Discipline here ensures balance sheet optimization bases remain stable even in seasonal variance.
 
-## Pillar Three: Legal Precision Nordic jurisdictions are clean but unforgiving.
+Pillar Three: Legal Precision Nordic jurisdictions are clean but unforgiving.
 
 Collateral perfection must be flawless.
 
@@ -175,8 +175,9 @@ They need structural ammunition.
 
 Our minimum thresholds for crypto Institutional Liquidity Paths and public share Monetization Architecture reflect that expectation and ensure alignment with serious capital operators. 
 
-## The Tactical Advantage of Asset-Based Lending in 202
-6 and Beyond The Nordic economy is stable but cautious.
+## The Tactical Advantage of Asset-Based Lending in 20
+
+26 and Beyond The Nordic economy is stable but cautious.
 
 Deals still happen, but only when buyers demonstrate mastery of financing architecture.
 
@@ -192,4 +193,6 @@ Pathmaker builds both for those who operate above market noise.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

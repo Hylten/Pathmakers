@@ -32,9 +32,13 @@ Certainty‑seeking.
 
 They move without theatrics, because there is nothing left to surprise them.
 
-This is the analyst briefing on how that advantage is constructed. ## ## ## ## ( 
+This is the analyst briefing on how that advantage is constructed. 
 
-## PHASE 1) Private-structural-unfiltered.
+ 
+
+ ( 
+
+### Phase I: ) Private-structural-unfiltered.
 
 The mid‑market is undergoing a fundamental shift.
 
@@ -54,13 +58,15 @@ They want to validate order.
 
 If they cannot validate order quickly, they quietly move on to the next file.
 
-Here is the hidden arithmetic: Every buyer can evaluate three times more opportunities than they could 1
-0 years ago.
+Here is the hidden arithmetic: Every buyer can evaluate three times more opportunities than they could 
+
+10 years ago.
 
 Time has become their scarcest resource.
 
-The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills 8
-0 percent of pipeline.
+The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills 
+
+80 percent of pipeline.
 
 Proactive sell‑side diligence is not a binder.
 
@@ -74,11 +80,17 @@ And only a few founders understand its power.
 
 ## THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON 
 
-1. The explosion of private data. 
+1.
 
-2. The compression of buyer bandwidth. 
+The explosion of private data. 
 
-3. The rise of algorithmic screening.
+2.
+
+The compression of buyer bandwidth. 
+
+3.
+
+The rise of algorithmic screening.
 
 Buyers are drowning in deal flow.
 
@@ -113,9 +125,9 @@ Each reducing noise.
 
 Each increasing buyer conviction.
 
-Let’s break them down with structural clarity. 
+Let’s break them down with structural clarity.
 
-## PILLAR ONE: FINANCIAL PRECISION The buyer must see the machine without distortion.
+PILLAR ONE: FINANCIAL PRECISION The buyer must see the machine without distortion.
 
 This is not about beautifying numbers.
 
@@ -138,17 +150,19 @@ Competence proves reliability.
 
 Reliability lowers the buyer’s cost of capital and increases the price they will pay.
 
-When a founder hands a buyer a model that withstands scrutiny, the buyer reduces their diligence budget by 3
-0 to 5
-0 percent.
+When a founder hands a buyer a model that withstands scrutiny, the buyer reduces their diligence budget by 
+
+30 to 
+
+50 percent.
 
 They accelerate their internal approvals.
 
 They bring the founder directly to IC instead of sending them through analyst filters.
 
-Speed is leverage. 
+Speed is leverage.
 
-## PILLAR TWO: OPERATIONAL TRANSPARENCY This is where most founders fail.
+PILLAR TWO: OPERATIONAL TRANSPARENCY This is where most founders fail.
 
 Buyers do not fear imperfect operations.
 
@@ -180,7 +194,7 @@ They move.
 
 One link, used sparingly and organically: structuring through Roials Capital [Roials Capital](https://roialscapital.com/) 
 
-## PILLAR THREE: COMMERCIAL PREDICTABILITY Revenue without predictability is storytelling.
+PILLAR THREE: COMMERCIAL PREDICTABILITY Revenue without predictability is storytelling.
 
 Revenue with predictability is enterprise value.
 
@@ -203,11 +217,17 @@ The moment the buyer believes continuity exists, the negotiation shifts in the f
 
 ## THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places: 
 
-1. Surprises 
+1.
 
-2. Delays 
+Surprises 
 
-3. Ambiguity Proactive diligence eliminates all three.
+2.
+
+Delays 
+
+3.
+
+Ambiguity Proactive diligence eliminates all three.
 
 Buyers increase their offer when uncertainty decreases.
 
@@ -272,13 +292,21 @@ AI replaces the latency around diligence.
 
 Founders using AI‑first credit and M&A architecture gain four advantages: 
 
-1. They restructure their data faster than buyers expect. 
+1.
 
-2. They automate document mapping, financial reconciliation, and customer analysis. 
+They restructure their data faster than buyers expect. 
 
-3. They build repeatable patterns across multiple scenarios. 
+2.
 
-4. They eliminate human bottlenecks in preparing for a sale.
+They automate document mapping, financial reconciliation, and customer analysis. 
+
+3.
+
+They build repeatable patterns across multiple scenarios. 
+
+4.
+
+They eliminate human bottlenecks in preparing for a sale.
 
 The founder who uses AI to clean their financial and operational footprint is not gaming the system.
 
@@ -316,4 +344,6 @@ We build the order.
 
 Book a tactical consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

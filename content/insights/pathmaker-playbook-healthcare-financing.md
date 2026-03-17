@@ -12,9 +12,9 @@ Throughout the Nordic and DACH regions, structurally durable clinics, specialty 
 
 This regime shift is producing an environment where the pathmaker role is no longer optional.
 
-It has become the defining advantage for sponsors, operators, and institutional buyers who require exit readiness without friction and origination channels that escape the competitive noise. ## 
+It has become the defining advantage for sponsors, operators, and institutional buyers who require exit readiness without friction and origination channels that escape the competitive noise.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  .
 
@@ -52,9 +52,9 @@ It is readiness.
 
 Institutional buyers allocate toward assets where operational documentation aligns with due diligence protocols, revenue quality is verified, and compliance risks are neutralized.
 
-This is where most mid-market healthcare platforms fail to match institutional appetite. ## 
+This is where most mid-market healthcare platforms fail to match institutional appetite.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  .
 
@@ -64,7 +64,9 @@ It depends on transforming operational performance into a format that private eq
 
 The Pathmaker Playbook leverages three primary mechanics. 
 
-1. Compliance Structuring.
+1.
+
+Compliance Structuring.
 
 Healthcare transactions are heavily weighted toward operational risk.
 
@@ -84,7 +86,9 @@ This includes audit trails, documentation cadence, supervisory frameworks, and c
 
 When these structures exist before sale preparation, transaction velocity increases and the risk discount narrows. 
 
-2. Revenue Quality Verification.
+2.
+
+Revenue Quality Verification.
 
 Healthcare revenue is inherently sticky, but buyers require evidentiary proof of stability.
 
@@ -100,7 +104,9 @@ It is visibility engineering.
 
 Institutions deploy capital when the underlying economics are predictable and the data structure supports repeatability. 
 
-3. Capital Stack Optimization.
+3.
+
+Capital Stack Optimization.
 
 Most healthcare operators enter M&A processes with suboptimal financing.
 
@@ -136,15 +142,15 @@ In the healthcare vertical, the critical alignment points include:
 -  Monetization Architecture that ensures operators maintain stability throughout diligence cycles. 
 -  Balance Sheet Optimization that positions the entity for capital-intensive expansions or accretive bolt-ons. 
 -  Operational Hardening that transforms clinical processes into documented, repeatable systems. 
--  Institutional ## 
+-  Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  pathways that place the operator directly into off-market deal flows with sponsors seeking bolt-on or platform expansion opportunities.
 
-The ## 
+The 
 
-## INTRODUCTION
+ INTRODUCTION
 
  framework is driven by deal credibility.
 
@@ -154,7 +160,7 @@ The Pathmaker role ensures that by the time a healthcare platform reaches an acq
 
 This creates competitive tension and increases execution reliability.
 
-Phase 4: The Stewardship Filter.
+Phase IV: The Stewardship Filter.
 
 Stewardship is not philosophical.
 
@@ -165,7 +171,8 @@ Healthcare operators who practice stewardship manage their clinical assets, huma
 This aligns with the Theology of Capital, where resources are deployed without waste and where decisions generate continuity across generations.
 
 Stewardship demands clarity, discipline, and documentary integrity. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * speaks of the enduring impact of strategic resource management.
 
 In healthcare, stewardship manifests in the avoidance of operational shortcuts and the careful allocation of clinical and financial resources.
@@ -180,7 +187,7 @@ It is not a moral accessory.
 
 It is a strategic differentiator.
 
-Phase 5: Decision Architecture for Allocators.
+Phase V: Decision Architecture for Allocators.
 
 Institutional allocators evaluating European healthcare platforms require a lens that separates operational noise from structural signal.
 
@@ -208,4 +215,6 @@ For institutions exploring healthcare allocations, a confidential strategy audit
 
 The advantage lies not in discovering deals but in recognizing operators who have already solved the structural barriers that impede transaction execution. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

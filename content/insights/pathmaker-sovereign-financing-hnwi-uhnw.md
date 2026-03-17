@@ -12,7 +12,9 @@ It is a jurisdictional battlefield.
 
 Only three categories of actors win: states, institutions, and families with architecture.
 
-High‑net‑worth individuals and ultra‑high‑net‑worth operators rarely Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+High‑net‑worth individuals and ultra‑high‑net‑worth operators rarely Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The Pathmaker Approach resolves this structural deficit.
 
@@ -184,7 +186,9 @@ You demonstrate inevitability.
 
 Fourth layer: off‑market deal origination.
 
-Mid‑market opportunities are increasingly inAccess is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Mid‑market opportunities are increasingly inAccess is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Noise.
 
@@ -239,7 +243,8 @@ It positions the operator as an energy‑relevant stabilizer.
 
 This is why the architecture matters.
 
-Sovereign recognition is structural, not personal. **Proverbs 13:22*
+Sovereign recognition is structural, not personal. **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children’s children, but the wealth of the sinner is laid up for the just.
 
 Sovereign capital rewards structure.
@@ -279,7 +284,9 @@ Alignment accelerates capital flow.
 
 Pathmaker codifies the transition.
 
-Seventh layer: the Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Seventh layer: the Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Sovereign financing rarely begins with capital.
 
@@ -588,5 +595,8 @@ Sovereign recognition requires institutional discipline.
 
 Capital follows once identity stabilizes.
 
-Metric anchor: Sovereign Readiness Index ≥ 0.8
-2 required for corridor Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Metric anchor: Sovereign Readiness Index ≥ 0.
+
+82 required for corridor Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

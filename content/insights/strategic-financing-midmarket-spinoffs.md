@@ -10,11 +10,13 @@ The capital vacuum across the mid-market separation landscape is a direct result
 
 This vacuum accelerates as institutional credit remains rigid, sponsor appetite narrows, and operational entanglement increases the perceived hazard rate of incomplete or misstructured spin-offs.
 
-The resulting mispricing represents a persistent arbitrage for allocators and strategic operators capable of absorbing transitional friction through disciplined liquidity engineering and balance sheet optimization. 
+The resulting mispricing represents a persistent arbitrage for allocators and strategic operators capable of absorbing transitional friction through disciplined liquidity engineering and balance sheet optimization.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -22,8 +24,9 @@ The resulting mispricing represents a persistent arbitrage for allocators and st
 
 The underlying forces shaping this regime include: 
 -  Regulatory divergence across jurisdictions, increasing the governance premium embedded in operationally entangled companies. 
--  Narrowing credit channels as traditional lenders apply post-202
-4 risk models that penalize cross-collateralized or partially integrated enterprises. 
+-  Narrowing credit channels as traditional lenders apply post-20
+
+24 risk models that penalize cross-collateralized or partially integrated enterprises. 
 -  Escalation of compliance obligations, increasing the cost of standalone readiness for divisions being prepared for sale. 
 -  Compression of bidder universes because many sponsors no longer maintain in-house transformation capabilities required to absorb complex integrations. 
 -  Higher demand for off-market origination as competitive processes erode value for disciplined acquirers, pushing them toward proprietary or partially proprietary channels.
@@ -38,11 +41,13 @@ The dislocation persists because few intermediaries can engineer capital structu
 
 This is the point of departure for strategic financing of spin-offs: complexity is no longer a problem to be discarded.
 
-It is an asset when correctly isolated, risk-weighted, and structured. 
+It is an asset when correctly isolated, risk-weighted, and structured.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -52,7 +57,9 @@ These separations require precision across four domains: operational disentangle
 
 The following mechanics govern the process. 
 
-1. Operational disentanglement Separation risk arises when critical functions are shared across business units.
+1.
+
+Operational disentanglement Separation risk arises when critical functions are shared across business units.
 
 The transitional service agreements required to support a spin-off frequently carry asymmetric obligations.
 
@@ -70,7 +77,9 @@ This process is not cosmetic.
 
 It is the technical heart of exit readiness for any spin-off that touches production, logistics, service delivery, or regulated operations. 
 
-2. Cash flow stabilization The standalone entity must demonstrate predictable operating cash flows.
+2.
+
+Cash flow stabilization The standalone entity must demonstrate predictable operating cash flows.
 
 Mid-market enterprises often exhibit uneven cash conversion cycles due to dependence on parent-level procurement, treasury, or receivables management.
 
@@ -84,7 +93,9 @@ Stabilization requires:
 
 When executed correctly, the stabilization process creates a financial signature that aligns with institutional underwriting logic. 
 
-3. Legal and governance clean room design Divestitures must conform to regulatory and contractual frameworks that vary across regions.
+3.
+
+Legal and governance clean room design Divestitures must conform to regulatory and contractual frameworks that vary across regions.
 
 Incorrect sequencing of transferability clauses, licensing, or minority shareholder disclosures can derail a transaction that otherwise possesses strong fundamentals.
 
@@ -96,7 +107,9 @@ Effective governance preparation includes:
 
 The coherence of governance architecture directly influences acquirer confidence and speed to close. 
 
-4. Capital stack engineering Spin-offs fail in the mid-market when financing structures reflect standardized templates rather than the asset's operational characteristics.
+4.
+
+Capital stack engineering Spin-offs fail in the mid-market when financing structures reflect standardized templates rather than the asset's operational characteristics.
 
 A precise capital stack must be engineered to align with transitional cash flows and integration hurdles.
 
@@ -107,28 +120,34 @@ Institutionally aligned structures use:
 -  Structural seniority mapping that protects creditors across multi-entity transitions. 
 -  Cross-collateralization removal to prevent entanglement risk from contaminating the new entity.
 
-When these mechanisms are deployed systematically, spin-off financing becomes a solvable engineering problem rather than a distressed scenario. 
+When these mechanisms are deployed systematically, spin-off financing becomes a solvable engineering problem rather than a distressed scenario.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital positions itself as a strategic navigator for stakeholders involved in complex mid-market separations.
+THE PARTNERSHIP MODEL Roials Capital positions itself as a strategic navigator for stakeholders involved in complex mid-market separations.
 
 This role is distinct, intentionally neutral, and designed to reduce friction rather than amplify it.
 
 The operational philosophy relies on four principles. 
 
-1. Introducer neutrality Roials Capital does not operate as a counterparty.
+1.
+
+Introducer neutrality Roials Capital does not operate as a counterparty.
 
 Instead, it functions as an institutional alignment mechanism that connects owners, sponsors, and co-investors with specialized operators capable of handling transitional complexity. 
 
-2. Structural intelligence High friction divestitures require a partner that understands: 
+2.
+
+Structural intelligence High friction divestitures require a partner that understands: 
 -  Multi-layered cash flow waterfalls. 
 -  Transitional service dependency risk. 
 -  Integration hazard rates. 
 -  Liquidity engineering under operational stress. 
 -  Off-market sourcing pathways for acquirers with fit-sensitive mandates. 
 
-3. Opportunity velocity management The objective is to increase the velocity with which viable transactions progress from exploratory to actionable.
+3.
+
+Opportunity velocity management The objective is to increase the velocity with which viable transactions progress from exploratory to actionable.
 
 Roials Capital deploys analytical frameworks that identify: 
 -  Deal-killing friction early. 
@@ -136,38 +155,45 @@ Roials Capital deploys analytical frameworks that identify:
 -  Underpriced operational synergies. 
 -  Dislocation pockets where allocators can pursue proprietary engagements. 
 
-4. NAEO alignment where energy assets are involved If the spin-off touches the North American energy domain, Roials Capital introduces NAEO as a specialist operator capable of handling the physics, decline curve dynamics, and recovery methodology inherent to Alberta heavy oil.
+4.
 
-This ensures technical risk is absorbed by an institutional-grade partner with operational authority. 
+NAEO alignment where energy assets are involved If the spin-off touches the North American energy domain, Roials Capital introduces NAEO as a specialist operator capable of handling the physics, decline curve dynamics, and recovery methodology inherent to Alberta heavy oil.
 
-## PHASE 
+This ensures technical risk is absorbed by an institutional-grade partner with operational authority.
 
-4. ## 
+Phase IV: .
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operational resources, and transitional complexity without waste.
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operational resources, and transitional complexity without waste.
 
 It reflects a governance orientation rather than marketing language.
 
 The stewardship filter is applied across three dimensions. 
 
-1. Economic stewardship Capital must be deployed into structures that avoid redundancy, fragility, or misalignment.
+1.
+
+Economic stewardship Capital must be deployed into structures that avoid redundancy, fragility, or misalignment.
 
 Spin-offs become strategically viable when transitional liquidity is allocated with precision and accountability. 
 
-2. Operational stewardship Each process in the separation must be additive, not extractive.
+2.
+
+Operational stewardship Each process in the separation must be additive, not extractive.
 
 Waste manifests as duplicated functions, nonessential overhead, and misaligned service agreements.
 
 Stewardship requires disciplined simplification. 
 
-3. Moral stewardship Stewardship originates in the principle articulated in **Proverbs 13:22*
+3.
+
+Moral stewardship Stewardship originates in the principle articulated in **Proverbs 13:22
+*
 * , which frames capital as an intergenerational responsibility.
 
-In practice, this means structuring separations that ensure continuity, clarity, and long-term resilience rather than short-term cosmetic gains. 
+In practice, this means structuring separations that ensure continuity, clarity, and long-term resilience rather than short-term cosmetic gains.
 
-## PHASE 
+Phase V: .
 
-5. ALLOCATOR DECISION LENS AND PORTFOLIO CALIBRATION Complex spin-offs require allocators to adopt an institutional archetype that values structural realism over narrative momentum.
+ALLOCATOR DECISION LENS AND PORTFOLIO CALIBRATION Complex spin-offs require allocators to adopt an institutional archetype that values structural realism over narrative momentum.
 
 The decision lens rests on three questions: 
 -  Does the separation reduce long-term operational risk or relocate it? 
@@ -184,4 +210,6 @@ The result is not a sale.
 
 It is a transformation in decision-making capacity supported by precise liquidity engineering, operational mapping, and capital structure discipline. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

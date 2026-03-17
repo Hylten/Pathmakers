@@ -44,23 +44,33 @@ Internal Logic.
 
 A private briefing. 
 
-1. Volume is failure.
+1.
+
+Volume is failure.
 
 Curation is power. 
 
-2. Analysts are filters.
+2.
+
+Analysts are filters.
 
 Analysts are amplifiers. 
 
-3. Off‑market is not about secrecy.
+3.
+
+Off‑market is not about secrecy.
 
 It is about selective availability. 
 
-4. Exit readiness is not a marketing phrase.
+4.
+
+Exit readiness is not a marketing phrase.
 
 It is quantifiable operational posture. 
 
-5. Proprietary pipelines increase clarity.
+5.
+
+Proprietary pipelines increase clarity.
 
 Clarity accelerates decision velocity.
 
@@ -413,4 +423,6 @@ This is why they choose Pathmaker.
 
 Book a tactical consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

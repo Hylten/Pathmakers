@@ -48,11 +48,17 @@ Private credit and Asset-Based Lending solve this problem with precision, but on
 
 ## The Mid‑Market Healthcare Carve Out: Where Liquidity Breaks and Where Asset-Based Lending Wins Carve outs from private equity or corporate parents tend to fall into three categories: 
 
-1. Units that no longer fit strategy but generate respectable cash flow. 
+1.
 
-2. Units that need infrastructure upgrades that the parent will not fund. 
+Units that no longer fit strategy but generate respectable cash flow. 
 
-3. Units that carry non financial risk that management is tired of absorbing.
+2.
+
+Units that need infrastructure upgrades that the parent will not fund. 
+
+3.
+
+Units that carry non financial risk that management is tired of absorbing.
 
 In each of these cases, liquidity is the negotiation lever.
 
@@ -150,7 +156,9 @@ The value unlock is the real advantage.
 
 ## The Three Most Underutilized Asset-Based Lending Levers in Healthcare # ## 
 
-1. AR Segmentation Not all receivables are created equal.
+1.
+
+AR Segmentation Not all receivables are created equal.
 
 CMS backed receivables behave differently from commercial insurance receivables, which behave differently from patient responsibility balances.
 
@@ -162,7 +170,9 @@ It also prevents the false compression of value that generalist lenders impose w
 
 Segmentation converts complexity into collateral. # ## 
 
-2. Transition Period Liquidity The first ninety days after a healthcare carve out are always chaotic.
+2.
+
+Transition Period Liquidity The first ninety days after a healthcare carve out are always chaotic.
 
 Staff realignment creates temporary inefficiencies.
 
@@ -182,7 +192,9 @@ Transition period liquidity is not optional.
 
 It is the difference between a stable asset and an asset that quietly bleeds. # ## 
 
-3. Monetizable Non Traditional Assets Many carve out buyers underestimate the value trapped in: Licenses.
+3.
+
+Monetizable Non Traditional Assets Many carve out buyers underestimate the value trapped in: Licenses.
 
 Databases.
 
@@ -288,4 +300,6 @@ Pathmaker is the mechanism that holds the entire structure together.
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

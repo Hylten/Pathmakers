@@ -62,11 +62,15 @@ Refusal to carry legacy complexity into the new entity.
 
 This is the foundation of Pathmaker’s approach. # Core Strategies for Healthcare M&A Success ## 
 
-1. Diagnose Operational Fragility Before You Price the Deal Most mid‑market healthcare companies have one or more hidden structural weaknesses.
+1.
+
+Diagnose Operational Fragility Before You Price the Deal Most mid‑market healthcare companies have one or more hidden structural weaknesses.
 
 These weaknesses are usually not visible in the CIM.
 
-They surface when it is too late, usually in the first 12
+They surface when it is too late, usually in the first 
+
+12
 0 days post‑close.
 
 Examples: 
@@ -82,7 +86,9 @@ Not in generalities.
 
 In dollars, headcount, and timeline. ## 
 
-2. Treat Carve Outs as Surgical Procedures, Not IT Projects Carve outs in healthcare are uniquely painful.
+2.
+
+Treat Carve Outs as Surgical Procedures, Not IT Projects Carve outs in healthcare are uniquely painful.
 
 You are separating clinical operations, revenue cycle systems, payer relationships, credentialing workflows, HR processes, and quality oversight.
 
@@ -105,7 +111,9 @@ Future state architecture on the other.
 
 Both need to be designed together. ## 
 
-3. Build an Integration Plan That Does Not Outrun the Business Most integration plans in healthcare fail for one reason.
+3.
+
+Build an Integration Plan That Does Not Outrun the Business Most integration plans in healthcare fail for one reason.
 
 They are too fast.
 
@@ -127,7 +135,9 @@ You cannot scale chaos.
 
 You can only scale clarity. ## 
 
-4. Value Creation Requires Ruthless Prioritization In the mid‑market, you cannot pursue every growth lever.
+4.
+
+Value Creation Requires Ruthless Prioritization In the mid‑market, you cannot pursue every growth lever.
 
 There is not enough leadership capacity.
 
@@ -142,7 +152,9 @@ They are not pitch‑deck friendly.
 
 But they create real enterprise value. ## 
 
-5. Understand the True Cost of Clinical Workforce Stability Clinical retention is one of the largest hidden drivers of deal success.
+5.
+
+Understand the True Cost of Clinical Workforce Stability Clinical retention is one of the largest hidden drivers of deal success.
 
 Most models underestimate turnover.
 
@@ -161,7 +173,9 @@ Clinicians leave when:
 
 A smart integration protects clinical stability from day one. ## 
 
-6. Fix the Data Layer or the Deal Will Never Scale Healthcare businesses run on fractured data.
+6.
+
+Fix the Data Layer or the Deal Will Never Scale Healthcare businesses run on fractured data.
 
 EMRs, revenue cycle systems, credentialing databases, HR systems, Excel trackers.
 
@@ -179,7 +193,9 @@ You cannot run multi‑site operations without unified visibility of:
 
 It is an operational enabler. ## 
 
-7. Compliance Is Not a Department, It Is Structural Integrity Many buyers treat compliance as a checkbox.
+7.
+
+Compliance Is Not a Department, It Is Structural Integrity Many buyers treat compliance as a checkbox.
 
 That mistake is expensive.
 
@@ -203,7 +219,9 @@ Clear documentation.
 
 Clear escalation paths. ## 
 
-8. Siloed Functions Kill Post‑Close Momentum In many deals, the acquirer and the target operate in parallel silos.
+8.
+
+Siloed Functions Kill Post‑Close Momentum In many deals, the acquirer and the target operate in parallel silos.
 
 IT runs its roadmap.
 
@@ -222,9 +240,16 @@ Not through bureaucracy.
 
 Through alignment on value drivers. ## 
 
-9. Your First 12
-0 Days Determine 8
-0 Percent of Outcomes The first 12
+9.
+
+Your First 
+
+12
+0 Days Determine 
+
+80 Percent of Outcomes The first 
+
+12
 0 days after closing are where deals win or lose.
 
 This period sets the tone, direction, and viability of the integration plan.
@@ -241,7 +266,9 @@ Common mistakes:
 -  Communication cadence 
 -  Leadership accountabilities The goal is to create control, not disruption. ## 
 
-10. A Healthcare Platform Is Built, Not Bought Many investors buy a provider group or services business and immediately call it a platform.
+10.
+
+A Healthcare Platform Is Built, Not Bought Many investors buy a provider group or services business and immediately call it a platform.
 
 But a business is not a platform just because it is the first acquisition.
 
@@ -255,31 +282,43 @@ A platform requires:
 
 You have a company preparing to become one. # The Pathmaker Approach: What Actually Moves the Needle ## 
 
-1. Pre‑Close Operational Risk Mapping We identify structural risks that impact valuation, closing conditions, and the first year of ownership.
+1.
+
+Pre‑Close Operational Risk Mapping We identify structural risks that impact valuation, closing conditions, and the first year of ownership.
 
 This is not a surface‑level quality of earnings exercise.
 
 It is a deep operational diagnostic that uncovers hidden fragility. ## 
 
-2. Carve Out Architecture That Protects Value We design the separation while protecting clinical operations, revenue cycle continuity, compliance integrity, and payer relationships.
+2.
+
+Carve Out Architecture That Protects Value We design the separation while protecting clinical operations, revenue cycle continuity, compliance integrity, and payer relationships.
 
 This reduces transition downtime and minimizes post‑close surprises. ## 
 
-3. Targeted Integration Sequencing We build integration plans around value creation, not around internal preferences or theoretical synergy models.
+3.
+
+Targeted Integration Sequencing We build integration plans around value creation, not around internal preferences or theoretical synergy models.
 
 The sequence matters as much as the initiatives. ## 
 
-4. Leadership Alignment and Execution Discipline We ensure the leadership team has clear roles, clear priorities, and a unified focus.
+4.
+
+Leadership Alignment and Execution Discipline We ensure the leadership team has clear roles, clear priorities, and a unified focus.
 
 Alignment is not a workshop.
 
 It is ongoing operational discipline. ## 
 
-5. Scalable Platform Design For buyers pursuing a multi‑asset strategy, we establish the operating backbone required for future acquisitions.
+5.
+
+Scalable Platform Design For buyers pursuing a multi‑asset strategy, we establish the operating backbone required for future acquisitions.
 
 This includes governance, data, clinical processes, and financial infrastructure. ## 
 
-6. Stabilization Before Acceleration We help clients resist the urge to scale before the business is ready.
+6.
+
+Stabilization Before Acceleration We help clients resist the urge to scale before the business is ready.
 
 Stability first.
 
@@ -319,4 +358,6 @@ That is what Pathmaker delivers.
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

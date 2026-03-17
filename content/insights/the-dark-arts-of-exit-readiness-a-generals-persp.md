@@ -269,8 +269,9 @@ Examples:
 
 The battlefield must be clean. 
 
-## Customer Concentration: The Price Assassin A company with two clients owning 4
-0 percent of revenue is not a stable asset.
+## Customer Concentration: The Price Assassin A company with two clients owning 
+
+40 percent of revenue is not a stable asset.
 
 It is a hostage situation.
 
@@ -471,4 +472,6 @@ Honors the sacred trust of ownership.
 
 ## Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

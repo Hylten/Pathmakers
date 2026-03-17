@@ -167,7 +167,9 @@ Most importantly, it allows capital to be deployed into sectors where structural
 
 Pathmaker structures credit solutions that reflect institutional mechanics but remain accessible to sophisticated private investors. 
 
-## Public Share Monetization Architecture: Minimum Threshold 5,000,00
+## Public Share Monetization Architecture: Minimum Threshold 5,000,
+
+00
 0 USD For clients managing large public equity positions, liquidity is often locked behind long‑term strategy.
 
 Selling may not be optimal.
@@ -176,7 +178,9 @@ Tax implications may be significant.
 
 Portfolio timing may be inflexible.
 
-Pathmaker solves this by providing Public Share Asset-Backed Frameworks with a minimum threshold of 5,000,00
+Pathmaker solves this by providing Public Share Asset-Backed Frameworks with a minimum threshold of 5,000,
+
+00
 0 USD.
 
 This is a tool for those who need liquidity without divestment.
@@ -185,14 +189,18 @@ It is a strategic instrument.
 
 It is clean, quiet, and efficient. 
 
-## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000,00
+## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000,
+
+00
 0 USD Digital asset holders in the Nordic region often lack professional Monetization Architecture options.
 
 Most solutions are retail‑oriented or price‑driven.
 
 Pathmaker is different.
 
-We provide crypto‑backed Monetization Architecture for clients with a minimum position of 2,000,00
+We provide crypto‑backed Monetization Architecture for clients with a minimum position of 2,000,
+
+00
 0 USD.
 
 This is not speculative leverage.
@@ -294,7 +302,9 @@ Pathmaker supports long‑term strategies by providing recurring liquidity solut
 
 Our involvement is discreet.
 
-Our impact is not. ## ## 
+Our impact is not. 
+
+ 
 
 ## CONCLUSION
 
@@ -314,4 +324,6 @@ We unlock growth where others hesitate.
 
 If you are ready to explore Nordic opportunities with precision and confidence, book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

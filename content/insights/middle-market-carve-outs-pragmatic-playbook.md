@@ -12,7 +12,11 @@ It is the result of operational inertia inside parent companies that prioritize 
 
 This gap creates a durable pipeline of non-core assets with undervalued operational potential and incomplete stewardship.
 
-Buyers who understand this structural inefficiency can navigate carve-outs with high precision and minimal friction. ## ## ## ## 
+Buyers who understand this structural inefficiency can navigate carve-outs with high precision and minimal friction. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -43,7 +47,11 @@ In this environment, carve-outs have shifted from episodic events to systemic op
 
 The assets are structurally mispriced because their standalone identity has never been fully established.
 
-This creates a repeatable path for disciplined buyers who understand the mechanics of separation. ## ## ## ## 
+This creates a repeatable path for disciplined buyers who understand the mechanics of separation. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -132,7 +140,11 @@ Both parties understand not only the asset but the mechanics of extraction from 
 
 This model creates a disciplined environment where both the buyer and the seller can operate with clarity.
 
-It also ensures that carve-out candidates are filtered through a high-grade operational lens before they reach the negotiation table. ## ## ## ## 
+It also ensures that carve-out candidates are filtered through a high-grade operational lens before they reach the negotiation table. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship in the carve-out context represents disciplined resource management.
 
@@ -145,12 +157,13 @@ Stewardship is defined by three principles:
 -  Transparent operational governance. 
 -  Purposeful leadership aligned with value creation.
 
-In **Proverbs 13:22*
+In **Proverbs 13:22
+*
 * , the emphasis on generational allocation speaks to the discipline of structuring assets with longevity rather than short-term extraction.
 
-Carve-out operators who apply this lens avoid reactive restructuring and instead build operational systems that scale predictably. ## 
+Carve-out operators who apply this lens avoid reactive restructuring and instead build operational systems that scale predictably.
 
-## DECISION FRAMEWORK FOR ALLOCATORS AND OPERATORS Operators and mid-market buyers evaluating carve-out opportunities benefit from a structured lens that determines whether a division can convert into a standalone, high-integrity enterprise.
+DECISION FRAMEWORK FOR ALLOCATORS AND OPERATORS Operators and mid-market buyers evaluating carve-out opportunities benefit from a structured lens that determines whether a division can convert into a standalone, high-integrity enterprise.
 
 The decision framework includes: 
 -  Structural readiness.
@@ -175,4 +188,6 @@ This consultation is not a solicitation.
 
 It is a technical evaluation to align decision makers with structural realities before negotiations begin. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

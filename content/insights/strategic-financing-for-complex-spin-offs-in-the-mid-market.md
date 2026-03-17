@@ -34,8 +34,9 @@ This is how they negotiate with institutional actors without having to posture.
 
 This is the role of principal authority. 
 
-## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 100
-0 operate with armies of advisors and entire consulting ecosystems.
+## Why Spin-offs in the Mid-Market Are Structurally Complex Corporate spin-offs in the Fortune 10
+
+00 operate with armies of advisors and entire consulting ecosystems.
 
 Most mid-market carve-outs are the opposite.
 
@@ -75,14 +76,16 @@ Liquidity is not a theoretical issue.
 
 It is day one survival.
 
-It is day 10
+It is day 
+
+10
 0 stability.
 
 It is the six month bridge that keeps the carve-out from collapsing under its own transitional weight.
 
 Liquidity requirements emerge in several categories.
 
-Each must be handled with precision. # 
+Each must be handled with precision.
 
 ## The operational gap A newly separated unit almost never has a stabilized working capital cycle.
 
@@ -100,7 +103,7 @@ Asset-Based Lending provides a self-anchored structure.
 
 It uses what the business already owns.
 
-It creates operational oxygen without relying on optimistic projections. # 
+It creates operational oxygen without relying on optimistic projections.
 
 ## The negotiation gap During a spin-off, buyers often attempt to exploit the seller's time pressure.
 
@@ -112,7 +115,7 @@ This is where private credit options restore equilibrium.
 
 By having alternative capital ready, principals do not need to accept compressed valuations.
 
-They can hold the line. # 
+They can hold the line.
 
 ## The equity gap HNWI and UHNW principals often want to maintain a meaningful ownership position post-spin, but they cannot tie up all personal liquidity.
 
@@ -380,4 +383,6 @@ This is the space Pathmaker occupies.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

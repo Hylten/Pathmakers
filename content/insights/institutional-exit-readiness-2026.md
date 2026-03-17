@@ -20,7 +20,9 @@ Static readiness is dead.
 
 Dynamic readiness defines 
 
-2026. This is the quiet truth buried beneath the visible M&A cycle: exits are not earned at the negotiation table but architected years earlier through disciplined information symmetry, auditability, and forward visibility.
+2026.
+
+This is the quiet truth buried beneath the visible M&A cycle: exits are not earned at the negotiation table but architected years earlier through disciplined information symmetry, auditability, and forward visibility.
 
 Family offices want companies that can move.
 
@@ -96,8 +98,9 @@ Everything tradable on the open market is late.
 
 Everything quietly traded off-market drives the real returns.
 
-Family offices in 202
-6 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
+Family offices in 20
+
+26 are doubling down on proprietary sourcing pipelines, cross‑border industry mappings, and direct principal-to-principal access.
 
 They want deals unlisted, uncirculated, unexposed.
 
@@ -127,8 +130,9 @@ Order creates optionality.
 
 Disorder kills deals.
 
-The Analyst Team states this unequivocally: the firms that win in 202
-6 do not build for the transaction.
+The Analyst Team states this unequivocally: the firms that win in 20
+
+26 do not build for the transaction.
 
 They build for the scrutiny.
 
@@ -160,8 +164,9 @@ In effect: exit readiness is the new covenant between mid‑market operators and
 
 Phase Three: Deep Analytical Architecture (1500+ Words) We now widen the aperture.
 
-The drivers behind the 202
-6 shift are not superficial.
+The drivers behind the 20
+
+26 shift are not superficial.
 
 They are structural.
 
@@ -169,7 +174,9 @@ Cross‑market volatility, regulatory fragmentation, and the consolidation of pr
 
 Five structural forces define the environment. 
 
-1. The Institutionalization of the Mid‑Market The mid‑market used to be ignored.
+1.
+
+The Institutionalization of the Mid‑Market The mid‑market used to be ignored.
 
 Too large for venture, too small for large-cap.
 
@@ -183,8 +190,11 @@ Family offices now recognize that mid‑market companies with institutional disc
 
 Every messy operator reduces their own valuation before negotiation even begins. 
 
-2. The Acceleration of Cross‑Border Deal Flow 202
-6 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
+2.
+
+The Acceleration of Cross‑Border Deal Flow 20
+
+26 is the first cycle where SMEs and mid‑market firms are actively sourced across jurisdictions without friction.
 
 AI-first mapping identifies adjacencies that human deal teams would never see.
 
@@ -198,7 +208,9 @@ Trust requires clarity.
 
 Clarity requires institutional-grade documentation long before any conversation begins. 
 
-3. The Rise of Dynamic Diligence Static data rooms are dead.
+3.
+
+The Rise of Dynamic Diligence Static data rooms are dead.
 
 The market has transitioned toward dynamic diligence environments where data is continuously updated, automatically validated, and constantly interrogated by machine intelligence.
 
@@ -210,7 +222,9 @@ They do not “prepare for diligence.” They are already inside diligence.
 
 Permanently. 
 
-4. The Compression of Time-to-Close The most powerful shift is temporal.
+4.
+
+The Compression of Time-to-Close The most powerful shift is temporal.
 
 Deals that once took nine months now close in twelve weeks.
 
@@ -222,7 +236,9 @@ Time compression punishes the unprepared.
 
 It rewards the architected. 
 
-5. The New Expectation of Predictive Visibility Beyond historical performance lies the new standard: predictive performance.
+5.
+
+The New Expectation of Predictive Visibility Beyond historical performance lies the new standard: predictive performance.
 
 Future-state models.
 
@@ -270,9 +286,11 @@ Not through charisma.
 
 Through readiness.
 
-Off-Market Deal Origination and Why It Dominates 202
-6 The most powerful family offices in 202
-6 have abandoned auction processes almost entirely.
+Off-Market Deal Origination and Why It Dominates 20
+
+26 The most powerful family offices in 20
+
+26 have abandoned auction processes almost entirely.
 
 The public markets, brokered markets, and circulated deal rooms deliver noise, competition, inflated valuations, and reduced access.
 
@@ -311,7 +329,9 @@ When premium assets emerge, family offices converge.
 
 This is the three-step cycle driving 
 
-2026. Exit readiness is no longer preparation for sale.
+2026.
+
+Exit readiness is no longer preparation for sale.
 
 Exit readiness is preparation for discovery.
 
@@ -331,4 +351,6 @@ The operators who delay will have no seat at the table.
 
 Book a tactical consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

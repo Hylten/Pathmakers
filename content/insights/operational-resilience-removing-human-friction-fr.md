@@ -38,8 +38,9 @@ They fail because human systems were allowed to grow informal, idiosyncratic, or
 
 Informality is the silent enemy of [institutional capital]([Roials Capital](https://roialscapital.com/)).
 
-Once a business crosses 1
-0 million EBITDA, the founding team’s habits are no longer neutral.
+Once a business crosses 
+
+10 million EBITDA, the founding team’s habits are no longer neutral.
 
 They become structural liabilities.
 
@@ -77,13 +78,21 @@ This is the standard Pathmaker operationalizes.
 
 Friction Points That Break Deals There are only four categories of friction in mid‑market M&A. 
 
-1. Information friction. 
+1.
 
-2. Decision friction. 
+Information friction. 
 
-3. Process friction. 
+2.
 
-4. Character friction.
+Decision friction. 
+
+3.
+
+Process friction. 
+
+4.
+
+Character friction.
 
 Each one is predictable.
 
@@ -123,7 +132,7 @@ If the business cannot speak for itself, the founder is not selling a company.
 
 He is selling a story.
 
-Buyers do not pay institutional multiples for stories. # 
+Buyers do not pay institutional multiples for stories.
 
 ## The Remedy.
 
@@ -151,7 +160,7 @@ Institutional buyers do not pay for founders.
 
 They pay for systems that function without the founder.
 
-A company that cannot self‑govern cannot be sold for a premium valuation. # 
+A company that cannot self‑govern cannot be sold for a premium valuation.
 
 ## The Remedy.
 
@@ -183,7 +192,7 @@ Institutional buyers price process friction as embedded risk.
 
 Risk discounts valuation.
 
-Discounted valuation is avoidable. # 
+Discounted valuation is avoidable.
 
 ## The Remedy.
 
@@ -213,7 +222,7 @@ Institutional buyers know that talent is not the problem.
 
 Culture is the problem.
 
-Culture is always a reflection of character. # 
+Culture is always a reflection of character.
 
 ## The Remedy.
 
@@ -273,8 +282,9 @@ Covenant-grade operations command covenant-grade valuations.
 
 ## Intelligence Framework.
 
-Removing Human Friction in 1
-2 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week 
+Removing Human Friction in 
+
+12 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week 
 1 to 
 2 System extraction and structural mapping.
 
@@ -299,15 +309,17 @@ Leadership recalibration.
 Cultural reset.
 
 Week 
-9 to 1
-1 Operational mapping.
+9 to 
+
+11 Operational mapping.
 
 Process design.
 
 Cycle standardization.
 
-Week 1
-2 Stress testing across information, operations, and leadership.
+Week 
+
+12 Stress testing across information, operations, and leadership.
 
 Institutional readiness.
 
@@ -466,4 +478,6 @@ For principals who intend to transfer a legacy, not merely transact, this is
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

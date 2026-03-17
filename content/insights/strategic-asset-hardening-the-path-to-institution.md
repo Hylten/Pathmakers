@@ -373,9 +373,9 @@ Liquidity is concentrating.
 
 Those who harden their assets will be acquired on their terms.
 
-Those who delay will be priced by force. ## 
+Those who delay will be priced by force.
 
-## THE MANDATE
+THE MANDATE
 
  If you are within three years of a potential exit, transition, or capital event, asset hardening is not preparation.
 
@@ -425,4 +425,6 @@ Then speak with institutions as a Principal, not a petitioner.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -32,7 +32,9 @@ The Nordic BioTech market is mature in sophistication, but fragmented in financi
 
 Pathmaker exists to bridge that structural fragmentation. 
 
-## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000,00
+## Crypto Asset-Backed Frameworks: Minimum Threshold 2,000,
+
+00
 0 USD A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
 
 These assets are often siloed, unused, and treated as dead capital during BioTech financing events.
@@ -65,8 +67,11 @@ They fail because the seller is cornered by timing and leverage.
 Pathmaker structures transactions to avoid those conditions.
 
 Our financing supports: 
--  Acquisitions between 2
-0 and 25
+-  Acquisitions between 
+
+20 and 
+
+25
 0 million USD. 
 -  Carve outs of non core research units. 
 -  Spin outs of high value IP portfolios. 
@@ -114,8 +119,9 @@ They engage with lenders who already understand the battlefield.
 
 Pathmaker is built for that rule. 
 
-## The Strategic Case for Liquidity in 202
-6 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity.
+## The Strategic Case for Liquidity in 20
+
+26 and Beyond The next phase of Nordic BioTech will not be driven by grant cycles or speculative equity.
 
 It will be driven by operators who control liquidity.
 
@@ -171,4 +177,6 @@ We are principal authority in a market that needs discipline.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

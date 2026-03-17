@@ -170,10 +170,14 @@ You are buying control of the deal timeline.
 
 ## Minimum Thresholds: Why We Enforce Them Our minimum thresholds are not arbitrary.
 
-Crypto Asset-Backed Frameworks: 2,000,00
+Crypto Asset-Backed Frameworks: 2,000,
+
+00
 0 and above.
 
-Public Share Capital Structuring: 5,000,00
+Public Share Capital Structuring: 5,000,
+
+00
 0 and above.
 
 HNWI and UHNW buyers operate in an arena where smaller structures create more problems than they solve.
@@ -342,4 +346,6 @@ If you require precise liquidity for a mid-market cross-border acquisition, espe
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -276,4 +276,6 @@ The ones who demand liquidity mechanics that hold in real conditions.
 
 The ones who do not need approval from mezzanine desks to make strategic moves. # Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

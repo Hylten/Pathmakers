@@ -66,7 +66,9 @@ They prefer a stable post integration picture, clean metrics, and a neat present
 
 Pathmaker was designed for the opposite scenario. 
 
-## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under 25
+## The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under 
+
+25
 0 million EUR.
 
 Institutional lenders move slower than operational realities.
@@ -199,19 +201,33 @@ A window where the strongest buyer is simply the one with the cleanest liquidity
 
 The blueprint is simple, but it is not easy. 
 
-1. Validate operational viability, not marketing gloss. 
+1.
 
-2. Model the liquidity needs through the entire TSA period. 
+Validate operational viability, not marketing gloss. 
 
-3. Build an Asset-Based Lending foundation that stabilizes early turbulence. 
+2.
 
-4. Add private credit for expansion, integration, or opportunistic scaling. 
+Model the liquidity needs through the entire TSA period. 
 
-5. Maintain silent capital posture. 
+3.
 
-6. Avoid narrative inflation. 
+Build an Asset-Based Lending foundation that stabilizes early turbulence. 
 
-7. Drive the separation with precision and mechanical focus.
+4.
+
+Add private credit for expansion, integration, or opportunistic scaling. 
+
+5.
+
+Maintain silent capital posture. 
+
+6.
+
+Avoid narrative inflation. 
+
+7.
+
+Drive the separation with precision and mechanical focus.
 
 This is not a turnaround philosophy.
 
@@ -241,4 +257,6 @@ If you are evaluating a carve-out in the Nordic region and require private credi
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -22,7 +22,11 @@ M&A does not collapse due to lack of capital.
 
 It collapses because operational and structural opacity increases the underwriting cost for institutional buyers.
 
-This briefing examines exit readiness as a discipline of compression: compressing ambiguity, compressing diligence friction, and compressing the time it takes a buyer to form conviction. ## ## ## ## 
+This briefing examines exit readiness as a discipline of compression: compressing ambiguity, compressing diligence friction, and compressing the time it takes a buyer to form conviction. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -64,7 +68,11 @@ Exit readiness is not packaging.
 
 Exit readiness is balance sheet preparation, operational hardening, and governance normalization to match the buyer’s underwriting model.
 
-The value is created long before the transaction window opens. ## ## ## ## 
+The value is created long before the transaction window opens. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -74,7 +82,9 @@ Each represents an area where friction either compounds or dissolves.
 
 In this section, the briefing stays at a technical level, aligned with institutional M&A mechanics. 
 
-1. Cash Flow Normalization Institutional buyers do not underwrite headlines.
+1.
+
+Cash Flow Normalization Institutional buyers do not underwrite headlines.
 
 They underwrite predictability.
 
@@ -87,18 +97,24 @@ The objective is stability.
 
 Predictability increases valuation multiples because it lowers the buyer’s cost of capital. 
 
-2. Working Capital Codification In mid-market transactions, working capital is the number one post-closing dispute driver.
+2.
+
+Working Capital Codification In mid-market transactions, working capital is the number one post-closing dispute driver.
 
 Exit readiness eliminates this by: 
 -  Standardizing working capital definitions 
 -  Mapping seasonal variance through multi-year historical curves 
 -  Establishing a normalized peg that mirrors institutional expectations When the seller provides this, the buyer views the transaction as friction controlled.
 
-This reduces negotiation cycles by 3
-0 to 5
-0 percent in most mid-market contexts. 
+This reduces negotiation cycles by 
 
-3. Governance Upgrading Institutional buyers penalize governance opacity.
+30 to 
+
+50 percent in most mid-market contexts. 
+
+3.
+
+Governance Upgrading Institutional buyers penalize governance opacity.
 
 Sellers should upgrade: 
 -  Board documentation structure 
@@ -111,7 +127,9 @@ Institutional buyers pay for systems.
 
 They discount personalities. 
 
-4. Customer Concentration Mitigation Customer concentration is rarely eliminated before a sale, but it can be structured.
+4.
+
+Customer Concentration Mitigation Customer concentration is rarely eliminated before a sale, but it can be structured.
 
 Methods include: 
 -  Contractual extensions 
@@ -119,7 +137,9 @@ Methods include:
 -  Churn probability mapping 
 -  Replacement customer pipeline documentation A high concentration business can trade at a premium if the concentration is managed as a strategic dependency rather than an uncontrolled exposure. 
 
-5. Operational Intelligence Indexing Operational opacity extends diligence timelines.
+5.
+
+Operational Intelligence Indexing Operational opacity extends diligence timelines.
 
 Exit readiness requires codifying: 
 -  Process maps 
@@ -132,7 +152,9 @@ Complexity is acceptable.
 
 Ambiguity is not. 
 
-6. Legal Clean Room Construction Legal friction is the largest destroyer of strategic buyer appetite.
+6.
+
+Legal Clean Room Construction Legal friction is the largest destroyer of strategic buyer appetite.
 
 A clean room is established through: 
 -  Contract indexing 
@@ -142,7 +164,9 @@ A clean room is established through:
 
 The buyer perceives the company as institutional rather than privately assembled. 
 
-7. Strategic Narrative Calibration Institutional buyers require a narrative, but they quantify it through machine-like frameworks: 
+7.
+
+Strategic Narrative Calibration Institutional buyers require a narrative, but they quantify it through machine-like frameworks: 
 -  Barrier-to-entry mapping 
 -  Competitive asymmetry modeling 
 -  Margin defense mechanics 
@@ -174,7 +198,11 @@ The seller remains independent.
 
 The buyer remains sovereign.
 
-The navigator provides the intelligence that collapses friction and elevates optionality. ## ## ## ## 
+The navigator provides the intelligence that collapses friction and elevates optionality. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order.
 
@@ -190,14 +218,15 @@ A hardened asset is less exposed to operational disorder, valuation erosion, or 
 
 Stewardship requires the founder or owner to view the company as an entrusted entity, not an expendable one.
 
-As recorded in **Proverbs 13:22*
+As recorded in **Proverbs 13:22
+*
 * , stewardship extends across generations.
 
 In exit readiness, stewardship becomes a quantitative and qualitative standard.
 
-It defines the ethical boundary of preparing a company not only for sale but for sustained operational integrity. ## 
+It defines the ethical boundary of preparing a company not only for sale but for sustained operational integrity.
 
-## DECISION-MAKING LENS FOR THE ALLOCATOR AND OWNER This final section reframes exit readiness as a sovereign decision framework.
+DECISION-MAKING LENS FOR THE ALLOCATOR AND OWNER This final section reframes exit readiness as a sovereign decision framework.
 
 It is not a cosmetic exercise.
 
@@ -218,4 +247,6 @@ Professionals seeking to understand how to prepare a company for a frictionless,
 
 This provides an institutional mapping of gaps, strengths, and actionable readiness frameworks tailored to the target buyer universe. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

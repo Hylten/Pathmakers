@@ -27,7 +27,8 @@ The question is not whether the cycle turns.
 It is who remains solvent, mobile, and acquisition-ready when it does.
 
 As written in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Resilience is the mechanism.
@@ -221,11 +222,15 @@ It attracts strategic buyers who pay strategic premiums.
 
 Resilient enterprises price higher and close faster because they present fewer hidden liabilities.
 
-Our Analyst Team’s cross-cycle research highlights that enterprises that build resilience before the sale achieve a 1
-2 to 2
-2 percent higher valuation in the mid-market segment and close 3
-5 to 6
-0 days faster.
+Our Analyst Team’s cross-cycle research highlights that enterprises that build resilience before the sale achieve a 
+
+12 to 
+
+22 percent higher valuation in the mid-market segment and close 
+
+35 to 
+
+60 days faster.
 
 These are not theoretical numbers.
 
@@ -233,9 +238,11 @@ They are transaction metrics observed across multiple jurisdictions and sectors 
 
 The oil and gas sector offers a clear example.
 
-Operators who hardened assets, secured offtake stability, hedged selectively, and maintained layered liquidity were able to acquire distressed wells and production units at discounts of 2
-5 to 4
-0 percent during the last compression cycle.
+Operators who hardened assets, secured offtake stability, hedged selectively, and maintained layered liquidity were able to acquire distressed wells and production units at discounts of 
+
+25 to 
+
+40 percent during the last compression cycle.
 
 HNWI and UHNW investors positioned behind these operators achieved asymmetric upside because they invested not in volatility but in the operator’s resilience.
 
@@ -395,8 +402,9 @@ Timing creates advantage.
 
 Resilience enables timing.
 
-Our Analyst Team’s projection models show that the next 1
-8 months will be defined by episodic credit tightening, elevated geopolitical risk, and structurally higher cost of capital.
+Our Analyst Team’s projection models show that the next 
+
+18 months will be defined by episodic credit tightening, elevated geopolitical risk, and structurally higher cost of capital.
 
 These forces create instability for unprepared operators and opportunity for prepared investors.
 
@@ -412,7 +420,8 @@ Governance at the architecture layer amplifies operational resilience.
 
 Poor governance erodes it silently.
 
-Resilient architecture allows an investor to respond to shocks without compromising strategic direction. **Proverbs 13:22*
+Resilient architecture allows an investor to respond to shocks without compromising strategic direction. **Proverbs 13:22
+*
 * binds the philosophy together: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Inheritance is not merely financial.
@@ -457,7 +466,10 @@ The next step is structural.
 
 Book a tactical consultation.
 
-Resilience Coefficient Target: 0.7
-8
+Resilience Coefficient Target: 0.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+78
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

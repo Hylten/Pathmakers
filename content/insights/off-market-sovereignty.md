@@ -30,9 +30,11 @@ That is the truth the mid‑market now lives with.
 
 A truth most advisors avoid because acknowledging it would dismantle their own business model overnight.
 
-We begin. ## ## ## ( 
+We begin. 
 
-## PHASE 1): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
+ ## ( 
+
+### Phase I: ): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
 
 It happened through the erosion of trust.
 
@@ -98,7 +100,7 @@ Off‑market alternatives emerged not as innovation, but as correction.
 
 INTERNAL TONE ( 
 
-## PHASE 2): PRINCIPAL VOICE The mid‑market deserves clarity.
+### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity.
 
 Off‑market is not secrecy.
 
@@ -148,11 +150,11 @@ They need sellers who have prepared their financial house, their operational hou
 
 Exit readiness is not a document.
 
-Exit readiness is a posture. ## 
+Exit readiness is a posture.
 
-## INTERNAL BYPASS ( 
+INTERNAL BYPASS ( 
 
-## PHASE 3): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
+### Phase III: ): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
 
 By pushing twenty to fifty buyers into the top of the funnel, the advisor introduces the single greatest source of execution risk: heterogeneity of intent.
 
@@ -191,7 +193,9 @@ With the maturity to acknowledge that fewer, better conversations outperform cro
 
 We now move deeper into structural implications. 
 
-1. Timeline Architecture Traditional auctions impose rigid timelines: teaser release, NDA stage, IOIs, management meetings, LOIs.
+1.
+
+Timeline Architecture Traditional auctions impose rigid timelines: teaser release, NDA stage, IOIs, management meetings, LOIs.
 
 But these timelines are artificial.
 
@@ -203,7 +207,9 @@ Off‑market architecture aligns the process with the company’s operational ca
 
 The buyer enters a living, functioning organism-not a staged theatre environment. 
 
-2. Information Fidelity Data rooms in auctions are often rushed.
+2.
+
+Information Fidelity Data rooms in auctions are often rushed.
 
 Sloppy.
 
@@ -221,7 +227,9 @@ The buyer benefits.
 
 Surprises disappear. 
 
-3. Buyer Psychology Auctions create zero-sum psychology.
+3.
+
+Buyer Psychology Auctions create zero-sum psychology.
 
 Buyers feel manipulated by timed bidding rounds.
 
@@ -237,7 +245,9 @@ Trust increases.
 
 And trust is the currency of the mid‑market. 
 
-4. Execution Risk More bidders do not reduce risk.
+4.
+
+Execution Risk More bidders do not reduce risk.
 
 More bidders increase risk.
 
@@ -251,7 +261,9 @@ Staff begin to sense movement.
 
 A tight off‑market corridor minimizes vectors of uncertainty. 
 
-5. Founder Burn Rate Auctions demand constant availability from the founder.
+5.
+
+Founder Burn Rate Auctions demand constant availability from the founder.
 
 Multiple buyer calls.
 
@@ -269,7 +281,9 @@ No waste.
 
 No theatre. 
 
-6. Cultural Fit Assessment Cultural continuity cannot be evaluated across twenty bidders.
+6.
+
+Cultural Fit Assessment Cultural continuity cannot be evaluated across twenty bidders.
 
 It can be evaluated across two or three.
 
@@ -277,7 +291,9 @@ Off‑market allows this.
 
 Auctions do not. 
 
-7. Pricing Integrity The myth of the auction is that competition drives price.
+7.
+
+Pricing Integrity The myth of the auction is that competition drives price.
 
 Sometimes.
 
@@ -377,4 +393,6 @@ Off‑market sovereignty is the path forward for the mid‑market because it ref
 
 Book a tactical consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -26,18 +26,22 @@ We operate as the structural mechanic within the capital stack, the principal au
 
 In the mid‑market, especially in healthcare carve outs, the investor who controls liquidity dictates the pace and the terms. 
 
-## The Additional Liquidity Channels # 
+## The Additional Liquidity Channels
 
-## Crypto Capital Structuring Minimum threshold: 2,000,00
+## Crypto Capital Structuring Minimum threshold: 2,000,
+
+00
 0 USD.
 
 This is not retail Capital Structuring.
 
 This is not speculative.
 
-It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force. # 
+It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force.
 
-## Public Share Capital Structuring Minimum threshold: 5,000,00
+## Public Share Capital Structuring Minimum threshold: 5,000,
+
+00
 0 USD.
 
 This enables sophisticated holders of public equities to transform market value into strategic M&A liquidity without triggering premature dispositions.
@@ -126,17 +130,13 @@ Sophisticated buyers create conviction through liquidity presence.
 
 Pathmaker empowers that presence. 
 
-## How Pathmaker Integrates Into a Mid‑Market Deal Cycle This is the real sequence, stripped of the romanticized storyline that advisors like to present. # 
-
-## Step 1: Assessment of Liquidity Demand Before valuation.
+## How Pathmaker Integrates Into a Mid‑Market Deal Cycle This is the real sequence, stripped of the romanticized storyline that advisors like to present.### Step I: : Assessment of Liquidity Demand Before valuation.
 
 Before offer structure.
 
 Before LOIs.
 
-A serious buyer evaluates what liquidity must be available at every milestone. # 
-
-## Step 2: Map Available Assets to Liquidity Instruments Private credit positions become deployable capital.
+A serious buyer evaluates what liquidity must be available at every milestone.### Step II: : Map Available Assets to Liquidity Instruments Private credit positions become deployable capital.
 
 Public shares are positioned for strategic Capital Structuring rather than liquidation.
 
@@ -144,15 +144,11 @@ Crypto holdings are converted into non­correlated liquidity options.
 
 Operational collateral is assessed for Asset-Based Lending.
 
-This turns static wealth into dynamic acquisition power. # 
-
-## Step 3: Install a Liquidity Buffer Deals always cost more than projected.
+This turns static wealth into dynamic acquisition power.### Step III: : Install a Liquidity Buffer Deals always cost more than projected.
 
 Always.
 
-The liquidity buffer prevents a deal from collapsing due to diligence surprises. # 
-
-## Step 4: Match Liquidity to the Negotiation Timeline This is where many investors fail.
+The liquidity buffer prevents a deal from collapsing due to diligence surprises.### Step IV: : Match Liquidity to the Negotiation Timeline This is where many investors fail.
 
 They secure liquidity too late.
 
@@ -162,9 +158,7 @@ Or they secure liquidity that signals weakness to the seller.
 
 Pathmaker commits capital quietly and efficiently.
 
-This maintains the buyer’s strategic posture. # 
-
-## Step 5: Deploy Liquidity in Precision Points Funding the deposit.
+This maintains the buyer’s strategic posture.### Step V: : Deploy Liquidity in Precision Points Funding the deposit.
 
 Buying time.
 
@@ -204,13 +198,19 @@ Asset Based Strategic Collateralization.
 
 Crypto Capital Structuring with a minimum of 2,000, 
 
-000. Public Share Monetization Architecture with a minimum of 5,000, 
+000.
 
-000. These tools create strategic liquidity.
+Public Share Monetization Architecture with a minimum of 5,000, 
+
+000.
+
+These tools create strategic liquidity.
 
 Strategic liquidity creates acquisition power.
 
-Acquisition power wins mid‑market M&A. ## ## 
+Acquisition power wins mid‑market M&A. 
+
+ 
 
 ## CONCLUSION
 
@@ -228,4 +228,6 @@ If you plan to acquire, carve out, or consolidate in the next twelve months, the
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

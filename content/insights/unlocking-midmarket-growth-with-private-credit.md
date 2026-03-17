@@ -115,9 +115,13 @@ We are comfortable with operational chaos as long as collateral is sound and the
 
 ## Liquidity for High Net Worth and Ultra High Net Worth Investors HNWI and UHNW investors require capital that respects two realities: 
 
-1. Their portfolios contain non‑traditional assets. 
+1.
 
-2. Their opportunities move faster than traditional Institutional Liquidity Paths structures allow.
+Their portfolios contain non‑traditional assets. 
+
+2.
+
+Their opportunities move faster than traditional Institutional Liquidity Paths structures allow.
 
 Pathmaker is engineered for this profile.
 
@@ -218,8 +222,9 @@ It depends on structural clarity and disciplined execution.
 
 Pathmaker is built for exactly this environment. 
 
-## What Operators Should Expect in the Next 2
-4 Months Mid‑market liquidity will tighten.
+## What Operators Should Expect in the Next 
+
+24 Months Mid‑market liquidity will tighten.
 
 Compliance costs will rise, especially in healthcare and industrial sectors.
 
@@ -249,4 +254,6 @@ Effective.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

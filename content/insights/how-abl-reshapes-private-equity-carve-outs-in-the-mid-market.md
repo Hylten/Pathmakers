@@ -74,4 +74,6 @@ As the mid-market becomes more competitive and more chaotic, capital that can mo
 
 Pathmaker is built for this precise moment in the market. # Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

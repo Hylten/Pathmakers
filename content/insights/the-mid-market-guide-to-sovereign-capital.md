@@ -80,13 +80,21 @@ It is predictable, collateral structured, and suited for operators who need liqu
 
 In the mid-market, private credit solves four major issues: 
 
-1. Liquidity gaps during acquisitions 
+1.
 
-2. Delays between closing and operational stabilization 
+Liquidity gaps during acquisitions 
 
-3. Balance sheet optimization for tax and leverage 
+2.
 
-4. Defensive capital to manage unexpected cycles The power is not in the rate.
+Delays between closing and operational stabilization 
+
+3.
+
+Balance sheet optimization for tax and leverage 
+
+4.
+
+Defensive capital to manage unexpected cycles The power is not in the rate.
 
 It is in the reliability.
 
@@ -124,13 +132,19 @@ It is a mechanics based tool that gives buyers and operators time, space, and le
 
 Each is designed for investors with real balance sheet complexity and non linear liquidity patterns. # ## 
 
-1. Private Credit and Asset-Based Lending This is the core.
+1.
+
+Private Credit and Asset-Based Lending This is the core.
 
 It is engineered for deal flow, acquisitions, carve outs, and operational transitions.
 
 It allows investors to maintain strategic control without dilution. # ## 
 
-2. Crypto Monetization Architecture Minimum threshold is 2,000,00
+2.
+
+Crypto Monetization Architecture Minimum threshold is 2,000,
+
+00
 0 USD.
 
 Crypto Capital Structuring is not for speculation.
@@ -149,7 +163,11 @@ Used incorrectly, it becomes an exposure.
 
 Pathmaker only participates when the investor has institutional grade custody, asset allocation discipline, and a non emotional approach to digital markets. # ## 
 
-3. Public Share Monetization Architecture Minimum threshold is 5,000,00
+3.
+
+Public Share Monetization Architecture Minimum threshold is 5,000,
+
+00
 0 USD.
 
 Public share Asset-Backed Frameworks is the most underutilized liquidity channel in the HNWI space.
@@ -318,4 +336,6 @@ It is about being untouchable.
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

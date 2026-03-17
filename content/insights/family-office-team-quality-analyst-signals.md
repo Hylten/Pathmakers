@@ -84,7 +84,9 @@ A family office evaluates five analyst-level domains to determine whether an ent
 
 I will lay them out as they judge them. 
 
-1. Data Discipline The first metric.
+1.
+
+Data Discipline The first metric.
 
 The non-negotiable.
 
@@ -112,7 +114,9 @@ But a precise analyst-a centered one-signals leadership with moral authority.
 
 That is what a family office invests in. 
 
-2. Narrative Integrity Analysts often carry the burden of reconciling reality with executive optimism.
+2.
+
+Narrative Integrity Analysts often carry the burden of reconciling reality with executive optimism.
 
 When an analyst can articulate a business model cleanly, without contradictions, without twelve versions of the truth, the office sees evidence of a healthy internal chain of custody.
 
@@ -120,7 +124,9 @@ When analysts are hesitant, fragmented, or unsure which version of the forecast 
 
 This distinction decides whether a deal lives. 
 
-3. Responsiveness Under Stress A family office tests pressure points.
+3.
+
+Responsiveness Under Stress A family office tests pressure points.
 
 They send unexpected follow-up questions.
 
@@ -142,7 +148,9 @@ Composed analysts indicate that leadership has created a covenant of trust insid
 
 That trust-more than numbers-predicts exit readiness. 
 
-4. Operational Intuition Family offices watch how deeply analysts understand the machinery of the business.
+4.
+
+Operational Intuition Family offices watch how deeply analysts understand the machinery of the business.
 
 Not memorization.
 
@@ -164,7 +172,9 @@ Honest.
 
 Investable. 
 
-5. Ethical Signals This is the one few speak about openly.
+5.
+
+Ethical Signals This is the one few speak about openly.
 
 Analysts carry moral indicators.
 
@@ -284,7 +294,9 @@ I now expand into structural detail.
 
 Family offices evaluate three hidden frameworks beneath the analyst layer, and these frameworks determine whether a company is exit-ready or still in the “emerging maturity zone.” 
 
-1. The Coherence Framework A family office examines whether the analyst tier is synchronized with the operational tier.
+1.
+
+The Coherence Framework A family office examines whether the analyst tier is synchronized with the operational tier.
 
 When sales, finance, and operations speak the same language at the analyst level, the office sees a coherent institutional core.
 
@@ -294,14 +306,17 @@ It also predicts compressibility, meaning the ability of the enterprise to be in
 
 Pathmaker observes this constantly in acquisition pipelines.
 
-Coherent analyst teams shorten diligence timelines by 30.4
-0 percent.
+Coherent analyst teams shorten diligence timelines by 30.
+
+40 percent.
 
 Family offices know this.
 
 They reward it with faster offers and fewer caveats. 
 
-2. The Continuity Framework Family offices study analyst continuity as a proxy for intellectual retention.
+2.
+
+The Continuity Framework Family offices study analyst continuity as a proxy for intellectual retention.
 
 If analysts are cycling every twelve months, the office sees cultural erosion.
 
@@ -321,7 +336,9 @@ Shifting terminology.
 
 These reveal turnover long before HR reports do. 
 
-3. The Friction Framework This is the framework that determines the true cost of an acquisition.
+3.
+
+The Friction Framework This is the framework that determines the true cost of an acquisition.
 
 Analyst behavior predicts integration friction.
 
@@ -401,4 +418,6 @@ Because that is exactly what they are.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

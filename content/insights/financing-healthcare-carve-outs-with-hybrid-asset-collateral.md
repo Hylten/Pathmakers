@@ -66,7 +66,9 @@ Hybrid collateral turns a constrained deal into a financeable one.
 
 ## The Three Collateral Pillars Pathmaker Leverages These pillars apply to HNWI and UHNW clients who have complex asset architecture and require institutional-grade structuring. # ## 
 
-1. Private Credit Secured Facilities Private credit is the backbone of our Strategic Collateralization work.
+1.
+
+Private Credit Secured Facilities Private credit is the backbone of our Strategic Collateralization work.
 
 We structure senior and mezzanine facilities that are insulated from the volatility of the healthcare carve-out itself.
 
@@ -74,7 +76,9 @@ The collateral can sit outside the operating business, often in completely diffe
 
 This gives the buyer securities-based leverage, liquidity compression, and timeline control. # ## 
 
-2. Asset-Based Strategic Collateralization Across Nontraditional Collateral Asset-Based Lending is frequently misunderstood.
+2.
+
+Asset-Based Strategic Collateralization Across Nontraditional Collateral Asset-Based Lending is frequently misunderstood.
 
 It is not limited to equipment, inventory, or receivables.
 
@@ -84,12 +88,18 @@ Pathmaker uses Asset-Based Lending to open liquidity channels that traditional l
 
 Asset-Based Lending is particularly effective in carve-outs during the transition window because it can move faster than corporate underwriting. # ## 
 
-3. Hybrid Collateral from Public Shares or Crypto Holdings This is where Pathmaker becomes structurally distinct.
+3.
+
+Hybrid Collateral from Public Shares or Crypto Holdings This is where Pathmaker becomes structurally distinct.
 
 We support: 
--  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,00
+-  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000,
+
+00
 0 
--  Public share Institutional Liquidity Paths with a minimum threshold of 5,000,00
+-  Public share Institutional Liquidity Paths with a minimum threshold of 5,000,
+
+00
 0 These are not retail Asset-Backed Frameworks structures.
 
 These are institutional-grade liquidity engines for HNW and UHNW clients.
@@ -193,7 +203,9 @@ We evaluate the buyer’s external asset footprint.
 We build a hybrid structure composed of: 
 -  A private credit facility backed by external securities. 
 -  An Asset-Based Lending tranche tied to non-healthcare assets. 
--  A 2,000,00
+-  A 2,000,
+
+00
 0 crypto-backed tranche to close the gap.
 
 The deal clears.
@@ -239,4 +251,6 @@ For buyers with complex asset portfolios, it is the most efficient path to certa
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -126,7 +126,8 @@ That posture decides deal flow.
 
 That flow decides timing.
 
-Timing decides return. **Proverbs 13:22*
+Timing decides return. **Proverbs 13:22
+*
 * : Wealth flows through structural stewardship.
 
 Cross‑border M&A obeys the same law.
@@ -233,7 +234,9 @@ This is structural due diligence.
 It is the difference between a smooth exit at Year 
 5 and a forced restructure at Year 
 
-3. Fund‑III discipline requires a certain posture.
+3.
+
+Fund‑III discipline requires a certain posture.
 
 Lean.
 
@@ -267,11 +270,15 @@ Gate 5: Timing.
 
 Most buyers enter at Gate 
 
-3. This is why they lose deals.
+3.
+
+This is why they lose deals.
 
 Tactical Intelligence pulls them back to Gate 
 
-1. Legitimacy is not performative.
+1.
+
+Legitimacy is not performative.
 
 It is structural.
 
@@ -325,8 +332,9 @@ Windows close quickly.
 
 They reopen unpredictably.
 
-Tactical Intelligence tracks reopening probability across 6
-3 indicators spanning regulatory changes, board sentiment signals, covenant pressure markers, and policy‑driven capital flow variations.
+Tactical Intelligence tracks reopening probability across 
+
+63 indicators spanning regulatory changes, board sentiment signals, covenant pressure markers, and policy‑driven capital flow variations.
 
 Cross‑border buyers rarely see these indicators.
 
@@ -494,11 +502,17 @@ It defines the acquisition thesis.
 
 Nordic assets exit cleanly when three conditions align: 
 
-1. Operational visibility is high. 
+1.
 
-2. Governance friction is low. 
+Operational visibility is high. 
 
-3. Cross‑border comparability is engineered.
+2.
+
+Governance friction is low. 
+
+3.
+
+Cross‑border comparability is engineered.
 
 We engineer comparability.
 
@@ -592,4 +606,6 @@ Book a tactical consultation.
 
 Metric: 7.3‑day median signal‑to‑conversation conversion window.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

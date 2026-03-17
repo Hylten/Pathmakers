@@ -42,7 +42,11 @@ The system is telling us exactly where the friction lives.
 
 And friction, once understood, becomes leverage.
 
-The following is the internal brief. ## ## ## ## , PRIVATE BRIEFING ON STRUCTURAL FATIGUE Not a public explainer.
+The following is the internal brief. 
+
+ 
+
+ , PRIVATE BRIEFING ON STRUCTURAL FATIGUE Not a public explainer.
 
 Not a marketing gloss.
 
@@ -62,7 +66,9 @@ That inversion is unsustainable.
 
 The market shows three dominant fatigue vectors: 
 
-1. The Valuation Escalation Spiral.
+1.
+
+The Valuation Escalation Spiral.
 
 Sellers start at fantasy multiples.
 
@@ -74,7 +80,9 @@ It erodes trust.
 
 Once trust erodes, fatigue sets. 
 
-2. The Incomplete Narrative Problem.
+2.
+
+The Incomplete Narrative Problem.
 
 The classic: a 60‑page CIM that says everything and reveals nothing.
 
@@ -84,7 +92,9 @@ That drains energy.
 
 The cycle repeats across dozens of deals. 
 
-3. The Misalignment Cascade.
+3.
+
+The Misalignment Cascade.
 
 The seller believes they are ready.
 
@@ -185,7 +195,9 @@ Tactical Intelligence restores the ratio.
 
 Mandates are abundant; closable deals are scarce.
 
-The Analyst Team has studied over 40
+The Analyst Team has studied over 
+
+40
 0 mid‑market pipelines in the last three cycles.
 
 The structural patterns repeat with uncanny consistency.
@@ -336,4 +348,6 @@ If you are preparing for an exit, or building an acquisition pipeline that avoid
 
 Book a tactical consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -22,8 +22,10 @@ The unseen brake on acquirer hesitation.
 
 The hidden amplifier that turns an ordinary business into a strategic acquisition.
 
-We operate where mid‑market operators routinely lose 20-4
-0 percent of enterprise value simply because their internal financial intelligence has never been elevated to institutional posture.
+We operate where mid‑market operators routinely lose 20
+-
+
+40 percent of enterprise value simply because their internal financial intelligence has never been elevated to institutional posture.
 
 The tragedy is structural, not moral.
 
@@ -39,7 +41,9 @@ This briefing restores the balance of power.
 
 Internal only.
 
-No embellishment. ## ## ## 
+No embellishment. 
+
+ ## 
 -  THE STRUCTURAL CORE Institutional acquirers do not pay premiums for narratives.
 
 They pay for clarity.
@@ -52,11 +56,17 @@ Trust, in this context, is not emotional; it is architectural.
 
 Three conditions form the covenant: 
 
-1. Clean throughput: Revenue-level truth that reconciles to cash every month without drama. 
+1.
 
-2. Cohort stability: Customers behave predictably and profitably across time slices, not mood. 
+Clean throughput: Revenue-level truth that reconciles to cash every month without drama. 
 
-3. Margin explicitness: The acquirer can see exactly where the leverage sits and how it scales.
+2.
+
+Cohort stability: Customers behave predictably and profitably across time slices, not mood. 
+
+3.
+
+Margin explicitness: The acquirer can see exactly where the leverage sits and how it scales.
 
 Break these conditions and your multiple compresses.
 
@@ -84,7 +94,9 @@ The next move is to expand the architecture layer by layer.
 
 INSTITUTIONAL-READY FP&A: THE FIVE-PILLAR CONSTRUCTION Each pillar is non-negotiable if an operator expects a premium multiple or a frictionless close. 
 
-1. Revenue Architecture Institutional FP&A begins with revenue objectivity-not revenue optimism.
+1.
+
+Revenue Architecture Institutional FP&A begins with revenue objectivity-not revenue optimism.
 
 We decompose revenue into structural units: 
 -  Contracted revenue 
@@ -111,7 +123,9 @@ Their model locks into your operating truth.
 
 Their valuation moves upward, not downward. 
 
-2. Cohort & Behavioral Financial Modeling Markets reward predictability.
+2.
+
+Cohort & Behavioral Financial Modeling Markets reward predictability.
 
 Not hope.
 
@@ -136,7 +150,9 @@ You govern the forward curve.
 
 This is how valuation sovereignty is won. 
 
-3. Margin Control Architecture Margins are moral signals within a business.
+3.
+
+Margin Control Architecture Margins are moral signals within a business.
 
 They reveal discipline.
 
@@ -155,7 +171,9 @@ When diligence accelerates, deal fatigue evaporates.
 
 When deal fatigue evaporates, multiples stay intact. 
 
-4. Cash Throughput Architecture Cash tells no lies.
+4.
+
+Cash Throughput Architecture Cash tells no lies.
 
 Cash flow reveals what the income statement attempts to narrate.
 
@@ -171,8 +189,11 @@ Strength in cash modeling transforms the acquisition from perceived risk into pe
 
 Cash disciplines always command valuation respect. 
 
-5. Acquisition Readiness Protocols Operators underestimate the gravity of the final 9
-0 days before going to market.
+5.
+
+Acquisition Readiness Protocols Operators underestimate the gravity of the final 
+
+90 days before going to market.
 
 The institutional world does not tolerate improvisation.
 
@@ -235,20 +256,26 @@ When you raise the multiple, you build generational outcomes.
 
 This is the architect’s work.
 
-THE ## 
+THE 
 
-## INTERNAL BYPASS 
+ INTERNAL BYPASS 
 -  THE ADVANCED STRUCTURAL ANALYSIS We now transition to the deep mechanics.
 
 This is not commentary; this is institutional architecture.
 
 A company preparing for an exit must assume three realities: 
 
-1. The buyer will attempt to control the narrative. 
+1.
 
-2. The buyer will attempt to redefine the forecast. 
+The buyer will attempt to control the narrative. 
 
-3. The buyer will attempt to discount the risk surface.
+2.
+
+The buyer will attempt to redefine the forecast. 
+
+3.
+
+The buyer will attempt to discount the risk surface.
 
 These are not adversarial moves; they are fiduciary obligations.
 
@@ -289,9 +316,13 @@ You have preemptively removed their last remaining tool.
 
 Margin Leverage Signaling An acquirer buys two things: 
 
-1. Your current state. 
+1.
 
-2. The leverage you hand them on day one.
+Your current state. 
+
+2.
+
+The leverage you hand them on day one.
 
 Margin architecture reveals where the acquirer can immediately expand profits without operational risk.
 
@@ -336,8 +367,9 @@ Institutional-grade FP&A creates a glide path so clean that acquirers accelerate
 
 We focus on: 
 -  Mid‑market companies preparing for acquisition 
--  Founders planning a 12.3
-6 month exit arc 
+-  Founders planning a 12.
+
+36 month exit arc 
 -  Management teams seeking valuation sovereignty 
 -  Companies that already have strong fundamentals but lack institutional posture 
 -  Off-market buyers searching for order, clarity, and reliability We operate upstream.
@@ -385,4 +417,6 @@ Exit multiples follow.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

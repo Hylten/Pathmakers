@@ -50,7 +50,9 @@ Not promises.
 
 Not projections.
 
-Structure. ## ## 
+Structure. 
+
+ 
 
 ## CONCLUSION
 
@@ -68,4 +70,6 @@ But with the right structure, it becomes controllable.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

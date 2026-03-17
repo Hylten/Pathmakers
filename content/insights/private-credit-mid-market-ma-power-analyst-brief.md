@@ -20,7 +20,8 @@ Surgical.
 
 High-leverage.
 
-Private credit is not an alternative asset class; it is the underlying **force multiplier*
+Private credit is not an alternative asset class; it is the underlying **force multiplier
+*
 * behind acquisition velocity, exit readiness, and structural advantage.
 
 Markets rarely recognize this because private credit operates in the shadows of regulated finance.
@@ -61,7 +62,8 @@ Machine gun cadence.
 
 No fillers.
 
-Hard edges only. **Proverbs 13:22*
+Hard edges only. **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children’s children. 
 
 ## PRIVATE CREDIT AS A PATHMAKER Liquidity bends markets.
@@ -266,7 +268,9 @@ This is not avoidance.
 
 This is precision engineering.
 
-The right jurisdiction adds 1-
+The right jurisdiction adds 
+1
+-
 3 turns of EBITDA to valuation.
 
 The wrong one subtracts them. 
@@ -314,41 +318,57 @@ The one without it operates with retail constraints.
 
 Below is the analyst-grade breakdown. 
 
-1. Pre-Funded Acquisition Mandate Lock capital before sourcing targets.
+1.
+
+Pre-Funded Acquisition Mandate Lock capital before sourcing targets.
 
 Reduces negotiation friction by 40-60%. 
 
-2. Structured Buyer Profile Use a HoldCo with optimized seniority layers.
+2.
+
+Structured Buyer Profile Use a HoldCo with optimized seniority layers.
 
 Attracts sellers.
 
 Accelerates diligence. 
 
-3. Buy-Side Integration Planning Private credit pre-funds integration.
+3.
+
+Buy-Side Integration Planning Private credit pre-funds integration.
 
 Execution risk drops. 
 
-4. Cash Sweep Optimization Align sweeps with seasonality.
+4.
+
+Cash Sweep Optimization Align sweeps with seasonality.
 
 Eliminate liquidity shocks. 
 
-5. Covenant Intelligence Negotiate flex terms early.
+5.
+
+Covenant Intelligence Negotiate flex terms early.
 
 Use performance triggers, not static ratios. 
 
-6. Earn-Out Substitution Private credit funds seller earn-outs upfront.
+6.
+
+Earn-Out Substitution Private credit funds seller earn-outs upfront.
 
 Seller exits cleanly.
 
 Buyer benefits from economic alignment. 
 
-7. Off-Market Deal Channeling Pre-funded mandates open proprietary channels.
+7.
+
+Off-Market Deal Channeling Pre-funded mandates open proprietary channels.
 
 Data rooms vanish.
 
 Competition drops. 
 
-8. Event-Driven Refinancing After integration, refinance downward.
+8.
+
+Event-Driven Refinancing After integration, refinance downward.
 
 Lift equity value instantly.
 
@@ -424,4 +444,6 @@ Book a tactical consultation.
 
 Structural efficiency target: ≥ 18.4% liquidity optimization delta.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

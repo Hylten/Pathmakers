@@ -28,7 +28,7 @@ No abstractions.
 
 No platitudes.
 
-Only the architecture that determines whether a deal closes or dies. ## ## ## ## 
+Only the architecture that determines whether a deal closes or dies. 
 -  PRIVATE BRIEFING The pattern is stable across North America and Europe: mid‑market operators still believe the financial model is a dashboard.
 
 A scoreboard.
@@ -47,13 +47,21 @@ A financial model is an underwriting engine.
 
 Misalignment enters through four predictable vectors: 
 
-1. Temporal misalignment 
+1.
 
-2. Capital‑stack misinterpretation 
+Temporal misalignment 
 
-3. Revenue geometry distortion 
+2.
 
-4. Operational delusion and mispriced capability Each vector compounds the others, generating an eventual collapse when buyer‑side diligence collides with seller‑side optimism.
+Capital‑stack misinterpretation 
+
+3.
+
+Revenue geometry distortion 
+
+4.
+
+Operational delusion and mispriced capability Each vector compounds the others, generating an eventual collapse when buyer‑side diligence collides with seller‑side optimism.
 
 The catastrophic moment-the deal kill-occurs when institutional buyers recognize the operator has misunderstood their own economic engine.
 
@@ -80,7 +88,9 @@ Most operators don’t see the blood.
 -  
 -  
 
-1. TEMPORAL MISALIGNMENT This is the most common structural flaw.
+1.
+
+TEMPORAL MISALIGNMENT This is the most common structural flaw.
 
 Operators build models in historic cadence, buyers underwrite in future cadence.
 
@@ -90,8 +100,9 @@ The delta shows up late.
 
 Temporal misalignment presents three sub‑failures: 
 -  The curve is wrong: growth is modeled as linear while market conditions are cyclical. 
--  The cadence is wrong: 12‑month logic applied to 36‑6
-0 month underwriting windows. 
+-  The cadence is wrong: 12‑month logic applied to 36‑
+
+60 month underwriting windows. 
 -  The resilience is wrong: no stress‑testing of failure scenarios that buyers automatically run.
 
 Institutional acquirers aren’t shocked by volatility.
@@ -105,7 +116,9 @@ This is where deals quietly begin to die.
 -  
 -  
 
-2. CAPITAL-STACK MISINTERPRETATION The operator designs a model to please themselves.
+2.
+
+CAPITAL-STACK MISINTERPRETATION The operator designs a model to please themselves.
 
 The buyer evaluates a model to understand risk.
 
@@ -150,7 +163,9 @@ Most mid‑market sellers never see this side of the board.
 -  
 -  
 
-3. REVENUE GEOMETRY DISTORTION Revenue is not linear.
+3.
+
+REVENUE GEOMETRY DISTORTION Revenue is not linear.
 
 Revenue is not smooth.
 
@@ -181,7 +196,9 @@ This is one of the quietest deal killers in the mid‑market.
 -  
 -  
 
-4. OPERATIONAL DELUSION AND MISPRICED CAPABILITY Operators frequently project future capability based on past effort rather than future capacity.
+4.
+
+OPERATIONAL DELUSION AND MISPRICED CAPABILITY Operators frequently project future capability based on past effort rather than future capacity.
 
 Buyers operate in reverse-they assume capacity degradation until proven otherwise.
 
@@ -232,13 +249,21 @@ The solution is structural correction at the right altitude before conversations
 
 Four interventions restore alignment: 
 
-1. Re-engineer the model to reflect actual revenue geometry. 
+1.
 
-2. Translate operational behavior into financial repeatability. 
+Re-engineer the model to reflect actual revenue geometry. 
 
-3. Stress‑test capital stack compatibility from the buyer’s vantage. 
+2.
 
-4. Rebuild the runway narrative so the model becomes the inevitable output of the company’s operating truth.
+Translate operational behavior into financial repeatability. 
+
+3.
+
+Stress‑test capital stack compatibility from the buyer’s vantage. 
+
+4.
+
+Rebuild the runway narrative so the model becomes the inevitable output of the company’s operating truth.
 
 This is where Pathmaker operates.
 
@@ -306,15 +331,25 @@ The company must stand in a state of readiness long before external parties appe
 
 This posture requires five anchors: 
 
-1. Model Truth 
+1.
 
-2. Model Durability 
+Model Truth 
 
-3. Operating Repeatability 
+2.
 
-4. Founder Decentralization 
+Model Durability 
 
-5. Buyer-Aligned Narrative The most difficult anchor is decentralization-removing the founder as the bottleneck of capability.
+3.
+
+Operating Repeatability 
+
+4.
+
+Founder Decentralization 
+
+5.
+
+Buyer-Aligned Narrative The most difficult anchor is decentralization-removing the founder as the bottleneck of capability.
 
 Buyers refuse to pay a premium for a personality.
 
@@ -414,4 +449,6 @@ Few choose wisely.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

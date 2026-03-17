@@ -16,19 +16,28 @@ It gives principals control, even in chaotic markets.
 
 The method has three pillars. 
 
-1. Precision Filtering 
+1.
 
-2. Structured Cross Border Engagement 
+Precision Filtering 
 
-3. Technical Progression Control Each pillar supports the others.
+2.
+
+Structured Cross Border Engagement 
+
+3.
+
+Technical Progression Control Each pillar supports the others.
 
 Together they create a dealflow system that feels clean, light, and fully aligned with principal led mandates. 
 -  
 -  
--  # Pillar 
+-  
 
-1. Precision Filtering Remove 8
-0 percent of targets before the first call Most buyers spend too much time on the wrong targets.
+Pillar I:.
+
+Precision Filtering Remove 
+
+80 percent of targets before the first call Most buyers spend too much time on the wrong targets.
 
 Especially when moving into new geographies.
 
@@ -58,8 +67,9 @@ Typically it includes:
 -  Geographic constraints 
 -  Contract structure constraints 
 -  Minimum operational resilience thresholds 
--  Willingness to transact in the next 1
-2 months If a target misses a single criterion, the conversation ends.
+-  Willingness to transact in the next 
+
+12 months If a target misses a single criterion, the conversation ends.
 
 There is no exception.
 
@@ -68,9 +78,11 @@ Precision filtering has one rule.
 Clarity reduces regret. 
 -  
 -  
--  # Pillar 
+-  
 
-2. Structured Cross Border Engagement Make international outreach behave like domestic outreach Cross border origination fails when the buyer loses control of tempo.
+Pillar II:.
+
+Structured Cross Border Engagement Make international outreach behave like domestic outreach Cross border origination fails when the buyer loses control of tempo.
 
 Time zones slow communication.
 
@@ -111,9 +123,11 @@ Sellers should feel the buyer is prepared, serious, and organized.
 This reduces drop off and accelerates documentation speed. 
 -  
 -  
--  # Pillar 
+-  
 
-3. Technical Progression Control Move serious sellers forward, freeze everyone else Most deals die because progression is not controlled.
+Pillar III:.
+
+Technical Progression Control Move serious sellers forward, freeze everyone else Most deals die because progression is not controlled.
 
 Buyers wait for information.
 
@@ -269,9 +283,9 @@ This allows principal led acquirers to:
 -  Maintain full control of tempo In markets where inefficiency is normal, efficiency becomes a competitive advantage. 
 -  
 -  
--  # ## 
+-  # 
 
-## CONCLUSION
+ CONCLUSION
 
  Cross Border M and A Without Friction Is Not Luck, It Is Architecture Principal led buyers need a method that removes uncertainty.
 
@@ -291,4 +305,6 @@ Pathmaker builds this engine for you.
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

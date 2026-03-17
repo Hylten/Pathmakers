@@ -30,7 +30,8 @@ The market respects precision.
 
 Buyers reward readiness.
 
-Sellers capture delta. **Proverbs 13:22*
+Sellers capture delta. **Proverbs 13:22
+*
 * .
 
 Most healthcare assets fail not because of clinical inefficiencies but because balance-sheet inertia traps them.
@@ -113,13 +114,21 @@ Good operators know exactly how far they can stretch each class without compromi
 
 A strong carve‑out Asset-Based Lending structure does four things: 
 
-1. Extracts latent liquidity from the target division without contaminating the parent entity’s capital stack. 
+1.
 
-2. Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution. 
+Extracts latent liquidity from the target division without contaminating the parent entity’s capital stack. 
 
-3. Straightens reporting lines so that an acquirer sees the asset, not the chaos. 
+2.
 
-4. Creates the conditions for exit readiness before the LOI lands.
+Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution. 
+
+3.
+
+Straightens reporting lines so that an acquirer sees the asset, not the chaos. 
+
+4.
+
+Creates the conditions for exit readiness before the LOI lands.
 
 Asset-Based Lending becomes the scaffolding.
 
@@ -165,8 +174,9 @@ The strongest operators use Asset-Based Lending to engineer this stance months b
 
 Because when the acquirer appears, the clock compresses.
 
-The operator must demonstrate three things in under 3
-0 minutes: 
+The operator must demonstrate three things in under 
+
+30 minutes: 
 -  Financial predictability 
 -  Compliance integrity 
 -  Scalable liquidity discipline Asset-Based Lending forces this discipline.
@@ -448,8 +458,10 @@ Velocity multiplied.
 -  Asset-Based Lending enables clean separation before buyer involvement. 
 -  Asset-Based Lending reduces parent-company resistance by offering certainty. 
 -  Asset-Based Lending improves quality-of-earnings outputs. 
--  Asset-Based Lending reduces M&A negotiation time by 30-5
-0 percent.
+-  Asset-Based Lending reduces M&A negotiation time by 30
+-
+
+50 percent.
 
 Time reduction is not merely convenience.
 
@@ -489,7 +501,8 @@ The carve‑out is the corridor.
 
 The exit is the endpoint.
 
-And the endpoint rewards the operator who engineered readiness before the market asked for it. **Proverbs 13:22*
+And the endpoint rewards the operator who engineered readiness before the market asked for it. **Proverbs 13:22
+*
 * .
 
 Operators who apply this win with precision.
@@ -498,7 +511,10 @@ Operators who hesitate lose quietly.
 
 Book a tactical consultation.
 
-Metric: Borrowing-base efficiency target: 7
-8 percent minimum.
+Metric: Borrowing-base efficiency target: 
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+78 percent minimum.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -10,7 +10,11 @@ The capital vacuum across the European and North American mid-market is a direct
 
 The highest quality operators often remain sub institutional size for too long, which produces an exploitable gap: exit valuations decline while operational performance strengthens.
 
-Precision financing exists to neutralize this imbalance. ## ## ## ## 
+Precision financing exists to neutralize this imbalance. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -22,8 +26,9 @@ Private credit funds, sovereign entities, and consolidation buyers have compress
 
 This shift is characterized by: 
 -  Regulatory delay cycles that extend acquisition or divestiture timelines by 
-6 to 1
-8 months. 
+6 to 
+
+18 months. 
 -  A rising threshold for financial reporting sophistication. 
 -  A recalibration of leverage appetite across private credit markets due to LTV corridor tightening. 
 -  Institutional preference for off market opportunities that provide predictable integration burden. 
@@ -33,7 +38,11 @@ The operative reality is that high performing mid market companies rarely fail o
 
 They fail to achieve optimal transaction outcomes because they underestimate the structural choreography required to move from owner operated equilibrium to institutional acquisition readiness.
 
-The capital markets reward preparation and penalize improvisation. ## ## ## ## 
+The capital markets reward preparation and penalize improvisation. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -79,9 +88,9 @@ Components include quality of earnings standardization, legal boundary cleaning,
 
 Off Market Origination Preparation The highest value deals are rarely in brokered circulation.
 
-They emerge from reputation ecosystems, operational adjacency, and disciplined ## 
+They emerge from reputation ecosystems, operational adjacency, and disciplined 
 
-## INTRODUCTION
+ INTRODUCTION
 
  networks.
 
@@ -112,7 +121,11 @@ Mid market companies do not lack opportunity.
 
 They lack institutional visibility.
 
-The partnership model exists to close that gap. ## ## ## ## 
+The partnership model exists to close that gap. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation.
 
@@ -122,7 +135,8 @@ The theology of capital treats capital as a resource with purpose, not as an ins
 
 The foundational principle is that capital stewardship must preserve optionality, strengthen operational resilience, and create multi generational value.
 
-Scriptural alignment reinforces the discipline. **Proverbs 13:22*
+Scriptural alignment reinforces the discipline. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his childrens children.
 
 In the institutional context, this reflects the obligation to build structures that endure beyond a single transaction.
@@ -131,9 +145,9 @@ Stewardship requires transparency, disciplined accounting, and avoidance of capi
 
 Within the European mid market, stewardship also involves resisting the pressure to accept misaligned capital from lenders seeking aggressive covenants or exit features.
 
-Precision financing ensures that every capital instrument reinforces stability rather than imposing hidden fragility. ## ## ## 
+Precision financing ensures that every capital instrument reinforces stability rather than imposing hidden fragility.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses: 
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses: 
 -  Structural Positioning: Whether the operator has neutralized friction points that reduce valuation spread. 
 -  Documentation Integrity: Whether EBITDA normalization, revenue verification, and liabilities are diligence ready. 
 -  Transaction Velocity: Whether the liquidity engineering architecture enables fast execution. 
@@ -157,4 +171,6 @@ The objective is clarity, not commitment.
 
 The outcome is optionality, not obligation. [END]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

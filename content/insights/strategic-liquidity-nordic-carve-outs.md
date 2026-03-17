@@ -12,7 +12,11 @@ This gap has widened as regional corporates continue to spin off non-core units 
 
 The result is a persistent misalignment between motivated sellers and capable buyers.
 
-Strategic liquidity becomes the decisive lever that determines whether a carve-out progresses to execution or stalls in multi-quarter delays. ## ## ## ## 
+Strategic liquidity becomes the decisive lever that determines whether a carve-out progresses to execution or stalls in multi-quarter delays. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -32,8 +36,9 @@ Buyers able to price operational risk are increasingly non-Nordic.
 
 U.S. private capital allocators and specialized funds evaluate Nordic operations with a more mechanical lens that favors cash-flow durability and cost visibility rather than brand heritage or legacy market position.
 
-Transaction momentum often collapses because the seller expects premium valuation while the buyer assumes transitional inefficiencies that dilute cash conversion in the first 1
-8 months.
+Transaction momentum often collapses because the seller expects premium valuation while the buyer assumes transitional inefficiencies that dilute cash conversion in the first 
+
+18 months.
 
 Pressure 2: Execution Bottlenecks.
 
@@ -47,7 +52,9 @@ Legacy IT interdependencies are downplayed.
 
 These factors create friction that institutional acquirers treat as binary execution risk rather than hygiene tasks.
 
-Deals that should be 90-day processes extend past 18
+Deals that should be 90-day processes extend past 
+
+18
 0 days.
 
 Velocity collapses.
@@ -64,7 +71,11 @@ These pressures define the environment where carve-out assets exist.
 
 The demand is not for more capital.
 
-The demand is for strategic liquidity structures that derisk execution and accelerate the path to transaction certainty. ## ## ## ## 
+The demand is for strategic liquidity structures that derisk execution and accelerate the path to transaction certainty. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -74,9 +85,9 @@ It is a discipline of friction removal.
 
 The determining variable is not asset quality.
 
-The determining variable is the buyer's perception of post-closing uncertainty. ## 
+The determining variable is the buyer's perception of post-closing uncertainty.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  must address that perception directly.
 
@@ -126,9 +137,9 @@ It removes one of the largest price-adjustment triggers in SPA negotiations.
 
 Liquidity Tranching.
 
-The most underestimated mechanical lever is the ## 
+The most underestimated mechanical lever is the 
 
-## INTRODUCTION
+ INTRODUCTION
 
  of tactical liquidity.
 
@@ -182,7 +193,11 @@ In energy transactions involving Alberta heavy oil or SAGD assets, Roials Capita
 
 In European corporate carve-outs, the work is centered on liquidity engineering and exit readiness.
 
-Different asset classes, same institutional discipline. ## ## ## ## 
+Different asset classes, same institutional discipline. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital.
 
@@ -218,16 +233,17 @@ When a carve-out misses timing windows, competitor activity, macro shifts, and i
 
 Stewardship ensures that decisions are executed within the optimal velocity window.
 
-Principle 4: Intergenerational Logic. **Proverbs 13:22*
+Principle 4: Intergenerational Logic. **Proverbs 13:22
+*
 * establishes a principle that resonates with institutional allocators: capital must be positioned in a way that strengthens future capability.
 
 For corporates, this means redeploying resources toward strategically essential domains rather than maintaining operational drag from non-core assets.
 
 Stewardship is the philosophical anchor for carve-out execution.
 
-Without it, the process becomes reactive rather than strategic. ## 
+Without it, the process becomes reactive rather than strategic.
 
-## DECISION-MAKING LENS FOR THE ALLOCATOR Sophisticated allocators evaluating Nordic carve-out assets must apply a disciplined lens based on structural readiness rather than narrative potential.
+DECISION-MAKING LENS FOR THE ALLOCATOR Sophisticated allocators evaluating Nordic carve-out assets must apply a disciplined lens based on structural readiness rather than narrative potential.
 
 The decision is whether the transaction environment contains the variables necessary for predictable execution.
 
@@ -269,4 +285,6 @@ For Nordic mid-market carve-outs, this calibration has become the differentiatin
 
 The environment rewards those who understand the mechanics, the liquidity structures, and the strategic timing required for execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -122,7 +122,9 @@ They maintain it quietly, structurally, and with precision.
 
 Pathmaker supports this with a framework built on three principles. # ## 
 
-1. Structural Liquidity Liquidity must be engineered, not improvised.
+1.
+
+Structural Liquidity Liquidity must be engineered, not improvised.
 
 Pathmaker Strategic Collateralization solutions are designed to interact seamlessly with the client’s existing capital stack.
 
@@ -138,7 +140,9 @@ Our role is to provide institutional grade mechanics that empower the client to 
 
 We protect privacy, posture, and positional advantage. # ## 
 
-3. Sovereignty Through Liquidity Liquidity is sovereignty.
+3.
+
+Sovereignty Through Liquidity Liquidity is sovereignty.
 
 The ability to act without asking permission is the defining feature of an operator who survives market cycles.
 
@@ -152,17 +156,17 @@ It is operational reality.
 
 Deals stall due to working capital gaps, valuation friction, or timing mismatches.
 
-Pathmaker financing is engineered to accelerate these deals by inserting liquidity at the precise pressure point that prevents execution. # 
+Pathmaker financing is engineered to accelerate these deals by inserting liquidity at the precise pressure point that prevents execution.
 
 ## Acquisition Momentum Private credit and Asset-Based Lending create the lift needed to finalize transactions that are fundamentally sound but temporarily constrained.
 
-Operators gain the ability to close at the pace the deal requires, not the pace a traditional lender dictates. # 
+Operators gain the ability to close at the pace the deal requires, not the pace a traditional lender dictates.
 
 ## Integration Stability The integration phase is where most deals fracture.
 
 Liquidity is the stabilizer.
 
-Pathmaker structures credit so operational cash flow remains intact while leadership executes the integration roadmap. # 
+Pathmaker structures credit so operational cash flow remains intact while leadership executes the integration roadmap.
 
 ## Opportunity Seizure Markets move.
 
@@ -174,13 +178,13 @@ The operator with instant liquidity wins.
 
 They require disciplined capital, not hero stories.
 
-Pathmaker provides financing that treats healthcare assets with the same structural rigor as any other collateral class. # 
+Pathmaker provides financing that treats healthcare assets with the same structural rigor as any other collateral class.
 
-## Stabilization Credit We provide liquidity during the separation period so operations can continue without interruption. # 
+## Stabilization Credit We provide liquidity during the separation period so operations can continue without interruption.
 
 ## Compliance Backstopping Many carve outs fail due to compliance cost spikes.
 
-Our financing provides the buffer required to maintain operational integrity while compliance frameworks are rebuilt. # 
+Our financing provides the buffer required to maintain operational integrity while compliance frameworks are rebuilt.
 
 ## Valuation Unlocking Carve outs often contain undervalued units that become accretive once detached from the legacy system.
 
@@ -224,4 +228,6 @@ This is the Pathmaker approach.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

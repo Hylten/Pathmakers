@@ -34,7 +34,8 @@ Controlled.
 
 Repeatable.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+*
 * ).
 
 Corporate architecture follows the same principle: build balance sheets that outlive cycles.
@@ -129,11 +130,17 @@ They seek working capital architectures that can scale under new operational man
 
 Asset‑based lending accelerates exit readiness in three primary ways: 
 
-1. It replaces expensive unsecured debt, restoring EBITDA optics. 
+1.
 
-2. It creates predictable liquidity corridors, enhancing buyer confidence. 
+It replaces expensive unsecured debt, restoring EBITDA optics. 
 
-3. It provides the capital necessary to fix operational deficiencies pre‑sale.
+2.
+
+It creates predictable liquidity corridors, enhancing buyer confidence. 
+
+3.
+
+It provides the capital necessary to fix operational deficiencies pre‑sale.
 
 Buyers pay more for companies that require less repair.
 
@@ -355,4 +362,6 @@ MANDATE Maintain asset‑coverage ratio above 1.42x.
 
 To engage: book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

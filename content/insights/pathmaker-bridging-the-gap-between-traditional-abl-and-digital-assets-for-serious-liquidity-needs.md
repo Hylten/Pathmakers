@@ -84,7 +84,9 @@ But they require discipline, transparency, and underwriting that respects volati
 
 Pathmaker incorporates digital assets within Asset-Based Lending logic: value the asset, apply a haircut policy, monitor custody, lend responsibly.
 
-Crypto Monetization Architecture begins at 2,000,00
+Crypto Monetization Architecture begins at 2,000,
+
+00
 0 dollars.
 
 This threshold is deliberate.
@@ -119,7 +121,9 @@ Private banks take months to approve transactions they do not truly want.
 
 Pathmaker simplifies this.
 
-We lend against publicly traded equity with a minimum threshold of 5,000,00
+We lend against publicly traded equity with a minimum threshold of 5,000,
+
+00
 0 dollars.
 
 This ensures the liquidity profile is institutional.
@@ -176,13 +180,21 @@ We are the structural partner that fills the operational void they create.
 
 Our edge comes from five mechanics: 
 
-1. Precise collateral valuation 
+1.
 
-2. Intelligent liquidity facility to value calibration 
+Precise collateral valuation 
 
-3. Multi asset Strategic Collateralization capacity across private credit, digital assets, and public equity 
+2.
 
-4. Speed that does not compromise discipline 
+Intelligent liquidity facility to value calibration 
+
+3.
+
+Multi asset Strategic Collateralization capacity across private credit, digital assets, and public equity 
+
+4.
+
+Speed that does not compromise discipline 
 
 5. principal authority in execution and reporting This is why our borrower base consistently includes HNWI and UHNW individuals.
 
@@ -280,7 +292,9 @@ We combine private credit discipline with multi asset collateral capacity.
 
 We bring principal authority to transactions that benefit from discretion.
 
-We execute at a level that serves the realities of HNWI and UHNW borrowers. ## ## 
+We execute at a level that serves the realities of HNWI and UHNW borrowers. 
+
+ 
 
 ## CONCLUSION
 
@@ -292,4 +306,6 @@ For serious borrowers who operate across traditional and digital asset classes, 
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

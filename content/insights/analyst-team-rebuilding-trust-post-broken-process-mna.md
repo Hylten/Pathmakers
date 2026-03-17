@@ -76,11 +76,17 @@ The analyst team’s role is forensic in nature: rebuild the internal skeleton b
 
 We do that through three mechanisms. 
 
-1. Pre‑emptive data integrity audits 
+1.
 
-2. Deal‑flow filtration and refinement 
+Pre‑emptive data integrity audits 
 
-3. Exit readiness architecture tied to real operations, not pitch decks This is where the modern M&A landscape failed.
+2.
+
+Deal‑flow filtration and refinement 
+
+3.
+
+Exit readiness architecture tied to real operations, not pitch decks This is where the modern M&A landscape failed.
 
 Everyone raced to polish the surface.
 
@@ -88,8 +94,9 @@ No one reinforced the load‑bearing beams.
 
 ## THE ERA OF BROKEN PROCESSES The post‑pandemic M&A surge disguised structural fragility.
 
-For 1
-8 months, everything sold.
+For 
+
+18 months, everything sold.
 
 Every memo found a reader.
 
@@ -143,33 +150,61 @@ The reconstruction model works because it rejects the legacy order.
 
 Legacy M&A Order: 
 
-1. Banker enters too early 
+1.
 
-2. Valuation inflates too quickly 
+Banker enters too early 
 
-3. Buyer engagement begins too broadly 
+2.
 
-4. Diligence overwhelms founders 
+Valuation inflates too quickly 
 
-5. Trust fractures under pressure 
+3.
 
-6. Time erodes deal value 
+Buyer engagement begins too broadly 
 
-7. The market punishes the gap between narrative and reality Reconstruction M&A Order: 
+4.
 
-1. Build exit‑readiness architecture first 
+Diligence overwhelms founders 
 
-2. Remove friction buried in the operational base layer 
+5.
 
-3. Pre‑screen narrative inconsistencies 
+Trust fractures under pressure 
 
-4. Perform analyst‑tier filtration on financials, ops, compliance, and customer concentration 
+6.
 
-5. Originate off‑market acquirers based on psychographic and structural fit 
+Time erodes deal value 
 
-6. Only then introduce buyers 
+7.
 
-7. Maintain trust through unbroken clarity and unbroken data Old world: reactive.
+The market punishes the gap between narrative and reality Reconstruction M&A Order: 
+
+1.
+
+Build exit‑readiness architecture first 
+
+2.
+
+Remove friction buried in the operational base
+
+Layer III:.
+
+Pre‑screen narrative inconsistencies 
+
+4.
+
+Perform analyst‑tier filtration on financials, ops, compliance, and customer concentration 
+
+5.
+
+Originate off‑market acquirers based on psychographic and structural fit 
+
+6.
+
+Only then introduce buyers 
+
+7.
+
+Maintain trust through unbroken clarity and unbroken data Old world: reactive.
 
 New world: architected. 
 
@@ -259,7 +294,21 @@ It is not a narrative.
 
 It is a process of removing future litigation, future renegotiation, future valuation erosion, and future buyer distrust.
 
-Exit readiness contains seven structural layers: Layer 1: Financial narrative integrity Layer 2: Customer and revenue durability Layer 3: Operational redundancy Layer 4: Leadership transition clarity Layer 5: Legal and compliance hygiene Layer 6: Market positioning realism Layer 7: Diligence pre‑qualification Exit readiness eliminates surprise.
+Exit readiness contains seven structural layers:
+
+Layer I:: Financial narrative integrity
+
+Layer II:: Customer and revenue durability
+
+Layer III:: Operational redundancy
+
+Layer IV:: Leadership transition clarity
+
+Layer V:: Legal and compliance hygiene
+
+Layer VI:: Market positioning realism
+
+Layer VII: :: Diligence pre‑qualification Exit readiness eliminates surprise.
 
 Eliminate surprise and you eliminate mistrust.
 
@@ -324,4 +373,6 @@ We will rebuild it.
 
 Book a tactical consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

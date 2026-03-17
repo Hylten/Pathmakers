@@ -10,17 +10,27 @@ The capital imbalance within niche market acquisitions is a product of fragmenta
 
 The structural gap is created by institutional undercoverage and operational opacity.
 
-This is the precise environment where Asset Based Lending becomes an architecture of control, enabling acquirers and operators to extract precision, predictability, and acquisition velocity without absorbing unnecessary balance sheet drag. ## ## ## ## 
+This is the precise environment where Asset Based Lending becomes an architecture of control, enabling acquirers and operators to extract precision, predictability, and acquisition velocity without absorbing unnecessary balance sheet drag. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  Niche markets within Europe and North America are experiencing a regime shift characterized by three converging pressures. 
 
-1. Capital migration toward simplified underwriting environments. 
+1.
 
-2. Persistent valuation disconnects within owner operated mid market companies. 
+Capital migration toward simplified underwriting environments. 
 
-3. Institutional liquidity concentrating in standardized credit structures with minimal appetite for idiosyncratic risk.
+2.
+
+Persistent valuation disconnects within owner operated mid market companies. 
+
+3.
+
+Institutional liquidity concentrating in standardized credit structures with minimal appetite for idiosyncratic risk.
 
 This creates an acquisition landscape defined by suppressed competition, long seller decision cycles, and structural mispricing.
 
@@ -35,14 +45,20 @@ In niche markets, EBITDA often distorts the operational truth.
 Asset Based Lending removes projection volatility and replaces it with measurable collateral value.
 
 This shift is directly visible in: 
--  The decline of generalist bank underwriting in sub 10
+-  The decline of generalist bank underwriting in sub 
+
+10
 0 million EUR transactions. 
 -  The rise of private credit allocators demanding faster collateral verification. 
 -  The need for acquirers to secure off market control before competitors arrive.
 
 The institutional landscape is rewarding speed, certainty, and collateral intelligence.
 
-It is penalizing operators who rely on conventional leverage structures. ## ## ## ## 
+It is penalizing operators who rely on conventional leverage structures. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -98,13 +114,21 @@ The ABL model positions the lender as senior secured while giving the operator f
 
 The waterfall prioritizes: 
 
-1. Senior ABL coverage. 
+1.
 
-2. Operational continuity capital. 
+Senior ABL coverage. 
 
-3. Acquisition reserve formation. 
+2.
 
-4. Equity enhancement only after structural stability is secured.
+Operational continuity capital. 
+
+3.
+
+Acquisition reserve formation. 
+
+4.
+
+Equity enhancement only after structural stability is secured.
 
 This is not financial optimization.
 
@@ -147,9 +171,9 @@ These differences define the viability of the acquisition strategy.
 
 Roials Capital integrates the correct architecture into the operator's acquisition path.
 
-Institutional ## 
+Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  Specialized ABL lenders prioritize operators who demonstrate operational intelligence, clean data trails, and disciplined acquisition sequencing.
 
@@ -157,7 +181,11 @@ Roials Capital facilitates introductions where the strategic fit is clear and wh
 
 In the North American energy sector, NAEO functions as a technical partner with deep operational expertise.
 
-In European and Nordic markets, the focus is on capital optimization within manufacturing, industrial services, and specialized logistics. ## ## ## ## 
+In European and Nordic markets, the focus is on capital optimization within manufacturing, industrial services, and specialized logistics. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment.
 
@@ -173,17 +201,19 @@ Stewardship creates:
 
 The principle is simple.
 
-Resources must be deployed where they strengthen operational resilience. **Proverbs 13:22*
+Resources must be deployed where they strengthen operational resilience. **Proverbs 13:22
+*
 * outlines this principle with clarity.
 
 Capital is not a trophy.
 
 It is a tool for sustaining productive systems across generations.
 
-ABL structures, when engineered correctly, reinforce this generational discipline by protecting downside risk and enhancing operational continuity. ## 
+ABL structures, when engineered correctly, reinforce this generational discipline by protecting downside risk and enhancing operational continuity.
 
-## THE DECISION LENS FOR THE ALLOCATOR OR OPERATOR Operators who intend to execute niche market acquisitions in 202
-6 must adopt a structured evaluation framework.
+THE DECISION LENS FOR THE ALLOCATOR OR OPERATOR Operators who intend to execute niche market acquisitions in 20
+
+26 must adopt a structured evaluation framework.
 
 ABL is advantageous when the operator can demonstrate: 
 -  Verifiable collateral across multiple target entities. 
@@ -209,4 +239,6 @@ The outcome is execution readiness.
 
 The environment rewards precision, and the operators who master ABL mechanics will control the next cycle of mid market consolidation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -78,7 +78,7 @@ This is the basis of the Pathmaker approach to asset based Asset-Backed Framewor
 
 Each has a specific role in the liquidity chain.
 
-Each requires its own structural methodology. # 
+Each requires its own structural methodology.
 
 ## Private Credit Private credit is no longer a niche corner of alternative finance.
 
@@ -94,7 +94,7 @@ When structured correctly it delivers real stability, which is why it is the fou
 
 For operators working within M and A pipelines or carve out scenarios, private credit backed Asset-Backed Frameworks allows rapid capital deployment without compromising long term valuations.
 
-It provides liquidity and leverage without the volatility of public markets. # 
+It provides liquidity and leverage without the volatility of public markets.
 
 ## Crypto Asset-Backed Frameworks Crypto liquidity is misunderstood.
 
@@ -120,7 +120,7 @@ It allows asset retention.
 
 It avoids unnecessary liquidation.
 
-It creates optionality in acquisition pipelines and short term capital gaps. # 
+It creates optionality in acquisition pipelines and short term capital gaps.
 
 ## Public Share Strategic Collateralization Public equities provide transparency, but transparency is not the same as stability.
 
@@ -242,4 +242,6 @@ We combine a battle tested approach with modern asset class expertise.
 
 The result is a Capital Structuring model that works in real markets, not theoretical ones. # Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

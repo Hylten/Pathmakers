@@ -50,11 +50,17 @@ This cuts through the noise, especially in complex M&A plays where asset schedul
 
 Strategic asset finance at Pathmaker is built on three principles: 
 
-1. Liquidity must be available before the opportunity. 
+1.
 
-2. Collateral must be rational, not sentimental. 
+Liquidity must be available before the opportunity. 
 
-3. Capital must be engineered to move quietly.
+2.
+
+Collateral must be rational, not sentimental. 
+
+3.
+
+Capital must be engineered to move quietly.
 
 Most deals fail because liquidity is reactive.
 
@@ -114,7 +120,9 @@ But only when it is lent against with discipline.
 
 Pathmaker offers crypto Institutional Liquidity Paths for principals who meet a minimum threshold of 2,000, 
 
-000. We do not handle small balance crypto liquidity facilities.
+000.
+
+We do not handle small balance crypto liquidity facilities.
 
 We do not handle unstable portfolios cobbled together from speculative tokens.
 
@@ -138,7 +146,9 @@ Yet these positions are powerful collateral when handled correctly.
 
 Pathmaker provides public share Strategic Collateralization for principals with a minimum threshold of 5,000, 
 
-000. This threshold is intentional.
+000.
+
+This threshold is intentional.
 
 Below that level, liquidity becomes inefficient and fees override strategic value.
 
@@ -158,13 +168,21 @@ They choose lenders based on competence and predictability.
 
 Pathmaker’s clients typically come from four categories: 
 
-1. Operators preparing for a carve out or acquisition. 
+1.
 
-2. Principals managing multi asset portfolios with complex liquidity needs. 
+Operators preparing for a carve out or acquisition. 
 
-3. Investors holding significant crypto or equity positions who prefer leverage to liquidation. 
+2.
 
-4. Family offices that need a silent capital partner who understands institutional mechanics.
+Principals managing multi asset portfolios with complex liquidity needs. 
+
+3.
+
+Investors holding significant crypto or equity positions who prefer leverage to liquidation. 
+
+4.
+
+Family offices that need a silent capital partner who understands institutional mechanics.
 
 Our value is not loud.
 
@@ -184,13 +202,21 @@ Pathmaker has.
 
 We focus on: 
 
-1. Asset isolation. 
+1.
 
-2. Collateral verification. 
+Asset isolation. 
 
-3. Documentation reconstruction. 
+2.
 
-4. Transaction pacing.
+Collateral verification. 
+
+3.
+
+Documentation reconstruction. 
+
+4.
+
+Transaction pacing.
 
 Each step is vital.
 
@@ -216,13 +242,21 @@ Principals who treat liquidity as optional lose deals to those who understand it
 
 With clear liquidity lines, a buyer can: 
 
-1. Lock a deal before competitors mobilize. 
+1.
 
-2. Negotiate without appearing desperate. 
+Lock a deal before competitors mobilize. 
 
-3. Move through diligence without delay. 
+2.
 
-4. Absorb surprises during closing.
+Negotiate without appearing desperate. 
+
+3.
+
+Move through diligence without delay. 
+
+4.
+
+Absorb surprises during closing.
 
 Pathmaker builds these liquidity systems ahead of time.
 
@@ -284,4 +318,6 @@ And we are building it now.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

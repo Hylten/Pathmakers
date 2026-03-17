@@ -72,23 +72,31 @@ When executed well, healthcare carve-outs become strong, defensible platforms wi
 
 Understanding which one applies determines how you approach the transaction. # ## 
 
-1. Strategic Misalignment The business may be profitable, but it does not fit the parent’s forward direction.
+1.
+
+Strategic Misalignment The business may be profitable, but it does not fit the parent’s forward direction.
 
 These are usually the best carve-out opportunities.
 
 The unit has strong fundamentals and simply needs focused leadership. # ## 
 
-2. Capital Reallocation The parent may need capital for core initiatives, and the unit becomes a casualty of prioritization.
+2.
+
+Capital Reallocation The parent may need capital for core initiatives, and the unit becomes a casualty of prioritization.
 
 These carve-outs often suffer from deferred investment.
 
 Buyers must be ready to rebuild infrastructure quickly. # ## 
 
-3. Underperformance Relative to Corporate Expectations The business may not have been unprofitable, but it underperformed the parent’s internal benchmarks.
+3.
+
+Underperformance Relative to Corporate Expectations The business may not have been unprofitable, but it underperformed the parent’s internal benchmarks.
 
 When evaluated independently, these units often produce healthy margins. # ## 
 
-4. Compliance or Operational Headaches This is frequent in healthcare.
+4.
+
+Compliance or Operational Headaches This is frequent in healthcare.
 
 The parent may consider the unit a regulatory liability or too operationally intense compared to the rest of their portfolio.
 
@@ -98,40 +106,43 @@ These carve-outs require disciplined compliance leadership and a fast stabilizat
 
 They hunt for the structural gaps created by years of neglect.
 
-The real value is operational. # 
+The real value is operational.
 
 ## Cultural Reset Carve-outs often suffer from employee disengagement.
 
-New ownership can reset expectations and build a sharper performance culture within months. # 
+New ownership can reset expectations and build a sharper performance culture within months.
 
 ## Pricing Realignment Many business units adopt the parent’s pricing structure, which may be too high, too low, or misaligned.
 
-Post-separation pricing resets can produce immediate margin expansion. # 
+Post-separation pricing resets can produce immediate margin expansion.
 
 ## Customer Focus A neglected unit often has frustrated customers who want better communication and better service levels.
 
-Focusing on responsiveness usually restores loyalty quickly. # 
+Focusing on responsiveness usually restores loyalty quickly.
 
 ## Commercial Rebuild Sales teams in carve-outs are often part-time or underfunded.
 
-A dedicated commercial engine can reignite growth. # 
+A dedicated commercial engine can reignite growth.
 
 ## Systems Normalization Legacy systems create friction and cost.
 
 Replacing them with right-sized platforms reduces overhead and accelerates decision-making. 
 
-## The First 12
+## The First 
+
+12
 0 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
 
 You do not.
 
 Stabilization must happen immediately.
 
-Here is the battle-tested sequence. # 
+Here is the battle-tested sequence.
 
 ## Day 
-1 to Day 3
-0 Your single job is stabilization.
+1 to Day 
+
+30 Your single job is stabilization.
 
 You must keep payroll running, keep customers informed, keep core compliance intact, and maintain IT continuity.
 
@@ -142,11 +153,13 @@ Priorities include:
 -  Communicating with all customers and partners 
 -  Assessing immediate staffing gaps 
 -  Securing short-term IT function 
--  Managing cultural tension from the transition If you fail here, the rest of the plan does not matter. # 
+-  Managing cultural tension from the transition If you fail here, the rest of the plan does not matter.
 
-## Day 3
-0 to Day 6
-0 This is the diagnostic phase.
+## Day 
+
+30 to Day 
+
+60 This is the diagnostic phase.
 
 You identify the fundamental problems that the parent ignored or hid.
 
@@ -156,10 +169,13 @@ You identify revenue leakage.
 
 You break down unit-level economics by product, service line, or location.
 
-This period generates the real value creation thesis. # 
+This period generates the real value creation thesis.
 
-## Day 6
-0 to Day 12
+## Day 
+
+60 to Day 
+
+12
 0 This is where the rebuild begins.
 
 You deploy new systems.
@@ -174,19 +190,19 @@ You start building the commercial engine that the parent never prioritized.
 
 By day 120, a carve-out should feel like a different company. 
 
-## Healthcare Carve-Out Execution: The Non-Negotiables For healthcare carve-outs, the playbook has additional critical components. # 
+## Healthcare Carve-Out Execution: The Non-Negotiables For healthcare carve-outs, the playbook has additional critical components.
 
 ## Regulatory Transition Must Be Perfect You cannot improvise compliance.
 
-You need airtight credentialing, documentation, and licensing systems from day one. # 
+You need airtight credentialing, documentation, and licensing systems from day one.
 
 ## Payor Contract Re-Stabilization Payors need reassurance.
 
-You must provide them with new organizational credentials, updated billing structures, and clear service continuity plans. # 
+You must provide them with new organizational credentials, updated billing structures, and clear service continuity plans.
 
 ## Workforce Retention Is the Make-or-Break Factor In healthcare, the asset walks out the door every night.
 
-Retention programs, transparent communication, and clinical leadership engagement are non-negotiable. # 
+Retention programs, transparent communication, and clinical leadership engagement are non-negotiable.
 
 ## Patient Experience Cannot Dip Operational turbulence cannot reach the patient level.
 
@@ -231,23 +247,23 @@ The right cultural moves restore stability and accelerate performance.
 
 ## The Most Common Failure Modes Carve-outs fail for predictable reasons.
 
-Experienced operators avoid them early. # 
+Experienced operators avoid them early.
 
-## Underestimating IT Complexity Overly optimistic IT transition timelines break operations. # 
+## Underestimating IT Complexity Overly optimistic IT transition timelines break operations.
 
 ## Weak Communication Strategy Silence creates panic.
 
 Panic creates turnover.
 
-Turnover destroys value. # 
+Turnover destroys value.
 
 ## Insufficient Working Capital Planning Carve-outs burn cash during separation.
 
-Underfunded transitions create liquidity strain. # 
+Underfunded transitions create liquidity strain.
 
 ## Overconfidence in Legacy Leadership Sometimes the leaders in a business unit have never operated independently.
 
-They crumble when the parent’s infrastructure disappears. # 
+They crumble when the parent’s infrastructure disappears.
 
 ## Treating the Carve-Out Like a Simple Add-On A carve-out requires a different mindset.
 
@@ -297,4 +313,6 @@ The chaos of separation becomes the opportunity.
 
 Book a strategic consultation
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

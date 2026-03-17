@@ -47,11 +47,17 @@ Legacy dependencies that no operator can map on day one.
 
 This fragmentation creates three forms of friction. 
 
-1. Structural friction. 
+1.
 
-2. Control friction. 
+Structural friction. 
 
-3. Capital friction.
+2.
+
+Control friction. 
+
+3.
+
+Capital friction.
 
 Each prevents the asset from entering a clean acquisition lane.
 
@@ -86,15 +92,25 @@ Our work is to convert one into the other.
 
 Asset hardening focuses on five pillars: 
 
-1. Ownership integrity. 
+1.
 
-2. Covenant accounting. 
+Ownership integrity. 
 
-3. Operational separation. 
+2.
 
-4. Documentation continuity. 
+Covenant accounting. 
 
-5. Institutional clarity.
+3.
+
+Operational separation. 
+
+4.
+
+Documentation continuity. 
+
+5.
+
+Institutional clarity.
 
 When these five pillars stand, the carve out becomes bankable.
 
@@ -103,7 +119,7 @@ When they fail, friction expands.
 -  
 -  
 
-## Pillar One: Ownership Integrity Most mid market carve outs suffer from diluted ownership clarity.
+Pillar One: Ownership Integrity Most mid market carve outs suffer from diluted ownership clarity.
 
 Intellectual property is spread across departments.
 
@@ -134,7 +150,7 @@ Without ownership integrity, there is no readiness.
 -  
 -  
 
-## Pillar Two: Covenant Accounting Accounting in a carve out is rarely prepared to withstand the scrutiny of a GP.
+Pillar Two: Covenant Accounting Accounting in a carve out is rarely prepared to withstand the scrutiny of a GP.
 
 Legacy systems mingle parent and subsidiary data.
 
@@ -171,7 +187,7 @@ It strengthens valuation because clarity is a premium good in the mid market.
 -  
 -  
 
-## Pillar Three: Operational Separation Most carve outs claim they are operationally independent.
+Pillar Three: Operational Separation Most carve outs claim they are operationally independent.
 
 They rarely are.
 
@@ -202,7 +218,7 @@ It is the statement that the business has its own spine.
 -  
 -  
 
-## Pillar Four: Documentation Continuity Documentation is oxygen during acquisition.
+Pillar Four: Documentation Continuity Documentation is oxygen during acquisition.
 
 Most mid market carve outs suffocate under missing or incomplete files.
 
@@ -227,7 +243,7 @@ If it does not exist, it becomes friction.
 -  
 -  
 
-## Pillar Five: Institutional Clarity Institutional buyers want one thing above all.
+Pillar Five: Institutional Clarity Institutional buyers want one thing above all.
 
 Predictability.
 
@@ -251,7 +267,7 @@ It is the architecture of trust.
 -  
 -  
 
-## M and A Friction: The Enemy Carve outs fail when friction compounds in three zones. # 
+## M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
 ## Zone One: Information Friction When buyers cannot see the truth.
 
@@ -259,7 +275,7 @@ When data contradicts itself.
 
 When structures shift under scrutiny.
 
-Information friction kills transaction momentum. # 
+Information friction kills transaction momentum.
 
 ## Zone Two: Decision Friction When leadership hesitates.
 
@@ -267,7 +283,7 @@ When internal alignment collapses.
 
 When no single voice carries authority.
 
-Decision friction signals weakness. # 
+Decision friction signals weakness.
 
 ## Zone Three: Covenant Friction When stewardship is compromised.
 
@@ -315,13 +331,17 @@ Without liquidity, carve outs remain theoretical.
 
 We deploy a defined hierarchy of liquidity tools. # ## 
 
-1. Private Credit Non bank capital that can move with precision.
+1.
+
+Private Credit Non bank capital that can move with precision.
 
 Structured against assets, cash flow, or hybrid models.
 
 Suitable for owners and investors with strategic urgency. # ## 
 
-2. Asset Based liquidity engineering Available for owners who possess verifiable collateral.
+2.
+
+Asset Based liquidity engineering Available for owners who possess verifiable collateral.
 
 Based on inventory, receivables, machinery, or real property.
 
@@ -329,14 +349,18 @@ Clean structure.
 
 Clear covenant language. # ## 
 
-3. Public Share Strategic Collateralization Minimum 
+3.
+
+Public Share Strategic Collateralization Minimum 
 5 million.
 
 Used for founders or HNWI holders of liquid listed equity.
 
 Structured for speed. # ## 
 
-4. Crypto Monetization Architecture Minimum 
+4.
+
+Crypto Monetization Architecture Minimum 
 2 million.
 
 Asset backed.
@@ -491,4 +515,6 @@ This is structural dominion.
 
 Book a strategic consultation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
