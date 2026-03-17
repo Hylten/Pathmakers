@@ -447,7 +447,9 @@ Execution.
 
 . 
 
-### Step III: Construct liquidity corridors tied to operational cycles
+### Step III
+
+Construct liquidity corridors tied to operational cycles
 
 . 
 

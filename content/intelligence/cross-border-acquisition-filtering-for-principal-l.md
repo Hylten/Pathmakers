@@ -38,7 +38,7 @@ Together they create a dealflow system that feels clean, light, and fully aligne
 
 - 
 
-# Pillar I: .
+### Pillar I: .
 
 Precision Filtering Remove 
 
@@ -100,7 +100,7 @@ Clarity reduces regret.
 
 - 
 
-# Pillar II: .
+### Pillar II: .
 
 Structured Cross Border Engagement Make international outreach behave like domestic outreach Cross border origination fails when the buyer loses control of tempo.
 
@@ -164,7 +164,7 @@ This reduces drop off and accelerates documentation speed.
 
 - 
 
-# Pillar III: .
+### Pillar III: .
 
 Technical Progression Control Move serious sellers forward, freeze everyone else Most deals die because progression is not controlled.
 
@@ -218,7 +218,9 @@ The result feels like domestic scheduling, even when the parties sit on opposite
 
 - 
 
-- # Applying the Method to Healthcare Carve Outs Where complexity is highest Healthcare carve outs are unforgiving.
+- 
+
+# Applying the Method to Healthcare Carve Outs Where complexity is highest Healthcare carve outs are unforgiving.
 
 Compliance, reimbursement, credentialing, and operational continuity often overwhelm traditional M and A processes.
 
@@ -284,7 +286,9 @@ From there, the probability of progression increases dramatically.
 
 - 
 
-- # How The Method Protects Principal Led Buyers Principal led mandates have unique pressure points.
+- 
+
+# How The Method Protects Principal Led Buyers Principal led mandates have unique pressure points.
 
 There is no buffer.
 
@@ -318,7 +322,9 @@ Leverage improves deal outcomes.
 
 - 
 
-- # Why Cross Border Filtering Fails Without a System Most buyers believe cross border M and A is about relationships.
+- 
+
+# Why Cross Border Filtering Fails Without a System Most buyers believe cross border M and A is about relationships.
 
 Relationships matter.
 
@@ -358,7 +364,9 @@ Execution protects outcomes.
 
 - 
 
-- # The Pathmaker Advantage Built for principals, not bureaucracy Pathmaker is not a traditional finder.
+- 
+
+# The Pathmaker Advantage Built for principals, not bureaucracy Pathmaker is not a traditional finder.
 
 It is not a broker.
 

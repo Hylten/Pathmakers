@@ -242,7 +242,7 @@ This includes:
 
 This 
 
-### Step C: L
+# Step C: L
 
 arifies not only compliance risk but also revenue durability, which is often overstated in management presentations.
 

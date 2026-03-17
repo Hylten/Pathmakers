@@ -544,7 +544,7 @@ Buyers who fail to adapt will discover the reality too late: capital speed has r
 
 For institutional buyers, founder-led groups, and strategic operators, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

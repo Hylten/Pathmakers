@@ -244,7 +244,7 @@ Each
 
 Each 
 
-### Step D
+# Step D
 
 etermines whether the deal survives diligence or collapses under its own weight.
 

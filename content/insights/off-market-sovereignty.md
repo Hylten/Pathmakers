@@ -32,7 +32,7 @@ A truth most advisors avoid because acknowledging it would dismantle their own b
 
 We begin. ( 
 
-# Phase I
+### Phase I
 
 ): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
 
@@ -100,7 +100,7 @@ Off‑market alternatives emerged not as innovation, but as correction.
 
 INTERNAL TONE ( 
 
-# Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity
+### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity
 
 .
 
@@ -156,7 +156,7 @@ Exit readiness is a posture.
 
 INTERNAL BYPASS ( 
 
-# Phase II: I
+### Phase II: I
 
 ): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
 

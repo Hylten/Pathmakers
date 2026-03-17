@@ -10,7 +10,7 @@ slug: "nordic-cross-border-ma-playbook-2026"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

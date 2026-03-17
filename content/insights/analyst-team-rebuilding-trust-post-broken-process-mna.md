@@ -322,7 +322,7 @@ It is a process of removing future litigation, future renegotiation, future valu
 
 Exit readiness contains seven structural layers:
 
-# Layer I: Financial narrative integrit
+### Layer I: Financial narrative integrit
 
 y 
 

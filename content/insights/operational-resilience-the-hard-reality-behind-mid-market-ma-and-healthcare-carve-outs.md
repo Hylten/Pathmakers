@@ -266,13 +266,13 @@ Contract external support where necessary.
 
 In carve outs, this 
 
-### Step C: an determine survival
+# Step C: an determine survival
 
 .
 
 Strengthen The Data 
 
-### Layer CL: ean data
+# Layer CL: ean data
 
 .
 

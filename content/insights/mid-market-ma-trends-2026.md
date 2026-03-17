@@ -323,7 +323,7 @@ If the answer is no, the discount is immediate.
 
 Strong second 
 
-### Layer M: anagement is now one of the biggest drivers of valuation
+# Layer M: anagement is now one of the biggest drivers of valuation
 
 .
 

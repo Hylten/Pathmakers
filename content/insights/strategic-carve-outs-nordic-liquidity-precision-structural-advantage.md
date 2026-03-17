@@ -552,7 +552,7 @@ n
 
 - IT decentralization routes 
 
-### Phase C: Market Positionin
+# Phase C: Market Positionin
 
 g
 
@@ -564,7 +564,7 @@ g
 
 - Off‑market intimations 
 
-### Phase D: Executio
+# Phase D: Executio
 
 n
 

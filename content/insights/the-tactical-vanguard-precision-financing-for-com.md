@@ -421,7 +421,7 @@ It is the weaponry that transforms a raw carve-out into an investable asset.
 
 Why the Mid-Market is Breaking Corporate groups are reaching their 
 
-### Phase LIMI: t
+# Phase LIMI: t
 
 .
 
@@ -455,17 +455,17 @@ n Structural Truth Is the business truly standalone, or is it an appendage prete
 
 ?
 
-## Operational Truth Can the business operate without the parent system within
+# Operational Truth Can the business operate without the parent system within
 
  
 
 180 days?
 
-## Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments
+# Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments
 
 ?
 
-## Leadership Truth Is the management team a stewardship resource or a liability that must be replaced
+# Leadership Truth Is the management team a stewardship resource or a liability that must be replaced
 
 ?
 

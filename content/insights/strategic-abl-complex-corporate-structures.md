@@ -62,7 +62,7 @@ What institutions perceive as risk is often simply a lack of technical mapping.
 
 Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-# Phase II: .
+### Phase II: .
 
 TECHNICAL MECHANIC
 

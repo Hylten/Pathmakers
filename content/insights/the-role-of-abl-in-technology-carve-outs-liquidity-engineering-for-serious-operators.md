@@ -202,7 +202,7 @@ Buyers can:
 
 - 
 
-# Layer I: n additional acquisition financin
+### Layer I: n additional acquisition financin
 
 g
 

@@ -108,7 +108,7 @@ This is the mindset required to survive the current market.
 
 It is also the mindset required to win. (See [Capital Structuring]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-## The Bottom Line: Volatile Markets Reward Prepared Operators Resilience is not a byproduct of good fortune
+# The Bottom Line: Volatile Markets Reward Prepared Operators Resilience is not a byproduct of good fortune
 
 .
 

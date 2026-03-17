@@ -12,7 +12,7 @@ slug: "precision-financing-for-the-nordic-biotech-sector"
 
 A 
 
-### Phase D: efined by an unforgiving cost of capital
+# Phase D: efined by an unforgiving cost of capital
 
 .
 

@@ -26,7 +26,9 @@ It rewards those who design their exit long before the buyer forms an opinion.
 
 What follows is the internal briefing. 
 
-### Phase I: - ## : THE STRUCTURAL DIAGNOSIS Private briefing
+### Phase I: -
+
+# : THE STRUCTURAL DIAGNOSIS Private briefing
 
 .
 

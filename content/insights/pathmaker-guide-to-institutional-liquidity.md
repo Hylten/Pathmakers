@@ -10,7 +10,7 @@ slug: "pathmaker-guide-to-institutional-liquidity"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

@@ -302,7 +302,7 @@ Asset-Based Lending delivers that liquidity without waiting for perfect financia
 
 De-Risking the Integration 
 
-### Phase M
+# Phase M
 
 ost cross-border acquisitions fail during integration, not during closing.
 

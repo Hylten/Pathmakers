@@ -168,7 +168,7 @@ Each friction layer extracts equity.
 
 Each 
 
-### Layer C: ompounds risk
+# Layer C: ompounds risk
 
 .
 

@@ -42,7 +42,7 @@ This is the analyst briefing on how that advantage is constructed.
 
  ( 
 
-# Phase I: ) Private-structural-unfiltered
+### Phase I: ) Private-structural-unfiltered
 
 .
 

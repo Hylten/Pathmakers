@@ -102,7 +102,7 @@ Examples include:
 
 - Seasonal 
 
-### Step D: owns that match real revenue timin
+# Step D: owns that match real revenue timin
 
 g
 

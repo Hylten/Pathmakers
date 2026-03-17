@@ -10,7 +10,7 @@ slug: "sovereign-path-mid-market-excellence-2026"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

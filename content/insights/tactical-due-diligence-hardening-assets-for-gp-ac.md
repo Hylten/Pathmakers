@@ -48,7 +48,9 @@ Non negotiable alignment.
 
 - 
 
-- ## Why Tactical Due Diligence Over Traditional Preparations Most preparation frameworks are cosmetic.
+- 
+
+# Why Tactical Due Diligence Over Traditional Preparations Most preparation frameworks are cosmetic.
 
 Tactical due diligence is structural.
 
@@ -72,7 +74,9 @@ The potential is already realized in the structure.
 
 - 
 
-- ## The Principal Advantage Commanding Position in the Negotiation Arena A hardened asset allows the Principal to negotiate from strength.
+- 
+
+# The Principal Advantage Commanding Position in the Negotiation Arena A hardened asset allows the Principal to negotiate from strength.
 
 This includes:
 
@@ -92,7 +96,9 @@ The GP recognizes the difference instantly.
 
 - 
 
-- ## The Internal Enemy Friction Friction is the hidden tax on mid-market companies.
+- 
+
+# The Internal Enemy Friction Friction is the hidden tax on mid-market companies.
 
 It appears as:
 
@@ -118,7 +124,9 @@ Pathmaker’s tactical due diligence removes friction at the root.
 
 - 
 
-- ## The External Enemy Institutional Drag GPs do not punish companies out of malice.
+- 
+
+# The External Enemy Institutional Drag GPs do not punish companies out of malice.
 
 They punish them out of necessity.
 
@@ -142,7 +150,9 @@ Not during the fire.
 
 - 
 
-- ## Tactical Intelligence as Competitive Advantage Tactical intelligence means the asset can answer the following immediately:
+- 
+
+# Tactical Intelligence as Competitive Advantage Tactical intelligence means the asset can answer the following immediately:
 
 - Where does cash originate
 
@@ -168,7 +178,9 @@ Tactical intelligence delivers clarity at institutional speed.
 
 - 
 
-- ## The Pathmaker Model General in the Trenches.
+- 
+
+# The Pathmaker Model General in the Trenches.
 
 Not an Advisor.
 
@@ -200,7 +212,9 @@ This is war preparation.
 
 - 
 
-- ## What a Hardened Asset Looks Like A hardened asset feels different.
+- 
+
+# What a Hardened Asset Looks Like A hardened asset feels different.
 
 It presents:
 
@@ -230,7 +244,9 @@ The process becomes clean.
 
 - 
 
-- ## Final Principle Stewardship Before Sale A Principal who carries covenant stewardship builds assets that endure.
+- 
+
+# Final Principle Stewardship Before Sale A Principal who carries covenant stewardship builds assets that endure.
 
 Not fragile.
 
@@ -250,7 +266,9 @@ Built to be entrusted to institutional buyers without fear.
 
 - 
 
-- ## Book a strategic consultation If THE MANDAT
+- 
+
+# Book a strategic consultation If THE MANDAT
 
 E
 

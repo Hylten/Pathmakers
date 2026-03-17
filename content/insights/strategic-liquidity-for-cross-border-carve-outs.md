@@ -289,7 +289,9 @@ Map liquidity to operational rhythm Every jurisdiction operates at a different p
 
 We synchronize liquidity to those rhythms so the buyer does not have to. 
 
-### Step III: Build redundancy One source of liquidity is never enough
+### Step III
+
+Build redundancy One source of liquidity is never enough
 
 .
 

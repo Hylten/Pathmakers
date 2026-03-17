@@ -209,7 +209,7 @@ Market timing risk is visible.
 
 Pathmaker structures non-liquidating liquidity solutions:
 
-## Crypto Asset-Backed Frameworks Minimum threshold:
+# Crypto Asset-Backed Frameworks Minimum threshold:
 
  
 2 million dollars.

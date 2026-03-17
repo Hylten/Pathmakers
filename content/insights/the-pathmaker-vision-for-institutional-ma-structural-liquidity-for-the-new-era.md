@@ -228,7 +228,7 @@ It is influence without spectacle.
 
 Liquidity as Strategy Not a Last Step, a First 
 
-### Step M
+# Step M
 
 ost buyers still treat liquidity as the final box to check after negotiation.
 

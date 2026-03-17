@@ -10,7 +10,7 @@ slug: "the-power-of-abl-in-niche-market-acquisitions"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -286,7 +286,9 @@ However, the sponsor employs a UHNW co investment vehicle integrated with UHNW l
 
 This preserves capital for simultaneous bolt on targeting a smaller $18M compression unit refurbisher. 
 
-### Step IV: RCM Optimization Post acquisition, the sponsor introduces
+### Step IV
+
+RCM Optimization Post acquisition, the sponsor introduces
 
 a
 

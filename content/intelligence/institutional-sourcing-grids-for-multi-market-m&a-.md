@@ -384,7 +384,7 @@ Common Failure Modes in Multi Market M&A Sourcing The majority of sourcing under
 
 These include:
 
-## Overexpansion Without Diagnostic Infrastructure Teams expand into new markets before completing the Diagnostic Audit
+# Overexpansion Without Diagnostic Infrastructure Teams expand into new markets before completing the Diagnostic Audit
 
 .
 

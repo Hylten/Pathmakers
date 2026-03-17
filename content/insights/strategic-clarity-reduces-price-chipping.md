@@ -50,7 +50,7 @@ The following briefing is written as if for the founder who understands the grav
 
 Pathmaker serves this category alone. ( 
 
-# Phase I: )
+### Phase I: )
 
 1.
 
@@ -210,7 +210,7 @@ Clarity suspends the ability to attack.
 
 INTERNAL TONE ( 
 
-# Phase II: ) Principal voice
+### Phase II: ) Principal voice
 
 .
 
@@ -246,7 +246,7 @@ Founders who refuse to clarify their own business architecture effectively invit
 
 INTERNAL BYPASS ( 
 
-# Phase III: ) Mixed syntax
+### Phase III: ) Mixed syntax
 
 .
 

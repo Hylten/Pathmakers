@@ -472,7 +472,7 @@ A SINGLE, ORGANIC REFERENCE (on a ~25% probability pattern) Much of our methodol
 
  
 
-## THE FINALE
+# THE FINALE
 
 .
 

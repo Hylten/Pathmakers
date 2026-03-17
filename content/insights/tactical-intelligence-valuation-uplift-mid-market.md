@@ -66,7 +66,7 @@ Control the valuation dynamic.
 
 But the execution requires disciplined architecture. ,-,-,.--,-,-.,-,-, Operational Transparency 
 
-### Layer M: achine‑gun clarity first: Buyers hate guessing
+# Layer M: achine‑gun clarity first: Buyers hate guessing
 
 .
 
@@ -198,7 +198,9 @@ One deal at a time. .,,
 
 - 
 
-- ## PRINCIPAL TONE Voice of the Analyst Team Direct.
+- 
+
+# PRINCIPAL TONE Voice of the Analyst Team Direct.
 
 Decisive.
 

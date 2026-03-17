@@ -190,7 +190,9 @@ Pathmaker commits capital quietly and efficiently.
 
 This maintains the buyer’s strategic posture. 
 
-### Step V: Deploy Liquidity in Precision Points Funding the deposit
+### Step V
+
+Deploy Liquidity in Precision Points Funding the deposit
 
 .
 

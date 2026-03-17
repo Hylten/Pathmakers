@@ -506,7 +506,7 @@ They act with structural clarity.
 
 For platforms preparing to exit, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
