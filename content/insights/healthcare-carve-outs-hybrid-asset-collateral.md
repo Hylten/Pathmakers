@@ -164,7 +164,9 @@ In carve-out transactions, time is a destabilizing factor.
 
 The longer the unit remains entangled in the parent organization, the more operational friction accumulates.
 
-By establishing clarity early in the process, acquirers reduce diligence cycles and bring the asset to exit readiness. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
+By establishing clarity early in the process, acquirers reduce diligence cycles and bring the asset to exit readiness. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
 
 In healthcare carve-outs, this principle holds both moral and operational weight.
 
@@ -192,7 +194,9 @@ Balance sheet optimization is deployed with discipline.
 
 A carve-out is a transition phase.
 
-Stewardship ensures the new entity can pursue modernization, digitalization, and operational hardening without unnecessary structural barriers. ## ## DECISION ARCHITECTURE FOR ALLOCATORS Healthcare carve-outs with hybrid collateral require a distinct evaluation framework.
+Stewardship ensures the new entity can pursue modernization, digitalization, and operational hardening without unnecessary structural barriers. ## 
+
+## DECISION ARCHITECTURE FOR ALLOCATORS Healthcare carve-outs with hybrid collateral require a distinct evaluation framework.
 
 The allocator must examine: 
 
@@ -207,3 +211,5 @@ The allocator must examine:
 5. The exit pathways: strategic sale, consolidation, or scale through acquisition.
 
 Roials Capital offers a confidential Portfolio Calibration process designed to help senior allocators understand where hybrid collateral can accelerate deal execution, reduce M&A friction, and unlock off market opportunities within the healthcare sector. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

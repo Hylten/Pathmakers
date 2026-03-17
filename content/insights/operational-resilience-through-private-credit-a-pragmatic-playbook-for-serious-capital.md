@@ -32,7 +32,7 @@ We operate public share Institutional Liquidity Paths with a minimum threshold o
 
 We work exclusively with high net worth and ultra high net worth individuals who understand that speed and silence are advantages.
 
-Our posture is silent authority.
+Our posture is principal authority.
 
 We create the structural mechanics that institutional capital depends on, while our clients move without friction.
 
@@ -46,7 +46,9 @@ Nothing romantic.
 
 Nothing theoretical.
 
-Only what works. ## Public Share Capital Structuring: Liquidity Without Exit Public equities can represent generational wealth, long term strategy, or positions that are not ready for liquidation.
+Only what works. 
+
+## Public Share Capital Structuring: Liquidity Without Exit Public equities can represent generational wealth, long term strategy, or positions that are not ready for liquidation.
 
 Yet these positions often sit idle from a liquidity perspective.
 
@@ -62,7 +64,9 @@ It provides liquidity that supports operational moves, capital reallocation, or 
 
 HNWI and UHNW clients use public share Monetization Architecture to unlock capacity without compromising strategy.
 
-This creates resilience not by hoarding liquidity, but by refining it. ## Healthcare Carve Outs: Where Private Credit Proves Its Value Few environments test operational resilience like healthcare carve outs.
+This creates resilience not by hoarding liquidity, but by refining it. 
+
+## Healthcare Carve Outs: Where Private Credit Proves Its Value Few environments test operational resilience like healthcare carve outs.
 
 These transactions are complex.
 
@@ -92,7 +96,9 @@ Stabilize operations so that clinical care, revenue cycles, and staffing remain 
 
 Healthcare carve outs do not require optimism.
 
-They require liquidity, technical understanding, and structural control. ## Mid Market M and A: Liquidity Determines Who Wins Mid market M and A is where operational resilience turns into competitive advantage.
+They require liquidity, technical understanding, and structural control. 
+
+## Mid Market M and A: Liquidity Determines Who Wins Mid market M and A is where operational resilience turns into competitive advantage.
 
 Most deals fall apart not because the buyer lacks interest, but because the buyer cannot mobilize liquidity at the necessary speed.
 
@@ -112,9 +118,11 @@ Liquidity is leverage.
 
 Clarity is leverage.
 
-Pathmaker builds these advantages into the capital strategy from the beginning. ## Silent Authority: The F Hierarchical Dynamics Our brand position is deliberate.
+Pathmaker builds these advantages into the capital strategy from the beginning. 
 
-Pathmaker operates with silent authority.
+## principal authority: The F Hierarchical Dynamics Our brand position is deliberate.
+
+Pathmaker operates with principal authority.
 
 We do not sell noise.
 
@@ -132,7 +140,9 @@ Clients rely on us because we deliver mechanics that do not need celebration.
 
 Only performance.
 
-Only execution. ## Why Operational Resilience Matters More Today Than Ever Volatility is not a temporary cycle.
+Only execution. 
+
+## Why Operational Resilience Matters More Today Than Ever Volatility is not a temporary cycle.
 
 It is the permanent condition of modern business.
 
@@ -156,7 +166,9 @@ It is built through optionality.
 
 It is built through structures that give leaders the freedom to act.
 
-This is what Pathmaker exists to build. ## Build Your Advantage If you are a high net worth or ultra high net worth operator preparing for a carve out, an acquisition, a liquidity event, or a strategic pivot, you already understand the stakes.
+This is what Pathmaker exists to build. 
+
+## Build Your Advantage If you are a high net worth or ultra high net worth operator preparing for a carve out, an acquisition, a liquidity event, or a strategic pivot, you already understand the stakes.
 
 You already understand the tempo.
 
@@ -167,3 +179,5 @@ The next move is liquidity.
 The next move is resilience.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

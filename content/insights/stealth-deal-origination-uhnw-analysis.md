@@ -42,9 +42,12 @@ Not the diamonds.
 
 This is the inflection.
 
-And the strategic consequences are immense. ## PHASE 1 
+And the strategic consequences are immense. 
 
--  ## ## ## The first structural shift: founders no longer trust the traditional M&A theatre.
+## PHASE 1 
+-  ## ## 
+
+## The first structural shift: founders no longer trust the traditional M&A theatre.
 
 The process exposes their time horizon, their financial pressure, and their internal weaknesses.
 
@@ -108,8 +111,9 @@ The real deals move silently.
 
 The sovereign question becomes: What does this shift mean for the UHNW direct investor?
 
-And what architecture must be built to capture the new flow? ## PHASE 2 
+And what architecture must be built to capture the new flow? 
 
+## PHASE 2 
 -  INTERNAL TONE Principal voice activated.
 
 Clarity first.
@@ -168,8 +172,9 @@ They want a counterparty who understands their world without forcing them onto a
 
 Stealth origination is an act of respect.
 
-One founder speaks to another human being, not to a marketplace of bidders. ## PHASE 3 
+One founder speaks to another human being, not to a marketplace of bidders. 
 
+## PHASE 3 
 -  INTERNAL STRUCTURE The architectural breakdown follows.
 
 The tactical map of stealth origination has four dominant corridors.
@@ -188,7 +193,7 @@ When friction accelerates, liquidity-driven decision making soon follows.
 
 That is the window.
 
-Corridor Two: Zero‑Friction Access Channels Founders avoid broad processes because broad processes demand performance theatre.
+Corridor Two: Zero‑Friction Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Your architecture must remove theatre.
 
@@ -214,7 +219,7 @@ Corridor Three: Private Market Positioning A direct investor must not resemble a
 
 Must not resemble a broker.
 
-UHNW investors earn access by being the safe counterparty who does not need to brag.
+UHNW investors earn Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 If the founder senses desperation, the channel dies.
 
@@ -246,7 +251,7 @@ A deeper operational view: The mid‑market founder begins showing intent long b
 
 But only a narrow elite of investors can hear that frequency.
 
-It requires pattern memory, sector fluency, and clean relational access.
+It requires pattern memory, sector fluency, and clean relational Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Algorithms can detect signals.
 
@@ -286,7 +291,7 @@ Infrastructure outperforms social capital.
 
 The rise of algorithmic deal flow replaces the traditional reliance on social proximity.
 
-Consequence Two: The Middlemen Lose Dominance Intermediaries once controlled access.
+Consequence Two: The Middlemen Lose Dominance Intermediaries once controlled Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Today, they amplify noise.
 
@@ -308,7 +313,7 @@ Direct investors who operate quietly can arrive at a fair number faster, with st
 
 That asymmetry compounds over time.
 
-It becomes a flywheel of proprietary access.
+It becomes a flywheel of proprietary Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Consequence Four: Speed Is the Ultimate Weapon The UHNW investor must shorten the time between first signal and first conversation.
 
@@ -364,7 +369,7 @@ The investor who moves into the silent channels will become the gravitational po
 
 Machine gun close: Quiet is power.
 
-Access beats noise.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Signals beat listings.
 

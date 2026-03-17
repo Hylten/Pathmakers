@@ -30,7 +30,9 @@ That is the truth the mid‑market now lives with.
 
 A truth most advisors avoid because acknowledging it would dismantle their own business model overnight.
 
-We begin. ## ## ## ( ## PHASE 1): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
+We begin. ## ## ## ( 
+
+## PHASE 1): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
 
 It happened through the erosion of trust.
 
@@ -94,7 +96,9 @@ They want pathways to completion, not noisy rooms.
 
 Off‑market alternatives emerged not as innovation, but as correction.
 
-INTERNAL TONE ( ## PHASE 2): PRINCIPAL VOICE The mid‑market deserves clarity.
+INTERNAL TONE ( 
+
+## PHASE 2): PRINCIPAL VOICE The mid‑market deserves clarity.
 
 Off‑market is not secrecy.
 
@@ -144,20 +148,19 @@ They need sellers who have prepared their financial house, their operational hou
 
 Exit readiness is not a document.
 
-Exit readiness is a posture. ## ## INTERNAL BYPASS ( ## PHASE 3): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
+Exit readiness is a posture. ## 
+
+## INTERNAL BYPASS ( 
+
+## PHASE 3): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
 
 By pushing twenty to fifty buyers into the top of the funnel, the advisor introduces the single greatest source of execution risk: heterogeneity of intent.
 
 Five buyer types collide. 
-
 -  The strategic consolidator 
-
 -  The financial sponsor scanning for platform fit 
-
 -  The opportunistic buyer 
-
 -  The legacy‑driven family office 
-
 -  The “tourist”-the buyer who signs NDAs, collects data, but never closes Only the first two are real.
 
 Only the first two ever were.
@@ -340,7 +343,9 @@ Some do.
 
 The architecture determines the path.
 
-CLOSING ## ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted.
+CLOSING 
+
+## ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted.
 
 Permanently.
 
@@ -371,3 +376,5 @@ That era is over.
 Off‑market sovereignty is the path forward for the mid‑market because it reflects reality, not nostalgia.
 
 Book a tactical consultation
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

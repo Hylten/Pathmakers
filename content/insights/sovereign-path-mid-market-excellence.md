@@ -202,7 +202,9 @@ Roials Capital provides strategic alignment and institutional ##
 
 ## INTRODUCTION
 
- . ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction.
+ . ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction.
 
 It is a practical discipline that guides capital allocation.
 
@@ -230,7 +232,9 @@ It ensures that founders preserve what they built.
 
 It ensures that buyers acquire organizations capable of long term value creation.
 
-Long term capital respects stewardship because it reduces entropy within the enterprise. ## ## DECISION MAKING FRAMEWORK FOR MID-MARKET ALLOCATORS AND OWNERS The sovereign path exists for founders, family offices, and institutional acquirers seeking clarity.
+Long term capital respects stewardship because it reduces entropy within the enterprise. ## 
+
+## DECISION MAKING FRAMEWORK FOR MID-MARKET ALLOCATORS AND OWNERS The sovereign path exists for founders, family offices, and institutional acquirers seeking clarity.
 
 The path is defined by readiness, discipline, and structural consistency.
 
@@ -263,3 +267,5 @@ The work is guided by a commitment to clarity, excellence, and disciplined prepa
 For owners and allocators requiring a full assessment of readiness, a confidential strategy consultation provides the structural map, not a transactional pitch.
 
 The objective is to align the enterprise with its most viable strategic path. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

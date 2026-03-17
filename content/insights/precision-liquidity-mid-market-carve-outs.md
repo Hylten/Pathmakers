@@ -12,7 +12,9 @@ It is a structural byproduct of regulatory recalibration, extended diligence cyc
 
 Precision Liquidity is now the decisive variable for any corporate division preparing for a high velocity separation or strategic sale.
 
-In 2026, the most predictable execution outcomes are emerging not from distressed restructurings but from operationally clean carve-outs with engineered liquidity corridors that reduce transactional drag. ## PHASE 
+In 2026, the most predictable execution outcomes are emerging not from distressed restructurings but from operationally clean carve-outs with engineered liquidity corridors that reduce transactional drag. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -46,7 +48,9 @@ As a result, mid-market corporate owners are increasingly prioritizing exit read
 
 Operational separation is no longer a post LOI activity.
 
-It is a pre mandate requirement that governs the quality of institutional interest. ## PHASE 
+It is a pre mandate requirement that governs the quality of institutional interest. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -94,7 +98,9 @@ The objective is to eliminate informational asymmetry before the buyer attempts 
 
 These mechanics reduce M&A friction by enabling the buyer to underwrite not only the financial performance of the division but also the operational survivability of the standalone entity.
 
-High caliber institutional buyers, particularly in the Nordic and Northern European markets, apply increasingly strict filters in these categories. ## PHASE 
+High caliber institutional buyers, particularly in the Nordic and Northern European markets, apply increasingly strict filters in these categories. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator for corporate owners preparing divisional separations or sale mandates.
 
@@ -122,9 +128,13 @@ The introducer role is strictly neutral.
 
 The objective is to reduce friction and enable high conviction engagement.
 
-This model is built to accelerate the transaction lifecycle while maintaining institutional discipline. ## PHASE 
+This model is built to accelerate the transaction lifecycle while maintaining institutional discipline. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship operates as a discipline of precision and accountability.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship operates as a discipline of precision and accountability.
 
 Divisional separations must honor the principles of clarity, resource integrity, and capital efficiency.
 
@@ -140,7 +150,9 @@ Precision Liquidity is a form of responsible capital allocation.
 
 Asset hardening is a form of protection against waste.
 
-Stewardship ensures the organizational transition strengthens rather than destabilizes the corporate ecosystem. ## PHASE 
+Stewardship ensures the organizational transition strengthens rather than destabilizes the corporate ecosystem. 
+
+## PHASE 
 
 5. DECISION MAKING FRAMEWORK FOR ALLOCATORS AND OWNERS Corporate owners preparing a potential carve-out or divisional exit face a series of non negotiable diagnostic questions.
 
@@ -173,3 +185,5 @@ Asset hardening and operational clarity complete the architecture.
 A confidential Strategy Audit is the appropriate next step for owners evaluating separation pathways.
 
 It identifies the operational friction points, liquidity requirements, and structural adjustments required to position the division for institutional grade engagement.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

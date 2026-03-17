@@ -176,7 +176,9 @@ This elevates efficiency, reduces time wastage for all parties, and ensures that
 
 The model is not about creating competition.
 
-It is about creating precision. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value.
+It is about creating precision. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value.
 
 Nordic companies have historically operated with conservative capital cultures, focusing on reinvestment and operational stability.
 
@@ -212,7 +214,11 @@ Transparency accelerates the buyer’s internal approval cycle.
 
 The stewardship filter is not moral rhetoric.
 
-It is valuation engineering. ## ## A ## ## DECISION MAKING LENS FOR THE ALLOCATOR OR CORPORATE OWNER The Nordic region is entering a period where cross border demand is structurally high.
+It is valuation engineering. ## 
+
+## A ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR OR CORPORATE OWNER The Nordic region is entering a period where cross border demand is structurally high.
 
 Buyers seek precision engineered mid market targets that can integrate into global value chains.
 
@@ -239,3 +245,5 @@ This is the new playbook for cross border M&A in the Nordic region.
 It is grounded in operational intelligence, readiness engineering, and disciplined stewardship.
 
 It positions corporate owners and allocators to navigate 2026’s M&A landscape with authority and clarity.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

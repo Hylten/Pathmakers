@@ -83,17 +83,14 @@ In the mid‑market, the just are the prepared.
 Asset-Based Lending makes them prepared.
 
 THE CARVE‑OUT FRICTION TRIAD Three frictions consistently cripple mid‑market carve‑outs: 
-
 -  Information asymmetry.
 
 The parent discloses selectively. 
-
 -  Transition undercapitalization.
 
 Working capital mismatches on Day 
 
 1. 
-
 -  Operational drift.
 
 Systems, people, vendors in temporary limbo.
@@ -152,7 +149,9 @@ Even in oil and gas supply chains-long-lead, spec-heavy, capital-intense-Asset-B
 
 It turns float into structure.
 
-Fund-III ## MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase.
+Fund-III 
+
+## MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase.
 
 Fund‑I proves the thesis.
 
@@ -175,15 +174,10 @@ LPs expect stability.
 Asset-Based Lending provides the buffer needed to convert volatile opportunities into stable executions.
 
 Five Fund‑III pressures converge: 
-
 -  Larger check sizes. 
-
 -  Higher governance scrutiny. 
-
 -  Demand for repeatable systems. 
-
 -  Accelerated deployment timelines. 
-
 -  Lower appetite for custodial risk.
 
 Asset-Based Lending reduces custodial risk.
@@ -209,13 +203,9 @@ Revenue cycles swing with commodity volatility.
 But O&G also carries high‑quality collateral-equipment, receivables from strong counterparties, inventory with defined secondary markets.
 
 This makes Asset-Based Lending disproportionately effective: 
-
 -  High‑value collateral networks. 
-
 -  Predictable collection patterns with majors. 
-
 -  Strong vendor ecosystems. 
-
 -  Equipment with durable remarketing value.
 
 For carve‑outs in this sector, Asset-Based Lending becomes more than liquidity.
@@ -239,13 +229,9 @@ OFF‑MARKET ORIGINATION ADVANTAGE Mid‑market off‑market deal flow is driven
 Sellers choose buyers who solve their problems quietly.
 
 Asset-Based Lending lets buyers present: 
-
 -  Faster closing timelines. 
-
 -  Lower demands on corporate cooperation. 
-
 -  Lower execution risk. 
-
 -  Cleaner separation structure.
 
 This creates a sourcing delta: the buyer who uses Asset-Based Lending wins deals not visible to the buyer who does not.
@@ -309,15 +295,10 @@ Integration is momentum.
 Asset-Based Lending creates momentum.
 
 EXIT READINESS BEGINS ON DAY 1 The strongest exit multiples come from businesses that demonstrate: 
-
 -  Independent financial systems. 
-
 -  Reliable working capital. 
-
 -  Stable trade cycles. 
-
 -  Documented operational autonomy. 
-
 -  Clean separation history.
 
 Asset-Based Lending ensures every component is captured, monitored, and reported.
@@ -489,3 +470,5 @@ Therefore carve‑outs succeed.
 Book a tactical consultation.
 
 Technical metric: 97.4 percent liquidity‑to‑asset coverage ratio (LACR) under stabilized mid‑market conditions.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

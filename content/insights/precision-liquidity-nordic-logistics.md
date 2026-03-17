@@ -116,7 +116,9 @@ This intelligence feeds into capital introductions, exit preparation, and govern
 
 For operators seeking precision liquidity, this model delivers neutral institutional validation.
 
-For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing.
+For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing.
 
 Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. **Proverbs 13:22** establishes the principle of multi generational capital responsibility.
 
@@ -134,7 +136,9 @@ In the logistics context, stewardship manifests in four behaviors.
 
 Long horizon stability increases valuation and reduces exit friction.
 
-This filter produces companies that are attractive to strategic buyers, private equity platforms, and cross border logistics consolidators seeking resilient Nordic footholds. ## ## CALIBRATION FOR THE ALLOCATOR For allocators assessing the Nordic logistics environment, the core evaluation lens rests on structural dynamics rather than surface metrics.
+This filter produces companies that are attractive to strategic buyers, private equity platforms, and cross border logistics consolidators seeking resilient Nordic footholds. ## 
+
+## CALIBRATION FOR THE ALLOCATOR For allocators assessing the Nordic logistics environment, the core evaluation lens rests on structural dynamics rather than surface metrics.
 
 The question is not whether freight demand is stable.
 
@@ -151,3 +155,5 @@ However, without Strategic Collateralization and balance sheet optimization, the
 Roials Capital engages as a strategic navigator to increase clarity, remove friction, and align operators with buyers, lenders, and institutional partners that match their intrinsic profile.
 
 Operators seeking to understand the structural liquidity landscape, exit readiness requirements, and off market acquisition architecture can initiate a confidential strategy audit to assess calibration gaps and institutional positioning.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

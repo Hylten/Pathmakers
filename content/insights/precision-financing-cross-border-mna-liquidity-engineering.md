@@ -112,19 +112,22 @@ The partnership model is deliberately neutral.
 
 Roials Capital is an introducer and structural strategist, not a lender.
 
-This ensures alignment with the operator rather than the capital provider. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity.
+This ensures alignment with the operator rather than the capital provider. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity.
 
 Stewardship is not austerity.
 
 Stewardship is precision. 
-
 -  **Proverbs 13:22** prioritizes generational capital alignment, which translates into a requirement that acquisitions must reinforce the operator's long term balance sheet, not just short term growth metrics.
 
 Stewardship requires that liquidity be used to expand operational resilience, strengthen asset durability, and increase the scalability of the platform.
 
 Waste occurs when financing is pursued without structural discipline.
 
-Stewardship prevents this by grounding decisions in resource responsibility. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Mid-market operators and their capital partners require a framework that separates reactive financing from strategic readiness.
+Stewardship prevents this by grounding decisions in resource responsibility. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Mid-market operators and their capital partners require a framework that separates reactive financing from strategic readiness.
 
 Precision financing is fundamentally a readiness discipline.
 
@@ -143,3 +146,5 @@ Operators pursuing cross border acquisitions or preparing for exit cycles can re
 The objective is clarity.
 
 The outcome is precision. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

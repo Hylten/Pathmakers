@@ -12,7 +12,9 @@ The structural gap is created by accounting opacity, not credit scarcity.
 
 In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures.
 
-This is the opening for strategic Asset-Based Lending. ## PHASE 
+This is the opening for strategic Asset-Based Lending. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -52,7 +54,9 @@ This regime shift creates an arbitrage window for organisations that can interpr
 
 What institutions perceive as risk is often simply a lack of technical mapping.
 
-Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) ## PHASE 
+Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -79,13 +83,9 @@ Strategic Asset-Based Lending models the entire map before defining the borrowin
 The challenge is determining which assets can support senior secured lending without violating corporate separations.
 
 Techniques include: 
-
 -  Cross entity collateral synchronisation 
-
 -  Covenant neutral intercompany agreements 
-
 -  Limited recourse structures that maintain corporate integrity 
-
 -  Asset hardening procedures that preserve collateral stability across acquisition cycles Borrowing base engineering is not about pushing leverage.
 
 It is about removing noise so collateral can carry liquidity. 
@@ -95,11 +95,8 @@ It is about removing noise so collateral can carry liquidity.
 Strategic Asset-Based Lending uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity.
 
 For example: 
-
 -  Hard assets with established resale markets follow high stability LTV curves. 
-
 -  Receivables tied to diversified clients follow mid band curves with time decay functions. 
-
 -  Intellectual property or contractual rights may require structural subordination or cross collateralisation.
 
 The objective is to define a defensible seniority stack that institutional lenders can recognise without being forced into binary credit decisions. 
@@ -109,18 +106,15 @@ The objective is to define a defensible seniority stack that institutional lende
 Strategic Asset-Based Lending constructs waterfalls that reflect operational reality rather than accounting formality.
 
 This includes: 
-
 -  Entity specific operating reserves 
-
 -  Group level senior obligations 
-
 -  Structured intra group compensation 
-
 -  Acquisition staging reserves 
-
 -  Protected reinvestment corridors Waterfall architecture determines lender confidence.
 
-The clearer the intercompany monetisation pathways, the lower the friction cost of capital. ## PHASE 
+The clearer the intercompany monetisation pathways, the lower the friction cost of capital. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
@@ -170,9 +164,13 @@ Their operational intelligence in Alberta, combined with field level visibility,
 
 The same principle applies to multi entity corporate groups in manufacturing, logistics, technology, and industrial services.
 
-When the operating partner has clarity, the lender can price risk accurately. ## PHASE 
+When the operating partner has clarity, the lender can price risk accurately. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is the discipline of non wasteful resource management.
 
@@ -198,7 +196,9 @@ The stewardship filter aligns with the principle in **Proverbs 13:22** which pos
 
 Corporate assets become durable when they are structured coherently.
 
-Capital follows coherence. ## PHASE 
+Capital follows coherence. 
+
+## PHASE 
 
 5. DECISION LENS FOR THE ALLOCATOR OR OWNER For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available.
 
@@ -229,3 +229,5 @@ For allocators, this creates clear visibility.
 For owners, it removes friction.
 
 For acquirers, it increases certainty of execution. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

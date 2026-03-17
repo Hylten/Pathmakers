@@ -407,3 +407,5 @@ This is
 Book a tactical consultation.
 
 Technical Metric: Target friction compression delta: 38% reduction in diligence drag.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -399,3 +399,5 @@ Treat them not as junior functionaries, but as custodians of institutional truth
 Because that is exactly what they are.
 
 Book a tactical consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

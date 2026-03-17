@@ -152,7 +152,9 @@ This partnership model centers on precision.
 
 The shareholder receives a neutral, institutional interpretation of available structures and their implications.
 
-The M&A pathway becomes insulated from liquidity delays, market risk, and procedural bottlenecks. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste.
+The M&A pathway becomes insulated from liquidity delays, market risk, and procedural bottlenecks. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste.
 
 It is the careful management of resources so they serve long horizon objectives instead of short term convenience.
 
@@ -178,7 +180,9 @@ It protects the integrity of long term ownership.
 
 The discipline lies in resisting unnecessary collateral erosion and ensuring that liquidity access does not compromise operational or governance stability.
 
-Properly engineered structures create temporal flexibility, allowing companies and shareholders to move at strategic speed without sacrificing asset safety. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators, principals, and shareholders evaluating acquisition pathways must assess three strategic elements.
+Properly engineered structures create temporal flexibility, allowing companies and shareholders to move at strategic speed without sacrificing asset safety. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators, principals, and shareholders evaluating acquisition pathways must assess three strategic elements.
 
 Structure suitability.
 
@@ -201,3 +205,5 @@ Liquidi​ty engineering is no longer optional in the mid market M&A arena.
 It is the operational backbone that enables accelerated closures, off market deal origination, and friction free execution.
 
 It transforms concentrated public positions into strategic capital without exposing the shareholder to unnecessary market, regulatory, or timing risks. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

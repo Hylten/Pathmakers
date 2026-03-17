@@ -137,11 +137,8 @@ Lenders hate incoherence because incoherence destroys recovery pathways.
 Pathmaker builds coherence.
 
 Operators who implement this approach gain three unfair advantages: 
-
 -  They raise faster. 
-
 -  They negotiate stronger. 
-
 -  They exit cleaner.
 
 Every mid‑market operator feels the liquidity gap during inflection cycles.
@@ -259,21 +256,13 @@ Pathmaker builds the bridge.
 Our Analyst Team models exit friction as a baseline diagnostic.
 
 We quantify: 
-
 -  Entity incoherence 
-
 -  Redundant liability vectors 
-
 -  Collateral inefficiency 
-
 -  Tax drag 
-
 -  Integration difficulty 
-
 -  Due diligence latency 
-
 -  Covenant risk 
-
 -  Buyer discount expectations These variables form the Friction Delta Profile.
 
 Once the delta is known, we engineer it down.
@@ -433,3 +422,5 @@ That is the Pathmaker mandate.
 Book a tactical consultation.
 
 Metric: Collateral Efficiency Ratio target: 0.82 or higher.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

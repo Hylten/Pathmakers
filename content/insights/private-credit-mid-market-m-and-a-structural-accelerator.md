@@ -14,7 +14,9 @@ The demand for strategic combinations remains stable.
 
 The constraint resides in the liquidity architecture that governs deal execution.
 
-Private credit has therefore migrated from a peripheral asset class to a central instrument for tactical Strategic Collateralization across the acquisition lifecycle. ## PHASE 
+Private credit has therefore migrated from a peripheral asset class to a central instrument for tactical Strategic Collateralization across the acquisition lifecycle. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -50,7 +52,9 @@ Its relevance in mid market M and A is tied to its ability to provide reliable, 
 
 This function is not cyclical.
 
-It is structural. ## PHASE 
+It is structural. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -126,7 +130,9 @@ Covenant design becomes an operational intelligence tool.
 
 Private credit structures in mid market M and A typically include: * Senior interest priority. * Operating expense stabilization buffers. * Maintenance covenants tied to liquidity thresholds. * Escrow alignment for integration related contingencies.
 
-The waterfall functions as a financial architecture that ensures acquisition stability during post close integration. ## PHASE 
+The waterfall functions as a financial architecture that ensures acquisition stability during post close integration. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates in the role of strategic navigator and institutional introducer.
 
@@ -162,9 +168,13 @@ When aligned with specialized private credit partners, the entire acquisition cy
 
 This model does not replace lawyers, bankers, or consultants.
 
-It aligns them. ## PHASE 
+It aligns them. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of coordinated resource management.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of coordinated resource management.
 
 It rejects waste, opacity, and misalignment.
 
@@ -186,9 +196,13 @@ Mid market transactions often involve family enterprises transitioning leadershi
 
 Stewardship ensures continuity, not disruption.
 
-The aim is the preservation of legacy through strategic alignment. ## PHASE 
+The aim is the preservation of legacy through strategic alignment. 
 
-5. THE ## ## DECISION MAKING LENS FOR ALLOCATORS Private credit in mid market M and A is not a monolithic strategy.
+## PHASE 
+
+5. THE ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Private credit in mid market M and A is not a monolithic strategy.
 
 It is a spectrum of liquidity instruments used to stabilize transactions, reduce friction, and enhance operational clarity.
 
@@ -219,3 +233,5 @@ Clarity in seniority reduces uncertainty during integration.
 Institutional participants seeking to strengthen their mid market M and A exposure often request confidential strategy audits to calibrate approach, identify operational bottlenecks, and map the appropriate credit partners.
 
 Roials Capital supports this process through neutral institutional introductions and strategic navigation frameworks designed to align the right opportunities with correctly structured capital.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

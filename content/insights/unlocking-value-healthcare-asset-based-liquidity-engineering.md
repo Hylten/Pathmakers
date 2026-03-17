@@ -533,3 +533,5 @@ When liquidity flows, exits accelerate.
 Book a tactical consultation.
 
 Exit readiness index target: 0.87.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -241,17 +241,11 @@ An advisory practice reports on the company.
 A tactical engine restructures the company into institutional clarity.
 
 This includes: 
-
 -  AI-first mapping of the entire revenue stack 
-
 -  Probability-weighted modeling of margin retention 
-
 -  Integration of machine-driven operational diagnostics 
-
 -  Documentation architectures designed for institutional review 
-
 -  Removal of structural bottlenecks that kill exit narratives 
-
 -  Construction of a clean buyer journey long before buyers appear Pathmaker’s role is not persuasion.
 
 It is preparation.
@@ -285,15 +279,10 @@ Off‑market deal origination has become the sovereign channel for real returns 
 Pathmaker’s algorithmic mapping engine provides precisely this advantage.
 
 The engine identifies: 
-
 -  Firms entering inflection points 
-
 -  Operators preparing for succession 
-
 -  Markets signaling consolidation 
-
 -  Hidden assets inside fragmented industries 
-
 -  Companies whose value is suppressed by lack of institutional hygiene Pathmaker then engages quietly, privately, respectfully, and directly.
 
 No noise.
@@ -335,3 +324,5 @@ The Analyst Team states the position clearly: The operators who treat exit readi
 The operators who delay will have no seat at the table.
 
 Book a tactical consultation
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

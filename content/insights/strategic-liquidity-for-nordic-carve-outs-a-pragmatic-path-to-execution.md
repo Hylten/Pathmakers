@@ -38,7 +38,9 @@ Asset based Asset-Backed Frameworks.
 
 Targeted liquidity tools that support high conviction buyers who understand what they want but need precision in capital structure.
 
-Our role is to create stability in moments where the rest of the market hesitates. ## The Pathmaker Advantage in Nordic Carve Outs Our advantage is not price.
+Our role is to create stability in moments where the rest of the market hesitates. 
+
+## The Pathmaker Advantage in Nordic Carve Outs Our advantage is not price.
 
 It is not speed alone.
 
@@ -54,7 +56,9 @@ We craft liquidity tools that absorb shocks.
 
 We allow buyers to focus on integration, people, systems, and operations.
 
-Not on patching liquidity gaps. ## A Carve Out Is a Liquidity Puzzle Before It Is a Strategic Asset Most acquisition failures are not strategic failures.
+Not on patching liquidity gaps. 
+
+## A Carve Out Is a Liquidity Puzzle Before It Is a Strategic Asset Most acquisition failures are not strategic failures.
 
 They are liquidity failures.
 
@@ -70,7 +74,9 @@ Unexpected transitional costs.
 
 A buyer can have the right vision, the right management team, the right operational plan, and still fail if the liquidity structure is insufficient.
 
-This is the part of the acquisition equation that Pathmaker solves. ## The Future of Carve Out Liquidity in the Nordic Region The Nordic markets will continue to generate carve out opportunities.
+This is the part of the acquisition equation that Pathmaker solves. 
+
+## The Future of Carve Out Liquidity in the Nordic Region The Nordic markets will continue to generate carve out opportunities.
 
 Corporate restructuring will accelerate.
 
@@ -82,7 +88,9 @@ Pathmaker stands ready in this environment.
 
 Not as a lender from the old model.
 
-As a strategic liquidity partner for buyers who value precision, discretion, and authority that does not need to announce itself. ## Final Perspective Carve outs reward buyers who respect liquidity.
+As a strategic liquidity partner for buyers who value precision, discretion, and authority that does not need to announce itself. 
+
+## Final Perspective Carve outs reward buyers who respect liquidity.
 
 Not the theoretical liquidity of a financial model.
 
@@ -97,3 +105,5 @@ In this space, Pathmaker is not a lender.
 We are the structural backbone that allows the deal to function.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

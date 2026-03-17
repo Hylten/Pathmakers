@@ -22,7 +22,9 @@ At Pathmaker, we treat liquidity as an engineering problem.
 
 We build the mechanics that allow capital to behave at institutional speed, even when the sponsor is a private principal.
 
-We do this through private credit and asset based Institutional Liquidity Paths, supported by disciplined underwriting, position review, and collateral structures that prevent value leakage. ## Why Minimums Matter: Five Million Is Not Arbitrary Setting a minimum threshold of five million dollars for public share Strategic Collateralization is not about gatekeeping.
+We do this through private credit and asset based Institutional Liquidity Paths, supported by disciplined underwriting, position review, and collateral structures that prevent value leakage. 
+
+## Why Minimums Matter: Five Million Is Not Arbitrary Setting a minimum threshold of five million dollars for public share Strategic Collateralization is not about gatekeeping.
 
 It is about operating in the zone where capital can meaningfully influence the direction of a transaction.
 
@@ -36,7 +38,9 @@ Our clients do not need incremental cash flow.
 
 They need decisive liquidity.
 
-The type that simplifies negotiations and eliminates counterparty hesitation. ## Engineering Certainty in Uncertain Transactions Every acquisition contains unknowns.
+The type that simplifies negotiations and eliminates counterparty hesitation. 
+
+## Engineering Certainty in Uncertain Transactions Every acquisition contains unknowns.
 
 Regulatory friction.
 
@@ -54,7 +58,9 @@ Pathmaker structures are designed to behave predictably even when markets do not
 
 This is why we use disciplined collateral modeling, clarity in liquidity facility-to-value limits, and multi layer monitoring.
 
-Certainty is engineered, not assumed. ## When Speed Becomes Strategy, Not Risk A fast close is not reckless.
+Certainty is engineered, not assumed. 
+
+## When Speed Becomes Strategy, Not Risk A fast close is not reckless.
 
 A fast close is controlled aggression.
 
@@ -70,7 +76,9 @@ This is how experienced buyers operate.
 
 They do not wait for ideal timing.
 
-They create it. ## Closing the Gap Between Intent and Execution Intent does not close deals.
+They create it. 
+
+## Closing the Gap Between Intent and Execution Intent does not close deals.
 
 Liquidity closes deals.
 
@@ -80,7 +88,9 @@ For principals running multiple acquisition threads, timing is everything.
 
 Liquidity that arrives too late is liquidity that does not matter.
 
-We supply capital at the pace where deals survive. ## Final Position Pathmaker Capital Structuring against public shares gives HNWI and UHNW principals a structural advantage in competitive M&A cycles.
+We supply capital at the pace where deals survive. 
+
+## Final Position Pathmaker Capital Structuring against public shares gives HNWI and UHNW principals a structural advantage in competitive M&A cycles.
 
 It protects their portfolios.
 
@@ -88,8 +98,10 @@ It accelerates closings.
 
 It enhances negotiating posture.
 
-It maintains silent authority in every transaction.
+It maintains principal authority in every transaction.
 
 For principals who understand that liquidity is the keystone of execution, the next step is simple.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

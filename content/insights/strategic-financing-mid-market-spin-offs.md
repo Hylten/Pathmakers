@@ -119,53 +119,42 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 In the context of mid-market spin-offs, the role is to identify the capital architecture that allows the division to transition cleanly from parent to new ownership without degrading value or introducing structural risk.
 
 This includes: 
-
 -  Pre-transaction operational diagnostics to assess the separation readiness of the division. 
-
 -  Mapping of cash-flow waterfalls, structural seniority, and LTV curves aligned with institutional private credit requirements. 
-
 -  Introducing capital partners with specific expertise in transitional financing and corporate separations. 
-
 -  Coordinating with legal, regulatory, and operational stakeholders to ensure compliance alignment. 
-
 -  Overseeing the sequencing of events so that balance sheet optimization occurs in parallel with operational build-out.
 
 The partnership model is not predicated on capital deployment.
 
 It is predicated on the elimination of execution friction and the engineering of a transaction pathway that respects institutional discipline.
 
-In this context, the advisory function becomes a form of operational intelligence that supports buyers, sellers, and capital providers simultaneously. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility.
+In this context, the advisory function becomes a form of operational intelligence that supports buyers, sellers, and capital providers simultaneously. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility.
 
 The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience. 
-
 -  **Proverbs 13:22** provides a foundational principle: capital is to be positioned in a manner that benefits future generations, not consumed in short-term transactions.
 
 The stewardship filter in corporate separations includes: 
-
 -  Ensuring that the division receives sufficient transitional liquidity to protect employees, supply chains, and strategic customers. 
-
 -  Building governance structures that prevent operational drift during the first 24 months post-separation. 
-
 -  Avoiding extraction-based financial engineering that compromises long-term viability. 
-
 -  Structuring credit facilities in a manner that aligns cash-flow obligations with operational reality rather than short-term investor preferences.
 
 Stewardship is the counterweight to opportunistic arbitrage.
 
-It restores balance between corporate optimization and long-term value creation, allowing the new entity to enter the market with integrity, operational clarity, and strategic purpose. ## ## THE DECISION-MAKING LENS FOR ALLOCATORS Allocators evaluating mid-market spin-offs must adopt a lens calibrated for complexity, timing, and structural alignment.
+It restores balance between corporate optimization and long-term value creation, allowing the new entity to enter the market with integrity, operational clarity, and strategic purpose. ## 
+
+## THE DECISION-MAKING LENS FOR ALLOCATORS Allocators evaluating mid-market spin-offs must adopt a lens calibrated for complexity, timing, and structural alignment.
 
 The determining factors are not headline revenue numbers or EBITDA multiples.
 
 The determining factors are: 
-
 -  The precision of the separation plan. 
-
 -  The robustness of the transitional liquidity framework. 
-
 -  The quality of the ringfenced capital structure. 
-
 -  The discipline of cash-flow calibration. 
-
 -  The presence of a strategic navigator capable of orchestrating introductions, verifying operational assumptions, and aligning the transaction to institutional requirements.
 
 High intent mid-market carve-outs rarely reach the open market.
@@ -177,3 +166,5 @@ This is the environment in which Roials Capital operates: the engineering of pat
 For allocators, the next step is a confidential strategy audit focused on portfolio calibration.
 
 This includes assessing exposure to transitional financing, evaluating opportunities for balance sheet optimization within carve-out structures, and identifying operational assets that match institutional archetypes for low-volatility, high-integrity separation events. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

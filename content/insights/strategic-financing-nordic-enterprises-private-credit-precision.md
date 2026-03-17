@@ -120,7 +120,9 @@ By realigning collateral, restructuring amortization, or clarifying capital stac
 
 4. Opportunity Velocity In a competitive acquisition environment, velocity is an advantage.
 
-Precision private credit reduces time to close, increases strategic optionality, and enables operators to execute on off market opportunities before competing buyers mobilize. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction.
+Precision private credit reduces time to close, increases strategic optionality, and enables operators to execute on off market opportunities before competing buyers mobilize. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction.
 
 It is an operational discipline.
 
@@ -140,7 +142,9 @@ Stewardship requires choosing financing that strengthens the internal architectu
 
 Their capital decisions must support longevity, not short term optics.
 
-Precision private credit supports this by aligning financing with operational continuity. ## ## THE DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating Nordic private credit require clarity on the structural advantages of the region. 
+Precision private credit supports this by aligning financing with operational continuity. ## 
+
+## THE DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating Nordic private credit require clarity on the structural advantages of the region. 
 
 1. Low volatility business models The Nordic region demonstrates some of the lowest default and sector volatility rates in Europe.
 
@@ -179,3 +183,5 @@ Allocators who recognize ##
  will position themselves to access disciplined non commoditized opportunities.
 
 For enterprises seeking expansion, succession planning, or M&A readiness, a confidential Strategy Consultation provides the technical mapping required to translate operational strength into institutional capital alignment.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -188,7 +188,9 @@ The market rewards operators who demonstrate predictable execution and low noise
 
 This is where friction elimination transitions into value preservation.
 
-The process becomes quiet, efficient, and strategic. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood.
+The process becomes quiet, efficient, and strategic. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood.
 
 It is not about maximizing an exit number.
 
@@ -208,7 +210,9 @@ Stewardship rejects short term opportunism.
 
 It prioritizes structural integrity.
 
-It ensures that what is being transferred is not merely a division, but a sustainable enterprise capable of independent growth. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR For buyers and allocators, the strategic lens is straightforward. 
+It ensures that what is being transferred is not merely a division, but a sustainable enterprise capable of independent growth. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR For buyers and allocators, the strategic lens is straightforward. 
 
 1. The cleanest assets move first. 
 
@@ -235,3 +239,5 @@ The objective is not speed for its own sake.
 It is operational certainty, transaction continuity, and platform ready structure.
 
 This is the discipline of friction elimination as a strategic asset. [END BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

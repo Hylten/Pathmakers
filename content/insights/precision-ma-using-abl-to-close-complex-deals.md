@@ -30,11 +30,13 @@ We structure Asset-Based Lending that behaves like institutional capital even wh
 
 We extend liquidity to HNWI and UHNW operators who do not need noise, only execution.
 
-And we do it while maintaining silent authority.
+And we do it while maintaining principal authority.
 
 No spotlight.
 
-Only results. ## Why Asset-Based Lending Matters in Real M&A, Not the Textbook Version Mid market M&A works in inches, not theoretical diagrams.
+Only results. 
+
+## Why Asset-Based Lending Matters in Real M&A, Not the Textbook Version Mid market M&A works in inches, not theoretical diagrams.
 
 Deals die not because the economics fail, but because liquidity cannot be synchronized with the operational reality of the business being acquired.
 
@@ -54,7 +56,9 @@ Inventory, receivables, equipment, and contractual revenue streams can be moneti
 
 When structured correctly, Asset-Based Lending becomes a bridge.
 
-Not a temporary patch, but a tactical alignment between acquisition timing and operational stability. ## The Mid Market Problem: Complexity Without Institutional Memory Small deals are simple.
+Not a temporary patch, but a tactical alignment between acquisition timing and operational stability. 
+
+## The Mid Market Problem: Complexity Without Institutional Memory Small deals are simple.
 
 Large deals are bureaucratically optimized.
 
@@ -82,7 +86,9 @@ We know how to underwrite imperfect, transitional periods without romanticizing 
 
 No heroic narratives.
 
-Only measurable collateral and disciplined structure. ## Precision Carve Outs, Backed by Collateral Logic In a healthcare carve out, Asset-Based Lending does one crucial job.
+Only measurable collateral and disciplined structure. 
+
+## Precision Carve Outs, Backed by Collateral Logic In a healthcare carve out, Asset-Based Lending does one crucial job.
 
 It isolates the chaos from the capital.
 
@@ -104,7 +110,9 @@ It buys time.
 
 It buys control.
 
-It buys strategic optionality. ## What Makes Asset-Based Lending Effective in Complex M&A Precision Asset-Based Lending is not about maximum leverage.
+It buys strategic optionality. 
+
+## What Makes Asset-Based Lending Effective in Complex M&A Precision Asset-Based Lending is not about maximum leverage.
 
 It is about accurate leverage.
 
@@ -138,7 +146,9 @@ Strategic buyer.
 
 Asset sale.
 
-The exit is always designed from day one. ## Pathmaker’s Structural Role in the Capital Stack Pathmaker operates in a narrow but strategic lane.
+The exit is always designed from day one. 
+
+## Pathmaker’s Structural Role in the Capital Stack Pathmaker operates in a narrow but strategic lane.
 
 We support private credit positions.
 
@@ -156,9 +166,11 @@ These are engineered liquidity instruments for operators who understand leverage
 
 We provide capital without requiring visibility.
 
-Silent authority means that while our structures support the deal, the operator maintains the narrative.
+principal authority means that while our structures support the deal, the operator maintains the narrative.
 
-We focus on mechanics, not presentation. ## Precision M&A Case Logic: How Asset-Based Lending Closes Deals Others Cannot Every operator eventually meets a transaction that should close but cannot.
+We focus on mechanics, not presentation. 
+
+## Precision M&A Case Logic: How Asset-Based Lending Closes Deals Others Cannot Every operator eventually meets a transaction that should close but cannot.
 
 Not because the business is flawed.
 
@@ -168,7 +180,9 @@ But because legacy financing models cannot accommodate the friction.
 
 Asset-Based Lending solves friction.
 
-Here is how that plays out in practice. # ## Scenario 1: The seller wants a clean exit, but the business needs immediate stabilization An operator identifies a distressed division inside a larger healthcare system.
+Here is how that plays out in practice. # 
+
+## Scenario 1: The seller wants a clean exit, but the business needs immediate stabilization An operator identifies a distressed division inside a larger healthcare system.
 
 The parent wants it gone.
 
@@ -186,7 +200,9 @@ Asset-Based Lending unlocks receivables.
 
 This provides the liquidity to stabilize operations during the immediate post close window.
 
-The deal closes, not because it is beautiful, but because the capital structure absorbs its complexity. # ## Scenario 2: The buyer has adequate equity but refuses to compromise liquidity HNWI and UHNW buyers understand that liquidity is strategy.
+The deal closes, not because it is beautiful, but because the capital structure absorbs its complexity. # 
+
+## Scenario 2: The buyer has adequate equity but refuses to compromise liquidity HNWI and UHNW buyers understand that liquidity is strategy.
 
 Deploying all their cash into an acquisition removes optionality.
 
@@ -194,7 +210,9 @@ Asset-Based Lending allows them to maintain strength while still closing efficie
 
 The structure preserves their ability to move quickly on subsequent opportunities.
 
-It also prevents concentration risk that private investors often underestimate. # ## Scenario 3: The carve out requires parallel integration and disengagement In a carve out, two timelines run simultaneously.
+It also prevents concentration risk that private investors often underestimate. # 
+
+## Scenario 3: The carve out requires parallel integration and disengagement In a carve out, two timelines run simultaneously.
 
 You are extracting from the parent.
 
@@ -210,21 +228,21 @@ Compliance frameworks.
 
 Asset-Based Lending provides liquidity that matches the timeline of separation, not the timeline desired by a spreadsheet.
 
-This granularity is the difference between a clean transition and a structural failure. ## Why HNWI and UHNW Operators Prefer Asset-Based Lending When Deals Matter Institutional capital is cheap in theory.
+This granularity is the difference between a clean transition and a structural failure. 
+
+## Why HNWI and UHNW Operators Prefer Asset-Based Lending When Deals Matter Institutional capital is cheap in theory.
 
 In practice, it is slow and conditional.
 
 HNWI and UHNW operators value speed more than theoretical pricing.
 
 They want to: 
-
 -  Close without exposing their entire balance sheet 
-
 -  Avoid signaling dependence on banks 
-
 -  Maintain strategic leverage post close 
+-  Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles. 
 
--  Neutralize risk without overcovenanting the business Asset-Based Lending gives them these attributes without the bloat of traditional underwriting cycles. ## Private Credit as the Second Layer of Precision M&A Asset-Based Lending is the first move.
+## Private Credit as the Second Layer of Precision M&A Asset-Based Lending is the first move.
 
 Private credit is the second.
 
@@ -240,7 +258,9 @@ The business reaches equilibrium.
 
 The operator refinances with longer term capital or positions for sale.
 
-This three stage progression absorbs risk at each phase instead of concentrating it. ## Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch.
+This three stage progression absorbs risk at each phase instead of concentrating it. 
+
+## Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch.
 
 Pathmaker does.
 
@@ -248,11 +268,13 @@ Above 2,000,000 in crypto assets Above 5,000,000 in public shares We lend agains
 
 This unlocks liquidity for operators who otherwise would have to sell positions, trigger tax events, or disrupt long term allocation strategies.
 
-Capital becomes available without dismantling their portfolio. ## The Silent Authority Position We do not manage the spotlight.
+Capital becomes available without dismantling their portfolio. 
+
+## The principal authority Position We do not manage the spotlight.
 
 We manage the mechanics.
 
-Silent authority means: We do not impose narrative.
+principal authority means: We do not impose narrative.
 
 We do not interfere with operator strategy.
 
@@ -264,7 +286,9 @@ Operators lead.
 
 We support.
 
-The transaction holds. ## The Future of Precision Asset-Based Lending in M&A As banking becomes more rigid and private equity becomes more selective, the demand for precision liquidity will only increase.
+The transaction holds. 
+
+## The Future of Precision Asset-Based Lending in M&A As banking becomes more rigid and private equity becomes more selective, the demand for precision liquidity will only increase.
 
 The next generation of M&A operators will not compete on valuation alone.
 
@@ -282,7 +306,9 @@ Pathmaker sits at that intersection.
 
 We do not replace institutional capital.
 
-We provide the mechanics that allow it to function in environments it cannot natively navigate. ## Strategic ## 
+We provide the mechanics that allow it to function in environments it cannot natively navigate. 
+
+## Strategic ## 
 
 ## CONCLUSION
 
@@ -317,3 +343,5 @@ No theatrics.
 Only structural competence.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -18,9 +18,11 @@ It is oxygen.
 
 Pathmaker specializes in providing that oxygen through private credit and asset based Capital Structuring structures.
 
-We operate with silent authority, offering institutional mechanics without requiring institutional bureaucracy.
+We operate with principal authority, offering institutional mechanics without requiring institutional bureaucracy.
 
-We are designed for the HNWI and UHNW investor who understands that leverage is a tool, not a fantasy. ## The Mid Market Needs Precision, Not Theater Most liquidity solutions in the mid market are framed either as emergencies or as miracles.
+We are designed for the HNWI and UHNW investor who understands that leverage is a tool, not a fantasy. 
+
+## The Mid Market Needs Precision, Not Theater Most liquidity solutions in the mid market are framed either as emergencies or as miracles.
 
 Neither framing is accurate.
 
@@ -30,31 +32,29 @@ It is the operator’s advantage.
 
 It is how deals close, how carve outs stabilize, and how investors maintain control of the timing and sequence of their moves.
 
-Pathmaker exists to deliver this advantage with clarity and without noise. ## Why Pathmaker Creates Leverage That Matters We do not trade in sentiment.
+Pathmaker exists to deliver this advantage with clarity and without noise. 
+
+## Why Pathmaker Creates Leverage That Matters We do not trade in sentiment.
 
 We trade in structure.
 
 Our focus is on: 
-
 -  Asset based Strategic Collateralization anchored in real collateral value. 
-
 -  Private credit solutions for timeline constrained operators. 
-
 -  Strategic Collateralization structures built specifically for HNWI and UHNW balance sheets. 
-
 -  Crypto Institutional Liquidity Paths starting at 2,000, 
 
 000. 
-
 -  Public share Capital Structuring starting at 5,000, 
 
 000. 
-
 -  Transactional support for mid market M&A and healthcare carve outs where timing is survival.
 
 We provide capital mechanics that allow sophisticated operators to execute cleanly and quietly.
 
-This is silent authority in practice. ## The Pathmaker Advantage in Practice When liquidity is predictable, deals accelerate.
+This is principal authority in practice. 
+
+## The Pathmaker Advantage in Practice When liquidity is predictable, deals accelerate.
 
 When collateral is understood, pricing stabilizes.
 
@@ -62,7 +62,9 @@ When capital is available without institutional friction, operators focus on exe
 
 A mid market investor who controls liquidity controls the outcome.
 
-Pathmaker provides the structural foundation that makes this possible. ## The Mid Market Never Stops, and Liquidity Should Not Either Operators who wait for clarity rarely find it.
+Pathmaker provides the structural foundation that makes this possible. 
+
+## The Mid Market Never Stops, and Liquidity Should Not Either Operators who wait for clarity rarely find it.
 
 Operators who engineer liquidity create it.
 
@@ -78,7 +80,9 @@ In opportunity capture.
 
 Sophisticated capital does not chase markets.
 
-It prepares for them. ## Final Perspective: Liquidity Wins Quietly The most decisive advantage in mid market transactions is often invisible.
+It prepares for them. 
+
+## Final Perspective: Liquidity Wins Quietly The most decisive advantage in mid market transactions is often invisible.
 
 It is the liquidity no one talks about until the deal is already done.
 
@@ -86,8 +90,10 @@ That is the Pathmaker advantage.
 
 Institutional mechanics.
 
-Silent authority.
+principal authority.
 
 Strategic liquidity delivered with precision.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

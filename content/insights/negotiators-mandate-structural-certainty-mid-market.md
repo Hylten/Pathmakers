@@ -85,31 +85,23 @@ High quality enterprises rarely enter wide auctions.
 They transact through trusted channels.
 
 Sourcing therefore requires: 
-
 -  Founder trust cultivation 
-
 -  Institutional ## 
 
 ## INTRODUCTION
 
  pathways 
-
 -  Confidentiality governance 
-
 -  Strategic timing intelligence This creates a pipeline of high intent opportunities insulated from market noise and auction compression.
 
 Exit Readiness Engineering Exit readiness is a technical discipline that transforms an enterprise from operator centered to transaction centered.
 
 Key elements include: 
-
 -  Financial codification Normalized earnings, working capital discipline, cash flow mapping, and removal of discretionary anomalies. 
-
 -  Operational hardening Documentation of processes, contract standardization, and reliability mapping across supply chains and labor structures. 
-
 -  Management depth demonstration Buyers purchase sustainability, not personality.
 
 Management redundancy and succession clarity reduce perceived key person risk. 
-
 -  Risk surface compression Identification and neutralization of legal, regulatory, or operational exposures that would otherwise trigger buyer hesitation.
 
 The objective is to create a deal profile that aligns with institutional acquisition models and removes the valuation drag associated with uncertainty.
@@ -117,13 +109,9 @@ The objective is to create a deal profile that aligns with institutional acquisi
 Buyer Calibration Not all buyers are structurally aligned.
 
 Precise buyer mapping is required to match: 
-
 -  Strategic consolidators High synergy extraction, fast diligence, integration capacity. 
-
 -  Financial acquirers Portfolio fit, value creation thesis, exit horizon parameters. 
-
 -  Family offices Patient capital, operational compatibility, generational alignment. 
-
 -  Cross border acquirers Geographic arbitrage, management continuity, regulatory compatibility.
 
 Calibration protects the seller from misalignment and protects the buyer from unnecessary pursuit cost.
@@ -161,44 +149,37 @@ In the context of M&A, the firm does not act as a broker and does not position a
 Instead, it functions as an introducer and structural advisor for founders, family principals, and consolidators requiring clarity on market navigation.
 
 The Negotiators Mandate is executed through a partnership framework built around: 
-
 -  Transaction preparation intelligence 
-
 -  Buyer universe mapping 
-
 -  Introducer alignment 
-
 -  Institutional readiness calibration 
-
 -  Cross border coordination 
-
 -  Confidentiality governance 
-
 -  Outcome stability management Operationally, the structure maintains neutrality.
 
 The objective is to support the principal in maximizing structural certainty while enabling transparent communication between stakeholders.
 
 For energy specific transactions, NAEO operates as the institutional grade counterpart for North America.
 
-Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment.
+Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment.
 
 It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22** provides a foundational principle that capital should be transferred with foresight and integrity.
 
 Within transaction environments, stewardship expresses itself through: 
-
 -  Avoidance of value destruction Delayed exits, emotional negotiation, or reactive strategy lead to unnecessary erosion. 
-
 -  Preservation of operational continuity Employees, suppliers, and long standing relationships require structured transition planning. 
-
 -  Clarity before commitment A principled leader prepares the enterprise before inviting external evaluation. 
-
 -  Non wasteful process management Time, attention, and reputation are finite assets.
 
 The transaction process must avoid unnecessary spread of confidential information or resource drain.
 
 The Negotiators Mandate aligns execution with stewardship.
 
-Structural certainty becomes a moral and operational responsibility. ## ## THE ALLOCATOR LENS Decision makers within the European and Nordic mid market now face an environment defined by complexity, information asymmetry, and timeline instability.
+Structural certainty becomes a moral and operational responsibility. ## 
+
+## THE ALLOCATOR LENS Decision makers within the European and Nordic mid market now face an environment defined by complexity, information asymmetry, and timeline instability.
 
 The presence of capital is not the determining factor.
 
@@ -221,11 +202,9 @@ Roials Capital provides principals with a confidential Strategy Audit.
 The audit is not a sales function.
 
 It is a structural assessment that maps: 
-
 -  Enterprise readiness -Buyer type alignment 
-
 -  Risk exposure 
-
 -  Timeline feasibility 
-
 -  Value preservation factors This creates the clarity necessary for informed decision making and calibrated action. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

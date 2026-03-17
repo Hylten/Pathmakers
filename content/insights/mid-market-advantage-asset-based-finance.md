@@ -47,68 +47,51 @@ It is a liquidity architecture that converts non-correlated asset value into ope
 Four core mechanics define institutional-grade ABF. 
 
 1. Collateral Physics The strongest mid-market assets share a consistent profile. 
-
 -  Slow depreciation curves 
-
 -  Recoverable secondary-market values 
-
 -  Clear chain of ownership 
-
 -  Quantifiable liquidation timelines These enable underwriting based on deterministic value, not probabilistic cash flow prediction. 
 
 2. Cash Flow Sovereignty Institutional ABF prioritizes control over revenue capture through: 
-
 -  Locked-box collection systems 
-
 -  Intercept structures 
-
 -  Controlled disbursement accounts 
-
 -  Real-time reconciliation cycles This architecture ensures that operating volatility does not compromise repayment reliability. 
 
 3. Multi-Asset Cross Collateralization The compression of borrower risk is achieved through asset pooling. 
-
 -  Machinery and equipment 
-
 -  Inventory 
-
 -  Receivables 
-
 -  Contracted future revenue Cross collateralization reduces the sensitivity of the facility to individual asset impairment.
 
 It stabilizes the LTV curve and strengthens credit performance without raising interest rates or imposing constrictive covenants. 
 
 4. Institutional Waterfall Engineering A correct waterfall design creates transparency for all stakeholders. 
-
 -  Priority: senior secured repayment 
-
 -  Secondary: reinvestment triggers 
-
 -  Final tier: residual value extraction This removes ambiguity, accelerates decision-making, and shortens exit timelines.
 
 The technical edge is created by structuring capital around assets the operator already understands intuitively, while recoding that understanding into institutional language.
 
-This reduces friction in future audits, M&A exits, or lender transitions. ## PHASE 2B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
+This reduces friction in future audits, M&A exits, or lender transitions. 
+
+## PHASE 2B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
 
 They fail due to poor documentation, inconsistent financial architecture, and the absence of an institutional-grade control environment.
 
 Exit readiness is engineered through: 
-
 -  Harmonized financial statements 
-
 -  Data room continuity 
-
 -  Clean asset registers 
-
 -  Contract normalization 
-
 -  Corporate governance calibration 
-
 -  Debt schedule rationalization This allows the enterprise to become legible to private equity buyers, institutional lenders, and strategic acquirers.
 
 Legibility reduces the discount rate applied during purchase price negotiation.
 
-In practical terms, 15 to 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. ## PHASE 2C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
+In practical terms, 15 to 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
+
+## PHASE 2C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
 
 They are accessed through network intelligence, regulatory adjacency, or balance sheet blind spots identified by operators embedded in the sector. 
 
@@ -156,7 +139,9 @@ Roials Capital acts as the stabilizing node that ensures documentation integrity
 
 This creates multi-track optionality: refinancing, acquisition, or hybrid solutions.
 
-The partnership model reduces execution risk by eliminating the inconsistencies and data gaps that would normally derail negotiations or underwriting. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+The partnership model reduces execution risk by eliminating the inconsistencies and data gaps that would normally derail negotiations or underwriting. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a capital discipline rooted in non-wasteful resource management.
 
@@ -165,26 +150,20 @@ As stated in **Proverbs 13:22** , stewardship is generational and structural, no
 The mid-market suffers from two forms of capital waste. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
 1. Operational Waste 
-
 -  Inefficient equipment financing 
-
 -  Under-utilized collateral 
-
 -  Cash conversion delays 
-
 -  Redundant legacy credit facilities 
 
 2. Strategic Waste 
-
 -  Delayed succession planning 
-
 -  Failed M&A processes 
-
 -  Incomplete corporate governance 
-
 -  Fragmented lender relationships A stewardship framework removes these inefficiencies.
 
-It ensures that capital flows along rational lines, that assets are utilized at their full productive value, and that the enterprise transitions smoothly across ownership cycles. ## ## DECISION-MAKING LENS FOR THE ALLOCATOR The structural question for allocators and operators is not whether the mid-market presents opportunity.
+It ensures that capital flows along rational lines, that assets are utilized at their full productive value, and that the enterprise transitions smoothly across ownership cycles. ## 
+
+## DECISION-MAKING LENS FOR THE ALLOCATOR The structural question for allocators and operators is not whether the mid-market presents opportunity.
 
 The question is whether the opportunity can be accessed without friction, discounting, or operational opacity.
 
@@ -203,3 +182,5 @@ Roials Capital provides institutional navigation.
 NAEO provides sector-specific depth where required.
 
 The objective is clarity, not solicitation: to equip the allocator or operator with technical insight so they can evaluate their own position with precision.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

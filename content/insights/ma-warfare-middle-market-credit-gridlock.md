@@ -27,19 +27,15 @@ The post 2023 framework is structurally different.
 The institutions controlling the flow of credit have recalibrated their tolerance for uncertainty and placed heavier emphasis on covenants, documentation accuracy, and verified cash flow durability.
 
 Key dynamics include: 
-
 -  A significant decline in loan-to-value ceilings.
 
 Many lenders who once operated at 4.0x leverage thresholds are imposing 2.0x to 2.5x caps. 
-
 -  Higher hurdle rates for new capital deployment.
 
 This reduces the volume of competitive term sheets entering mid-market processes. 
-
 -  A more rigid stance on operational transparency.
 
 Any deficiency in reporting, forecasting, or contract structuring automatically degrades lender confidence and reduces available leverage. 
-
 -  Slowing buyer cycles.
 
 Strategic buyers have expanded diligence periods to neutralize execution risk and avoid balance sheet mispricing.
@@ -146,7 +142,9 @@ This avoids mass market processes and prioritizes precision over volume.
 
 For energy sectors, the model leverages NAEO as the institutional grade technical partner.
 
-For mid market corporate M&A, the partner network is shaped around buyers who prioritize operational clarity and reduced execution risk. ## ## ## ## ## THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization.
+For mid market corporate M&A, the partner network is shaped around buyers who prioritize operational clarity and reduced execution risk. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization.
 
 It requires a philosophy of stewardship.
 
@@ -155,17 +153,11 @@ Stewardship is the discipline of handling resources with precision, integrity, a
 Enterprises preparing for acquisition must demonstrate stewardship in their financial and operational behavior.
 
 The stewardship filter includes: 
-
 -  Clean documentation 
-
 -  Accurate financial reporting 
-
 -  Verified contracts 
-
 -  Transparent governance 
-
 -  Responsible capital deployment 
-
 -  Sustainable operational practices This is aligned with the theological principle in **Proverbs 13:22** that underscores the responsibility of long term resource management.
 
 Stewardship is not a moral abstraction.
@@ -174,7 +166,9 @@ It is a structural advantage.
 
 Buyers assign value premiums to companies that demonstrate operational stewardship.
 
-It signals reduced transition risk, smoother integration, and predictable cash flow architecture. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS AND OPERATORS Executives and owners evaluating the current M&A environment must operate with a lens anchored in structural realism.
+It signals reduced transition risk, smoother integration, and predictable cash flow architecture. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS AND OPERATORS Executives and owners evaluating the current M&A environment must operate with a lens anchored in structural realism.
 
 The market rewards alignment, not assumptions.
 
@@ -201,3 +195,5 @@ This briefing serves as a navigational reference point for market participants r
 For operators preparing for exit, the next step is a confidential assessment focused on structural gaps, reporting integrity, and transaction feasibility.
 
 For allocators evaluating opportunities, the next step is an analytical dialogue regarding market posture, sector specific underwriting, and off market sourcing frameworks.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

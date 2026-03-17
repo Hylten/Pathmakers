@@ -22,19 +22,27 @@ It collapses because of liquidity friction.
 
 Pathmaker exists for that friction point.
 
-We operate as the structural mechanic within the capital stack, the silent authority that equips HNWI and UHNW investors with liquidity instruments that institutional players rely on but rarely advertise.
+We operate as the structural mechanic within the capital stack, the principal authority that equips HNWI and UHNW investors with liquidity instruments that institutional players rely on but rarely advertise.
 
-In the mid‑market, especially in healthcare carve outs, the investor who controls liquidity dictates the pace and the terms. ## The Additional Liquidity Channels # ## Crypto Capital Structuring Minimum threshold: 2,000,000 USD.
+In the mid‑market, especially in healthcare carve outs, the investor who controls liquidity dictates the pace and the terms. 
+
+## The Additional Liquidity Channels # 
+
+## Crypto Capital Structuring Minimum threshold: 2,000,000 USD.
 
 This is not retail Capital Structuring.
 
 This is not speculative.
 
-It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force. # ## Public Share Capital Structuring Minimum threshold: 5,000,000 USD.
+It is structural, and it is for investors who understand the value of turning a dormant digital position into real world acquisition force. # 
+
+## Public Share Capital Structuring Minimum threshold: 5,000,000 USD.
 
 This enables sophisticated holders of public equities to transform market value into strategic M&A liquidity without triggering premature dispositions.
 
-These channels complete the liquidity architecture for the modern HNWI and UHNW buyer who operates across multiple asset classes and refuses to treat any position as idle. ## Healthcare Carve Outs: The Sector Where Liquidity Determines the Survivors Healthcare carve outs are not for amateurs.
+These channels complete the liquidity architecture for the modern HNWI and UHNW buyer who operates across multiple asset classes and refuses to treat any position as idle. 
+
+## Healthcare Carve Outs: The Sector Where Liquidity Determines the Survivors Healthcare carve outs are not for amateurs.
 
 They contain the highest concentration of operational unknowns in the mid‑market.
 
@@ -64,7 +72,9 @@ We can close even if working capital fluctuates.
 
 We can close even if the carve out requires rapid integration capital.
 
-Pathmaker exists to ensure these statements are executable, not aspirational. ## Silent Authority in the Capital Stack High net worth and ultra high net worth investors do not need spectacle.
+Pathmaker exists to ensure these statements are executable, not aspirational. 
+
+## principal authority in the Capital Stack High net worth and ultra high net worth investors do not need spectacle.
 
 They need control without noise.
 
@@ -74,7 +84,7 @@ They need to operate inside the capital stack with institutional discipline but 
 
 This is the F‑Hierarchical Dynamics.
 
-Silent authority.
+principal authority.
 
 We do not replace institutional capital.
 
@@ -86,7 +96,9 @@ They step into negotiations with timing advantage.
 
 They withstand deal fatigue without showing strain.
 
-They win without the theatrics of posturing. ## The Strategic Anatomy of Liquidity in Mid‑Market M&A The typical mid‑market buyer evaluates leverage, equity, and debt service.
+They win without the theatrics of posturing. 
+
+## The Strategic Anatomy of Liquidity in Mid‑Market M&A The typical mid‑market buyer evaluates leverage, equity, and debt service.
 
 The elite buyer evaluates something different.
 
@@ -110,13 +122,19 @@ Most buyers attempt to create conviction through narrative.
 
 Sophisticated buyers create conviction through liquidity presence.
 
-Pathmaker empowers that presence. ## How Pathmaker Integrates Into a Mid‑Market Deal Cycle This is the real sequence, stripped of the romanticized storyline that advisors like to present. # ## Step 1: Assessment of Liquidity Demand Before valuation.
+Pathmaker empowers that presence. 
+
+## How Pathmaker Integrates Into a Mid‑Market Deal Cycle This is the real sequence, stripped of the romanticized storyline that advisors like to present. # 
+
+## Step 1: Assessment of Liquidity Demand Before valuation.
 
 Before offer structure.
 
 Before LOIs.
 
-A serious buyer evaluates what liquidity must be available at every milestone. # ## Step 2: Map Available Assets to Liquidity Instruments Private credit positions become deployable capital.
+A serious buyer evaluates what liquidity must be available at every milestone. # 
+
+## Step 2: Map Available Assets to Liquidity Instruments Private credit positions become deployable capital.
 
 Public shares are positioned for strategic Capital Structuring rather than liquidation.
 
@@ -124,11 +142,15 @@ Crypto holdings are converted into non­correlated liquidity options.
 
 Operational collateral is assessed for Asset-Based Lending.
 
-This turns static wealth into dynamic acquisition power. # ## Step 3: Install a Liquidity Buffer Deals always cost more than projected.
+This turns static wealth into dynamic acquisition power. # 
+
+## Step 3: Install a Liquidity Buffer Deals always cost more than projected.
 
 Always.
 
-The liquidity buffer prevents a deal from collapsing due to diligence surprises. # ## Step 4: Match Liquidity to the Negotiation Timeline This is where many investors fail.
+The liquidity buffer prevents a deal from collapsing due to diligence surprises. # 
+
+## Step 4: Match Liquidity to the Negotiation Timeline This is where many investors fail.
 
 They secure liquidity too late.
 
@@ -138,7 +160,9 @@ Or they secure liquidity that signals weakness to the seller.
 
 Pathmaker commits capital quietly and efficiently.
 
-This maintains the buyer’s strategic posture. # ## Step 5: Deploy Liquidity in Precision Points Funding the deposit.
+This maintains the buyer’s strategic posture. # 
+
+## Step 5: Deploy Liquidity in Precision Points Funding the deposit.
 
 Buying time.
 
@@ -146,7 +170,9 @@ Absorbing unexpected liabilities.
 
 Accelerating a closing timeline.
 
-Liquidity is deployed as a competitive weapon, not a back office formality. ## Why This Matters Now More Than Ever The mid‑market is compressing.
+Liquidity is deployed as a competitive weapon, not a back office formality. 
+
+## Why This Matters Now More Than Ever The mid‑market is compressing.
 
 Private equity firms are moving down market.
 
@@ -162,7 +188,9 @@ Especially in healthcare carve outs.
 
 Especially in operationally complex sectors.
 
-Especially in transactions where timing trumps valuation. ## Pathmaker's Position: The Structural Advantage We are not a bank.
+Especially in transactions where timing trumps valuation. 
+
+## Pathmaker's Position: The Structural Advantage We are not a bank.
 
 We are not a fund.
 
@@ -197,3 +225,5 @@ Pathmaker provides the liquidity structure that turns high net worth and ultra h
 If you plan to acquire, carve out, or consolidate in the next twelve months, the conversation you need is about liquidity architecture, not leverage mythology.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

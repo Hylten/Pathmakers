@@ -142,7 +142,9 @@ The partnership model is designed around transparency.
 
 Every party gains a clear understanding of collateral visibility, operational risk cycles, M&A intentions, and exit timelines.
 
-This reduces negotiation drag, eliminates documentation drift, and aligns incentive structures. ## ## ## ## ## THE STEWARDSHIP FILTER Operational resilience is not a financial tactic.
+This reduces negotiation drag, eliminates documentation drift, and aligns incentive structures. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Operational resilience is not a financial tactic.
 
 It is a stewardship discipline.
 
@@ -168,7 +170,9 @@ It prioritizes timing, efficiency, and strategic discipline.
 
 Stewardship demands clarity of terms, expectations, and execution sequencing.
 
-When applied correctly, private credit becomes a stabilizing instrument that supports long horizon leadership rather than short horizon optimization. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The serious allocator does not evaluate private credit through yield spreads or term sheet comparisons.
+When applied correctly, private credit becomes a stabilizing instrument that supports long horizon leadership rather than short horizon optimization. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The serious allocator does not evaluate private credit through yield spreads or term sheet comparisons.
 
 The proper evaluation lens is structural.
 
@@ -191,3 +195,5 @@ The objective is not to deploy capital.
 The objective is to achieve technical clarity.
 
 Once clarity is established, capital alignment becomes a natural consequence. [END BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

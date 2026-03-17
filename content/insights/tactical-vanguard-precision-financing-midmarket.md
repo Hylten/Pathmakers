@@ -21,15 +21,10 @@ Instead, the decisive factors are transaction clarity, exit visibility, and the 
 Private credit funds, sovereign entities, and consolidation buyers have compressed their underwriting cycles, and the result is a divergence between capital with mandate rigidity and companies requiring liquidity aligned to strategic timing.
 
 This shift is characterized by: 
-
 -  Regulatory delay cycles that extend acquisition or divestiture timelines by 6 to 18 months. 
-
 -  A rising threshold for financial reporting sophistication. 
-
 -  A recalibration of leverage appetite across private credit markets due to LTV corridor tightening. 
-
 -  Institutional preference for off market opportunities that provide predictable integration burden. 
-
 -  A material increase in the discount applied to companies lacking exit readiness structure.
 
 The operative reality is that high performing mid market companies rarely fail operationally.
@@ -103,15 +98,10 @@ Within the North American energy domain, the strategic partner NAEO provides a f
 Outside energy, the Roials Capital framework focuses on structural alignment between operator, capital provider, and buyer universe.
 
 Key attributes of the partnership model include: 
-
 -  Introducer neutrality that ensures operators receive pathways, not sales pressure. 
-
 -  Institutional calibration to match capital with operational maturity levels. 
-
 -  Counterparty mapping that respects fit, mandate, and transaction velocity. 
-
 -  Documentation oversight to eliminate diligence failure points. 
-
 -  Strategy refinement that aligns timing with valuation thresholds.
 
 Precision financing is a discipline of removing obstacles that prevent institutions from engaging.
@@ -120,7 +110,9 @@ Mid market companies do not lack opportunity.
 
 They lack institutional visibility.
 
-The partnership model exists to close that gap. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation.
+The partnership model exists to close that gap. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation.
 
 It is the application of moral and operational clarity to capital decisions.
 
@@ -136,14 +128,12 @@ Stewardship requires transparency, disciplined accounting, and avoidance of capi
 
 Within the European mid market, stewardship also involves resisting the pressure to accept misaligned capital from lenders seeking aggressive covenants or exit features.
 
-Precision financing ensures that every capital instrument reinforces stability rather than imposing hidden fragility. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses: 
+Precision financing ensures that every capital instrument reinforces stability rather than imposing hidden fragility. ## ## ## 
 
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating a mid market company must consider four lenses: 
 -  Structural Positioning: Whether the operator has neutralized friction points that reduce valuation spread. 
-
 -  Documentation Integrity: Whether EBITDA normalization, revenue verification, and liabilities are diligence ready. 
-
 -  Transaction Velocity: Whether the liquidity engineering architecture enables fast execution. 
-
 -  Strategic Alignment: Whether the company has mapped itself to acquisition pathways that match its operational reality.
 
 The Tactical Vanguard exists to support operators and allocators in navigating this landscape without noise.
@@ -163,3 +153,5 @@ It is a structural assessment of gaps, strengths, and institutional readiness.
 The objective is clarity, not commitment.
 
 The outcome is optionality, not obligation. [END]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

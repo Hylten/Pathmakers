@@ -12,7 +12,7 @@ It is a jurisdictional battlefield.
 
 Only three categories of actors win: states, institutions, and families with architecture.
 
-High‑net‑worth individuals and ultra‑high‑net‑worth operators rarely access sovereign mechanisms because their structure is insufficiently codified.
+High‑net‑worth individuals and ultra‑high‑net‑worth operators rarely Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 The Pathmaker Approach resolves this structural deficit.
 
@@ -109,13 +109,9 @@ Pathmaker is not a product.
 It is a strategic classifier.
 
 It determines whether the portfolio meets the four gating criteria: 
-
 -  Asset Hardness Ratio. 
-
 -  Liquidity Compression Sensitivity. 
-
 -  Geopolitical Neutrality Index. 
-
 -  Exit Readiness Horizon.
 
 HNWI portfolios fail primarily on the fourth.
@@ -188,7 +184,7 @@ You demonstrate inevitability.
 
 Fourth layer: off‑market deal origination.
 
-Mid‑market opportunities are increasingly inaccessible through brokered channels.
+Mid‑market opportunities are increasingly inAccess is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Noise.
 
@@ -209,11 +205,8 @@ They allow governments and sovereign vehicles to deploy capital into industrial 
 The HNWI portfolio that is architected as an institutional participant becomes eligible for these pipelines.
 
 Pathmaker generates deal flow from three sources: 
-
 -  Institutional sellers who cannot publicly divest. 
-
 -  Distressed industrials seeking strategic rescue without bankruptcy optics. 
-
 -  Sovereign vehicles seeking co‑investment partners for commodity or infrastructure stabilization.
 
 High‑intent mid‑market deals sit at the intersection of speed, discretion, and capability.
@@ -269,15 +262,10 @@ Optional.
 The goal is to shift into essential status.
 
 Essential portfolios carry these signatures: 
-
 -  Multi‑jurisdictional compliance. 
-
 -  Convertible governance stacks. 
-
 -  Mandate continuity beyond a single generation. 
-
 -  Neutral capital routing. 
-
 -  Counter‑cyclical asset exposure.
 
 Once essential, the sovereign relationship changes.
@@ -290,7 +278,7 @@ Alignment accelerates capital flow.
 
 Pathmaker codifies the transition.
 
-Seventh layer: the access mechanic.
+Seventh layer: the Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Sovereign financing rarely begins with capital.
 
@@ -493,15 +481,10 @@ Sovereign allocators fund narratives.
 Not decks.
 
 The narrative required: 
-
 -  You stabilize what matters. 
-
 -  You operate beyond personal appetite. 
-
 -  You hold assets that align with national priorities. 
-
 -  You maintain governance that transcends individual risk tolerance. 
-
 -  You project continuity across cycles and generations.
 
 The narrative is structural.
@@ -561,13 +544,9 @@ It is also the gateway.
 Seventeenth layer: the Pathmaker qualification test.
 
 The portfolio must answer four questions: 
-
 -  What national interest does it stabilize? 
-
 -  What sovereign risk does it reduce? 
-
 -  What industrial corridor does it reinforce? 
-
 -  What geopolitical neutrality does it maintain?
 
 If the portfolio cannot answer, it is not sovereign‑ready.
@@ -608,4 +587,4 @@ Sovereign recognition requires institutional discipline.
 
 Capital follows once identity stabilizes.
 
-Metric anchor: Sovereign Readiness Index ≥ 0.82 required for corridor access. (See [Capital Structuring]([Roials Capital](https://roialscapital.com/)) for structural parameters) Book a tactical consultation.
+Metric anchor: Sovereign Readiness Index ≥ 0.82 required for corridor Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

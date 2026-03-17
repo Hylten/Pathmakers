@@ -180,7 +180,9 @@ In energy transactions involving Alberta heavy oil or SAGD assets, Roials Capita
 
 In European corporate carve-outs, the work is centered on liquidity engineering and exit readiness.
 
-Different asset classes, same institutional discipline. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital.
+Different asset classes, same institutional discipline. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital.
 
 It is not a moral abstraction.
 
@@ -220,7 +222,9 @@ For corporates, this means redeploying resources toward strategically essential 
 
 Stewardship is the philosophical anchor for carve-out execution.
 
-Without it, the process becomes reactive rather than strategic. ## ## DECISION-MAKING LENS FOR THE ALLOCATOR Sophisticated allocators evaluating Nordic carve-out assets must apply a disciplined lens based on structural readiness rather than narrative potential.
+Without it, the process becomes reactive rather than strategic. ## 
+
+## DECISION-MAKING LENS FOR THE ALLOCATOR Sophisticated allocators evaluating Nordic carve-out assets must apply a disciplined lens based on structural readiness rather than narrative potential.
 
 The decision is whether the transaction environment contains the variables necessary for predictable execution.
 
@@ -261,3 +265,5 @@ It is strategic calibration.
 For Nordic mid-market carve-outs, this calibration has become the differentiating factor between stalled transactions and successful divestitures.
 
 The environment rewards those who understand the mechanics, the liquidity structures, and the strategic timing required for execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

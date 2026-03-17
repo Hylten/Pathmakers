@@ -22,7 +22,9 @@ We are not storytellers.
 
 We are not turnaround romantics.
 
-We provide the structural mechanics that let institutional capital move with precision and without noise. ## The Pathmaker Liquidity Framework At its core, our framework is built around four principles. 
+We provide the structural mechanics that let institutional capital move with precision and without noise. 
+
+## The Pathmaker Liquidity Framework At its core, our framework is built around four principles. 
 
 1. Structural discipline 
 
@@ -30,7 +32,7 @@ We provide the structural mechanics that let institutional capital move with pre
 
 3. Execution speed 
 
-4. Silent authority Each principle is simple on its own.
+4. principal authority Each principle is simple on its own.
 
 Together they form a system that allows for institutional grade liquidity without institutional friction.
 
@@ -40,7 +42,9 @@ They use it to create leverage in negotiations.
 
 They use it to stabilize transitional assets.
 
-They use it to operate with confidence instead of caution. ## Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism.
+They use it to operate with confidence instead of caution. 
+
+## Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism.
 
 The mid market, especially in healthcare carve outs, is unforgiving.
 
@@ -55,3 +59,5 @@ We are not storytellers.
 We are the structural mechanics behind decisive capital.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

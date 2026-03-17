@@ -20,7 +20,9 @@ We do not chase headlines.
 
 We build structural leverage.
 
-We support sovereign forms of liquidity for private owners and family offices who require dependable execution rather than theoretical enthusiasm. ## Why Sovereign Capital Matters in the Mid-Market The mid-market is a structural blind spot.
+We support sovereign forms of liquidity for private owners and family offices who require dependable execution rather than theoretical enthusiasm. 
+
+## Why Sovereign Capital Matters in the Mid-Market The mid-market is a structural blind spot.
 
 It is large enough to attract institutional attention, yet too operationally messy for many institutions to commit to.
 
@@ -42,7 +44,9 @@ It allows them to execute deals without relying on lenders who suddenly adjust r
 
 It allows them to buy time.
 
-And in the mid-market, time is leverage. ## The Functional Role of Private Credit Private credit is the workhorse of the real economy.
+And in the mid-market, time is leverage. 
+
+## The Functional Role of Private Credit Private credit is the workhorse of the real economy.
 
 In the mid-market, it fills the vacuum left by regional banks, insurers, and overly constrained institutional lenders.
 
@@ -62,7 +66,9 @@ Only mechanics.
 
 Only leverage.
 
-Only execution. ## The Precision of Asset Based Asset-Backed Frameworks Asset Based Strategic Collateralization, fundamentally, is the purest form of underwriting.
+Only execution. 
+
+## The Precision of Asset Based Asset-Backed Frameworks Asset Based Strategic Collateralization, fundamentally, is the purest form of underwriting.
 
 It strips away narratives.
 
@@ -90,7 +96,9 @@ It provides a floor when other forms of credit are inaccessible.
 
 For UHNW buyers operating through family vehicles or private holdcos, liquidity timing determines whether they win or lose the bid.
 
-Asset-Based Lending ensures they do not lose simply because conventional lenders require months of audits before releasing capital. ## Crypto Institutional Liquidity Paths for the New-Class Wealth Holder Digital wealth is no longer fringe.
+Asset-Based Lending ensures they do not lose simply because conventional lenders require months of audits before releasing capital. 
+
+## Crypto Institutional Liquidity Paths for the New-Class Wealth Holder Digital wealth is no longer fringe.
 
 It is a legitimate pillar of UHNW balance sheets.
 
@@ -114,7 +122,9 @@ It is about using a modern asset to secure traditional opportunities.
 
 It is about making an acquisition without sacrificing long horizon digital exposure.
 
-In mid-market healthcare deals, that flexibility is often the difference between closing and being pushed aside by a more liquid buyer. ## Public Share Monetization Architecture for Tactical Liquidity Release Public equities remain the foundational asset for many HNWI and UHNW investors.
+In mid-market healthcare deals, that flexibility is often the difference between closing and being pushed aside by a more liquid buyer. 
+
+## Public Share Monetization Architecture for Tactical Liquidity Release Public equities remain the foundational asset for many HNWI and UHNW investors.
 
 But liquidity locked in concentrated stock positions can create friction.
 
@@ -132,13 +142,15 @@ You retain control.
 
 You gain capital.
 
-You move without waiting for a divestment window. ## Structural Mechanics Over Storytelling Mid-market M and A is not powered by inspiration.
+You move without waiting for a divestment window. 
+
+## Structural Mechanics Over Storytelling Mid-market M and A is not powered by inspiration.
 
 It is powered by the mechanics behind the deal.
 
 That is where Pathmaker operates.
 
-Silent authority is our posture.
+principal authority is our posture.
 
 We do not sell velocity.
 
@@ -154,7 +166,9 @@ They are looking for advantage.
 
 They are looking for capital that acts like a strategic weapon, not a bureaucratic obstacle.
 
-This is the underlying ethos of sovereign capital. ## Healthcare Carve Outs: Where Liquidity and Precision Decide Outcomes Healthcare carve outs require a very specific type of buyer.
+This is the underlying ethos of sovereign capital. 
+
+## Healthcare Carve Outs: Where Liquidity and Precision Decide Outcomes Healthcare carve outs require a very specific type of buyer.
 
 Someone who is comfortable with transition services.
 
@@ -186,7 +200,9 @@ Execution without theatrics.
 
 Time to stabilize the asset after acquisition.
 
-And this is where our clients separate themselves from the typical private buyer. ## The Sovereign Capital Advantage Sovereign capital is not fast money.
+And this is where our clients separate themselves from the typical private buyer. 
+
+## The Sovereign Capital Advantage Sovereign capital is not fast money.
 
 It is not reckless capital.
 
@@ -208,7 +224,9 @@ They want an acquirer who will not retreat because a lender retreats.
 
 They want buyers who can wire.
 
-Pathmaker exists to make that possible. ## Why UHNW and HNWI Investors Use Us Our clients do not come to us because they lack options.
+Pathmaker exists to make that possible. 
+
+## Why UHNW and HNWI Investors Use Us Our clients do not come to us because they lack options.
 
 They come to us because they understand consequences.
 
@@ -220,11 +238,13 @@ The consequence of not being able to compete with institutional buyers who alway
 
 We level that asymmetry.
 
-Silent authority.
+principal authority.
 
 Institutional mechanics.
 
-Private control. ## The Real Message: Liquidity Creates Authority In the mid-market, authority is never spoken.
+Private control. 
+
+## The Real Message: Liquidity Creates Authority In the mid-market, authority is never spoken.
 
 It is demonstrated through capital behavior.
 
@@ -236,6 +256,10 @@ You win because you are not dependent on a single gateway.
 
 This is the power of sovereign capital.
 
-And this is the architecture Pathmaker provides. ## Book a Strategic Consultation If you operate in the mid-market and require sovereign grade liquidity engineered around your existing assets, connect with us.
+And this is the architecture Pathmaker provides. 
+
+## Book a Strategic Consultation If you operate in the mid-market and require sovereign grade liquidity engineered around your existing assets, connect with us.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

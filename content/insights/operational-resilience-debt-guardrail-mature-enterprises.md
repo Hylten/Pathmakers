@@ -123,19 +123,12 @@ They allow enterprise operators to convert strategy into action without exposing
 Operational resilience is liquidity first, control second, velocity third.
 
 Debt allows operators to: 
-
 -  Hold pricing power 
-
 -  Protect staff continuity 
-
 -  Stabilize procurement cycles 
-
 -  Absorb input volatility 
-
 -  Maintain strategic optionality 
-
 -  Retain negotiating leverage with both suppliers and buyers 
-
 -  Build verifiable track records of disciplined capital deployment These are the signals institutional buyers track.
 
 These are the markers that reduce diligence friction.
@@ -251,19 +244,12 @@ The discount is real.
 Operational resilience eliminates discount zones.
 
 When mature enterprises employ strategic leverage, they signal: 
-
 -  Predictable governance 
-
 -  Continuity planning 
-
 -  Capital fluency 
-
 -  Institutional-grade reporting 
-
 -  Ability to survive macro volatility 
-
 -  Sophisticated risk management 
-
 -  Execution capacity under pressure These signals open off-market channels.
 
 They create inbound interest.
@@ -343,15 +329,10 @@ Leveraged enterprises operate from a position of strategic readiness rather than
 Readiness dominates.
 
 When an enterprise has liquidity guardrails in place, the following unfolds: 
-
 -  Competitors retreat under volatility while the leveraged enterprise expands. 
-
 -  Vendors shift terms, but the enterprise maintains procurement rhythm. 
-
 -  Markets tighten, but the enterprise preserves working capital. 
-
 -  Talent markets fluctuate, but retention remains stable. 
-
 -  Opportunities emerge, and the enterprise is positioned to seize them.
 
 Leverage creates strategic asymmetry.
@@ -403,3 +384,5 @@ Guardrails enable exits.
 Book a tactical consultation.
 
 Mandate: Liquidity-to-Resilience Ratio ≥ 1.4.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -36,7 +36,9 @@ And revelation requires architecture.
 
 Tactical intelligence **is** that architecture.
 
-We proceed. ## ## ## ## Confidential notes.
+We proceed. ## ## ## 
+
+## Confidential notes.
 
 Structural depth only.
 
@@ -72,7 +74,9 @@ Miss two and the exit collapses.
 
 Miss all three and you never enter the room where the real buyers sit.
 
-Let's take them sequentially, without ornament. ## DOMAIN ONE: EXIT READINESS ARCHITECTURE Exit readiness is not a checklist.
+Let's take them sequentially, without ornament. 
+
+## DOMAIN ONE: EXIT READINESS ARCHITECTURE Exit readiness is not a checklist.
 
 It is the removal of asymmetry between operational truth and acquirer perception.
 
@@ -114,7 +118,9 @@ Machine gun clarity: No autonomy.
 
 No valuation.
 
-No exceptions. ## DOMAIN TWO: FRICTION REMOVAL Friction kills deals.
+No exceptions. 
+
+## DOMAIN TWO: FRICTION REMOVAL Friction kills deals.
 
 It does not matter how impressive the numbers are.
 
@@ -178,7 +184,9 @@ When deals accelerate, valuation holds.
 
 Without acceleration, every buyer becomes a negotiator rather than a partner.
 
-And negotiators always discount. ## DOMAIN THREE: OFF-MARKET ORIGINATION The public deal market is no longer where serious operators play.
+And negotiators always discount. 
+
+## DOMAIN THREE: OFF-MARKET ORIGINATION The public deal market is no longer where serious operators play.
 
 Auctions inflate price, reduce strategic fit, compress due diligence cycles, and attract buyers who are more financial than operational.
 
@@ -242,7 +250,9 @@ Tactical Intelligence gives buyers that vocabulary.
 
 The result is consistent: quiet deal flow, high alignment, low competition, superior economics.
 
-A single parenthetical note, executed with restraint: structuring through Roials Capital may support certain forms of cross-border institutional execution. ## PRINCIPAL VOICE Shift tone.
+A single parenthetical note, executed with restraint: structuring through Roials Capital may support certain forms of cross-border institutional execution. 
+
+## PRINCIPAL VOICE Shift tone.
 
 Principal cadence.
 
@@ -278,7 +288,9 @@ Architecture wins.
 
 Preparation wins.
 
-Always. ## ## ## INTERNAL BYPASS Alternate pacing.
+Always. ## ## 
+
+## INTERNAL BYPASS Alternate pacing.
 
 Deep structural paragraph followed by precision strikes.
 
@@ -332,7 +344,9 @@ No valuation drag.
 
 No hidden liabilities.
 
-Proceed. ## THE EXIT IS NOT AN EVENT This must be understood clearly.
+Proceed. 
+
+## THE EXIT IS NOT AN EVENT This must be understood clearly.
 
 The exit is not the moment of sale.
 
@@ -344,7 +358,9 @@ When readiness, friction removal, and origination combine, the exit becomes inev
 
 And inevitability is the highest form of leverage.
 
-Call it sovereignty in motion. ## THE MID-MARKET IS CHANGING Operators who do not adapt to Tactical Intelligence will remain trapped in founder-centric architectures that suppress valuation and repel serious buyers.
+Call it sovereignty in motion. 
+
+## THE MID-MARKET IS CHANGING Operators who do not adapt to Tactical Intelligence will remain trapped in founder-centric architectures that suppress valuation and repel serious buyers.
 
 Operators who embrace Tactical Intelligence break out of that trap and enter the continuity corridor where legacy can be monetized without destruction.
 
@@ -357,3 +373,5 @@ Unlock corridors.
 Exit on purpose.
 
 Book a tactical consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

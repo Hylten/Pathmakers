@@ -35,11 +35,8 @@ No summaries.
 Conviction only.
 
 A good man leaves an inheritance to his children's children. **Proverbs 13:22** . 
-
 -  
-
 -  
-
 -  Institutional pressure now compounds across four layers: regulatory cadence, capital cost, ownership legitimacy, and operator resilience.
 
 These layers no longer move independently.
@@ -149,21 +146,13 @@ It is not a data room exercise.
 It is not a cosmetic clean-up.
 
 It is a structural redesign across eight vectors: 
-
 -  Governance systems built for institutional transparency. 
-
 -  Financial statements with reconciliation maturity. 
-
 -  Clinical quality documentation mapped to EU 2026 standards. 
-
 -  Workforce credential tracking that passes foreign scrutiny. 
-
 -  Contract libraries digitized and uniformized. 
-
 -  Compliance versioning systems timestamped and auditable. 
-
 -  Scalability algorithms proving bolt-on absorption capacity. 
-
 -  Management teams trained for diligence interrogation.
 
 These structures form the valuation floor.
@@ -245,7 +234,6 @@ The previous cycle created sellers who believed in effortless multiple expansion
 The new cycle generates sellers who understand structural preparation is the price of admission.
 
 Sophisticated founders now design two 
-
 -  to three-year paths toward exit.
 
 They invest in internal systems before they invest in marketing.
@@ -507,3 +495,5 @@ For platforms preparing to exit,
 Book a tactical consultation.
 
 M&A Friction Index: 0.42.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

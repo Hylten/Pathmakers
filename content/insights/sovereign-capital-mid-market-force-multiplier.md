@@ -579,3 +579,5 @@ No recaps.
 Technical Control Metric: Audit Variance Delta ≤ 1.5%.
 
 Book a tactical consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

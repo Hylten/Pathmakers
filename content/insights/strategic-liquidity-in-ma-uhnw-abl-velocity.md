@@ -69,11 +69,8 @@ The lender underwrites the assets, not the borrower profile.
 This approach compresses decision timelines because due diligence aligns directly with asset stability. 
 
 2. Loan to Value Architecture The LTV curve is calibrated based on asset volatility, liquidation depth, and operational transferability. 
-
 -  Receivables typically range from 70 to 90 percent. 
-
 -  Inventory from 40 to 65 percent depending on fungibility. 
-
 -  Machinery and equipment from 40 to 55 percent depending on resale liquidity.
 
 The LTV curve establishes predictable liquidity thresholds.
@@ -158,7 +155,9 @@ Some assets lack the collateral depth.
 
 Others benefit more from mezzanine structures or hybrid facilities.
 
-Roials Capital provides calibration on when ABL is structurally advantageous and when alternative liquidity tools create better alignment. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
+Roials Capital provides calibration on when ABL is structurally advantageous and when alternative liquidity tools create better alignment. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
 
 It applies directly to liquidity governance and transaction execution.
 
@@ -184,7 +183,9 @@ Structured correctly, the facility supports the natural operating cycle of the b
 
 3. Capital Integrity Principal operators maintain clarity on the distinction between liquidity as a tool and liquidity as a crutch.
 
-Stewardship applies the tool selectively, aligned to strategic advantage, not reactive need. ## ## DECISION LENS FOR ALLOCATORS Institutional allocators, UHNW principals, and family offices evaluating this landscape benefit from a structured assessment framework.
+Stewardship applies the tool selectively, aligned to strategic advantage, not reactive need. ## 
+
+## DECISION LENS FOR ALLOCATORS Institutional allocators, UHNW principals, and family offices evaluating this landscape benefit from a structured assessment framework.
 
 The following decision lens clarifies when ABL is strategically appropriate: 
 
@@ -217,3 +218,5 @@ The next step for most allocators is a confidential strategy audit.
 This session evaluates the timing structure of current acquisition targets, the liquidity posture of the operating entities, and the opportunity to engineer ABL alignment to remove execution friction.
 
 The objective is precision in decision making, aligned with responsible stewardship and institutional discipline. [END BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

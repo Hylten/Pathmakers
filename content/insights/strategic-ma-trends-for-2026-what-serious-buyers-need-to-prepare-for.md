@@ -16,7 +16,7 @@ We provide structural mechanics for institutional capital.
 
 We move quietly.
 
-Silent authority is the brand position, and the clients who understand that position already operate at scale.
+principal authority is the brand position, and the clients who understand that position already operate at scale.
 
 This article explores the strategic patterns that matter for 2026, with a focus on mid‑market healthcare carve outs, Capital Structuring, and the evolving expectations of private credit markets.
 
@@ -24,7 +24,9 @@ It is designed for high net worth and ultra high net worth principals who do not
 
 Only what works.
 
-Only what clears. ## Fragmentation Creates Opportunity Market fragmentation is typically seen as noise, but in 2026 it creates opportunity.
+Only what clears. 
+
+## Fragmentation Creates Opportunity Market fragmentation is typically seen as noise, but in 2026 it creates opportunity.
 
 Healthcare systems are selling.
 
@@ -36,7 +38,9 @@ Fragmentation is not chaos.
 
 It is inventory.
 
-And buyers who understand liquidity and collateral dynamics are in position to accumulate strategically. ## The Path Forward for Serious Buyers The rest of 2026 will continue to reward disciplined operators, not speculative ones.
+And buyers who understand liquidity and collateral dynamics are in position to accumulate strategically. 
+
+## The Path Forward for Serious Buyers The rest of 2026 will continue to reward disciplined operators, not speculative ones.
 
 The buyers who will outperform the market already understand that precision, liquidity, and operational clarity matter more than sentiment or momentum.
 
@@ -46,4 +50,8 @@ Asset-Based Lending is the stabilizer.
 
 Specialized liquidity tools like crypto Institutional Liquidity Paths and public share Strategic Collateralization are strategic accelerators for buyers operating at scale.
 
-Pathmaker sits inside this environment, engineering the mechanical structures that allow institutional grade capital to move quietly and decisively. ## Final Note If you are a serious buyer preparing to execute acquisitions in 2026 and you require precision, Strategic Collateralization, or structured capital support Book a strategic consultation.
+Pathmaker sits inside this environment, engineering the mechanical structures that allow institutional grade capital to move quietly and decisively. 
+
+## Final Note If you are a serious buyer preparing to execute acquisitions in 2026 and you require precision, Strategic Collateralization, or structured capital support Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

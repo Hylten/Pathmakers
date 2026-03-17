@@ -22,7 +22,9 @@ This specific gap defines a category of strategic liquidity where the objective 
 
 The objective is friction removal, disentanglement, and balance sheet stabilization so that an asset can change hands without destroying enterprise continuity.
 
-This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers. ## PHASE 
+This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -50,7 +52,9 @@ Buyers face impaired acquisition velocity.
 
 Without liquidity engineering, otherwise qualified transactions fail to reach definitive agreement.
 
-This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition. ## PHASE 
+This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -92,7 +96,9 @@ Without this, even fundamentally strong divisions can collapse during the first 
 
 Cross-Border Compliance Synchronization Each jurisdiction introduces its own capital controls, tax leakage risks, and operational disclosure requirements.
 
-Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions. ## PHASE 
+Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this landscape.
 
@@ -124,9 +130,13 @@ Roials Capital maintains the mapping required to align the right liquidity arche
 
 It is the systemic hardening of the division so that the buyer can assume operational command without destabilization.
 
-Roials Capital provides the architecture for this positioning. ## PHASE 
+Roials Capital provides the architecture for this positioning. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
 
 It is the application of **Proverbs 13:22** to commercial strategy: the preservation and orderly transfer of productive assets across generational or structural boundaries.
 
@@ -135,14 +145,12 @@ Cross-border carve-outs test stewardship because misaligned separation creates w
 Properly engineered liquidity avoids these outcomes by ensuring that the asset transitions in an orderly and sustainable manner.
 
 Stewardship within the Roials framework includes: 
-
 -  Avoidance of capital destruction during separation 
-
 -  Preservation of operational continuity 
-
 -  Ethical handling of workforce and transitional obligations 
+-  Transparent alignment between seller, liquidity provider, and acquirer 
 
--  Transparent alignment between seller, liquidity provider, and acquirer ## PHASE 
+## PHASE 
 
 5. THE DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating carve-out liquidity or cross-border divestiture strategies benefit from a structured lens based on four core assessments. 
 
@@ -161,3 +169,5 @@ These assessments often lead to a Strategy Consultation or Portfolio Calibration
 The objective is not transaction solicitation.
 
 It is landscape interpretation, risk mapping, and structural alignment between institutional capital and operationally complex divestitures. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

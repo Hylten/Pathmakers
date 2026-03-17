@@ -56,7 +56,9 @@ Precision.
 
 White space to allow the mind to maneuver.
 
-Read it as a field manual. ## The Middle-Market Credit Gap The credit gap emerged from three converging forces.
+Read it as a field manual. 
+
+## The Middle-Market Credit Gap The credit gap emerged from three converging forces.
 
 Bank withdrawal.
 
@@ -94,7 +96,9 @@ Capital abandons firms that show drift.
 
 For the unprepared owner, the gap becomes a permanent condition.
 
-For the disciplined owner, it becomes an arbitrage. ## Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic.
+For the disciplined owner, it becomes an arbitrage. 
+
+## Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic.
 
 It is structural.
 
@@ -140,7 +144,9 @@ They punish it.
 
 Hardening transforms the business from personality risk to covenant strength.
 
-This is the foundation for credible acquisition. ## The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance.
+This is the foundation for credible acquisition. 
+
+## The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance.
 
 It is leadership discipline.
 
@@ -172,7 +178,9 @@ When they do not see it, they stretch diligence and reduce valuations as a defen
 
 Stewardship is therefore not a moral luxury.
 
-It is an economic necessity. ## Execution Velocity as a Competitive Weapon The middle market suffers from inertia.
+It is an economic necessity. 
+
+## Execution Velocity as a Competitive Weapon The middle market suffers from inertia.
 
 Owners know changes are needed.
 
@@ -206,7 +214,9 @@ Fast companies are considered aligned.
 
 Velocity signals competence.
 
-Competence increases valuation. ## Tactical Intelligence for M&A Friction M&A friction arises from asymmetry.
+Competence increases valuation. 
+
+## Tactical Intelligence for M&A Friction M&A friction arises from asymmetry.
 
 Buyers know exactly what they are looking for.
 
@@ -238,7 +248,9 @@ Tactical Intelligence reveals these realities without sentiment.
 
 Friction resolved pre-deal increases exit certainty.
 
-Friction ignored becomes buyer leverage. ## Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize.
+Friction ignored becomes buyer leverage. 
+
+## Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize.
 
 This belief has no basis.
 
@@ -264,7 +276,9 @@ The gap is permanent.
 
 The solution is adaptation.
 
-Not optimism. ## Private Credit as the New Strategic Ally Private credit is not an alternative capital source.
+Not optimism. 
+
+## Private Credit as the New Strategic Ally Private credit is not an alternative capital source.
 
 It is the new backbone of mid-market liquidity.
 
@@ -288,7 +302,9 @@ It responds to clarity and de-risks execution.
 
 Owners who understand this channel accelerate growth, acquisition, and exit readiness with speed unavailable through traditional institutions.
 
-Owners who do not understand it remain constrained by outdated expectations. ## Intelligence for GP-Grade Exit Readiness GPs acquire clarity.
+Owners who do not understand it remain constrained by outdated expectations. 
+
+## Intelligence for GP-Grade Exit Readiness GPs acquire clarity.
 
 They avoid complexity.
 
@@ -314,7 +330,9 @@ Sellers who meet them receive premium multiples.
 
 Sellers who resist them receive conditional offers at discounted valuations.
 
-Exit readiness is achieved through discipline, not hope. ## The War for Middle-Market Liquidity Liquidity is terrain.
+Exit readiness is achieved through discipline, not hope. 
+
+## The War for Middle-Market Liquidity Liquidity is terrain.
 
 He who controls liquidity controls timing.
 
@@ -336,7 +354,9 @@ Governance signaling integrity.
 
 When these elements exist, liquidity moves quickly.
 
-When they do not, liquidity evaporates. ## Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate.
+When they do not, liquidity evaporates. 
+
+## Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate.
 
 We enter the company before it is comfortable.
 
@@ -368,7 +388,9 @@ Not quick fixes.
 
 Not cosmetic improvements.
 
-Structural alignment. ## Crossing the Credit Gap The credit gap is not crossed through optimism.
+Structural alignment. 
+
+## Crossing the Credit Gap The credit gap is not crossed through optimism.
 
 It is crossed through readiness.
 
@@ -388,7 +410,9 @@ It increases valuation.
 
 It opens relationships with private credit providers who operate at velocity that banks cannot match.
 
-The gap becomes an advantage. ## Final Directive The middle market is entering a new era.
+The gap becomes an advantage. 
+
+## Final Directive The middle market is entering a new era.
 
 Credit scarcity rewards structure.
 
@@ -403,3 +427,5 @@ Owners who ignore them face declining valuations and extended timelines.
 Your next move determines whether your company becomes an asset or a liability under institutional scrutiny.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

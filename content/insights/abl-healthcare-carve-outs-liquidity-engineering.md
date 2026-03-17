@@ -132,7 +132,9 @@ The neutrality of this position allows institutional partners to interpret the s
 
 Asset-Based Lending facilities are configured to match integration timelines.
 
-This protects both buyer and seller from post transaction disruptions. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services.
+This protects both buyer and seller from post transaction disruptions. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services.
 
 Healthcare operators are entrusted with resources that directly affect human welfare.
 
@@ -148,7 +150,9 @@ Stewardship filters within Asset-Based Lending-backed carve-outs include:
 
 4. Operational Integrity Transparent asset ownership protects both workforce stability and regulatory adherence. 
 
-5. Long Horizon Orientation Stewardship positions the operator for sustainable value creation rather than short term financial engineering. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating healthcare operators or platforms should view Asset-Based Lending readiness as a proxy for operational maturity.
+5. Long Horizon Orientation Stewardship positions the operator for sustainable value creation rather than short term financial engineering. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating healthcare operators or platforms should view Asset-Based Lending readiness as a proxy for operational maturity.
 
 Operators that pre engineer a carve-out with disciplined liquidity structures demonstrate: 
 
@@ -175,3 +179,5 @@ The appropriate next step for leadership teams or capital allocators is a confid
 The objective is alignment and preparation rather than promotion.
 
 The goal is to ensure each party navigates the transaction environment with institutional clarity. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

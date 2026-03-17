@@ -136,7 +136,9 @@ For mid market operators preparing for acquisition, the ##
 
 The goal is to understand collateral physics, throughput patterns, regulatory dependencies, and the cadence of receivable conversions.
 
-This intelligence informs the selection of institutional credit partners who match the operator's liquidity geometry. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission.
+This intelligence informs the selection of institutional credit partners who match the operator's liquidity geometry. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission.
 
 Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
 
@@ -148,7 +150,9 @@ Stewardship in healthcare logistics is demonstrated through: * Stable procuremen
 
 This is the inverse of leverage driven growth models.
 
-It is a stability driven architecture. ## ## PORTFOLIO CALIBRATION LENS Institutional allocators and strategic buyers evaluating healthcare logistics platforms benefit from analyzing liquidity architecture before EBIT performance.
+It is a stability driven architecture. ## 
+
+## PORTFOLIO CALIBRATION LENS Institutional allocators and strategic buyers evaluating healthcare logistics platforms benefit from analyzing liquidity architecture before EBIT performance.
 
 Working capital conversion is the primary determinant of integration friction, acquisition sequencing, and post close operational continuity.
 
@@ -157,3 +161,5 @@ Platforms with engineered liquidity demonstrate higher predictability and lower 
 A confidential portfolio calibration or strategic audit allows operators and allocators to understand where liquidity friction originates, how collateral can be institutionalized, and which Asset-Based Lending structures align with sector specific compliance demands.
 
 The objective is clarity, precision, and readiness. [END BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

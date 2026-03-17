@@ -17,11 +17,8 @@ Asset Based Lending architectures are filling the vacuum not because they are ag
 ## THE REGIME SHIFT
 
  The European M&A environment has transitioned into a regime defined by three dominant constraints. 
-
 -  Capital providers are prioritizing collateral visibility over projected EBITDA narratives. 
-
 -  Operating companies are functioning with elongated working capital cycles due to supply chain rewiring. 
-
 -  Sellers are facing exit friction driven by valuation compression and slow transaction processes.
 
 Traditional mezzanine capital, historically positioned as a flexible subordinate tranche, is now structurally misaligned with this regime.
@@ -59,13 +56,9 @@ The differences are not philosophical.
 They are mechanical.
 
 Asset Based Lending Mechanics Asset Based Lending evaluates the liquidity potential of the balance sheet with clinical precision. 
-
 -  Inventory is discounted to net realizable value. 
-
 -  Receivables are stress tested under dilution factors and historical recovery cycles. 
-
 -  Equipment is underwritten using forced liquidation values. 
-
 -  Real estate is capitalized against a conservative loan to value curve.
 
 The result is a borrowing base that adjusts automatically as assets convert to cash.
@@ -81,11 +74,8 @@ This is the point most mezzanine providers overlook.
 Asset-Based Lending structures support both the transaction and the integration phase.
 
 Traditional Mezzanine Mechanics Mezzanine financing operates on a fundamentally different axis. 
-
 -  It relies on subordinated debt priced at high single to mid double digit coupons. 
-
 -  It depends on the free cash flow projections of the combined entity. 
-
 -  Covenants are built around leverage ratios and EBITDA stabilization periods.
 
 In stable rate environments and predictable industries, mezzanine fulfilled a strategic role.
@@ -93,11 +83,8 @@ In stable rate environments and predictable industries, mezzanine fulfilled a st
 It provided a cushion between senior debt and equity.
 
 The problem in the current market is mechanical misalignment. 
-
 -  Cash flows are volatile. 
-
 -  Integration timelines are extended. 
-
 -  Earn out structures complicate consolidation for underwriting.
 
 A mezzanine tranche introduces rigidity precisely where operators need adaptability.
@@ -127,19 +114,15 @@ The role is not to distribute financial products.
 The role is to create institutional alignment between buyers, sellers, and capital providers by designing a liquidity architecture that improves certainty of close.
 
 The Partnership Model adheres to four principles. 
-
 -  Introducer neutrality.
 
 Roials Capital does not act as lender, principal, or beneficiary. 
-
 -  Structural alignment.
 
 Every capital stack must match the operational physics of the target company. 
-
 -  Execution certainty.
 
 Liquidity must be predictable before, during, and after the acquisition. 
-
 -  Opportunity velocity.
 
 Qualified buyers must be positioned to transact quickly with minimal underwriting friction.
@@ -148,7 +131,9 @@ This model allows operators to remove deal friction by ensuring that liquidity i
 
 For energy transactions, Roials Capital introduces NAEOCC as the institutional grade operator.
 
-For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
+For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
 
 It is a principle, not an aesthetic.
 
@@ -170,14 +155,12 @@ Stewardship is not conservatism.
 
 It is precision.
 
-It aligns liquidity tools with the durability of the underlying enterprise. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current M&A environment require a lens that prioritizes structural coherence over historic convention. 
+It aligns liquidity tools with the durability of the underlying enterprise. ## ## ## 
 
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current M&A environment require a lens that prioritizes structural coherence over historic convention. 
 -  If the target company carries operational assets with measurable liquidation values, Asset-Based Lending should be the dominant financing tool. 
-
 -  If the acquisition relies on integration synergies and cash flow stabilization, mezzanine introduces unnecessary fragility. 
-
 -  If the objective is exit readiness within a three to five year window, subordinated capital structures complicate negotiations. 
-
 -  If the objective is transaction velocity in off market or competitive environments, Asset-Based Lending provides superior closing certainty.
 
 Roials Capital supports allocators through a Confidential Strategy Audit.
@@ -187,3 +170,5 @@ The audit maps the target company, buyer profile, and post closing operating pla
 The outcome is not a financing product.
 
 It is a structural blueprint for M&A readiness.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -20,23 +20,27 @@ Actual executable capital that does not evaporate when credit markets tighten or
 
 This is where Pathmaker positions itself.
 
-Silent authority.
+principal authority.
 
 We are the structural mechanics behind institutional grade capital.
 
-We design liquidity ecosystems that hold under stress, that absorb volatility, and that allow operators to execute without waiting for market sentiment to catch up. ## Silent Authority: The Structural Role of Pathmaker Pathmaker does not operate as a retail lender.
+We design liquidity ecosystems that hold under stress, that absorb volatility, and that allow operators to execute without waiting for market sentiment to catch up. 
+
+## principal authority: The Structural Role of Pathmaker Pathmaker does not operate as a retail lender.
 
 We are not a mass market solution.
 
 We operate behind the scenes, providing the frameworks that allow serious operators to create stability in environments that do not reward hesitation.
 
-Silent authority means we do not chase attention.
+principal authority means we do not chase attention.
 
 We focus on engineering the structural capital mechanisms that institutional actors use, then deliver those mechanisms to HNWI and UHNW investors who need institutional caliber tools without institutional friction.
 
 Our value is not in noise.
 
-It is in execution. ## Operational Resilience as a Competitive Weapon In volatile markets, operational resilience is a competitive weapon because it creates asymmetry.
+It is in execution. 
+
+## Operational Resilience as a Competitive Weapon In volatile markets, operational resilience is a competitive weapon because it creates asymmetry.
 
 Operators with liquidity move first.
 
@@ -52,16 +56,14 @@ We equip high net worth operators with the ability to stabilize, to accelerate, 
 
 Volatility is not an excuse.
 
-It is an environment that rewards precision. ## Building a Forward Defensive Posture Companies survive volatility when they build forward.
+It is an environment that rewards precision. 
+
+## Building a Forward Defensive Posture Companies survive volatility when they build forward.
 
 This means: 
-
 -  Liquidity established before disruption 
-
 -  Credit lines structured around real collateral 
-
 -  Capital partners who understand the asset class 
-
 -  Mechanisms that scale as operations evolve Pathmaker structures credit that anticipates pressure rather than responding to it.
 
 Our framework minimizes surprises.
@@ -72,7 +74,9 @@ It reinforces both day one resilience and long term maneuverability.
 
 Operational resilience is not reactive.
 
-It is architectural. ## The Pathmaker Approach Our approach is direct.
+It is architectural. 
+
+## The Pathmaker Approach Our approach is direct.
 
 No romance.
 
@@ -90,7 +94,9 @@ We deploy capital structures that operate under volatility rather than collapse 
 
 This is the mindset required to survive the current market.
 
-It is also the mindset required to win. (See [Capital Structuring]([Roials Capital](https://roialscapital.com/)) for structural parameters) ## The Bottom Line: Volatile Markets Reward Prepared Operators Resilience is not a byproduct of good fortune.
+It is also the mindset required to win. (See [Capital Structuring]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
+
+## The Bottom Line: Volatile Markets Reward Prepared Operators Resilience is not a byproduct of good fortune.
 
 It is engineered.
 
@@ -98,8 +104,10 @@ It is intentional.
 
 It is capitalized.
 
-Pathmaker provides that capitalization with silent authority and institutional caliber discipline.
+Pathmaker provides that capitalization with principal authority and institutional caliber discipline.
 
 We serve HNWI and UHNW operators who require liquidity that performs under pressure and who understand that volatile markets reward those who are structurally prepared.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

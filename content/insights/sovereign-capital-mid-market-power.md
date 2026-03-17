@@ -35,11 +35,8 @@ Sovereign allocators, equipped with mandate breadth, structural patience, and mu
 Their focus is stability, geopolitical alignment, and long‑arc productive deployment.
 
 This structural realignment has created three outcomes. 
-
 -  The rise of off‑market institutional mandates where sovereign wealth funds prefer controlled origination environments rather than broad auctions. 
-
 -  A demand for exit readiness engineering rather than simple financial packaging. 
-
 -  An increased premium on operational transparency and governance maturity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
@@ -61,11 +58,8 @@ Sovereign institutions measure risk through geopolitical positioning, strategic 
 2. Cross‑Cycle Underwriting Sovereign capital evaluates companies through durability functions.
 
 These include: 
-
 -  Cash flow resilience during commodity cycles. 
-
 -  Exposure analysis to jurisdictional regulatory volatility. 
-
 -  Dependency mapping across supply chains.
 
 The objective is structural robustness rather than acceleration. 
@@ -107,22 +101,19 @@ Roials Capital conducts operational triage, identifying structural bottlenecks t
 Roials Capital evaluates whether the enterprise fits a national strategic thesis.
 
 This may include: 
-
 -  Food security 
-
 -  Industrial resilience 
-
 -  Technology independence 
-
 -  Energy transition adjacencies 
-
 -  Infrastructure decentralization Alignment eliminates wasted cycles for both sides. 
 
 3. Opportunity Velocity Most high‑quality mid‑market deals never enter public markets.
 
 They move through private networks with strict information discipline.
 
-Roials Capital’s role is to accelerate opportunity velocity by positioning qualified businesses into controlled visibility pathways where sovereign interest can be assessed. ## ## ## ## ## THE STEWARDSHIP FILTER Capital without stewardship leads to entropy.
+Roials Capital’s role is to accelerate opportunity velocity by positioning qualified businesses into controlled visibility pathways where sovereign interest can be assessed. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Capital without stewardship leads to entropy.
 
 Stewardship requires structural discipline, not rhetorical virtue.
 
@@ -150,16 +141,14 @@ This principle is consistent with **Ecclesiastes 7:12** which equates wisdom and
 
 4. Institutional Archetyping Sovereign allocators require that businesses adopt the behavioral patterns of institutional organizations.
 
-This includes reporting cadence, strategic planning horizons, and documentation standards that reflect long‑cycle stewardship. ## ## SOVEREIGN CAPITAL AS A DECISION FRAMEWORK Executives and owners navigating this environment must evaluate their enterprises through institutional lenses rather than entrepreneurial ones.
+This includes reporting cadence, strategic planning horizons, and documentation standards that reflect long‑cycle stewardship. ## 
+
+## SOVEREIGN CAPITAL AS A DECISION FRAMEWORK Executives and owners navigating this environment must evaluate their enterprises through institutional lenses rather than entrepreneurial ones.
 
 The questions to resolve are structural. 
-
 -  Is the business operating with institutional clarity or entrepreneurial liquidity patterns. 
-
 -  Does the company meet the governance threshold expected by sovereign allocators. 
-
 -  Are compliance, reporting, ESG, and risk structures formatted for multi‑jurisdictional scrutiny. 
-
 -  Can the enterprise withstand the technical rigor of a full-spectrum due diligence sweep.
 
 The presence of sovereign capital in mid‑market M&A is not a trend.
@@ -176,4 +165,4 @@ Its purpose is structural clarity rather than transaction solicitation.
 
 A calibrated company is a company that clears institutional barriers.
 
-A company that clears institutional barriers gains access to sovereign-grade pathways. [END OF BRIEFING]
+A company that clears institutional barriers gains Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

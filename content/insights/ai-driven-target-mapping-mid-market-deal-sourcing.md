@@ -48,7 +48,9 @@ Predict.
 
 They govern everything.
 
-The following briefing is for internal application: a technical spine for anyone constructing an off‑market acquisition engine, an Exit Readiness protocol, or a Fund-III deal funnel that does not waste cycles on noise. ## PHASE ONE The internal architecture.
+The following briefing is for internal application: a technical spine for anyone constructing an off‑market acquisition engine, an Exit Readiness protocol, or a Fund-III deal funnel that does not waste cycles on noise. 
+
+## PHASE ONE The internal architecture.
 
 The first truth: mid‑market companies leave a thick digital exhaust.
 
@@ -108,7 +110,9 @@ It changes tone, it reduces friction, and it accelerates trust.
 
 Trust is the currency.
 
-Precision is the lever. ## PHASE TWO Principal Voice.
+Precision is the lever. 
+
+## PHASE TWO Principal Voice.
 
 The mid‑market is shifting beneath the feet of legacy operators.
 
@@ -144,7 +148,9 @@ The deal finds alignment.
 
 The founder finds direction.
 
-The buyer finds conviction. ## PHASE THREE Deep mechanics.
+The buyer finds conviction. 
+
+## PHASE THREE Deep mechanics.
 
 The structural backbone of AI-driven target mapping runs through five analytical strata.
 
@@ -210,7 +216,9 @@ What matters is clarity.
 
 Clarity produces precision.
 
-Precision produces velocity. ## PHASE FOUR Exit Readiness as a predictable function.
+Precision produces velocity. 
+
+## PHASE FOUR Exit Readiness as a predictable function.
 
 Most mid‑market firms are exit-ready only in rhetoric, not in structure.
 
@@ -225,21 +233,13 @@ A living system.
 You assess the company the moment it enters the orbit of the map.
 
 The machine builds a pre-diligence skeleton: 
-
 -  revenue stack dynamics 
-
 -  margin integrity across product lines 
-
 -  customer concentration exposure 
-
 -  operational bottlenecks 
-
 -  misaligned cost centers 
-
 -  leadership dependencies 
-
 -  compliance risks 
-
 -  cultural markers All indexed.
 
 All contextual.
@@ -264,7 +264,9 @@ No misinformation.
 
 No games.
 
-Just a clean corridor leading to a clean deal. ## PHASE FIVE Off-market origination.
+Just a clean corridor leading to a clean deal. 
+
+## PHASE FIVE Off-market origination.
 
 This is where the architecture earns its name.
 
@@ -290,7 +292,9 @@ With intelligence, not force.
 
 With insight, not pressure.
 
-With anticipation, not reaction. ## PHASE SIX Friction removal.
+With anticipation, not reaction. 
+
+## PHASE SIX Friction removal.
 
 Every lost deal is lost in the gaps: the silent delays, the unclear expectations, the poor sequencing of information.
 
@@ -299,20 +303,17 @@ AI compresses these gaps.
 You maintain forward motion because the system continuously resolves uncertainties before they slow the human process.
 
 Examples: 
-
 -  drafting risk memos before questions surface 
-
 -  preparing valuation corridors before the founder discusses price 
-
 -  pre-mapping integration friction points so the buyer does not speculate 
-
 -  producing customer cohort projections instantly for scenario models 
-
 -  revealing cultural derailers early enough to neutralize them This is not automation.
 
 This is orchestration.
 
-It changes the tempo of M&A. ## PHASE SEVEN Integration into Fund-III or corporate acquisition funnels.
+It changes the tempo of M&A. 
+
+## PHASE SEVEN Integration into Fund-III or corporate acquisition funnels.
 
 Once the architecture is built, it becomes self-sustaining.
 
@@ -332,7 +333,9 @@ The conviction accelerates execution.
 
 A for some mandates you integrate institutional capital execution using partners such as those within the Roials sphere.
 
-When required, structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)) becomes the natural extension of the map’s predictive power. ## PHASE EIGHT The Principal Arc.
+When required, structuring through Roials Capital ([Roials Capital](https://roialscapital.com/)) becomes the natural extension of the map’s predictive power. 
+
+## PHASE EIGHT The Principal Arc.
 
 AI-driven target mapping has transformed mid‑market sourcing into an active discipline.
 
@@ -375,3 +378,5 @@ Scale without compromise.
 This is Pathmaker.
 
 Book a tactical consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

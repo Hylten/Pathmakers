@@ -46,7 +46,9 @@ The gap is structural.
 
 And structural gaps always create opportunity.
 
-This is where Pathmaker stands. ## PHASE ONE. ## ## ## .
+This is where Pathmaker stands. 
+
+## PHASE ONE. ## ## ## .
 
 PRIVATE BRIEFING.
 
@@ -126,7 +128,9 @@ Owners respond to seriousness.
 
 They respond to clarity.
 
-And they respond to an analyst team that does not treat them as leads, but as principals on their own side of the table. ## PHASE TWO.
+And they respond to an analyst team that does not treat them as leads, but as principals on their own side of the table. 
+
+## PHASE TWO.
 
 PRINCIPAL VOICE.
 
@@ -196,7 +200,11 @@ Machine-gun clarity again: Ambiguity kills deals.
 
 Alignment builds deals.
 
-Intent closes deals. ## PHASE THREE. ## ## INTERNAL BYPASS .
+Intent closes deals. 
+
+## PHASE THREE. ## 
+
+## INTERNAL BYPASS .
 
 VARIED SYNTAX.
 
@@ -249,19 +257,12 @@ The latter drains calendars.
 The shift now underway is a recognition that intent itself can be engineered-if approached structurally.
 
 Pathmaker focuses on the structural signal indicators: 
-
 -  Financial storytelling coherence 
-
 -  Forecast credibility 
-
 -  Succession realism 
-
 -  Clean operational governance 
-
 -  Decision-making clarity 
-
 -  Alignment of valuation expectation with market physics 
-
 -  Willingness to engage in bidirectional diligence These are not soft factors.
 
 They are the determinants of close probability.
@@ -407,3 +408,5 @@ Deals become inevitable.
 Outcomes become principled.
 
 Book a tactical consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

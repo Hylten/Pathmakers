@@ -30,9 +30,11 @@ It also creates tactical freedom for the sponsor who needs to execute an acceler
 
 This is where Pathmaker operates.
 
-Silent authority.
+principal authority.
 
-We provide the structural mechanics for institutional capital. ## When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement.
+We provide the structural mechanics for institutional capital. 
+
+## When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement.
 
 High inventory environments.
 
@@ -48,7 +50,9 @@ In these situations, sponsors who rely solely on private credit or traditional b
 
 The working capital gap becomes the single point of failure.
 
-Asset-Based Lending is the insurance against that failure. ## Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear.
+Asset-Based Lending is the insurance against that failure. 
+
+## Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear.
 
 Carve-outs are accelerating.
 
@@ -69,3 +73,5 @@ Structural integrity during transition.
 As the mid-market becomes more competitive and more chaotic, capital that can move quickly without sacrificing discipline becomes the advantage.
 
 Pathmaker is built for this precise moment in the market. # Book a strategic consultation
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

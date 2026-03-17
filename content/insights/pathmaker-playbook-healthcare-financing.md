@@ -133,13 +133,9 @@ This is not advisory in the classical sense.
 It is technical orchestration.
 
 In the healthcare vertical, the critical alignment points include: 
-
 -  Monetization Architecture that ensures operators maintain stability throughout diligence cycles. 
-
 -  Balance Sheet Optimization that positions the entity for capital-intensive expansions or accretive bolt-ons. 
-
 -  Operational Hardening that transforms clinical processes into documented, repeatable systems. 
-
 -  Institutional ## 
 
 ## INTRODUCTION
@@ -169,7 +165,6 @@ Healthcare operators who practice stewardship manage their clinical assets, huma
 This aligns with the Theology of Capital, where resources are deployed without waste and where decisions generate continuity across generations.
 
 Stewardship demands clarity, discipline, and documentary integrity. 
-
 -  **Proverbs 13:22** speaks of the enduring impact of strategic resource management.
 
 In healthcare, stewardship manifests in the avoidance of operational shortcuts and the careful allocation of clinical and financial resources.
@@ -189,13 +184,9 @@ Phase 5: Decision Architecture for Allocators.
 Institutional allocators evaluating European healthcare platforms require a lens that separates operational noise from structural signal.
 
 The primary decision filters include: 
-
 -  Visibility: How accurately does the operator document and articulate clinical and financial performance. 
-
 -  Durability: Are the revenue streams resilient to regulatory or competitive pressures. 
-
 -  Scalability: Can the platform integrate bolt-ons without destabilization. 
-
 -  Exit Viability: Does the operator carry the structures needed to complete a transaction with minimal friction.
 
 The Pathmaker Playbook provides the architecture to assess these elements.
@@ -215,3 +206,5 @@ Platforms that adapt to the Pathmaker methodology will be positioned for acceler
 For institutions exploring healthcare allocations, a confidential strategy audit or calibration discussion creates the clarity needed to navigate this evolving landscape.
 
 The advantage lies not in discovering deals but in recognizing operators who have already solved the structural barriers that impede transaction execution. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

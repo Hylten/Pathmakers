@@ -71,15 +71,10 @@ Excess leverage, non essential assets, informal shareholder arrangements, and in
 The Pathmaker system applies Asset-Backed Frameworks to remove distortions, creating balance sheet symmetry.
 
 This includes: 
-
 -  Capital hygiene audits 
-
 -  Cash conversion cycle optimization 
-
 -  Liability stratification 
-
 -  Asset hardening through enforceable valuation pathways 
-
 -  Alignment with institutional reporting cadence Once normalized, the portfolio becomes navigable for high tier capital. 
 
 3. Exit Readiness Engineering Sovereign liquidity requires a clear and validated exit environment.
@@ -116,7 +111,9 @@ For all non energy applications, the Pathmaker approach retains a neutral introd
 
 No solicitation, no promotion, no commitments.
 
-Only structural navigation. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral concept.
+Only structural navigation. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral concept.
 
 It is a capital discipline rooted in resource non wastefulness.
 
@@ -127,14 +124,12 @@ Capital purposefulness creates resilience.
 The Pathmaker approach is built on a stewardship logic that aligns with the principle recorded in **Proverbs 13:22** which establishes continuity of capital across generations through disciplined management rather than opportunistic allocation.
 
 This filter ensures that: 
-
 -  Liquidity is engaged only when structurally justified 
-
 -  Assets are prepared before exposure to sovereign counterparties 
-
 -  Valuation pathways remain defensible 
+-  Capital is deployed in alignment with long term solvency principles Stewardship, when applied to sovereign financing readiness, becomes a safeguard against strategic error. ## ## ## 
 
--  Capital is deployed in alignment with long term solvency principles Stewardship, when applied to sovereign financing readiness, becomes a safeguard against strategic error. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW investors who require sovereign grade financing or cross border liquidity access must evaluate their current positioning through an institutional lens.
+## DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW investors who require sovereign grade financing or cross border liquidity access must evaluate their current positioning through an institutional lens.
 
 The question is not whether the asset has value.
 
@@ -153,3 +148,5 @@ It ensures that the allocator can operate without unnecessary friction, without 
 The next phase is a confidential strategy audit designed to identify structural constraints, assess institutional readiness, and map the allocator's existing position against sovereign financing thresholds.
 
 This creates a calibrated pathway for capital alignment without promotional engagement and without speculative projections.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -110,7 +110,9 @@ Tactical Intelligence.
 
 True Tactical Intelligence does not “improve the pitch.” It eliminates the structural ambiguity that creates buyer fatigue in the first place.
 
-It reshapes the buyer’s entire decision-making environment. ## INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture.
+It reshapes the buyer’s entire decision-making environment. 
+
+## INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture.
 
 A Principal does not persuade.
 
@@ -176,8 +178,9 @@ Conviction closes deals.
 
 The principal truth stands: fatigue rises in environments where uncertainty compounds faster than insight.
 
-Tactical Intelligence restores the ratio. ## STRUCTURAL DEEP DIVE: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical section 
+Tactical Intelligence restores the ratio. 
 
+## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical section 
 -  long-form technical breakdown) The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down.
 
 Mandates are abundant; closable deals are scarce.
@@ -228,7 +231,9 @@ If the seller enters the process engineered, prepared, and aligned, the inversio
 
 Buyer fatigue becomes buyer acceleration.
 
-This is where Tactical Intelligence becomes structural, not cosmetic. ## THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment.
+This is where Tactical Intelligence becomes structural, not cosmetic. 
+
+## THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment.
 
 The responsibility is singular: create clarity at the earliest possible stage.
 
@@ -243,7 +248,6 @@ The reconstructed data is structurally consistent with institutional buyer expec
 The buyer feels the difference immediately.
 
 Doctrine Two: Off-Market Signal Extraction We pull deals from proprietary networks, direct founder channels, succession environments, and industry ecosystems 
-
 -  not the broker echo chamber.
 
 Off-market reduces noise.
@@ -264,7 +268,9 @@ Protect it.
 
 Momentum moves deals across the finish line.
 
-A single sentence captures the doctrine: Momentum beats fatigue. ## THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate.
+A single sentence captures the doctrine: Momentum beats fatigue. 
+
+## THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate.
 
 The buyer recalibrates from defensive to evaluative.
 
@@ -278,26 +284,20 @@ Higher-quality questions accelerate alignment.
 
 Accelerated alignment accelerates commitment.
 
-Commitment is the beginning of the close. ## THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation.
+Commitment is the beginning of the close. 
+
+## THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation.
 
 The modern environment demands architecture.
 
 The future mid‑market playbook is structural: 
-
 -  Exit Readiness built before the first outreach 
-
 -  Off-market origination built through intelligence networks 
-
 -  Narrative clarity built through analytical reconstruction 
-
 -  Buyer engagement driven by operational transparency 
-
 -  Deal momentum engineered, not hoped for 
-
 -  Founder psychology managed with precision, not optimism 
-
 -  Decision pathways shortened through data integrity 
-
 -  Fatigue eliminated at the root through pre‑alignment This is not theory.
 
 This is the observed reality in the highest close‑rate environments in the mid‑market today.
@@ -306,11 +306,14 @@ Noise collapses deals.
 
 Clarity rescues them.
 
-Architecture multiplies them. ## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next step is to integrate institutional preparation.
+Architecture multiplies them. 
+
+## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next step is to integrate institutional preparation.
 
 Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process 
+-  a structural reinforcement rather than a substitute. 
 
--  a structural reinforcement rather than a substitute. ## THE FINAL BRIEF Buyer fatigue is not a mood.
+## THE FINAL BRIEF Buyer fatigue is not a mood.
 
 It is a structural signal.
 
@@ -331,3 +334,5 @@ Only the prepared move forward.
 If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next step is a tactical consultation.
 
 Book a tactical consultation
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

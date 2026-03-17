@@ -180,7 +180,9 @@ Institutional introductions reduce noise and accelerate the path toward prelimin
 
 Execution oversight is an act of disciplined orchestration.
 
-The objective is friction minimization and process predictability. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness.
+The objective is friction minimization and process predictability. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness.
 
 It is the discipline of managing assets, processes, and human capital without waste.
 
@@ -189,7 +191,6 @@ Successful exits emerge from stewardship cultures, not opportunistic time window
 The theology of capital is clear: capital gravitates toward environments with order, accountability, and clarity.
 
 As 
-
 -  **Proverbs 13:22** states, A good man leaves an inheritance for his children’s children.
 
 In modern enterprise terminology, stewardship creates continuity across generations of ownership.
@@ -208,7 +209,9 @@ It is created through processes that eliminate uncertainty and waste.
 
 3. Preparation as a form of integrity Exit readiness is not manipulation of optics.
 
-It is the establishment of structural order so that the next owner inherits a system that functions without entropy. ## ## DECISION LENS FOR ALLOCATORS AND OPERATORS The companies that achieve frictionless M&A outcomes apply a disciplined decision lens long before launching a sale process.
+It is the establishment of structural order so that the next owner inherits a system that functions without entropy. ## 
+
+## DECISION LENS FOR ALLOCATORS AND OPERATORS The companies that achieve frictionless M&A outcomes apply a disciplined decision lens long before launching a sale process.
 
 The defining characteristics include: * A commitment to operational intelligence rather than operational intuition. * A willingness to eliminate ambiguity even when it is uncomfortable. * A recognition that time is the most expensive variable in any transaction. * An understanding that buyers reward preparedness, not persuasion.
 
@@ -221,3 +224,5 @@ Organizations that internalize this philosophy become eligible for premium acqui
 For companies seeking to evaluate their position within the exit readiness spectrum, a confidential strategy audit provides a clear calibration.
 
 It identifies structural strengths, hidden vulnerabilities, and the pathway toward frictionless execution. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

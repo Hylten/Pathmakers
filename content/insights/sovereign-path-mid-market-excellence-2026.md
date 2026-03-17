@@ -281,3 +281,5 @@ It is grounded in stewardship values and elevated by technical mastery.
 It is the optimal pathway for Fund-III managers building durable platforms in 
 
 2026. [END INTELLIGENCE REPORT]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

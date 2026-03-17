@@ -75,13 +75,9 @@ Specialized assets with limited re market demand compress advance potential.
 2. Asset Hardening Sponsors who excel in niche markets understand that Asset-Based Lending is dependent on the sponsor's ability to harden operational assets into financeable collateral.
 
 This includes: 
-
 -  Digital tagging for equipment serial traceability. 
-
 -  ERP integration for real time inventory visibility. 
-
 -  Receivable stratification by industry risk tiers. 
-
 -  Contract re assignment protocols for customer diversification.
 
 Asset hardening increases both advance rates and the lender’s willingness to compress covenants. 
@@ -107,13 +103,9 @@ This increases IRR convexity without increasing operating risk.
 This is crucial for niche markets where EBITDA volatility may be cyclical.
 
 Borrowing base tests include: 
-
 -  Net orderly liquidation value maintenance. 
-
 -  Receivable dilution thresholds. 
-
 -  Inventory turnover thresholds. 
-
 -  Field audit requirements.
 
 Asset-Based Lending covenants are more operational than financial.
@@ -141,43 +133,31 @@ Objective Acquire the business with minimal equity outlay to maintain capital ra
 Step 1: Asset Evaluation The sponsor executes a forensic asset audit.
 
 Findings: 
-
 -  Equipment FMV: $84M.
 
 Net orderly liquidation value: $51M. 
-
 -  Receivables: $38M. 79 percent under 60 days.
 
 Dilution rate 1.6 percent. 
-
 -  Inventory: $12M.
 
 Turnover average 51 days.
 
 Obsolescence minimal. 
-
 -  Real estate: $9M of owned land and structures.
 
 Appraised at $12.4M.
 
 Step 2: Advance Rate Determination The Asset-Based Lending partner offers: 
-
 -  Equipment: 65 percent of NOLV. 
-
 -  Receivables: 87 percent. 
-
 -  Inventory: 50 percent. 
-
 -  Real estate: 60 percent.
 
 Total liquidity potential: 
-
 -  Equipment: $33.15M. 
-
 -  Receivables: $33.06M. 
-
 -  Inventory: $6M. 
-
 -  Real estate: $7.44M.
 
 Cumulative borrowing base: $79.65M.
@@ -293,3 +273,5 @@ In an environment shaped by NAEOCC energy infrastructure investment, cross borde
 The sponsors who master this discipline will control the niche market landscape of 2026 and beyond.
 
 Those who fail to integrate Asset-Based Lending into their acquisition strategy will operate with constrained optionality, higher equity erosion, and diminished strategic reach. [END INTELLIGENCE REPORT]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

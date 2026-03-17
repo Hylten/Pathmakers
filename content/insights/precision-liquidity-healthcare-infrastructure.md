@@ -73,31 +73,20 @@ The approach focuses on four technical domains.
 1. Balance Sheet Triage Healthcare operators often carry legacy debt with outdated covenants, cross collateralization inefficiencies, and non strategic liabilities.
 
 Precision liquidity restructures this environment through: 
-
 -  Liability sequencing 
-
 -  Operational expense stabilization 
-
 -  Asset backed refinancing 
-
 -  Liquidity harmonization 
-
 -  Covenant realignment This creates predictable cash flow contours and simplifies credit evaluation. 
 
 2. Operational Intelligence Institutional buyers require three forms of data fidelity: 
-
 -  Clinical throughput metrics 
-
 -  Workforce productivity stability 
-
 -  Compliance trajectory visibility Mid market operators rarely have consolidated systems capable of producing audited real time datasets.
 
 Precision liquidity includes funding targeted upgrades in: 
-
 -  Digital EMR integration 
-
 -  Workforce management systems 
-
 -  Data governance frameworks This is not cosmetic enhancement.
 
 It is transaction enablement. 
@@ -105,29 +94,19 @@ It is transaction enablement.
 3. Asset Hardening Asset hardening refers to structural improvements that transform a facility from operator dependent performance to asset dependent viability.
 
 Examples include: 
-
 -  Facility modernization 
-
 -  Energy efficiency retrofits 
-
 -  Redundancy systems for power and clinical equipment 
-
 -  Structural compliance upgrades 
-
 -  Technology stack stabilization These interventions reduce operational variance and protect valuation during due diligence. 
 
 4. Exit Readiness Exit readiness is a technical condition, not a marketing exercise.
 
 It requires: 
-
 -  Clean financial architecture 
-
 -  Harmonized data systems 
-
 -  Aligned regulatory posture 
-
 -  Vendor neutral technology mapping 
-
 -  Strategic narrative coherence Precision liquidity transforms operators into transaction ready entities without altering clinical identity.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator.
@@ -135,17 +114,11 @@ THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator.
 The role is not to originate capital for itself, but to create structural alignment between operators requiring liquidity optimization and institutional partners capable of providing it.
 
 This involves: 
-
 -  Institutional ## 
 
 ## INTRODUCTION
-
- 
-
 -  Capital stack diagnostics 
-
 -  Operational intelligence refinement 
-
 -  Transaction sequencing strategy Within healthcare, the partnership model prioritizes off market discovery.
 
 High intent mid market operators rarely participate in formal sale processes.
@@ -164,23 +137,22 @@ The execution methodology integrates Nordic precision and disciplined sequencing
 
 4. Build institutional governance 
 
-5. Prepare for acquisition or structured credit alignment This approach reduces transaction slippage and increases opportunity velocity without creating solicitation dynamics. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks.
+5. Prepare for acquisition or structured credit alignment This approach reduces transaction slippage and increases opportunity velocity without creating solicitation dynamics. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks.
 
 It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
 
 The principle is grounded in the theology of capital articulated in **Proverbs 13:22** which emphasizes generational responsibility and strategic preservation.
 
 Stewardship is expressed through: 
-
 -  Non wasteful capital deployment 
-
 -  Preservation of clinical integrity 
-
 -  Reinforcement of governance clarity 
-
 -  Avoidance of operational disruption 
+-  Enhancement of long term community outcomes Allocators aligned with stewardship disciplines evaluate healthcare assets not only for financial performance but for continuity of societal utility. ## ## ## 
 
--  Enhancement of long term community outcomes Allocators aligned with stewardship disciplines evaluate healthcare assets not only for financial performance but for continuity of societal utility. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital entering healthcare infrastructure requires a framework that separates noise from signal.
+## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital entering healthcare infrastructure requires a framework that separates noise from signal.
 
 The allocator's evaluation should focus on five technical criteria. 
 
@@ -203,3 +175,5 @@ Roials Capital provides confidential strategy calibration for allocators seeking
 The process evaluates technical readiness, structural gaps, and off market opportunity maps without forming solicitation or investment guidance.
 
 The institutions capable of navigating the 2026 healthcare regime shift will be those that combine analytical discipline, structural awareness, and stewardship-centered capital deployment. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

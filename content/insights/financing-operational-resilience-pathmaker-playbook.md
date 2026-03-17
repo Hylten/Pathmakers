@@ -27,7 +27,6 @@ The question is not whether the cycle turns.
 It is who remains solvent, mobile, and acquisition-ready when it does.
 
 As written in 
-
 -  **Proverbs 13:22** : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Resilience is the mechanism.
@@ -431,3 +430,5 @@ The next step is structural.
 Book a tactical consultation.
 
 Resilience Coefficient Target: 0.78
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

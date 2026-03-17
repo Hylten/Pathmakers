@@ -43,13 +43,11 @@ The market punishes those who rely on narrative alone. **Proverbs 13:22** .
 The Analyst Team delivers this doctrine as a practical, field‑tested architecture.
 
 We map the Nordic mid‑market across five vectors: 
-
 -  Capital discipline .
 
 Operational sovereignty .
 
 Data provability , Asset hardening 
-
 -  Continuity integrity Each vector exposes where value leaks and where strategic arbitrage sits hidden underneath ordinary reporting lines.
 
 Nordic resilience is not about stability.
@@ -329,3 +327,5 @@ For continuity. **Proverbs 13:22** .
 To deploy this framework and build a hardened, exit-ready Nordic enterprise, book a tactical consultation.
 
 Resilience Delta: 27.4 percent.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

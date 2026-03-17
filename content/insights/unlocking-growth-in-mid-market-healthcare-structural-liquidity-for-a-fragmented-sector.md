@@ -24,7 +24,9 @@ We do not promise inspirational turnarounds.
 
 We engineer outcomes through private credit and asset based Monetization Architecture.
 
-We structure liquidity that lets serious owners control their destiny rather than react to it. ## The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products.
+We structure liquidity that lets serious owners control their destiny rather than react to it. 
+
+## The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products.
 
 Pathmaker provides structure.
 
@@ -65,3 +67,5 @@ The sector will not become easier.
 But with the right structure, it becomes controllable.
 
 Book a strategic consultation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.
