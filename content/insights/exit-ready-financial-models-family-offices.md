@@ -124,7 +124,9 @@ The exit is the validation of the model.
 
 And the capital moves toward validation.
 
-### Phase II: PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
+# Phase I: I
+
+PRINCIPAL VOICE The Pathmaker Tone Families do not chase uncertainty.
 
 They refuse opacity.
 
@@ -176,7 +178,9 @@ Precision is not aesthetic.
 
 Precision is survivability.
 
-### Phase III: ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
+# Phase II: I
+
+ARCHITECTURAL DEPTH The Structural Mechanics of Exit‑Ready Modeling The term “exit‑ready” has been abused by advisors who believe it refers to data rooms or CIM packaging.
 
 That is superficial.
 

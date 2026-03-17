@@ -270,7 +270,9 @@ Buyer hesitation is expensive.
 
 Buyer momentum is priceless. 
 
-## COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive.
+## COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive
+
+.
 
 We anticipate not just what the buyer will ask but the strategic intent behind the question.
 

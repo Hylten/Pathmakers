@@ -24,7 +24,9 @@ The focus is exit readiness, M&A friction removal, and tactical navigation for m
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The 2026 credit cycle is defined by three variables that shape every spinoff or carve out event. 
 
@@ -66,7 +68,9 @@ Spinoffs that rely on legacy liquidity assumptions stagnate.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SPINOFF LIQUIDITY IN A TIGHT CREDIT REGIME Liquidity engineering in corporate carve outs is a discipline of converting operational complexity into financial clarity.
 
@@ -178,7 +182,9 @@ For corporate spinoffs, the model follows four principles.
 
 Neutral intelligence Roials Capital does not act as a broker or seller of assets.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to map structural truth, align institutional capital archetypes, and engineer clarity where the market sees friction. 
 
@@ -222,7 +228,9 @@ This includes
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 The theology of capital requires operators to convert complexity into order, inefficiency into clarity, and uncertainty into structural integrity.
 

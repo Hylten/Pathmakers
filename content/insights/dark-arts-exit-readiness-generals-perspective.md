@@ -94,7 +94,9 @@ This is the dark art: controlling perception by removing friction long before fr
 
 Below is how the Analyst Team frames the work. 
 
-## INTELLIGENCE POSITIONING Exit readiness is intelligence readiness.
+## INTELLIGENCE POSITIONING Exit readiness is intelligence readiness
+
+.
 
 You cannot command the acquisition landscape if you do not understand the acquisition psychology.
 
@@ -130,7 +132,9 @@ They compress the buyer’s energy expenditure to near zero.
 
 Quiet assets trade at a premium. 
 
-## THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit.
+## THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit
+
+.
 
 The Analyst Team maps fragility in five strokes:
 
@@ -164,7 +168,9 @@ Generals do not accept cracks in the armor.
 
 They reinforce pressure points until they become pressure multipliers. 
 
-## INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status.
+## INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status
+
+.
 
 Owners believe internal success equals external credibility.
 
@@ -266,7 +272,9 @@ Deals are won in the shadows.
 
 Not at the table. 
 
-## DISMANTLING FRICTION Firms fail exits because friction compounds:
+## DISMANTLING FRICTION Firms fail exits because friction compounds
+
+:
 
 - founder dependency
 
@@ -310,7 +318,9 @@ Firms that master friction removal achieve a psychological advantage: buyers fee
 
 Speed becomes a valuation weapon. 
 
-## THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline.
+## THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline
+
+.
 
 Sparse words.
 
@@ -342,7 +352,9 @@ It is militarized clarity.
 
 A General’s perspective is simple: win before the first meeting. 
 
-## THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it.
+## THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it
+
+.
 
 They won’t.
 
@@ -370,7 +382,9 @@ Hardened.
 
 This is the realm where dark arts become visible. 
 
-## TACTICAL INTELLIGENCE FOR Fund-III ACQUIRERS Fund-III buyers think in patterns:
+## TACTICAL INTELLIGENCE FOR Fund-III ACQUIRERS Fund-III buyers think in patterns
+
+:
 
 - de‑risk
 
@@ -402,7 +416,9 @@ They prefer targets with:
 
 - hardened audit trails Exit readiness is building these traits before diligence begins. 
 
-## THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance.
+## THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance
+
+.
 
 They emerge from confidence-confidence that the business will behave predictably under new governance.
 
@@ -434,7 +450,9 @@ A General never negotiates from weakness.
 
 He constructs the battlefield so strength is the only visible option. 
 
-## THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them.
+## THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them
+
+.
 
 They are internal forces-structural, psychological, financial-that determine how a buyer feels when they review the asset.
 
@@ -472,7 +490,9 @@ The work is not optional.
 
 It is mandate. 
 
-## FINAL IMPERATIVE Exit readiness is war architecture.
+## FINAL IMPERATIVE Exit readiness is war architecture
+
+.
 
 Quiet war.
 

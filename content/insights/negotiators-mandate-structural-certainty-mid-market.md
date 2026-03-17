@@ -32,7 +32,9 @@ Not a broker, not a banker, but a strategic architect capable of collapsing comp
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European M&A landscape has entered a hard regime.
 
@@ -90,7 +92,9 @@ There is no buyer appetite for improvisation.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The Negotiators Mandate requires a deep operational stack.
 
@@ -214,7 +218,9 @@ Roials Capital maintains strategic oversight and ensures that the European or No
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment
+
+.
 
 It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22
 

@@ -160,7 +160,9 @@ It turns float into structure.
 
 Fund-III 
 
-## MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase.
+## MANDATE: STRUCTURAL CERTAINTY Fund‑III is the institutional test phase
+
+.
 
 Fund‑I proves the thesis.
 
@@ -437,8 +439,37 @@ TACTICAL SEQUENCING FOR FUND‑III OPERATORS To operationalize Asset-Based Lendi
 
 Not theory.
 
-Execution.### Step I: : Extract asset map from seller systems.### Step II: : Validate AR, inventory, equipment residuals.### Step III: : Construct liquidity corridors tied to operational cycles.### Step IV: : Pre‑build Day‑
-1 liquidity events.### Step V: : Neutralize vendor uncertainty.### Step VI: : Engineer early integration signals to the market.### Step VII: : Document cycle stability for eventual exit packages.
+Execution.
+
+# Step I: Extract asset map from seller systems
+
+.
+
+# Step II: Validate AR, inventory, equipment residuals
+
+.
+
+# Step III: Construct liquidity corridors tied to operational cycles
+
+.
+
+# Step IV: Pre‑build Day
+
+‑
+
+1 liquidity events.
+
+# Step V: Neutralize vendor uncertainty
+
+.
+
+# Step VI: Engineer early integration signals to the market
+
+.
+
+# Step VII: Document cycle stability for eventual exit packages
+
+.
 
 Cycle stability sells.
 

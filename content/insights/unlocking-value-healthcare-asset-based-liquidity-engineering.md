@@ -529,7 +529,9 @@ Operators must act with precision.
 
 Delay is dilution.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: unlock latent value through architecture before stepping into any negotiation.
 

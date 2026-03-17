@@ -42,7 +42,7 @@ Internal only.
 
 No embellishment. 
 
- ##
+ 
 
 - THE STRUCTURAL CORE Institutional acquirers do not pay premiums for narratives.
 
@@ -92,7 +92,11 @@ We’ve now established the governing logic.
 
 The next move is to expand the architecture layer by layer.
 
-INSTITUTIONAL-READY FP&A: THE FIVE-PILLAR CONSTRUCTION Each pillar is non-negotiable if an operator expects a premium multiple or a frictionless close. 
+INSTITUTIONAL-READY FP&A: THE FIVE-PILLAR CONSTRUCTION Each 
+
+# Pillar I
+
+s non-negotiable if an operator expects a premium multiple or a frictionless close.
 
 1.
 

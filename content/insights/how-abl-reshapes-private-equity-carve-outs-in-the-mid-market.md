@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
 --- 
 
-# The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals.
+# The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals
+
+.
 
 They are operational divorces carried out under time pressure, incomplete information, and conflicting incentives.
 
@@ -34,7 +36,9 @@ principal authority.
 
 We provide the structural mechanics for institutional capital. 
 
-## When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement.
+## When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement
+
+.
 
 High inventory environments.
 
@@ -52,7 +56,9 @@ The working capital gap becomes the single point of failure.
 
 Asset-Based Lending is the insurance against that failure. 
 
-## Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear.
+## Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear
+
+.
 
 Carve-outs are accelerating.
 

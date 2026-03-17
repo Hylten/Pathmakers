@@ -14,13 +14,15 @@ In 2026, deployable capital sits idle while businesses with strong collateral pr
 
 This is the opening for strategic Asset-Based Lending.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across the EU, UK, and North America, the traditional underwriting model has lost alignment with contemporary corporate architecture.
 
@@ -64,13 +66,15 @@ What institutions perceive as risk is often simply a lack of technical mapping.
 
 Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STRATEGIC Asset-Based Lending Strategic Asset-Based Lending is not a commodity lending product.
 
@@ -144,7 +148,7 @@ This includes:
 
 The clearer the intercompany monetisation pathways, the lower the friction cost of capital.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
@@ -202,7 +206,7 @@ The same principle applies to multi entity corporate groups in manufacturing, lo
 
 When the operating partner has clarity, the lender can price risk accurately.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
@@ -246,7 +250,7 @@ Corporate assets become durable when they are structured coherently.
 
 Capital follows coherence.
 
-### Phase V: .
+# Phase V: .
 
 DECISION LENS FOR THE ALLOCATOR OR OWNER For institutional allocators, corporate owners, and acquirers, the relevant question is not whether financing is available.
 

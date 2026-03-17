@@ -34,7 +34,9 @@ The focus is on removing M&A friction, compressing transaction latency, and gene
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European and Nordic healthcare markets are transitioning from provider-centric ecosystems to infrastructure-centric ecosystems.
 
@@ -70,7 +72,9 @@ Carve-outs are value revelation events.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Precision healthcare carve-outs require a multidimensional technical process.
 
@@ -216,7 +220,9 @@ Institutions deploy capital more confidently when operational opacity is removed
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance
+
+.
 
 Precision healthcare assets carry a unique stewardship mandate because they integrate clinical integrity with commercial sustainability.
 

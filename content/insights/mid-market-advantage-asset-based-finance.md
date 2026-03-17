@@ -18,7 +18,9 @@ They originate from solvent, high-utility mid-market businesses that have never 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across Europe and North America, the mid-market remains structurally starved of precision capital.
 
@@ -52,7 +54,9 @@ They are constrained only by a lack of institutional-grade capital architecture.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MID-MARKET ASSET-BASED FINANCE Asset-based finance, when engineered correctly, is not a substitute for working capital.
 
@@ -112,7 +116,9 @@ The technical edge is created by structuring capital around assets the operator 
 
 This reduces friction in future audits, M&A exits, or lender transitions. 
 
-### Phase II: B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
+# Phase I: I
+
+B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
 
 They fail due to poor documentation, inconsistent financial architecture, and the absence of an institutional-grade control environment.
 
@@ -138,7 +144,9 @@ In practical terms,
 
 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
 
-### Phase II: C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
+# Phase I: I
+
+C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
 
 They are accessed through network intelligence, regulatory adjacency, or balance sheet blind spots identified by operators embedded in the sector. 
 
@@ -204,7 +212,9 @@ The partnership model reduces execution risk by eliminating the inconsistencies 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is a capital discipline rooted in non-wasteful resource management.
 

@@ -20,7 +20,9 @@ It is the operational triage through which acquirable companies are separated fr
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European and Nordic mid-market acquirers entered 2026 under conditions defined by reduced liquidity velocity, dislocated pricing ranges, and a widening spread between formal valuation models and the realized exit values in private bilateral negotiations.
 
@@ -58,7 +60,9 @@ Asset hardening is therefore the governing discipline.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF TACTICAL DUE DILIGENCE AND ASSET HARDENING Tactical due diligence evaluates a target company through the lens of acquirability rather than baseline operational performance.
 
@@ -242,7 +246,9 @@ The focus is operational truth, not transaction momentum.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management
+
+.
 
 It is the counter-force to operational drift, valuation overstatement, and poorly structured leadership transitions.
 

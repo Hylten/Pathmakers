@@ -58,7 +58,9 @@ Clean punches.
 
 No drift. 
 
-## STRATEGIC CONTEXT: NORDIC MID-MARKET Nordic markets sit at the intersection of discipline and scarcity.
+## STRATEGIC CONTEXT: NORDIC MID-MARKET Nordic markets sit at the intersection of discipline and scarcity
+
+.
 
 High governance standards.
 
@@ -104,7 +106,9 @@ When conviction hits, it hits hard.
 
 Sellers equipped for that moment win. 
 
-## THE OPERATIONAL THESIS: LIQUIDITY, PRECISION, STRUCTURAL ADVANTAGE Liquidity is not cash.
+## THE OPERATIONAL THESIS: LIQUIDITY, PRECISION, STRUCTURAL ADVANTAGE Liquidity is not cash
+
+.
 
 Liquidity is optionality.
 
@@ -152,7 +156,9 @@ Nordic buyers walk fast.
 
 They do not negotiate chaos. 
 
-## EXIT READINESS: THE HARD TRUTH Exit readiness is not about documentation volume.
+## EXIT READINESS: THE HARD TRUTH Exit readiness is not about documentation volume
+
+.
 
 It is about friction subtraction.
 
@@ -238,7 +244,9 @@ Liquidity without dilution.
 
 Liquidity at speed. 
 
-## PRECISION: THE FINANCIAL ENGINEERING LAYER Precision is not an aesthetic.
+## PRECISION: THE FINANCIAL ENGINEERING LAYER Precision is not an aesthetic
+
+.
 
 It is an institutional advantage.
 
@@ -276,7 +284,9 @@ Precision eliminates argument space.
 
 Buyers reward that with speed. 
 
-## STRUCTURAL ADVANTAGE: THE DESIGN FORCES Structural advantage is the delta between what the business is and what the business becomes once separated.
+## STRUCTURAL ADVANTAGE: THE DESIGN FORCES Structural advantage is the delta between what the business is and what the business becomes once separated
+
+.
 
 That delta is value creation space.
 
@@ -390,7 +400,9 @@ Trust creates velocity.
 
 Velocity closes deals. 
 
-## CARVE-OUT MECHANICS: THE NORDIC REALITY Nordic carve-outs demand technical rigor:
+## CARVE-OUT MECHANICS: THE NORDIC REALITY Nordic carve-outs demand technical rigor
+
+:
 
 - IT separation must complete at 60% pre‑close
 
@@ -426,7 +438,9 @@ Price integration.
 
 Close clean. 
 
-## MARKET TIMING: THE LIQUIDITY WINDOW Nordic liquidity windows open quickly.
+## MARKET TIMING: THE LIQUIDITY WINDOW Nordic liquidity windows open quickly
+
+.
 
 Close quicker.
 
@@ -450,7 +464,9 @@ Buyers chase precision.
 
 Sellers who delay lose the asymmetry. 
 
-## SECTOR DYNAMICS: WHERE CARVE-OUTS HIT HARDEST Manufacturing High asset specificity.
+## SECTOR DYNAMICS: WHERE CARVE-OUTS HIT HARDEST Manufacturing High asset specificity
+
+.
 
 High integration load.
 
@@ -482,7 +498,9 @@ Each sector rewards structural clarity differently.
 
 But all reward precision. 
 
-## THE PATHMAKER FRAME: DESIGN BEFORE SALE Pathmaker is a discipline.
+## THE PATHMAKER FRAME: DESIGN BEFORE SALE Pathmaker is a discipline
+
+.
 
 Directional.
 
@@ -512,7 +530,9 @@ What structural advantage can be designed?
 
 Carve-outs answer all three when handled at principal level. 
 
-## TACTICAL PLAYBOOK: NORDIC CARVE-OUT EXECUTION Phase A: Pre‑Separation Design
+## TACTICAL PLAYBOOK: NORDIC CARVE-OUT EXECUTION Phase A: Pre‑Separation Desig
+
+n
 
 - Perimeter mapping
 
@@ -530,7 +550,11 @@ Carve-outs answer all three when handled at principal level.
 
 - HR continuity modeling
 
-- IT decentralization routes Phase C: Market Positioning
+- IT decentralization routes 
+
+# Phase C: Market Positionin
+
+g
 
 - Buyer segmentation
 
@@ -538,7 +562,11 @@ Carve-outs answer all three when handled at principal level.
 
 - Risk neutralization
 
-- Off‑market intimations Phase D: Execution
+- Off‑market intimations 
+
+# Phase D: Executio
+
+n
 
 - Process compression
 
@@ -554,7 +582,9 @@ Repeatable.
 
 Predictive. 
 
-## WHY Fund-III BUYERS CARE Fund-III buyers are not generalists.
+## WHY Fund-III BUYERS CARE Fund-III buyers are not generalists
+
+.
 
 They want ready platforms.
 

@@ -20,7 +20,9 @@ This is the technical gap where Monetization Architecture has emerged as the dec
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The modern M&A environment has entered a new regime defined by three interacting forces.
 
@@ -60,7 +62,9 @@ This is
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF [Capital Structuring]([Roials Capital](https://roialscapital.com/)) AGAINST PUBLIC SHARES Monetization Architecture against public shares is the discipline of transforming static market value into instrumented, off balance sheet, short duration liquidity without forcing a sale event.
 
@@ -168,7 +172,9 @@ The M&A pathway becomes insulated from liquidity delays, market risk, and proced
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste.
+## THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste
+
+.
 
 It is the careful management of resources so they serve long horizon objectives instead of short term convenience.
 

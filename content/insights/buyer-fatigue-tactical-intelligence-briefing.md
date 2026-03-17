@@ -122,7 +122,9 @@ True Tactical Intelligence does not “improve the pitch.” It eliminates the s
 
 It reshapes the buyer’s entire decision-making environment. 
 
-## INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture.
+## INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture
+
+.
 
 A Principal does not persuade.
 
@@ -166,7 +168,11 @@ The fatigue dissolves.
 
 But Exit Readiness alone is insufficient.
 
-The second pillar is Off‑Market Origination.
+The second 
+
+# Pillar I: s Off‑Market Origination
+
+.
 
 Tactical Intelligence thrives where noise disappears and alignment accelerates.
 
@@ -174,7 +180,11 @@ Off‑market deal flow gives the buyer what public marketplaces cannot: exclusiv
 
 When both sides enter with pre-aligned expectations, the negotiation becomes structural rather than emotional.
 
-The third pillar is Friction Removal.
+The third 
+
+# Pillar I: s Friction Removal
+
+.
 
 The Analyst Team treats friction as an engineering problem, not a psychological one.
 
@@ -190,7 +200,9 @@ The principal truth stands: fatigue rises in environments where uncertainty comp
 
 Tactical Intelligence restores the ratio. 
 
-## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical section
+## STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical sectio
+
+n
 
 - long-form technical breakdown) The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down.
 
@@ -246,7 +258,9 @@ Buyer fatigue becomes buyer acceleration.
 
 This is where Tactical Intelligence becomes structural, not cosmetic. 
 
-## THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment.
+## THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment
+
+.
 
 The responsibility is singular: create clarity at the earliest possible stage.
 
@@ -284,7 +298,9 @@ Momentum moves deals across the finish line.
 
 A single sentence captures the doctrine: Momentum beats fatigue. 
 
-## THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate.
+## THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate
+
+.
 
 The buyer recalibrates from defensive to evaluative.
 
@@ -300,7 +316,9 @@ Accelerated alignment accelerates commitment.
 
 Commitment is the beginning of the close. 
 
-## THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation.
+## THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation
+
+.
 
 The modern environment demands architecture.
 
@@ -330,13 +348,21 @@ Clarity rescues them.
 
 Architecture multiplies them. 
 
-## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next step is to integrate institutional preparation.
+## THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next
+
+ 
+
+# Step I: s to integrate institutional preparation
+
+.
 
 Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
 
 - a structural reinforcement rather than a substitute. 
 
-## THE FINAL BRIEF Buyer fatigue is not a mood.
+## THE FINAL BRIEF Buyer fatigue is not a mood
+
+.
 
 It is a structural signal.
 
@@ -354,7 +380,11 @@ This is a filtration.
 
 Only the prepared move forward.
 
-If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next step is a tactical consultation.
+If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next 
+
+# Step I: s a tactical consultation
+
+.
 
 Book a tactical consultation
 

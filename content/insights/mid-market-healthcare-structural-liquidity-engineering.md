@@ -18,7 +18,9 @@ This is the misalignment creating a multiyear window for those who can deploy di
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across Europe and North America, mid-market healthcare has entered a new regime.
 
@@ -73,7 +75,9 @@ The operators who recalibrate their balance sheet architecture now will sit in t
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  IN MID MARKET HEALTHCARE The mechanical constraints in healthcare are not conceptual.
 
@@ -209,7 +213,9 @@ Strategic navigation ensures the institutional archetype is correct from the beg
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical.
+## THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical
+
+.
 
 It involves disciplined and transparent management of clinical, human, and financial resources.
 

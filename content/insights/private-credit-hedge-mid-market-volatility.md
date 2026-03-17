@@ -18,7 +18,9 @@ In a fragmented mid market marked by inconsistent data hygiene, uneven governanc
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The mid market has entered a new regime defined by liquidity fragmentation, valuation compression, and episodic volatility across M&A pipelines.
 
@@ -80,7 +82,9 @@ This is the environment where private credit operates as an M&A stabiliser.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Private credit, when structured as a volatility hedge in the M&A cycle, does not behave like traditional acquisition financing.
 
@@ -184,7 +188,9 @@ It also ensures that the private credit instrument serves as a stabiliser rather
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management
+
+.
 
 It aligns with the principle in **Proverbs 13:22
 

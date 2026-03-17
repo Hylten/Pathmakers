@@ -366,7 +366,9 @@ It protects not only the enterprise but the owner’s exit horizon.
 
 It fulfills 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of **Proverbs 13:22
 

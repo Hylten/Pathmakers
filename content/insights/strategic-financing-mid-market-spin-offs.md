@@ -18,7 +18,9 @@ The constraint emerges in the sequencing of liabilities, the construction of rin
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European mid-market corporate architecture has entered a regime defined by an expanding delta between asset quality and capital availability.
 
@@ -48,15 +50,21 @@ The ability to construct a balanced, multi-layered credit architecture tailored 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SPIN-OFF FINANCING Complex spin-offs require a structured sequence of capital interventions that differ materially from traditional buyouts.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not simply to purchase an asset.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to reconstruct an operational identity that has never existed independently.
 
@@ -136,7 +144,9 @@ In high intent transactions, opportunity velocity is often the differentiator be
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than as an asset acquirer.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is institutional alignment, the reduction of execution friction, and the orchestration of introductions between capital providers, operators, and buyers who require a neutral partner capable of structuring multi-lateral transactions.
 
@@ -164,7 +174,9 @@ In this context, the advisory function becomes a form of operational intelligenc
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility.
+## THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility
+
+.
 
 The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience.
 
@@ -212,7 +224,11 @@ They are executed through off-market channels where certainty of execution outwe
 
 This is the environment in which Roials Capital operates: the engineering of pathways where institutional capital can move with clarity, confidence, and operational precision.
 
-For allocators, the next step is a confidential strategy audit focused on portfolio calibration.
+For allocators, the next 
+
+# Step I
+
+s a confidential strategy audit focused on portfolio calibration.
 
 This includes assessing exposure to transitional financing, evaluating opportunities for balance sheet optimization within carve-out structures, and identifying operational assets that match institutional archetypes for low-volatility, high-integrity separation events. [END OF BRIEFING]
 

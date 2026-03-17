@@ -20,13 +20,15 @@ Institutional allocators recognise this, yet the velocity of off balance sheet l
 
 Asset Based Lending fills this gap when structured correctly, particularly for precision infrastructure spin offs that require Institutional Liquidity Paths at the point of separation.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The past three years have reshaped the credit landscape.
 
@@ -62,13 +64,15 @@ The credit cycle forces delays that impact valuations, timing premiums, and inte
 
 These constraints create openings for specialized Asset-Based Lending structures that prioritize collateral integrity, operational continuity, and post spin off independence.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF Asset-Based Lending IN PRECISION INFRASTRUCTURE Asset Based Lending in this ecosystem functions as a stabilizer.
 
@@ -136,7 +140,7 @@ Asset-Based Lending structures facilitate this through:
 
 - Parent liability isolation The result is a precision infrastructure spin off that enters the market with a hardened balance sheet, predictable liquidity runway, and independent credit identity.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -178,7 +182,7 @@ This intelligence is often missing from generic lender models.
 
 Exit Preparation Positioning the spin off for strategic acquirers or private equity groups by demonstrating liquidity stability, predictable asset cycles, and clean separation mechanics.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Precision infrastructure is capital intensive.
 
@@ -202,7 +206,7 @@ In operational terms, stewardship means:
 
 - Aligning capital access with actual workflow patterns Asset-Based Lending, when engineered correctly, supports stewardship by promoting transparent collateral cycles, forcing maintenance accountability, and reinforcing operational discipline.
 
-### Phase V: .
+# Phase V: .
 
 DECISION ARCHITECTURE FOR THE ALLOCATOR Precision infrastructure spin offs present a specific challenge.
 

@@ -24,7 +24,9 @@ Liquidity flows toward businesses engineered to be investable.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The institutional liquidity regime that dominated from 2012 to 2022 was defined by cheap leverage, yield compression, and a behavioral assumption that capital would remain abundant.
 
@@ -70,7 +72,9 @@ It is undercapitalized because institutional friction has intensified.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF INSTITUTIONAL LIQUIDITY Institutional liquidity follows architecture, not intention.
 
@@ -204,7 +208,9 @@ The objective is to render the operator legible to institutional decision framew
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+## THE STEWARDSHIP FILTER Stewardship is not sentiment
+
+.
 
 It is operational ethics applied to capital.
 

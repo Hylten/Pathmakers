@@ -76,7 +76,9 @@ The Pathmaker vantage is simple: you eliminate misalignment at the source or you
 
 There is no middle path. 
 
-## THE SOVEREIGN DYNAMIC Buyers are never buying the past.
+## THE SOVEREIGN DYNAMIC Buyers are never buying the past
+
+.
 
 They tolerate the past.
 
@@ -240,7 +242,9 @@ They buy repeatability.
 
 If your model cannot mathematically demonstrate repeatability without founder‑dependent heroics, you are not Exit Ready. 
 
-## THE ARCHITECTURE OF DEATH: HOW DEALS ACTUALLY DIE Deals rarely die loudly.
+## THE ARCHITECTURE OF DEATH: HOW DEALS ACTUALLY DIE Deals rarely die loudly
+
+.
 
 They die in small, compounding fractures:
 
@@ -266,7 +270,9 @@ Misalignment kills momentum.
 
 Once momentum dies, resurrection is almost impossible. 
 
-## THE PATHMAKER CORRECTION: ARCHITECTURE BEFORE AMMUNITION The solution is not more spreadsheets.
+## THE PATHMAKER CORRECTION: ARCHITECTURE BEFORE AMMUNITION The solution is not more spreadsheets
+
+.
 
 Not more assumptions.
 
@@ -308,7 +314,9 @@ The operator sees strategic inevitability.
 
 This is how true off‑market deal origination emerges: a financial model that signals competence before the first call is ever made. 
 
-## INSIDE THE PATHMAKER PLAYBOOK We operate with a single conviction: models are not documents-they are weapons.
+## INSIDE THE PATHMAKER PLAYBOOK We operate with a single conviction: models are not documents-they are weapons
+
+.
 
 But weapons must be forged correctly:
 
@@ -338,7 +346,9 @@ Momentum accelerates.
 
 The closing becomes the default outcome. 
 
-## THE REASON DEALS GO OFF-MARKET Off‑market is not luck.
+## THE REASON DEALS GO OFF-MARKET Off‑market is not luck
+
+.
 
 Off‑market is design.
 
@@ -362,7 +372,9 @@ Provide clarity.
 
 You get approached, not the other way around. 
 
-## EXIT READINESS AS A SOVEREIGN STATE Exit Readiness is not a moment-it is a posture.
+## EXIT READINESS AS A SOVEREIGN STATE Exit Readiness is not a moment-it is a posture
+
+.
 
 The company must stand in a state of readiness long before external parties appear.
 
@@ -394,7 +406,9 @@ They pay a premium for a machine.
 
 Pathmaker builds machines. 
 
-## SELLERS WHO REFUSE ALIGNMENT Some operators refuse structural correction.
+## SELLERS WHO REFUSE ALIGNMENT Some operators refuse structural correction
+
+.
 
 They cling to legacy logic.
 
@@ -422,7 +436,9 @@ Their own misalignment does.
 
 The model they built became the architect of their failure. 
 
-## THE FEW WHO APPLY CORRECTION Operators who embrace correction win.
+## THE FEW WHO APPLY CORRECTION Operators who embrace correction win
+
+.
 
 Every time.
 
@@ -448,7 +464,9 @@ They create competitive tension instead of absorbing it.
 
 The model becomes a sovereign instrument-a tool of command, not compliance. 
 
-## THE MOMENTUM PRINCIPLE Momentum is the unspoken oxygen of all M&A.
+## THE MOMENTUM PRINCIPLE Momentum is the unspoken oxygen of all M&A
+
+.
 
 Every step either generates or consumes momentum.
 
@@ -462,7 +480,9 @@ The operator who loses momentum loses the deal.
 
 Pathmaker’s function is singular: generate momentum through structural alignment before the market ever evaluates the company. 
 
-## THE PRACTICAL THRESHOLDS OF FIXING THE FRAMEWORK EARLY Mid‑market companies that win follow a consistent pattern:
+## THE PRACTICAL THRESHOLDS OF FIXING THE FRAMEWORK EARLY Mid‑market companies that win follow a consistent pattern
+
+:
 
 - They correct upstream misalignment long before diligence.
 
@@ -480,7 +500,9 @@ This is design, not persuasion.
 
 The operator who designs well closes well. 
 
-## THE PATHMAKER CLOSING ARGUMENT Misaligned financial models do not kill deals because buyers are harsh.
+## THE PATHMAKER CLOSING ARGUMENT Misaligned financial models do not kill deals because buyers are harsh
+
+.
 
 Misaligned models kill deals because they betray a deeper truth: the operator did not understand their own machine.
 

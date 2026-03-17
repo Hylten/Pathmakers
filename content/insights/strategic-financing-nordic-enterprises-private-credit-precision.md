@@ -18,7 +18,9 @@ The resulting delay suppresses deal readiness, stalls M&A execution, and convert
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Nordic credit markets have entered a regime shift defined by three converging dynamics.
 
@@ -54,7 +56,9 @@ This is
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Precision private credit for Nordic operators is defined not by cost of capital but by structural engineering.
 
@@ -154,7 +158,9 @@ Precision private credit reduces time to close, increases strategic optionality,
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction
+
+.
 
 It is an operational discipline.
 

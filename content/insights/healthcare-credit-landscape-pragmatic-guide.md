@@ -34,13 +34,15 @@ The objective is not to promote products.
 
 The objective is to provide the allocator with a precise view of a market defined by capital inefficiency and strategic misalignment, where disciplined structuring consistently outperforms opportunistic posture.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Healthcare credit was historically dominated by regional banks operating with relationship‑lending models.
 
@@ -74,13 +76,15 @@ It is an under‑served market with predictable demand, stable reimbursement fra
 
 Allocators who understand the mechanics of this regime shift can position themselves as stabilizing capital rather than speculative capital.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF HEALTHCARE CREDIT Healthcare is not a single vertical.
 
@@ -160,15 +164,19 @@ Revenue-recognition mismatch Removing these friction points is the core of exit 
 
 Tactical intelligence lies in identifying these friction points early and engineering clarity long before a buyer performs diligence.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator, not a lender, asset originator, or M&A consolidator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not intermediation.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clarity engineering.
 
@@ -194,7 +202,7 @@ In the healthcare domain, the institutional archetype that consistently demonstr
 
 Roials Capital engages these operators only at the strategic‑alignment level, ensuring allocators are presented with accurate operational intelligence rather than filtered commercial narratives.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship in healthcare credit is not an ethical preference.
 
@@ -218,7 +226,7 @@ Allocators who adopt stewardship as an investment philosophy outperform by reduc
 
 * reinforces the principle of long‑term capital continuity, which is an essential anchor in healthcare environments with multi‑year reimbursement dynamics.
 
-### Phase V: .
+# Phase V: .
 
 DECISION-MAKING LENS FOR INSTITUTIONAL ALLOCATORS The healthcare credit landscape is a domain where intelligence outperforms capital and discipline outperforms aggressiveness.
 

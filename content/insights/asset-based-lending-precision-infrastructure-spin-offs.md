@@ -12,13 +12,15 @@ This structural gap determines how mid market infrastructure operators migrate t
 
 In a tight credit cycle, precision infrastructure entities are forced to transition from balance sheet dependency to asset centric capital architectures that reduce financing latency and protect operational continuity.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2023 credit landscape is shaped by four immovable forces that define the new parameters for mid market operators.
 
@@ -46,13 +48,15 @@ Mid market operators face increasing pressure to extract these units, assign sta
 
 This is the origin point for asset based lending in the current cycle.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Asset based lending in precision infrastructure is not a simple matter of collateralized credit access.
 
@@ -114,7 +118,7 @@ A properly structured Asset-Based Lending removes historical entanglements by es
 
 ABLs reduce M and A friction because the target arrives pre organized for institutional underwriting.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator in this environment.
 
@@ -122,7 +126,9 @@ The work is not transactional.
 
 It is structural.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to design pathways that align balance sheets, capital providers, and M and A stakeholders while ensuring that operators maintain continuity.
 
@@ -134,7 +140,7 @@ In high complexity cases, Roials Capital introduces asset oriented private credi
 
 Where energy intersects with infrastructure, our strategic partner NAEO provides operational intelligence relating to field deployment, asset maintenance sequencing, and lifecycle cost analysis that ensures asset pools demonstrate institutional durability.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -158,7 +164,7 @@ This filter rejects extractive short term financing.
 
 It prioritizes capital structures that preserve operational integrity while enabling strategic evolution.
 
-### Phase V: .
+# Phase V: .
 
 DECISION MAKING LENS For allocators, executives, and operators, the governing question is structural alignment.
 

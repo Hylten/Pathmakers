@@ -20,7 +20,9 @@ The resulting valuation compression is predictable, mechanical, and avoidable.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Nordic mid-market companies are operating through an environment where cost of capital recalibration has outpaced organizational adaptation.
 
@@ -68,7 +70,9 @@ Liquidity is migrating toward businesses that operate with transaction grade dis
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF EXIT READINESS Exit readiness is not branding.
 
@@ -176,7 +180,9 @@ It is an alignment of institutional archetypes.
 
  
 
-## THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline.
+## THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline
+
+.
 
 Stewardship is not conservatism.
 

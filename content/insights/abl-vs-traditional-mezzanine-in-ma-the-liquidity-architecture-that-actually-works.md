@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "abl-vs-traditional-mezzanine-in-ma-the-liquidity-architecture-that-actually-works"
 --- 
 
-# Asset-Based Lending vs Traditional Mezzanine in M&A High Net Worth and Ultra High Net Worth investors do not have time for theoretical capital stack arguments.
+# Asset-Based Lending vs Traditional Mezzanine in M&A High Net Worth and Ultra High Net Worth investors do not have time for theoretical capital stack arguments
+
+.
 
 They want clean mechanics.
 
@@ -26,7 +28,9 @@ principal authority.
 
 We engineer liquidity structures that [institutional capital]([Roials Capital](https://roialscapital.com/)) respects, without the noise or posturing that usually comes with mezzanine desks. 
 
-## Why This Comparison Matters Most investors assume mezzanine fills the gap between senior debt and equity.
+## Why This Comparison Matters Most investors assume mezzanine fills the gap between senior debt and equity
+
+.
 
 That may have been true before interest rate volatility and regulatory pressure reshaped the credit markets.
 
@@ -48,7 +52,9 @@ For the investor who values control and liquidity optionality, this shift matter
 
 Deeply. 
 
-## The Nature of Asset-Based Lending in Modern Transactions Asset Based Asset-Backed Frameworks used to be seen as a tool for distressed companies.
+## The Nature of Asset-Based Lending in Modern Transactions Asset Based Asset-Backed Frameworks used to be seen as a tool for distressed companies
+
+.
 
 That assumption is outdated.
 
@@ -80,7 +86,9 @@ Payer lag is normal.
 
 And cash flow predictability is rarely smooth enough to satisfy mezzanine lenders who want formulas instead of facts. 
 
-## The Hard Truth About Traditional Mezzanine Mezzanine capital is marketed as flexible.
+## The Hard Truth About Traditional Mezzanine Mezzanine capital is marketed as flexible
+
+.
 
 In the field it is often the opposite.
 
@@ -108,7 +116,9 @@ HNWI and UHNW investors know that speed and clarity matter more than optics.
 
 This is why they move toward Asset-Based Lending before they ever entertain mezzanine. 
 
-## Liquidity Predictability vs Liquidity Theatre Asset-Based Lending provides liquidity predictability.
+## Liquidity Predictability vs Liquidity Theatre Asset-Based Lending provides liquidity predictability
+
+.
 
 Mezzanine provides liquidity theater.
 
@@ -126,7 +136,11 @@ Theater means:
 
 - Capital that looks flexible on paper.
 
-- Lenders who step in when EBITDA misses guidance by even a small delta.
+- Lenders who 
+
+# Step I: n when EBITDA misses guidance by even a small delta
+
+.
 
 - Forced renegotiations when macro conditions shift.
 
@@ -136,7 +150,9 @@ Institutional partners know the difference.
 
 This is why Asset-Based Lending backed private credit continues to increase its share in M&A structures while mezzanine demand declines. 
 
-## The Asset-Based Lending Advantage in Healthcare Carve Outs Healthcare carve outs are a category of their own.
+## The Asset-Based Lending Advantage in Healthcare Carve Outs Healthcare carve outs are a category of their own
+
+.
 
 They are operationally messy.
 
@@ -158,7 +174,9 @@ Asset-Based Lending lenders know exactly how to model it.
 
 This difference determines the success or failure of many carve out acquisitions. 
 
-## Asset-Based Lending Enhances Optionality for HNWI and UHNW Buyers HNWI and UHNW investors value optionality more than anything.
+## Asset-Based Lending Enhances Optionality for HNWI and UHNW Buyers HNWI and UHNW investors value optionality more than anything
+
+.
 
 Optionality is the ability to restructure quickly.
 
@@ -188,7 +206,9 @@ They prefer long duration and high yield.
 
 That means they oppose early exits, rapid refinancing, or structural upgrades. 
 
-## The Pathmaker Position Pathmaker does not behave like a mezzanine shop.
+## The Pathmaker Position Pathmaker does not behave like a mezzanine shop
+
+.
 
 We are not trying to replicate traditional structures.
 
@@ -212,7 +232,9 @@ These instruments give our clients leverage without compromising control.
 
 They strengthen the capital architecture instead of adding friction to it. 
 
-## Execution Speed and Reliability In M&A, timing is strategic.
+## Execution Speed and Reliability In M&A, timing is strategic
+
+.
 
 If you cannot close, your competition will.
 
@@ -234,7 +256,9 @@ Reality produces faster closes.
 
 Assumptions produce delays. 
 
-## Structural Resilience in Volatile Markets Rates move.
+## Structural Resilience in Volatile Markets Rates move
+
+.
 
 Regulation shifts.
 
@@ -256,7 +280,9 @@ They need liquidity partners who stay predictable.
 
 Pathmaker provides that predictability. 
 
-## The M&A Capital Stack That Actually Works In modern mid market transactions the optimal capital stack is no longer traditional.
+## The M&A Capital Stack That Actually Works In modern mid market transactions the optimal capital stack is no longer traditional
+
+.
 
 It is not about replicating the old senior plus mezzanine plus equity formula.
 
@@ -280,7 +306,9 @@ It maximizes optionality.
 
 It is also the stack Pathmaker architects every day. 
 
-## For Investors Who Value Signal Over Noise The mid market is full of capital providers who want to speak loudly.
+## For Investors Who Value Signal Over Noise The mid market is full of capital providers who want to speak loudly
+
+.
 
 Very few know how to act quietly and execute with consistency.
 

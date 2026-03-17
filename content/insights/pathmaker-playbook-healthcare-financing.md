@@ -128,7 +128,9 @@ The Partnership Model.
 
 Roials Capital operates as a strategic navigator, not as a fund manager or asset owner.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clarity, intelligence, and institutional alignment.
 
@@ -164,7 +166,9 @@ The Pathmaker role ensures that by the time a healthcare platform reaches an acq
 
 This creates competitive tension and increases execution reliability.
 
-### Phase IV: The Stewardship Filter.
+# Phase IV: The Stewardship Filter
+
+.
 
 Stewardship is not philosophical.
 
@@ -194,7 +198,9 @@ It is not a moral accessory.
 
 It is a strategic differentiator.
 
-### Phase V: Decision Architecture for Allocators.
+# Phase V: Decision Architecture for Allocators
+
+.
 
 Institutional allocators evaluating European healthcare platforms require a lens that separates operational noise from structural signal.
 

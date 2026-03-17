@@ -484,9 +484,17 @@ Maintain constant exit-readiness.
 
 This briefing serves as a directive to implement these mandates.
 
-The next phase is tactical.
+The next 
 
-The next step is structural.
+# Phase I: s tactical
+
+.
+
+The next 
+
+# Step I: s structural
+
+.
 
 Book a tactical consultation.
 

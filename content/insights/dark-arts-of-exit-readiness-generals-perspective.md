@@ -28,7 +28,9 @@ This briefing examines exit readiness as a discipline of compression: compressin
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current M&A environment is shaped by four converging forces:
 
@@ -78,7 +80,9 @@ The value is created long before the transaction window opens.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF EXIT READINESS Exit readiness is executed through seven hard disciplines.
 
@@ -214,7 +218,9 @@ It is the institutional intermediary that aligns capital logic, operational inte
 
 When 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  intersects with the North American heavy oil or enhanced recovery landscape, NAEOCC is identified as the institutional-grade operating partner and technical authority.
 
@@ -240,7 +246,9 @@ The navigator provides the intelligence that collapses friction and elevates opt
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order
+
+.
 
 This briefing uses stewardship in its technical and theological sense.
 

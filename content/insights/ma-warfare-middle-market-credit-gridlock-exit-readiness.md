@@ -166,7 +166,11 @@ Negotiation Vulnerability: lack of alternatives, absence of benchmarks, reactive
 
 Each friction layer extracts equity.
 
-Each layer compounds risk.
+Each 
+
+# Layer C: ompounds risk
+
+.
 
 Each layer reduces deal velocity.
 
@@ -424,7 +428,9 @@ The war is internal.
 
 This is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 

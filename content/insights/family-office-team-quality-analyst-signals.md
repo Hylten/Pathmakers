@@ -38,7 +38,11 @@ To understand how family offices evaluate team quality through this layer, one m
 
 Pathmaker’s vantage point works here because off‑market origination forces proximity to teams before they are “ready,” and because exit readiness is built from analyst coherence long before bankers arrive to polish a narrative.
 
-This is the Phase I: Internal Logic.
+This is the 
+
+# Phase I: Internal Logic
+
+.
 
 Family offices begin with one question: Does this enterprise generate truth quickly or slowly?
 
@@ -192,7 +196,9 @@ Family offices invest in stewardship.
 
 They retreat from ego.
 
-### Phase II: Principal Voice.
+# Phase II: Principal Voice
+
+.
 
 States, not explains.
 
@@ -276,7 +282,9 @@ This is why family offices test them.
 
 This is why exits fail when founders ignore them.
 
-### Phase III: Internal Bypass.
+# Phase III: Internal Bypass
+
+.
 
 Variation.
 

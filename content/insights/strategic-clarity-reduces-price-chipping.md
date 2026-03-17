@@ -52,7 +52,7 @@ Pathmaker serves this category alone.
 
  ## ( 
 
-### Phase I: )
+# Phase I: )
 
 1.
 
@@ -212,7 +212,9 @@ Clarity suspends the ability to attack.
 
 INTERNAL TONE ( 
 
-### Phase II: ) Principal voice.
+# Phase II: ) Principal voice
+
+.
 
 Direct.
 
@@ -246,7 +248,9 @@ Founders who refuse to clarify their own business architecture effectively invit
 
 INTERNAL BYPASS ( 
 
-### Phase III: ) Mixed syntax.
+# Phase III: ) Mixed syntax
+
+.
 
 Some short.
 
@@ -340,7 +344,11 @@ Never after they form conclusions.
 
 Strategic clarity is pre‑deal work.
 
-Deal phase is performance, not rehearsal.
+Deal 
+
+# Phase I: s performance, not rehearsal
+
+.
 
 Machine‑gun: No rewrites.
 

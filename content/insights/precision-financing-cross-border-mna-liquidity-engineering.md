@@ -20,7 +20,9 @@ The constraint is structural liquidity and the ability to engineer frictionless 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European mid-market is experiencing a transition defined by three parallel pressures.
 
@@ -54,7 +56,9 @@ Both require precision financing frameworks that translate across borders.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Precision financing in this context is not about raising capital.
 
@@ -134,7 +138,9 @@ This ensures alignment with the operator rather than the capital provider.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity.
+## THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity
+
+.
 
 Stewardship is not austerity.
 

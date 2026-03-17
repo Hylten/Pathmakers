@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
 --- 
 
-# The Role of Asset-Based Lending in Healthcare Carve-Outs Healthcare carve-outs are not theoretical puzzles.
+# The Role of Asset-Based Lending in Healthcare Carve-Outs Healthcare carve-outs are not theoretical puzzles
+
+.
 
 They are operationally dense, politically constrained, and structurally unforgiving transactions that expose weaknesses in balance sheets and capital stacks.
 
@@ -20,7 +22,9 @@ For High Net Worth and Ultra High Net Worth buyers, the question is not whether 
 
 The question is whether anything else does. 
 
-## The Overlooked Advantage: Reimbursement Cycles as Collateral Engines Healthcare receivables confuse lenders who are not fluent in reimbursement mechanics.
+## The Overlooked Advantage: Reimbursement Cycles as Collateral Engines Healthcare receivables confuse lenders who are not fluent in reimbursement mechanics
+
+.
 
 Medicare pays on fixed schedules.
 
@@ -38,7 +42,9 @@ The asset is the payer’s probability of settlement.
 
 This transforms healthcare receivables into a predictable liquidity engine, something carve-out buyers typically underestimate until they face month one payroll pressure. 
 
-## When Private Credit Alone Is Not Enough Private credit is still critical, but in carve-outs it often cannot be the lead instrument.
+## When Private Credit Alone Is Not Enough Private credit is still critical, but in carve-outs it often cannot be the lead instrument
+
+.
 
 Healthcare carve-outs have unpredictable cash burn during transition periods.
 
@@ -58,7 +64,9 @@ This is why Pathmaker lends across both arenas.
 
 We create a dual structure so investors can push forward with cleaner execution and fewer capital‑related bottlenecks. 
 
-## Why HNWI and UHNW Investors Increasingly Prefer Asset-Based Lending Structures Ultra‑affluent investors have learned that healthcare carve-outs can produce outsized returns, but only when liquidity constraints are removed.
+## Why HNWI and UHNW Investors Increasingly Prefer Asset-Based Lending Structures Ultra‑affluent investors have learned that healthcare carve-outs can produce outsized returns, but only when liquidity constraints are removed
+
+.
 
 They do not need romanticized turnarounds.
 
@@ -74,7 +82,9 @@ Resistance to operational noise.
 
 These qualities appeal to private investors who want control without exposing themselves to raw cashflow risk. 
 
-## principal authority in a Sector Full of Noise Healthcare carve-outs attract loud operators.
+## principal authority in a Sector Full of Noise Healthcare carve-outs attract loud operators
+
+.
 
 They promise reinvention, transformation, and disruption.
 
@@ -88,7 +98,9 @@ We do not need credit for the transaction’s narrative.
 
 We simply ensure the deal survives long enough for the narrative to matter. 
 
-## Case Dynamics: What Asset-Based Lending Solves in Real Transactions Asset-Based Lending stabilizes the following carve-out conditions: Vendor payment backlogs that threaten service delivery.
+## Case Dynamics: What Asset-Based Lending Solves in Real Transactions Asset-Based Lending stabilizes the following carve-out conditions: Vendor payment backlogs that threaten service delivery
+
+.
 
 Staffing churn triggered by unclear transition plans.
 
@@ -104,7 +116,9 @@ That creates unnecessary dilution or elevated cost of capital.
 
 With Asset-Based Lending, liquidity is mapped to collateral and released on schedule. 
 
-## The Capital Stack That Wins Mid-Market Healthcare A functional carve-out capital stack generally includes: An asset based Asset-Backed Frameworks facility tied to receivables.
+## The Capital Stack That Wins Mid-Market Healthcare A functional carve-out capital stack generally includes: An asset based Asset-Backed Frameworks facility tied to receivables
+
+.
 
 Targeted private credit for strategic expansion.
 
@@ -122,7 +136,9 @@ Public stock Strategic Collateralization:
 
 We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility. 
 
-## The Misconception: Asset-Based Lending Is Not Only for Distressed Deals Many mid‑market buyers believe Asset-Based Lending signals distress.
+## The Misconception: Asset-Based Lending Is Not Only for Distressed Deals Many mid‑market buyers believe Asset-Based Lending signals distress
+
+.
 
 In healthcare, the opposite is true.
 
@@ -132,7 +148,9 @@ It is a stabilizer, not a distress lever.
 
 It is how professional buyers maintain liquidity discipline without compromising execution. 
 
-## Asset-Based Lending as a Strategic Defense Mechanism Healthcare carve-outs fail when liquidity evaporates during transition.
+## Asset-Based Lending as a Strategic Defense Mechanism Healthcare carve-outs fail when liquidity evaporates during transition
+
+.
 
 Asset-Based Lending is defense against: Revenue disruption.
 
@@ -148,7 +166,9 @@ It is designed to give buyers enough runway to fix it themselves.
 
 That is the pragmatic reality of healthcare carve-outs, and it is a reality Pathmaker structures around every day. 
 
-## Where Pathmaker Fits Pathmaker serves HNWI and UHNW investors who require structural certainty, fast execution, and capital strategies that withstand the turbulence of healthcare carve-outs.
+## Where Pathmaker Fits Pathmaker serves HNWI and UHNW investors who require structural certainty, fast execution, and capital strategies that withstand the turbulence of healthcare carve-outs
+
+.
 
 We lend against private credit instruments.
 
@@ -158,7 +178,9 @@ We structure collateralized solutions for crypto and public equities at institut
 
 We operate quietly, as the structural authority behind the scenes, delivering liquidity mechanics that allow investors to move with institutional force. 
 
-## The Real Lesson: Liquidity Determines Survivors In healthcare carve-outs, operational excellence matters.
+## The Real Lesson: Liquidity Determines Survivors In healthcare carve-outs, operational excellence matters
+
+.
 
 But liquidity matters more.
 
@@ -168,7 +190,9 @@ Asset-Based Lending is the difference between investors who endure the transitio
 
 It is the only structure that consistently holds under mid‑market healthcare volatility. 
 
-## Final Thought Healthcare carve-outs reward disciplined operators who understand that capital architecture is not an afterthought.
+## Final Thought Healthcare carve-outs reward disciplined operators who understand that capital architecture is not an afterthought
+
+.
 
 It is the foundation.
 

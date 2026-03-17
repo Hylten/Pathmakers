@@ -18,7 +18,9 @@ Buyers who understand this structural inefficiency can navigate carve-outs with 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European and North American middle market corporate environments face a synchronized pressure pattern.
 
@@ -56,7 +58,9 @@ This creates a repeatable path for disciplined buyers who understand the mechani
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CARVE-OUT EXECUTION Effective carve-out execution depends on precision across four technical domains: commercial stabilization, functional separation, Institutional Liquidity Paths, and post-close operational uplift.
 
@@ -168,7 +172,9 @@ It also ensures that carve-out candidates are filtered through a high-grade oper
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in the carve-out context represents disciplined resource management.
+## THE STEWARDSHIP FILTER Stewardship in the carve-out context represents disciplined resource management
+
+.
 
 Divisions inside corporate parents often suffer from misalignment between their operational potential and the parent’s strategic priorities.
 

@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "pe-trench-report-why-healthcare-deals-collapse-in"
 --- 
 
-# PE Trench Report.
+# PE Trench Report
+
+.
 
 Why Healthcare Deals Collapse in 2026 Healthcare should be the most stable corridor in the mid-market.
 
@@ -38,7 +40,9 @@ Why it breaks.
 
 And what must be hardened before a GP will take the asset to committee. 
 
-## The Structural Reality of 2026 Healthcare sits at the intersection of compliance volatility, wage compression, payer unpredictability, and digital fragmentation.
+## The Structural Reality of 2026 Healthcare sits at the intersection of compliance volatility, wage compression, payer unpredictability, and digital fragmentation
+
+.
 
 This year intensifies all four pressures.
 
@@ -59,14 +63,15 @@ It is not cyclical.
 
 It is structural. 
 
-## Why Deals Collapse.
+## Why Deals Collapse
+
+.
 
 The Core Failure Nodes The following failure points account for more than 
 
 80 percent of collapsed healthcare transactions this year.
 
-Each point below is presented in operational terms used inside institutional IC meetings. ## 
-
+Each point below is presented in operational terms used inside institutional IC meetings. 
 1.
 
 Hidden Regulatory Exposure The most common collapse point.
@@ -91,8 +96,7 @@ For GPs, regulatory opacity is a hard stop.
 
 Not a price reduction.
 
-A stop. ## 
-
+A stop. 
 2.
 
 Contract Fragility with Payers and Referrers Revenue concentration is not inherently disqualifying.
@@ -109,8 +113,7 @@ Collapse drivers include:
 
 GPs require resilient revenue channels.
 
-Not personality-driven pipelines. ## 
-
+Not personality-driven pipelines. 
 3.
 
 Wage Compression and Labor Instability Healthcare labor is no longer a soft variable.
@@ -135,8 +138,7 @@ Buyers know labor is the decisive operational pressure point in
 
 2026.
 
-If it is not structurally hardened, the deal collapses. ## 
-
+If it is not structurally hardened, the deal collapses. 
 4.
 
 Absence of Technology Integration This is not about digital transformation.
@@ -155,8 +157,7 @@ Healthcare assets increasingly fail diligence due to:
 
 Buyers do not acquire chaos.
 
-They acquire systems. ## 
-
+They acquire systems. 
 5.
 
 Founder Dependency Masked as Leadership Strength This collapse point is accelerating.
@@ -177,8 +178,7 @@ Signals include:
 
 Succession is not a conceptual concern.
 
-It is a measurable operational threat. ## 
-
+It is a measurable operational threat. 
 6.
 
 Poor Quality of Earnings Architecture Not the QofE itself.
@@ -197,8 +197,7 @@ Broken deals often originate from:
 
 Buyers do not negotiate faith based numbers.
 
-They require covenant proof. ## 
-
+They require covenant proof. 
 7.
 
 Incomplete Clinical Risk Controls This is specific to healthcare.
@@ -219,8 +218,7 @@ Indicators of collapse risk:
 
 - Insurance coverage that does not align with operational reality.
 
-When clinical exposure cannot be quantified, the deal dies instantly. ## 
-
+When clinical exposure cannot be quantified, the deal dies instantly. 
 8.
 
 Broken Data Rooms and Diligence Bottlenecks The transaction process itself exposes operational maturity.
@@ -239,8 +237,7 @@ GPs interpret this as execution risk.
 
 Execution risk reduces velocity.
 
-Reduced velocity kills deals. ## 
-
+Reduced velocity kills deals. 
 9.
 
 Unrealistic Founder Expectations on Control and Continuity Many founders simultaneously want:
@@ -257,8 +254,7 @@ This is incompatible with GP mandates.
 
 Institutional buyers purchase control.
 
-Not compromise. ## 
-
+Not compromise. 
 10.
 
 Failure to Demonstrate Exit Readiness Exit readiness is not a pitch deck.
@@ -281,7 +277,9 @@ GPs do not want to steer a drifting vessel.
 
 They want an asset already moving with purpose. 
 
-## Why These Failures Intensify in 2026 Three macro forces: 
+## Why These Failures Intensify in 2026 Three macro forces:
+
+ 
 
 1.
 
@@ -309,7 +307,9 @@ Mid-market founders respond by hoping the standards revert.
 
 They will not revert. 
 
-## Where Sellers Misread Buyers Founders think GPs want perfection.
+## Where Sellers Misread Buyers Founders think GPs want perfection
+
+.
 
 GPs want predictability.
 
@@ -325,7 +325,9 @@ Buyers are not looking for charisma.
 
 They are looking for covenant stewardship. 
 
-## The Pathmaker Lens: What Institutional Buyers Actually Want From the GP perspective, mid-market healthcare assets must exhibit:
+## The Pathmaker Lens: What Institutional Buyers Actually Want From the GP perspective, mid-market healthcare assets must exhibit
+
+:
 
 - Replicable systems.
 
@@ -349,7 +351,9 @@ This is the only path to institutional acquisition in
 
 2026. 
 
-## The Role of Tactical Intelligence Healthcare deals collapse when a founder steps into a negotiation without battlefield intelligence.
+## The Role of Tactical Intelligence Healthcare deals collapse when a founder steps into a negotiation without battlefield intelligence
+
+.
 
 Tactical Intelligence prevents collapse by:
 
@@ -367,7 +371,9 @@ This is not cosmetic.
 
 It is surgical. 
 
-## Six Mandates for Founders Preparing for a 2026 Exit Below are the Pathmaker mandates.
+## Six Mandates for Founders Preparing for a 2026 Exit Below are the Pathmaker mandates
+
+.
 
 Not advice.
 
@@ -401,7 +407,9 @@ These six mandates eliminate
 
 90 percent of collapse risk. 
 
-## Why Most Advisors Cannot Deliver This Level of Hardening Traditional advisors operate as service providers.
+## Why Most Advisors Cannot Deliver This Level of Hardening Traditional advisors operate as service providers
+
+.
 
 Healthcare M and A in 2026 requires a principal.
 
@@ -415,7 +423,9 @@ Tactical Intelligence is not a back office service.
 
 It is a forward operating unit. 
 
-## For HNWI and UHNW Clients Many private investors participate in healthcare deals through co investment or direct acquisition.
+## For HNWI and UHNW Clients Many private investors participate in healthcare deals through co investment or direct acquisition
+
+.
 
 Their risk profile is shaped by:
 
@@ -431,7 +441,9 @@ HNWI and UHNW investors require institutional grade intelligence to avoid steppi
 
 Pathmaker provides that intelligence. 
 
-## The Liquidity Perspective Private credit remains active but selective.
+## The Liquidity Perspective Private credit remains active but selective
+
+.
 
 Thresholds:
 
@@ -453,7 +465,9 @@ Investors understand this.
 
 Operators often do not. 
 
-## Why Founders Need Pre Diligence Pre diligence is not optional for healthcare transactions in 
+## Why Founders Need Pre Diligence Pre diligence is not optional for healthcare transactions in
+
+ 
 
 2026.
 
@@ -471,7 +485,9 @@ Pathmaker’s pre diligence framework is engineered to expose every weakness bef
 
 This prevents collapse. 
 
-## The Final Intelligence Layer: Execution Velocity Velocity distinguishes institutional grade assets from founder dependent operators.
+## The Final Intelligence Layer: Execution Velocity Velocity distinguishes institutional grade assets from founder dependent operators
+
+.
 
 Velocity is the ability to:
 
@@ -489,7 +505,9 @@ Operational maturity commands a premium.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  .
 
@@ -507,7 +525,9 @@ The difference is structural.
 
 And structural differences decide outcomes. 
 
-## Strategic Continuation If you are preparing a healthcare asset for acquisition or evaluating one for investment, you require principal grade intelligence.
+## Strategic Continuation If you are preparing a healthcare asset for acquisition or evaluating one for investment, you require principal grade intelligence
+
+.
 
 Book a strategic consultation.
 

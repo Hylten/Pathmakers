@@ -18,7 +18,9 @@ It is a precision tool that alters the velocity, predictability, and durability 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post Basel regime has created a predictable imbalance.
 
@@ -56,7 +58,9 @@ This is the climate in which operational resilience becomes a strategic currency
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Private credit, applied with institutional discipline, provides functional advantages that extend beyond financing.
 
@@ -140,11 +144,15 @@ Private credit converts operational uncertainty into structured visibility.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator focused on institutional alignment, technical filtration, and partner selection.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to sell capital.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to map operators, allocators, and credit structures in a way that reduces friction and elevates operational coherence.
 
@@ -168,7 +176,9 @@ This reduces negotiation drag, eliminates documentation drift, and aligns incent
 
  
 
-## THE STEWARDSHIP FILTER Operational resilience is not a financial tactic.
+## THE STEWARDSHIP FILTER Operational resilience is not a financial tactic
+
+.
 
 It is a stewardship discipline.
 

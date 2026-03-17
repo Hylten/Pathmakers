@@ -18,7 +18,9 @@ This gap has created a persistent pricing arbitrage where assets with institutio
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European healthcare has shifted from capacity-driven growth to precision consolidation.
 
@@ -66,7 +68,9 @@ Operators who do not eliminate that friction remain invisible to strategic buyer
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF HEALTHCARE M&A EXECUTION Healthcare M&A does not behave like general corporate acquisitions.
 
@@ -276,7 +280,9 @@ OFF-MARKET STRATEGIC
 
  
 
-## INTRODUCTION
+## INTRODUCTIO
+
+N
 
  S Institutional buyers prefer calibrated introductions that reduce noise and minimize competitive dilution.
 
@@ -316,7 +322,9 @@ Operators who cannot harmonize cross-border fundamentals are perceived as higher
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral overlay.
+## THE STEWARDSHIP FILTER Stewardship is not a moral overlay
+
+.
 
 It is a capital discipline that prevents decay. **Proverbs 13:22
 
@@ -384,9 +392,17 @@ For allocators, the lens focuses on:
 
 - Cultural and regulatory compatibility.
 
-The next step is not deal execution.
+The next 
 
-The next step is a Confidential Strategy Audit focused on operational calibration, risk mapping, and institutional alignment.
+# Step I: s not deal execution
+
+.
+
+The next 
+
+# Step I
+
+s a Confidential Strategy Audit focused on operational calibration, risk mapping, and institutional alignment.
 
 Precision is the determinant variable.
 

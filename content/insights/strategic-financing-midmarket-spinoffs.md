@@ -12,13 +12,15 @@ This vacuum accelerates as institutional credit remains rigid, sponsor appetite 
 
 The resulting mispricing represents a persistent arbitrage for allocators and strategic operators capable of absorbing transitional friction through disciplined liquidity engineering and balance sheet optimization.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The mid-market M&A environment has entered a regime defined by structural uncertainty instead of cyclical volatility.
 
@@ -46,13 +48,15 @@ This is the point of departure for strategic financing of spin-offs: complexity 
 
 It is an asset when correctly isolated, risk-weighted, and structured.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MID-MARKET SPIN-OFF FINANCING Complex spin-offs operate under structural constraints that differ materially from standard M&A.
 
@@ -142,7 +146,7 @@ Institutionally aligned structures use:
 
 When these mechanisms are deployed systematically, spin-off financing becomes a solvable engineering problem rather than a distressed scenario.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital positions itself as a strategic navigator for stakeholders involved in complex mid-market separations.
 
@@ -190,7 +194,7 @@ NAEO alignment where energy assets are involved If the spin-off touches the Nort
 
 This ensures technical risk is absorbed by an institutional-grade partner with operational authority.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operational resources, and transitional complexity without waste.
 
@@ -222,7 +226,7 @@ Moral stewardship Stewardship originates in the principle articulated in **Prove
 
 In practice, this means structuring separations that ensure continuity, clarity, and long-term resilience rather than short-term cosmetic gains.
 
-### Phase V: .
+# Phase V: .
 
 ALLOCATOR DECISION LENS AND PORTFOLIO CALIBRATION Complex spin-offs require allocators to adopt an institutional archetype that values structural realism over narrative momentum.
 

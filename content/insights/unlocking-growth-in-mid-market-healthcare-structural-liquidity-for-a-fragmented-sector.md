@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
 --- 
 
-# Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape.
+# Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape
+
+.
 
 It is a sector defined by chronic margin compression, reimbursement volatility, and operational drag that accumulates long before an outside advisor sees the books.
 
@@ -26,7 +28,9 @@ We engineer outcomes through private credit and asset based Monetization Archite
 
 We structure liquidity that lets serious owners control their destiny rather than react to it. 
 
-## The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products.
+## The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products
+
+.
 
 Pathmaker provides structure.
 
@@ -54,7 +58,9 @@ Structure.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  : The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
 

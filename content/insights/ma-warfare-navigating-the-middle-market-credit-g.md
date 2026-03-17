@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "ma-warfare-navigating-the-middle-market-credit-g"
 --- 
 
-# M&A Warfare.
+# M&A Warfare
+
+.
 
 Commanding the Middle-Market Credit Gap The middle market is no longer a marketplace.
 
@@ -58,7 +60,9 @@ White space to allow the mind to maneuver.
 
 Read it as a field manual. 
 
-## The Middle-Market Credit Gap The credit gap emerged from three converging forces.
+## The Middle-Market Credit Gap The credit gap emerged from three converging forces
+
+.
 
 Bank withdrawal.
 
@@ -98,7 +102,9 @@ For the unprepared owner, the gap becomes a permanent condition.
 
 For the disciplined owner, it becomes an arbitrage. 
 
-## Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic.
+## Asset Hardening in a Credit-Starved Environment Asset hardening is not cosmetic
+
+.
 
 It is structural.
 
@@ -146,7 +152,9 @@ Hardening transforms the business from personality risk to covenant strength.
 
 This is the foundation for credible acquisition. 
 
-## The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance.
+## The Strategic Importance of Covenant Stewardship Covenant Stewardship is not legal compliance
+
+.
 
 It is leadership discipline.
 
@@ -180,7 +188,9 @@ Stewardship is therefore not a moral luxury.
 
 It is an economic necessity. 
 
-## Execution Velocity as a Competitive Weapon The middle market suffers from inertia.
+## Execution Velocity as a Competitive Weapon The middle market suffers from inertia
+
+.
 
 Owners know changes are needed.
 
@@ -216,7 +226,9 @@ Velocity signals competence.
 
 Competence increases valuation. 
 
-## Tactical Intelligence for M&A Friction M&A friction arises from asymmetry.
+## Tactical Intelligence for M&A Friction M&A friction arises from asymmetry
+
+.
 
 Buyers know exactly what they are looking for.
 
@@ -250,7 +262,9 @@ Friction resolved pre-deal increases exit certainty.
 
 Friction ignored becomes buyer leverage. 
 
-## Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize.
+## Why the Middle Market Will Not Return to Old Credit Norms Many owners still wait for credit conditions to normalize
+
+.
 
 This belief has no basis.
 
@@ -278,7 +292,9 @@ The solution is adaptation.
 
 Not optimism. 
 
-## Private Credit as the New Strategic Ally Private credit is not an alternative capital source.
+## Private Credit as the New Strategic Ally Private credit is not an alternative capital source
+
+.
 
 It is the new backbone of mid-market liquidity.
 
@@ -304,7 +320,9 @@ Owners who understand this channel accelerate growth, acquisition, and exit read
 
 Owners who do not understand it remain constrained by outdated expectations. 
 
-## Intelligence for GP-Grade Exit Readiness GPs acquire clarity.
+## Intelligence for GP-Grade Exit Readiness GPs acquire clarity
+
+.
 
 They avoid complexity.
 
@@ -332,7 +350,9 @@ Sellers who resist them receive conditional offers at discounted valuations.
 
 Exit readiness is achieved through discipline, not hope. 
 
-## The War for Middle-Market Liquidity Liquidity is terrain.
+## The War for Middle-Market Liquidity Liquidity is terrain
+
+.
 
 He who controls liquidity controls timing.
 
@@ -356,7 +376,9 @@ When these elements exist, liquidity moves quickly.
 
 When they do not, liquidity evaporates. 
 
-## Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate.
+## Pathmaker as a Battlefield Architect Pathmaker operates where most advisory firms hesitate
+
+.
 
 We enter the company before it is comfortable.
 
@@ -390,7 +412,9 @@ Not cosmetic improvements.
 
 Structural alignment. 
 
-## Crossing the Credit Gap The credit gap is not crossed through optimism.
+## Crossing the Credit Gap The credit gap is not crossed through optimism
+
+.
 
 It is crossed through readiness.
 
@@ -412,7 +436,9 @@ It opens relationships with private credit providers who operate at velocity tha
 
 The gap becomes an advantage. 
 
-## Final Directive The middle market is entering a new era.
+## Final Directive The middle market is entering a new era
+
+.
 
 Credit scarcity rewards structure.
 

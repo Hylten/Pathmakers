@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "operational-resilience-through-strategic-financing"
 --- 
 
-# Operational Resilience Through Strategic Financing Operational resilience is not built through optimism.
+# Operational Resilience Through Strategic Financing Operational resilience is not built through optimism
+
+.
 
 It is built through liquidity.
 
@@ -24,7 +26,9 @@ Nothing romanticized.
 
 Only what works. 
 
-## Building a Liquidity Stack That Can Absorb Shock Operational resilience comes from stacking complementary financing mechanisms rather than relying on a single source.
+## Building a Liquidity Stack That Can Absorb Shock Operational resilience comes from stacking complementary financing mechanisms rather than relying on a single source
+
+.
 
 A resilient liquidity stack includes: Private credit backed liquidity for speed.
 
@@ -38,7 +42,9 @@ This is the model used by sophisticated operators across private equity, healthc
 
 HNWI and UHNW investors who adopt this structure gain the same resilience advantages without needing to operate as a fund. 
 
-## The Future of Resilient Finance Markets are not becoming calmer.
+## The Future of Resilient Finance Markets are not becoming calmer
+
+.
 
 They are becoming structurally more volatile.
 

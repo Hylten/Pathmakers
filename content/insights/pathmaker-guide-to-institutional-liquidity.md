@@ -10,7 +10,9 @@ slug: "pathmaker-guide-to-institutional-liquidity"
 
  
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  Institutional liquidity does not emerge from market momentum or capital supply cycles.
 
@@ -70,7 +72,9 @@ It is a design requirement that determines velocity, resilience, and exit predic
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  [Capital Structuring]([Roials Capital](https://roialscapital.com/)) relies on precise mechanical interactions between collateral valuation models, capital efficiency structures, and timing windows.
 
@@ -315,7 +319,9 @@ This is institutional autonomy.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  The Pathmaker Guide to Institutional Liquidity establishes one foundational truth.
 

@@ -26,7 +26,9 @@ The new playbook is designed to erase it.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Nordic M&A has transitioned from a valuation driven regime to a readiness driven regime.
 
@@ -80,7 +82,9 @@ The new M&A playbook is built on eliminating these points of uncertainty prior t
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CROSS BORDER TRANSACTION FRICTION Cross border M&A success is determined by mechanics, not narrative.
 
@@ -212,7 +216,9 @@ It is about creating precision.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value
+
+.
 
 Nordic companies have historically operated with conservative capital cultures, focusing on reinvestment and operational stability.
 

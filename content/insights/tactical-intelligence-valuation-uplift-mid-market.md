@@ -26,7 +26,9 @@ And the founders who embrace this architecture consistently walk into the exit p
 
  
 
-## We begin where most sellers never look: the design of the information surface itself.
+## We begin where most sellers never look: the design of the information surface itself
+
+.
 
 Mid‑market valuations collapse not because the business is weak, but because the buyer’s due diligence uncovers friction the seller could have neutralized months earlier.
 
@@ -42,11 +44,11 @@ Three domains consistently show the highest uplift effect:
 
 Operational Transparency
 
-### Layer II: .
+# Layer II: .
 
 Financial Coherence
 
-### Layer III: .
+# Layer III: .
 
 Forward Narrative Layer Together they form the exit readiness spine.
 
@@ -64,7 +66,11 @@ Control the narrative.
 
 Control the valuation dynamic.
 
-But the execution requires disciplined architecture. ,-,-,.--,-,-.,-,-, Operational Transparency Layer Machine‑gun clarity first: Buyers hate guessing.
+But the execution requires disciplined architecture. ,-,-,.--,-,-.,-,-, Operational Transparency 
+
+# Layer M: achine‑gun clarity first: Buyers hate guessing
+
+.
 
 They hate missing data.
 

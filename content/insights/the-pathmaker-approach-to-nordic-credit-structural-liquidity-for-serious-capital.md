@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-pathmaker-approach-to-nordic-credit-structural-liquidity-for-serious-capital"
 --- 
 
-# The Pathmaker Approach to Nordic Credit Nordic private credit is no longer a boutique side lane of European finance.
+# The Pathmaker Approach to Nordic Credit Nordic private credit is no longer a boutique side lane of European finance
+
+.
 
 It has become a structural pillar for mid market M and A, for healthcare carve outs, and for the increasingly collateral driven liquidity needs of sophisticated investors.
 

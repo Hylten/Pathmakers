@@ -30,7 +30,9 @@ This is the precise locus where modern Institutional Liquidity Paths creates adv
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The present M&A regime is defined by four convergent forces. 
 
@@ -86,7 +88,9 @@ The Pathmaker model exists to convert this imbalance into clarity and alignment.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The Pathmaker Vision is not a marketing philosophy.
 
@@ -200,7 +204,9 @@ Each partner plays a defined role within the institutional ecosystem.
 
  
 
-## THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline.
+## THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline
+
+.
 
 Stewardship focuses on responsible management of enterprise value, clarity of succession, and the non wasteful handling of opportunities that have taken decades to build.
 

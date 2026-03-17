@@ -24,7 +24,9 @@ It requires balance sheet simplification, asset hardening, and the removal of M&
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Europe, the Nordics, and the DACH region entered 2026 with a convergence of regulatory, demographic, and credit market dynamics that amplified the stress on healthcare operators:
 
@@ -54,7 +56,9 @@ The allocator that understands this shift gains access to off market opportuniti
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF HEALTHCARE ASSET BASED Capital Structuring Healthcare operations are asset rich but liquidity poor.
 
@@ -82,7 +86,11 @@ Working Capital Precision Engineering
 
 4.
 
-Exit Architecture Alignment Each pillar is described with technical specificity. 
+Exit Architecture Alignment Each 
+
+# Pillar I: s described with technical specificity
+
+.
 
 1.
 
@@ -198,7 +206,9 @@ Institutional alignment is engineered before capital engagement, which preserves
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the disciplined management of assets, capital, and operational integrity.
+## THE STEWARDSHIP FILTER Stewardship is the disciplined management of assets, capital, and operational integrity
+
+.
 
 Within healthcare, stewardship carries heightened responsibility due to the mission critical nature of the services delivered.
 

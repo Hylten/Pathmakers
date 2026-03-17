@@ -28,7 +28,9 @@ It is written from the vantage point of The General, with the conviction and cla
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The healthcare sector across Europe has entered a capital constrained environment driven by four macro forces: 
 
@@ -74,7 +76,9 @@ This is the domain where hybrid collateral frameworks have emerged as a decisive
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF HYBRID COLLATERAL STRUCTURES Hybrid collateral in healthcare carve-outs is not a deviation from credit discipline.
 
@@ -210,7 +214,9 @@ By establishing clarity early in the process, acquirers reduce diligence cycles 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste
+
+.
 
 In healthcare carve-outs, this principle holds both moral and operational weight.
 

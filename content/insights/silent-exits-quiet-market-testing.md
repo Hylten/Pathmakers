@@ -42,7 +42,7 @@ That is the operating field.
 
 What follows is the internal brief-the structural view of why silent exits are surging and how they now function as the dominant path to exit readiness and off‑market origination. 
 
- ##
+ 
 
 - PRIVATE BRIEFING Begin with this: the market is fatigued by over‑orchestrated M&A.
 
@@ -218,7 +218,9 @@ Silent exits are the only system that aligns all four.
 
  
 
-## THE INTERNAL FIELD GUIDE
+## THE INTERNAL FIELD GUID
+
+E
 
 - HOW A SILENT EXIT ACTUALLY FUNCTIONS Step One: Build the shadow profile Not anonymous.
 

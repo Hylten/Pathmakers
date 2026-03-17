@@ -34,7 +34,9 @@ We begin.
 
  ## ( 
 
-### Phase I: ): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
+# Phase I
+
+): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
 
 It happened through the erosion of trust.
 
@@ -100,7 +102,9 @@ Off‑market alternatives emerged not as innovation, but as correction.
 
 INTERNAL TONE ( 
 
-### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity.
+# Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity
+
+.
 
 Off‑market is not secrecy.
 
@@ -154,7 +158,9 @@ Exit readiness is a posture.
 
 INTERNAL BYPASS ( 
 
-### Phase III: ): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
+# Phase II: I
+
+): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
 
 By pushing twenty to fifty buyers into the top of the funnel, the advisor introduces the single greatest source of execution risk: heterogeneity of intent.
 
@@ -366,7 +372,9 @@ The architecture determines the path.
 
 CLOSING 
 
-## ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted.
+## ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted
+
+.
 
 Permanently.
 

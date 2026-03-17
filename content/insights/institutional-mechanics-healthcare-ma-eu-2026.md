@@ -506,7 +506,9 @@ They act with structural clarity.
 
 For platforms preparing to exit, 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: become institutionally undeniable.
 

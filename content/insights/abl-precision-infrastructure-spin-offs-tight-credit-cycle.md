@@ -20,7 +20,9 @@ It is a separation technology.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The present credit cycle is not a symmetric slowdown.
 
@@ -66,7 +68,9 @@ The spin off has become a requirement rather than a strategic option.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The precision infrastructure segment, spanning utilities maintenance, telecom fiber deployment, specialty construction services, and industrial diagnostics, exhibits a unique capital profile.
 
@@ -166,7 +170,9 @@ The role is to ensure the separation process aligns with the standards instituti
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation.
+## THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation
+
+.
 
 The precision infrastructure sector reflects this ethos.
 

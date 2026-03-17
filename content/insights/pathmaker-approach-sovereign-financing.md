@@ -20,7 +20,9 @@ The methodology focuses on institutional readiness, operational maturity, and th
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The modern capital ecosystem has entered a regime where allocators face three structural conditions that cannot be ignored if sovereign alignment is the objective.
 
@@ -60,11 +62,17 @@ It is the architecture that converts privately held assets into institutionally 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE PATHMAKER APPROACH The Pathmaker methodology is built around structural clarity.
 
-Every step is designed to meet the institutional threshold required by sovereign entities, private credit platforms, and major family office consortiums.
+Every 
+
+# Step I
+
+s designed to meet the institutional threshold required by sovereign entities, private credit platforms, and major family office consortiums.
 
 The mechanics are divided into four operational pillars. 
 
@@ -140,7 +148,9 @@ Only structural navigation.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral concept.
+## THE STEWARDSHIP FILTER Stewardship is not a moral concept
+
+.
 
 It is a capital discipline rooted in resource non wastefulness.
 
@@ -180,7 +190,11 @@ It is architectural.
 
 It ensures that the allocator can operate without unnecessary friction, without regulatory uncertainty, and without the structural inefficiencies that restrict access to meaningful capital.
 
-The next phase is a confidential strategy audit designed to identify structural constraints, assess institutional readiness, and map the allocator's existing position against sovereign financing thresholds.
+The next 
+
+# Phase I
+
+s a confidential strategy audit designed to identify structural constraints, assess institutional readiness, and map the allocator's existing position against sovereign financing thresholds.
 
 This creates a calibrated pathway for capital alignment without promotional engagement and without speculative projections.
 

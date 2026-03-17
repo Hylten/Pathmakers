@@ -10,7 +10,11 @@ Proactive diligence changes the power dynamic.
 
 Founders who prepare first dictate the frame.
 
-Buyers step into their structure, not the other way around.
+Buyers 
+
+# Step I: nto their structure, not the other way around
+
+.
 
 That is the quiet truth of the mid‑market.
 
@@ -38,7 +42,9 @@ This is the analyst briefing on how that advantage is constructed.
 
  ( 
 
-### Phase I: ) Private-structural-unfiltered.
+# Phase I: ) Private-structural-unfiltered
+
+.
 
 The mid‑market is undergoing a fundamental shift.
 
@@ -78,7 +84,9 @@ It is a sovereign rearrangement of the deal physics.
 
 And only a few founders understand its power. 
 
-## THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON 
+## THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
+
+ 
 
 1.
 
@@ -122,7 +130,9 @@ That posture attracts better buyers, creates off‑market visibility, and compre
 
 It is the new competitive frontier. 
 
-## ARCHITECTURE: THE THREE CORE PILLARS OF PROACTIVE SELL‑SIDE DILIGENCE Pillar One: Financial Precision Pillar Two: Operational Transparency Pillar Three: Commercial Predictability Each compounding the next.
+## ARCHITECTURE: THE THREE CORE PILLARS OF PROACTIVE SELL‑SIDE DILIGENCE Pillar One: Financial Precision Pillar Two: Operational Transparency Pillar Three: Commercial Predictability Each compounding the next
+
+.
 
 Each reducing noise.
 
@@ -233,7 +243,9 @@ It is the promise of continuity.
 
 The moment the buyer believes continuity exists, the negotiation shifts in the founder’s favor. 
 
-## THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places: 
+## THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places:
+
+ 
 
 1.
 
@@ -317,7 +329,9 @@ They close with certainty.
 
 This is the profile of the modern mid‑market seller. 
 
-## WHY AI FIRST FOUNDERS ARE ACCELERATING THIS TREND AI does not replace diligence.
+## WHY AI FIRST FOUNDERS ARE ACCELERATING THIS TREND AI does not replace diligence
+
+.
 
 AI replaces the latency around diligence.
 
@@ -349,7 +363,9 @@ Buyers reward readiness.
 
 Buyers reward founders who behave like sellers long before they sell. 
 
-## THE PRINCIPAL TRUTH A founder who operates in disarray presents disarray.
+## THE PRINCIPAL TRUTH A founder who operates in disarray presents disarray
+
+.
 
 A founder who operates in order presents value.
 
@@ -359,7 +375,9 @@ Competition creates price.
 
 Proactive diligence is the architecture behind that competition. 
 
-## THE PATHMAKER POSTURE We operate on the side of founders who want to prepare, not react.
+## THE PATHMAKER POSTURE We operate on the side of founders who want to prepare, not react
+
+.
 
 We work with those who want off‑market options, not auctions.
 

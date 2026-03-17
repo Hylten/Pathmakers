@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
 --- 
 
-# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy.
+# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy
+
+.
 
 They demand liquidity, precision, and a lender that understands the operational grind behind carve outs, distressed but functioning assets, and transactions that sit just outside the comfort zone of institutional credit committees.
 
@@ -24,7 +26,9 @@ We focus on the borrowers who know the difference.
 
 This is where high net worth and ultra high net worth clients operate when they need real liquidity, not theoretical options or advisor‑deck optimism. 
 
-## The Reality of Mid Market Liquidity Mid market M and A, especially in healthcare carve outs, rarely fits neatly inside legacy underwriting frameworks.
+## The Reality of Mid Market Liquidity Mid market M and A, especially in healthcare carve outs, rarely fits neatly inside legacy underwriting frameworks
+
+.
 
 Reimbursement cycles shift.
 
@@ -46,7 +50,9 @@ We do not rely on hope as a strategy.
 
 We analyze assets, determine lendable value, and deploy capital with structural discipline. 
 
-## Private Credit and Asset-Based Lending: The Structural Foundation Pathmaker begins with private credit and classical asset based Strategic Collateralization because these remain the most grounded forms of collateralized finance.
+## Private Credit and Asset-Based Lending: The Structural Foundation Pathmaker begins with private credit and classical asset based Strategic Collateralization because these remain the most grounded forms of collateralized finance
+
+.
 
 Inventory.
 
@@ -78,7 +84,9 @@ We calibrate.
 
 We deliver liquidity. 
 
-## Why Digital Asset Institutional Liquidity Paths Belongs in Institutional Structures Digital assets have matured into a legitimate collateral class.
+## Why Digital Asset Institutional Liquidity Paths Belongs in Institutional Structures Digital assets have matured into a legitimate collateral class
+
+.
 
 But they require discipline, transparency, and underwriting that respects volatility instead of fearing it.
 
@@ -110,7 +118,9 @@ Not a novelty.
 
 Not a marketing hook. 
 
-## Public Share Monetization Architecture as a Strategic Lever Borrowers with concentrated equity positions often find themselves asset rich and liquidity poor.
+## Public Share Monetization Architecture as a Strategic Lever Borrowers with concentrated equity positions often find themselves asset rich and liquidity poor
+
+.
 
 Traditional banks hesitate.
 
@@ -136,7 +146,9 @@ We deliver liquidity without forcing the borrower to unwind positions or signal 
 
 This is quiet capital deployment that protects both the borrower and the integrity of the asset. 
 
-## Asset-Based Lending That Works for Carve Outs and Transitional Assets Healthcare carve outs are a battleground.
+## Asset-Based Lending That Works for Carve Outs and Transitional Assets Healthcare carve outs are a battleground
+
+.
 
 Not in theory.
 
@@ -170,7 +182,9 @@ This discipline carries across industries.
 
 Mid market companies require lenders who understand their constraints, not lenders who pretend those constraints do not exist. 
 
-## The Mechanics That Define Pathmaker Pathmaker functions as the technical layer that institutional capital prefers but rarely builds internally.
+## The Mechanics That Define Pathmaker Pathmaker functions as the technical layer that institutional capital prefers but rarely builds internally
+
+.
 
 We are not here to replace banks.
 
@@ -200,7 +214,9 @@ They want discretion, structure, and reliability.
 
 We deliver all three. 
 
-## Why HNWI and UHNW Clients Choose Pathmaker We serve borrowers who already understand the power of leverage.
+## Why HNWI and UHNW Clients Choose Pathmaker We serve borrowers who already understand the power of leverage
+
+.
 
 They do not need education.
 
@@ -222,7 +238,9 @@ We are not a venture style lender.
 
 We are a precision Institutional Liquidity Paths partner aligned with the realities of high net worth balance sheets. 
 
-## The Strategic Utility of Hybrid Collateral Borrowers often possess multiple asset categories that, when combined, produce stronger collateral structures than any single asset class.
+## The Strategic Utility of Hybrid Collateral Borrowers often possess multiple asset categories that, when combined, produce stronger collateral structures than any single asset class
+
+.
 
 Pathmaker pioneered the hybrid collateral approach for serious private credit financing.
 
@@ -238,7 +256,9 @@ Hybrid collateral is not a marketing term.
 
 It is a strategic advantage. 
 
-## Digital Assets That Behave Like Institutional Collateral The most important shift in digital asset Asset-Backed Frameworks is custody clarity.
+## Digital Assets That Behave Like Institutional Collateral The most important shift in digital asset Asset-Backed Frameworks is custody clarity
+
+.
 
 Pathmaker only lends against assets custodied in environments that meet institutional grade requirements.
 
@@ -248,7 +268,9 @@ This is the only way digital assets earn a place at the table with private credi
 
 Our position: digital assets are valid collateral when treated with institutional discipline. 
 
-## The Pathmaker Framework for Responsible Liquidity Every liquidity facility structure we create exists inside a risk control framework.
+## The Pathmaker Framework for Responsible Liquidity Every liquidity facility structure we create exists inside a risk control framework
+
+.
 
 We assign liquidity facility to value based on volatility and liquidity.
 
@@ -262,7 +284,9 @@ This discipline is what allows us to serve high net worth and ultra high net wor
 
 The objective is simple: deliver liquidity without destabilizing the underlying assets. 
 
-## Closing the Gap That Traditional Lenders Created Banks have become slower.
+## Closing the Gap That Traditional Lenders Created Banks have become slower
+
+.
 
 Private credit funds have become more selective.
 
@@ -278,7 +302,9 @@ We lend against assets that are sound but misunderstood.
 
 We move quietly and efficiently. 
 
-## Pathmaker as the Structural Bridge When clients come to Pathmaker, they are not seeking a theoretical solution.
+## Pathmaker as the Structural Bridge When clients come to Pathmaker, they are not seeking a theoretical solution
+
+.
 
 They want a lender that understands their assets, respects their time, and delivers capital without drama.
 
@@ -294,7 +320,9 @@ We execute at a level that serves the realities of HNWI and UHNW borrowers.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  Liquidity is a strategic weapon.
 

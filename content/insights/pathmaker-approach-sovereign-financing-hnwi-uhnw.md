@@ -18,7 +18,9 @@ The Pathmaker model exists to navigate this imbalance by constructing sovereign 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  European and global HNWI and UHNW balance sheets are operating within a new macro regime.
 
@@ -60,7 +62,9 @@ This converts a historically reactive financing environment into a pre-optimised
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE PATHMAKER ARCHITECTURE The Pathmaker model is built on structural clarity.
 
@@ -170,7 +174,9 @@ It defines the corridor within which outcomes become achievable.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the decisive differentiator in the Pathmaker approach.
+## THE STEWARDSHIP FILTER Stewardship is the decisive differentiator in the Pathmaker approach
+
+.
 
 It is not philosophical.
 

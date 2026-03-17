@@ -18,7 +18,9 @@ The result is a widening execution gap where assets trade off market to parties 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The M&A environment entering 2026 is defined by three overlapping pressures that disproportionately affect family owned companies, founder led enterprises, and niche industrial operators.
 
@@ -58,7 +60,9 @@ It is used as strategic liquidity to solve the timing mismatch that traditional 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ABL IN TRANSACTION EXECUTION Asset Based Lending in the M&A context is a collateral linked liquidity structure.
 
@@ -210,7 +214,9 @@ Roials Capital provides calibration on when ABL is structurally advantageous and
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
+
+.
 
 It applies directly to liquidity governance and transaction execution.
 

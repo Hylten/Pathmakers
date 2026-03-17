@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "friction-elimination-in-mid-market-carve-outs"
 --- 
 
-# Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason.
+# Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason
+
+.
 
 Friction.
 
@@ -310,7 +312,9 @@ It is the architecture of trust.
 
 - ## M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
-## Zone One: Information Friction When buyers cannot see the truth.
+## Zone One: Information Friction When buyers cannot see the truth
+
+.
 
 When data contradicts itself.
 
@@ -318,7 +322,9 @@ When structures shift under scrutiny.
 
 Information friction kills transaction momentum.
 
-## Zone Two: Decision Friction When leadership hesitates.
+## Zone Two: Decision Friction When leadership hesitates
+
+.
 
 When internal alignment collapses.
 
@@ -326,7 +332,9 @@ When no single voice carries authority.
 
 Decision friction signals weakness.
 
-## Zone Three: Covenant Friction When stewardship is compromised.
+## Zone Three: Covenant Friction When stewardship is compromised
+
+.
 
 When the business shows disorder.
 
@@ -378,16 +386,14 @@ This is stewardship.
 
 Without liquidity, carve outs remain theoretical.
 
-We deploy a defined hierarchy of liquidity tools. # ## 
-
+We deploy a defined hierarchy of liquidity tools. 
 1.
 
 Private Credit Non bank capital that can move with precision.
 
 Structured against assets, cash flow, or hybrid models.
 
-Suitable for owners and investors with strategic urgency. # ## 
-
+Suitable for owners and investors with strategic urgency. 
 2.
 
 Asset Based liquidity engineering Available for owners who possess verifiable collateral.
@@ -396,8 +402,7 @@ Based on inventory, receivables, machinery, or real property.
 
 Clean structure.
 
-Clear covenant language. # ## 
-
+Clear covenant language. 
 3.
 
 Public Share Strategic Collateralization Minimum 
@@ -405,8 +410,7 @@ Public Share Strategic Collateralization Minimum
 
 Used for founders or HNWI holders of liquid listed equity.
 
-Structured for speed. # ## 
-
+Structured for speed. 
 4.
 
 Crypto Monetization Architecture Minimum 

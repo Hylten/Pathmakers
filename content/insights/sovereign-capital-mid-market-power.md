@@ -20,7 +20,9 @@ Their entry has altered the mechanics, cadence, and discipline of deal formation
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The mid‑market segment has entered a regime where liquidity scarcity overrides valuation cycles.
 
@@ -50,7 +52,9 @@ This structural realignment has created three outcomes.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN MOMENTUM Sovereign balance sheets behave differently from private equity or private credit structures.
 
@@ -150,7 +154,9 @@ Roials Capital’s role is to accelerate opportunity velocity by positioning qua
 
  
 
-## THE STEWARDSHIP FILTER Capital without stewardship leads to entropy.
+## THE STEWARDSHIP FILTER Capital without stewardship leads to entropy
+
+.
 
 Stewardship requires structural discipline, not rhetorical virtue.
 

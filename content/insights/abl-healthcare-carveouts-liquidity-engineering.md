@@ -90,7 +90,9 @@ Operators who accept this win deals that others never see.
 
 The Analyst Team outlines the institutional logic. 
 
-## THE STRUCTURAL FUNCTION OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS Asset-Based Lending is not a monolith.
+## THE STRUCTURAL FUNCTION OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS Asset-Based Lending is not a monolith
+
+.
 
 It flexes.
 
@@ -164,7 +166,9 @@ Clean code sets.
 
 This is how a carve‑out becomes a desirable target instead of a compliance liability. 
 
-## EXIT READINESS: THE UNDERVALUED LEVER Exit readiness is not due diligence prep.
+## EXIT READINESS: THE UNDERVALUED LEVER Exit readiness is not due diligence prep
+
+.
 
 Exit readiness is a standing state.
 
@@ -214,7 +218,9 @@ Operators who understand this control the exit terms.
 
 Operators who don’t become price-takers. 
 
-## DEAL ORIGINATION: THE OFF-MARKET ADVANTAGE Asset-Based Lending is a magnet.
+## DEAL ORIGINATION: THE OFF-MARKET ADVANTAGE Asset-Based Lending is a magnet
+
+.
 
 Serious operators know this.
 
@@ -258,7 +264,9 @@ Serious operators build pipelines.
 
 Tourists chase teasers. 
 
-## OPERATIONAL STABILIZATION: Asset-Based Lending AS A GOVERNANCE ENGINE Healthcare carve‑outs falter when governance collapses.
+## OPERATIONAL STABILIZATION: Asset-Based Lending AS A GOVERNANCE ENGINE Healthcare carve‑outs falter when governance collapses
+
+.
 
 Asset-Based Lending stabilizes governance through constraint.
 
@@ -312,7 +320,9 @@ Governance = valuation.
 
 Simple. 
 
-## THE JURISDICTIONAL ARBITRAGE LAYER Healthcare carve-outs live inside regulatory silos.
+## THE JURISDICTIONAL ARBITRAGE LAYER Healthcare carve-outs live inside regulatory silos
+
+.
 
 State-level nuance.
 
@@ -350,7 +360,9 @@ Regulatory friction kills weak operators.
 
 It enriches strong ones. 
 
-## THE Hierarchical Dynamics OF CAPITAL DISCIPLINE The mid-market healthcare environment is status-coded.
+## THE Hierarchical Dynamics OF CAPITAL DISCIPLINE The mid-market healthcare environment is status-coded
+
+.
 
 Buyers know who operates tight.
 
@@ -390,7 +402,9 @@ It reveals it.
 
 Carve‑outs demand that revelation. 
 
-## THE Capital Structuring ARCHETYPE Asset-Backed Frameworks is not financial gymnastics.
+## THE Capital Structuring ARCHETYPE Asset-Backed Frameworks is not financial gymnastics
+
+.
 
 It is the sequence by which working capital, collateral assets, and cash cycles are weaponized to reduce risk and accelerate optionality.
 
@@ -432,7 +446,9 @@ Time waste is value leakage.
 
 Asset-Based Lending stops leakage. 
 
-## THE OPERATOR PROFILE WHO WINS WITH Asset-Based Lending Not all operators should pursue Asset-Based Lending.
+## THE OPERATOR PROFILE WHO WINS WITH Asset-Based Lending Not all operators should pursue Asset-Based Lending
+
+.
 
 Some break under structure.
 
@@ -462,7 +478,9 @@ This operator wins carve‑outs that others misjudge.
 
 This operator moves markets. 
 
-## THE PRIVATE CREDIT ANGLE: WHY THE TIMING IS PERFECT Private credit remains aggressive in healthcare.
+## THE PRIVATE CREDIT ANGLE: WHY THE TIMING IS PERFECT Private credit remains aggressive in healthcare
+
+.
 
 But selective.
 
@@ -490,7 +508,9 @@ Liquidity stacked.
 
 Velocity multiplied. 
 
-## CASE DYNAMICS: WHERE Asset-Based Lending CHANGES THE OUTCOME The Analyst Team has observed consistent patterns across carve‑out pathways:
+## CASE DYNAMICS: WHERE Asset-Based Lending CHANGES THE OUTCOME The Analyst Team has observed consistent patterns across carve‑out pathways
+
+:
 
 - Asset-Based Lending closes faster than term loans.
 
@@ -526,7 +546,9 @@ This is the loop.
 
 This is the game. 
 
-## STRATEGIC MANDATE FOR MID-MARKET HEALTHCARE OPERATORS Carve‑outs require liquidity.
+## STRATEGIC MANDATE FOR MID-MARKET HEALTHCARE OPERATORS Carve‑outs require liquidity
+
+.
 
 Liquidity requires structure.
 

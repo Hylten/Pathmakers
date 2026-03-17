@@ -28,7 +28,7 @@ Velocity replaces delay.
 
 This is the new frontier of Exit Readiness and off‑market origination. 
 
- ##
+ 
 
 - PRIVATE BRIEFING Closed‑door mode.
 
@@ -354,7 +354,11 @@ Move before others see.
 
 The mid‑market rewards those who see the unseen-early, clearly, confidently.
 
-To step into the next acquisition with real momentum, predictive diligence is no longer optional.
+To 
+
+# Step I
+
+nto the next acquisition with real momentum, predictive diligence is no longer optional.
 
 It is the new requirement to operate at the highest tier of mid‑market strategy.
 

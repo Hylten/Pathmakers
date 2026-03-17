@@ -24,7 +24,9 @@ The friction is mechanical.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European mid market is undergoing a regime transition defined by three compounding forces.
 
@@ -68,7 +70,9 @@ But by eliminating friction at the source.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF FRICTION ELIMINATION The mechanics of friction in a carve out context are not abstract.
 
@@ -222,7 +226,9 @@ The process becomes quiet, efficient, and strategic.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood.
+## THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood
+
+.
 
 It is not about maximizing an exit number.
 

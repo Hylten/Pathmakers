@@ -14,13 +14,15 @@ The constraint is systemic.
 
 Regulatory tightening on commercial lending, fragmented private credit markets, and increased diligence requirements have produced a capital environment where acquisition readiness is primarily determined by liquidity engineering rather than headline balance sheet size.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Mid market M&A is operating within a regime defined by three converging dynamics. 
 
@@ -57,13 +59,15 @@ High intent sellers will not tolerate prolonged funding discovery.
 
 The result is a market where the strategic operator with optimized liquidity architecture outperforms larger competitors whose capital stack is slower and less adaptable.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Strategic liquidity in M&A is not traditional cash on hand.
 
@@ -134,11 +138,13 @@ Sellers and their advisory firms recognize this immediately.
 
 Process friction is reduced, negotiation leverage increases, and off market access expands.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within the M&A ecosystem as a strategic navigator for liquidity optimization.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to eliminate friction, increase acquisition readiness, and align buyers with institutional quality capital counterparts.
 
@@ -188,7 +194,7 @@ In M&A mandates outside that domain, the function is structural alignment and fr
 
 The model remains neutral, analytical, and strategically focused.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship within acquisition execution is the discipline of managing capital with moral precision and non wasteful intent.
 
@@ -230,9 +236,13 @@ It reduces integration volatility.
 
 It improves long term operator credibility in local markets and lender networks.
 
-### Phase V: .
+# Phase V: .
 
-ALLOCATOR LENS For buyers preparing for a strategic acquisition phase in 2026, the most relevant assessment criteria are:
+ALLOCATOR LENS For buyers preparing for a strategic acquisition 
+
+# Phase I: n 2026, the most relevant assessment criteria are
+
+:
 
 1.
 

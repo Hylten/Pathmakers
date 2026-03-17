@@ -34,7 +34,9 @@ It reflects a General’s perspective: decisive, structured, and grounded in the
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European mid-market has entered a period of structural recalibration.
 
@@ -80,7 +82,9 @@ They enter as a synchronized system with a consciously engineered narrative that
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The mechanics of exit readiness are not abstract.
 
@@ -230,11 +234,15 @@ Without it, acquirers assume hidden liabilities and load valuation downward to c
 
 THE PARTNERSHIP MODEL Roials Capital is structured as a strategic navigator and institutional introducer.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to sell assets or operate companies.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to prepare organizations for institutional grade execution and to create alignment between sellers and qualified acquirers.
 
@@ -246,7 +254,11 @@ The partnership model follows four pillars.
 
 1.
 
-Strategic Alignment The first step is aligning the company’s internal objectives with the expectations of acquirers who operate within a professional investment framework.
+Strategic Alignment The first 
+
+# Step I
+
+s aligning the company’s internal objectives with the expectations of acquirers who operate within a professional investment framework.
 
 This includes:
 
@@ -304,7 +316,11 @@ Institutional introductions reduce noise and accelerate the path toward prelimin
 
 4.
 
-Execution Oversight The final pillar involves constant pressure testing of:
+Execution Oversight The final 
+
+# Pillar I: nvolves constant pressure testing of
+
+:
 
 * Diligence sequencing.
 
@@ -324,7 +340,9 @@ The objective is friction minimization and process predictability.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness.
+## THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness
+
+.
 
 It is the discipline of managing assets, processes, and human capital without waste.
 

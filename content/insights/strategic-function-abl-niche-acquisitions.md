@@ -16,7 +16,9 @@ This is the precise environment where Asset Based Lending becomes an architectur
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Niche markets within Europe and North America are experiencing a regime shift characterized by three converging pressures. 
 
@@ -62,7 +64,9 @@ It is penalizing operators who rely on conventional leverage structures.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ABL IN ACQUISITIONS Asset Based Lending is not a financing instrument.
 
@@ -210,7 +214,9 @@ In European and Nordic markets, the focus is on capital optimization within manu
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment
+
+.
 
 It is the application of capital where it generates productive, non speculative utility.
 

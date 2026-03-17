@@ -34,7 +34,9 @@ It is in correcting these structural inefficiencies through precision liquidity 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Healthcare infrastructure in 2026 is defined by three converging regime forces: 
 
@@ -76,7 +78,9 @@ The challenge is enabling operators to align structurally with institutional tra
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRECISION LIQUIDITY Precision liquidity is not broad capital deployment.
 
@@ -200,7 +204,9 @@ Prepare for acquisition or structured credit alignment This approach reduces tra
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks.
+## THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks
+
+.
 
 It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
 

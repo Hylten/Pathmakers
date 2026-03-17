@@ -30,7 +30,9 @@ By constructing operational visibility that forces the deal to move.
 
 This is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  for any principal navigating Nordic acquisitions with Fund‑III discipline and exit‑driven tempo.
 

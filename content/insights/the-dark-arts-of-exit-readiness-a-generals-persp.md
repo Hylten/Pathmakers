@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
 --- 
 
-# The Dark Arts of Exit Readiness.
+# The Dark Arts of Exit Readiness
+
+.
 
 A General’s Perspective Exit readiness is not an administrative exercise.
 
@@ -56,7 +58,9 @@ Warfare.
 
 With white space for air and clarity. 
 
-## The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles.
+## The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles
+
+.
 
 They buy predictability.
 
@@ -80,7 +84,9 @@ Not a presentation.
 
 A restructuring of reality. 
 
-## The First Principle: Asset Hardening Hard assets withstand scrutiny.
+## The First Principle: Asset Hardening Hard assets withstand scrutiny
+
+.
 
 Soft assets dissolve under heat.
 
@@ -116,7 +122,9 @@ The owner who neglects this enters negotiations at a disadvantage.
 
 The owner who executes it early gains negotiating command. 
 
-## The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy.
+## The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy
+
+.
 
 Buyers do not pay for potential.
 
@@ -142,7 +150,9 @@ Elevates credibility.
 
 Increases velocity. 
 
-## Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder.
+## Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder
+
+.
 
 Resourceful.
 
@@ -180,7 +190,9 @@ Silence is the enemy.
 
 Clarity is the shield. 
 
-## The Culture of Covenant Stewardship Covenant stewardship is not a slogan.
+## The Culture of Covenant Stewardship Covenant stewardship is not a slogan
+
+.
 
 It is a theology of ownership.
 
@@ -220,7 +232,9 @@ This cultural position elevates the exit.
 
 It also elevates the valuation. 
 
-## Removing Founder Dependency Institutional buyers do not acquire personal empires.
+## Removing Founder Dependency Institutional buyers do not acquire personal empires
+
+.
 
 They acquire systems that can function without the founder.
 
@@ -252,7 +266,9 @@ It is a slow exfiltration.
 
 Not a sudden departure. 
 
-## Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris.
+## Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris
+
+.
 
 Side projects.
 
@@ -302,7 +318,9 @@ Examples:
 
 The battlefield must be clean. 
 
-## Customer Concentration: The Price Assassin A company with two clients owning 
+## Customer Concentration: The Price Assassin A company with two clients owning
+
+ 
 
 40 percent of revenue is not a stable asset.
 
@@ -334,7 +352,9 @@ The objective is not cosmetic improvement.
 
 The objective is structural mitigation that stands up under diligence. 
 
-## Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns.
+## Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns
+
+.
 
 Not isolated events.
 
@@ -358,7 +378,9 @@ Cadence produces peace.
 
 Peace produces valuation. 
 
-## Intelligence Documentation The General does not rely on memory.
+## Intelligence Documentation The General does not rely on memory
+
+.
 
 He relies on intelligence briefs.
 
@@ -394,7 +416,9 @@ Buyers interpret velocity as competence.
 
 Velocity raises valuation. 
 
-## The Silent Power: Staff Alignment Staff alignment is not theatrical.
+## The Silent Power: Staff Alignment Staff alignment is not theatrical
+
+.
 
 It is structural.
 
@@ -426,7 +450,9 @@ A buyer senses stability.
 
 Confidence increases. 
 
-## Preparing for Buyer Psychology Institutional buyers operate with pattern recognition.
+## Preparing for Buyer Psychology Institutional buyers operate with pattern recognition
+
+.
 
 They are trained to distrust narrative and trust structure.
 
@@ -456,7 +482,9 @@ It reduces grind.
 
 It increases leverage. 
 
-## Strategic Timing: When to Enter the Market The General watches three clocks:
+## Strategic Timing: When to Enter the Market The General watches three clocks
+
+:
 
 - Internal clock.
 
@@ -484,7 +512,9 @@ Hope has no place in M and A.
 
 Only readiness. 
 
-## Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals.
+## Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals
+
+.
 
 This includes:
 
@@ -504,7 +534,9 @@ Pressure reveals fear.
 
 Fear is exploitable. 
 
-## Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction.
+## Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction
+
+.
 
 The General understands:
 
@@ -548,7 +580,9 @@ Honors community.
 
 Honors the sacred trust of ownership. 
 
-## Book a strategic consultation
+## Book a strategic consultatio
+
+n
 
 Access is restricted to approved mandates.
 

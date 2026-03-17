@@ -14,7 +14,9 @@ This regime shift is altering the institutional landscape, prioritizing operatio
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The mid‑market segment across Europe, the Nordics, and North America has entered a period defined by asymmetrical capital access.
 
@@ -66,7 +68,9 @@ Those that do not remain in liquidity limbo.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MID-MARKET EXCELLENCE The architecture of enduring capital is not built at exit.
 
@@ -208,7 +212,9 @@ The objective is institutional navigation.
 
  
 
-## THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management.
+## THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management
+
+.
 
 Stewardship is the opposite of extraction.
 

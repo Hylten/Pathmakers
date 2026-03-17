@@ -18,7 +18,9 @@ This shift has redefined how mid-market companies secure working capital, absorb
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post-tightening cycle created a bifurcated capital landscape.
 
@@ -54,7 +56,9 @@ This transforms dormant balance sheet items into liquidity engines.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF Asset-Based Lending Asset-Based Lending functions on quantifiable collateral.
 
@@ -136,7 +140,9 @@ They reduce friction in diligence and improve credibility during negotiation.
 
  
 
-## THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition.
+## THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition
+
+.
 
 Owner led companies with strong asset positions, competent management, and defensible industries often fail to secure optimal valuations due to liquidity volatility or inefficient capital structures.
 

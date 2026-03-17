@@ -16,7 +16,9 @@ Precision financing exists to neutralize this imbalance.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across the Nordic region, DACH, the United Kingdom, and North America, the mid-market has entered a regime in which capital availability is no longer determined by creditworthiness alone.
 
@@ -49,7 +51,9 @@ The capital markets reward preparation and penalize improvisation.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRECISION FINANCING Precision financing is not generic debt or equity procurement.
 
@@ -105,7 +109,9 @@ This reduces noise, preserves valuation integrity, and shortens the transaction 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator, not as a principal investor.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to create clarity, reduce friction, and introduce operators to the correct institutional counterparties.
 
@@ -137,7 +143,9 @@ The partnership model exists to close that gap.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation.
+## THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation
+
+.
 
 It is the application of moral and operational clarity to capital decisions.
 

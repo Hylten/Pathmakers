@@ -22,7 +22,9 @@ It is a structural instrument that stabilizes operational continuity, accelerate
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Global mid-market technology assets have entered a new operational regime.
 
@@ -68,7 +70,9 @@ This is the point where Asset-Based Lending becomes an institutional tool for bu
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The foundational principle of Asset-Based Lending in technology carve-outs is simple: convert operational assets into liquidity channels without distorting the strategic horizon of the business.
 
@@ -147,7 +151,9 @@ The objective is never to promote a financing solution.
 
 The objective is to align operator capability, asset profile, and liquidity architecture in a way that preserves operational sovereignty.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  involves three components. 
 
@@ -193,7 +199,9 @@ The role of Roials Capital remains constant: alignment, navigation, and institut
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not capital accumulation.
+## THE STEWARDSHIP FILTER Stewardship is not capital accumulation
+
+.
 
 It is capital ordering.
 

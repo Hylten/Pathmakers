@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "tactical-due-diligence-hardening-assets-for-gp-ac"
 --- 
 
-# Tactical Due Diligence Hardening Assets for GP Acquisition The mid-market battlefield rewards the prepared.
+# Tactical Due Diligence Hardening Assets for GP Acquisition The mid-market battlefield rewards the prepared
+
+.
 
 Institutional buyers do not purchase potential.
 
@@ -22,7 +24,9 @@ It is the discipline of hardening an asset until it carries the posture, cadence
 
 Pathmaker operates inside this trench.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is singular.
 
@@ -248,7 +252,9 @@ Built to be entrusted to institutional buyers without fear.
 
 - ## Book a strategic consultation If 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to prepare for acquisition with institutional authority and eliminate M&A friction through tactical due diligence, you may initiate a strategic consultation.
 

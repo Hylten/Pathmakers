@@ -36,7 +36,9 @@ It is the product of architecture.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The existing European private markets ecosystem is undergoing three relevant shifts that shape the strategic environment for mid-market owners. 
 
@@ -88,7 +90,9 @@ This disconnect produces a structural discount.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MID-MARKET VALUE ELEVATION The mid-market enterprise requires a specific sequence of readiness engineering.
 
@@ -238,7 +242,9 @@ Roials Capital provides strategic alignment and institutional
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction
+
+.
 
 It is a practical discipline that guides capital allocation.
 

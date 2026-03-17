@@ -20,7 +20,9 @@ This misalignment is not cyclical economics but institutional calibration drift.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Healthcare logistics has entered a regime where the movement of medical supplies, pharmaceuticals, diagnostic equipment, and temperature controlled items operates under higher compliance scrutiny and rising working capital load.
 
@@ -52,7 +54,9 @@ Healthcare logistics platforms that fail to engineer liquidity become non partic
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Asset based lending inside healthcare logistics requires a more precise interpretation of collateral behavior than legacy Asset-Based Lending frameworks assume.
 
@@ -126,7 +130,9 @@ It removes friction from the diligence timeline.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lending entity.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not capital deployment.
 
@@ -156,7 +162,9 @@ This intelligence informs the selection of institutional credit partners who mat
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission.
+## THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission
+
+.
 
 Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
 

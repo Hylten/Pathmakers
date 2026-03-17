@@ -22,7 +22,9 @@ The
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The healthcare M&A environment of 2026 is defined by three regime-level shifts that directly influence carve-out execution and post-transaction stabilization.
 
@@ -50,7 +52,9 @@ Conversely, operators that introduce disciplined Asset-Based Lending frameworks 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF Asset-Based Lending IN HEALTHCARE CARVE-OUTS Carve-outs in healthcare contain unique operational physics.
 
@@ -168,7 +172,9 @@ This protects both buyer and seller from post transaction disruptions.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services.
+## THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services
+
+.
 
 Healthcare operators are entrusted with resources that directly affect human welfare.
 

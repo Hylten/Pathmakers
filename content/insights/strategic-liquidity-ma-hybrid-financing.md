@@ -82,7 +82,9 @@ This is not a retail summary.
 
 This is a principal brief. 
 
-## STRATEGIC CONSTRAINTS Markets punish indecision.
+## STRATEGIC CONSTRAINTS Markets punish indecision
+
+.
 
 Lenders punish complexity.
 
@@ -130,7 +132,9 @@ Not sequentially.
 
 Simultaneously. 
 
-## THE PATHMAKER PRINCIPLE: HYBRID AS FIRST RESORT For years, hybrid solutions were reactive.
+## THE PATHMAKER PRINCIPLE: HYBRID AS FIRST RESORT For years, hybrid solutions were reactive
+
+.
 
 A patch.
 
@@ -166,7 +170,9 @@ Equity moves expensively.
 
 Hybrids move at the exact speed required for mid‑market M&A: fast enough to seize an off‑market opportunity, structured enough to pass committee. 
 
-## THE CORE MODELS: THREE INFRASTRUCTURES Hybrid financing isn’t one instrument.
+## THE CORE MODELS: THREE INFRASTRUCTURES Hybrid financing isn’t one instrument
+
+.
 
 It is a stack.
 
@@ -234,7 +240,9 @@ Not always two.
 
 But always tailored to the underlying acquisition-its stability, its volatility, its asymmetry. 
 
-## THE PATHMAKER LAYER: Capital Structuring Acquirers misunderstand liquidity.
+## THE PATHMAKER LAYER: Capital Structuring Acquirers misunderstand liquidity
+
+.
 
 They view it as cash.
 
@@ -272,7 +280,9 @@ It doesn’t.
 
 Certainty of capital does. 
 
-## THE M&A FRICTION MAP Every deal carries intrinsic friction.
+## THE M&A FRICTION MAP Every deal carries intrinsic friction
+
+.
 
 It surfaces in six zones: 
 
@@ -312,7 +322,9 @@ A frictionless deal is not one without problems.
 
 It is one where every problem has a matched instrument. 
 
-## EXIT READINESS: THE CORE OF Fund-III STRATEGY Exits fail not because performance is weak.
+## EXIT READINESS: THE CORE OF Fund-III STRATEGY Exits fail not because performance is weak
+
+.
 
 They fail because structures are weak.
 
@@ -404,7 +416,9 @@ Liquidity surfacing.
 
 Narrative shaping. 
 
-## THE CAPITAL STACK AS A WEAPON Capital is not neutral.
+## THE CAPITAL STACK AS A WEAPON Capital is not neutral
+
+.
 
 It carries posture.
 
@@ -448,7 +462,9 @@ The capital stack is a battlefield.
 
 Architecture wins battles. 
 
-## TACTICAL INTELLIGENCE: THE PATHMAKER METHOD Jonas’s analytic lineage runs through every model-sharp logic, INTP precision, red‑yellow activation.
+## TACTICAL INTELLIGENCE: THE PATHMAKER METHOD Jonas’s analytic lineage runs through every model-sharp logic, INTP precision, red‑yellow activation
+
+.
 
 The system focuses on decision velocity.
 
@@ -488,7 +504,9 @@ Short sentences.
 
 Fast movement. 
 
-## THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language:
+## THE HYBRID FINANCING TOOLKIT Below is the principal toolkit, stripped of marketing language
+
+:
 
 - Unitranche facilities
 
@@ -546,7 +564,9 @@ Integration Liquidity Post-close performance rises when integration is funded.
 
 Hybrid financing turns buyers into power buyers. 
 
-## SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits:
+## SELL-SIDE APPLICATIONS Sellers use hybrid financing to accelerate exits
+
+:
 
 - Strip risk from buyer
 
@@ -560,7 +580,9 @@ Hybrid financing turns buyers into power buyers.
 
 That is the seller’s priority. 
 
-## STRATEGIC LIQUIDITY: THE FUTURE STATE The mid‑market is entering a new phase.
+## STRATEGIC LIQUIDITY: THE FUTURE STATE The mid‑market is entering a new phase
+
+.
 
 Credit tightening.
 

@@ -52,7 +52,9 @@ It is universal.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional capital deployment has entered a discipline cycle.
 
@@ -106,7 +108,9 @@ This is the new regime.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF OPERATIONAL RESILIENCE Operational resilience is not a soft concept.
 
@@ -302,7 +306,9 @@ It is architectural.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management
+
+.
 
 It is a discipline of responsibility, not sentiment.
 
@@ -336,15 +342,35 @@ Performance is transient.
 
 Resilience is durable.
 
-DECISION MAKING LENS FOR THE ALLOCATOR OR OWNER The owner or allocator must evaluate operational resilience through a multi axis framework.### Axis I: : Systemic Continuity Can the enterprise operate without any one person.
+DECISION MAKING LENS FOR THE ALLOCATOR OR OWNER The owner or allocator must evaluate operational resilience through a multi axis framework.
 
-If not, the enterprise is not exit ready.### Axis II: : Diligence Readiness Can the enterprise withstand full spectrum diligence without disruption.
+# Axis I
 
-Buyers do not accept operational slowdown during diligence.### Axis III: : Integration Burden Is the enterprise architected for low friction integration into a larger platform.
+Systemic Continuity Can the enterprise operate without any one person.
 
-Integration burden is a primary driver of purchase price adjustments.### Axis IV: : Codified Value Is the business built on documented systems or undocumented habits.
+If not, the enterprise is not exit ready.
 
-Institutional value must be transferable.### Axis V: : Optionality Does the operational architecture create optionality for sale, recapitalization, management transition, or geographic expansion.
+# Axis I: I
+
+Diligence Readiness Can the enterprise withstand full spectrum diligence without disruption.
+
+Buyers do not accept operational slowdown during diligence.
+
+# Axis II: I
+
+Integration Burden Is the enterprise architected for low friction integration into a larger platform.
+
+Integration burden is a primary driver of purchase price adjustments.
+
+# Axis I: V
+
+Codified Value Is the business built on documented systems or undocumented habits.
+
+Institutional value must be transferable.
+
+# Axis V
+
+Optionality Does the operational architecture create optionality for sale, recapitalization, management transition, or geographic expansion.
 
 Optionality increases valuation resilience.
 

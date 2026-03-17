@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
 --- 
 
-# Building Operational Resilience with Private Credit Operational resilience is not an aspirational concept.
+# Building Operational Resilience with Private Credit Operational resilience is not an aspirational concept
+
+.
 
 It is a survival requirement.
 
@@ -48,7 +50,9 @@ Nothing theoretical.
 
 Only what works. 
 
-## Public Share Capital Structuring: Liquidity Without Exit Public equities can represent generational wealth, long term strategy, or positions that are not ready for liquidation.
+## Public Share Capital Structuring: Liquidity Without Exit Public equities can represent generational wealth, long term strategy, or positions that are not ready for liquidation
+
+.
 
 Yet these positions often sit idle from a liquidity perspective.
 
@@ -66,7 +70,9 @@ HNWI and UHNW clients use public share Monetization Architecture to unlock capac
 
 This creates resilience not by hoarding liquidity, but by refining it. 
 
-## Healthcare Carve Outs: Where Private Credit Proves Its Value Few environments test operational resilience like healthcare carve outs.
+## Healthcare Carve Outs: Where Private Credit Proves Its Value Few environments test operational resilience like healthcare carve outs
+
+.
 
 These transactions are complex.
 
@@ -108,7 +114,9 @@ Healthcare carve outs do not require optimism.
 
 They require liquidity, technical understanding, and structural control. 
 
-## Mid Market M and A: Liquidity Determines Who Wins Mid market M and A is where operational resilience turns into competitive advantage.
+## Mid Market M and A: Liquidity Determines Who Wins Mid market M and A is where operational resilience turns into competitive advantage
+
+.
 
 Most deals fall apart not because the buyer lacks interest, but because the buyer cannot mobilize liquidity at the necessary speed.
 
@@ -130,7 +138,9 @@ Clarity is leverage.
 
 Pathmaker builds these advantages into the capital strategy from the beginning. 
 
-## principal authority: The F Hierarchical Dynamics Our brand position is deliberate.
+## principal authority: The F Hierarchical Dynamics Our brand position is deliberate
+
+.
 
 Pathmaker operates with principal authority.
 
@@ -152,7 +162,9 @@ Only performance.
 
 Only execution. 
 
-## Why Operational Resilience Matters More Today Than Ever Volatility is not a temporary cycle.
+## Why Operational Resilience Matters More Today Than Ever Volatility is not a temporary cycle
+
+.
 
 It is the permanent condition of modern business.
 
@@ -178,7 +190,9 @@ It is built through structures that give leaders the freedom to act.
 
 This is what Pathmaker exists to build. 
 
-## Build Your Advantage If you are a high net worth or ultra high net worth operator preparing for a carve out, an acquisition, a liquidity event, or a strategic pivot, you already understand the stakes.
+## Build Your Advantage If you are a high net worth or ultra high net worth operator preparing for a carve out, an acquisition, a liquidity event, or a strategic pivot, you already understand the stakes
+
+.
 
 You already understand the tempo.
 

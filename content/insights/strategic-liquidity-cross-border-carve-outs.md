@@ -24,13 +24,15 @@ The objective is friction removal, disentanglement, and balance sheet stabilizat
 
 This is the arena where tactical carve-out financing and cross-border liquidity engineering have become institutionalized tools rather than opportunistic maneuvers.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Cross-border corporate divestitures have entered a new regime defined by three converging forces. 
 
@@ -62,13 +64,15 @@ Without liquidity engineering, otherwise qualified transactions fail to reach de
 
 This regime shift has produced a structural need for third-party liquidity providers capable of enabling disposal readiness rather than financing speculative acquisition.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CARVE-OUT LIQUIDITY Liquidity for cross-border carve-outs is not a monolithic product.
 
@@ -110,15 +114,19 @@ Cross-Border Compliance Synchronization Each jurisdiction introduces its own cap
 
 Technical liquidity providers serve as the coordination layer ensuring that legal, financial, and operational timelines align across regions.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this landscape.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to act as lender or acquirer.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is institutional 
 
@@ -152,7 +160,7 @@ It is the systemic hardening of the division so that the buyer can assume operat
 
 Roials Capital provides the architecture for this positioning.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship in corporate divestitures is a discipline of non-wasteful transition.
 
@@ -176,7 +184,7 @@ Stewardship within the Roials framework includes:
 
 - Transparent alignment between seller, liquidity provider, and acquirer 
 
-### Phase V: .
+# Phase V: .
 
 THE DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating carve-out liquidity or cross-border divestiture strategies benefit from a structured lens based on four core assessments.
 

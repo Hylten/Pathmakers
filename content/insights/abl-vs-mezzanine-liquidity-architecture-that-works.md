@@ -18,7 +18,9 @@ Asset Based Lending architectures are filling the vacuum not because they are ag
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The European M&A environment has transitioned into a regime defined by three dominant constraints.
 
@@ -58,7 +60,9 @@ In a market where institutional buyers require clarity, the capital instrument a
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Asset-Based Lending and mezzanine structures serve fundamentally different functions inside an M&A capital stack.
 
@@ -162,7 +166,9 @@ For general M&A, Roials Capital functions as a balance sheet optimizer and trans
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
+
+.
 
 It is a principle, not an aesthetic.
 

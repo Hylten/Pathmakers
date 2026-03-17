@@ -6,9 +6,13 @@ author: "Jonas Hyltén"
 slug: "nordic-cross-border-ma-the-new-playbook"
 --- 
 
-# Nordic Cross-Border M&A: The New Playbook The Nordic middle market is experiencing a tectonic shift in how cross-border transactions are originated, structured, and closed. 
+# Nordic Cross-Border M&A: The New Playbook The Nordic middle market is experiencing a tectonic shift in how cross-border transactions are originated, structured, and closed.
 
-## Structural Advantages Nordic acquirers benefit from several structural tailwinds:
+ 
+
+## Structural Advantages Nordic acquirers benefit from several structural tailwinds
+
+:
 
 - **Strong governance frameworks
 
@@ -28,7 +32,9 @@ slug: "nordic-cross-border-ma-the-new-playbook"
 
 * with transparency-driven deal processes 
 
-## The Advisory Edge In this new landscape, advisory firms that can bridge Nordic operational rigor with global deal-making sophistication will define the next era of middle-market M&A.
+## The Advisory Edge In this new landscape, advisory firms that can bridge Nordic operational rigor with global deal-making sophistication will define the next era of middle-market M&A
+
+.
 
 The firms that win will be the ones that understand both sides of the table. (See [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) for structural parameters)
 

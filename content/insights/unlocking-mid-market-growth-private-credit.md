@@ -18,7 +18,9 @@ The institutional lender who understands how to align credit with exit readiness
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit is no longer operating as a satellite asset class.
 
@@ -66,7 +68,9 @@ It is no longer only an instrument for leverage; it has become an instrument for
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MID‑MARKET PRIVATE CREDIT The mid‑market is not monolithic.
 
@@ -212,7 +216,9 @@ It is diagnostic.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical.
+## THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical
+
+.
 
 It is operational.
 
@@ -262,7 +268,11 @@ Allocators who understand this dynamic gain access to:
 
 - Strategic acquirers needing liquidity to accelerate cross-border expansion
 
-- Non-sponsored companies with strong fundamentals and limited bank access The correct next step is not capital deployment.
+- Non-sponsored companies with strong fundamentals and limited bank access The correct next 
+
+# Step I: s not capital deployment
+
+.
 
 It is clarity.
 

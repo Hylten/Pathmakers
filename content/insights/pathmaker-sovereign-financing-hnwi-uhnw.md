@@ -372,7 +372,9 @@ Pathmaker inverts the capital stack.
 
 It establishes 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  first.
 
@@ -388,7 +390,9 @@ They finance strategic relevance.
 
 Once 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is established-energy security, industrial continuity, commodity stabilization-the sovereign system justifies financing.
 
@@ -608,7 +612,9 @@ It is also the quietest.
 
 Final layer: 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
