@@ -204,7 +204,7 @@ During a transaction, buyers often underestimate how fragmented the data really 
 
 If the data 
 
-### Layer I
+### Layer I:
 
 s not stabilized early, every integration initiative will stall.
 

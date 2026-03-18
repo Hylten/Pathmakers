@@ -384,7 +384,7 @@ The next
 
 The next 
 
-### Step I
+### Step I:
 
 s a Confidential Strategy Audit focused on operational calibration, risk mapping, and institutional alignment.
 

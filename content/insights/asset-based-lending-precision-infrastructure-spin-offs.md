@@ -12,7 +12,7 @@ This structural gap determines how mid market infrastructure operators migrate t
 
 In a tight credit cycle, precision infrastructure entities are forced to transition from balance sheet dependency to asset centric capital architectures that reduce financing latency and protect operational continuity. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -44,7 +44,7 @@ Mid market operators face increasing pressure to extract these units, assign sta
 
 This is the origin point for asset based lending in the current cycle. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -110,7 +110,7 @@ A properly structured Asset-Based Lending removes historical entanglements by es
 
 ABLs reduce M and A friction because the target arrives pre organized for institutional underwriting. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator in this environment.
 
@@ -132,7 +132,7 @@ In high complexity cases, Roials Capital introduces asset oriented private credi
 
 Where energy intersects with infrastructure, our strategic partner NAEO provides operational intelligence relating to field deployment, asset maintenance sequencing, and lifecycle cost analysis that ensures asset pools demonstrate institutional durability. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -156,7 +156,7 @@ This filter rejects extractive short term financing.
 
 It prioritizes capital structures that preserve operational integrity while enabling strategic evolution. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING LENS For allocators, executives, and operators, the governing question is structural alignment.
 

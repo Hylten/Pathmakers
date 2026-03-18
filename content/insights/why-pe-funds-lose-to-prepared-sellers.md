@@ -130,7 +130,7 @@ Private equity loses the deal.
 
 Not because they mispriced it, but because another buyer moved with greater certainty based on cleaner inputs. 
 
-### Phase I: I
+### Phase I:
 
 - PRINCIPAL VOICE: DIRECT STATEMENTS FROM THE ANALYST CHAIR This is not conjecture.
 
@@ -250,7 +250,7 @@ Prepared sellers dominate.
 
 This is the new landscape. 
 
-### Phase II: I
+### Phase II:
 
 - INTERNAL BYPASS : ADVANCED STRUCTURAL DEPTH THE DATA ROOM AS A WEAPON In unprepared deals, the data room is a storage closet.
 

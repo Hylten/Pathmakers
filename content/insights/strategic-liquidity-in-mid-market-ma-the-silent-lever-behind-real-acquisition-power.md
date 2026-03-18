@@ -156,7 +156,7 @@ Before LOIs.
 
 A serious buyer evaluates what liquidity must be available at every milestone. 
 
-### Step I: I
+### Step I:
 
 Map Available Assets to Liquidity Instruments Private credit positions become deployable capital.
 
@@ -168,7 +168,7 @@ Operational collateral is assessed for Asset-Based Lending.
 
 This turns static wealth into dynamic acquisition power. 
 
-### Step II: I
+### Step II:
 
 Install a Liquidity Buffer Deals always cost more than projected.
 
@@ -176,7 +176,7 @@ Always.
 
 The liquidity buffer prevents a deal from collapsing due to diligence surprises. 
 
-### Step I: V
+### Step I:
 
 Match Liquidity to the Negotiation Timeline This is where many investors fail.
 
@@ -190,7 +190,7 @@ Pathmaker commits capital quietly and efficiently.
 
 This maintains the buyer’s strategic posture. 
 
-### Step V
+### Step V:
 
 Deploy Liquidity in Precision Points Funding the deposit
 

@@ -198,7 +198,7 @@ Build exit‑readiness architecture first
 
 Remove friction buried in the operational base 
 
-### Layer III: .
+### Layer III:
 
 Pre‑screen narrative inconsistencies 
 
@@ -346,7 +346,7 @@ e
 
 m 
 
-### Layer VI: I
+### Layer VI:
 
 Diligence pre‑qualification Exit readiness eliminates surprise.
 

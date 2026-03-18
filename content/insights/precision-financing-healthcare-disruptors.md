@@ -18,7 +18,7 @@ The objective is not deal promotion.
 
 It is strategic orientation for allocators who require a neutral, system level view of how high intent healthcare platforms are positioned for strategic liquidity events when their balance sheets are engineered correctly. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -62,7 +62,7 @@ The operators who understand Capital Structuring, treasury discipline, and exit 
 
 Everyone else competes on labor price and operational fatigue. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -136,7 +136,7 @@ Precision financing supports this through:
 
 These mechanics create an operator profile that is attractive to institutional buyers and defensible under audit conditions. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator for allocators and operators requiring neutrality across the financing ecosystem.
 
@@ -170,7 +170,7 @@ Operators with discipline in their financial presentation, acquisition framework
 
 Roials Capital functions as a market filter by identifying operators that demonstrate readiness for institutional buyers but are not yet visible in conventional pipelines. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship inside healthcare financing is centered on resource conservation, long term operational stability, and ethical deployment of capital.
 
@@ -206,7 +206,7 @@ Growth must align with load bearing capacity.
 
 Institutional buyers value this discipline, and valuation multiples reflect it. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING LENS FOR ALLOCATORS Institutional allocators assessing healthcare platforms in this regime should use a calibrated framework. 
 

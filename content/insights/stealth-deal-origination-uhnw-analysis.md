@@ -174,7 +174,7 @@ Stealth origination is an act of respect.
 
 One founder speaks to another human being, not to a marketplace of bidders. 
 
-### Phase III
+### Phase III:
 
 - INTERNAL STRUCTURE The architectural breakdown follows
 

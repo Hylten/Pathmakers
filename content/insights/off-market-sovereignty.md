@@ -32,7 +32,7 @@ A truth most advisors avoid because acknowledging it would dismantle their own b
 
 We begin. ( 
 
-### Phase I
+### Phase I:
 
 ): THE PRIVATE BRIEFING The collapse did not happen in a singular moment.
 
@@ -156,7 +156,7 @@ Exit readiness is a posture.
 
 INTERNAL BYPASS ( 
 
-### Phase II: I
+### Phase II:
 
 ): STRUCTURAL DEPTH The core failure of the auction process is informational decay.
 

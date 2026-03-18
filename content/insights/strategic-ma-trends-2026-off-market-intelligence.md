@@ -24,7 +24,7 @@ They reward operational intelligence.
 
 That is the context in which serious buyers must recalibrate their posture. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -84,7 +84,7 @@ Not a forecast.
 
 A recognition. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -182,7 +182,7 @@ Buyers must expand their off market sourcing capabilities.
 
 This alignment is not optional. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL: ROIALS CAPITAL AND THE GENERAL The modern transaction landscape favors entities capable of engineering strategic alignment, controlling information flow, and facilitating institutional introductions.
 
@@ -218,7 +218,7 @@ The General addresses these pre transaction inefficiencies with precision and di
 
 This partnership model reduces friction for buyers and increases transaction readiness for sellers. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER : THEOLOGY OF CAPITAL Strategic M&A is not only a technical exercise.
 
@@ -256,7 +256,7 @@ It manifests as clean data, transparent governance, and resilient processes.
 
 Sellers who adopt the stewardship posture create smoother pathways for institutional alignment. 
 
-### Phase V: .
+### Phase V:
 
 THE
 

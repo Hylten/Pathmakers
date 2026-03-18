@@ -42,11 +42,11 @@ Three domains consistently show the highest uplift effect:
 
 Operational Transparency 
 
-### Layer II: .
+### Layer II:
 
 Financial Coherence 
 
-### Layer III: .
+### Layer III:
 
 Forward Narrative Layer Together they form the exit readiness spine.
 

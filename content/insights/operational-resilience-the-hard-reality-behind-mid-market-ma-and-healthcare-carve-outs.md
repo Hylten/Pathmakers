@@ -72,7 +72,7 @@ Inventory, patient counts, billing metrics, and utilization numbers rarely tie o
 
 When the data 
 
-### Layer I
+### Layer I:
 
 s weak, integration teams and operators waste months building clarity that should have existed already.
 

@@ -214,7 +214,7 @@ This is the environment in which Roials Capital operates: the engineering of pat
 
 For allocators, the next 
 
-### Step I
+### Step I:
 
 s a confidential strategy audit focused on portfolio calibration.
 

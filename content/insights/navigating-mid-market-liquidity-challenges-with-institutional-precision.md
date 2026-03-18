@@ -28,7 +28,7 @@ Pathmaker exists to correct that pattern.
 
 We 
 
-### Step I
+### Step I:
 
 n where silence is required, where structural mechanics matter, and where larger institutions cannot or will not move.
 
@@ -276,7 +276,7 @@ Exit optionality.
 
 Each 
 
-### Step I
+### Step I:
 
 s executed with institutional precision and private discretion.
 

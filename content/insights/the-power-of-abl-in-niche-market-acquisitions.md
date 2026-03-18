@@ -204,7 +204,7 @@ While EBITDA is only $19M with high seasonal variance, the business possesses a 
 
 Objective Acquire the business with minimal equity outlay to maintain capital raising for mid-market buyout momentum while positioning for bolt on expansion. 
 
-### Step I
+### Step I:
 
 Asset Evaluation The sponsor executes a forensic asset audit.
 
@@ -235,7 +235,7 @@ Obsolescence minimal.
 
 Appraised at $12.4M. 
 
-### Step I: I
+### Step I:
 
 Advance Rate Determination The Asset-Based Lending partner offers:
 
@@ -286,7 +286,7 @@ However, the sponsor employs a UHNW co investment vehicle integrated with UHNW l
 
 This preserves capital for simultaneous bolt on targeting a smaller $18M compression unit refurbisher. 
 
-### Step IV
+### Step IV:
 
 RCM Optimization Post acquisition, the sponsor introduces
 
@@ -315,7 +315,7 @@ This reduces field audit requirements and increases lender comfort.
 Asset-Based Lending advance adjustments allow a 
 2 percent increase to equipment borrowing base yielding an additional $1.02M liquidity. 
 
-### Step V: I
+### Step V:
 
 Covenant Resilience During Oil Price Shock Six months post acquisition, crude prices drop
 
@@ -327,7 +327,7 @@ Since the Asset-Based Lending is governed by asset values, not EBITDA leverage, 
 
 The business continues stable servicing during a market contraction. 
 
-### Step VI: I
+### Step VI:
 
 Exit Scenario By year four the sponsor executes a secondary sale to a strategic consolidator at a $228M valuation.
 

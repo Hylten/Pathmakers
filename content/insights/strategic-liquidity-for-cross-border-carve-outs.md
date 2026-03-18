@@ -46,7 +46,7 @@ We do not sell optimism, stories, or theoretical turnarounds.
 
 We build structural liquidity mechanics that allow high net worth and ultra high net worth buyers to 
 
-### Step I
+### Step I:
 
 nto a carve-out with institutional discipline and private capital agility.
 
@@ -283,13 +283,13 @@ Contracts.
 
 We examine what is stable, what is temporary, and what is misreported due to parent company allocation. 
 
-### Step I: I
+### Step I:
 
 Map liquidity to operational rhythm Every jurisdiction operates at a different pace.
 
 We synchronize liquidity to those rhythms so the buyer does not have to. 
 
-### Step III
+### Step III:
 
 Build redundancy One source of liquidity is never enough
 
@@ -297,7 +297,7 @@ Build redundancy One source of liquidity is never enough
 
 We build overlapping liquidity so that shocks are absorbed instead of transmitted through the organization. 
 
-### Step I: V
+### Step I:
 
 Support the transition window The first ninety to one hundred eighty days define the outcome.
 

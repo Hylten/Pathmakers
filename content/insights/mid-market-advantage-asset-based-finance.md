@@ -108,7 +108,7 @@ The technical edge is created by structuring capital around assets the operator 
 
 This reduces friction in future audits, M&A exits, or lender transitions. 
 
-### Phase I: I
+### Phase I:
 
 B: EXIT READINESS AS A BALANCE SHEET DISCIPLINE The majority of mid-market companies do not fail due to poor operations.
 
@@ -136,7 +136,7 @@ In practical terms,
 
 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction. 
 
-### Phase I: I
+### Phase I:
 
 C: OFF-MARKET ORIGINATION AND INFORMATION ASYMMETRY The highest-quality mid-market opportunities never enter public market circulation.
 

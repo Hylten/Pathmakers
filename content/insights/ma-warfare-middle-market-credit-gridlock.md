@@ -230,13 +230,13 @@ This briefing serves as a navigational reference point for market participants r
 
 For operators preparing for exit, the next 
 
-### Step I
+### Step I:
 
 s a confidential assessment focused on structural gaps, reporting integrity, and transaction feasibility.
 
 For allocators evaluating opportunities, the next 
 
-### Step I
+### Step I:
 
 s an analytical dialogue regarding market posture, sector specific underwriting, and off market sourcing frameworks.
 

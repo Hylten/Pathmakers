@@ -248,7 +248,7 @@ The partnership model follows four pillars.
 
 Strategic Alignment The first 
 
-### Step I
+### Step I:
 
 s aligning the company’s internal objectives with the expectations of acquirers who operate within a professional investment framework.
 

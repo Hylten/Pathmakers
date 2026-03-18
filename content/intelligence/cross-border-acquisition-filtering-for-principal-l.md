@@ -38,7 +38,7 @@ Together they create a dealflow system that feels clean, light, and fully aligne
 
 - 
 
-### Pillar I: .
+### Pillar I:
 
 Precision Filtering Remove 
 
@@ -100,7 +100,7 @@ Clarity reduces regret.
 
 - 
 
-### Pillar II: .
+### Pillar II:
 
 Structured Cross Border Engagement Make international outreach behave like domestic outreach Cross border origination fails when the buyer loses control of tempo.
 
@@ -164,7 +164,7 @@ This reduces drop off and accelerates documentation speed.
 
 - 
 
-### Pillar III: .
+### Pillar III:
 
 Technical Progression Control Move serious sellers forward, freeze everyone else Most deals die because progression is not controlled.
 

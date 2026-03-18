@@ -16,7 +16,7 @@ The constraint resides in the liquidity architecture that governs deal execution
 
 Private credit has therefore migrated from a peripheral asset class to a central instrument for tactical Strategic Collateralization across the acquisition lifecycle. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -62,7 +62,7 @@ This function is not cyclical.
 
 It is structural. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -190,7 +190,7 @@ Private credit structures in mid market M and A typically include:
 
 The waterfall functions as a financial architecture that ensures acquisition stability during post close integration. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates in the role of strategic navigator and institutional introducer.
 
@@ -236,7 +236,7 @@ This model does not replace lawyers, bankers, or consultants.
 
 It aligns them. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of coordinated resource management.
 
@@ -272,7 +272,7 @@ Stewardship ensures continuity, not disruption.
 
 The aim is the preservation of legacy through strategic alignment. 
 
-### Phase V: .
+### Phase V:
 
 THE
 

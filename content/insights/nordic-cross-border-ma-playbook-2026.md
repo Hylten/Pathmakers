@@ -330,7 +330,7 @@ The region is no longer a quiet corner of Europe suitable for occasional opportu
 
 It has become a central 
 
-### Axis I
+### Axis I:
 
 n global private equity rotation, driven by governance stability, engineering density, and energy infrastructure adjacency.
 

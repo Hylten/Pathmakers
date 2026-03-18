@@ -324,7 +324,7 @@ Operational Convergence Once separated and financed, the spin-off must converge 
 
 This 
 
-### Phase I
+### Phase I:
 
 s where the asset is hardened for acquisition, scale, or long-term stewardship.
 

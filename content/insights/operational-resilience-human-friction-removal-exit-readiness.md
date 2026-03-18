@@ -332,31 +332,31 @@ Resilience is durable.
 
 DECISION MAKING LENS FOR THE ALLOCATOR OR OWNER The owner or allocator must evaluate operational resilience through a multi axis framework. 
 
-### Axis I
+### Axis I:
 
 Systemic Continuity Can the enterprise operate without any one person.
 
 If not, the enterprise is not exit ready. 
 
-### Axis I: I
+### Axis I:
 
 Diligence Readiness Can the enterprise withstand full spectrum diligence without disruption.
 
 Buyers do not accept operational slowdown during diligence. 
 
-### Axis II: I
+### Axis II:
 
 Integration Burden Is the enterprise architected for low friction integration into a larger platform.
 
 Integration burden is a primary driver of purchase price adjustments. 
 
-### Axis I: V
+### Axis I:
 
 Codified Value Is the business built on documented systems or undocumented habits.
 
 Institutional value must be transferable. 
 
-### Axis V
+### Axis V:
 
 Optionality Does the operational architecture create optionality for sale, recapitalization, management transition, or geographic expansion.
 

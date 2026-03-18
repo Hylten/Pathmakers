@@ -62,7 +62,7 @@ S
 
 Every 
 
-### Step I
+### Step I:
 
 s designed to meet the institutional threshold required by sovereign entities, private credit platforms, and major family office consortiums.
 
@@ -180,7 +180,7 @@ It ensures that the allocator can operate without unnecessary friction, without 
 
 The next 
 
-### Phase I
+### Phase I:
 
 s a confidential strategy audit designed to identify structural constraints, assess institutional readiness, and map the allocator's existing position against sovereign financing thresholds.
 

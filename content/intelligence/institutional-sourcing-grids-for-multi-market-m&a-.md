@@ -220,7 +220,7 @@ Once each grid is constructed, the team evaluates cross market relationships, ac
 
 Below is the sequence for constructing multi market grids. 
 
-### Step I
+### Step I:
 
 Market Definition with Constraint Logic Expansion choices often fail because the team uses opportunity logic rather than constraint logic.
 
@@ -232,7 +232,7 @@ Multi market grids begin with constraints.
 
 This stabilizes the acquisition thesis and directs sourcing toward markets with accessible transaction pathways. 
 
-### Step I: I
+### Step I:
 
 Build the Primary Grid for the Anchor Market The anchor market is the highest confidence environment.
 
@@ -252,7 +252,7 @@ The anchor market grid defines:
 
 • The conversion process This grid becomes the institutional template. 
 
-### Step II: I
+### Step II:
 
 Deploy Parallel Grid Construction in Secondary Markets Parallel grid construction ensures conceptual consistency across markets.
 
@@ -266,7 +266,7 @@ Healthcare carve outs often reveal dramatic differences between states, referral
 
 Parallel construction respects these realities. 
 
-### Step I: V
+### Step I:
 
 Cross Market Integration Review Once each market grid is constructed, the team performs an integration review.
 
@@ -278,7 +278,7 @@ The integration review identifies where the funnel density will be highest and w
 
 This becomes the roadmap for sourcing prioritization. 
 
-### Step V
+### Step V:
 
 Establish the Multi Market Funnel Engine A multi market funnel engine aligns all grids into a single operating system.
 

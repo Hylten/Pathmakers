@@ -202,7 +202,7 @@ Allocators who understand these mechanics can assess enterprise maturity with gr
 
 The correct next 
 
-### Step I
+### Step I:
 
 s a confidential Strategy Calibration Review designed to map the enterprise profile to the required financing structure and institutional counterparties.
 
