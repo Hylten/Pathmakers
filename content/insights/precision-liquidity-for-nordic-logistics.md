@@ -271,7 +271,7 @@ We are an institutional mechanism.
 
 We give shape to liquidity that would otherwise remain inaccessible.
 
-CONCLUSIO N
+CONCLUSION
 
 : The Operators Who Win Are the Operators Who Move The Nordic logistics sector rewards execution.
 

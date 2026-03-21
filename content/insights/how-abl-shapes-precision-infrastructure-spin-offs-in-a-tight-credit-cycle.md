@@ -163,7 +163,7 @@ Decisively.
 
 Without spectacle.
 
-CONCLUSIO N
+CONCLUSION
 
 : Asset-Based Lending Is the Most Underestimated Advantage in Precision Infrastructure Spin-Offs Precision infrastructure rewards operators who understand friction.
 

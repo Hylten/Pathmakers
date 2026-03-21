@@ -301,7 +301,7 @@ Our involvement is discreet.
 
 Our impact is not.
 
-CONCLUSIO N
+CONCLUSION
 
 : Nordic Growth Belongs to the Prepared The Nordic region is not a playground for speculative capital.
 

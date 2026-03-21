@@ -159,7 +159,7 @@ For introducers and institutional buyers, Asset-Based Lending acts as a filtrati
 
 It distinguishes companies with genuine transition probability from those still in operational flux.
 
-ROIALS CAPITAL AND THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
+Roials Capital AND THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
 The role is institutional
 

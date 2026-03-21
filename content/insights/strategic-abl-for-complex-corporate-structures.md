@@ -234,7 +234,7 @@ Your name stays at the front.
 
 Our mechanics stay in the background.
 
-CONCLUSIO N
+CONCLUSION
 
 Complex corporate structures are not liabilities.
 

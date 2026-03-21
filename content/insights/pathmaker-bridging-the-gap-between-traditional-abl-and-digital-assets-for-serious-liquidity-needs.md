@@ -259,7 +259,7 @@ We bring principal authority to transactions that benefit from discretion.
 
 We execute at a level that serves the realities of HNWI and UHNW borrowers.
 
-CONCLUSIO N
+CONCLUSION
 
 Liquidity is a strategic weapon.
 

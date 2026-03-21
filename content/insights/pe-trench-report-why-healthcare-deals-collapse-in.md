@@ -456,7 +456,7 @@ Execution velocity signals operational maturity.
 
 Operational maturity commands a premium.
 
-CONCLUSIO N. The 2026 Reality Healthcare deals are collapsing because sellers enter the battlefield unprepared for the standards of institutional acquisition.
+CONCLUSION. The 2026 Reality Healthcare deals are collapsing because sellers enter the battlefield unprepared for the standards of institutional acquisition.
 
 The environment is not unfair.
 

@@ -201,7 +201,7 @@ Strategic liquidity creates acquisition power.
 
 Acquisition power wins mid‑market M&A.
 
-CONCLUSIO N
+CONCLUSION
 
 : The Investors Who Control Liquidity Control the Market The mid‑market will always reward the buyer who arrives prepared.
 

@@ -175,7 +175,7 @@ Critical vectors:
 
 This distinction governs the trajectory of exit timing, valuation realism, and deal certainty.
 
-THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL Roials Capital operates as a strategic navigator and institutional introducer.
+THE PARTNERSHIP MODEL AND THE ROLE OF Roials Capital Roials Capital operates as a strategic navigator and institutional introducer.
 
 The role is not transaction execution but structural calibration and readiness engineering.
 

@@ -12,20 +12,16 @@ function parseFrontmatter(raw: string) {
     const content = parts.slice(2).join('---').trim();
     const data: Record<string, string> = {};
 
-    const lines = frontmatter.split(/\n/);
-    lines.forEach(line => {
-        const colonIdx = line.indexOf(':');
-        if (colonIdx !== -1) {
-            const key = line.slice(0, colonIdx).trim();
-            let value = line.slice(colonIdx + 1).trim();
-            if (key && !data[key]) {
-                if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-                    value = value.slice(1, -1);
-                }
-                data[key] = value;
-            }
+    // Robust regex to extract metadata keys and values (handles one-line and multi-line)
+    const regex = /([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n\r]+))/g;
+    let match;
+    while ((match = regex.exec(frontmatter)) !== null) {
+        const key = match[1];
+        const value = match[2] || match[3] || match[4];
+        if (key && !data[key]) {
+            data[key] = value;
         }
-    });
+    }
     
     return { data, content };
 }

@@ -169,7 +169,7 @@ This alignment is not optional.
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL: ROIALS CAPITAL AND THE GENERAL The modern transaction landscape favors entities capable of engineering strategic alignment, controlling information flow, and facilitating institutional introductions.
+THE PARTNERSHIP MODEL: Roials Capital AND THE GENERAL The modern transaction landscape favors entities capable of engineering strategic alignment, controlling information flow, and facilitating institutional introductions.
 
 Roials Capital functions in this category.
 

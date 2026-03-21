@@ -279,7 +279,7 @@ Asset-Based Lending creates:
 
 - The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge.
 
-CONCLUSIO N
+CONCLUSION
 
 : Asset-Based Lending Is the Structural Advantage Serious Buyers Need Technology carve-outs are complicated, resource-intensive, and always more expensive than the models suggest.
 

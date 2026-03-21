@@ -355,7 +355,7 @@ Gnosjö ensures respect for the operational core.
 
 Technical edge ensures precision in structuring.
 
-CONCLUSIO N
+CONCLUSION
 
 Asset based structures now sit at the center of niche market acquisition strategy.
 

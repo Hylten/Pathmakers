@@ -307,7 +307,7 @@ Engineering fluency, regulatory literacy, treasury sophistication, and integrati
 
 Operators who treat the Nordics as a simple sourcing geography or a low risk add on will fail to capture full value.
 
-CONCLUSIO N
+CONCLUSION
 
 Nordic cross border M and A has entered a new structural phase.
 

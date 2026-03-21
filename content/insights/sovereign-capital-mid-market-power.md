@@ -83,7 +83,7 @@ Suppliers, banks, and regulators understand that a national balance sheet implic
 
 This effect has measurable value, particularly in industries such as logistics, manufacturing, food processing, and infrastructure adjacent asset classes.
 
-THE PARTNERSHIP MODEL OF ROIALS CAPITAL Roials Capital operates as a strategic navigator within this environment.
+THE PARTNERSHIP MODEL OF Roials Capital Roials Capital operates as a strategic navigator within this environment.
 
 The firm is not the capital source.
 

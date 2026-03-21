@@ -161,7 +161,7 @@ They increase opportunity velocity.
 
 They reshape the negotiation dynamics entirely because a buyer is engaging with clarity rather than opacity.
 
-THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL Roials Capital operates as an institutional navigator and introducer.
+THE PARTNERSHIP MODEL AND THE ROLE OF Roials Capital Roials Capital operates as an institutional navigator and introducer.
 
 The firm does not position itself as the operator of the underlying assets.
 

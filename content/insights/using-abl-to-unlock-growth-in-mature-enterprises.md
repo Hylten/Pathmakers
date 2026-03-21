@@ -223,7 +223,7 @@ No inflated promises.
 
 Just disciplined capital engineering that aligns perfectly with the cadence of experienced operators.
 
-CONCLUSIO N
+CONCLUSION
 
 Mature enterprises do not need rescue.
 
