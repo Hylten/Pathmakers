@@ -331,7 +331,5 @@ We give HNWI and UHNW clients the structural mechanics that allow them to operat
 
 If liquidity is the bloodstream of your business, Pathmaker is the vascular architecture.
 
-Book a strategic consultatio
-
-n Access is restricted to approved mandates.
+Book a strategic consultatio n Access is restricted to approved mandates.
 

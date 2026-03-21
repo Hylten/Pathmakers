@@ -398,9 +398,7 @@ It is also the first to miss structural opportunity because it lacks the capital
 
 Precision financing solves the gap.
 
-How Principals Should Think About Spin-off Opportunities A disciplined Principal evaluates spin-offs based o
-
-n Structural Truth Is the business truly standalone, or is it an appendage pretending to be independent
+How Principals Should Think About Spin-off Opportunities A disciplined Principal evaluates spin-offs based o n Structural Truth Is the business truly standalone, or is it an appendage pretending to be independent
 
 ?
 

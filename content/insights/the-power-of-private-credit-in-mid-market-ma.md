@@ -285,7 +285,5 @@ Our posture is straightforward:
 
 - Maximum execution If you understand the opportunity in mid-market M&A, and especially if you operate in healthcare or other operationally fragmented sectors, our capital is engineered for your strategy.
 
-Book a strategic consultatio
-
-n Access is restricted to approved mandates.
+Book a strategic consultatio n Access is restricted to approved mandates.
 

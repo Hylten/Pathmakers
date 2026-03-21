@@ -19,9 +19,7 @@ We operate as the structural mechanic within the capital stack, the principal au
 
 In the mid‑market, especially in healthcare carve outs, the investor who controls liquidity dictates the pace and the terms.
 
-The Additional Liquidity Channel
-
-s Crypto Capital Structuring Minimum threshold: 2,000
+The Additional Liquidity Channel s Crypto Capital Structuring Minimum threshold: 2,000
 
 , 000 USD.
 

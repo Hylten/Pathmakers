@@ -151,7 +151,5 @@ Because in healthcare finance, noise is cheap.
 
 Execution is priceless.
 
-Book a strategic consultatio
-
-n Access is restricted to approved mandates.
+Book a strategic consultatio n Access is restricted to approved mandates.
 

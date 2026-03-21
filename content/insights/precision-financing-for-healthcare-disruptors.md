@@ -193,7 +193,5 @@ We create liquidity structures that outmaneuver legacy lenders.
 
 We give our clients the ability to operate without hesitation.
 
-Book a strategic consultatio
-
-n Access is restricted to approved mandates.
+Book a strategic consultatio n Access is restricted to approved mandates.
 

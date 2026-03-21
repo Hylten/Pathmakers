@@ -7,9 +7,7 @@ It is the consequence of a structural misalignment between functional assets and
 
 Healthcare operators frequently carry under-optimized balance sheets that limit strategic mobility.
 
-The INTRODUCTION
-
-of disciplined Asset Based Lending within carve-out environments has emerged as one of the most reliable Monetization Architecture tools for serious operators preparing for scale, divestiture, or strategic consolidation.
+The INTRODUCTION of disciplined Asset Based Lending within carve-out environments has emerged as one of the most reliable Monetization Architecture tools for serious operators preparing for scale, divestiture, or strategic consolidation.
 
 THE REGIME SHIFT The healthcare M&A environment of 2026 is defined by three regime-level shifts that directly influence carve-out execution and post-transaction stabilization.
 

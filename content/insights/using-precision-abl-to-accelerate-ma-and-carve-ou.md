@@ -85,9 +85,7 @@ Examples include:
 
 - Seasonal
 
-# Step D: owns that match real revenue timin
-
-g
+# Step D: owns that match real revenue timin g
 
 - Dynamic advance rates tied to payer velocity or inventory turns
 

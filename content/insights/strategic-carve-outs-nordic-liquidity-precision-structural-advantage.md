@@ -482,9 +482,7 @@ What structural advantage can be designed?
 
 Carve-outs answer all three when handled at principal level.
 
-TACTICAL PLAYBOOK: NORDIC CARVE-OUT EXECUTION Phase A: Pre‑Separation Desig
-
-n
+TACTICAL PLAYBOOK: NORDIC CARVE-OUT EXECUTION Phase A: Pre‑Separation Desig n
 
 - Perimeter mapping
 
@@ -504,9 +502,7 @@ n
 
 - IT decentralization routes
 
-# Phase C: Market Positionin
-
-g
+# Phase C: Market Positionin g
 
 - Buyer segmentation
 
@@ -516,9 +512,7 @@ g
 
 - Off‑market intimations
 
-# Phase D: Executio
-
-n
+# Phase D: Executio n
 
 - Process compression
 

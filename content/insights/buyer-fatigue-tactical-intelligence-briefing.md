@@ -183,9 +183,7 @@ The principal truth stands: fatigue rises in environments where uncertainty comp
 
 Tactical Intelligence restores the ratio.
 
-STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical sectio
-
-n
+STRUCTURAL technical brief: THE ARCHITECTURE BEHIND BUYER FATIGUE ( Expanded analytical sectio n
 
 - long-form technical breakdown) The mid‑market M&A ecosystem is trapped in a paradox: deal volume is up, but conviction is down.
 

@@ -253,9 +253,7 @@ This preserves capital for simultaneous bolt on targeting a smaller $18M compres
 
 ### Step IV:
 
-RCM Optimization Post acquisition, the sponsor introduces
-
-a 4 tier receivable segmentation model, enabling accelerated collections from high grade midstream clients.
+RCM Optimization Post acquisition, the sponsor introduces a 4 tier receivable segmentation model, enabling accelerated collections from high grade midstream clients.
 
 Days sales outstanding drops from
 
@@ -265,9 +263,7 @@ Days sales outstanding drops from
 
 The Asset-Based Lending line auto expands by $3.1M due to increased eligible receivables.
 
-### Step V: Asset Hardening The operator deploys IoT modules o
-
-n 117 major equipment assets, providing real time utilization telemetry.
+### Step V: Asset Hardening The operator deploys IoT modules o n 117 major equipment assets, providing real time utilization telemetry.
 
 This reduces field audit requirements and increases lender comfort.
 

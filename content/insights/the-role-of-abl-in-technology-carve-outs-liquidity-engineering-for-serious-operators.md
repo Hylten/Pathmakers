@@ -169,9 +169,7 @@ Buyers can:
 
 -
 
-### Layer I: n additional acquisition financin
-
-g
+### Layer I: n additional acquisition financin g
 
 - Prepare the asset for secondary sale
 

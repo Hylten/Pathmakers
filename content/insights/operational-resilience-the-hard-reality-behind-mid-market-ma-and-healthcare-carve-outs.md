@@ -197,9 +197,7 @@ Faster Integrations The more resilient the asset, the faster it integrates, the 
 
 Scalable Infrastructure A resilient operation supports bolt on acquisitions, strategic partnerships, and new service lines without collapsing under complexity. Reduced Compliance Risk In healthcare, resilience reduces regulatory exposure and decreases the probability of fines, audits, and operational shutdowns. Lower TSA Burden Operationally resilient assets exit TSAs faster, which directly improves deal economics and reduces hidden integration costs.
 
-The Myths That Destroy Operational Resilienc
-
-e Myth One: Culture Fixes Everything Culture matters, but it cannot compensate for weak systems, bad data, or broken processes. Resilience is engineered, not wished into existence.
+The Myths That Destroy Operational Resilienc e Myth One: Culture Fixes Everything Culture matters, but it cannot compensate for weak systems, bad data, or broken processes. Resilience is engineered, not wished into existence.
 
 Myth Two: Technology Will Solve It Technology accelerates what already exists. If processes are inconsistent, technology makes inconsistency faster.
 

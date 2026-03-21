@@ -521,7 +521,5 @@ Honors community.
 
 Honors the sacred trust of ownership.
 
-Book a strategic consultatio
-
-n Access is restricted to approved mandates.
+Book a strategic consultatio n Access is restricted to approved mandates.
 

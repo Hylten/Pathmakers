@@ -285,29 +285,17 @@ It is a process of removing future litigation, future renegotiation, future valu
 
 Exit readiness contains seven structural layers:
 
-### Layer I: Financial narrative integrit
+### Layer I: Financial narrative integrit y
 
-y
+### Layer II: Customer and revenue durabilit y
 
-### Layer II: Customer and revenue durabilit
+### Layer III: Operational redundanc y
 
-y
+### Layer IV: Leadership transition clarit y
 
-### Layer III: Operational redundanc
+### Layer V: Legal and compliance hygien e
 
-y
-
-### Layer IV: Leadership transition clarit
-
-y
-
-### Layer V: Legal and compliance hygien
-
-e
-
-### Layer VI: Market positioning realis
-
-m
+### Layer VI: Market positioning realis m
 
 ### Layer VI:
 
