@@ -1,9 +1,4 @@
----
-title: "Tactical Due Diligence and Asset Hardening for GP Acquisitions: Institutional Readiness in the 2026 Mid-Market M&A Cycle"
-description: "A strategic framework for institutional allocators and GP buyers evaluating mid-market platforms through tactical due diligence, structural hardening, and frictionless exit design."
-date: "2026-03-05"
-author: "Jonas Hyltén"
-slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
+--- title: "Tactical Due Diligence and Asset Hardening for GP Acquisitions: Institutional Readiness in the 2026 Mid-Market M&A Cycle" description: "A strategic framework for institutional allocators and GP buyers evaluating mid-market platforms through tactical due diligence, structural hardening, and frictionless exit design." date: "2026-03-05" author: "Jonas Hyltén" slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
 --- 
 
 The capital vacuum shaping the 2026 European and North American mid-market M&A environment is not a function of scarcity.
@@ -234,11 +229,7 @@ This neutrality is critical.
 
 The focus is operational truth, not transaction momentum.
 
-THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management
-
-.
-
-It is the counter-force to operational drift, valuation overstatement, and poorly structured leadership transitions.
+THE STEWARDSHIP FILTER Stewardship in M&A is the discipline of non-wasteful resource management. It is the counter-force to operational drift, valuation overstatement, and poorly structured leadership transitions.
 
 Stewardship operates through four principles. 
 

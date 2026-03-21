@@ -1,9 +1,4 @@
----
-title: "Operational Resilience Through Strategic Financing: Institutional Mechanics for Exit-Ready Enterprises"
-description: "A high density analyst briefing on structural financing gaps, liquidity engineering, balance sheet optimization, and the operational mechanics required to achieve exit readiness and eliminate M&A friction across the European and North American mid market landscape."
-date: "2025-09-28"
-author: "Jonas Hyltén"
-slug: "operational-resilience-strategic-financing"
+--- title: "Operational Resilience Through Strategic Financing: Institutional Mechanics for Exit-Ready Enterprises" description: "A high density analyst briefing on structural financing gaps, liquidity engineering, balance sheet optimization, and the operational mechanics required to achieve exit readiness and eliminate M&A friction across the European and North American mid market landscape." date: "2025-09-28" author: "Jonas Hyltén" slug: "operational-resilience-strategic-financing"
 --- 
 
 The capital vacuum across the European and North American mid market is not caused by a lack of lender appetite.
@@ -166,11 +161,7 @@ Strategic Financing is not dependent on market conditions.
 
 It is dependent on structural alignment.
 
-THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources and opportunities
-
-.
-
-It is not conservation.
+THE STEWARDSHIP FILTER Stewardship is the disciplined management of resources and opportunities. It is not conservation.
 
 It is structured deployment.
 
@@ -224,10 +215,6 @@ This briefing provides the operational mechanics.
 
 The next 
 
-### Step I: s structural mapping
-
-.
-
-Access is restricted to approved mandates.
+### Step I: s structural mapping. Access is restricted to approved mandates.
 
 Minimum target size: $5M+.

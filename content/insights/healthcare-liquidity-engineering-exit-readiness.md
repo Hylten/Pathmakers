@@ -1,9 +1,4 @@
----
-title: "Unlocking Value in Healthcare Assets Through Asset Based Liquidity Engineering"
-description: "Institutional briefing on structural inefficiencies in European healthcare operations, exit readiness mechanics, and balance sheet optimization frameworks that eliminate M&A friction and accelerate off-market transaction velocity."
-date: "2025-08-17"
-author: "Jonas Hyltén"
-slug: "healthcare-liquidity-engineering-exit-readiness"
+--- title: "Unlocking Value in Healthcare Assets Through Asset Based Liquidity Engineering" description: "Institutional briefing on structural inefficiencies in European healthcare operations, exit readiness mechanics, and balance sheet optimization frameworks that eliminate M&A friction and accelerate off-market transaction velocity." date: "2025-08-17" author: "Jonas Hyltén" slug: "healthcare-liquidity-engineering-exit-readiness"
 --- 
 
 The capital vacuum in European healthcare is not a function of weak fundamentals.
@@ -80,11 +75,7 @@ Working Capital Precision Engineering
 
 Exit Architecture Alignment Each 
 
-### Pillar I: s described with technical specificity
-
-.
-
-1.
+### Pillar I: s described with technical specificity. 1.
 
 Asset Hardening Asset hardening converts operational assets into institutionally bankable collateral without compromising regulatory compliance or service continuity.
 
@@ -194,11 +185,7 @@ This partnership model ensures operators do not enter acquisition or refinancing
 
 Institutional alignment is engineered before capital engagement, which preserves valuation and accelerates decision making.
 
-THE STEWARDSHIP FILTER Stewardship is the disciplined management of assets, capital, and operational integrity
-
-.
-
-Within healthcare, stewardship carries heightened responsibility due to the mission critical nature of the services delivered.
+THE STEWARDSHIP FILTER Stewardship is the disciplined management of assets, capital, and operational integrity. Within healthcare, stewardship carries heightened responsibility due to the mission critical nature of the services delivered.
 
 Three stewardship principles guide the Strategic Collateralization process: 
 

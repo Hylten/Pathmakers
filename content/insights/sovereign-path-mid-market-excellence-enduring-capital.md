@@ -1,9 +1,4 @@
----
-title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
-description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment, operational intelligence, and the sovereign discipline underlying durable value creation."
-date: "2025-11-23"
-author: "Jonas Hyltén"
-slug: "sovereign-path-mid-market-excellence-enduring-capital"
+--- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment, operational intelligence, and the sovereign discipline underlying durable value creation." date: "2025-11-23" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence-enduring-capital"
 --- 
 
 The capital vacuum throughout the European and North American mid‑market is a structural consequence of fragmented diligence practices and inconsistent exit preparedness, not a lack of enterprise value.
@@ -200,11 +195,7 @@ The objective is not promotion.
 
 The objective is institutional navigation.
 
-THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management
-
-.
-
-Stewardship is the opposite of extraction.
+THE STEWARDSHIP FILTER Enduring capital is rooted in a specific philosophy of resource management. Stewardship is the opposite of extraction.
 
 It is the discipline of non-wasteful operational conduct.
 

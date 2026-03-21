@@ -1,9 +1,4 @@
----
-title: "Tactical Intelligence For Nordic Cross Border Acquisitions: Strategic Alignment, Exit Readiness, And Frictionless Execution"
-description: "An institutional-grade briefing on the structural dynamics, operational mechanics, and cross border execution patterns shaping Nordic mid market M&A. Focus on exit calibration, friction removal, and off market acquisition intelligence for allocators and corporate strategics."
-date: "2025-12-14"
-author: "Jonas Hyltén"
-slug: "tactical-intelligence-nordic-cross-border-acquisitions"
+--- title: "Tactical Intelligence For Nordic Cross Border Acquisitions: Strategic Alignment, Exit Readiness, And Frictionless Execution" description: "An institutional-grade briefing on the structural dynamics, operational mechanics, and cross border execution patterns shaping Nordic mid market M&A. Focus on exit calibration, friction removal, and off market acquisition intelligence for allocators and corporate strategics." date: "2025-12-14" author: "Jonas Hyltén" slug: "tactical-intelligence-nordic-cross-border-acquisitions"
 --- 
 
 The capital vacuum in the Nordic mid market is a consequence of regulatory tightening, compressed bank underwriting lanes, and valuation drift across Europe.

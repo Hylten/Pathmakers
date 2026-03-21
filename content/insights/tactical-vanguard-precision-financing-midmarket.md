@@ -1,9 +1,4 @@
----
-title: "The Tactical Vanguard: Precision Financing For Mid-Market Consolidation"
-description: "Institutional briefing on precision financing, exit readiness, deal friction removal, and high fidelity origination mechanics for European and North American mid-market operators."
-date: "2025-11-14"
-author: "Jonas Hyltén"
-slug: "tactical-vanguard-precision-financing-midmarket"
+--- title: "The Tactical Vanguard: Precision Financing For Mid-Market Consolidation" description: "Institutional briefing on precision financing, exit readiness, deal friction removal, and high fidelity origination mechanics for European and North American mid-market operators." date: "2025-11-14" author: "Jonas Hyltén" slug: "tactical-vanguard-precision-financing-midmarket"
 --- 
 
 The capital vacuum across the European and North American mid-market is a direct consequence of structural fragmentation, regulatory compression, and an institutional preference for scale.
@@ -131,11 +126,7 @@ They lack institutional visibility.
 
 The partnership model exists to close that gap.
 
-THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation
-
-.
-
-It is the application of moral and operational clarity to capital decisions.
+THE STEWARDSHIP FILTER Stewardship is the governance discipline that protects operators from wasteful resource allocation. It is the application of moral and operational clarity to capital decisions.
 
 The theology of capital treats capital as a resource with purpose, not as an instrument of speculation.
 

@@ -1,9 +1,4 @@
----
-title: "The Strategic Function of Asset Based Lending in Niche Market Acquisitions"
-description: "An institutional analysis of ABL mechanics, acquisition efficiency, balance sheet optimization, and exit readiness in specialized mid-market environments."
-date: "2025-10-31"
-author: "Jonas Hyltén"
-slug: "strategic-function-abl-niche-acquisitions"
+--- title: "The Strategic Function of Asset Based Lending in Niche Market Acquisitions" description: "An institutional analysis of ABL mechanics, acquisition efficiency, balance sheet optimization, and exit readiness in specialized mid-market environments." date: "2025-10-31" author: "Jonas Hyltén" slug: "strategic-function-abl-niche-acquisitions"
 --- 
 
 The capital imbalance within niche market acquisitions is a product of fragmentation, not a lack of creditworthy assets.
@@ -202,11 +197,7 @@ In the North American energy sector, NAEO functions as a technical partner with 
 
 In European and Nordic markets, the focus is on capital optimization within manufacturing, industrial services, and specialized logistics.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment
-
-.
-
-It is the application of capital where it generates productive, non speculative utility.
+THE STEWARDSHIP FILTER Stewardship is the discipline of resource alignment. It is the application of capital where it generates productive, non speculative utility.
 
 ABL, when applied correctly, reinforces this discipline.
 

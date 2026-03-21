@@ -1,16 +1,7 @@
----
-title: "Healthcare M&A Strategies"
-description: "Insights on Healthcare M&A Strategies from Roials Capital and Hyltén Invest."
-date: "2026-02-18"
-author: "Jonas Hyltén"
-slug: "healthcare-ma-strategies"
+--- title: "Healthcare M&A Strategies" description: "Insights on Healthcare M&A Strategies from Roials Capital and Hyltén Invest." date: "2026-02-18" author: "Jonas Hyltén" slug: "healthcare-ma-strategies"
 --- 
 
-# Healthcare M&A Strategies Pathmaker's Pragmatic Guide to Mid‑Market Value Creation The Real State of Healthcare M&A Mid‑market healthcare M&A is not romantic
-
-.
-
-It is not a story of heroic turnarounds or sweeping integrations.
+# Healthcare M&A Strategies Pathmaker's Pragmatic Guide to Mid‑Market Value Creation The Real State of Healthcare M&A Mid‑market healthcare M&A is not romantic. It is not a story of heroic turnarounds or sweeping integrations.
 
 It is a grind.
 
@@ -26,11 +17,7 @@ And carve outs require a level of precision few internal teams can sustain witho
 
 This is the environment where disciplined strategy wins and wishful thinking destroys IRR.
 
-Why Mid‑Market Healthcare Deals Behave Differently Healthcare targets are not generic companies that can be reshaped overnight
-
-.
-
-They come with clinical risk, regulated workflows, legacy contracts, and stakeholders who do not respond well to disruption.
+Why Mid‑Market Healthcare Deals Behave Differently Healthcare targets are not generic companies that can be reshaped overnight. They come with clinical risk, regulated workflows, legacy contracts, and stakeholders who do not respond well to disruption.
 
 In the mid‑market, these constraints get amplified.
 
@@ -46,11 +33,7 @@ A buyer who underestimates this loses money.
 
 A buyer who overestimates operational synergies loses even more.
 
-The Only Strategic Lens That Works: Precision Winning in healthcare M&A requires a cold‑eyed view of what is real
-
-.
-
-Not what could be real someday.
+The Only Strategic Lens That Works: Precision Winning in healthcare M&A requires a cold‑eyed view of what is real. Not what could be real someday.
 
 Not theoretical whitespace.
 

@@ -11,6 +11,8 @@ const Navbar: React.FC = () => {
 
   const isActive = (path: string) => location.pathname === path;
 
+  const isInsightsRoute = typeof window !== 'undefined' && window.location.pathname.includes('/insights');
+
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'About & Approach', path: '/about' },
@@ -18,39 +20,77 @@ const Navbar: React.FC = () => {
   ];
 
   return (
-    <nav className="sticky top-0 z-50 bg-pathmaker-dark/95 backdrop-blur-md border-b border-white/10 shadow-lg">
+    <nav className="sticky top-0 z-50 bg-pathmaker-dark/95 backdrop-blur-md border-b border-white/10 shadow-lg" style={{ overflowX: "hidden" }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-24">
           {/* Logo */}
-          <Link to="/" className="flex-shrink-0 flex items-center gap-3 group">
-            {!logoError ? (
-              <img
-                src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
-                alt="Pathmaker Logo"
-                className="h-12 w-12 object-contain rounded-sm brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
-                onError={() => setLogoError(true)}
-              />
-            ) : (
-              <div className="h-10 w-10 flex items-center justify-center border border-pathmaker-accent rounded-sm text-pathmaker-accent">
-                <Crown className="h-6 w-6" />
-              </div>
-            )}
-            <span className="font-serif font-medium text-2xl tracking-tight text-pathmaker-accent">
-              Pathmaker
-            </span>
-          </Link>
+          {isInsightsRoute ? (
+            <a 
+              href={`${window.location.origin}/Pathmakers/#/`} 
+              onClick={(e) => { e.preventDefault(); window.location.assign(`${window.location.origin}/Pathmakers/#/`); }}
+              className="flex-shrink-0 flex items-center gap-3 group"
+            >
+              {!logoError ? (
+                <img
+                  src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+                  alt="Pathmaker Logo"
+                  className="h-12 w-12 object-contain rounded-sm brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
+                  onError={() => setLogoError(true)}
+                />
+              ) : (
+                <div className="h-10 w-10 flex items-center justify-center border border-pathmaker-accent rounded-sm text-pathmaker-accent">
+                  <Crown className="h-6 w-6" />
+                </div>
+              )}
+              <span className="font-serif font-medium text-2xl tracking-tight text-pathmaker-accent">
+                Pathmaker
+              </span>
+            </a>
+          ) : (
+            <Link to="/" className="flex-shrink-0 flex items-center gap-3 group">
+              {!logoError ? (
+                <img
+                  src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+                  alt="Pathmaker Logo"
+                  className="h-12 w-12 object-contain rounded-sm brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%]"
+                  onError={() => setLogoError(true)}
+                />
+              ) : (
+                <div className="h-10 w-10 flex items-center justify-center border border-pathmaker-accent rounded-sm text-pathmaker-accent">
+                  <Crown className="h-6 w-6" />
+                </div>
+              )}
+              <span className="font-serif font-medium text-2xl tracking-tight text-pathmaker-accent">
+                Pathmaker
+              </span>
+            </Link>
+          )}
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-10">
             {navLinks.filter(l => l.name !== 'Contact').map((link) => (
-              <Link
-                key={link.name}
-                to={link.path}
-                className={`text-xs uppercase tracking-widest font-medium transition-all duration-300 hover:text-pathmaker-accent ${isActive(link.path) ? 'text-pathmaker-accent' : 'text-pathmaker-body'
+              isInsightsRoute ? (
+                <a
+                  key={link.name}
+                  href={`${window.location.origin}/Pathmakers/#${link.path}`}
+                  onClick={(e) => { e.preventDefault(); window.location.assign(`${window.location.origin}/Pathmakers/#${link.path}`); }}
+                  className={`text-xs uppercase tracking-widest font-medium transition-all duration-300 hover:text-pathmaker-accent ${
+                    isActive(link.path) ? 'text-pathmaker-accent' : 'text-pathmaker-body'
                   }`}
-              >
-                {link.name}
-              </Link>
+                >
+                  {link.name}
+                </a>
+              ) : (
+                <Link
+                  key={link.name}
+                  to={link.path}
+                  className={`text-xs uppercase tracking-widest font-medium transition-all duration-300 hover:text-pathmaker-accent ${
+                    isActive(link.path) ? 'text-pathmaker-accent' : 'text-pathmaker-body'
+                  }`}
+                >
+                  {link.name}
+                </Link>
+              )
             ))}
             <a
               href="https://wa.me/46701619978?text=Regarding%20Pathmaker:"
@@ -80,18 +120,42 @@ const Navbar: React.FC = () => {
         <div className="md:hidden bg-pathmaker-primary border-t border-white/10">
           <div className="px-4 pt-4 pb-6 space-y-2">
             {navLinks.map((link) => (
-              <Link
-                key={link.name}
-                to={link.path}
-                onClick={() => setIsOpen(false)}
-                className={`block px-3 py-3 rounded-md text-sm uppercase tracking-widest font-medium ${isActive(link.path)
-                  ? 'text-pathmaker-accent bg-white/5'
-                  : 'text-pathmaker-body hover:text-pathmaker-accent hover:bg-white/5'
+              isInsightsRoute ? (
+                <a
+                  key={link.name}
+                  href={`${window.location.origin}${import.meta.env.BASE_URL}#${link.path}`}
+                  onClick={(e) => { e.preventDefault(); setIsOpen(false); window.location.assign(`${window.location.origin}${import.meta.env.BASE_URL}#${link.path}`); }}
+                  className={`block px-3 py-3 rounded-md text-sm uppercase tracking-widest font-medium ${
+                    isActive(link.path)
+                      ? 'text-pathmaker-accent bg-white/5'
+                      : 'text-pathmaker-body hover:text-pathmaker-accent hover:bg-white/5'
                   }`}
-              >
-                {link.name}
-              </Link>
+                >
+                  {link.name}
+                </a>
+              ) : (
+                <Link
+                  key={link.name}
+                  to={link.path}
+                  onClick={() => setIsOpen(false)}
+                  className={`block px-3 py-3 rounded-md text-sm uppercase tracking-widest font-medium ${
+                    isActive(link.path)
+                      ? 'text-pathmaker-accent bg-white/5'
+                      : 'text-pathmaker-body hover:text-pathmaker-accent hover:bg-white/5'
+                  }`}
+                >
+                  {link.name}
+                </Link>
+              )
             ))}
+            <a
+              href="https://wa.me/46701619978?text=Regarding%20Pathmaker:"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block px-3 py-3 rounded-md text-sm uppercase tracking-widest font-medium text-pathmaker-accent hover:bg-white/5"
+            >
+              WhatsApp
+            </a>
           </div>
         </div>
       )}

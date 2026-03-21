@@ -1,9 +1,4 @@
----
-title: "Private Credit as a Structural Accelerator in Mid-Market M and A Execution"
-description: "A clinical institutional briefing on how private credit functions as a liquidity engineering instrument in mid market M and A, reducing execution friction, stabilizing price discovery, and enabling exit readiness in environments defined by capital scarcity."
-date: "2026-03-07"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "private-credit-mid-market-m-and-a-structural-accelerator"
+--- title: "Private Credit as a Structural Accelerator in Mid-Market M and A Execution" description: "A clinical institutional briefing on how private credit functions as a liquidity engineering instrument in mid market M and A, reducing execution friction, stabilizing price discovery, and enabling exit readiness in environments defined by capital scarcity." date: "2026-03-07" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "private-credit-mid-market-m-and-a-structural-accelerator"
 --- 
 
 The capital vacuum in North American and European mid market M and A is the predictable outcome of regulatory lag, compressed bank balance sheets, and a structural retreat from relationship lending.

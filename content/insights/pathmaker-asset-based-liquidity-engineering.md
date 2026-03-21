@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Approach to Asset‑Based Liquidity Engineering for Mid‑Market Operators"
-description: "A high-density institutional brief on structural liquidity, asset-based leverage systems, and exit-readiness architecture for mid-market operators seeking frictionless M&A and off‑market capital access."
-date: "2025-10-06"
-author: "Pathmaker Analyst Team"
-slug: "pathmaker-asset-based-liquidity-engineering"
+--- title: "The Pathmaker Approach to Asset‑Based Liquidity Engineering for Mid‑Market Operators" description: "A high-density institutional brief on structural liquidity, asset-based leverage systems, and exit-readiness architecture for mid-market operators seeking frictionless M&A and off‑market capital access." date: "2025-10-06" author: "Pathmaker Analyst Team" slug: "pathmaker-asset-based-liquidity-engineering"
 --- 
 
 Asset‑based liquidity is no longer a technical sidebar.

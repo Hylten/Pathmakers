@@ -1,9 +1,4 @@
----
-title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
-description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination."
-date: "2025-10-16"
-author: "The Analyst Team"
-slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
+--- title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth" description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination." date: "2025-10-16" author: "The Analyst Team" slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
 --- 
 
 Asset‑based lending is no longer a peripheral liquidity instrument.
@@ -18,11 +13,7 @@ Capital is tightening.
 
 Banks are de‑risking.
 
-Multiples are compressing.
-
-Yet assets remain.
-
-Assets endure.
+Multiples are compressing. Yet assets remain. Assets endure.
 
 Assets compound.
 

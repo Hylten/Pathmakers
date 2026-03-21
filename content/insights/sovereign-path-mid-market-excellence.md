@@ -1,9 +1,4 @@
----
-title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
-description: "Institutional analysis of mid-market strategic alignment, exit readiness engineering, operational hardening, and frictionless M&A architecture for European and global allocators seeking structural clarity."
-date: "2025-07-26"
-author: "Jonas Hyltén"
-slug: "sovereign-path-mid-market-excellence"
+--- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Institutional analysis of mid-market strategic alignment, exit readiness engineering, operational hardening, and frictionless M&A architecture for European and global allocators seeking structural clarity." date: "2025-07-26" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence"
 --- 
 
 Structural Gap: The durability of mid-market enterprise value across Europe is constrained less by market volatility and more by organizational underdevelopment in exit preparation, governance codification, and readiness for institutional scrutiny.
@@ -186,11 +181,7 @@ The partnership is built around three functions.
 
 Institutional 
 
- INTRODUCTION
-
- .
-
-Roials Capital maintains visibility into decision makers, not gatekeepers.
+ INTRODUCTION. Roials Capital maintains visibility into decision makers, not gatekeepers.
 
 The firm prioritizes off market opportunities, not broker crowded processes.
 
@@ -226,15 +217,7 @@ NAEO provides this technical foundation.
 
 Roials Capital provides strategic alignment and institutional 
 
- INTRODUCTION
-
- .
-
-THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction
-
-.
-
-It is a practical discipline that guides capital allocation.
+ INTRODUCTION. THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction. It is a practical discipline that guides capital allocation.
 
 Stewardship requires avoiding waste, preserving the integrity of enterprise value, and constructing businesses capable of enduring beyond the founder. **Proverbs 13:22
 
@@ -306,11 +289,7 @@ Owners who invest in readiness engineering experience stronger positioning durin
 
 Roials Capital's contribution is the combination of strategic calibration, operational intelligence, and institutional 
 
- INTRODUCTION
-
- .
-
-The work is guided by a commitment to clarity, excellence, and disciplined preparation.
+ INTRODUCTION. The work is guided by a commitment to clarity, excellence, and disciplined preparation.
 
 For owners and allocators requiring a full assessment of readiness, a confidential strategy consultation provides the structural map, not a transactional pitch.
 

@@ -1,16 +1,7 @@
----
-title: "The Dark Arts Of Exit Readiness: A GeneralS Persp"
-description: "The Dark Arts Of Exit Readiness: A GeneralS Persp"
-date: "2026-02-07"
-author: "Jonas Hyltén"
-slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
+--- title: "The Dark Arts Of Exit Readiness: A GeneralS Persp" description: "The Dark Arts Of Exit Readiness: A GeneralS Persp" date: "2026-02-07" author: "Jonas Hyltén" slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
 --- 
 
-# The Dark Arts of Exit Readiness
-
-.
-
-A General’s Perspective Exit readiness is not an administrative exercise.
+# The Dark Arts of Exit Readiness. A General’s Perspective Exit readiness is not an administrative exercise.
 
 It is a battlefield condition.
 
@@ -58,11 +49,7 @@ Warfare.
 
 With white space for air and clarity.
 
-The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles
-
-.
-
-They buy predictability.
+The Terrain: Institutional Buyers Do Not Buy “Companies” They buy risk profiles. They buy predictability.
 
 They buy hardened assets.
 
@@ -84,11 +71,7 @@ Not a presentation.
 
 A restructuring of reality.
 
-The First Principle: Asset Hardening Hard assets withstand scrutiny
-
-.
-
-Soft assets dissolve under heat.
+The First Principle: Asset Hardening Hard assets withstand scrutiny. Soft assets dissolve under heat.
 
 Asset hardening is the conversion of operational habit into institutional structure.
 
@@ -122,11 +105,7 @@ The owner who neglects this enters negotiations at a disadvantage.
 
 The owner who executes it early gains negotiating command.
 
-The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy
-
-.
-
-Buyers do not pay for potential.
+The Cinematic Fallacy: “We Will Fix It After LOI” The General knows this is fantasy. Buyers do not pay for potential.
 
 They pay for existing structure.
 
@@ -150,11 +129,7 @@ Elevates credibility.
 
 Increases velocity.
 
-Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder
-
-.
-
-Resourceful.
+Financial Intelligence as a Weapon System Mid-market financials often reflect the personality of the founder. Resourceful.
 
 Flexible.
 
@@ -190,11 +165,7 @@ Silence is the enemy.
 
 Clarity is the shield.
 
-The Culture of Covenant Stewardship Covenant stewardship is not a slogan
-
-.
-
-It is a theology of ownership.
+The Culture of Covenant Stewardship Covenant stewardship is not a slogan. It is a theology of ownership.
 
 The Christian conservative owner understands that the enterprise is not a toy.
 
@@ -232,11 +203,7 @@ This cultural position elevates the exit.
 
 It also elevates the valuation.
 
-Removing Founder Dependency Institutional buyers do not acquire personal empires
-
-.
-
-They acquire systems that can function without the founder.
+Removing Founder Dependency Institutional buyers do not acquire personal empires. They acquire systems that can function without the founder.
 
 This requires:
 
@@ -266,11 +233,7 @@ It is a slow exfiltration.
 
 Not a sudden departure.
 
-Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris
-
-.
-
-Side projects.
+Strategic Clean-Up: The Black Bag Work Every mid-market company has operational debris. Side projects.
 
 Legacy clients.
 
@@ -352,11 +315,7 @@ The objective is not cosmetic improvement.
 
 The objective is structural mitigation that stands up under diligence.
 
-Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns
-
-.
-
-Not isolated events.
+Operational Cadence: The Rhythm of Institutional Trust Buyers evaluate patterns. Not isolated events.
 
 Institutional cadence means that the company runs on a clock.
 
@@ -378,11 +337,7 @@ Cadence produces peace.
 
 Peace produces valuation.
 
-Intelligence Documentation The General does not rely on memory
-
-.
-
-He relies on intelligence briefs.
+Intelligence Documentation The General does not rely on memory. He relies on intelligence briefs.
 
 Exit readiness requires the construction of a Command Dossier.
 
@@ -416,11 +371,7 @@ Buyers interpret velocity as competence.
 
 Velocity raises valuation.
 
-The Silent Power: Staff Alignment Staff alignment is not theatrical
-
-.
-
-It is structural.
+The Silent Power: Staff Alignment Staff alignment is not theatrical. It is structural.
 
 Exit readiness requires an internal core that understands the mission before the buyer appears.
 
@@ -450,11 +401,7 @@ A buyer senses stability.
 
 Confidence increases.
 
-Preparing for Buyer Psychology Institutional buyers operate with pattern recognition
-
-.
-
-They are trained to distrust narrative and trust structure.
+Preparing for Buyer Psychology Institutional buyers operate with pattern recognition. They are trained to distrust narrative and trust structure.
 
 The General anticipates buyer mindset.
 
@@ -512,11 +459,7 @@ Hope has no place in M and A.
 
 Only readiness.
 
-Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals
-
-.
-
-This includes:
+Liquidity Architecture for Principals Institutional exits require a parallel liquidity strategy for principals. This includes:
 
 - Private credit lines secured by public shares with 5M minimum
 
@@ -534,11 +477,7 @@ Pressure reveals fear.
 
 Fear is exploitable.
 
-Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction
-
-.
-
-The General understands:
+Execution Velocity: The Final Competitive Edge Execution velocity is the art of moving without friction. The General understands:
 
 - Speed is not haste
 

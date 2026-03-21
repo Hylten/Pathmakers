@@ -1,16 +1,7 @@
----
-title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator"
-description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band."
-date: "2026-03-13"
-author: "Pathmaker"
-slug: "tactical-intelligence-midmarket-exit-readiness"
+--- title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator" description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band." date: "2026-03-13" author: "Pathmaker" slug: "tactical-intelligence-midmarket-exit-readiness"
 --- 
 
-Insight begins here.
-
-No warming speeches.
-
-No preface.
+Insight begins here. No warming speeches. No preface.
 
 Tactical intelligence is the new dividing line.
 
@@ -34,17 +25,7 @@ The mid-market now rewards the operator who understands that value is not create
 
 And revelation requires architecture.
 
-Tactical intelligence **is
-
-* 
-
-* that architecture.
-
-We proceed.
-
-Confidential notes.
-
-Structural depth only.
+The mid-market has become a theatre of distortion.
 
 A The mid-market has become a theatre of distortion.
 
@@ -80,11 +61,9 @@ Miss all three and you never enter the room where the real buyers sit.
 
 Let's take them sequentially, without ornament.
 
-DOMAIN ONE: EXIT READINESS ARCHITECTURE Exit readiness is not a checklist
+DOMAIN ONE: EXIT READINESS ARCHITECTURE
 
-.
-
-It is the removal of asymmetry between operational truth and acquirer perception.
+Exit readiness is not a checklist. It is the removal of asymmetry between operational truth and acquirer perception.
 
 When everything is aligned, valuation expands without theatrics.
 

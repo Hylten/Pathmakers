@@ -1,16 +1,7 @@
----
-title: "Friction Elimination In Mid Market Carve Outs"
-description: "Friction Elimination In Mid Market Carve Outs"
-date: "2025-08-27"
-author: "Jonas Hyltén"
-slug: "friction-elimination-in-mid-market-carve-outs"
+--- title: "Friction Elimination In Mid Market Carve Outs" description: "Friction Elimination In Mid Market Carve Outs" date: "2025-08-27" author: "Jonas Hyltén" slug: "friction-elimination-in-mid-market-carve-outs"
 --- 
 
-# Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason
-
-.
-
-Friction.
+# Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason. Friction.
 
 Not theoretical friction.
 
@@ -318,31 +309,19 @@ It is the architecture of trust.
 
 # M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
-Zone One: Information Friction When buyers cannot see the truth
-
-.
-
-When data contradicts itself.
+Zone One: Information Friction When buyers cannot see the truth. When data contradicts itself.
 
 When structures shift under scrutiny.
 
 Information friction kills transaction momentum.
 
-Zone Two: Decision Friction When leadership hesitates
-
-.
-
-When internal alignment collapses.
+Zone Two: Decision Friction When leadership hesitates. When internal alignment collapses.
 
 When no single voice carries authority.
 
 Decision friction signals weakness.
 
-Zone Three: Covenant Friction When stewardship is compromised
-
-.
-
-When the business shows disorder.
+Zone Three: Covenant Friction When stewardship is compromised. When the business shows disorder.
 
 When cultural integrity is diluted.
 

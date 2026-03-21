@@ -1,9 +1,4 @@
----
-title: "The Dark Arts of Exit Readiness: A General’s Perspective"
-description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events."
-date: "2025-06-24"
-author: "Jonas Hyltén — The Analyst Team"
-slug: "dark-arts-exit-readiness-generals-perspective"
+--- title: "The Dark Arts of Exit Readiness: A General’s Perspective" description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events." date: "2025-06-24" author: "Jonas Hyltén — The Analyst Team" slug: "dark-arts-exit-readiness-generals-perspective"
 --- 
 
 Exit readiness is not a procedural exercise.
@@ -94,11 +89,7 @@ This is the dark art: controlling perception by removing friction long before fr
 
 Below is how the Analyst Team frames the work.
 
-INTELLIGENCE POSITIONING Exit readiness is intelligence readiness
-
-.
-
-You cannot command the acquisition landscape if you do not understand the acquisition psychology.
+INTELLIGENCE POSITIONING Exit readiness is intelligence readiness. You cannot command the acquisition landscape if you do not understand the acquisition psychology.
 
 Buyers operate with three invisible filters:
 
@@ -132,11 +123,7 @@ They compress the buyer’s energy expenditure to near zero.
 
 Quiet assets trade at a premium.
 
-THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit
-
-.
-
-The Analyst Team maps fragility in five strokes:
+THE FRAGILITY MAP Every operator has blind spots that become fatal during an exit. The Analyst Team maps fragility in five strokes:
 
 - Documentation entropy
 
@@ -168,11 +155,7 @@ Generals do not accept cracks in the armor.
 
 They reinforce pressure points until they become pressure multipliers.
 
-INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status
-
-.
-
-Owners believe internal success equals external credibility.
+INSTITUTIONAL Hierarchical Dynamics The mid‑market rarely respects status. Owners believe internal success equals external credibility.
 
 It does not.
 
@@ -318,11 +301,7 @@ Firms that master friction removal achieve a psychological advantage: buyers fee
 
 Speed becomes a valuation weapon.
 
-THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline
-
-.
-
-Sparse words.
+THE PATHMAKER DOCTRINE The Pathmaker brand moves with a particular discipline. Sparse words.
 
 Heavy intent.
 
@@ -352,11 +331,7 @@ It is militarized clarity.
 
 A General’s perspective is simple: win before the first meeting.
 
-THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it
-
-.
-
-They won’t.
+THE MID‑MARKET ILLUSION The mid‑market suffers from a recurring illusion: the belief that buyers will see the business as the owner sees it. They won’t.
 
 They see risk.
 
@@ -416,11 +391,7 @@ They prefer targets with:
 
 - hardened audit trails Exit readiness is building these traits before diligence begins.
 
-THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance
-
-.
-
-They emerge from confidence-confidence that the business will behave predictably under new governance.
+THE PSYCHOLOGY OF THE PREMIUM MULTIPLE Premium multiples do not emerge from performance. They emerge from confidence-confidence that the business will behave predictably under new governance.
 
 Predictability is manufactured.
 
@@ -450,11 +421,7 @@ A General never negotiates from weakness.
 
 He constructs the battlefield so strength is the only visible option.
 
-THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them
-
-.
-
-They are internal forces-structural, psychological, financial-that determine how a buyer feels when they review the asset.
+THE DARK ARTS: WHY THEY MATTER These principles feel invisible because most operators cannot see them. They are internal forces-structural, psychological, financial-that determine how a buyer feels when they review the asset.
 
 Exit readiness works because it shapes buyer emotion, not just buyer logic.
 
@@ -490,11 +457,7 @@ The work is not optional.
 
 It is mandate.
 
-FINAL IMPERATIVE Exit readiness is war architecture
-
-.
-
-Quiet war.
+FINAL IMPERATIVE Exit readiness is war architecture. Quiet war.
 
 Precise war.
 
@@ -509,16 +472,7 @@ Those without preparation enter with hope.
 Hope collapses under diligence.
 
 If you intend to win your exit-engineer it now.
-
-Friction removed.
-
-Liquidity structured.
-
-Narrative hardened.
-
-Intelligence mapped.
-
-Position controlled.
+ Friction removed. Liquidity structured. Narrative hardened. Intelligence mapped. Position controlled.
 
 The rest becomes inevitable.
 

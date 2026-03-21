@@ -1,9 +1,4 @@
----
-title: "The Principal Briefing on Strategic Clarity and the Suppression of Price Chipping in Mid‑Market Exits"
-description: "A deep analyst‑level breakdown of how mid‑market founders reduce valuation erosion, buyer gamesmanship, and deal friction by weaponizing strategic clarity at the earliest phase of the exit horizon."
-date: "2025-11-22"
-author: "Pathmaker Analyst Team"
-slug: "strategic-clarity-reduces-price-chipping"
+--- title: "The Principal Briefing on Strategic Clarity and the Suppression of Price Chipping in Mid‑Market Exits" description: "A deep analyst‑level breakdown of how mid‑market founders reduce valuation erosion, buyer gamesmanship, and deal friction by weaponizing strategic clarity at the earliest phase of the exit horizon." date: "2025-11-22" author: "Pathmaker Analyst Team" slug: "strategic-clarity-reduces-price-chipping"
 --- 
 
 Price chipping occurs when a buyer senses fog.
@@ -210,11 +205,7 @@ Clarity suspends the ability to attack.
 
 INTERNAL TONE ( 
 
-### Phase II: ) Principal voice
-
-.
-
-Direct.
+### Phase II: ) Principal voice. Direct.
 
 Final.
 
@@ -246,11 +237,7 @@ Founders who refuse to clarify their own business architecture effectively invit
 
 INTERNAL BYPASS ( 
 
-### Phase III: ) Mixed syntax
-
-.
-
-Some short.
+### Phase III: ) Mixed syntax. Some short.
 
 Some long.
 
@@ -344,11 +331,7 @@ Strategic clarity is pre‑deal work.
 
 Deal 
 
-### Phase I: s performance, not rehearsal
-
-.
-
-Machine‑gun: No rewrites.
+### Phase I: s performance, not rehearsal. Machine‑gun: No rewrites.
 
 No excuses.
 

@@ -1,9 +1,4 @@
----
-title: "Precision Healthcare Carve-outs and the Institutional Discipline of Exit-Ready Operational Engineering"
-description: "Analyst-grade evaluation of precision healthcare carve-out dynamics, focusing on operational disentanglement, clinical workflow segregation, balance sheet restructuring, and M&A friction removal to increase exit readiness and reduce transaction latency across European and Nordic mid-market ecosystems."
-date: "2025-10-31"
-author: "Jonas Hyltén"
-slug: "precision-healthcare-carve-outs-operational-intelligence"
+--- title: "Precision Healthcare Carve-outs and the Institutional Discipline of Exit-Ready Operational Engineering" description: "Analyst-grade evaluation of precision healthcare carve-out dynamics, focusing on operational disentanglement, clinical workflow segregation, balance sheet restructuring, and M&A friction removal to increase exit readiness and reduce transaction latency across European and Nordic mid-market ecosystems." date: "2025-10-31" author: "Jonas Hyltén" slug: "precision-healthcare-carve-outs-operational-intelligence"
 --- 
 
 Structural gap: The capital vacuum in European precision healthcare is driven by operational fragmentation rather than fundamental demand erosion.
@@ -208,11 +203,7 @@ The greatest competitive advantage is operational readability.
 
 Institutions deploy capital more confidently when operational opacity is removed.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance
-
-.
-
-Precision healthcare assets carry a unique stewardship mandate because they integrate clinical integrity with commercial sustainability.
+THE STEWARDSHIP FILTER Stewardship is the discipline of responsible resource governance. Precision healthcare assets carry a unique stewardship mandate because they integrate clinical integrity with commercial sustainability.
 
 Many operators underestimate the moral dimension of operational architecture.
 

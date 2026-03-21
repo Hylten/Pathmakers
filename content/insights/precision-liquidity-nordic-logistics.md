@@ -1,9 +1,4 @@
----
-title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness"
-description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator. Focus on tactical intelligence and off market origination."
-date: "2025-12-11"
-author: "Jonas Hyltén"
-slug: "precision-liquidity-nordic-logistics"
+--- title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness" description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator. Focus on tactical intelligence and off market origination." date: "2025-12-11" author: "Jonas Hyltén" slug: "precision-liquidity-nordic-logistics"
 --- 
 
 The structural gap in Nordic logistics is a function of capital misalignment rather than operational scarcity.
@@ -140,11 +135,7 @@ For operators seeking precision liquidity, this model delivers neutral instituti
 
 For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed.
 
-THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing
-
-.
-
-Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing. Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. **Proverbs 13:22
 
 * 
 

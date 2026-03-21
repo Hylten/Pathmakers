@@ -1,9 +1,4 @@
----
-title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration"
-description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authored with the conviction and operational clarity of Jonas Hyltén."
-date: "2025-10-03"
-author: "Jonas Hyltén"
-slug: "friction-elimination-mid-market-carve-outs"
+--- title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration" description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authored with the conviction and operational clarity of Jonas Hyltén." date: "2025-10-03" author: "Jonas Hyltén" slug: "friction-elimination-mid-market-carve-outs"
 --- 
 
 The capital vacuum in European mid market carve outs is a structural consequence of operational friction rather than a shortage of transaction appetite.
@@ -182,11 +177,7 @@ This is not volume driven origination.
 
 It is precision driven 
 
- INTRODUCTION
-
- .
-
-Buyers must be preselected based on operational fit, integration capacity, and cross platform synergy potential. 
+ INTRODUCTION. Buyers must be preselected based on operational fit, integration capacity, and cross platform synergy potential. 
 
 3.
 
@@ -214,11 +205,7 @@ This is where friction elimination transitions into value preservation.
 
 The process becomes quiet, efficient, and strategic.
 
-THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood
-
-.
-
-It is not about maximizing an exit number.
+THE STEWARDSHIP FILTER Stewardship in carve outs is often misunderstood. It is not about maximizing an exit number.
 
 It is about delivering a functioning organism into the hands of its next owner.
 

@@ -1,9 +1,4 @@
----
-title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
-description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North American transaction regimes."
-date: "2025-07-27"
-author: "Jonas Hyltén"
-slug: "precision-financing-cross-border-mna-liquidity-engineering"
+--- title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker" description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North American transaction regimes." date: "2025-07-27" author: "Jonas Hyltén" slug: "precision-financing-cross-border-mna-liquidity-engineering"
 --- 
 
 The capital vacuum in the European mid-market M&A corridor is not caused by a shortage of opportunity.
@@ -126,11 +121,7 @@ Roials Capital is an introducer and structural strategist, not a lender.
 
 This ensures alignment with the operator rather than the capital provider.
 
-THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity
-
-.
-
-Stewardship is not austerity.
+THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of non wasteful capital deployment and operational integrity. Stewardship is not austerity.
 
 Stewardship is precision.
 

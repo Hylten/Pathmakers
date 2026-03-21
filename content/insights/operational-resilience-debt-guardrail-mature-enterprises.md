@@ -1,9 +1,4 @@
----
-title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
-description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition optionality."
-date: "2025-10-17"
-author: "The Analyst Team"
-slug: "operational-resilience-debt-guardrail-mature-enterprises"
+--- title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises" description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition optionality." date: "2025-10-17" author: "The Analyst Team" slug: "operational-resilience-debt-guardrail-mature-enterprises"
 --- 
 
 Operational resilience is not a defensive posture.
@@ -63,16 +58,7 @@ Buyers discount inefficiency.
 Markets punish under-optimization.
 
 Operational resilience emerges when leverage is deployed as a guardrail to absorb risk, protect cash reserves, and maintain strategic momentum even under external shock.
-
-Guardrails first.
-
-Growth second.
-
-Exit always.
-
-Debt stabilizes.
-
-Debt disciplines.
+ Guardrails first. Growth second. Exit always. Debt stabilizes. Debt disciplines.
 
 Debt clarifies operational hierarchy.
 

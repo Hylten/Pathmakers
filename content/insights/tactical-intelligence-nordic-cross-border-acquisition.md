@@ -1,9 +1,4 @@
----
-title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions"
-description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments."
-date: "2025-10-09"
-author: "The Analyst Team"
-slug: "tactical-intelligence-nordic-cross-border-acquisition"
+--- title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions" description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments." date: "2025-10-09" author: "The Analyst Team" slug: "tactical-intelligence-nordic-cross-border-acquisition"
 --- 
 
 The Nordic mid‑market rewards precision.
@@ -170,11 +165,7 @@ Tactical Intelligence protects alignment.
 
 No leakage.
 
-No competitive shadow.
-
-No reputation risk.
-
-Precision outreach.
+No competitive shadow. No reputation risk. Precision outreach.
 
 Minimal footprint.
 
@@ -399,11 +390,7 @@ They must present control as responsibility, not dominance.
 
 Tactical Intelligence engineers the messaging framework.
 
-Line by line.
-
-Stakeholder by stakeholder.
-
-Institutional tone.
+Line by line. Stakeholder by stakeholder. Institutional tone.
 
 Principal posture.
 

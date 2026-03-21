@@ -1,9 +1,4 @@
----
-title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
-description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes."
-date: "2026-01-18"
-author: "Jonas Hyltén"
-slug: "asset-based-lending-precision-infrastructure-spin-offs"
+--- title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle" description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes." date: "2026-01-18" author: "Jonas Hyltén" slug: "asset-based-lending-precision-infrastructure-spin-offs"
 --- 
 
 The capital vacuum in North American and European industrial markets is a function of regulatory compression and banking retrenchment, not operational underperformance.

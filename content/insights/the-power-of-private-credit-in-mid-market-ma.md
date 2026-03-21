@@ -1,16 +1,7 @@
----
-title: "The Power of Private Credit in Mid-Market M&A"
-description: "A strategic breakdown of liquidity and asset based liquidity engineering solutions for mid-market acquisitions and healthcare carve-outs."
-date: "2025-10-04"
-author: "Jonas Hyltén"
-slug: "the-power-of-private-credit-in-mid-market-ma"
+--- title: "The Power of Private Credit in Mid-Market M&A" description: "A strategic breakdown of liquidity and asset based liquidity engineering solutions for mid-market acquisitions and healthcare carve-outs." date: "2025-10-04" author: "Jonas Hyltén" slug: "the-power-of-private-credit-in-mid-market-ma"
 --- 
 
-# The Power of Private Credit in Mid-Market M&A Mid-market M&A has shifted
-
-.
-
-Not in theory.
+# The Power of Private Credit in Mid-Market M&A Mid-market M&A has shifted. Not in theory.
 
 In practice.
 
@@ -22,11 +13,7 @@ This has created the most significant liquidity gap since
 
 And that gap is exactly where private credit outperforms.
 
-Why Private Credit Has Become the Primary Engine for Mid-Market Transactions Mid-market deals require certainty of capital
-
-.
-
-Not enthusiasm.
+Why Private Credit Has Become the Primary Engine for Mid-Market Transactions Mid-market deals require certainty of capital. Not enthusiasm.
 
 Not intent.
 
@@ -52,11 +39,7 @@ For HNWI and UHNW buyers, this creates a unique arbitrage window.
 
 A sponsor or entrepreneur with the right capital partner can take control of assets that are fundamentally strong but operationally neglected.
 
-Pathmaker exists to provide that capital with mechanical precision. principal authority in Action: Pathmaker’s Structural Advantage Pathmaker focuses on private credit and asset-based Monetization Architecture that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition
-
-.
-
-We do not romanticize turnarounds.
+Pathmaker exists to provide that capital with mechanical precision. principal authority in Action: Pathmaker’s Structural Advantage Pathmaker focuses on private credit and asset-based Monetization Architecture that is engineered for buyers who understand both the opportunity and the execution burden of mid-market acquisition. We do not romanticize turnarounds.
 
 We do not market feel-good narratives.
 
@@ -88,11 +71,7 @@ Most mid-market targets are not.
 
 Especially healthcare carve-outs.
 
-The Mid-Market is Operationally Messy, and That Creates Opportunity There is a misconception that mid-market opportunities are hidden gems
-
-.
-
-They are not.
+The Mid-Market is Operationally Messy, and That Creates Opportunity There is a misconception that mid-market opportunities are hidden gems. They are not.
 
 They are often underperforming, undersupported, and structurally outdated.
 
@@ -120,11 +99,7 @@ What matters is runway.
 
 Pathmaker underwrites these factors with clarity and without hesitation.
 
-Asset-Based Capital Structuring as a Precision Tool in M&A Asset-Based Lending is often misunderstood
-
-.
-
-It is not a fallback for distressed buyers.
+Asset-Based Capital Structuring as a Precision Tool in M&A Asset-Based Lending is often misunderstood. It is not a fallback for distressed buyers.
 
 It is not a last resort.
 
@@ -148,11 +123,7 @@ Private credit stabilizes execution.
 
 Pathmaker blends both.
 
-Healthcare Carve-Outs Need Structural Capital, Not Optimism Healthcare carve-outs are not brand stories
-
-.
-
-They are structurally misaligned assets that require a realistic capital partner who understands the operating landscape.
+Healthcare Carve-Outs Need Structural Capital, Not Optimism Healthcare carve-outs are not brand stories. They are structurally misaligned assets that require a realistic capital partner who understands the operating landscape.
 
 The average carve-out in this sector presents:
 
@@ -176,11 +147,7 @@ If the collateral is sound, the working capital cycle is predictable, and the ac
 
 No theatrics.
 
-Liquidity Is the Real Competitive Advantage in Mid-Market M&A In the mid-market, strategy matters
-
-.
-
-But liquidity determines outcomes.
+Liquidity Is the Real Competitive Advantage in Mid-Market M&A In the mid-market, strategy matters. But liquidity determines outcomes.
 
 During a competitive process, the bidder who can guarantee capital earliest and most definitively becomes the natural buyer.
 
@@ -198,21 +165,9 @@ Private credit provides:
 
 The market rewards decisiveness, and decisiveness requires liquidity.
 
-Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers
+Pathmaker’s Capital Solutions Pathmaker provides a set of tightly defined capital products tailored for sophisticated buyers. Private Credit Strategic Collateralization We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints. Our private credit solutions are designed to match the real timeline of acquisitions, not the theoretical timeline imagined by traditional lenders.
 
-.
-
-Private Credit Strategic Collateralization We deploy capital against mid-market assets where speed, structural clarity, and collateral understanding matter more than legacy underwriting constraints
-
-.
-
-Our private credit solutions are designed to match the real timeline of acquisitions, not the theoretical timeline imagined by traditional lenders.
-
-Asset-Based Strategic Collateralization Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets
-
-.
-
-We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt.
+Asset-Based Strategic Collateralization Asset-Based Lending is particularly effective in carve-outs and operationally transitional assets. We underwrite against inventory, receivables, equipment, and other tangible assets, allowing buyers to extract liquidity from the asset itself rather than overpaying for unsecured senior debt.
 
 Crypto Monetization Architecture Minimum threshold: 2,000,
 
@@ -240,11 +195,7 @@ Avoid ego.
 
 Deliver results.
 
-The Real Mechanics of Winning Mid-Market Deals Private credit is not the savior of the mid-market
-
-.
-
-It is the engine.
+The Real Mechanics of Winning Mid-Market Deals Private credit is not the savior of the mid-market. It is the engine.
 
 Deals close because capital behaves rationally.
 
@@ -274,11 +225,7 @@ We provide the capital mechanics that allow the buyer to execute without frictio
 
 This is principal authority in practice.
 
-Why High Net Worth and Ultra High Net Worth Buyers Are Leaning Into Private Credit HNWI and UHNW buyers have always had access to capital
-
-.
-
-That is not the issue.
+Why High Net Worth and Ultra High Net Worth Buyers Are Leaning Into Private Credit HNWI and UHNW buyers have always had access to capital. That is not the issue.
 
 The issue is transaction precision.
 
@@ -300,11 +247,7 @@ HNWI and UHNW clients work with Pathmaker because:
 
 In short, we behave like a strategic partner, not a gatekeeper.
 
-Private Credit Is Not Alternative Anymore The liquidity landscape has evolved
-
-.
-
-Private credit is now the first option, not an alternative.
+Private Credit Is Not Alternative Anymore The liquidity landscape has evolved. Private credit is now the first option, not an alternative.
 
 Institutional lenders have retreated from nuance.
 
@@ -330,11 +273,7 @@ When institutional lenders eventually return to the mid-market, valuations will 
 
 Private credit is the tool that allows serious acquirers to capitalize on the current gap before the cycle resets.
 
-The Pathmaker Position We do not market ourselves as disruptors
-
-.
-
-We do not claim to reinvent capital.
+The Pathmaker Position We do not market ourselves as disruptors. We do not claim to reinvent capital.
 
 We provide structural clarity for serious operators and acquirers.
 

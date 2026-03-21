@@ -1,9 +1,4 @@
----
-title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
-description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways."
-date: "2025-09-26"
-author: "Jonas Hyltén"
-slug: "sovereign-path-mid-market-excellence-2026"
+--- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways." date: "2025-09-26" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence-2026"
 --- 
 
 [START INTELLIGENCE REPORT] 

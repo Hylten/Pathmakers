@@ -1,9 +1,4 @@
----
-title: "Strategic Financing Architecture for Mid-Market Corporate Spin-Offs"
-description: "A technical analyst briefing on liquidity engineering, balance sheet optimization, and frictionless execution pathways for complex spin-offs across the European and Nordic mid-market landscape."
-date: "2025-12-17"
-author: "Jonas Hyltén"
-slug: "strategic-financing-mid-market-spin-offs"
+--- title: "Strategic Financing Architecture for Mid-Market Corporate Spin-Offs" description: "A technical analyst briefing on liquidity engineering, balance sheet optimization, and frictionless execution pathways for complex spin-offs across the European and Nordic mid-market landscape." date: "2025-12-17" author: "Jonas Hyltén" slug: "strategic-financing-mid-market-spin-offs"
 --- 
 
 The persistent capital friction observed in the European mid-market spin-off environment is a structural consequence of regulatory compression and banking retrenchment rather than a lack of viable operating assets.
@@ -162,11 +157,7 @@ It is predicated on the elimination of execution friction and the engineering of
 
 In this context, the advisory function becomes a form of operational intelligence that supports buyers, sellers, and capital providers simultaneously.
 
-THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility
-
-.
-
-The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience.
+THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility. The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience.
 
 - **Proverbs 13:22
 

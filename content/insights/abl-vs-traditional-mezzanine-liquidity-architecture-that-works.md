@@ -1,9 +1,4 @@
----
-title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
-description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering."
-date: "2025-08-23"
-author: "The Analyst Team"
-slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
+--- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering." date: "2025-08-23" author: "The Analyst Team" slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
 --- 
 
 Asset movements decide outcomes in the mid‑market.

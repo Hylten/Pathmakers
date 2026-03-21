@@ -1,9 +1,4 @@
----
-title: "M&A Warfare: Navigating the Middle Market Credit Gridlock and Engineering Exit Readiness With Tactical Precision"
-description: "Institutional analysis of mid-market M&A compression, credit dislocation, operational friction, and off-market acquisition engineering. A strategic framework for allocators and operators recalibrating for 2026 competitive realities."
-date: "2026-02-03"
-author: "Jonas Hyltén"
-slug: "ma-warfare-middle-market-credit-gridlock"
+--- title: "M&A Warfare: Navigating the Middle Market Credit Gridlock and Engineering Exit Readiness With Tactical Precision" description: "Institutional analysis of mid-market M&A compression, credit dislocation, operational friction, and off-market acquisition engineering. A strategic framework for allocators and operators recalibrating for 2026 competitive realities." date: "2026-02-03" author: "Jonas Hyltén" slug: "ma-warfare-middle-market-credit-gridlock"
 --- 
 
 The contraction in mid-market credit availability is not a function of deteriorating operating performance.
@@ -168,11 +163,7 @@ For energy sectors, the model leverages NAEO as the institutional grade technica
 
 For mid market corporate M&A, the partner network is shaped around buyers who prioritize operational clarity and reduced execution risk.
 
-THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization
-
-.
-
-It requires a philosophy of stewardship.
+THE STEWARDSHIP FILTER M&A warfare requires more than technical optimization. It requires a philosophy of stewardship.
 
 Stewardship is the discipline of handling resources with precision, integrity, and responsibility.
 

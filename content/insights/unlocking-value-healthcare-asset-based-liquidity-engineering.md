@@ -1,9 +1,4 @@
----
-title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering"
-description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning."
-date: "2025-12-05"
-author: "Jonas Hyltén – The Analyst Team"
-slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
+--- title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering" description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning." date: "2025-12-05" author: "Jonas Hyltén – The Analyst Team" slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
 --- 
 
 The healthcare mid‑market sits on dormant value.
@@ -61,10 +56,7 @@ Institutional capital hunts clarity.
 Capital allocates toward predictable cash conversion, auditable risk surfaces, and frictionless transfer mechanics.
 
 A mid‑market healthcare operator, even one with consistent EBITDA, rarely meets this bar.
-
-Not because the fundamentals are weak.
-
-Because the structural map is opaque.
+the structural map is opaque, not the fundamentals are weak.
 
 Capital hates opacity.
 
@@ -73,16 +65,7 @@ Capital Structuring neutralizes it.
 The Analyst Team treats healthcare assets not as businesses but as systems.
 
 Systems contain pressure lines.
-
-Stress points.
-
-Latent collateral.
-
-Monetizable rights.
-
-Idle capital.
-
-Mispriced risk.
+ Stress points. Latent collateral. Monetizable rights. Idle capital. Mispriced risk.
 
 Our work extracts these components, hardens them, and reassigns them to optimized jurisdictions.
 
@@ -237,10 +220,7 @@ EBITDA-based multiples disguise structural inefficiencies.
 A strong operating business with unstructured asset architecture may achieve a standard 6,9x multiple.
 
 The same business, structurally optimized, can reach 10-14x.
-
-Not because performance changed.
-
-Because the buyer’s risk surface changed.
+the buyer’s risk surface changed, not performance changed.
 
 Risk drops.
 

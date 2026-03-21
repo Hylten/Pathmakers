@@ -1,9 +1,4 @@
----
-title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence"
-description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck."
-date: "2026-03-11"
-author: "Pathmaker Intelligence Unit"
-slug: "buyer-fatigue-tactical-intelligence-briefing"
+--- title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence" description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck." date: "2026-03-11" author: "Pathmaker Intelligence Unit" slug: "buyer-fatigue-tactical-intelligence-briefing"
 --- 
 
 Buyer fatigue is no mystery.
@@ -122,11 +117,7 @@ True Tactical Intelligence does not “improve the pitch.” It eliminates the s
 
 It reshapes the buyer’s entire decision-making environment.
 
-INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture
-
-.
-
-A Principal does not persuade.
+INTERNAL TONE, PRINCIPAL VOICE A Principal states the architecture. A Principal does not persuade.
 
 A Principal clarifies.
 
@@ -170,11 +161,7 @@ But Exit Readiness alone is insufficient.
 
 The second 
 
-### Pillar I: s Off‑Market Origination
-
-.
-
-Tactical Intelligence thrives where noise disappears and alignment accelerates.
+### Pillar I: s Off‑Market Origination. Tactical Intelligence thrives where noise disappears and alignment accelerates.
 
 Off‑market deal flow gives the buyer what public marketplaces cannot: exclusivity, context, and reduced adversarial pressure.
 
@@ -182,11 +169,7 @@ When both sides enter with pre-aligned expectations, the negotiation becomes str
 
 The third 
 
-### Pillar I: s Friction Removal
-
-.
-
-The Analyst Team treats friction as an engineering problem, not a psychological one.
+### Pillar I: s Friction Removal. The Analyst Team treats friction as an engineering problem, not a psychological one.
 
 Every bottleneck signals its own remedy: data asymmetry, narrative gaps, missing KPIs, or seller misconceptions.
 
@@ -258,11 +241,7 @@ Buyer fatigue becomes buyer acceleration.
 
 This is where Tactical Intelligence becomes structural, not cosmetic.
 
-THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment
-
-.
-
-The responsibility is singular: create clarity at the earliest possible stage.
+THE PATHMAKER DOCTRINE: HOW TACTICAL INTELLIGENCE FIXES THE FATIGUE ECONOMY Pathmaker sits at the front-end of the deal environment. The responsibility is singular: create clarity at the earliest possible stage.
 
 The Analyst Team acts as a filter, architect, and intelligence engine.
 
@@ -298,11 +277,7 @@ Momentum moves deals across the finish line.
 
 A single sentence captures the doctrine: Momentum beats fatigue.
 
-THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate
-
-.
-
-The buyer recalibrates from defensive to evaluative.
+THE BUY-SIDE REACTION: WHAT HAPPENS WHEN CLARITY ENTERS A FATIGUED MARKET When a fatigued buyer encounters a tactically engineered deal, the psychological shift is immediate. The buyer recalibrates from defensive to evaluative.
 
 Fatigue recedes.
 
@@ -316,11 +291,7 @@ Accelerated alignment accelerates commitment.
 
 Commitment is the beginning of the close.
 
-THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation
-
-.
-
-The modern environment demands architecture.
+THE DEAL OF THE FUTURE: LESS BROKERS, MORE ARCHITECTS Traditional M&A relies on presentation. The modern environment demands architecture.
 
 The future mid‑market playbook is structural:
 
@@ -350,19 +321,11 @@ Architecture multiplies them.
 
 THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next 
 
-### Step I: s to integrate institutional preparation
-
-.
-
-Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
+### Step I: s to integrate institutional preparation. Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
 
 - a structural reinforcement rather than a substitute.
 
-THE FINAL BRIEF Buyer fatigue is not a mood
-
-.
-
-It is a structural signal.
+THE FINAL BRIEF Buyer fatigue is not a mood. It is a structural signal.
 
 And structural signals reveal opportunity.
 
@@ -380,11 +343,7 @@ Only the prepared move forward.
 
 If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next 
 
-### Step I: s a tactical consultation
-
-.
-
-Book a tactical consultation
+### Step I: s a tactical consultation. Book a tactical consultation
 
 Access is restricted to approved mandates.
 

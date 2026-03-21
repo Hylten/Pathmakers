@@ -1,9 +1,4 @@
----
-title: "The Power of Asset-Based Lending in Niche Market Acquisitions"
-description: "A deep institutional analysis of how asset based lending structures reshape niche market acquisitions, mid market capital formation, and liquidity engineering for private equity sponsors positioning for 2026 vintage strategies."
-date: "2025-07-12"
-author: "Jonas Hyltén"
-slug: "the-power-of-abl-in-niche-market-acquisitions"
+--- title: "The Power of Asset-Based Lending in Niche Market Acquisitions" description: "A deep institutional analysis of how asset based lending structures reshape niche market acquisitions, mid market capital formation, and liquidity engineering for private equity sponsors positioning for 2026 vintage strategies." date: "2025-07-12" author: "Jonas Hyltén" slug: "the-power-of-abl-in-niche-market-acquisitions"
 --- 
 
 [START INTELLIGENCE REPORT] 
@@ -267,11 +262,7 @@ Total liquidity potential:
 
 Cumulative borrowing base: $79.65M. 
 
-### Step III: Capital Stack Construction Purchase price: $145M
-
-.
-
-Asset-Based Lending facility: $80M.
+### Step III: Capital Stack Construction Purchase price: $145M. Asset-Based Lending facility: $80M.
 
 Seller rollover equity: $22M (structured at 
 

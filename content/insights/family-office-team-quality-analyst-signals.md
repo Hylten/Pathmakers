@@ -1,9 +1,4 @@
----
-title: "The Quiet Metric: How Family Offices Decode Team Quality Through Analyst-Level Signals"
-description: "A high-density institutional analysis of how mid‑market family offices benchmark team credibility, operational discipline, and exit readiness through sub‑executive analyst behavior."
-date: "2025-10-23"
-author: "Pathmaker"
-slug: "family-office-team-quality-analyst-signals"
+--- title: "The Quiet Metric: How Family Offices Decode Team Quality Through Analyst-Level Signals" description: "A high-density institutional analysis of how mid‑market family offices benchmark team credibility, operational discipline, and exit readiness through sub‑executive analyst behavior." date: "2025-10-23" author: "Pathmaker" slug: "family-office-team-quality-analyst-signals"
 --- 
 
 Family offices do not evaluate teams the way accelerators, VCs, or corporate strategics do.
@@ -40,11 +35,7 @@ Pathmaker’s vantage point works here because off‑market origination forces p
 
 This is the 
 
-### Phase I: Internal Logic
-
-.
-
-Family offices begin with one question: Does this enterprise generate truth quickly or slowly?
+### Phase I: Internal Logic. Family offices begin with one question: Does this enterprise generate truth quickly or slowly?
 
 Analyst tiers reveal the velocity of truth inside the organization.
 
@@ -62,11 +53,7 @@ Repeatedly.
 
 They ask for a dataset.
 
-Then ask again.
-
-Then ask differently.
-
-Patterns emerge.
+Then ask again. Then ask differently. Patterns emerge.
 
 Precision or chaos.
 
@@ -196,11 +183,7 @@ Family offices invest in stewardship.
 
 They retreat from ego. 
 
-### Phase II: Principal Voice
-
-.
-
-States, not explains.
+### Phase II: Principal Voice. States, not explains.
 
 Family offices judge the enterprise through the analysts.
 
@@ -282,11 +265,7 @@ This is why family offices test them.
 
 This is why exits fail when founders ignore them. 
 
-### Phase III: Internal Bypass
-
-.
-
-Variation.
+### Phase III: Internal Bypass. Variation.
 
 Accelerated cadence.
 

@@ -1,9 +1,4 @@
----
-title: "M&A Warfare: Engineering Exit Readiness Inside the Middle Market Credit Gridlock"
-description: "A high-density institutional briefing on mid-market M&A friction, private-credit chokepoints, exit readiness engineering, and off‑market deal origination mandates."
-date: "2026-02-02"
-author: "The Analyst Team"
-slug: "ma-warfare-middle-market-credit-gridlock-exit-readiness"
+--- title: "M&A Warfare: Engineering Exit Readiness Inside the Middle Market Credit Gridlock" description: "A high-density institutional briefing on mid-market M&A friction, private-credit chokepoints, exit readiness engineering, and off‑market deal origination mandates." date: "2026-02-02" author: "The Analyst Team" slug: "ma-warfare-middle-market-credit-gridlock-exit-readiness"
 --- 
 
 The middle market is in a silent war.
@@ -168,11 +163,7 @@ Each friction layer extracts equity.
 
 Each 
 
-# Layer C: ompounds risk
-
-.
-
-Each layer reduces deal velocity.
+# Layer C: ompounds risk. Each layer reduces deal velocity.
 
 Operators often think friction is external.
 
@@ -393,16 +384,7 @@ Machine gun sentences.
 Precision follows.
 
 Cut friction fast.
-
-Harden systems.
-
-Verify numbers.
-
-Document everything.
-
-Control narrative.
-
-Own diligence.
+ Harden systems. Verify numbers. Document everything. Control narrative. Own diligence.
 
 Forecast tightly.
 
@@ -428,11 +410,7 @@ The war is internal.
 
 This is THE MANDAT
 
-E
-
-.
-
-Book a tactical consultation.
+E. Book a tactical consultation.
 
 Technical Metric: Target friction compression delta: 38% reduction in diligence drag.
 

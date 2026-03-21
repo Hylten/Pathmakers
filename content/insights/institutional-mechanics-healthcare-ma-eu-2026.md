@@ -1,9 +1,4 @@
----
-title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
-description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment."
-date: "2025-08-22"
-author: "Jonas Hyltén — The Analyst Team"
-slug: "institutional-mechanics-healthcare-ma-eu-2026"
+--- title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift" description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment." date: "2025-08-22" author: "Jonas Hyltén — The Analyst Team" slug: "institutional-mechanics-healthcare-ma-eu-2026"
 --- 
 
 The 2026 European regime shift forces healthcare acquirers, operators, credit sponsors, and institutional sellers into a structural rethink.

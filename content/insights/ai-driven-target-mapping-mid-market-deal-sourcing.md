@@ -1,9 +1,4 @@
----
-title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery"
-description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market."
-date: "2025-06-28"
-author: "Pathmaker Analyst Team"
-slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
+--- title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery" description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market." date: "2025-06-28" author: "Pathmaker Analyst Team" slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
 --- 
 
 The conventional search stack was always too blunt for the mid‑market.

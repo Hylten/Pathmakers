@@ -1,9 +1,4 @@
----
-title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
-description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments."
-date: "2025-07-06"
-author: "Jonas Hyltén"
-slug: "operational-resilience-private-credit-playbook"
+--- title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital" description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments." date: "2025-07-06" author: "Jonas Hyltén" slug: "operational-resilience-private-credit-playbook"
 --- 
 
 The structural gap in the European and North American credit markets is a byproduct of regulatory compression and banking retrenchment, not a deterioration in underlying business fundamentals.
@@ -164,11 +159,7 @@ Every party gains a clear understanding of collateral visibility, operational ri
 
 This reduces negotiation drag, eliminates documentation drift, and aligns incentive structures.
 
-THE STEWARDSHIP FILTER Operational resilience is not a financial tactic
-
-.
-
-It is a stewardship discipline.
+THE STEWARDSHIP FILTER Operational resilience is not a financial tactic. It is a stewardship discipline.
 
 Stewardship is rooted in the principle of non wasteful resource management grounded in **Proverbs 13:22
 

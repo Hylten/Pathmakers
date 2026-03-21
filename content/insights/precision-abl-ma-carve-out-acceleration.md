@@ -1,9 +1,4 @@
----
-title: "Precision Asset-Based Lending As A Force Multiplier For Mid Market M&A And Carve Out Acceleration"
-description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and North American regimes."
-date: "2025-09-24"
-author: "Jonas Hyltén"
-slug: "precision-abl-ma-carve-out-acceleration"
+--- title: "Precision Asset-Based Lending As A Force Multiplier For Mid Market M&A And Carve Out Acceleration" description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and North American regimes." date: "2025-09-24" author: "Jonas Hyltén" slug: "precision-abl-ma-carve-out-acceleration"
 --- 
 
 The liquidity compression in the mid market is a structural consequence of balance sheet rigidity rather than a shortage of acquisition targets.
@@ -112,11 +107,7 @@ It curates alignment between acquirer archetype, collateral profile, and funding
 
 This separation maintains institutional clarity and enhances credibility with both sides of the transaction.
 
-THE STEWARDSHIP FILTER Stewardship in corporate transitions is a discipline of restoring order to disorganized assets
-
-.
-
-Precision Asset-Based Lending supports this discipline by imposing operational truth on businesses that are structurally valuable but administratively underdeveloped.
+THE STEWARDSHIP FILTER Stewardship in corporate transitions is a discipline of restoring order to disorganized assets. Precision Asset-Based Lending supports this discipline by imposing operational truth on businesses that are structurally valuable but administratively underdeveloped.
 
 This aligns with the ethic articulated in **Proverbs 13:22
 

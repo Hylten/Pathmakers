@@ -1,9 +1,4 @@
----
-title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination"
-description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North American private markets. Prepared as a high-density strategic memo for allocators, UHNW principals, and acquisition-focused operators."
-date: "2025-12-28"
-author: "Jonas Hyltén"
-slug: "mid-market-advantage-asset-based-finance"
+--- title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination" description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North American private markets. Prepared as a high-density strategic memo for allocators, UHNW principals, and acquisition-focused operators." date: "2025-12-28" author: "Jonas Hyltén" slug: "mid-market-advantage-asset-based-finance"
 --- 
 
 The capital vacuum inside the mid-market is a consequence of structural under-institutionalization, not a lack of bankable assets.
@@ -200,11 +195,7 @@ This creates multi-track optionality: refinancing, acquisition, or hybrid soluti
 
 The partnership model reduces execution risk by eliminating the inconsistencies and data gaps that would normally derail negotiations or underwriting.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
-
-.
-
-It is a capital discipline rooted in non-wasteful resource management.
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a capital discipline rooted in non-wasteful resource management.
 
 As stated in **Proverbs 13:22
 

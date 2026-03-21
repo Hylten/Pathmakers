@@ -1,9 +1,4 @@
----
-title: "Nordic Cross-Border M&A: The 2026 Playbook for Institutional Operators"
-description: "A high-density institutional briefing on Nordic cross-border M&A mechanics in 2026, engineered for mid-market operators, private credit allocators, and strategic acquirers seeking frictionless execution, exit readiness, and off‑market origination."
-date: "2025-09-16"
-author: "Analyst Team — Tactical Intelligence (Jonas Hyltén)"
-slug: "nordic-cross-border-ma-2026-playbook"
+--- title: "Nordic Cross-Border M&A: The 2026 Playbook for Institutional Operators" description: "A high-density institutional briefing on Nordic cross-border M&A mechanics in 2026, engineered for mid-market operators, private credit allocators, and strategic acquirers seeking frictionless execution, exit readiness, and off‑market origination." date: "2025-09-16" author: "Analyst Team — Tactical Intelligence (Jonas Hyltén)" slug: "nordic-cross-border-ma-2026-playbook"
 --- 
 
 Nordic cross-border M&A has shifted from opportunistic acquisition to engineered statecraft.
@@ -132,11 +127,7 @@ Nordic firms operate with high technical standards but variable managerial sophi
 
 The winning acquirers pre-map operational redundancies before the LOI.
 
-Reduce integration friction.
-
-Collapse onboarding time.
-
-Protect cash.
+Reduce integration friction. Collapse onboarding time. Protect cash.
 
 Exit pathway intelligence is the apex lever.
 

@@ -1,9 +1,4 @@
----
-title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution"
-description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural friction."
-date: "2025-10-25"
-author: "Jonas Hyltén"
-slug: "dark-arts-exit-readiness-ma-general-perspective"
+--- title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution" description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural friction." date: "2025-10-25" author: "Jonas Hyltén" slug: "dark-arts-exit-readiness-ma-general-perspective"
 --- 
 
 The valuation gap in the European mid-market is not caused by a shortage of buyers.
@@ -328,11 +323,7 @@ Execution oversight is an act of disciplined orchestration.
 
 The objective is friction minimization and process predictability.
 
-THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness
-
-.
-
-It is the discipline of managing assets, processes, and human capital without waste.
+THE STEWARDSHIP FILTER Stewardship is the governing principle of exit readiness. It is the discipline of managing assets, processes, and human capital without waste.
 
 Successful exits emerge from stewardship cultures, not opportunistic time windows.
 

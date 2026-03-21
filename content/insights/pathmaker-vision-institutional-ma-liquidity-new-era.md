@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
-description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragmented global landscape."
-date: "2026-02-14"
-author: "Jonas Hyltén"
-slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
+--- title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era" description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragmented global landscape." date: "2026-02-14" author: "Jonas Hyltén" slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
 --- 
 
 The structural gap in global M&A is not a shortage of acquirers.
@@ -192,11 +187,7 @@ Pathmaker retains responsibility for financial architecture and exit readiness i
 
 Each partner plays a defined role within the institutional ecosystem.
 
-THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline
-
-.
-
-Stewardship focuses on responsible management of enterprise value, clarity of succession, and the non wasteful handling of opportunities that have taken decades to build.
+THE STEWARDSHIP FILTER The Pathmaker philosophy is grounded in stewardship as a discipline. Stewardship focuses on responsible management of enterprise value, clarity of succession, and the non wasteful handling of opportunities that have taken decades to build.
 
 The stewardship filter is applied to every company under evaluation.
 

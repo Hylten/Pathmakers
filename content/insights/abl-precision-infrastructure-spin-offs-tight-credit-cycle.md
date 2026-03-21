@@ -1,9 +1,4 @@
----
-title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
-description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions."
-date: "2026-01-05"
-author: "Jonas Hyltén"
-slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
+--- title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle" description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions." date: "2026-01-05" author: "Jonas Hyltén" slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
 --- 
 
 The structural gap in the mid market corporate landscape is no longer valuation compression.
@@ -158,11 +153,7 @@ The role of an institutional introducer is not to operate the asset.
 
 The role is to ensure the separation process aligns with the standards institutional buyers require for accelerated diligence.
 
-THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation
-
-.
-
-The precision infrastructure sector reflects this ethos.
+THE STEWARDSHIP FILTER Stewardship within European private enterprise has long been defined by capital discipline rather than capital accumulation. The precision infrastructure sector reflects this ethos.
 
 Operational assets must be deployed in a manner that preserves their productive life, minimizes waste, and aligns teams with long term service commitments.
 

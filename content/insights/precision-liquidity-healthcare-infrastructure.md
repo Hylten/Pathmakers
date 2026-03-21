@@ -1,9 +1,4 @@
----
-title: "Precision Liquidity Architecture for Healthcare Infrastructure"
-description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intelligence for UHNWIs, private credit allocators, and institutional LPs evaluating frictionless transaction execution."
-date: "2025-10-20"
-author: "Jonas Hyltén"
-slug: "precision-liquidity-healthcare-infrastructure"
+--- title: "Precision Liquidity Architecture for Healthcare Infrastructure" description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intelligence for UHNWIs, private credit allocators, and institutional LPs evaluating frictionless transaction execution." date: "2025-10-20" author: "Jonas Hyltén" slug: "precision-liquidity-healthcare-infrastructure"
 --- 
 
 The structural gap in healthcare infrastructure is not driven by a shortage of capital, but by an absence of precision capital capable of compressing transaction friction, stabilizing operational volatility, and creating institutional exit paths.
@@ -192,11 +187,7 @@ Build institutional governance
 
 Prepare for acquisition or structured credit alignment This approach reduces transaction slippage and increases opportunity velocity without creating solicitation dynamics.
 
-THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks
-
-.
-
-It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
+THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks. It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
 
 The principle is grounded in the theology of capital articulated in **Proverbs 13:22
 

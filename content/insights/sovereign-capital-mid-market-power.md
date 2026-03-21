@@ -1,9 +1,4 @@
----
-title: "The Power of Sovereign Capital in Mid-Market Deals"
-description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of sovereign balance sheets in strategic calibration for European and global operators."
-date: "2026-01-30"
-author: "Jonas Hyltén"
-slug: "sovereign-capital-mid-market-power"
+--- title: "The Power of Sovereign Capital in Mid-Market Deals" description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of sovereign balance sheets in strategic calibration for European and global operators." date: "2026-01-30" author: "Jonas Hyltén" slug: "sovereign-capital-mid-market-power"
 --- 
 
 The capital vacuum affecting mid‑market transactions is a structural byproduct of regulatory compression across European and North American credit channels.
@@ -142,11 +137,7 @@ They move through private networks with strict information discipline.
 
 Roials Capital’s role is to accelerate opportunity velocity by positioning qualified businesses into controlled visibility pathways where sovereign interest can be assessed.
 
-THE STEWARDSHIP FILTER Capital without stewardship leads to entropy
-
-.
-
-Stewardship requires structural discipline, not rhetorical virtue.
+THE STEWARDSHIP FILTER Capital without stewardship leads to entropy. Stewardship requires structural discipline, not rhetorical virtue.
 
 It is the capacity to extract value from complexity without degrading the underlying asset.
 

@@ -1,9 +1,4 @@
----
-title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises"
-description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within European and North American capital regimes."
-date: "2026-02-06"
-author: "Jonas Hyltén"
-slug: "precision-financing-mid-market-leaders"
+--- title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises" description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within European and North American capital regimes." date: "2026-02-06" author: "Jonas Hyltén" slug: "precision-financing-mid-market-leaders"
 --- 
 
 The structural gap in European mid-market finance is not attributable to a scarcity of capital.
@@ -154,11 +149,7 @@ The
 
  remains objective and rooted in institutional fit.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of managing resources without waste
-
-.
-
-It is not merely financial prudence.
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing resources without waste. It is not merely financial prudence.
 
 It is an ethical framework for strategic decision making rooted in responsibility and clarity. **Proverbs 13:22
 

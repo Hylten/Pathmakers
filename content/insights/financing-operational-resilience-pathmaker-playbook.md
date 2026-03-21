@@ -1,9 +1,4 @@
----
-title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors"
-description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes."
-date: "2025-08-29"
-author: "Tactical Intelligence | Analyst Team"
-slug: "financing-operational-resilience-pathmaker-playbook"
+--- title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors" description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes." date: "2025-08-29" author: "Tactical Intelligence | Analyst Team" slug: "financing-operational-resilience-pathmaker-playbook"
 --- 
 
 Volatility exposes structural weakness.
@@ -486,17 +481,9 @@ This briefing serves as a directive to implement these mandates.
 
 The next 
 
-### Phase I: s tactical
+### Phase I: s tactical. The next 
 
-.
-
-The next 
-
-### Step I: s structural
-
-.
-
-Book a tactical consultation.
+### Step I: s structural. Book a tactical consultation.
 
 Resilience Coefficient Target: 0.
 

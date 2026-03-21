@@ -1,9 +1,4 @@
----
-title: "Strategic M&A Trends for 2026: Institutional Readiness, Execution Discipline, and the Architecture of Frictionless Exits"
-description: "A high density institutional briefing on the 2026 M&A regime shift, operational mechanics of mid market deal execution, buyer preparation frameworks, and the structural forces shaping off market acquisitions across Europe and North America."
-date: "2026-02-23"
-author: "Jonas Hyltén"
-slug: "strategic-ma-trends-2026"
+--- title: "Strategic M&A Trends for 2026: Institutional Readiness, Execution Discipline, and the Architecture of Frictionless Exits" description: "A high density institutional briefing on the 2026 M&A regime shift, operational mechanics of mid market deal execution, buyer preparation frameworks, and the structural forces shaping off market acquisitions across Europe and North America." date: "2026-02-23" author: "Jonas Hyltén" slug: "strategic-ma-trends-2026"
 --- 
 
 The structural gap in 2026 M&A markets is driven by regulatory fragmentation and interest rate volatility rather than a decline in acquisition appetite.
@@ -178,11 +173,7 @@ Their expertise in reservoir verification, decline curve mapping, thermal recove
 
 In M&A contexts outside the energy sector, Roials Capital maintains strict introducer neutrality while providing strategic calibration.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operations, and organizational structure without waste
-
-.
-
-It is a systems level approach that merges financial prudence with operational clarity.
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital, operations, and organizational structure without waste. It is a systems level approach that merges financial prudence with operational clarity.
 
 The stewardship filter applies four criteria to every transaction environment: 
 

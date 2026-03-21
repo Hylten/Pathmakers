@@ -1,9 +1,4 @@
----
-title: "The Principal Diagnosis: Why Private Equity Funds Are Being Outmaneuvered by Prepared Sellers"
-description: "A high-density analyst briefing on deal loss dynamics, exit readiness asymmetry, and why mid‑market sellers who understand Pathmaker architecture now regularly outperform private equity bidders."
-date: "2025-10-23"
-author: "Pathmaker Analyst Team"
-slug: "why-pe-funds-lose-to-prepared-sellers"
+--- title: "The Principal Diagnosis: Why Private Equity Funds Are Being Outmaneuvered by Prepared Sellers" description: "A high-density analyst briefing on deal loss dynamics, exit readiness asymmetry, and why mid‑market sellers who understand Pathmaker architecture now regularly outperform private equity bidders." date: "2025-10-23" author: "Pathmaker Analyst Team" slug: "why-pe-funds-lose-to-prepared-sellers"
 --- 
 
 The pattern is visible long before the deal room opens.
@@ -28,11 +23,7 @@ What follows is the internal briefing.
 
 ### Phase I: -
 
-# : THE STRUCTURAL DIAGNOSIS Private briefing
-
-.
-
-No sentiment.
+# : THE STRUCTURAL DIAGNOSIS Private briefing. No sentiment.
 
 Only mechanics.
 
@@ -233,16 +224,7 @@ Funds accustomed to leisurely underwriting are outflanked.
 A fund’s timeline becomes its vulnerability.
 
 THE MACHINE-GUN SENTENCES Architecture wins.
-
-Preparation wins.
-
-Certainty wins.
-
-Speed wins.
-
-Ambiguity loses.
-
-Delay kills.
+ Preparation wins. Certainty wins. Speed wins. Ambiguity loses. Delay kills.
 
 Clean data closes.
 

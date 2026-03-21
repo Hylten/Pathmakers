@@ -1,9 +1,4 @@
----
-title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
-description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America."
-date: "2025-07-09"
-author: "Jonas Hyltén"
-slug: "mid-market-healthcare-structural-liquidity-engineering"
+--- title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector" description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America." date: "2025-07-09" author: "Jonas Hyltén" slug: "mid-market-healthcare-structural-liquidity-engineering"
 --- 
 
 The structural liquidity gap in mid-market healthcare is not a function of operational weakness.
@@ -201,11 +196,7 @@ In healthcare, misalignment between lender, operator, and acquirer destroys valu
 
 Strategic navigation ensures the institutional archetype is correct from the beginning.
 
-THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical
-
-.
-
-It involves disciplined and transparent management of clinical, human, and financial resources.
+THE STEWARDSHIP FILTER Stewardship within healthcare is not theoretical. It involves disciplined and transparent management of clinical, human, and financial resources.
 
 Stewardship is the operator’s commitment to non wasteful allocation of capital and operational effort.
 

@@ -1,9 +1,4 @@
----
-title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness"
-description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring, and off market origination. Strategic memo framed for allocators and principal sponsors navigating a fractured M&A environment."
-date: "2025-11-15"
-author: "Jonas Hyltén"
-slug: "private-credit-hedge-mid-market-volatility"
+--- title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness" description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring, and off market origination. Strategic memo framed for allocators and principal sponsors navigating a fractured M&A environment." date: "2025-11-15" author: "Jonas Hyltén" slug: "private-credit-hedge-mid-market-volatility"
 --- 
 
 The structural gap in the European and North American mid market is not the lack of buyers.
@@ -176,11 +171,7 @@ This includes:
 
 It also ensures that the private credit instrument serves as a stabiliser rather than an additional complexity.
 
-THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management
-
-.
-
-It aligns with the principle in **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of non wasteful resource management. It aligns with the principle in **Proverbs 13:22
 
 * 
 

@@ -1,9 +1,4 @@
----
-title: "Nordic Cross‑Border M&A: The New Playbook"
-description: "A principal‑grade institutional blueprint outlining the new operational logic, structural arbitrage, and friction‑removal dynamics defining Nordic cross‑border M&A, with emphasis on exit readiness, off‑market origination, and deal acceleration across the mid‑market corridor."
-date: "2025-10-19"
-author: "The Analyst Team"
-slug: "nordic-cross-border-ma-new-playbook"
+--- title: "Nordic Cross‑Border M&A: The New Playbook" description: "A principal‑grade institutional blueprint outlining the new operational logic, structural arbitrage, and friction‑removal dynamics defining Nordic cross‑border M&A, with emphasis on exit readiness, off‑market origination, and deal acceleration across the mid‑market corridor." date: "2025-10-19" author: "The Analyst Team" slug: "nordic-cross-border-ma-new-playbook"
 --- 
 
 Nordic cross‑border M&A has entered a structural rewrite.
@@ -228,11 +223,7 @@ Normalize EBITDA.
 
 Align policies.
 
-Codify management rights.
-
-Audit operational rhythms.
-
-Kill ambiguity.
+Codify management rights. Audit operational rhythms. Kill ambiguity.
 
 Frictionless assets move fast across borders.
 

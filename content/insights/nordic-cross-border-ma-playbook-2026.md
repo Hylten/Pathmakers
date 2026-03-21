@@ -1,9 +1,4 @@
----
-title: "Nordic Cross-Border M&A: The New Playbook for Institutional Operators in 2026"
-description: "An institutional-grade intelligence brief outlining the structural shifts, capital mechanics, and operational dynamics redefining Nordic cross-border M&A for private equity Fund-III investment opportunities 2026 and capital raising for mid-market buyout platforms."
-date: "2025-07-02"
-author: "Jonas Hyltén"
-slug: "nordic-cross-border-ma-playbook-2026"
+--- title: "Nordic Cross-Border M&A: The New Playbook for Institutional Operators in 2026" description: "An institutional-grade intelligence brief outlining the structural shifts, capital mechanics, and operational dynamics redefining Nordic cross-border M&A for private equity Fund-III investment opportunities 2026 and capital raising for mid-market buyout platforms." date: "2025-07-02" author: "Jonas Hyltén" slug: "nordic-cross-border-ma-playbook-2026"
 --- 
 
 [START INTELLIGENCE REPORT] 

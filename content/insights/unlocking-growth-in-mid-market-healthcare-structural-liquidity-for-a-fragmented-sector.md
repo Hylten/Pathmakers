@@ -1,16 +1,7 @@
----
-title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
-description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability."
-date: "2025-11-13"
-author: "Jonas Hyltén"
-slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
+--- title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector" description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability." date: "2025-11-13" author: "Jonas Hyltén" slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
 --- 
 
-# Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape
-
-.
-
-It is a sector defined by chronic margin compression, reimbursement volatility, and operational drag that accumulates long before an outside advisor sees the books.
+# Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape. It is a sector defined by chronic margin compression, reimbursement volatility, and operational drag that accumulates long before an outside advisor sees the books.
 
 Most operators feel the weight of decades of underinvestment, fragmented systems, and inorganic acquisitions that never fully integrated.
 
@@ -28,11 +19,7 @@ We engineer outcomes through private credit and asset based Monetization Archite
 
 We structure liquidity that lets serious owners control their destiny rather than react to it.
 
-The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products
-
-.
-
-Pathmaker provides structure.
+The Pathmaker Advantage: Structural Liquidity as Strategy Most capital providers offer products. Pathmaker provides structure.
 
 Our advantage is not pricing.
 

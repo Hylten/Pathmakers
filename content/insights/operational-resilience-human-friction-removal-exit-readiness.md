@@ -1,9 +1,4 @@
----
-title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises"
-description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing for strategic divestiture or institutional capital entry."
-date: "2026-01-19"
-author: "Jonas Hyltén"
-slug: "operational-resilience-human-friction-removal-exit-readiness"
+--- title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises" description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing for strategic divestiture or institutional capital entry." date: "2026-01-19" author: "Jonas Hyltén" slug: "operational-resilience-human-friction-removal-exit-readiness"
 --- 
 
 The fundamental constraint in mid market M&A is not valuation.
@@ -24,11 +19,7 @@ The structural gap between owner operated enterprises and institutional buyers h
 
 This is 
 
- THE REGIME SHIFT
-
- .
-
-Institutional buyers are not underwriting potential.
+ THE REGIME SHIFT. Institutional buyers are not underwriting potential.
 
 They underwrite control.
 
@@ -294,11 +285,7 @@ It is not promotional.
 
 It is architectural.
 
-THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management
-
-.
-
-It is a discipline of responsibility, not sentiment.
+THE STEWARDSHIP FILTER Stewardship is the principle of non wasteful resource management. It is a discipline of responsibility, not sentiment.
 
 Stewardship builds enterprises that can endure.
 

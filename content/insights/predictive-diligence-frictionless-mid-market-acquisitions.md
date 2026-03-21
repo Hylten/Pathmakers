@@ -1,9 +1,4 @@
----
-title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions"
-description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena."
-date: "2026-01-04"
-author: "Pathmaker Analyst Group"
-slug: "predictive-diligence-frictionless-mid-market-acquisitions"
+--- title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions" description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena." date: "2026-01-04" author: "Pathmaker Analyst Group" slug: "predictive-diligence-frictionless-mid-market-acquisitions"
 --- 
 
 Predictive diligence is no longer a novelty.

@@ -1,9 +1,4 @@
----
-title: "Strategic Liquidity in Mid-Market M&A: The Silent Lever Behind Real Acquisition Power"
-description: "Institutional analysis on liquidity engineering, cross collateral structuring, and operational de friction for mid market buyers navigating the current European and transatlantic M&A landscape."
-date: "2025-11-05"
-author: "Jonas Hyltén"
-slug: "strategic-liquidity-mid-market-ma-institutional-briefing"
+--- title: "Strategic Liquidity in Mid-Market M&A: The Silent Lever Behind Real Acquisition Power" description: "Institutional analysis on liquidity engineering, cross collateral structuring, and operational de friction for mid market buyers navigating the current European and transatlantic M&A landscape." date: "2025-11-05" author: "Jonas Hyltén" slug: "strategic-liquidity-mid-market-ma-institutional-briefing"
 --- 
 
 The structural gap in mid market M&A today is not valuation uncertainty but liquidity misalignment on the buyer side.
@@ -156,11 +151,7 @@ The objective is to identify dormant or inaccessible capacity and convert it int
 
 Institutional 
 
- INTRODUCTION
-
- .
-
-Capital providers appropriate for the buyer’s profile are identified and introduced in a format that aligns with lender expectations.
+ INTRODUCTION. Capital providers appropriate for the buyer’s profile are identified and introduced in a format that aligns with lender expectations.
 
 The objective is seniority clarity, collateral transparency, and underwriting acceleration. 
 

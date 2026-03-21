@@ -1,9 +1,4 @@
----
-title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators"
-description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined sourcing mechanics for off-market transactions."
-date: "2025-09-02"
-author: "Jonas Hyltén"
-slug: "middle-market-carve-outs-pragmatic-playbook"
+--- title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators" description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined sourcing mechanics for off-market transactions." date: "2025-09-02" author: "Jonas Hyltén" slug: "middle-market-carve-outs-pragmatic-playbook"
 --- 
 
 The structural gap in middle market carve-outs is not a function of asset scarcity.
@@ -160,11 +155,7 @@ This model creates a disciplined environment where both the buyer and the seller
 
 It also ensures that carve-out candidates are filtered through a high-grade operational lens before they reach the negotiation table.
 
-THE STEWARDSHIP FILTER Stewardship in the carve-out context represents disciplined resource management
-
-.
-
-Divisions inside corporate parents often suffer from misalignment between their operational potential and the parent’s strategic priorities.
+THE STEWARDSHIP FILTER Stewardship in the carve-out context represents disciplined resource management. Divisions inside corporate parents often suffer from misalignment between their operational potential and the parent’s strategic priorities.
 
 The stewardship filter evaluates whether a buyer can reassign resources, eliminate waste, and reconstruct the operational identity of the unit.
 

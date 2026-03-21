@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Exit Readiness"
-description: "Mid‑market exit preparation through pre‑negotiated risk mitigation, jurisdictional foresight, and tactical intelligence—Pathmaker’s structural blueprint for frictionless M&A execution."
-date: "2026-02-20"
-author: "Pathmaker Analyst Division"
-slug: "exit-preparation-pre-negotiated-risk-mitigation"
+--- title: "The Principal Architecture of Exit Readiness" description: "Mid‑market exit preparation through pre‑negotiated risk mitigation, jurisdictional foresight, and tactical intelligence—Pathmaker’s structural blueprint for frictionless M&A execution." date: "2026-02-20" author: "Pathmaker Analyst Division" slug: "exit-preparation-pre-negotiated-risk-mitigation"
 --- 
 
 The firms that exit cleanly are not the firms that grow fastest.
@@ -268,11 +263,7 @@ Buyer hesitation is expensive.
 
 Buyer momentum is priceless.
 
-COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive
-
-.
-
-We anticipate not just what the buyer will ask but the strategic intent behind the question.
+COUNTER-INTELLIGENCE LAYER This is where advanced Pathmaker architecture becomes decisive. We anticipate not just what the buyer will ask but the strategic intent behind the question.
 
 This is not generic prep; it is adversarial foresight.
 

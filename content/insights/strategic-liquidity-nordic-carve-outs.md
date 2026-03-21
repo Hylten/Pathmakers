@@ -1,9 +1,4 @@
----
-title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
-description: "Institutional briefing on Nordic corporate carve-out mechanics, liquidity engineering, exit readiness, and friction removal for mid-market strategic transactions."
-date: "2025-12-18"
-author: "Jonas Hyltén"
-slug: "strategic-liquidity-nordic-carve-outs"
+--- title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution" description: "Institutional briefing on Nordic corporate carve-out mechanics, liquidity engineering, exit readiness, and friction removal for mid-market strategic transactions." date: "2025-12-18" author: "Jonas Hyltén" slug: "strategic-liquidity-nordic-carve-outs"
 --- 
 
 The liquidity gap in Nordic mid-market carve-outs is a structural artefact of balance-sheet rigidity rather than a shortage of acquirers or operational potential.
@@ -190,11 +185,7 @@ In European corporate carve-outs, the work is centered on liquidity engineering 
 
 Different asset classes, same institutional discipline.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital
-
-.
-
-It is not a moral abstraction.
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs the use of capital. It is not a moral abstraction.
 
 It is a framework for resource management that aligns assets with purpose, structure, and efficiency.
 

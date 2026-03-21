@@ -1,9 +1,4 @@
----
-title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision"
-description: "An institutional briefing on the structural capital gap in Nordic mid-market enterprises, the mechanics of precision private credit, exit readiness acceleration, and frictionless M&A positioning for high intent Nordic operators."
-date: "2025-09-19"
-author: "Jonas Hyltén"
-slug: "strategic-financing-nordic-enterprises-private-credit-precision"
+--- title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision" description: "An institutional briefing on the structural capital gap in Nordic mid-market enterprises, the mechanics of precision private credit, exit readiness acceleration, and frictionless M&A positioning for high intent Nordic operators." date: "2025-09-19" author: "Jonas Hyltén" slug: "strategic-financing-nordic-enterprises-private-credit-precision"
 --- 
 
 The capital vacuum in the Nordic mid-market is a structural consequence of regulatory tightening and banking concentration, not a reflection of deteriorating enterprise quality.
@@ -146,11 +141,7 @@ Opportunity Velocity In a competitive acquisition environment, velocity is an ad
 
 Precision private credit reduces time to close, increases strategic optionality, and enables operators to execute on off market opportunities before competing buyers mobilize.
 
-THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction
-
-.
-
-It is an operational discipline.
+THE STEWARDSHIP FILTER Stewardship in capital formation is not a moral abstraction. It is an operational discipline.
 
 Nordic enterprises that manage capital with intention outperform those that treat financing as an afterthought.
 

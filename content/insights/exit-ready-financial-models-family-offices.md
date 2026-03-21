@@ -1,9 +1,4 @@
----
-title: "The Exit-Ready Mandate: Why Modern Family Offices Now Demand Financial Models Built for the Finish Line"
-description: "A Pathmaker-level intelligence briefing on the structural rise of exit-ready financial models as a non‑negotiable requirement for private capital deployment across mid‑market transactions."
-date: "2025-09-01"
-author: "Pathmaker Analyst Team"
-slug: "exit-ready-financial-models-family-offices"
+--- title: "The Exit-Ready Mandate: Why Modern Family Offices Now Demand Financial Models Built for the Finish Line" description: "A Pathmaker-level intelligence briefing on the structural rise of exit-ready financial models as a non‑negotiable requirement for private capital deployment across mid‑market transactions." date: "2025-09-01" author: "Pathmaker Analyst Team" slug: "exit-ready-financial-models-family-offices"
 --- 
 
 The shift began quietly.

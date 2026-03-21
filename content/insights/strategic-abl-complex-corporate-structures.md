@@ -1,9 +1,4 @@
----
-title: "Strategic Asset Based Lending for Complex Corporate Architectures"
-description: "Institutional briefing on the liquidity engineering mechanics that underpin strategic Asset-Based Lending in multi-entity corporate groups, with emphasis on exit readiness, M and A friction removal, balance sheet optimization, and off market origination dynamics."
-date: "2026-02-19"
-author: "Jonas Hyltén"
-slug: "strategic-abl-complex-corporate-structures"
+--- title: "Strategic Asset Based Lending for Complex Corporate Architectures" description: "Institutional briefing on the liquidity engineering mechanics that underpin strategic Asset-Based Lending in multi-entity corporate groups, with emphasis on exit readiness, M and A friction removal, balance sheet optimization, and off market origination dynamics." date: "2026-02-19" author: "Jonas Hyltén" slug: "strategic-abl-complex-corporate-structures"
 --- 
 
 The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets.

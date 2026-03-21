@@ -1,9 +1,4 @@
----
-title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality"
-description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Institutional Voice with tactical overlays from Jonas Hyltén."
-date: "2025-10-22"
-author: "Jonas Hyltén"
-slug: "dark-arts-of-exit-readiness-generals-perspective"
+--- title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality" description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Institutional Voice with tactical overlays from Jonas Hyltén." date: "2025-10-22" author: "Jonas Hyltén" slug: "dark-arts-of-exit-readiness-generals-perspective"
 --- 
 
 The capital vacuum in the transatlantic mid-market is not a product of valuation compression.
@@ -232,11 +227,7 @@ The buyer remains sovereign.
 
 The navigator provides the intelligence that collapses friction and elevates optionality.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order
-
-.
-
-This briefing uses stewardship in its technical and theological sense.
+THE STEWARDSHIP FILTER Stewardship is the discipline of transferring assets in a state of order. This briefing uses stewardship in its technical and theological sense.
 
 The Theology of Capital frames stewardship as the minimization of waste and the maximization of purpose.
 

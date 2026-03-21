@@ -1,9 +1,4 @@
----
-title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
-description: "Institutional briefing on asset based lending mechanics, liquidity architecture, balance sheet optimization, and operational intelligence for healthcare logistics platforms navigating M&A readiness and structural capital inefficiencies."
-date: "2025-08-01"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
+--- title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints" description: "Institutional briefing on asset based lending mechanics, liquidity architecture, balance sheet optimization, and operational intelligence for healthcare logistics platforms navigating M&A readiness and structural capital inefficiencies." date: "2025-08-01" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
 --- 
 
 The structural gap defining healthcare logistics in 2026 is not a function of asset scarcity.
@@ -150,11 +145,7 @@ The goal is to understand collateral physics, throughput patterns, regulatory de
 
 This intelligence informs the selection of institutional credit partners who match the operator's liquidity geometry.
 
-THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission
-
-.
-
-Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
+THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission. Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
 
 The theology of capital is represented in **Proverbs 13:22
 

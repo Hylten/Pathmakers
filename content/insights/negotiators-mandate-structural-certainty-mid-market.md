@@ -1,9 +1,4 @@
----
-title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions"
-description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture."
-date: "2025-06-23"
-author: "Jonas Hyltén"
-slug: "negotiators-mandate-structural-certainty-mid-market"
+--- title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions" description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture." date: "2025-06-23" author: "Jonas Hyltén" slug: "negotiators-mandate-structural-certainty-mid-market"
 --- 
 
 The capital vacuum across the European and Nordic mid market is not a liquidity shortage.
@@ -206,11 +201,7 @@ For energy specific transactions, NAEO operates as the institutional grade count
 
 Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment
-
-.
-
-It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment. It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. **Proverbs 13:22
 
 * 
 

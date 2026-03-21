@@ -1,9 +1,4 @@
----
-title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
-description: "Institutional briefing on liquidity engineering, exit readiness, and frictionless M&A execution for mid-market corporate carve outs and operationally entangled spinoffs. Strategic analysis of capital constraints, balance sheet restructuring, and off-market origination dynamics."
-date: "2025-10-03"
-author: "Jonas Hyltén"
-slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
+--- title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle" description: "Institutional briefing on liquidity engineering, exit readiness, and frictionless M&A execution for mid-market corporate carve outs and operationally entangled spinoffs. Strategic analysis of capital constraints, balance sheet restructuring, and off-market origination dynamics." date: "2025-10-03" author: "Jonas Hyltén" slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
 --- 
 
 The capital vacuum in the 2026 credit regime is the result of procyclical deleveraging inside the European and North American banking systems, not a decline in corporate productivity.
@@ -216,11 +211,7 @@ This includes
 
 - covenant preparation The partnership model creates a neutral ground where buyers and sellers engage with clarity instead of ambiguity.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
-
-.
-
-The theology of capital requires operators to convert complexity into order, inefficiency into clarity, and uncertainty into structural integrity.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. The theology of capital requires operators to convert complexity into order, inefficiency into clarity, and uncertainty into structural integrity.
 
 The spinoff process is a real time test of stewardship.
 

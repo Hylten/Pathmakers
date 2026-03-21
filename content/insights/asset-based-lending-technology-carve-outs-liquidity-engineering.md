@@ -1,9 +1,4 @@
----
-title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators"
-description: "A clinical institutional briefing on the role of Asset-Based Lending structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North America."
-date: "2026-01-08"
-author: "Jonas Hyltén"
-slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
+--- title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators" description: "A clinical institutional briefing on the role of Asset-Based Lending structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North America." date: "2026-01-08" author: "Jonas Hyltén" slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
 --- 
 
 The structural gap in European mid-market technology transactions is not a lack of capital but a misalignment between operational complexity and liquidity availability at the precise moment when separation risk is highest.
@@ -187,11 +182,7 @@ Where energy transactions rely on our strategic partner NAEO for technical recov
 
 The role of Roials Capital remains constant: alignment, navigation, and institutional clarity.
 
-THE STEWARDSHIP FILTER Stewardship is not capital accumulation
-
-.
-
-It is capital ordering.
+THE STEWARDSHIP FILTER Stewardship is not capital accumulation. It is capital ordering.
 
 For operators and allocators, stewardship means deploying resources in a manner that does not burden the enterprise with speculative leverage.
 

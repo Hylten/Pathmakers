@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Guide to Nordic Growth: Institutional Mechanics of Exit Readiness and Mid-Market Acceleration"
-description: "A technical navigation framework for Nordic mid-market operators seeking frictionless M&A pathways, off-market origination, and balance sheet alignment. Authored by Jonas Hylten in the voice of The General."
-date: "2025-12-07"
-author: "Jonas Hylten"
-slug: "pathmaker-guide-nordic-growth"
+--- title: "The Pathmaker Guide to Nordic Growth: Institutional Mechanics of Exit Readiness and Mid-Market Acceleration" description: "A technical navigation framework for Nordic mid-market operators seeking frictionless M&A pathways, off-market origination, and balance sheet alignment. Authored by Jonas Hylten in the voice of The General." date: "2025-12-07" author: "Jonas Hylten" slug: "pathmaker-guide-nordic-growth"
 --- 
 
 The structural gap shaping Nordic mid-market growth is not a lack of capable operators.
@@ -168,11 +163,7 @@ This is not a sale.
 
 It is an alignment of institutional archetypes.
 
-THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline
-
-.
-
-Stewardship is not conservatism.
+THE STEWARDSHIP FILTER THEOLOGY OF CAPITAL Nordic growth is strengthened when capital is deployed with stewardship discipline. Stewardship is not conservatism.
 
 It is precision.
 

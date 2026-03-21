@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
-description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility."
-date: "2025-09-01"
-author: "Jonas Hyltén"
-slug: "pathmaker-approach-sovereign-financing"
+--- title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios" description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility." date: "2025-09-01" author: "Jonas Hyltén" slug: "pathmaker-approach-sovereign-financing"
 --- 
 
 The regulatory tightening within Western capital markets has created a bifurcated system where institutional scale liquidity is available, but not deployable, unless the allocator can demonstrate cross border sophistication and sovereign grade structural preparation.
@@ -136,11 +131,7 @@ No solicitation, no promotion, no commitments.
 
 Only structural navigation.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral concept
-
-.
-
-It is a capital discipline rooted in resource non wastefulness.
+THE STEWARDSHIP FILTER Stewardship is not a moral concept. It is a capital discipline rooted in resource non wastefulness.
 
 Capital misallocation creates fragility.
 

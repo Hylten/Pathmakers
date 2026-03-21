@@ -1,9 +1,4 @@
----
-title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
-description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and Nordic market conditions."
-date: "2025-07-24"
-author: "Jonas Hyltén"
-slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
+--- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and Nordic market conditions." date: "2025-07-24" author: "Jonas Hyltén" slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
 --- 
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity.
@@ -154,11 +149,7 @@ For energy transactions, Roials Capital introduces NAEOCC as the institutional g
 
 For general M&A, Roials Capital functions as a balance sheet optimizer and transaction architect.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
-
-.
-
-It is a principle, not an aesthetic.
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste. It is a principle, not an aesthetic.
 
 Stewardship requires designing capital structures that do not erode enterprise resilience.
 

@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors"
-description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness."
-date: "2025-10-01"
-author: "Pathmaker Analyst Division"
-slug: "stealth-deal-origination-uhnw-analysis"
+--- title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors" description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness." date: "2025-10-01" author: "Pathmaker Analyst Division" slug: "stealth-deal-origination-uhnw-analysis"
 --- 
 
 Stealth deal origination has become the principal hidden channel of mid‑market transaction flow, but most observers misdiagnose the cause.
@@ -112,11 +107,7 @@ The sovereign question becomes: What does this shift mean for the UHNW direct in
 
 And what architecture must be built to capture the new flow?
 
-### Phase II: - INTERNAL TONE Principal voice activated
-
-.
-
-Clarity first.
+### Phase II: - INTERNAL TONE Principal voice activated. Clarity first.
 
 The UHNW investor who still waits for a banker to call is already out of position.
 
@@ -176,11 +167,7 @@ One founder speaks to another human being, not to a marketplace of bidders.
 
 ### Phase III:
 
-- INTERNAL STRUCTURE The architectural breakdown follows
-
-.
-
-The tactical map of stealth origination has four dominant corridors.
+- INTERNAL STRUCTURE The architectural breakdown follows. The tactical map of stealth origination has four dominant corridors.
 
 Each corridor operates independently but converges strategically when deployed under a single Principal’s mandate.
 

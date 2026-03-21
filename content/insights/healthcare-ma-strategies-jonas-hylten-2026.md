@@ -1,9 +1,4 @@
----
-title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
-description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators."
-date: "2025-11-07"
-author: "Jonas Hyltén"
-slug: "healthcare-ma-strategies-jonas-hylten-2026"
+--- title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift" description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators." date: "2025-11-07" author: "Jonas Hyltén" slug: "healthcare-ma-strategies-jonas-hylten-2026"
 --- 
 
 The structural gap defining European healthcare M&A in 2026 is a capital sequencing failure rather than an asset scarcity problem.
@@ -306,11 +301,7 @@ Institutional buyers rely on clean navigation structures.
 
 Operators who cannot harmonize cross-border fundamentals are perceived as higher friction.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral overlay
-
-.
-
-It is a capital discipline that prevents decay. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is not a moral overlay. It is a capital discipline that prevents decay. **Proverbs 13:22
 
 * 
 
@@ -378,11 +369,7 @@ For allocators, the lens focuses on:
 
 The next 
 
-### Step I: s not deal execution
-
-.
-
-The next 
+### Step I: s not deal execution. The next 
 
 ### Step I:
 

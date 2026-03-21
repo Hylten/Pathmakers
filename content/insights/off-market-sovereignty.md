@@ -1,9 +1,4 @@
----
-title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits"
-description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits."
-date: "2026-01-11"
-author: "Pathmaker Analyst Group"
-slug: "off-market-sovereignty"
+--- title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits" description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits." date: "2026-01-11" author: "Pathmaker Analyst Group" slug: "off-market-sovereignty"
 --- 
 
 The auction model is cracking.
@@ -100,11 +95,7 @@ Off‑market alternatives emerged not as innovation, but as correction.
 
 INTERNAL TONE ( 
 
-### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity
-
-.
-
-Off‑market is not secrecy.
+### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity. Off‑market is not secrecy.
 
 Off‑market is stewardship.
 
@@ -230,11 +221,7 @@ Buyers waste cycles deciphering inconsistent reporting.
 
 Off‑market processes allow the seller to build a real, coherent, audit‑ready data spine months before conversations begin.
 
-The founder benefits.
-
-The buyer benefits.
-
-Surprises disappear. 
+The founder benefits. The buyer benefits. Surprises disappear. 
 
 3.
 
@@ -368,11 +355,7 @@ Some do.
 
 The architecture determines the path.
 
-CLOSING ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted
-
-.
-
-Permanently.
+CLOSING ANALYSIS: WHY THE AUCTION WILL NOT RETURN The market has shifted. Permanently.
 
 Buyer behavior is now asymmetric.
 

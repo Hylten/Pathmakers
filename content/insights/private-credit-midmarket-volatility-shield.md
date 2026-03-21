@@ -1,9 +1,4 @@
----
-title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle"
-description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation."
-date: "2025-07-27"
-author: "Jonas Hyltén — Analyst Team"
-slug: "private-credit-midmarket-volatility-shield"
+--- title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle" description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation." date: "2025-07-27" author: "Jonas Hyltén — Analyst Team" slug: "private-credit-midmarket-volatility-shield"
 --- 
 
 - 
@@ -22,11 +17,7 @@ slug: "private-credit-midmarket-volatility-shield"
 
 Deal flow is uneven.
 
-Valuation bands stretch.
-
-Liquidity signals distort.
-
-Sellers hesitate.
+Valuation bands stretch. Liquidity signals distort. Sellers hesitate.
 
 Buyers delay.
 
@@ -315,16 +306,7 @@ The Analyst Team sees the same pattern across every mid‑market vertical: the b
 Not optimized.
 
 Engineered.
-
-With precision.
-
-With sequencing.
-
-With silence.
-
-No noise.
-
-No drift.
+ With precision. With sequencing. With silence. No noise. No drift.
 
 Only execution.
 

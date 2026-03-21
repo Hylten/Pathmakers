@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Playbook for Healthcare Financing"
-description: "A technical memo on [capital structuring](https://hylten.github.io/ROIALS CAPITAL/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility."
-date: "2025-09-07"
-author: "Jonas Hyltén"
-slug: "pathmaker-playbook-healthcare-financing"
+--- title: "The Pathmaker Playbook for Healthcare Financing" description: "A technical memo on [capital structuring](https://hylten.github.io/ROIALS CAPITAL/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility." date: "2025-09-07" author: "Jonas Hyltén" slug: "pathmaker-playbook-healthcare-financing"
 --- 
 
 The capital dislocation in European healthcare is the product of regulatory compression and demographic acceleration, not the absence of viable operators.
@@ -14,11 +9,7 @@ This regime shift is producing an environment where the pathmaker role is no lon
 
 It has become the defining advantage for sponsors, operators, and institutional buyers who require exit readiness without friction and origination channels that escape the competitive noise.
 
-THE REGIME SHIFT
-
- .
-
-Health systems across Europe face a structural imbalance.
+THE REGIME SHIFT. Health systems across Europe face a structural imbalance.
 
 Population aging continues its upward arc while public systems experience resource strain and private platforms expand capacity faster than capital markets can digest.
 
@@ -54,11 +45,7 @@ Institutional buyers allocate toward assets where operational documentation alig
 
 This is where most mid-market healthcare platforms fail to match institutional appetite.
 
-TECHNICAL MECHANICS
-
- .
-
-Exit readiness in healthcare is a discipline of documentation, capital architecture, and signal clarity.
+TECHNICAL MECHANICS. Exit readiness in healthcare is a discipline of documentation, capital architecture, and signal clarity.
 
 It depends on transforming operational performance into a format that private equity, family offices, and consolidators can underwrite with minimal friction.
 
@@ -166,11 +153,7 @@ The Pathmaker role ensures that by the time a healthcare platform reaches an acq
 
 This creates competitive tension and increases execution reliability. 
 
-### Phase IV: The Stewardship Filter
-
-.
-
-Stewardship is not philosophical.
+### Phase IV: The Stewardship Filter. Stewardship is not philosophical.
 
 It is structural.
 
@@ -198,11 +181,7 @@ It is not a moral accessory.
 
 It is a strategic differentiator. 
 
-### Phase V: Decision Architecture for Allocators
-
-.
-
-Institutional allocators evaluating European healthcare platforms require a lens that separates operational noise from structural signal.
+### Phase V: Decision Architecture for Allocators. Institutional allocators evaluating European healthcare platforms require a lens that separates operational noise from structural signal.
 
 The primary decision filters include:
 

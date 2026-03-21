@@ -1,16 +1,7 @@
----
-title: "The Pathmaker Approach to Nordic Credit: Structural Liquidity for Serious Capital"
-description: "A strategic deep dive into Nordic private credit and asset based liquidity engineering, tailored for HNWI and UHNW investors seeking liquidity solutions anchored in real collateral."
-date: "2025-12-13"
-author: "Jonas Hyltén"
-slug: "the-pathmaker-approach-to-nordic-credit-structural-liquidity-for-serious-capital"
+--- title: "The Pathmaker Approach to Nordic Credit: Structural Liquidity for Serious Capital" description: "A strategic deep dive into Nordic private credit and asset based liquidity engineering, tailored for HNWI and UHNW investors seeking liquidity solutions anchored in real collateral." date: "2025-12-13" author: "Jonas Hyltén" slug: "the-pathmaker-approach-to-nordic-credit-structural-liquidity-for-serious-capital"
 --- 
 
-# The Pathmaker Approach to Nordic Credit Nordic private credit is no longer a boutique side lane of European finance
-
-.
-
-It has become a structural pillar for mid market M and A, for healthcare carve outs, and for the increasingly collateral driven liquidity needs of sophisticated investors.
+# The Pathmaker Approach to Nordic Credit Nordic private credit is no longer a boutique side lane of European finance. It has become a structural pillar for mid market M and A, for healthcare carve outs, and for the increasingly collateral driven liquidity needs of sophisticated investors.
 
 The challenge is that most market commentary is romanticized.
 

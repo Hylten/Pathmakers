@@ -1,9 +1,4 @@
----
-title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
-description: "A principal‑grade briefing on sovereign financing architecture, exit readiness mechanics, off‑market deal origination, and liquidity engineering for high‑intent mid‑market operations."
-date: "2025-12-20"
-author: "Analyst Team — Pathmaker"
-slug: "pathmaker-sovereign-financing-hnwi-uhnw"
+--- title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios" description: "A principal‑grade briefing on sovereign financing architecture, exit readiness mechanics, off‑market deal origination, and liquidity engineering for high‑intent mid‑market operations." date: "2025-12-20" author: "Analyst Team — Pathmaker" slug: "pathmaker-sovereign-financing-hnwi-uhnw"
 --- 
 
 Sovereign financing is not a market.
@@ -610,11 +605,7 @@ Final layer:
 
 # THE MANDAT
 
-E
-
-.
-
-The operator must accept the conversion from private actor to institutional actor.
+E. The operator must accept the conversion from private actor to institutional actor.
 
 Sovereign recognition requires institutional discipline.
 

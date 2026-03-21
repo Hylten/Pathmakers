@@ -1,16 +1,7 @@
----
-title: "How Asset-Based Lending Reshapes Private Equity Carve-Outs in the Mid-Market"
-description: "A strategic analysis of how Asset-Based liquidity engineering delivers liquidity, speed, and structural leverage in private equity carve-outs."
-date: "2025-07-29"
-author: "Jonas Hyltén"
-slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
+--- title: "How Asset-Based Lending Reshapes Private Equity Carve-Outs in the Mid-Market" description: "A strategic analysis of how Asset-Based liquidity engineering delivers liquidity, speed, and structural leverage in private equity carve-outs." date: "2025-07-29" author: "Jonas Hyltén" slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
 --- 
 
-# The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals
-
-.
-
-They are operational divorces carried out under time pressure, incomplete information, and conflicting incentives.
+# The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals. They are operational divorces carried out under time pressure, incomplete information, and conflicting incentives.
 
 They rarely resemble strategic transformations.
 
@@ -36,11 +27,7 @@ principal authority.
 
 We provide the structural mechanics for institutional capital.
 
-When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement
-
-.
-
-High inventory environments.
+When Asset-Based Lending Is Not Optional There are carve-out scenarios where Asset-Based Lending is not an enhancement, but a requirement. High inventory environments.
 
 Fast moving consumer goods.
 
@@ -56,11 +43,7 @@ The working capital gap becomes the single point of failure.
 
 Asset-Based Lending is the insurance against that failure.
 
-Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear
-
-.
-
-Carve-outs are accelerating.
+Future of Asset-Based Lending in Private Equity Carve-Outs The trend is clear. Carve-outs are accelerating.
 
 Parent companies are simplifying.
 

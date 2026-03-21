@@ -1,9 +1,4 @@
----
-title: "The Sovereign Architecture of Institutional-Grade FP&A: The Quiet Engine of Premium Exit Multiples"
-description: "A tactical, analyst‑grade dissection of FP&A as the decisive mechanism for exit readiness, valuation control, and frictionless mid‑market M&A execution."
-date: "2025-10-09"
-author: "Pathmaker — Analyst Division"
-slug: "institutional-fpa-exit-multiples-architecture"
+--- title: "The Sovereign Architecture of Institutional-Grade FP&A: The Quiet Engine of Premium Exit Multiples" description: "A tactical, analyst‑grade dissection of FP&A as the decisive mechanism for exit readiness, valuation control, and frictionless mid‑market M&A execution." date: "2025-10-09" author: "Pathmaker — Analyst Division" slug: "institutional-fpa-exit-multiples-architecture"
 --- 
 
 The firms that command premium exits never announce themselves with bravado.
@@ -448,11 +443,7 @@ They impose order on the deal.
 
 They build a financial architecture that no institutional acquirer can diminish.
 
-Machine gun clarity.
-
-Order is power.
-
-Architecture wins.
+Machine gun clarity. Order is power. Architecture wins.
 
 Exit multiples follow.
 

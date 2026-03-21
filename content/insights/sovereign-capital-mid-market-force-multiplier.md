@@ -1,9 +1,4 @@
----
-title: "Sovereign Capital as a Mid‑Market Force Multiplier"
-description: "A high‑density institutional briefing on sovereign capital, mid‑market power dynamics, exit readiness architecture, liquidity engineering, and off‑market acquisition intelligence."
-date: "2026-03-01"
-author: "The Analyst Team"
-slug: "sovereign-capital-mid-market-force-multiplier"
+--- title: "Sovereign Capital as a Mid‑Market Force Multiplier" description: "A high‑density institutional briefing on sovereign capital, mid‑market power dynamics, exit readiness architecture, liquidity engineering, and off‑market acquisition intelligence." date: "2026-03-01" author: "The Analyst Team" slug: "sovereign-capital-mid-market-force-multiplier"
 --- 
 
 Sovereign capital behaves differently in the mid‑market than in the upper‑market.
@@ -276,11 +271,7 @@ Asset registries.
 
 Covenant residue analysis.
 
-Ownership fatigue identification.
-
-Liquidity stress indexing.
-
-Operator psychology.
+Ownership fatigue identification. Liquidity stress indexing. Operator psychology.
 
 Capital need detection.
 
@@ -383,16 +374,7 @@ Its presence signals legitimacy.
 It signals durability.
 
 It signals long‑term viability.
-
-Suppliers react.
-
-Customers respond.
-
-Talent stabilizes.
-
-Boards harden.
-
-Counterparties calm.
+ Suppliers react. Customers respond. Talent stabilizes. Boards harden. Counterparties calm.
 
 The entire ecosystem senses the shift.
 
@@ -406,11 +388,7 @@ When a sovereign pool commits, the market adjusts.
 
 Competitors back off.
 
-PE firms hesitate.
-
-Strategic buyers recalculate.
-
-Banks soften.
+PE firms hesitate. Strategic buyers recalculate. Banks soften.
 
 Insurers tighten exposure but respect stability.
 

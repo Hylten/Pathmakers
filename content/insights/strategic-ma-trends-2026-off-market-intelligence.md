@@ -1,9 +1,4 @@
----
-title: "Strategic M&A Trends for 2026: Institutional Readiness, Operational Friction Removal, and the Rise of Off Market Competence"
-description: "A technical briefing on the regime shift shaping 2026 M&A markets. Focus on balance sheet optimization, buyer discipline, exit readiness, and the structural forces redefining mid market acquisition dynamics across Europe and North America."
-date: "2026-01-14"
-author: "Jonas Hyltén"
-slug: "strategic-ma-trends-2026-off-market-intelligence"
+--- title: "Strategic M&A Trends for 2026: Institutional Readiness, Operational Friction Removal, and the Rise of Off Market Competence" description: "A technical briefing on the regime shift shaping 2026 M&A markets. Focus on balance sheet optimization, buyer discipline, exit readiness, and the structural forces redefining mid market acquisition dynamics across Europe and North America." date: "2026-01-14" author: "Jonas Hyltén" slug: "strategic-ma-trends-2026-off-market-intelligence"
 --- 
 
 The structural gap defining M&A in 2026 is not valuation volatility.
@@ -262,11 +257,7 @@ THE
 
  DECISION MAKING LENS FOR 2026 Serious buyers must adapt to 
 
- THE REGIME SHIFT
-
- .
-
-The landscape is technical, not emotional.
+ THE REGIME SHIFT. The landscape is technical, not emotional.
 
 The entities that win in 2026 prioritize mechanical preparation and Access is restricted to approved mandates.
 

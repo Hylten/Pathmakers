@@ -1,9 +1,4 @@
----
-title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
-description: "Institutional analysis on the expanding role of Asset-Based Lending in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America."
-date: "2026-03-08"
-author: "Jonas Hyltén"
-slug: "abl-silent-engine-sustainable-corporate-growth"
+--- title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth" description: "Institutional analysis on the expanding role of Asset-Based Lending in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America." date: "2026-03-08" author: "Jonas Hyltén" slug: "abl-silent-engine-sustainable-corporate-growth"
 --- 
 
 Structural displacement in corporate finance is not driven by scarcity of capital.
@@ -130,11 +125,7 @@ Asset-Based Lending facilities, when properly structured, act as validation of i
 
 They reduce friction in diligence and improve credibility during negotiation.
 
-THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition
-
-.
-
-Owner led companies with strong asset positions, competent management, and defensible industries often fail to secure optimal valuations due to liquidity volatility or inefficient capital structures.
+THE ROLE OF Asset-Based Lending IN EXIT READINESS The European mid market faces a significant generational transition. Owner led companies with strong asset positions, competent management, and defensible industries often fail to secure optimal valuations due to liquidity volatility or inefficient capital structures.
 
 Asset-Based Lending corrects these issues well before sale.
 

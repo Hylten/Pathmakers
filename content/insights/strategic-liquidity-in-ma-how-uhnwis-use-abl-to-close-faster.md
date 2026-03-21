@@ -1,16 +1,7 @@
----
-title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster"
-description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
-date: "2025-12-04"
-author: "Jonas Hyltén"
-slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
+--- title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster" description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions." date: "2025-12-04" author: "Jonas Hyltén" slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
 --- 
 
-# Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster Mid-market M&A has shifted
-
-.
-
-The old model of waiting for traditional lenders, negotiating rigid covenants, and praying for clean diligence data no longer works.
+# Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster Mid-market M&A has shifted. The old model of waiting for traditional lenders, negotiating rigid covenants, and praying for clean diligence data no longer works.
 
 Sellers move too fast.
 
@@ -28,11 +19,7 @@ And increasingly, they use asset based Institutional Liquidity Paths to close fa
 
 This article breaks down how asset based Institutional Liquidity Paths becomes a competitive weapon, why it fits the realities of healthcare carve-outs, and how UHNW operators use private credit structures to compress timelines and take targets off the market before anyone else shows up with a term sheet.
 
-The New Reality of Mid-Market M&A Liquidity The liquidity gap in the lower and mid-market has never been wider
-
-.
-
-Traditional banks are slower.
+The New Reality of Mid-Market M&A Liquidity The liquidity gap in the lower and mid-market has never been wider. Traditional banks are slower.
 
 Their underwriting stacks are built for predictable clean companies.
 
@@ -58,11 +45,7 @@ Asset-Based Lending is built on assets, not promises.
 
 For a buyer who needs certainty, that matters more than anything else.
 
-Why UHNW Buyers Prefer Asset-Based Lending Over Cash-Only Plays The instinct with ultra-high net worth operators is to assume they close with cash because they can
-
-.
-
-They rarely do.
+Why UHNW Buyers Prefer Asset-Based Lending Over Cash-Only Plays The instinct with ultra-high net worth operators is to assume they close with cash because they can. They rarely do.
 
 Liquidity is optionality.
 
@@ -82,11 +65,7 @@ They are looking for a liquidity bridge that ensures the transaction completes r
 
 They trade slightly higher cost for dramatically higher certainty.
 
-Why Healthcare Carve-Outs Fit Asset-Based Lending Better Than Traditional Debt Healthcare carve-outs are messy by design
-
-.
-
-Split systems.
+Why Healthcare Carve-Outs Fit Asset-Based Lending Better Than Traditional Debt Healthcare carve-outs are messy by design. Split systems.
 
 Incomplete AR histories.
 
@@ -118,11 +97,7 @@ This is why UHNW operators who specialize in healthcare carve-outs rarely bother
 
 Asset-Based Lending gives them liquidity that does not collapse the moment a diligence surprise pops up.
 
-How UHNWIs Use Asset-Based Lending as a Closing Weapon Asset-Based Lending is not the core financing
-
-.
-
-It is the trigger mechanism.
+How UHNWIs Use Asset-Based Lending as a Closing Weapon Asset-Based Lending is not the core financing. It is the trigger mechanism.
 
 The strategic advantage comes from how it is deployed. 
 1.
@@ -133,11 +108,7 @@ UHNW buyers do not.
 
 With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish 
 
-### Phase I: diligence
-
-.
-
-This intimidates sellers.
+### Phase I: diligence. This intimidates sellers.
 
 It also accelerates concessions when speed becomes part of the negotiation narrative. 
 2.
@@ -198,11 +169,7 @@ They use Asset-Based Lending commitment letters as social proof that the deal wi
 
 This removes competitors long before formal bidding begins.
 
-Asset-Based Lending vs Private Credit: Why UHNW Buyers Use Both Asset-Based Lending is the tactical tool
-
-.
-
-Private credit is the long-term capital partner.
+Asset-Based Lending vs Private Credit: Why UHNW Buyers Use Both Asset-Based Lending is the tactical tool. Private credit is the long-term capital partner.
 
 The two work together because they solve different problems.
 
@@ -300,11 +267,7 @@ Not for transformation.
 
 For predictable turbulence.
 
-Why Asset-Based Lending Is Becoming the Standard for UHNW M&A Operators Operators with real experience know that deals are won or lost in the liquidity gaps
-
-.
-
-Not the negotiation.
+Why Asset-Based Lending Is Becoming the Standard for UHNW M&A Operators Operators with real experience know that deals are won or lost in the liquidity gaps. Not the negotiation.
 
 Not the pitch deck.
 
@@ -320,11 +283,7 @@ It is a pragmatic one.
 
 Which is exactly why battle-tested UHNW buyers rely on it instead of banking on perfect conditions that never materialize.
 
-The Pathmaker Advantage Pathmaker sits at the intersection of private credit and operational M&A
-
-.
-
-We structure liquidity for operators who do not have time for lenders who need six committee cycles to approve a term sheet.
+The Pathmaker Advantage Pathmaker sits at the intersection of private credit and operational M&A. We structure liquidity for operators who do not have time for lenders who need six committee cycles to approve a term sheet.
 
 What UHNW buyers value most:
 

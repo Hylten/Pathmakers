@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Institutional-Grade Exit Readiness"
-description: "A deep tactical analysis of why mid‑market family offices in 2026 are demanding institutional-grade exit readiness, off‑market deal origination, and frictionless M&A pathways—anchored in Pathmaker’s AI-first deal architecture."
-date: "2025-07-20"
-author: "Pathmaker Analyst Team"
-slug: "institutional-exit-readiness-2026"
+--- title: "The Principal Architecture of Institutional-Grade Exit Readiness" description: "A deep tactical analysis of why mid‑market family offices in 2026 are demanding institutional-grade exit readiness, off‑market deal origination, and frictionless M&A pathways—anchored in Pathmaker’s AI-first deal architecture." date: "2025-07-20" author: "Pathmaker Analyst Team" slug: "institutional-exit-readiness-2026"
 --- 
 
 The demand signal is unmistakable.

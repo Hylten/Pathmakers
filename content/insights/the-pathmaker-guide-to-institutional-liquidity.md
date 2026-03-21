@@ -1,16 +1,7 @@
----
-title: "The Pathmaker Guide to Institutional Liquidity"
-description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients."
-date: "2025-09-17"
-author: "Jonas Hyltén"
-slug: "the-pathmaker-guide-to-institutional-liquidity"
+--- title: "The Pathmaker Guide to Institutional Liquidity" description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients." date: "2025-09-17" author: "Jonas Hyltén" slug: "the-pathmaker-guide-to-institutional-liquidity"
 --- 
 
-# The Pathmaker Guide to Institutional Liquidity Institutional liquidity is not a theory
-
-.
-
-It is not a philosophical debate about capital flows or an abstract discussion about enterprise value.
+# The Pathmaker Guide to Institutional Liquidity Institutional liquidity is not a theory. It is not a philosophical debate about capital flows or an abstract discussion about enterprise value.
 
 In the mid market, especially in healthcare carve outs and transitional ownership structures, liquidity is a survival function.
 
@@ -54,11 +45,7 @@ They use it to stabilize transitional assets.
 
 They use it to operate with confidence instead of caution.
 
-Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism
-
-.
-
-The mid market, especially in healthcare carve outs, is unforgiving.
+Final Perspective Institutional liquidity is a domain that rewards those who understand structure and punishes those who rely on optimism. The mid market, especially in healthcare carve outs, is unforgiving.
 
 Capital must be ready, collateral aware, and operationally aligned with the actual conditions of the transaction.
 

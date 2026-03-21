@@ -1,9 +1,4 @@
----
-title: "Unlocking Mid‑Market Growth With Private Credit: Structural Arbitrage, Exit Readiness, and Tactical Liquidity Engineering"
-description: "Institutional briefing on the structural mechanics driving Europe and North America’s mid‑market private credit expansion, with emphasis on exit readiness, balance sheet optimization, and friction removal in M&A workflows."
-date: "2025-07-25"
-author: "Jonas Hyltén"
-slug: "unlocking-mid-market-growth-private-credit"
+--- title: "Unlocking Mid‑Market Growth With Private Credit: Structural Arbitrage, Exit Readiness, and Tactical Liquidity Engineering" description: "Institutional briefing on the structural mechanics driving Europe and North America’s mid‑market private credit expansion, with emphasis on exit readiness, balance sheet optimization, and friction removal in M&A workflows." date: "2025-07-25" author: "Jonas Hyltén" slug: "unlocking-mid-market-growth-private-credit"
 --- 
 
 The capital vacuum across Europe and North America’s mid‑market is a direct result of regulatory drift and bank retrenchment rather than borrower degradation.
@@ -204,11 +199,7 @@ This includes:
 
 It is diagnostic.
 
-THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical
-
-.
-
-It is operational.
+THE STEWARDSHIP FILTER Stewardship in private credit is not theoretical. It is operational.
 
 It reflects disciplined decision making under limited resources.
 
@@ -258,11 +249,7 @@ Allocators who understand this dynamic gain access to:
 
 - Non-sponsored companies with strong fundamentals and limited bank access The correct next 
 
-### Step I: s not capital deployment
-
-.
-
-It is clarity.
+### Step I: s not capital deployment. It is clarity.
 
 A confidential portfolio calibration or strategy audit creates the visibility required to identify which borrower archetypes align with the allocator’s mandate, risk posture, and temporal horizon.
 

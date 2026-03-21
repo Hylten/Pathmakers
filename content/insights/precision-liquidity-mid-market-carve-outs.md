@@ -1,9 +1,4 @@
----
-title: "Precision Liquidity Architectures for Mid-Market Carve-Outs and Exit-Ready Operational Separation"
-description: "Institutional briefing on tactical liquidity engineering, carve-out optimization, and operational readiness frameworks for mid-market buyers and sellers navigating European and trans-Atlantic M&A friction."
-date: "2025-12-08"
-author: "Jonas Hyltén"
-slug: "precision-liquidity-mid-market-carve-outs"
+--- title: "Precision Liquidity Architectures for Mid-Market Carve-Outs and Exit-Ready Operational Separation" description: "Institutional briefing on tactical liquidity engineering, carve-out optimization, and operational readiness frameworks for mid-market buyers and sellers navigating European and trans-Atlantic M&A friction." date: "2025-12-08" author: "Jonas Hyltén" slug: "precision-liquidity-mid-market-carve-outs"
 --- 
 
 The liquidity shortfall in the European mid-market is not a function of capital scarcity.

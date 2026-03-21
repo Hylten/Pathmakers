@@ -1,9 +1,4 @@
----
-title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures"
-description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from public equity holdings."
-date: "2026-01-09"
-author: "Jonas Hyltén"
-slug: "liquidity-engineering-public-shares-ma-closures"
+--- title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures" description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from public equity holdings." date: "2026-01-09" author: "Jonas Hyltén" slug: "liquidity-engineering-public-shares-ma-closures"
 --- 
 
 The capital vacuum shaping mid market corporate transactions in 2026 is not driven by a shortage of buyers or strategic demand.
@@ -50,11 +45,7 @@ The execution bandwidth is constrained.
 
 This is 
 
- THE REGIME SHIFT
-
- .
-
-TECHNICAL MECHANIC
+ THE REGIME SHIFT. TECHNICAL MECHANIC
 
 S
 
@@ -160,11 +151,7 @@ The shareholder receives a neutral, institutional interpretation of available st
 
 The M&A pathway becomes insulated from liquidity delays, market risk, and procedural bottlenecks.
 
-THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste
-
-.
-
-It is the careful management of resources so they serve long horizon objectives instead of short term convenience.
+THE STEWARDSHIP FILTER Stewardship in capital markets is a discipline of alignment and non waste. It is the careful management of resources so they serve long horizon objectives instead of short term convenience.
 
 Strategic Collateralization fits within this discipline when executed correctly.
 

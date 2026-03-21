@@ -1,9 +1,4 @@
----
-title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
-description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operators and private equity sponsors in Europe and North America."
-date: "2025-07-20"
-author: "Jonas Hyltén"
-slug: "abl-healthcare-carve-outs-liquidity-engineering"
+--- title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators" description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operators and private equity sponsors in Europe and North America." date: "2025-07-20" author: "Jonas Hyltén" slug: "abl-healthcare-carve-outs-liquidity-engineering"
 --- 
 
 The recurrent capital friction inside European and North American healthcare portfolios is not a function of inadequate operating performance.
@@ -160,11 +155,7 @@ Asset-Based Lending facilities are configured to match integration timelines.
 
 This protects both buyer and seller from post transaction disruptions.
 
-THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services
-
-.
-
-Healthcare operators are entrusted with resources that directly affect human welfare.
+THE STEWARDSHIP FILTER Stewardship in healthcare finance requires disciplined management of assets that support essential services. Healthcare operators are entrusted with resources that directly affect human welfare.
 
 A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in **Proverbs 13:22
 
