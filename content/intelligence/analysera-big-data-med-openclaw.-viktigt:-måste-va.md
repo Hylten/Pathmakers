@@ -1,3 +1,5 @@
+
+
 # Analysera Big Data med OpenClaw  
 Pragmatisk översikt för beslutsfattare i mid-market M&A och vårdtjänster  
 
@@ -213,3 +215,11 @@ Det betyder inte att AI ersätter erfarenhet. Tvärtom. När verktyg som OpenCla
   
 
 # Book a strategic consultation
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

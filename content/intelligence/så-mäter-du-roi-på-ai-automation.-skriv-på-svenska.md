@@ -1,3 +1,5 @@
+
+
 # How to Measure ROI on AI Automation  
   
 
@@ -357,7 +359,11 @@ Build baselines with care.
 Quantify error costs with the same seriousness applied to revenue leakage analysis.  
 
 Treat AI as an operational stack, not a quick fix.  
-  
 
-  
-Book a strategic consultation
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

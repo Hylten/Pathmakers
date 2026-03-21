@@ -1,3 +1,5 @@
+
+
 # AI Agents for Automated Recruitment  
 Pragmatic Strategies for a Fragmented Mid‑Market Environment  
 
@@ -356,7 +358,10 @@ AI agents provide consistent screening, structured communication, compliance bou
 
 For organisations that need recruitment processes that scale predictably without expanding HR overhead, AI agents represent a disciplined and defensible investment.  
 
-  
+TECHNICAL MANDATE
 
-  
-Book a strategic consultation
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

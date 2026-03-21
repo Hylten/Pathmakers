@@ -63,8 +63,6 @@ Pathmaker was designed for the opposite scenario.
 
 The Role of Private Credit in Nordic Carve-Outs Private credit has become a decisive tool in the Nordic region, especially in transactions under
 
-
-
 250 million EUR.
 
 Institutional lenders move slower than operational realities.
@@ -265,3 +263,10 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

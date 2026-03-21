@@ -3,8 +3,6 @@
 
 [START INTELLIGENCE REPORT]
 
-
-
 # THE MANDAT E
 
 Institutional liquidity does not emerge from market momentum or capital supply cycles.
@@ -215,7 +213,9 @@ This sleeve is:
 
 - Indexed to operational milestone triggers
 
-- Enhanced through revenue participation corridors rather than rate based returns This configuration is attractive under the family's multi generational planning model and aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+- Enhanced through revenue participation corridors rather than rate based returns This configuration is attractive under the family's multi generational planning model and aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22*
 
 * regarding long horizon stewardship.
 
@@ -271,8 +271,15 @@ This includes:
 It is the refusal to rely on general market conditions and instead build internal capability that continually produces liquidity independent of cycles.
 
 This is institutional autonomy.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The Pathmaker Guide to Institutional Liquidity establishes one foundational truth.
 
@@ -295,6 +302,3 @@ Principal grade operators in 2026 must move beyond transactional thinking and de
 - Uphold stewardship and operational integrity Institutional liquidity is a pathway, not an event.
 
 It is built through precision, discipline, and engineering rigor. [END INTELLIGENCE REPORT]
-
-Access is restricted to approved mandates.
-

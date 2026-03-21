@@ -388,7 +388,6 @@ Ignore it and the asset will close its gates.
 
 Deployment Framework for Cross Border Buyers A disciplined Principal deploys in five movements. Movement
 
-
 1 Establish covenant alignment before touching financials.
 
 Movement 2 Deploy Tactical Intelligence to expose structural barriers.
@@ -437,4 +436,10 @@ Intelligence does.
 
 To move forward with discretion and precision.
 
-Book a strategic consultation.
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

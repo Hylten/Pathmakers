@@ -378,3 +378,11 @@ When you’re ready for a tactical consultation, Access is restricted to approve
 Minimum mandate depth: $5M+ target size.
 
 Book a tactical consultation.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -205,3 +205,10 @@ The advantage lies not in discovering deals but in recognizing operators who hav
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

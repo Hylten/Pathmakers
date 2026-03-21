@@ -153,7 +153,6 @@ Across the Nordic region, these effects translate directly into IRR protection.
 
 Why the Nordics Demand a Different Operational Playbook The Nordic operating environment is defined by three conditions that make operational resilience more complex than in other European markets.
 
-
 1.
 
 A decentralised public sector that sets the tempo Care operators, diagnostics groups, and specialised service providers depend on regional procurement structures.
@@ -253,3 +252,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

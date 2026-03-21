@@ -43,3 +43,10 @@ Pathmaker sits inside this environment, engineering the mechanical structures th
 
 Final Note If you are a serious buyer preparing to execute acquisitions in 2026 and you require precision, Strategic Collateralization, or structured capital support Book a strategic consultation. Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

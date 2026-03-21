@@ -265,3 +265,10 @@ It positions corporate owners and allocators to navigate 2026’s M&A landscape 
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

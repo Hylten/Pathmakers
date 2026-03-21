@@ -42,10 +42,17 @@ Not promises.
 Not projections.
 
 Structure.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
 
 Operators who secure liquidity early will acquire assets at advantageous valuations.
 
@@ -60,4 +67,3 @@ But with the right structure, it becomes controllable.
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

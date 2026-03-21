@@ -174,13 +174,11 @@ Pathmaker structures non-liquidating liquidity solutions:
 
 # Crypto Asset-Backed Frameworks Minimum threshold:
 
-
 2 million dollars.
 
 Designed for clients who need liquidity without surrendering long-term upside or triggering taxable events.
 
 Public Share Institutional Liquidity Paths Minimum threshold:
-
 
 5 million dollars.
 
@@ -246,3 +244,10 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

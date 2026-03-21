@@ -276,10 +276,17 @@ Asset-Based Lending creates:
 - A structured liquidity framework that matches actual carve-out behavior
 
 - The ability to avoid distressed-sale dynamics even if turbulence increases In a market where timing is often more important than price, liquidity is the ultimate strategic edge.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Asset-Based Lending Is the Structural Advantage Serious Buyers Need Technology carve-outs are complicated, resource-intensive, and always more expensive than the models suggest.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Asset-Based Lending Is the Structural Advantage Serious Buyers Need Technology carve-outs are complicated, resource-intensive, and always more expensive than the models suggest.
 
 Sophisticated buyers already know this.
 
@@ -312,4 +319,3 @@ We serve HNWI and UHNW operators who respect liquidity as a strategic weapon.
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

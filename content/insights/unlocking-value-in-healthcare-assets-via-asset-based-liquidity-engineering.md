@@ -39,8 +39,6 @@ Private credit and Asset-Based Lending solve this problem with precision, but on
 
 The Mid‑Market Healthcare Carve Out: Where Liquidity Breaks and Where Asset-Based Lending Wins Carve outs from private equity or corporate parents tend to fall into three categories:
 
-
-
 1.
 
 Units that no longer fit strategy but generate respectable cash flow.
@@ -140,7 +138,6 @@ The liquidity unlock is obvious.
 The value unlock is the real advantage.
 
 The Three Most Underutilized Asset-Based Lending Levers in Healthcare
-
 
 1.
 
@@ -274,3 +271,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

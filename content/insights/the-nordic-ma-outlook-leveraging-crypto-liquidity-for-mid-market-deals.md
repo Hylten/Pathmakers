@@ -213,8 +213,6 @@ We provide the structural mechanics so our clients can move faster, negotiate be
 
 How HNWI and UHNW Investors Should Position Themselves Now Over the next
 
-
-
 12 to 24 months, the most attractive Nordic deals will be won by investors who prepare their liquidity profile before entering negotiations.
 
 This preparation includes:
@@ -255,3 +253,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

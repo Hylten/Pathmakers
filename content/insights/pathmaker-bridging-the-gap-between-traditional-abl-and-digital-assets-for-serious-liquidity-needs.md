@@ -258,8 +258,15 @@ We combine private credit discipline with multi asset collateral capacity.
 We bring principal authority to transactions that benefit from discretion.
 
 We execute at a level that serves the realities of HNWI and UHNW borrowers.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Liquidity is a strategic weapon.
 
@@ -270,4 +277,3 @@ For serious borrowers who operate across traditional and digital asset classes, 
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

@@ -608,3 +608,11 @@ Metric anchor: Sovereign Readiness Index ≥ 0.
 82 required for corridor Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -1,3 +1,5 @@
+
+
 # Comparison of Automation Technologies 2026
 
 The automation landscape in 2026 is shaped by consolidation pressure, operational risk, and the quiet but relentless shift from scripted tools to adaptive systems.  
@@ -213,9 +215,16 @@ AI agent weaknesses:
 Requires governance frameworks  
 Less deterministic  
 Higher initial review burden in regulated workflows
+TECHNICAL MANDATE
 
-  
-Conclusion:  
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
 Operators should not choose RPA or AI agents.  
 They should allocate each to the right part of the process lifecycle.
 

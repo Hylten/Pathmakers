@@ -223,7 +223,6 @@ This is the kind of underwriting UHNW buyers prefer because it is aligned with r
 
 The Strategic Liquidity Stack Used by UHNW Operators Most UHNW buyers with meaningful deal flow use some variation of the following liquidity stack.
 
-
 1.
 
 Pre-arranged Asset-Based Lending Facility This is the front line.
@@ -297,3 +296,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

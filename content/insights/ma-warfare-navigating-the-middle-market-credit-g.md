@@ -382,7 +382,10 @@ Owners who ignore them face declining valuations and extended timelines.
 
 Your next move determines whether your company becomes an asset or a liability under institutional scrutiny.
 
-Book a strategic consultation.
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

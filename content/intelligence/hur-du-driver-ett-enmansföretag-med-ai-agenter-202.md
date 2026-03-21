@@ -1,3 +1,5 @@
+
+
 # Hur du driver ett enmansföretag med AI‑agenter 2026  
 A Swedish guide for solo entrepreneurs and consultants
 
@@ -445,4 +447,11 @@ The winners will be those who build the discipline early.
 ---
 
 ## H1: Ready to operationalize AI in your enmansföretag?  
-Book a strategic consultation
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

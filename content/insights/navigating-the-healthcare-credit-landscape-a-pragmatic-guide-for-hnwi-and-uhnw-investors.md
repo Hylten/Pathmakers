@@ -196,8 +196,15 @@ Distressed assets are transitioning to private hands.
 Private credit and Asset-Based Lending will power this next wave.
 
 Pathmaker is positioned to serve investors who thrive in imperfect conditions and prefer leverage that does not depend on sentiment.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Navigating the healthcare credit landscape requires realism, discipline, and liquidity structures that can withstand operational volatility.
 
@@ -212,4 +219,3 @@ Liquidity when others hesitate.
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

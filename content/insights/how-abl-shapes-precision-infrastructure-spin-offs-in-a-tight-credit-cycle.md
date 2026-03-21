@@ -73,8 +73,6 @@ For precision infrastructure carve-outs, that delta is the difference between ca
 
 Asset-Based Lending as a Tool for Transitional Liquidity The first
 
-
-
 12 to 18 months post-spin are where deals succeed or stall.
 
 Revenue is rarely the issue.
@@ -162,10 +160,17 @@ Quietly.
 Decisively.
 
 Without spectacle.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Asset-Based Lending Is the Most Underestimated Advantage in Precision Infrastructure Spin-Offs Precision infrastructure rewards operators who understand friction.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Asset-Based Lending Is the Most Underestimated Advantage in Precision Infrastructure Spin-Offs Precision infrastructure rewards operators who understand friction.
 
 Asset-Based Lending is one of the only instruments that converts operational friction into liquidity.
 
@@ -178,4 +183,3 @@ And in carve-outs where timing, certainty, and capital discipline dictate outcom
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

@@ -29,8 +29,6 @@ They move without theatrics, because there is nothing left to surprise them.
 
 This is the analyst briefing on how that advantage is constructed.
 
-
-
 (
 
 ### Phase I: ) Private-structural-unfiltered. The mid‑market is undergoing a fundamental shift.
@@ -70,8 +68,6 @@ It is a sovereign rearrangement of the deal physics.
 And only a few founders understand its power.
 
 THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
-
-
 
 1.
 
@@ -224,8 +220,6 @@ The moment the buyer believes continuity exists, the negotiation shifts in the f
 
 THE TACTICAL ADVANTAGE: REDUCING SURPRISES TO ZERO Transactions die in three places:
 
-
-
 1.
 
 Surprises 2.
@@ -362,3 +356,10 @@ Book a tactical consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

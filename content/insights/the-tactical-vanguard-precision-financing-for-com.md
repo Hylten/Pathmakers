@@ -404,8 +404,6 @@ How Principals Should Think About Spin-off Opportunities A disciplined Principal
 
 # Operational Truth Can the business operate without the parent system within
 
-
-
 180 days?
 
 # Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments
@@ -537,3 +535,10 @@ Identify units that:
 
 Book a strategic consultation If you require structural clarity, carve-out financing pathways, or intelligence mapping for a complex spin-off, you can book a strategic consultation. Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

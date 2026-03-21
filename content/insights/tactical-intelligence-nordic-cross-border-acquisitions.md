@@ -215,3 +215,10 @@ It provides institutional clarity for both sellers and buyers and allows allocat
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

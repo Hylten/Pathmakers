@@ -484,10 +484,17 @@ The New Playbook for Mid‑Market Sellers Mid‑market companies that consistent
 Founders who do this achieve exits with velocity, cleanliness, and valuation firmness.
 
 16.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Pathmaker Doctrine Strategic clarity is not optional.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Pathmaker Doctrine Strategic clarity is not optional.
 
 Strategic clarity is the precondition for a premium exit.
 
@@ -504,4 +511,3 @@ Controls the future.
 Book a tactical consultation
 
 Access is restricted to approved mandates.
-

@@ -378,8 +378,15 @@ The founder stops chasing buyers.
 Buyers begin chasing the founder. --.-..,,
 
 ,--.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The mid‑market seller using tactical intelligence is operating in a different league.
 
@@ -402,4 +409,3 @@ Loud valuation.
 Book a tactical consultation
 
 Access is restricted to approved mandates.
-

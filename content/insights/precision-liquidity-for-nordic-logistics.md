@@ -31,8 +31,6 @@ We deploy capital where institutional models under‑recognize asset integrity.
 
 The Mid‑Market Logistics Profile: Strong Assets, Tight Liquidity The majority of Nordic logistics firms in the mid market operate within three categories.
 
-
-
 1.
 
 Temperature controlled and cold chain logistics.
@@ -270,10 +268,17 @@ We are not a lender in the traditional sense.
 We are an institutional mechanism.
 
 We give shape to liquidity that would otherwise remain inaccessible.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Operators Who Win Are the Operators Who Move The Nordic logistics sector rewards execution.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Operators Who Win Are the Operators Who Move The Nordic logistics sector rewards execution.
 
 Not noise.
 
@@ -302,4 +307,3 @@ We provide the structural mechanics that turn assets into actionable liquidity.
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

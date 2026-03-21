@@ -549,10 +549,17 @@ That strengthens conviction.
 That raises bid intensity.
 
 Fund-III buyers compete hardest when complexity is removed.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
 
 They unlock value because corporates over-integrate.
 
@@ -577,4 +584,3 @@ Book a tactical consultation.
 Mandate Reference: Integration Load Delta Index 4.37.
 
 Access is restricted to approved mandates.
-

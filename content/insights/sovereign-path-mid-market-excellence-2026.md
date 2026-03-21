@@ -3,8 +3,6 @@
 
 [START INTELLIGENCE REPORT]
 
-
-
 # THE MANDAT E
 
 The sovereign path in mid-market private equity is defined by structural asymmetries that favor disciplined operators with durable capital and a technical command of Strategic Collateralization.
@@ -232,7 +230,9 @@ As larger funds chase scale, mid-market disciplined platforms extract durable va
 
 STEWARDSHIP FILTER Stewardship is not a marketing term.
 
-It is the architecture that determines whether capital becomes extractive or regenerative. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It is the architecture that determines whether capital becomes extractive or regenerative. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22*
 
 * speaks of the responsibility of generational capital.
 
@@ -283,8 +283,15 @@ Capital raising for mid-market buyout vehicles must articulate not only return p
 UHNW liquidity planning increasingly prioritizes capital managers who are stewards rather than speculators.
 
 In this environment stewardship becomes a competitive advantage equal to financial engineering.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The sovereign path is the disciplined pursuit of mid-market excellence.
 
@@ -319,6 +326,3 @@ It is grounded in stewardship values and elevated by technical mastery.
 It is the optimal pathway for Fund-III managers building durable platforms in
 
 2026. [END INTELLIGENCE REPORT]
-
-Access is restricted to approved mandates.
-

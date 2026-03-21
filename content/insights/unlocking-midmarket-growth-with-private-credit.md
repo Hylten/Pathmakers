@@ -115,8 +115,6 @@ We are comfortable with operational chaos as long as collateral is sound and the
 
 Liquidity for High Net Worth and Ultra High Net Worth Investors HNWI and UHNW investors require capital that respects two realities:
 
-
-
 1.
 
 Their portfolios contain non‑traditional assets.
@@ -139,7 +137,6 @@ You direct the strategy.
 
 Public Share Asset-Backed Frameworks: Minimum Threshold
 
-
 5 Million Public equity positions often sit idle during high‑velocity deal environments.
 
 They are valuable, but not liquid enough to deploy quickly without damaging the long‑term strategy.
@@ -160,7 +157,6 @@ This creates:
 - A buffer against market volatility This mechanism is particularly valuable for mid‑market operators who have accumulated concentrated positions through earlier exits or strategic holdings.
 
 Crypto Strategic Collateralization: Minimum Threshold
-
 
 2 Million Digital assets are volatile, but they are also collateral.
 
@@ -235,8 +231,6 @@ Pathmaker is built for exactly this environment.
 
 What Operators Should Expect in the Next
 
-
-
 24 Months Mid‑market liquidity will tighten.
 
 Compliance costs will rise, especially in healthcare and industrial sectors.
@@ -267,3 +261,10 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

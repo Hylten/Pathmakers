@@ -270,3 +270,11 @@ This is the environment.
 This is the architecture.
 
 The buyers who internalize these mechanics will control the next cycle. [END OF BRIEFING]
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

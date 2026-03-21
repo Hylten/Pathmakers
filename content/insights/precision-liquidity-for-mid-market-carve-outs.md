@@ -250,10 +250,17 @@ And the liquidity environment is tightening around anything that looks complicat
 Yet complexity is where the best opportunities live.
 
 But only for those who can activate capital decisively.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
 
 They reward understanding.
 
@@ -272,4 +279,3 @@ If you need liquidity that behaves with purpose, precision, and principal author
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

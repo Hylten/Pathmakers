@@ -474,11 +474,10 @@ Friction removed. Liquidity structured. Narrative hardened. Intelligence mapped.
 
 The rest becomes inevitable.
 
-Technical mandate: Zero‑friction diligence environment by D‑
+TECHNICAL MANDATE
 
-45.
-
-Book a tactical consultation.
+Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

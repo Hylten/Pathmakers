@@ -300,10 +300,17 @@ Pathmaker supports long‑term strategies by providing recurring liquidity solut
 Our involvement is discreet.
 
 Our impact is not.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Nordic Growth Belongs to the Prepared The Nordic region is not a playground for speculative capital.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Nordic Growth Belongs to the Prepared The Nordic region is not a playground for speculative capital.
 
 It is a market that rewards structure, realism, and discipline.
 
@@ -320,4 +327,3 @@ We unlock growth where others hesitate.
 If you are ready to explore Nordic opportunities with precision and confidence, book a strategic consultation.
 
 Access is restricted to approved mandates.
-

@@ -1,3 +1,5 @@
+
+
 # Minska administrationen med AI för vårdbolag
 
   
@@ -284,6 +286,10 @@ För vårdbolag som vill växa genom förvärv eller effektivisering är tiden a
 
 Inte genom stora visioner. Utan genom konkreta användningsfall, tydlig styrning och strukturer som håller både operativt och regulatoriskt.
 
-  
+TECHNICAL MANDATE
 
-Book a strategic consultation
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

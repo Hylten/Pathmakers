@@ -198,10 +198,17 @@ These tools create strategic liquidity.
 Strategic liquidity creates acquisition power.
 
 Acquisition power wins mid‑market M&A.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Investors Who Control Liquidity Control the Market The mid‑market will always reward the buyer who arrives prepared.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Investors Who Control Liquidity Control the Market The mid‑market will always reward the buyer who arrives prepared.
 
 Not with motivation.
 
@@ -216,4 +223,3 @@ If you plan to acquire, carve out, or consolidate in the next twelve months, the
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

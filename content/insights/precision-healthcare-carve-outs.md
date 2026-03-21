@@ -35,7 +35,6 @@ Any one of these destroys deal economics.
 
 The Mid-Market Investor’s Reality Most mid-market deals lack the budget for Big
 
-
 4 style carve-out programs.
 
 At the same time, the assets they acquire are often under-built, under-documented, and reliant on tribal knowledge.
@@ -288,8 +287,6 @@ Common Failure Modes and How to Avoid Them Most carve-out failures are predictab
 
 Failure Mode
 
-
-
 1.
 
 Overbuilding the plan Trying to design the perfect future state before separation.
@@ -380,3 +377,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

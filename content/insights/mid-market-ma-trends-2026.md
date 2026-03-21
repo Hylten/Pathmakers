@@ -41,8 +41,6 @@ High sensitivity to execution errors.
 
 What Is Actually Moving in 2026
 
-
-
 1.
 
 Healthcare carve-outs that reduce administrative load for hospitals and large systems
@@ -153,8 +151,6 @@ As a result, they are divesting:
 
 What Makes Healthcare Carve-Outs Attractive
 
-
-
 1.
 
 High demand for services regardless of macro cycles
@@ -170,8 +166,6 @@ Immediate operational improvements available in administrative workflows In 2026
 They are looking for predictable revenue and non-speculative operational improvements.
 
 The Execution Risk Most Buyers Underestimate Healthcare carve-outs fail when buyers assume they can restructure staff and billing processes inside
-
-
 
 100 days.
 
@@ -288,8 +282,6 @@ They need a defensible operational model.
 
 Essential Seller Preparation High performing sellers in 2026 prepare in four ways.
 
-
-
 1.
 
 Tighten financial reporting 2.
@@ -400,3 +392,10 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

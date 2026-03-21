@@ -23,8 +23,6 @@ Velocity replaces delay.
 
 This is the new frontier of Exit Readiness and off‑market origination.
 
-
-
 - PRIVATE BRIEFING Closed‑door mode.
 
 Structural depth only.
@@ -361,3 +359,10 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

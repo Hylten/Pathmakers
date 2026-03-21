@@ -37,8 +37,6 @@ That is the operating field.
 
 What follows is the internal brief-the structural view of why silent exits are surging and how they now function as the dominant path to exit readiness and off‑market origination.
 
-
-
 - PRIVATE BRIEFING Begin with this: the market is fatigued by over‑orchestrated M&A.
 
 Bankers have turned the process itself into the product.
@@ -347,3 +345,10 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -639,7 +639,10 @@ The differentiator is the advantage.
 
 Book a tactical consultation.
 
-Technical Mandate: Liquidity Velocity Threshold = 1.35x Operational Throughput.
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

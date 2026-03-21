@@ -75,7 +75,6 @@ We understand how to unlock that value.
 
 Crypto Strategic Collateralization Minimum threshold:
 
-
 2 million.
 
 Crypto remains misunderstood by most institutional buyers.
@@ -89,7 +88,6 @@ Pathmaker lends in a way that respects the asset class without exaggerating it.
 This tool is for buyers who understand the operational dynamics of crypto holdings but need structured liquidity without introducing unnecessary exposure.
 
 Public Share Capital Structuring Minimum threshold:
-
 
 5 million.
 
@@ -265,3 +263,10 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

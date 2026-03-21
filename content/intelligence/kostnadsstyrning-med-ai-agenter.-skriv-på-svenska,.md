@@ -1,3 +1,5 @@
+
+
 # Kostnadsstyrning med AI‑agenter for mid‑market operators
 
 Cost pressure in Nordic mid‑market companies is no longer a cyclical phenomenon, it is structural. Particularly in healthcare carve‑outs and asset‑light service portfolios that have been traded inside M&A processes for a decade.  
@@ -442,3 +444,11 @@ The ones that delay will face a structural disadvantage.
   
 
 Book a strategic consultation
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -53,7 +53,6 @@ Hybrid collateral turns a constrained deal into a financeable one.
 
 The Three Collateral Pillars Pathmaker Leverages These pillars apply to HNWI and UHNW clients who have complex asset architecture and require institutional-grade structuring.
 
-
 1.
 
 Private Credit Secured Facilities Private credit is the backbone of our Strategic Collateralization work.
@@ -238,3 +237,10 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

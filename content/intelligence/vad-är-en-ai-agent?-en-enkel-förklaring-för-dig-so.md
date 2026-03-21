@@ -1,3 +1,5 @@
+
+
 # What Is an AI Agent? A Simple Explanation for Non‑Technical Leaders  
 Designed for executives who operate in real markets, with real deadlines, and no patience for jargon.
 
@@ -345,3 +347,11 @@ Scale what works.
   
   
 Book a strategic consultation
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

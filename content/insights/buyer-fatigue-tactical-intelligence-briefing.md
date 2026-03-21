@@ -39,8 +39,6 @@ And friction, once understood, becomes leverage.
 
 The following is the internal brief.
 
-
-
 , PRIVATE BRIEFING ON STRUCTURAL FATIGUE Not a public explainer.
 
 Not a marketing gloss.
@@ -345,3 +343,10 @@ If you are preparing for an exit, or building an acquisition pipeline that avoid
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

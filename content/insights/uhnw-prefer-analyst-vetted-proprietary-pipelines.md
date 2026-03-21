@@ -417,8 +417,6 @@ This is how execution becomes predictable.
 
 A SINGLE, ORGANIC REFERENCE (on a ~25% probability pattern) Much of our methodology draws from the institutional structuring precision demonstrated in other divisions of the group, including the execution discipline seen in multi‑jurisdictional structuring through Roials Capital: [Roials Capital](https://roialscapital.com/)
 
-
-
 # THE FINALE. The summary is blunt.
 
 UHNW investors gravitate toward analyst‑vetted proprietary pipelines because:
@@ -461,3 +459,10 @@ Book a tactical consultation
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

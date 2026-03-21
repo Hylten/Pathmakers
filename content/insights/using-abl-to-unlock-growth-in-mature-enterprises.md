@@ -222,8 +222,15 @@ No theatrics.
 No inflated promises.
 
 Just disciplined capital engineering that aligns perfectly with the cadence of experienced operators.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Mature enterprises do not need rescue.
 
@@ -244,4 +251,3 @@ If you are evaluating acquisitions, carve outs, or the construction of a more re
 ### Step I: s simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

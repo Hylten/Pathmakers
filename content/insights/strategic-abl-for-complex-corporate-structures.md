@@ -233,8 +233,15 @@ principal authority is the operating philosophy.
 Your name stays at the front.
 
 Our mechanics stay in the background.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Complex corporate structures are not liabilities.
 
@@ -247,4 +254,3 @@ If you require liquidity without noise, judgment, or unnecessary exposure, you a
 Book a strategic consultation.
 
 Access is restricted to approved mandates.
-

@@ -496,5 +496,10 @@ For principals who intend to transfer a legacy, not merely transact, this is THE
 
 E. Book a strategic consultation.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.

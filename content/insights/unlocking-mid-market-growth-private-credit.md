@@ -247,3 +247,10 @@ Disciplined allocators use private credit as a governance tool, not a yield tool
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
