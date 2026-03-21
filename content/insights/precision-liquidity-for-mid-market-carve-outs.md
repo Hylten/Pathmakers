@@ -251,7 +251,7 @@ Yet complexity is where the best opportunities live.
 
 But only for those who can activate capital decisively.
 
-CONCLUSION
+**Conclusion**
 
 : Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
 

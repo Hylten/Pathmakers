@@ -485,7 +485,9 @@ Founders who do this achieve exits with velocity, cleanliness, and valuation fir
 
 16.
 
-CONCLUSION : The Pathmaker Doctrine Strategic clarity is not optional.
+**Conclusion**
+
+: The Pathmaker Doctrine Strategic clarity is not optional.
 
 Strategic clarity is the precondition for a premium exit.
 

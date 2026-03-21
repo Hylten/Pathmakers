@@ -43,7 +43,7 @@ Not projections.
 
 Structure.
 
-CONCLUSION
+**Conclusion**
 
 : The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
 

@@ -284,7 +284,7 @@ UHNW liquidity planning increasingly prioritizes capital managers who are stewar
 
 In this environment stewardship becomes a competitive advantage equal to financial engineering.
 
-CONCLUSION
+**Conclusion**
 
 The sovereign path is the disciplined pursuit of mid-market excellence.
 

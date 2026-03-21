@@ -379,7 +379,9 @@ Buyers begin chasing the founder. --.-..,,
 
 ,--.
 
-CONCLUSION The mid‑market seller using tactical intelligence is operating in a different league.
+**Conclusion**
+
+The mid‑market seller using tactical intelligence is operating in a different league.
 
 There is no noise.
 

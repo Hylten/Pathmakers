@@ -272,7 +272,7 @@ It is the refusal to rely on general market conditions and instead build interna
 
 This is institutional autonomy.
 
-CONCLUSION
+**Conclusion**
 
 The Pathmaker Guide to Institutional Liquidity establishes one foundational truth.
 

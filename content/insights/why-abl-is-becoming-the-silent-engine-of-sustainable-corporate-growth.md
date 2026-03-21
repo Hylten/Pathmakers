@@ -173,7 +173,7 @@ We create the mechanical foundation that institutional capital expects.
 
 We preserve silence, control, and precision.
 
-CONCLUSION
+**Conclusion**
 
 : Asset-Based Lending Is the Architecture of Sustainable Growth If the last decade taught operators anything, it is that growth requires more than vision.
 

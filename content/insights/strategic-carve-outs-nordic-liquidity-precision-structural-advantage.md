@@ -550,7 +550,9 @@ That raises bid intensity.
 
 Fund-III buyers compete hardest when complexity is removed.
 
-CONCLUSION : THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
+**Conclusion**
+
+: THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
 
 They unlock value because corporates over-integrate.
 

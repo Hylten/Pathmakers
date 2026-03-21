@@ -111,7 +111,7 @@ This framework eliminates guesswork.
 
 It creates certainty in a market that increasingly penalizes uncertainty.
 
-CONCLUSION
+**Conclusion**
 
 : Asset-Based Lending Is the Decisive Advantage for Cross Border Buyers Europe is not getting faster.
 
