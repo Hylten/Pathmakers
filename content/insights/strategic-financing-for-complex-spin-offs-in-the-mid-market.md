@@ -1,5 +1,5 @@
 --- title: "Strategic Financing for Complex Spin-offs in the Mid-Market" description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders." date: "2025-12-01" author: "Jonas Hyltén" slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"
---- 
+---
 
 # Strategic Financing for Complex Spin-offs Complex corporate spin-offs are rarely clean. They are rarely elegant.
 
@@ -63,9 +63,7 @@ Liquidity as the Primary Lever in Spin-off Success Many spin-offs fail not becau
 
 It is day one survival.
 
-It is day 
-
-100 stability.
+It is day 100 stability.
 
 It is the six month bridge that keeps the carve-out from collapsing under its own transitional weight.
 
@@ -361,4 +359,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

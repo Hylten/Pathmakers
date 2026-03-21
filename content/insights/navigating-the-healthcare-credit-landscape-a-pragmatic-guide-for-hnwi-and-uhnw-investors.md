@@ -1,5 +1,5 @@
 --- title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors" description: "A strategic examination of liquidity pathways in healthcare using private credit and asset based liquidity engineering structures." date: "2025-11-19" author: "Jonas Hyltén" slug: "navigating-the-healthcare-credit-landscape-a-pragmatic-guide-for-hnwi-and-uhnw-investors"
---- 
+---
 
 # Navigating the Healthcare Credit Landscape Healthcare credit is no longer an arena for generalists. It is a battleground defined by compressed margins, regulatory whiplash, and liquidity gaps that widen every quarter.
 
@@ -31,7 +31,7 @@ We are not looking for emotional narratives or promises of imminent recovery.
 
 We lend against assets that can be underwritten with institutional confidence.
 
-We design credit facilities that allow investors to 
+We design credit facilities that allow investors to
 
 ### Step I: nto healthcare deals with eyes open and leverage intact. Why Mid‑Market Healthcare Requires principal authority Institutional capital prefers clean, large scale portfolios. Healthcare carve outs are rarely clean.
 
@@ -197,9 +197,7 @@ Private credit and Asset-Based Lending will power this next wave.
 
 Pathmaker is positioned to serve investors who thrive in imperfect conditions and prefer leverage that does not depend on sentiment.
 
-CONCLUSION
-
- Navigating the healthcare credit landscape requires realism, discipline, and liquidity structures that can withstand operational volatility.
+CONCLUSION Navigating the healthcare credit landscape requires realism, discipline, and liquidity structures that can withstand operational volatility.
 
 Pathmaker equips HNWI and UHNW investors with private credit, asset based Monetization Architecture, crypto Asset-Backed Frameworks, and public share Monetization Architecture facilities that align with institutional standards while retaining the agility required in mid market healthcare deals.
 
@@ -213,4 +211,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

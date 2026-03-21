@@ -1,5 +1,5 @@
 --- title: "Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs" description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs from Roials Capital and Hyltén Invest." date: "2025-07-08" author: "Jonas Hyltén" slug: "operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs"
---- 
+---
 
 # Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs Operational resilience has become one of the most overused phrases in the middle market. Most firms talk about it like it is a  culture initiative or a leadership mindset exercise.
 
@@ -11,7 +11,7 @@ In mid market M&A and healthcare carve outs, it is the difference between an ass
 
 Why Operational Resilience Matters In Mid Market Transactions Operational resilience determines buyer confidence, integration cost, and post close stabilization time. It dictates whether a transaction creates enterprise value or erodes it.
 
-And in carve outs, it decides whether the parent quietly exits or spends the next 
+And in carve outs, it decides whether the parent quietly exits or spends the next
 
 18 months in remediation hell.
 
@@ -45,7 +45,7 @@ Reporting does not reconcile.
 
 Inventory, patient counts, billing metrics, and utilization numbers rarely tie out without manual intervention.
 
-When the data 
+When the data
 
 ### Layer I:
 
@@ -55,7 +55,7 @@ Overreliance On Tribal Knowledge If knowledge sits with a few long tenured emplo
 
 This leaves acquirers with hollowed out operational continuity and no easy path to reconstruction.
 
-Capacity Bottlenecks A business with single point failure roles is not resilient. A business where key functions break down at 
+Capacity Bottlenecks A business with single point failure roles is not resilient. A business where key functions break down at
 
 85 percent utilization is not resilient.
 
@@ -171,9 +171,9 @@ Cross train aggressively.
 
 Contract external support where necessary.
 
-In carve outs, this 
+In carve outs, this
 
-# Step C: an determine survival. Strengthen The Data 
+# Step C: an determine survival. Strengthen The Data
 
 # Layer CL: ean data. Rebuild reporting.
 
@@ -219,7 +219,7 @@ A capacity model.
 
 A quantifiable data integrity score.
 
-During Integration A stabilization team. A 
+During Integration A stabilization team. A
 
 100 day plan built on measurable outcomes.
 
@@ -249,4 +249,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

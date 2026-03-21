@@ -1,5 +1,5 @@
 --- title: "M&A Warfare: Engineering Exit Readiness Inside the Middle Market Credit Gridlock" description: "A high-density institutional briefing on mid-market M&A friction, private-credit chokepoints, exit readiness engineering, and off‑market deal origination mandates." date: "2026-02-02" author: "The Analyst Team" slug: "ma-warfare-middle-market-credit-gridlock-exit-readiness"
---- 
+---
 
 The middle market is in a silent war.
 
@@ -65,9 +65,9 @@ Anything less triggers lender suspicion and sponsor fatigue.
 
 Blueprints matter.
 
-Discipline becomes capital. **Proverbs 13:22
+Discipline becomes capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -133,27 +133,27 @@ The credit gridlock culls weak signals.
 
 Those who communicate like institutions rise.
 
-The middle‑market war is fought across six friction layers: 
+The middle‑market war is fought across six friction layers:
 
 1.
 
-Financial Disarray: disorganized ledgers, inconsistent revenue recognition, unclean cash cycles. 
+Financial Disarray: disorganized ledgers, inconsistent revenue recognition, unclean cash cycles.
 
 2.
 
-Operational Drift: undocumented processes, dependency risk, leadership gaps. 
+Operational Drift: undocumented processes, dependency risk, leadership gaps.
 
 3.
 
-Narrative Incoherence: mismatched strategy, unclear positioning, reactive planning. 
+Narrative Incoherence: mismatched strategy, unclear positioning, reactive planning.
 
 4.
 
-Diligence Fragmentation: scattered files, version conflicts, missing justifications. 
+Diligence Fragmentation: scattered files, version conflicts, missing justifications.
 
 5.
 
-Timing Inefficiency: slow responses, unvalidated forecasts, unprepared teams. 
+Timing Inefficiency: slow responses, unvalidated forecasts, unprepared teams.
 
 6.
 
@@ -161,7 +161,7 @@ Negotiation Vulnerability: lack of alternatives, absence of benchmarks, reactive
 
 Each friction layer extracts equity.
 
-Each 
+Each
 
 # Layer C: ompounds risk. Each layer reduces deal velocity.
 
@@ -219,21 +219,15 @@ Through operational truth.
 
 Through quantifiable evidence.
 
-Institutional buyers anchor on four dimensions: 
+Institutional buyers anchor on four dimensions:
 
 1.
 
-Repeatable Revenue Mechanics 
+Repeatable Revenue Mechanics 2.
 
-2.
+Durable Cash Conversion 3.
 
-Durable Cash Conversion 
-
-3.
-
-Leadership Depth 
-
-4.
+Leadership Depth 4.
 
 Asset Hardening Asset hardening is often misunderstood.
 
@@ -384,7 +378,7 @@ Machine gun sentences.
 Precision follows.
 
 Cut friction fast.
- Harden systems. Verify numbers. Document everything. Control narrative. Own diligence.
+Harden systems. Verify numbers. Document everything. Control narrative. Own diligence.
 
 Forecast tightly.
 
@@ -416,4 +410,3 @@ Technical Metric: Target friction compression delta: 38% reduction in diligence 
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

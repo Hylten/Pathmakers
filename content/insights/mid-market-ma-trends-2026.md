@@ -1,5 +1,5 @@
 --- title: "Mid-Market M&A Trends 2026" description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyltén Invest." date: "2025-07-16" author: "Jonas Hyltén" slug: "mid-market-ma-trends-2026"
---- 
+---
 
 # Mid-Market M&A Trends 2026 Pathmaker Analysis Mid-market M&A is entering 2026 with clearer lines, tougher filters, and less patience for optimism without evidence. Capital is still available.
 
@@ -41,15 +41,15 @@ High sensitivity to execution errors.
 
 What Is Actually Moving in 2026
 
- 
+
 
 1.
 
-Healthcare carve-outs that reduce administrative load for hospitals and large systems 
+Healthcare carve-outs that reduce administrative load for hospitals and large systems
 
 2.
 
-Industrial and logistics assets with recurring contracts 
+Industrial and logistics assets with recurring contracts
 
 3.
 
@@ -69,7 +69,7 @@ The negotiation is now a discussion about evidence, not storytelling.
 
 Buyers Are Asking Different Questions The modern buyer is less interested in growth cases and more interested in operational risk compression. They want to know:
 
-- How predictable is revenue over the next 
+- How predictable is revenue over the next
 
 18 months.
 
@@ -77,7 +77,7 @@ Buyers Are Asking Different Questions The modern buyer is less interested in gro
 
 - Whether the integration burden is heavy, moderate, or light.
 
-- Whether management can survive a 
+- Whether management can survive a
 
 90 day post-close pressure test.
 
@@ -99,15 +99,15 @@ It is not constrained.
 
 It is selective.
 
-The Seller Mindset in 2026 Sellers in the mid-market are still digesting the reality that 2021 valuations were an anomaly, not a benchmark. The ones who close in 2026 share three attributes. 
+The Seller Mindset in 2026 Sellers in the mid-market are still digesting the reality that 2021 valuations were an anomaly, not a benchmark. The ones who close in 2026 share three attributes.
 
 1.
 
-They come to market with fully reconciled financials. 
+They come to market with fully reconciled financials.
 
 2.
 
-They have a strong second layer of management. 
+They have a strong second layer of management.
 
 3.
 
@@ -153,15 +153,15 @@ As a result, they are divesting:
 
 What Makes Healthcare Carve-Outs Attractive
 
- 
+
 
 1.
 
-High demand for services regardless of macro cycles 
+High demand for services regardless of macro cycles
 
 2.
 
-Strong reimbursement visibility in regulated sub-sectors 
+Strong reimbursement visibility in regulated sub-sectors
 
 3.
 
@@ -171,14 +171,12 @@ They are looking for predictable revenue and non-speculative operational improve
 
 The Execution Risk Most Buyers Underestimate Healthcare carve-outs fail when buyers assume they can restructure staff and billing processes inside
 
- 
+
 
 100 days.
 
-In reality, the integration timeline is often closer to 
-6 to 
-
-12 months due to:
+In reality, the integration timeline is often closer to
+6 to 12 months due to:
 
 - Credentialing delays
 
@@ -260,7 +258,7 @@ Operational due diligence is growing because mid-market companies often hide ris
 
 - Compliance shortcuts Why Operators Matter More Than Ever Buyers want to know if the company can stand on its own without founders. If the answer is no, the discount is immediate.
 
-Strong second 
+Strong second
 
 # Layer M: anagement is now one of the biggest drivers of valuation. Trend 5: Multiples Are Stable But Compressed Mid-market M&A multiples in 2026 are not dropping sharply, but they are not rebounding either. What has changed is the width of valuation ranges.
 
@@ -290,19 +288,17 @@ They need a defensible operational model.
 
 Essential Seller Preparation High performing sellers in 2026 prepare in four ways.
 
- 
+
 
 1.
 
-Tighten financial reporting 
+Tighten financial reporting 2.
 
-2.
-
-Clean up customer concentration 
+Clean up customer concentration
 
 3.
 
-Document processes that live only in someone’s head 
+Document processes that live only in someone’s head
 
 4.
 
@@ -334,15 +330,15 @@ This is especially true in healthcare.
 
 The Healthcare Carve-Out Opportunity Window Large healthcare systems are under pressure in 2026 due to costs, staffing shortages, and compliance requirements. They are divesting anything that is not core to patient care.
 
-This creates three major acquisition opportunities. 
+This creates three major acquisition opportunities.
 
 1.
 
-Administrative services that are too costly to maintain internally 
+Administrative services that are too costly to maintain internally
 
 2.
 
-Specialty clinics with uneven profitability 
+Specialty clinics with uneven profitability
 
 3.
 
@@ -404,4 +400,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

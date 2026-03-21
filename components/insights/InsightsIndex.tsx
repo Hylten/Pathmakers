@@ -3,11 +3,12 @@ import { ArrowRight } from 'lucide-react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
-    const match = raw.match(/^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
-    if (!match) return { data: {} as Record<string, string>, content: raw };
-
-    const frontmatter = match[1];
-    const content = match[2];
+    const parts = raw.split(/---/);
+    if (parts.length < 3) return { data: {} as Record<string, string>, content: raw };
+    
+    // Frontmatter is between the first and second '---'
+    const frontmatter = parts[1];
+    const content = parts.slice(2).join('---').trim();
     const data: Record<string, string> = {};
 
     // Standard YAML-style key parsing (handles multiline)
@@ -17,7 +18,6 @@ function parseFrontmatter(raw: string) {
         if (colonIdx !== -1) {
             const key = line.slice(0, colonIdx).trim();
             let value = line.slice(colonIdx + 1).trim();
-            // Only set if not set yet, or if this looks like a cleaner line-based set
             if (key && !data[key]) {
                 if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
                     value = value.slice(1, -1);
@@ -27,8 +27,7 @@ function parseFrontmatter(raw: string) {
         }
     });
 
-    // Fallback / Enhanced parsing for single-line or mashed keys
-    // This regex matches keys that might contain hyphens/underscores and values that are quoted OR unquoted
+    // Fallback for single-line / mashed keys
     const pairs = frontmatter.match(/([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n,]+))/g);
     if (pairs) {
         pairs.forEach(pair => {
@@ -38,10 +37,7 @@ function parseFrontmatter(raw: string) {
             if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
                 v = v.slice(1, -1);
             }
-            // If the line-based parser caught a "leaking" line (multiple keys on one line), 
-            // the regex-based one here will provide much cleaner values.
-            // So we prioritize regex matches for common keys.
-            if (k) data[k] = v;
+            if (k && !data[k]) data[k] = v;
         });
     }
     

@@ -1,5 +1,5 @@
 --- title: "How Asset-Based Lending Reshapes Private Equity Carve-Outs in the Mid-Market" description: "A strategic analysis of how Asset-Based liquidity engineering delivers liquidity, speed, and structural leverage in private equity carve-outs." date: "2025-07-29" author: "Jonas Hyltén" slug: "how-abl-reshapes-private-equity-carve-outs-in-the-mid-market"
---- 
+---
 
 # The Role of Asset-Based Lending in Private Equity Carve-Outs Private equity carve-outs are not elegant deals. They are operational divorces carried out under time pressure, incomplete information, and conflicting incentives.
 
@@ -67,4 +67,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

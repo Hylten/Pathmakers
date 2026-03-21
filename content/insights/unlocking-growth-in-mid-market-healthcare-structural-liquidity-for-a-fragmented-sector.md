@@ -1,5 +1,5 @@
 --- title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector" description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability." date: "2025-11-13" author: "Jonas Hyltén" slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
---- 
+---
 
 # Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape. It is a sector defined by chronic margin compression, reimbursement volatility, and operational drag that accumulates long before an outside advisor sees the books.
 
@@ -43,11 +43,9 @@ Not projections.
 
 Structure.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
+: The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
 
 Operators who secure liquidity early will acquire assets at advantageous valuations.
 
@@ -63,4 +61,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

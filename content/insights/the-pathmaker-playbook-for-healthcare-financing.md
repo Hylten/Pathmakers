@@ -1,5 +1,5 @@
 --- title: "The Pathmaker Playbook for Healthcare Financing" description: "A strategic deep dive into liquidity engineering and asset based Monetization Architecture for mid market healthcare operators seeking institutional grade capital solutions." date: "2026-02-23" author: "Jonas Hyltén" slug: "the-pathmaker-playbook-for-healthcare-financing"
---- 
+---
 
 # The Pathmaker Playbook for Healthcare Financing The healthcare market is not gentle. It does not reward optimism.
 
@@ -153,8 +153,5 @@ Execution is priceless.
 
 Book a strategic consultatio
 
-n
+n Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

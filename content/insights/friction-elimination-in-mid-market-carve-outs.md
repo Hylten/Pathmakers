@@ -1,5 +1,5 @@
 --- title: "Friction Elimination In Mid Market Carve Outs" description: "Friction Elimination In Mid Market Carve Outs" date: "2025-08-27" author: "Jonas Hyltén" slug: "friction-elimination-in-mid-market-carve-outs"
---- 
+---
 
 # Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason. Friction.
 
@@ -27,11 +27,11 @@ This is not advisory.
 
 This is command doctrine.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Core Problem: Mid Market Carve Outs Are Born in Fragmentation Most carve outs begin as internal afterthoughts inside parent companies.
 
@@ -41,15 +41,15 @@ Blurred ownership lines.
 
 Legacy dependencies that no operator can map on day one.
 
-This fragmentation creates three forms of friction. 
+This fragmentation creates three forms of friction.
 
 1.
 
-Structural friction. 
+Structural friction.
 
 2.
 
-Control friction. 
+Control friction.
 
 3.
 
@@ -69,11 +69,11 @@ A fragmented business cannot earn trust.
 
 Our role is to impose order before the market imposes a discount.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Asset Hardening: The Primary Discipline Asset hardening is not polishing.
 
@@ -89,23 +89,23 @@ Private Equity treats it as a covenant instrument.
 
 Our work is to convert one into the other.
 
-Asset hardening focuses on five pillars: 
+Asset hardening focuses on five pillars:
 
 1.
 
-Ownership integrity. 
+Ownership integrity.
 
 2.
 
-Covenant accounting. 
+Covenant accounting.
 
 3.
 
-Operational separation. 
+Operational separation.
 
 4.
 
-Documentation continuity. 
+Documentation continuity.
 
 5.
 
@@ -115,9 +115,9 @@ When these five pillars stand, the carve out becomes bankable.
 
 When they fail, friction expands.
 
-- 
+-
 
-- 
+-
 
 - Pillar One: Ownership Integrity Most mid market carve outs suffer from diluted ownership clarity.
 
@@ -151,9 +151,9 @@ It honors the biblical principle that a workman must know his possessions.
 
 Without ownership integrity, there is no readiness.
 
-- 
+-
 
-- 
+-
 
 - Pillar Two: Covenant Accounting Accounting in a carve out is rarely prepared to withstand the scrutiny of a GP.
 
@@ -195,9 +195,9 @@ This neutralizes friction at every financial interface.
 
 It strengthens valuation because clarity is a premium good in the mid market.
 
-- 
+-
 
-- 
+-
 
 - Pillar Three: Operational Separation Most carve outs claim they are operationally independent.
 
@@ -239,9 +239,9 @@ Operational separation is asset hardening.
 
 It is the statement that the business has its own spine.
 
-- 
+-
 
-- 
+-
 
 - Pillar Four: Documentation Continuity Documentation is oxygen during acquisition.
 
@@ -271,9 +271,9 @@ If it is not documented, it does not exist.
 
 If it does not exist, it becomes friction.
 
-- 
+-
 
-- 
+-
 
 - Pillar Five: Institutional Clarity Institutional buyers want one thing above all.
 
@@ -301,11 +301,11 @@ Institutional clarity is not bureaucracy.
 
 It is the architecture of trust.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
@@ -329,11 +329,11 @@ Covenant friction destroys valuation faster than any financial metric.
 
 We remove friction in all three zones.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Execution Velocity: The Tactical Advantage Execution velocity is achieved by removing drag at every point where a buyer would slow down.
 
@@ -365,24 +365,24 @@ The more value is preserved, the more dominion the owner maintains.
 
 This is stewardship.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Liquidity Architecture for Carve Outs Liquidity is the oxygen that funds separation.
 
 Without liquidity, carve outs remain theoretical.
 
-We deploy a defined hierarchy of liquidity tools. 
+We deploy a defined hierarchy of liquidity tools.
 1.
 
 Private Credit Non bank capital that can move with precision.
 
 Structured against assets, cash flow, or hybrid models.
 
-Suitable for owners and investors with strategic urgency. 
+Suitable for owners and investors with strategic urgency.
 2.
 
 Asset Based liquidity engineering Available for owners who possess verifiable collateral.
@@ -391,18 +391,18 @@ Based on inventory, receivables, machinery, or real property.
 
 Clean structure.
 
-Clear covenant language. 
+Clear covenant language.
 3.
 
-Public Share Strategic Collateralization Minimum 
+Public Share Strategic Collateralization Minimum
 5 million.
 
 Used for founders or HNWI holders of liquid listed equity.
 
-Structured for speed. 
+Structured for speed.
 4.
 
-Crypto Monetization Architecture Minimum 
+Crypto Monetization Architecture Minimum
 2 million.
 
 Asset backed.
@@ -417,11 +417,11 @@ Without fuel, readiness collapses.
 
 Without readiness, acquisition becomes distant.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Spirit of Gnosjö: Local Discipline at Institutional Scale Pathmaker applies the Spirit of Gnosjö.
 
@@ -453,11 +453,11 @@ Gnosjö is the antidote to mid market disorder.
 
 It is the cultural substrate for asset hardening.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Tactical Intelligence: Jonas Hyltén Discipline Tactical intelligence is the practice of identifying and neutralizing friction before the market sees it.
 
@@ -487,11 +487,11 @@ Institutional buyers rely on intelligence.
 
 Our work is to replace instinct with data precision.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Role of the General A carve out is not a consulting project.
 
@@ -519,11 +519,11 @@ We do not speak to please.
 
 We speak to eliminate friction.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Exit Readiness: The Ultimate Objective Exit readiness is the state in which:
 
@@ -547,11 +547,11 @@ Owners who desire dominion do not wait for the market to ask.
 
 They prepare before they are seen.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Institutional Buyers Want One Thing: A Story Without Gaps Not a narrative story.
 
@@ -565,11 +565,11 @@ A story where diligence becomes verification rather than discovery.
 
 Friction elimination creates this story.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Final Intelligence for Principals If you are a founder.
 
@@ -597,4 +597,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

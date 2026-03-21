@@ -1,5 +1,5 @@
 --- title: "liquidity engineering Against Public Shares for Accelerated M&A Closures" description: "Pathmaker provides liquidity through private credit and asset based Institutional Liquidity Paths, enabling HNWI and UHNW principals to accelerate M&A timelines using public share Strategic Collateralization." date: "2025-08-31" author: "Jonas Hyltén" slug: "liquidity-engineering-against-public-shares-for-accelerated-ma-closures"
---- 
+---
 
 # Asset-Backed Frameworks Against Public Shares for Accelerated M&A Closures Mid market M&A is rarely a clean process. There is no glossy playbook and no cinematic turnaround.
 
@@ -45,7 +45,7 @@ The goal is to make sure liquidity does not become another variable in a stack o
 
 Pathmaker structures are designed to behave predictably even when markets do not.
 
-This is why we use disciplined collateral modeling, clarity in liquidity facility-to-value limits, and multi 
+This is why we use disciplined collateral modeling, clarity in liquidity facility-to-value limits, and multi
 
 # Layer M: onitoring. Certainty is engineered, not assumed.
 
@@ -83,10 +83,9 @@ It enhances negotiating posture.
 
 It maintains principal authority in every transaction.
 
-For principals who understand that liquidity is the keystone of execution, the next 
+For principals who understand that liquidity is the keystone of execution, the next
 
 ### Step I: s simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

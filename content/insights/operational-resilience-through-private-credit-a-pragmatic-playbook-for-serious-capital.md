@@ -1,5 +1,5 @@
 --- title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital" description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience." date: "2025-07-30" author: "Jonas Hyltén" slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
---- 
+---
 
 # Building Operational Resilience with Private Credit Operational resilience is not an aspirational concept. It is a survival requirement.
 
@@ -58,23 +58,23 @@ Healthcare Carve Outs: Where Private Credit Proves Its Value Few environments te
 
 They involve patient care obligations, reimbursement cycles, credentialing issues, payer negotiations, and a workforce that is often inherited mid transition.
 
-The most common issues in healthcare carve outs include: 
+The most common issues in healthcare carve outs include:
 
 1.
 
-Working capital gaps. 
+Working capital gaps.
 
 2.
 
-Delays in claims processing. 
+Delays in claims processing.
 
 3.
 
-Vendor friction due to new credit identities. 
+Vendor friction due to new credit identities.
 
 4.
 
-Payroll timing mismatches. 
+Payroll timing mismatches.
 
 5.
 
@@ -168,4 +168,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

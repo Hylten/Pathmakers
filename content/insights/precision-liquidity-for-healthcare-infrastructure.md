@@ -1,5 +1,5 @@
 --- title: "Precision Liquidity for Healthcare Infrastructure" description: "A strategic analysis of precision liquidity, private credit, and asset based liquidity engineering for healthcare infrastructure transactions." date: "2025-11-16" author: "Jonas Hyltén" slug: "precision-liquidity-for-healthcare-infrastructure"
---- 
+---
 
 # Precision Liquidity for Healthcare Infrastructure Healthcare infrastructure is not built on sentiment. It is built on balance sheets, operational constraints, reimbursement pressures, and the cold math that separates viable systems from those carrying structural fatigue.
 
@@ -91,7 +91,7 @@ Fast operators trapped in slow capital structures.
 
 Precision liquidity solves that.
 
-It lets an acquirer 
+It lets an acquirer
 
 ### Step I: nto a transaction without hesitation. It gives existing operators the confidence to seize undervalued assets.
 
@@ -325,4 +325,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

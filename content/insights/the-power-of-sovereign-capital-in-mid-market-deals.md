@@ -1,11 +1,11 @@
 --- title: "The Power of Sovereign Capital in Mid-Market Deals" description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics." date: "2025-11-16" author: "Jonas Hyltén" slug: "the-power-of-sovereign-capital-in-mid-market-deals"
---- 
+---
 
 # The Power of Sovereign Capital in Mid-Market Deals Mid-market dealmaking does not reward idealists. It rewards those who know how to source liquidity when others hesitate.
 
 It rewards those who understand that capital is a tool, not a trophy.
 
-And in the mid-market, especially in healthcare carve outs, that tool must be engineered with precision, patience, and a willingness to 
+And in the mid-market, especially in healthcare carve outs, that tool must be engineered with precision, patience, and a willingness to
 
 ### Step I: nto complexity that many capital providers avoid. Pathmaker sits inside this bandwidth.
 
@@ -73,7 +73,7 @@ Legacy systems where revenue recognition is non standard.
 
 Institutional lenders step away from these deals, not due to lack of opportunity, but due to lack of structural flexibility.
 
-We 
+We
 
 ### Step I: n because flexibility is built into our architecture. Asset-Based Lending provides velocity.
 
@@ -235,4 +235,3 @@ Book a Strategic Consultation If you operate in the mid-market and require sover
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

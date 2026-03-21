@@ -1,5 +1,5 @@
 --- title: "Precision Financing for Mid-Market Leaders" description: "A strategic deep dive into liquidity engineering, private credit Capital Structuring, and asset based Strategic Collateralization for mid‑market operators, HNWI, and UHNW decision makers." date: "2025-08-11" author: "Jonas Hyltén" slug: "precision-financing-for-mid-market-leaders"
---- 
+---
 
 # Precision Financing for Mid-Market Leaders Mid market operators do not get the luxury of theory. They live in the world of carve outs, compressed timelines, lender fatigue, and the unforgiving math of operational reality.
 
@@ -161,11 +161,11 @@ We lend against assets others do not understand or cannot underwrite efficiently
 
 Private credit positions.
 
-Crypto assets with a minimum threshold of 2,000, 
+Crypto assets with a minimum threshold of 2,000,
 
 000.
 
-Public share holdings with a minimum threshold of 5,000, 
+Public share holdings with a minimum threshold of 5,000,
 
 000.
 
@@ -293,4 +293,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

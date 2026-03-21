@@ -1,5 +1,5 @@
 --- title: "The Dark Arts Of Exit Readiness: A GeneralS Persp" description: "The Dark Arts Of Exit Readiness: A GeneralS Persp" date: "2026-02-07" author: "Jonas Hyltén" slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
---- 
+---
 
 # The Dark Arts of Exit Readiness. A General’s Perspective Exit readiness is not an administrative exercise.
 
@@ -283,7 +283,7 @@ The battlefield must be clean.
 
 Customer Concentration: The Price Assassin A company with two clients owning
 
- 
+
 
 40 percent of revenue is not a stable asset.
 
@@ -523,8 +523,5 @@ Honors the sacred trust of ownership.
 
 Book a strategic consultatio
 
-n
+n Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

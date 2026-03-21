@@ -1,5 +1,5 @@
 --- title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era" description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs." date: "2025-09-26" author: "Jonas Hyltén" slug: "the-pathmaker-vision-for-institutional-ma-structural-liquidity-for-the-new-era"
---- 
+---
 
 # The Pathmaker Vision for Institutional M&A A Structural Liquidity Blueprint for Serious Capital Institutional M&A has entered a new phase. Capital is more expensive.
 
@@ -75,7 +75,7 @@ We understand how to unlock that value.
 
 Crypto Strategic Collateralization Minimum threshold:
 
- 
+
 2 million.
 
 Crypto remains misunderstood by most institutional buyers.
@@ -90,7 +90,7 @@ This tool is for buyers who understand the operational dynamics of crypto holdin
 
 Public Share Capital Structuring Minimum threshold:
 
- 
+
 5 million.
 
 Public shares are an underleveraged asset class for UHNW individuals executing acquisitions.
@@ -181,11 +181,9 @@ principal authority is power without noise.
 
 It is influence without spectacle.
 
-Liquidity as Strategy Not a Last Step, a First 
+Liquidity as Strategy Not a Last Step, a First
 
-# Step M
-
-ost buyers still treat liquidity as the final box to check after negotiation.
+# Step M ost buyers still treat liquidity as the final box to check after negotiation.
 
 This is a legacy mindset from years of cheap capital and accommodative banks.
 
@@ -267,4 +265,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

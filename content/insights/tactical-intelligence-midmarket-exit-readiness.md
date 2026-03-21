@@ -1,5 +1,5 @@
 --- title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator" description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band." date: "2026-03-13" author: "Pathmaker" slug: "tactical-intelligence-midmarket-exit-readiness"
---- 
+---
 
 Insight begins here. No warming speeches. No preface.
 
@@ -75,7 +75,7 @@ It focuses on documents, not systems.
 
 It packages, but it does not transform.
 
-Tactical Intelligence corrects this by attacking the underlying mechanics that determine what a buyer is really acquiring: durability, predictability, transferability. 
+Tactical Intelligence corrects this by attacking the underlying mechanics that determine what a buyer is really acquiring: durability, predictability, transferability.
 
 1.
 
@@ -83,7 +83,7 @@ Durability The business must stand without the founder’s hand.
 
 When dependency is high, valuation is low.
 
-Tactical Intelligence neutralizes key-person fragility through operational codification, delegated authority models, and future-state leadership mapping. 
+Tactical Intelligence neutralizes key-person fragility through operational codification, delegated authority models, and future-state leadership mapping.
 
 2.
 
@@ -93,7 +93,7 @@ The mid-market operator must translate instinct into repeatable systems.
 
 Tactical Intelligence reinstates order: pipeline reliability, margin stabilization, retention economics, cohort tracking.
 
-Predictable results command premium multiples. 
+Predictable results command premium multiples.
 
 3.
 
@@ -103,8 +103,6 @@ It is a personality brand disguised as an enterprise.
 
 Tactical Intelligence hardens every function so that ownership transition becomes a non-event rather than a reconstruction.
 
-One sentence
-
-Access is restricted to approved mandates.
+One sentence Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

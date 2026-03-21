@@ -1,5 +1,5 @@
 --- title: "Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets for Serious Liquidity Needs" description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients." date: "2025-09-14" author: "Jonas Hyltén" slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
---- 
+---
 
 # Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy. They demand liquidity, precision, and a lender that understands the operational grind behind carve outs, distressed but functioning assets, and transactions that sit just outside the comfort zone of institutional credit committees.
 
@@ -157,23 +157,21 @@ The Mechanics That Define Pathmaker Pathmaker functions as the technical layer t
 
 We are the structural partner that fills the operational void they create.
 
-Our edge comes from five mechanics: 
+Our edge comes from five mechanics:
 
 1.
 
-Precise collateral valuation 
+Precise collateral valuation 2.
 
-2.
-
-Intelligent liquidity facility to value calibration 
+Intelligent liquidity facility to value calibration
 
 3.
 
-Multi asset Strategic Collateralization capacity across private credit, digital assets, and public equity 
+Multi asset Strategic Collateralization capacity across private credit, digital assets, and public equity
 
 4.
 
-Speed that does not compromise discipline 
+Speed that does not compromise discipline
 
 5. principal authority in execution and reporting This is why our borrower base consistently includes HNWI and UHNW individuals.
 
@@ -261,11 +259,9 @@ We bring principal authority to transactions that benefit from discretion.
 
 We execute at a level that serves the realities of HNWI and UHNW borrowers.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Liquidity is a strategic weapon.
+Liquidity is a strategic weapon.
 
 Pathmaker ensures it is accessible when needed, collateralized with intelligence, and deployed with institutional discipline.
 
@@ -275,4 +271,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

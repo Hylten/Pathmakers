@@ -1,5 +1,5 @@
 --- title: "The Pathmaker Approach to Asset-Based liquidity engineering: Structural Liquidity for Serious Operators" description: "A pragmatic breakdown of Pathmaker’s asset-based Capital Structuring framework for HNWI and UHNW investors seeking disciplined liquidity solutions across private credit, crypto, and public shares." date: "2025-11-08" author: "Jonas Hyltén" slug: "the-pathmaker-approach-to-asset-based-liquidity-engineering-structural-liquidity-for-serious-operato"
---- 
+---
 
 # The Pathmaker Approach to Asset-Based Capital Structuring Asset based Strategic Collateralization is not about romance. It is not about heroic turnarounds or glossy narratives.
 
@@ -235,4 +235,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

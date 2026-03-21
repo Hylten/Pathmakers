@@ -1,7 +1,7 @@
 --- title: "Precision Financing for the Nordic BioTech Sector" description: "A strategic deep dive into liquidity generation and asset based liquidity engineering solutions tailored for Nordic BioTech operators and investors." date: "2025-10-07" author: "Jonas Hyltén" slug: "precision-financing-for-the-nordic-biotech-sector"
---- 
+---
 
-# Precision Financing for the Nordic BioTech Sector The Nordic BioTech sector is entering a new phase. A 
+# Precision Financing for the Nordic BioTech Sector The Nordic BioTech sector is entering a new phase. A
 
 # Phase D: efined by an unforgiving cost of capital. A phase shaped by regulatory tightening, higher scientific burn rates, and a diminishing appetite for speculative equity.
 
@@ -27,13 +27,11 @@ Pathmaker exists to bridge that structural fragmentation.
 
 Crypto Asset-Backed Frameworks: Minimum Threshold 2,000
 
-,
-
-000 USD A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
+, 000 USD A surprising number of Nordic founders hold crypto allocations inside their personal or family office portfolios.
 
 These assets are often siloed, unused, and treated as dead capital during BioTech financing events.
 
-Pathmaker integrates crypto Institutional Liquidity Paths with a minimum threshold of 
+Pathmaker integrates crypto Institutional Liquidity Paths with a minimum threshold of
 2 million USD.
 
 This unlocks liquidity without forcing liquidation.
@@ -60,11 +58,9 @@ Pathmaker structures transactions to avoid those conditions.
 
 Our financing supports:
 
-- Acquisitions between 
+- Acquisitions between
 
-20 and 
-
-250 million USD.
+20 and 250 million USD.
 
 - Carve outs of non core research units.
 
@@ -172,4 +168,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

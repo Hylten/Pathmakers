@@ -1,5 +1,5 @@
 --- title: "Tactical Due Diligence: Hardening Assets For Gp Ac" description: "Tactical Due Diligence: Hardening Assets For Gp Ac" date: "2025-12-25" author: "Jonas Hyltén" slug: "tactical-due-diligence-hardening-assets-for-gp-ac"
---- 
+---
 
 # Tactical Due Diligence Hardening Assets for GP Acquisition The mid-market battlefield rewards the prepared. Institutional buyers do not purchase potential.
 
@@ -15,11 +15,9 @@ It is the discipline of hardening an asset until it carries the posture, cadence
 
 Pathmaker operates inside this trench.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is singular.
+is singular.
 
 Strip friction.
 
@@ -35,11 +33,11 @@ Clarity.
 
 Non negotiable alignment.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Why Tactical Due Diligence Over Traditional Preparations Most preparation frameworks are cosmetic.
 
@@ -61,11 +59,11 @@ It produces:
 
 The potential is already realized in the structure.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Principal Advantage Commanding Position in the Negotiation Arena A hardened asset allows the Principal to negotiate from strength.
 
@@ -83,11 +81,11 @@ Hardened assets control diligence.
 
 The GP recognizes the difference instantly.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Internal Enemy Friction Friction is the hidden tax on mid-market companies.
 
@@ -111,11 +109,11 @@ Friction kills deals.
 
 Pathmaker’s tactical due diligence removes friction at the root.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The External Enemy Institutional Drag GPs do not punish companies out of malice.
 
@@ -137,11 +135,11 @@ Not after the first round of questions.
 
 Not during the fire.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Tactical Intelligence as Competitive Advantage Tactical intelligence means the asset can answer the following immediately:
 
@@ -165,11 +163,11 @@ A GP wants clarity.
 
 Tactical intelligence delivers clarity at institutional speed.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # The Pathmaker Model General in the Trenches.
 
@@ -199,11 +197,11 @@ The model includes:
 
 This is war preparation.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # What a Hardened Asset Looks Like A hardened asset feels different.
 
@@ -231,11 +229,11 @@ The decision becomes obvious.
 
 The process becomes clean.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Final Principle Stewardship Before Sale A Principal who carries covenant stewardship builds assets that endure.
 
@@ -253,18 +251,15 @@ Built with precision.
 
 Built to be entrusted to institutional buyers without fear.
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 # Book a strategic consultation If THE MANDAT
 
-E
-
- is to prepare for acquisition with institutional authority and eliminate M&A friction through tactical due diligence, you may initiate a strategic consultation.
+E is to prepare for acquisition with institutional authority and eliminate M&A friction through tactical due diligence, you may initiate a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "Strategic Liquidity for Cross-Border Carve-Outs" description: "A pragmatic exploration of liquidity, private credit, and asset based liquidity engineering for complex cross-border carve-outs." date: "2026-01-08" author: "Jonas Hyltén" slug: "strategic-liquidity-for-cross-border-carve-outs"
---- 
+---
 
 # Strategic Liquidity for Cross-Border Carve-Outs Cross-border carve-outs rarely behave. They are structurally messy, operationally dislocated, and financially uneven.
 
@@ -27,7 +27,7 @@ Pathmaker operates in this specific gap.
 
 We do not sell optimism, stories, or theoretical turnarounds.
 
-We build structural liquidity mechanics that allow high net worth and ultra high net worth buyers to 
+We build structural liquidity mechanics that allow high net worth and ultra high net worth buyers to
 
 ### Step I:
 
@@ -151,7 +151,7 @@ Speed without recklessness HNWI and UHNW buyers excel when they can act decisive
 
 Expanded Liquidity Tools for Cross-Border Complexity Pathmaker supports additional Institutional Liquidity Paths verticals for buyers who need nontraditional liquidity sources. Crypto Asset-Backed Frameworks Minimum threshold is
 
- 
+
 2 million dollars.
 
 Crypto backed Institutional Liquidity Paths provides fast collateralized liquidity for investors with digital asset portfolios that are otherwise underutilized.
@@ -160,7 +160,7 @@ In a cross-border carve-out, this capital can bridge timing delays or serve as r
 
 Public Share Institutional Liquidity Paths Minimum threshold is
 
- 
+
 5 million dollars.
 
 Public equities offer another collateral base for sophisticated buyers who want to participate in a carve-out without liquidating high performing positions.
@@ -175,28 +175,28 @@ Stable.
 
 Everything else is secondary.
 
-The fundamentals are simple. 
+The fundamentals are simple.
 1.
 
-Liquidity must exceed volatility If operational volatility surpasses available liquidity, the deal degrades rapidly. 
+Liquidity must exceed volatility If operational volatility surpasses available liquidity, the deal degrades rapidly.
 2.
 
-Day one cash availability is mandatory Anything less introduces immediate risk. 
+Day one cash availability is mandatory Anything less introduces immediate risk.
 3.
 
-Working capital must be insulated from cross-border timing shocks Collections, payments, and currency translations must not be left to chance. 
+Working capital must be insulated from cross-border timing shocks Collections, payments, and currency translations must not be left to chance.
 4.
 
 The buyer needs a liquidity framework that supports independence from the parent Transition services are temporary.
 
-Liquidity must not be. 
+Liquidity must not be.
 5.
 
 The financing structure must respect asset reality This is why we lean on private credit and Asset-Based Lending rather than speculative projections.
 
 The Pathmaker Model for Cross-Border Carve-Out Liquidity Our model is intentionally stripped down. It avoids unnecessary theatrics.
 
-It focuses on what keeps a carve-out alive during uncertain early stages. 
+It focuses on what keeps a carve-out alive during uncertain early stages.
 
 ### Step I: Assess the real asset base We analyze collateral. Receivables.
 
@@ -204,23 +204,23 @@ Inventory.
 
 Contracts.
 
-We examine what is stable, what is temporary, and what is misreported due to parent company allocation. 
+We examine what is stable, what is temporary, and what is misreported due to parent company allocation.
 
 ### Step I:
 
 Map liquidity to operational rhythm Every jurisdiction operates at a different pace.
 
-We synchronize liquidity to those rhythms so the buyer does not have to. 
+We synchronize liquidity to those rhythms so the buyer does not have to.
 
 ### Step III:
 
-Build redundancy One source of liquidity is never enough. We build overlapping liquidity so that shocks are absorbed instead of transmitted through the organization. 
+Build redundancy One source of liquidity is never enough. We build overlapping liquidity so that shocks are absorbed instead of transmitted through the organization.
 
 ### Step I:
 
 Support the transition window The first ninety to one hundred eighty days define the outcome.
 
-We position capital so that the carve-out can operate without relying on incomplete systems or slow parent company processes. 
+We position capital so that the carve-out can operate without relying on incomplete systems or slow parent company processes.
 
 ### Step V: Exit cleanly Our role is tactical. We create stability.
 
@@ -248,8 +248,7 @@ HNWI and UHNW investors deserve a capital partner that works at their level of p
 
 This is the framework we provide. **Book a strategic consultation
 
-* 
+*
 
 * Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

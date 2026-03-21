@@ -1,5 +1,5 @@
 --- title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth" description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination." date: "2025-10-16" author: "The Analyst Team" slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
---- 
+---
 
 Asset‑based lending is no longer a peripheral liquidity instrument.
 
@@ -25,9 +25,9 @@ Controlled.
 
 Repeatable.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+A good man leaves an inheritance to his children’s children ( "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * ).
 
@@ -127,15 +127,15 @@ They seek balance sheets that communicate stability.
 
 They seek working capital architectures that can scale under new operational mandates.
 
-Asset‑based lending accelerates exit readiness in three primary ways: 
+Asset‑based lending accelerates exit readiness in three primary ways:
 
 1.
 
-It replaces expensive unsecured debt, restoring EBITDA optics. 
+It replaces expensive unsecured debt, restoring EBITDA optics.
 
 2.
 
-It creates predictable liquidity corridors, enhancing buyer confidence. 
+It creates predictable liquidity corridors, enhancing buyer confidence.
 
 3.
 
@@ -373,4 +373,3 @@ To engage: book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

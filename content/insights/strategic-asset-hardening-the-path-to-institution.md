@@ -1,5 +1,5 @@
 --- title: "Strategic Asset Hardening: The Path To Institution" description: "Strategic Asset Hardening: The Path To Institution" date: "2026-02-25" author: "Jonas Hyltén" slug: "strategic-asset-hardening-the-path-to-institution"
---- 
+---
 
 # Strategic Asset Hardening. The Path to Institutional Valuation Institutional capital never chases noise.
 
@@ -383,9 +383,7 @@ Those who harden their assets will be acquired on their terms.
 
 Those who delay will be priced by force.
 
-THE MANDATE
-
- If you are within three years of a potential exit, transition, or capital event, asset hardening is not preparation.
+THE MANDATE If you are within three years of a potential exit, transition, or capital event, asset hardening is not preparation.
 
 It is mandate.
 
@@ -399,11 +397,9 @@ They acquire discipline.
 
 They acquire companies that demonstrate covenant stewardship and structural alignment.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear.
+is clear.
 
 Harden the asset now.
 
@@ -431,4 +427,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

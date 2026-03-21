@@ -1,5 +1,5 @@
 --- title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors" description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness." date: "2025-10-01" author: "Pathmaker Analyst Division" slug: "stealth-deal-origination-uhnw-analysis"
---- 
+---
 
 Stealth deal origination has become the principal hidden channel of mid‑market transaction flow, but most observers misdiagnose the cause.
 
@@ -37,7 +37,7 @@ Not the diamonds.
 
 This is the inflection.
 
-And the strategic consequences are immense. 
+And the strategic consequences are immense.
 
 ### Phase I: -
 
@@ -163,7 +163,7 @@ They want a counterparty who understands their world without forcing them onto a
 
 Stealth origination is an act of respect.
 
-One founder speaks to another human being, not to a marketplace of bidders. 
+One founder speaks to another human being, not to a marketplace of bidders.
 
 ### Phase III:
 

@@ -1,5 +1,5 @@
 --- title: "Precision Liquidity for Mid-Market Carve-Outs" description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions." date: "2025-10-18" author: "Jonas Hyltén" slug: "precision-liquidity-for-mid-market-carve-outs"
---- 
+---
 
 # Precision Liquidity for Mid-Market Carve-Outs Mid-market carve-outs are not elegant. They are not cinematic.
 
@@ -251,11 +251,9 @@ Yet complexity is where the best opportunities live.
 
 But only for those who can activate capital decisively.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
+: Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
 
 They reward understanding.
 
@@ -275,4 +273,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

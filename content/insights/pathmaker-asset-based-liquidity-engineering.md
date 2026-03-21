@@ -1,5 +1,5 @@
 --- title: "The Pathmaker Approach to Asset‑Based Liquidity Engineering for Mid‑Market Operators" description: "A high-density institutional brief on structural liquidity, asset-based leverage systems, and exit-readiness architecture for mid-market operators seeking frictionless M&A and off‑market capital access." date: "2025-10-06" author: "Pathmaker Analyst Team" slug: "pathmaker-asset-based-liquidity-engineering"
---- 
+---
 
 Asset‑based liquidity is no longer a technical sidebar.
 
@@ -169,9 +169,9 @@ Equity becomes optional.
 
 This is the core thesis behind Capital Structuring: remove emotion, replace with mechanics.
 
-Remove uncertainty, replace with instruments. **Proverbs 13:22
+Remove uncertainty, replace with instruments. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : *A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
@@ -213,27 +213,27 @@ Deals come inbound.
 
 That is the sovereign posture Pathmaker constructs.
 
-The mechanics: 
+The mechanics:
 
 1.
 
-We identify asset classes with immediate lendability. 
+We identify asset classes with immediate lendability.
 
 2.
 
-We model collateral values under three scenarios. 
+We model collateral values under three scenarios.
 
 3.
 
-We create entity isolation using SPVs, trusts, or JV stacks depending on jurisdiction. 
+We create entity isolation using SPVs, trusts, or JV stacks depending on jurisdiction.
 
 4.
 
-We assign lender‑friendly covenants. 
+We assign lender‑friendly covenants.
 
 5.
 
-We sequence liens vertically. 
+We sequence liens vertically.
 
 6.
 
@@ -453,4 +453,3 @@ Metric: Collateral Efficiency Ratio target: 0.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

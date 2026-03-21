@@ -1,5 +1,5 @@
 --- title: "The Sovereign Geometry of Deal Flow: Why Misaligned Financial Models Still Kill Mid-Market Transactions—and How to Correct Them Before They Detonate" description: "A high-density analyst briefing on structural misalignment in mid‑market financial models, M&A friction removal, and pre‑emptive Exit Readiness architecture from the Pathmaker vantage." date: "2025-11-20" author: "Pathmaker Analyst Team" slug: "misaligned-financial-models-killing-deals"
---- 
+---
 
 The collapse rarely begins where the operator thinks it begins.
 
@@ -41,21 +41,15 @@ Wrong architecture.
 
 A financial model is an underwriting engine.
 
-Misalignment enters through four predictable vectors: 
+Misalignment enters through four predictable vectors:
 
 1.
 
-Temporal misalignment 
+Temporal misalignment 2.
 
-2.
+Capital‑stack misinterpretation 3.
 
-Capital‑stack misinterpretation 
-
-3.
-
-Revenue geometry distortion 
-
-4.
+Revenue geometry distortion 4.
 
 Operational delusion and mispriced capability Each vector compounds the others, generating an eventual collapse when buyer‑side diligence collides with seller‑side optimism.
 
@@ -79,9 +73,9 @@ If your model does not make that pivot clear-mathematically, behaviorally, and o
 
 Most operators don’t see the blood.
 
-- 
+-
 
-- 
+-
 
 - 1.
 
@@ -111,9 +105,9 @@ What they cannot tolerate is an operator who has never modeled their own volatil
 
 This is where deals quietly begin to die.
 
-- 
+-
 
-- 
+-
 
 - 2.
 
@@ -161,9 +155,9 @@ Their logic is simple-no arbitrage without visibility.
 
 Most mid‑market sellers never see this side of the board.
 
-- 
+-
 
-- 
+-
 
 - 3.
 
@@ -199,9 +193,9 @@ Misrepresent the asset and the buyer will walk.
 
 This is one of the quietest deal killers in the mid‑market.
 
-- 
+-
 
-- 
+-
 
 - 4.
 
@@ -263,19 +257,19 @@ Not more pitch decks.
 
 The solution is structural correction at the right altitude before conversations with buyers ever begin.
 
-Four interventions restore alignment: 
+Four interventions restore alignment:
 
 1.
 
-Re-engineer the model to reflect actual revenue geometry. 
+Re-engineer the model to reflect actual revenue geometry.
 
 2.
 
-Translate operational behavior into financial repeatability. 
+Translate operational behavior into financial repeatability.
 
 3.
 
-Stress‑test capital stack compatibility from the buyer’s vantage. 
+Stress‑test capital stack compatibility from the buyer’s vantage.
 
 4.
 
@@ -349,25 +343,17 @@ You get approached, not the other way around.
 
 EXIT READINESS AS A SOVEREIGN STATE Exit Readiness is not a moment-it is a posture. The company must stand in a state of readiness long before external parties appear.
 
-This posture requires five anchors: 
+This posture requires five anchors:
 
 1.
 
-Model Truth 
+Model Truth 2.
 
-2.
+Model Durability 3.
 
-Model Durability 
+Operating Repeatability 4.
 
-3.
-
-Operating Repeatability 
-
-4.
-
-Founder Decentralization 
-
-5.
+Founder Decentralization 5.
 
 Buyer-Aligned Narrative The most difficult anchor is decentralization-removing the founder as the bottleneck of capability.
 
@@ -481,4 +467,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering." date: "2025-08-23" author: "The Analyst Team" slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
---- 
+---
 
 Asset movements decide outcomes in the mid‑market.
 
@@ -91,9 +91,9 @@ It is, in many cases, optional capital that behaves like mandatory supervision.
 
 Asset-Based Lending behaves like infrastructure.
 
-That difference is everything. **Proverbs 13:22
+That difference is everything. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * speaks clearly: a good man leaves an inheritance for his children’s children.
 
@@ -113,9 +113,9 @@ The mid‑market buyer who understands this wins more deals, closes faster, and 
 
 Below is the institutional breakdown.
 
-- 
+-
 
-- 
+-
 
 - Asset-Based Lending is one of the few financing instruments that respects operational reality.
 
@@ -227,9 +227,9 @@ In mid-market ecosystems dominated by private credit and inorganic growth roll-u
 
 The architecture must widen.
 
-- 
+-
 
-- 
+-
 
 - Now shift into deeper structural jurisdiction.
 
@@ -337,9 +337,9 @@ Mezzanine transforms risk into cost.
 
 Operational capability always outperforms risk-cost dynamics over a multi-year hold period.
 
-- 
+-
 
-- 
+-
 
 - Now move deeper.
 
@@ -411,9 +411,9 @@ Asset-Based Lending sees them as liquidity.
 
 This is the entire playbook.
 
-- 
+-
 
-- 
+-
 
 - Now address the Fund-III scenario.
 
@@ -469,9 +469,9 @@ Pathmakers compound velocity.
 
 Asset-Based Lending is velocity architecture.
 
-- 
+-
 
-- 
+-
 
 - Now address exit readiness.
 
@@ -527,9 +527,9 @@ Asset-Based Lending maintains structure.
 
 Mezzanine complicates it.
 
-- 
+-
 
-- 
+-
 
 - Oil and gas presents a special case.
 
@@ -563,9 +563,9 @@ The winners in O&G consolidation use Asset-Based Lending-first structures.
 
 The laggards use mezzanine and pay for the privilege in both time and valuation leakage.
 
-- 
+-
 
-- 
+-
 
 - Now address sponsor psychology.
 
@@ -609,9 +609,9 @@ Asset-Based Lending strengthens trust.
 
 Mezzanine weakens it.
 
-- 
+-
 
-- 
+-
 
 - Now the final institutional mandate.
 
@@ -645,4 +645,3 @@ Technical Mandate: Liquidity Velocity Threshold = 1.35x Operational Throughput.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

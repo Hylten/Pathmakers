@@ -1,5 +1,5 @@
 --- title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle" description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs." date: "2025-09-20" author: "Jonas Hyltén" slug: "structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle"
---- 
+---
 
 # Structuring Liquidity for Complex Corporate Spinoffs Corporate spinoffs are rarely graceful events. They break systems.
 
@@ -81,7 +81,7 @@ They are preventable.
 
 - **Underestimating cash flow disruption
 
-* 
+*
 
 * Executives model accounts receivable as if payer behavior remains unchanged.
 
@@ -89,13 +89,13 @@ It never does.
 
 - **Delaying liquidity until after the carve‑out
 
-* 
+*
 
 * By the time the new entity begins billing, the liquidity window has already tightened.
 
 - **Using capital structures that cannot flex
 
-* 
+*
 
 * A single lender with rigid requirements will stall the spinoff the moment variables shift.
 
@@ -153,4 +153,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

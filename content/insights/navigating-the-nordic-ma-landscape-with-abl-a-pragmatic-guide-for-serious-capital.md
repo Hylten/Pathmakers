@@ -1,5 +1,5 @@
 --- title: "Navigating the Nordic M&A Landscape With Asset-Based Lending: A Pragmatic Guide for Serious Capital" description: "A strategic deep dive into liquidity, private credit, and asset based liquidity engineering for Nordic mid‑market M&A with Pathmaker." date: "2026-01-15" author: "Jonas Hyltén" slug: "navigating-the-nordic-ma-landscape-with-abl-a-pragmatic-guide-for-serious-capital"
---- 
+---
 
 # Navigating the Nordic M&A Landscape With Asset-Based Lending The Nordic mid market has entered an era defined by liquidity friction, tougher regulatory oversight, and an investor base that expects structural mastery rather than optimistic narratives. In this environment, deals do not fall apart due to lack of opportunity.
 
@@ -193,4 +193,3 @@ Book a Strategic Consultation If you require engineered liquidity for a Nordic a
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

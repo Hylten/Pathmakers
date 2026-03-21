@@ -1,5 +1,5 @@
 --- title: "Operational Resilience: Removing Human Friction Fr" description: "Operational Resilience: Removing Human Friction Fr" date: "2025-11-07" author: "Jonas Hyltén" slug: "operational-resilience-removing-human-friction-fr"
---- 
+---
 
 # Operational Resilience. The Discipline of Eliminating Human Friction in M&A Operational resilience is not a slogan.
 
@@ -29,7 +29,7 @@ They fail because human systems were allowed to grow informal, idiosyncratic, or
 
 Informality is the silent enemy of [institutional capital]([Roials Capital](https://roialscapital.com/)).
 
-Once a business crosses 
+Once a business crosses
 
 10 million EBITDA, the founding team’s habits are no longer neutral.
 
@@ -63,19 +63,19 @@ This is the standard institutional capital expects.
 
 This is the standard Pathmaker operationalizes.
 
-The M&A Battlefield. Friction Points That Break Deals There are only four categories of friction in mid‑market M&A. 
+The M&A Battlefield. Friction Points That Break Deals There are only four categories of friction in mid‑market M&A.
 
 1.
 
-Information friction. 
+Information friction.
 
 2.
 
-Decision friction. 
+Decision friction.
 
 3.
 
-Process friction. 
+Process friction.
 
 4.
 
@@ -291,24 +291,21 @@ Covenant stewardship produces covenant-grade operations.
 
 Covenant-grade operations command covenant-grade valuations.
 
-Intelligence Framework. Removing Human Friction in 
+Intelligence Framework. Removing Human Friction in
 
-12 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week 
-1 to 
-2 System extraction and structural mapping.
+12 Weeks Pathmaker applies a structured intelligence framework with execution velocity: Week
+1 to 2 System extraction and structural mapping.
 
 Identify the hidden variables that drive friction.
 
-Week 
-3 to 
+Week 3 to
 5 Hardening of financial truth.
 
 Automated data streams.
 
 Institutional reporting logic.
 
-Week 
-6 to 
+Week 6 to
 8 Mandate architecture.
 
 Decision rights.
@@ -317,8 +314,7 @@ Leadership recalibration.
 
 Cultural reset.
 
-Week 
-9 to 
+Week 9 to
 
 11 Operational mapping.
 
@@ -326,9 +322,7 @@ Process design.
 
 Cycle standardization.
 
-Week 
-
-12 Stress testing across information, operations, and leadership.
+Week 12 Stress testing across information, operations, and leadership.
 
 Institutional readiness.
 
@@ -428,10 +422,10 @@ Operational resilience therefore strengthens creditworthiness.
 
 For clients above the liquidity engineering thresholds:
 
-- Crypto Institutional Liquidity Paths begins at 
+- Crypto Institutional Liquidity Paths begins at
 2 million.
 
-- Public shares Capital Structuring begins at 
+- Public shares Capital Structuring begins at
 5 million.
 
 Operational resilience reduces haircuts.
@@ -464,11 +458,9 @@ Pathmaker. Tactical Intelligence for M&A Hardening Pathmaker does not “advise.
 
 The stance is tactical.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is institutionalization before transaction.
+is institutionalization before transaction.
 
 Pathmaker removes human friction so the business can withstand the intensity of GP diligence.
 
@@ -506,4 +498,3 @@ E. Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

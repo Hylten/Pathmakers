@@ -1,5 +1,5 @@
 --- title: "Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators" description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators from Roials Capital and Hyltén Invest." date: "2026-01-11" author: "Jonas Hyltén" slug: "middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators"
---- 
+---
 
 # Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators Middle market carve-outs are not elegant corporate restructurings. They are messy, high‑friction transactions where legacy systems break, customer relationships wobble, and integration teams often underestimate the grind required to stabilize the asset.
 
@@ -55,26 +55,26 @@ Even fewer have the operational infrastructure to handle the separation cleanly.
 
 When executed well, healthcare carve-outs become strong, defensible platforms with high switching costs and stable revenue bases.
 
-The Strategic Why Behind a Carve-Out Transaction There are only a handful of real strategic reasons a parent divests a business unit. Understanding which one applies determines how you approach the transaction. 
+The Strategic Why Behind a Carve-Out Transaction There are only a handful of real strategic reasons a parent divests a business unit. Understanding which one applies determines how you approach the transaction.
 1.
 
 Strategic Misalignment The business may be profitable, but it does not fit the parent’s forward direction.
 
 These are usually the best carve-out opportunities.
 
-The unit has strong fundamentals and simply needs focused leadership. 
+The unit has strong fundamentals and simply needs focused leadership.
 2.
 
 Capital Reallocation The parent may need capital for core initiatives, and the unit becomes a casualty of prioritization.
 
 These carve-outs often suffer from deferred investment.
 
-Buyers must be ready to rebuild infrastructure quickly. 
+Buyers must be ready to rebuild infrastructure quickly.
 3.
 
 Underperformance Relative to Corporate Expectations The business may not have been unprofitable, but it underperformed the parent’s internal benchmarks.
 
-When evaluated independently, these units often produce healthy margins. 
+When evaluated independently, these units often produce healthy margins.
 4.
 
 Compliance or Operational Headaches This is frequent in healthcare.
@@ -97,11 +97,7 @@ Commercial Rebuild Sales teams in carve-outs are often part-time or underfunded.
 
 Systems Normalization Legacy systems create friction and cost. Replacing them with right-sized platforms reduces overhead and accelerates decision-making.
 
-The First
-
- 
-
-120 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
+The First 120 Days: What Actually Matters The most dangerous mistake buyers make is assuming they have time.
 
 You do not.
 
@@ -109,10 +105,7 @@ Stabilization must happen immediately.
 
 Here is the battle-tested sequence.
 
-Day
-
- 
-1 to Day 
+Day 1 to Day
 
 30 Your single job is stabilization.
 
@@ -132,11 +125,7 @@ Priorities include:
 
 - Managing cultural tension from the transition If you fail here, the rest of the plan does not matter.
 
-Day
-
- 
-
-30 to Day 
+Day 30 to Day
 
 60 This is the diagnostic phase.
 
@@ -150,11 +139,7 @@ You break down unit-level economics by product, service line, or location.
 
 This period generates the real value creation thesis.
 
-Day
-
- 
-
-60 to Day 
+Day 60 to Day
 
 120 This is where the rebuild begins.
 
@@ -276,4 +261,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

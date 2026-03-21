@@ -1,5 +1,5 @@
 --- title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing" description: "A pragmatic guide to strategic liquidity using private credit and asset based liquidity engineering for mid‑market M&A and healthcare carve‑outs." date: "2026-01-03" author: "Jonas Hyltén" slug: "strategic-liquidity-for-ma-the-pathmaker-guide-to-hybrid-financing"
---- 
+---
 
 # Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing Mid market M&A is not a place for improvisation. It rewards capital choreography, not optimism.
 
@@ -253,4 +253,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

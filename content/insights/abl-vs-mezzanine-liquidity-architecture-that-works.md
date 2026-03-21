@@ -1,5 +1,5 @@
 --- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and Nordic market conditions." date: "2025-07-24" author: "Jonas Hyltén" slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
---- 
+---
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity.
 
@@ -9,11 +9,7 @@ Traditional mezzanine structures were built for interest rate regimes that have 
 
 Asset Based Lending architectures are filling the vacuum not because they are aggressive, but because they are mechanically aligned with how cash conversion now occurs in real operating companies.
 
-THE REGIME SHIF
-
-T
-
- The European M&A environment has transitioned into a regime defined by three dominant constraints.
+THE REGIME SHIFT The European M&A environment has transitioned into a regime defined by three dominant constraints.
 
 - Capital providers are prioritizing collateral visibility over projected EBITDA narratives.
 
@@ -47,11 +43,7 @@ This creates a predictable liquidity corridor for acquisitions that does not dep
 
 In a market where institutional buyers require clarity, the capital instrument aligned with physical assets wins.
 
-TECHNICAL MECHANIC
-
-S
-
- Asset-Based Lending and mezzanine structures serve fundamentally different functions inside an M&A capital stack.
+TECHNICAL MECHANICS Asset-Based Lending and mezzanine structures serve fundamentally different functions inside an M&A capital stack.
 
 The differences are not philosophical.
 
@@ -159,9 +151,9 @@ Asset-Based Lending embodies optionality because it grows and contracts with the
 
 Mezzanine consumes optionality because it demands fixed payments from cash flows that may not be stable.
 
-The stewardship principle is anchored in the foundational wisdom of **Proverbs 13:22
+The stewardship principle is anchored in the foundational wisdom of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -195,4 +187,3 @@ It is a structural blueprint for M&A readiness.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

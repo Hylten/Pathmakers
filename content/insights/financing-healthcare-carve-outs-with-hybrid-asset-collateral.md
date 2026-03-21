@@ -1,5 +1,5 @@
 --- title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral" description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and Asset-Based Lending structures supported by hybrid asset collateral." date: "2025-11-28" author: "Jonas Hyltén" slug: "financing-healthcare-carve-outs-with-hybrid-asset-collateral"
---- 
+---
 
 # Financing Healthcare Carve-Outs with Hybrid Asset Collateral Healthcare carve-outs are not clean. They are rarely well organized.
 
@@ -53,7 +53,7 @@ Hybrid collateral turns a constrained deal into a financeable one.
 
 The Three Collateral Pillars Pathmaker Leverages These pillars apply to HNWI and UHNW clients who have complex asset architecture and require institutional-grade structuring.
 
- 
+
 1.
 
 Private Credit Secured Facilities Private credit is the backbone of our Strategic Collateralization work.
@@ -62,7 +62,7 @@ We structure senior and mezzanine facilities that are insulated from the volatil
 
 The collateral can sit outside the operating business, often in completely different sectors, which reduces underwriting resistance.
 
-This gives the buyer securities-based leverage, liquidity compression, and timeline control. 
+This gives the buyer securities-based leverage, liquidity compression, and timeline control.
 2.
 
 Asset-Based Strategic Collateralization Across Nontraditional Collateral Asset-Based Lending is frequently misunderstood.
@@ -73,7 +73,7 @@ Today, it spans a spectrum of verifiable and valuated assets.
 
 Pathmaker uses Asset-Based Lending to open liquidity channels that traditional lenders overlook because their templates do not accommodate off-model collateral.
 
-Asset-Based Lending is particularly effective in carve-outs during the transition window because it can move faster than corporate underwriting. 
+Asset-Based Lending is particularly effective in carve-outs during the transition window because it can move faster than corporate underwriting.
 3.
 
 Hybrid Collateral from Public Shares or Crypto Holdings This is where Pathmaker becomes structurally distinct.
@@ -238,4 +238,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

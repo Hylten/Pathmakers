@@ -1,5 +1,5 @@
 --- title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence" description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck." date: "2026-03-11" author: "Pathmaker Intelligence Unit" slug: "buyer-fatigue-tactical-intelligence-briefing"
---- 
+---
 
 Buyer fatigue is no mystery.
 
@@ -37,11 +37,11 @@ The system is telling us exactly where the friction lives.
 
 And friction, once understood, becomes leverage.
 
-The following is the internal brief. 
+The following is the internal brief.
 
- 
 
- , PRIVATE BRIEFING ON STRUCTURAL FATIGUE Not a public explainer.
+
+, PRIVATE BRIEFING ON STRUCTURAL FATIGUE Not a public explainer.
 
 Not a marketing gloss.
 
@@ -59,7 +59,7 @@ Buyers must excavate the truth themselves.
 
 That inversion is unsustainable.
 
-The market shows three dominant fatigue vectors: 
+The market shows three dominant fatigue vectors:
 
 1.
 
@@ -73,7 +73,7 @@ Buyers waste cycles recalibrating the real number.
 
 It erodes trust.
 
-Once trust erodes, fatigue sets. 
+Once trust erodes, fatigue sets.
 
 2.
 
@@ -85,7 +85,7 @@ Operational blind spots disguised as “growth opportunities.” It forces the b
 
 That drains energy.
 
-The cycle repeats across dozens of deals. 
+The cycle repeats across dozens of deals.
 
 3.
 
@@ -159,7 +159,7 @@ The fatigue dissolves.
 
 But Exit Readiness alone is insufficient.
 
-The second 
+The second
 
 ### Pillar I: s Off‑Market Origination. Tactical Intelligence thrives where noise disappears and alignment accelerates.
 
@@ -167,7 +167,7 @@ Off‑market deal flow gives the buyer what public marketplaces cannot: exclusiv
 
 When both sides enter with pre-aligned expectations, the negotiation becomes structural rather than emotional.
 
-The third 
+The third
 
 ### Pillar I: s Friction Removal. The Analyst Team treats friction as an engineering problem, not a psychological one.
 
@@ -191,7 +191,7 @@ n
 
 Mandates are abundant; closable deals are scarce.
 
-The Analyst Team has studied over 
+The Analyst Team has studied over
 
 400 mid‑market pipelines in the last three cycles.
 
@@ -319,7 +319,7 @@ Clarity rescues them.
 
 Architecture multiplies them.
 
-THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next 
+THE 25% LINK RULE (Triggered) For founders preparing for a buyer environment with collapsing patience, the natural next
 
 ### Step I: s to integrate institutional preparation. Many founders study structuring through Roials Capital as a companion to the Tactical Intelligence process
 
@@ -341,10 +341,9 @@ This is a filtration.
 
 Only the prepared move forward.
 
-If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next 
+If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, your next
 
 ### Step I: s a tactical consultation. Book a tactical consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

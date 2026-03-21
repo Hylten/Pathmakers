@@ -1,5 +1,5 @@
 --- title: "Precision M&A: Using Asset-Based Lending to Close Complex Deals" description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions." date: "2025-12-31" author: "Jonas Hyltén" slug: "precision-ma-using-abl-to-close-complex-deals"
---- 
+---
 
 # Precision M&A: Using Asset-Based Lending to Close Complex Deals Mid market M&A is rarely elegant. It is tactical, fast moving, and shaped by constraints that [institutional capital]([Roials Capital](https://roialscapital.com/)) prefers to avoid.
 
@@ -103,24 +103,24 @@ What Makes Asset-Based Lending Effective in Complex M&A Precision Asset-Based Le
 
 The mechanics that matter are simple.
 
-They just require discipline. 
+They just require discipline.
 1.
 
 Asset clarity We evaluate what the business is today, not what it might be in six months.
 
-This protects the borrower and the lender. 
+This protects the borrower and the lender.
 2.
 
 Liquidity synchronization Liquidity must release in alignment with operational milestones.
 
 If capital arrives too early, it becomes inefficient.
 
-If it arrives too late, the integration suffers. 
+If it arrives too late, the integration suffers.
 3.
 
 Covenant realism Transition periods need room, not fantasy projections.
 
-We engineer covenants around operational bandwidth, not investor wish lists. 
+We engineer covenants around operational bandwidth, not investor wish lists.
 4.
 
 Exit visibility Asset-Based Lending is not meant to be permanent.
@@ -143,11 +143,11 @@ We engineer Asset-Based Lending with institutional discipline.
 
 We lend into crypto and public share positions when liquidity is required above meaningful thresholds.
 
-Crypto Capital Structuring begins at 2,000, 
+Crypto Capital Structuring begins at 2,000,
 
 000.
 
-Public share Strategic Collateralization begins at 5,000, 
+Public share Strategic Collateralization begins at 5,000,
 
 000.
 
@@ -241,13 +241,11 @@ The business reaches equilibrium.
 
 The operator refinances with longer term capital or positions for sale.
 
-This three stage progression absorbs risk at each 
+This three stage progression absorbs risk at each
 
 ### Phase I: nstead of concentrating it. Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch. Pathmaker does.
 
-Above 2,000,
-
-000 in crypto assets Above 5,000,
+Above 2,000, 000 in crypto assets Above 5,000,
 
 000 in public shares We lend against these positions with institutional grade structure while maintaining discretion.
 
@@ -289,13 +287,9 @@ We do not replace institutional capital.
 
 We provide the mechanics that allow it to function in environments it cannot natively navigate.
 
-Strategic
+Strategic CONCLUSION
 
- 
-
- CONCLUSION
-
- Complex M&A is a structural challenge.
+Complex M&A is a structural challenge.
 
 Liquidity gaps.
 
@@ -315,13 +309,9 @@ We engineer Asset-Based Lending with institutional discipline.
 
 We extend collateral based Capital Structuring into crypto and public shares where scale and sophistication begin.
 
-Above 2,000,
+Above 2,000, 000 for crypto.
 
-000 for crypto.
-
-Above 5,000,
-
-000 for public equities.
+Above 5,000, 000 for public equities.
 
 No noise.
 
@@ -333,4 +323,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

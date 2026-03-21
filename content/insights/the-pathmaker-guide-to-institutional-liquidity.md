@@ -1,5 +1,5 @@
 --- title: "The Pathmaker Guide to Institutional Liquidity" description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients." date: "2025-09-17" author: "Jonas Hyltén" slug: "the-pathmaker-guide-to-institutional-liquidity"
---- 
+---
 
 # The Pathmaker Guide to Institutional Liquidity Institutional liquidity is not a theory. It is not a philosophical debate about capital flows or an abstract discussion about enterprise value.
 
@@ -19,21 +19,15 @@ We provide the structural mechanics that let institutional capital move with pre
 
 The Pathmaker Liquidity Framework At its core, our framework is built around four principles.
 
- 
+
 
 1.
 
-Structural discipline 
+Structural discipline 2.
 
-2.
+Collateral clarity 3.
 
-Collateral clarity 
-
-3.
-
-Execution speed 
-
-4. principal authority Each principle is simple on its own.
+Execution speed 4. principal authority Each principle is simple on its own.
 
 Together they form a system that allows for institutional grade liquidity without institutional friction.
 
@@ -61,4 +55,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

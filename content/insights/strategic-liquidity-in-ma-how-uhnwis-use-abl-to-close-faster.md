@@ -1,5 +1,5 @@
 --- title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster" description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions." date: "2025-12-04" author: "Jonas Hyltén" slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
---- 
+---
 
 # Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster Mid-market M&A has shifted. The old model of waiting for traditional lenders, negotiating rigid covenants, and praying for clean diligence data no longer works.
 
@@ -89,7 +89,7 @@ Healthcare targets tend to have:
 
 - Repeatable service lines that generate consistent working capital
 
-- High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last 
+- High reimbursement velocity once cleaned up An Asset-Based Lending lender can get comfortable with these assets even when the corporate parent cannot provide immaculate financials for the last
 
 36 months.
 
@@ -99,18 +99,18 @@ Asset-Based Lending gives them liquidity that does not collapse the moment a dil
 
 How UHNWIs Use Asset-Based Lending as a Closing Weapon Asset-Based Lending is not the core financing. It is the trigger mechanism.
 
-The strategic advantage comes from how it is deployed. 
+The strategic advantage comes from how it is deployed.
 1.
 
 Secure early liquidity before the seller expects it Institutional buyers need approvals.
 
 UHNW buyers do not.
 
-With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish 
+With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish
 
 ### Phase I: diligence. This intimidates sellers.
 
-It also accelerates concessions when speed becomes part of the negotiation narrative. 
+It also accelerates concessions when speed becomes part of the negotiation narrative.
 2.
 
 Hedge diligence gaps without renegotiating the full capital stack Diligence in carve-outs always reveals something unpleasant.
@@ -135,7 +135,7 @@ Asset-Based Lending lenders, especially private ones, typically allow structured
 
 The seller does not sense weakness.
 
-The close stays on track. 
+The close stays on track.
 3.
 
 Combine Asset-Based Lending with personal liquidity for a hybrid strike structure UHNW buyers frequently pair Asset-Based Lending availability with personal liquidity.
@@ -146,7 +146,7 @@ But to eliminate every possible closing delay.
 
 A common approach is:
 
-- 40 to 
+- 40 to
 
 60 percent of purchase price covered by an Asset-Based Lending facility
 
@@ -154,7 +154,7 @@ A common approach is:
 
 - Immediate follow-on liquidity reserved for post-close stabilization This hybrid structure allows them to close faster than PE firms that must syndicate or seek LP approval.
 
-Velocity is the real advantage. 
+Velocity is the real advantage.
 4.
 
 Use Asset-Based Lending as a defensive tool to take targets off the market early When a seller sees a buyer with ready liquidity, they often accelerate exclusivity.
@@ -185,19 +185,17 @@ Asset-Based Lending:
 
 - Provides stability post-close
 
-- Enables growth without touching working capital A common UHNW playbook is: 
+- Enables growth without touching working capital A common UHNW playbook is:
 
 1.
 
-Use Asset-Based Lending to close. 
+Use Asset-Based Lending to close.
 
 2.
 
-Bring in private credit 
+Bring in private credit
 
-60 to 
-
-120 days post-close. 
+60 to 120 days post-close.
 
 3.
 
@@ -227,7 +225,7 @@ This is the kind of underwriting UHNW buyers prefer because it is aligned with r
 
 The Strategic Liquidity Stack Used by UHNW Operators Most UHNW buyers with meaningful deal flow use some variation of the following liquidity stack.
 
- 
+
 1.
 
 Pre-arranged Asset-Based Lending Facility This is the front line.
@@ -238,19 +236,19 @@ A relationship-driven facility with:
 
 - Pre-approved industries
 
-- Simple availability mechanics It becomes a deal-closing tool rather than a multi-month underwriting process. 
+- Simple availability mechanics It becomes a deal-closing tool rather than a multi-month underwriting process.
 2.
 
 Revolving Personal or Family Office Credit Line This is the shock absorber.
 
 When diligence reveals something unexpected, personal liquidity covers the gap without slowing the close.
 
-Speed never breaks. 
+Speed never breaks.
 3.
 
 Post-Close Private Credit Takeout This resets leverage to sane levels after the dust settles.
 
-It also frees personal liquidity for the next acquisition. 
+It also frees personal liquidity for the next acquisition.
 4.
 
 Cash Reserve for Post-Close Turnover In healthcare carve-outs, the first ninety days are the danger zone.
@@ -301,4 +299,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

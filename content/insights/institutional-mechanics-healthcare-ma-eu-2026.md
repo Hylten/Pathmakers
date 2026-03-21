@@ -1,5 +1,5 @@
 --- title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift" description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment." date: "2025-08-22" author: "Jonas Hyltén — The Analyst Team" slug: "institutional-mechanics-healthcare-ma-eu-2026"
---- 
+---
 
 The 2026 European regime shift forces healthcare acquirers, operators, credit sponsors, and institutional sellers into a structural rethink.
 
@@ -29,15 +29,15 @@ No summaries.
 
 Conviction only.
 
-A good man leaves an inheritance to his children's children. **Proverbs 13:22
+A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
-- 
+-
 
-- 
+-
 
 - Institutional pressure now compounds across four layers: regulatory cadence, capital cost, ownership legitimacy, and operator resilience.
 
@@ -291,8 +291,7 @@ This highlights a structural truth: healthcare platforms are not valued for thei
 
 They are valued for their compliance systems, their clinical governance, their documentation integrity, their workforce architecture, and their ability to execute bolt-ons without reintroducing risk.
 
-A platform with 
-4 million EBITDA and institutional governance can outrank a platform with 
+A platform with 4 million EBITDA and institutional governance can outrank a platform with
 6 million EBITDA and fragmented systems.
 
 Governance is the multiplier.
@@ -499,13 +498,11 @@ They move before the crowd.
 
 They act with structural clarity.
 
-For platforms preparing to exit, 
+For platforms preparing to exit,
 
-# THE MANDAT
+# THE MANDAT E
 
-E
-
- is simple: become institutionally undeniable.
+is simple: become institutionally undeniable.
 
 Book a tactical consultation.
 
@@ -513,4 +510,3 @@ M&A Friction Index: 0.42.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

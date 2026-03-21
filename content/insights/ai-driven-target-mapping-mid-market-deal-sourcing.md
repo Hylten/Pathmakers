@@ -1,5 +1,5 @@
 --- title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery" description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market." date: "2025-06-28" author: "Pathmaker Analyst Team" slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
---- 
+---
 
 The conventional search stack was always too blunt for the mid‑market.
 
@@ -151,7 +151,7 @@ The structural backbone of AI-driven target mapping runs through five analytical
 
 Each is simple in description but complex in execution.
 
-You combine them and you get something rare: foresight that actually holds up under the weight of real transactions. 
+You combine them and you get something rare: foresight that actually holds up under the weight of real transactions.
 
 1.
 
@@ -161,7 +161,7 @@ The pulse reveals whether the company is growing into momentum or shrinking out 
 
 Slowdowns rarely occur in isolation; they cluster.
 
-The machine catches the cluster. 
+The machine catches the cluster.
 
 2.
 
@@ -175,7 +175,7 @@ Retreat from marginal geographies.
 
 Small, easily ignored decisions.
 
-The machine interprets these as signals of owner psychology: retreat, consolidation, or preparation for transition. 
+The machine interprets these as signals of owner psychology: retreat, consolidation, or preparation for transition.
 
 3.
 
@@ -183,13 +183,13 @@ Leadership Intent Nothing is as predictive as human behavior.
 
 CEO statements, board minutes, interviews, LinkedIn changes, retention of external advisors-all become part of the inference stack.
 
-Patterns emerge long before succession plans are formalized. 
+Patterns emerge long before succession plans are formalized.
 
 4.
 
 Market Inefficiency Mapping The algorithm identifies where pricing power falters, where competition tightens, where regulation shifts the incentive structure.
 
-Companies positioned on the wrong side of this curve become prime targets for recapitalization or acquisition before external pressure forces reactive decisions. 
+Companies positioned on the wrong side of this curve become prime targets for recapitalization or acquisition before external pressure forces reactive decisions.
 
 5.
 
@@ -399,4 +399,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

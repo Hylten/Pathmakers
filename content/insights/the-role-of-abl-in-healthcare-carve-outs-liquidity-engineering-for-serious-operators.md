@@ -1,5 +1,5 @@
 --- title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators" description: "A tactical analysis of how asset based Monetization Architecture drives liquidity, speed, and structural certainty in healthcare carve-outs for HNWI and UHNW investors." date: "2025-09-08" author: "Jonas Hyltén" slug: "the-role-of-abl-in-healthcare-carve-outs-liquidity-engineering-for-serious-operators"
---- 
+---
 
 # The Role of Asset-Based Lending in Healthcare Carve-Outs Healthcare carve-outs are not theoretical puzzles. They are operationally dense, politically constrained, and structurally unforgiving transactions that expose weaknesses in balance sheets and capital stacks.
 
@@ -33,11 +33,9 @@ When Private Credit Alone Is Not Enough Private credit is still critical, but in
 
 Private credit capital is expensive when used as working capital instead of structured leverage.
 
-Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first 
+Private credit lenders often require covenants that healthcare carve-out entities cannot satisfy during the first
 
-90 to 
-
-180 days.
+90 to 180 days.
 
 Asset-Based Lending complements private credit by absorbing the volatility.
 
@@ -93,10 +91,10 @@ Optional structures for public shares or digital assets, depending on the invest
 
 At Pathmaker, these configurations are engineered around strict thresholds.
 
-Crypto collateral: 
+Crypto collateral:
 2 million minimum.
 
-Public stock Strategic Collateralization: 
+Public stock Strategic Collateralization:
 5 million minimum.
 
 We maintain these thresholds because they preserve speed, accuracy, and institutional compatibility.
@@ -149,4 +147,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

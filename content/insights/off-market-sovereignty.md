@@ -1,5 +1,5 @@
 --- title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits" description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits." date: "2026-01-11" author: "Pathmaker Analyst Group" slug: "off-market-sovereignty"
---- 
+---
 
 The auction model is cracking.
 
@@ -25,7 +25,7 @@ That is the truth the mid‑market now lives with.
 
 A truth most advisors avoid because acknowledging it would dismantle their own business model overnight.
 
-We begin. ( 
+We begin. (
 
 ### Phase I:
 
@@ -93,7 +93,7 @@ They want pathways to completion, not noisy rooms.
 
 Off‑market alternatives emerged not as innovation, but as correction.
 
-INTERNAL TONE ( 
+INTERNAL TONE (
 
 ### Phase II: ): PRINCIPAL VOICE The mid‑market deserves clarity. Off‑market is not secrecy.
 
@@ -145,7 +145,7 @@ Exit readiness is not a document.
 
 Exit readiness is a posture.
 
-INTERNAL BYPASS ( 
+INTERNAL BYPASS (
 
 ### Phase II:
 
@@ -191,7 +191,7 @@ Intentionally.
 
 With the maturity to acknowledge that fewer, better conversations outperform crowded rooms every time.
 
-We now move deeper into structural implications. 
+We now move deeper into structural implications.
 
 1.
 
@@ -205,7 +205,7 @@ They do not reflect operational seasonality, customer cycles, or sector‑specif
 
 Off‑market architecture aligns the process with the company’s operational cadence, not an advisor’s calendar.
 
-The buyer enters a living, functioning organism-not a staged theatre environment. 
+The buyer enters a living, functioning organism-not a staged theatre environment.
 
 2.
 
@@ -221,7 +221,7 @@ Buyers waste cycles deciphering inconsistent reporting.
 
 Off‑market processes allow the seller to build a real, coherent, audit‑ready data spine months before conversations begin.
 
-The founder benefits. The buyer benefits. Surprises disappear. 
+The founder benefits. The buyer benefits. Surprises disappear.
 
 3.
 
@@ -239,7 +239,7 @@ Speed increases.
 
 Trust increases.
 
-And trust is the currency of the mid‑market. 
+And trust is the currency of the mid‑market.
 
 4.
 
@@ -255,7 +255,7 @@ Confidentiality weakens.
 
 Staff begin to sense movement.
 
-A tight off‑market corridor minimizes vectors of uncertainty. 
+A tight off‑market corridor minimizes vectors of uncertainty.
 
 5.
 
@@ -275,7 +275,7 @@ Off‑market reduces the founder’s involvement to calibrated, essential moment
 
 No waste.
 
-No theatre. 
+No theatre.
 
 6.
 
@@ -285,7 +285,7 @@ It can be evaluated across two or three.
 
 Off‑market allows this.
 
-Auctions do not. 
+Auctions do not.
 
 7.
 
@@ -387,4 +387,3 @@ Book a tactical consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

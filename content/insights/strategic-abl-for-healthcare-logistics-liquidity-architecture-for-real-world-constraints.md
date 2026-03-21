@@ -1,5 +1,5 @@
 --- title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints" description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures." date: "2025-12-04" author: "Jonas Hyltén" slug: "strategic-abl-for-healthcare-logistics-liquidity-architecture-for-real-world-constraints"
---- 
+---
 
 # Strategic Asset-Based Lending for Healthcare Logistics Healthcare logistics is not a romance story. It is not a turn‑it‑around‑with‑passion sector.
 
@@ -137,10 +137,9 @@ Final Thought Healthcare logistics rewards discipline, not optimism. Strategic A
 
 Pathmaker builds the capital structures that allow operators and principals to move with intent while remaining insulated from volatility.
 
-If you need to architect liquidity that can withstand the realities of healthcare logistics, carve outs, and mid market consolidation, the next 
+If you need to architect liquidity that can withstand the realities of healthcare logistics, carve outs, and mid market consolidation, the next
 
 ### Step I: s simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

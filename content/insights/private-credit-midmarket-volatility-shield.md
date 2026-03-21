@@ -1,17 +1,17 @@
 --- title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle" description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation." date: "2025-07-27" author: "Jonas Hyltén — Analyst Team" slug: "private-credit-midmarket-volatility-shield"
---- 
+---
 
-- 
+-
 
-- 
+-
 
 - title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle" description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation." date: "2025-07-27" author: "Jonas Hyltén
 
 - Analyst Team" slug: "private-credit-midmarket-volatility-shield" keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 
-- 
+-
 
-- 
+-
 
 - The mid‑market is fracturing.
 
@@ -97,31 +97,31 @@ Fragmented mid‑market ecosystems typically display five structural failures:
 
 - **Information Asymmetry:
 
-* 
+*
 
 * Sellers lack institutional financials; buyers misprice operational risk.
 
 - **Timing Incoherence:
 
-* 
+*
 
 * Closing windows collapse before diligence is completed.
 
 - **Liquidity Fragility:
 
-* 
+*
 
 * Working capital absorbs shocks unpredictably.
 
 - **Jurisdictional Misalignment:
 
-* 
+*
 
 * Cross-border entities create compliance drag.
 
 - **Exit Illiquidity:
 
-* 
+*
 
 * Owners underestimate the capital needed to secure competitive bids.
 
@@ -161,27 +161,27 @@ Strategic Collateralization follows three rules:
 
 - **Rule One: Liquidity precedes valuation.
 
-* 
+*
 
-* 
+*
 
 - **Rule Two: Valuation precedes negotiation.
 
-* 
+*
 
-* 
+*
 
 - **Rule Three: Negotiation precedes premium.
 
-* 
+*
 
 * Break any rule and the exit deteriorates.
 
 Follow all three and the exit compounds.
 
-Private credit enforces these rules structurally. **Proverbs 13:22
+Private credit enforces these rules structurally. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -211,19 +211,19 @@ Private credit operates across three vectors:
 
 - **Vector A: Pre‑M&A Liquidity Provisioning
 
-* 
+*
 
-* 
+*
 
 - **Vector B: Operational Smoothing for EBITDA Defense
 
-* 
+*
 
-* 
+*
 
 - **Vector C: Bid‑Side Enhancement and Structured Buyer Alignment
 
-* 
+*
 
 * Vector A is foundational.
 
@@ -306,7 +306,7 @@ The Analyst Team sees the same pattern across every mid‑market vertical: the b
 Not optimized.
 
 Engineered.
- With precision. With sequencing. With silence. No noise. No drift.
+With precision. With sequencing. With silence. No noise. No drift.
 
 Only execution.
 
@@ -588,4 +588,3 @@ Mandate: 1.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

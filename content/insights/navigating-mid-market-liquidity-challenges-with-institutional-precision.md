@@ -1,5 +1,5 @@
 --- title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision" description: "A strategic deep dive into mid-market liquidity constraints and how Asset-Based Lending and private credit structures create durable optionality for HNWI and UHNW investors." date: "2025-09-27" author: "Jonas Hyltén" slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
---- 
+---
 
 # Navigating Mid-Market Liquidity Challenges With Institutional Precision Mid-market operators face liquidity stress long before the outside world notices. The numbers may look adequate.
 
@@ -17,7 +17,7 @@ They try to fix liquidity issues with optimism instead of structural capital.
 
 Pathmaker exists to correct that pattern.
 
-We 
+We
 
 ### Step I:
 
@@ -51,7 +51,7 @@ Institutional private equity has alternatives.
 
 They can recapitalize.
 
-They can 
+They can
 
 # Layer M: ezzanine. They can negotiate maturity extensions.
 
@@ -206,9 +206,9 @@ Calm creates strategy.
 Strategy creates value.
 
 The Pathmaker Methodology Pathmaker operates with a battle-tested methodology, developed through years of work across mid-market transactions, carve-outs, and complex liquidity cases. Our methodology follows a simple but disciplined flow: Assessment.
- Collateral mapping. Structural engineering. Capital deployment. Governance calibration. Exit optionality.
+Collateral mapping. Structural engineering. Capital deployment. Governance calibration. Exit optionality.
 
-Each 
+Each
 
 ### Step I:
 
@@ -267,7 +267,7 @@ Pathmaker structures protect against compression before it becomes catastrophic.
 The Mid-Market Carve-Out Trap Carve-outs are rarely priced correctly. The purchase price often reflects only the visible components.
 
 The invisible liabilities emerge afterward.
- Transition costs. Compliance gaps. Legacy technology. Vendor repricing. HR integration.
+Transition costs. Compliance gaps. Legacy technology. Vendor repricing. HR integration.
 
 Payor mix distortions.
 
@@ -333,8 +333,5 @@ If liquidity is the bloodstream of your business, Pathmaker is the vascular arch
 
 Book a strategic consultatio
 
-n
+n Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

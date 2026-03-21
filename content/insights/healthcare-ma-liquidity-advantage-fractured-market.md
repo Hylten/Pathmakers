@@ -1,5 +1,5 @@
 --- title: "Healthcare M&A: Liquidity as the Final Advantage in a Fractured Market" description: "A principal-level institutional briefing on liquidity asymmetry, exit readiness, and frictionless M&A architecture in mid‑market healthcare." date: "2025-11-10" author: "Jonas Hyltén — The Analyst Team" slug: "healthcare-ma-liquidity-advantage-fractured-market"
---- 
+---
 
 Liquidity decides outcomes.
 
@@ -47,9 +47,9 @@ Certainty is liquidity in motion.
 
 Healthcare M&A is no longer about strategy.
 
-It is about readiness. **Proverbs 13:22
+It is about readiness. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -63,9 +63,7 @@ Foundations first.
 
 Then the mechanisms.
 
-Then THE MANDAT
-
-E. THE FRACTURED MARKET Healthcare does not fracture uniformly. It fractures along liquidity-sensitive fault lines.
+Then THE MANDAT E. THE FRACTURED MARKET Healthcare does not fracture uniformly. It fractures along liquidity-sensitive fault lines.
 
 - Provider roll-ups stalled when interest rates removed their old arbitrage spread.
 
@@ -227,23 +225,23 @@ No breath wasted.
 
 No cycles lost.
 
-Pathmaker in healthcare M&A requires five pillars: 
+Pathmaker in healthcare M&A requires five pillars:
 
 1.
 
-Liquidity channels that bypass traditional lender sequencing. 
+Liquidity channels that bypass traditional lender sequencing.
 
 2.
 
-Underwriting intelligence built on vertical-specific metrics. 
+Underwriting intelligence built on vertical-specific metrics.
 
 3.
 
-Off‑market sourcing that avoids competitive devaluation. 
+Off‑market sourcing that avoids competitive devaluation.
 
 4.
 
-Exit readiness frameworks that remove diligence volatility. 
+Exit readiness frameworks that remove diligence volatility.
 
 5.
 
@@ -467,13 +465,11 @@ Sellers understand this.
 
 Buyers who fail to adapt will discover the reality too late: capital speed has replaced capital volume as the determining factor of who controls mid-market healthcare.
 
-For institutional buyers, founder-led groups, and strategic operators, 
+For institutional buyers, founder-led groups, and strategic operators,
 
-# THE MANDAT
+# THE MANDAT E
 
-E
-
- is clear: Engineer liquidity.
+is clear: Engineer liquidity.
 
 Prepare exits.
 
@@ -491,4 +487,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

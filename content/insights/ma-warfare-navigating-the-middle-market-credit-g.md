@@ -1,5 +1,5 @@
 --- title: "M&A Warfare: Navigating The Middle Market Credit G" description: "M&A Warfare: Navigating The Middle Market Credit G" date: "2025-10-11" author: "Jonas Hyltén" slug: "ma-warfare-navigating-the-middle-market-credit-g"
---- 
+---
 
 # M&A Warfare. Commanding the Middle-Market Credit Gap The middle market is no longer a marketplace.
 
@@ -170,7 +170,7 @@ It is an economic necessity.
 Execution Velocity as a Competitive Weapon The middle market suffers from inertia. Owners know changes are needed.
 
 They defer anyway.
- Systems upgrades. Reporting modernization. Organizational redesign. Leadership formalization. Capital restructuring.
+Systems upgrades. Reporting modernization. Organizational redesign. Leadership formalization. Capital restructuring.
 
 Each deferred decision compounds exposure.
 
@@ -386,4 +386,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

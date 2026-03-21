@@ -1,5 +1,5 @@
 --- title: "The Strategic Function of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators" description: "A deep institutional analysis of asset‑based lending structures in healthcare carve‑outs, engineered to reduce M&A friction, accelerate exit readiness, and weaponize liquidity as a tactical advantage in mid‑market deal origination." date: "2026-01-23" author: "The Analyst Team" slug: "abl-healthcare-carveouts-liquidity-engineering"
---- 
+---
 
 Healthcare carve-outs punish slow operators.
 
@@ -25,9 +25,9 @@ The market respects precision.
 
 Buyers reward readiness.
 
-Sellers capture delta. **Proverbs 13:22
+Sellers capture delta. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -107,19 +107,19 @@ Each stream can be treated as collateral with differentiated discount structures
 
 Good operators know exactly how far they can stretch each class without compromising covenant chemistry.
 
-A strong carve‑out Asset-Based Lending structure does four things: 
+A strong carve‑out Asset-Based Lending structure does four things:
 
 1.
 
-Extracts latent liquidity from the target division without contaminating the parent entity’s capital stack. 
+Extracts latent liquidity from the target division without contaminating the parent entity’s capital stack.
 
 2.
 
-Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution. 
+Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution.
 
 3.
 
-Straightens reporting lines so that an acquirer sees the asset, not the chaos. 
+Straightens reporting lines so that an acquirer sees the asset, not the chaos.
 
 4.
 
@@ -167,7 +167,7 @@ The strongest operators use Asset-Based Lending to engineer this stance months b
 
 Because when the acquirer appears, the clock compresses.
 
-The operator must demonstrate three things in under 
+The operator must demonstrate three things in under
 
 30 minutes:
 
@@ -515,9 +515,9 @@ The carve‑out is the corridor.
 
 The exit is the endpoint.
 
-And the endpoint rewards the operator who engineered readiness before the market asked for it. **Proverbs 13:22
+And the endpoint rewards the operator who engineered readiness before the market asked for it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -527,10 +527,9 @@ Operators who hesitate lose quietly.
 
 Book a tactical consultation.
 
-Metric: Borrowing-base efficiency target: 
+Metric: Borrowing-base efficiency target:
 
 78 percent minimum.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "The Mid-Market Guide to Sovereign Capital" description: "A strategic guide for HNWI and UHNW investors using private credit and asset based liquidity engineering to unlock liquidity in the mid-market." date: "2025-09-05" author: "Jonas Hyltén" slug: "the-mid-market-guide-to-sovereign-capital"
---- 
+---
 
 # The Mid-Market Guide to Sovereign Capital The mid-market has always been where capital inefficiencies surface first. And where opportunity grows fastest for those who understand the mechanics.
 
@@ -65,19 +65,19 @@ We serve the layer of capital that sits between private equity rigor and family 
 
 The Structural Role of Private Credit Private credit is the backbone of sovereign capital behavior. It is predictable, collateral structured, and suited for operators who need liquidity without timeline friction.
 
-In the mid-market, private credit solves four major issues: 
+In the mid-market, private credit solves four major issues:
 
 1.
 
-Liquidity gaps during acquisitions 
+Liquidity gaps during acquisitions
 
 2.
 
-Delays between closing and operational stabilization 
+Delays between closing and operational stabilization
 
 3.
 
-Balance sheet optimization for tax and leverage 
+Balance sheet optimization for tax and leverage
 
 4.
 
@@ -113,14 +113,14 @@ It is not a turnaround fantasy.
 
 It is a mechanics based tool that gives buyers and operators time, space, and leverage.
 
-The Three Collateral Buckets That Create HNWI Sovereignty Pathmaker focuses on three advanced collateral Institutional Liquidity Paths categories. Each is designed for investors with real balance sheet complexity and non linear liquidity patterns. 
+The Three Collateral Buckets That Create HNWI Sovereignty Pathmaker focuses on three advanced collateral Institutional Liquidity Paths categories. Each is designed for investors with real balance sheet complexity and non linear liquidity patterns.
 1.
 
 Private Credit and Asset-Based Lending This is the core.
 
 It is engineered for deal flow, acquisitions, carve outs, and operational transitions.
 
-It allows investors to maintain strategic control without dilution. 
+It allows investors to maintain strategic control without dilution.
 2.
 
 Crypto Monetization Architecture Minimum threshold is 2,000,
@@ -141,7 +141,7 @@ Used correctly, it transforms volatile digital assets into working capital.
 
 Used incorrectly, it becomes an exposure.
 
-Pathmaker only participates when the investor has institutional grade custody, asset allocation discipline, and a non emotional approach to digital markets. 
+Pathmaker only participates when the investor has institutional grade custody, asset allocation discipline, and a non emotional approach to digital markets.
 3.
 
 Public Share Monetization Architecture Minimum threshold is 5,000,
@@ -330,4 +330,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

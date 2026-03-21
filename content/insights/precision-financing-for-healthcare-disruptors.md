@@ -1,5 +1,5 @@
 --- title: "Precision Financing for Healthcare Disruptors" description: "A deep analysis of liquidity engineering and asset based Capital Structuring structures purpose built for healthcare operators and investors requiring decisive private credit solutions." date: "2025-06-30" author: "Jonas Hyltén" slug: "precision-financing-for-healthcare-disruptors"
---- 
+---
 
 # Precision Financing for Healthcare Disruptors Healthcare is not a gentle market. It never has been.
 
@@ -195,8 +195,5 @@ We give our clients the ability to operate without hesitation.
 
 Book a strategic consultatio
 
-n
+n Access is restricted to approved mandates.
 
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

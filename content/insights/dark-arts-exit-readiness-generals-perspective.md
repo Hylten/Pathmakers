@@ -1,5 +1,5 @@
 --- title: "The Dark Arts of Exit Readiness: A General’s Perspective" description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events." date: "2025-06-24" author: "Jonas Hyltén — The Analyst Team" slug: "dark-arts-exit-readiness-generals-perspective"
---- 
+---
 
 Exit readiness is not a procedural exercise.
 
@@ -181,9 +181,9 @@ Make the business feel like a platform.
 
 Platforms command price.
 
-- 
+-
 
-- 
+-
 
 - Monetization Architecture Liquidity is engineered long before the sale.
 
@@ -219,9 +219,9 @@ Liquidity is sovereignty.
 
 And sovereignty is a precondition for a clean exit.
 
-- 
+-
 
-- 
+-
 
 - OFF‑MARKET DEAL ORIGINATION Pathmakers never enter public lanes.
 
@@ -435,9 +435,9 @@ A buyer who feels clarity advances.
 
 The art lies in engineering those feelings through structural preparation.
 
-THE BIBLICAL LAW OF LEGACY **Proverbs 13:22
+THE BIBLICAL LAW OF LEGACY "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children's children.
 
@@ -472,11 +472,11 @@ Those without preparation enter with hope.
 Hope collapses under diligence.
 
 If you intend to win your exit-engineer it now.
- Friction removed. Liquidity structured. Narrative hardened. Intelligence mapped. Position controlled.
+Friction removed. Liquidity structured. Narrative hardened. Intelligence mapped. Position controlled.
 
 The rest becomes inevitable.
 
-Technical mandate: Zero‑friction diligence environment by D‑ 
+Technical mandate: Zero‑friction diligence environment by D‑
 
 45.
 
@@ -484,4 +484,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

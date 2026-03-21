@@ -1,5 +1,5 @@
 --- title: "Operational Resilience in the Nordic Mid‑Market: A Principal Doctrine for Exit‑Ready Enterprises" description: "A high-density institutional briefing on Nordic operational resilience, exit readiness, off‑market deal flow, and liquidity engineering for mid‑market operators requiring frictionless M&A throughput." date: "2026-01-06" author: "Tactical Intelligence – Analyst Team" slug: "operational-resilience-nordic-mid-market"
---- 
+---
 
 Operational resilience in the Nordics is no longer a functional competence.
 
@@ -35,9 +35,9 @@ The kind that de-risks capital allocation, accelerates Fund‑III deployment cyc
 
 The Nordics reward operators who engineer structural trust.
 
-The market punishes those who rely on narrative alone. **Proverbs 13:22
+The market punishes those who rely on narrative alone. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -127,8 +127,7 @@ Distributed process governance.
 
 Modular production.
 
-Tier‑
-2 supplier activation frameworks.
+Tier‑ 2 supplier activation frameworks.
 
 Scandinavian companies with operational sovereignty show a resilience multiple of two to three times their peers during disruptions.
 
@@ -330,9 +329,9 @@ For survival.
 
 For dominance.
 
-For continuity. **Proverbs 13:22
+For continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -343,4 +342,3 @@ Resilience Delta: 27.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

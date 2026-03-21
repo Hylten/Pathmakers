@@ -1,5 +1,5 @@
 --- title: "Sovereign Capital as a Mid‑Market Force Multiplier" description: "A high‑density institutional briefing on sovereign capital, mid‑market power dynamics, exit readiness architecture, liquidity engineering, and off‑market acquisition intelligence." date: "2026-03-01" author: "The Analyst Team" slug: "sovereign-capital-mid-market-force-multiplier"
---- 
+---
 
 Sovereign capital behaves differently in the mid‑market than in the upper‑market.
 
@@ -31,9 +31,9 @@ High yield.
 
 Low noise.
 
-Clean execution. **Proverbs 13:22
+Clean execution. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : capital migrates.
 
@@ -374,7 +374,7 @@ Its presence signals legitimacy.
 It signals durability.
 
 It signals long‑term viability.
- Suppliers react. Customers respond. Talent stabilizes. Boards harden. Counterparties calm.
+Suppliers react. Customers respond. Talent stabilizes. Boards harden. Counterparties calm.
 
 The entire ecosystem senses the shift.
 
@@ -556,11 +556,9 @@ No summaries.
 
 No recaps.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- stands: Operators who want to command sovereign interest must build institutional posture now.
+stands: Operators who want to command sovereign interest must build institutional posture now.
 
 Technical Control Metric: Audit Variance Delta ≤ 1.5%.
 
@@ -568,4 +566,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

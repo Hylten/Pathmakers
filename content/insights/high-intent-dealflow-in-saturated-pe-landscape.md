@@ -1,5 +1,5 @@
 --- title: "The Principal Logic of High‑Intent Dealflows in a Saturated PE Landscape" description: "Analyst-level structural briefing on exit readiness, mid‑market deal intent, and frictionless off‑market origination under the Pathmaker architecture." date: "2025-07-22" author: "Pathmaker Analyst Team" slug: "high-intent-dealflow-in-saturated-pe-landscape"
---- 
+---
 
 The supply of capital is no longer the constraint.
 
@@ -409,4 +409,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

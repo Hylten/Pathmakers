@@ -1,5 +1,5 @@
 --- title: "The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals" description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and UHNW investors can unlock deal flow using Private Credit and Asset-Based liquidity engineering with crypto liquidity." date: "2025-06-24" author: "Jonas Hyltén" slug: "the-nordic-ma-outlook-leveraging-crypto-liquidity-for-mid-market-deals"
---- 
+---
 
 # The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals The Nordic M&A landscape is shifting, quietly but decisively. Not in dramatic swings or headline buyouts, but in the deeper undercurrents of mid-market transactions where real value creation still happens.
 
@@ -213,11 +213,9 @@ We provide the structural mechanics so our clients can move faster, negotiate be
 
 How HNWI and UHNW Investors Should Position Themselves Now Over the next
 
- 
 
-12 to 
 
-24 months, the most attractive Nordic deals will be won by investors who prepare their liquidity profile before entering negotiations.
+12 to 24 months, the most attractive Nordic deals will be won by investors who prepare their liquidity profile before entering negotiations.
 
 This preparation includes:
 
@@ -257,4 +255,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

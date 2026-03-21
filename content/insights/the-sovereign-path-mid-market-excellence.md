@@ -1,5 +1,5 @@
 --- title: "The Sovereign Path: Mid-Market Excellence" description: "A pragmatic examination of liquidity, private credit, and asset based liquidity engineering strategies for mid‑market operators and HNWI investors." date: "2026-03-08" author: "Jonas Hyltén" slug: "the-sovereign-path-mid-market-excellence"
---- 
+---
 
 # The Sovereign Path: Mid-Market Excellence The mid‑market is where theory dies and operational truth begins. It is where operators learn that capital does not reward sentiment.
 
@@ -57,4 +57,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

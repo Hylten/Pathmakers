@@ -1,5 +1,5 @@
 --- title: "Unlocking Mid‑Market Growth With Private Credit" description: "A strategic analysis of how private credit and asset based liquidity engineering create liquidity advantages for mid‑market operators and investors." date: "2025-10-08" author: "Jonas Hyltén" slug: "unlocking-midmarket-growth-with-private-credit"
---- 
+---
 
 # Unlocking Mid-Market Growth With Private Credit Mid‑market operators do not need inspirational slogans. They need liquidity, precision, and structural clarity.
 
@@ -115,11 +115,11 @@ We are comfortable with operational chaos as long as collateral is sound and the
 
 Liquidity for High Net Worth and Ultra High Net Worth Investors HNWI and UHNW investors require capital that respects two realities:
 
- 
+
 
 1.
 
-Their portfolios contain non‑traditional assets. 
+Their portfolios contain non‑traditional assets.
 
 2.
 
@@ -139,12 +139,12 @@ You direct the strategy.
 
 Public Share Asset-Backed Frameworks: Minimum Threshold
 
- 
+
 5 Million Public equity positions often sit idle during high‑velocity deal environments.
 
 They are valuable, but not liquid enough to deploy quickly without damaging the long‑term strategy.
 
-Pathmaker solves this by Capital Structuring against public shares with a minimum threshold of 
+Pathmaker solves this by Capital Structuring against public shares with a minimum threshold of
 5 million.
 
 This creates:
@@ -161,10 +161,10 @@ This creates:
 
 Crypto Strategic Collateralization: Minimum Threshold
 
- 
+
 2 Million Digital assets are volatile, but they are also collateral.
 
-Pathmaker lends against crypto positions with a minimum threshold of 
+Pathmaker lends against crypto positions with a minimum threshold of
 2 million.
 
 We do not treat crypto as speculative hype.
@@ -235,7 +235,7 @@ Pathmaker is built for exactly this environment.
 
 What Operators Should Expect in the Next
 
- 
+
 
 24 Months Mid‑market liquidity will tighten.
 
@@ -267,4 +267,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

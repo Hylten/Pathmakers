@@ -1,5 +1,5 @@
 --- title: "Private Credit as the Silent Engine of Mid-Market M&A" description: "Analyst-grade brief on how private credit restructures mid-market M&A, accelerates exit readiness, and neutralizes friction through liquidity engineering, covenant design, and off-market acquisition intelligence." date: "2025-11-01" author: "The Analyst Team" slug: "private-credit-mid-market-ma-power-analyst-brief"
---- 
+---
 
 Private credit sits where commercial banks hesitate.
 
@@ -17,7 +17,7 @@ High-leverage.
 
 Private credit is not an alternative asset class; it is the underlying **force multiplier
 
-* 
+*
 
 * behind acquisition velocity, exit readiness, and structural advantage.
 
@@ -55,9 +55,9 @@ Machine gun cadence.
 
 No fillers.
 
-Hard edges only. **Proverbs 13:22
+Hard edges only. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -145,9 +145,9 @@ Buyers pay premiums for companies with predictable liquidity patterns.
 
 Private credit manufactures predictability.
 
-- 
+-
 
-- 
+-
 
 - MID-MARKET FRICTION REMOVAL M&A friction occurs in predictable domains:
 
@@ -203,9 +203,9 @@ Execution sharpened.
 
 Valuation protected.
 
-- 
+-
 
-- 
+-
 
 - OFF-MARKET DEAL ORIGINATION The best mid-market transactions never reach brokers.
 
@@ -277,7 +277,7 @@ This is not avoidance.
 
 This is precision engineering.
 
-The right jurisdiction adds 
+The right jurisdiction adds
 1
 
 - 3 turns of EBITDA to valuation.
@@ -340,13 +340,13 @@ Private credit resolves this across the chain:
 
 The one without it operates with retail constraints.
 
-THE PRIVATE CREDIT PLAYBOOK FOR MID-MARKET BUYERS Mechanics matter more than slogans. Below is the analyst-grade breakdown. 
+THE PRIVATE CREDIT PLAYBOOK FOR MID-MARKET BUYERS Mechanics matter more than slogans. Below is the analyst-grade breakdown.
 
 1.
 
 Pre-Funded Acquisition Mandate Lock capital before sourcing targets.
 
-Reduces negotiation friction by 40-60%. 
+Reduces negotiation friction by 40-60%.
 
 2.
 
@@ -354,25 +354,25 @@ Structured Buyer Profile Use a HoldCo with optimized seniority layers.
 
 Attracts sellers.
 
-Accelerates diligence. 
+Accelerates diligence.
 
 3.
 
 Buy-Side Integration Planning Private credit pre-funds integration.
 
-Execution risk drops. 
+Execution risk drops.
 
 4.
 
 Cash Sweep Optimization Align sweeps with seasonality.
 
-Eliminate liquidity shocks. 
+Eliminate liquidity shocks.
 
 5.
 
 Covenant Intelligence Negotiate flex terms early.
 
-Use performance triggers, not static ratios. 
+Use performance triggers, not static ratios.
 
 6.
 
@@ -380,7 +380,7 @@ Earn-Out Substitution Private credit funds seller earn-outs upfront.
 
 Seller exits cleanly.
 
-Buyer benefits from economic alignment. 
+Buyer benefits from economic alignment.
 
 7.
 
@@ -388,7 +388,7 @@ Off-Market Deal Channeling Pre-funded mandates open proprietary channels.
 
 Data rooms vanish.
 
-Competition drops. 
+Competition drops.
 
 8.
 
@@ -470,4 +470,3 @@ Structural efficiency target: ≥ 18.4% liquidity optimization delta.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

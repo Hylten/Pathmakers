@@ -1,5 +1,5 @@
 --- title: "Nordic Cross-Border M&A: The 2026 Playbook for Institutional Operators" description: "A high-density institutional briefing on Nordic cross-border M&A mechanics in 2026, engineered for mid-market operators, private credit allocators, and strategic acquirers seeking frictionless execution, exit readiness, and off‑market origination." date: "2025-09-16" author: "Analyst Team — Tactical Intelligence (Jonas Hyltén)" slug: "nordic-cross-border-ma-2026-playbook"
---- 
+---
 
 Nordic cross-border M&A has shifted from opportunistic acquisition to engineered statecraft.
 
@@ -49,9 +49,9 @@ Build the door before you arrive.
 
 Ensure the corridor is empty.
 
-Move. **Proverbs 13:22
+Move. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -79,7 +79,7 @@ Norway offers capital density and resource-backed resilience.
 
 Together, they form a transactional ecosystem that allows operators to create multi-jurisdictional holding stacks with predictable cash-flow patterns and minimal leakage.
 
-That predictability is what capital buys in 
+That predictability is what capital buys in
 
 2026.
 
@@ -229,7 +229,7 @@ Many lack succession strategies.
 
 These firms become prime bolt-on targets for cross-border consolidators seeking immediate EBITDA accretion.
 
-Private credit funds in Sweden now price leverage more precisely than in 
+Private credit funds in Sweden now price leverage more precisely than in
 
 2024.
 
@@ -407,4 +407,3 @@ Conversion metric: 0.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

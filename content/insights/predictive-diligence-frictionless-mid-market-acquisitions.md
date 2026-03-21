@@ -1,5 +1,5 @@
 --- title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions" description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena." date: "2026-01-04" author: "Pathmaker Analyst Group" slug: "predictive-diligence-frictionless-mid-market-acquisitions"
---- 
+---
 
 Predictive diligence is no longer a novelty.
 
@@ -21,9 +21,9 @@ Precision replaces speculation.
 
 Velocity replaces delay.
 
-This is the new frontier of Exit Readiness and off‑market origination. 
+This is the new frontier of Exit Readiness and off‑market origination.
 
- 
+
 
 - PRIVATE BRIEFING Closed‑door mode.
 
@@ -141,7 +141,7 @@ Companies between 10M and 300M in revenue operate in a unique tension zone.
 
 Too large to be informal, too small to be properly institutional.
 
-This creates three predictable forms of hidden risk: 
+This creates three predictable forms of hidden risk:
 
 1.
 
@@ -153,7 +153,7 @@ This does not show up in financial statements.
 
 It shows up in patterns: inconsistent lead times, variable margin capture, erratic departmental communication, rising error rates.
 
-Predictive diligence surfaces this months before traditional diligence would. 
+Predictive diligence surfaces this months before traditional diligence would.
 
 2.
 
@@ -163,7 +163,7 @@ Fatigue shows up in leadership rhythms: slow decision cycles, deferred investmen
 
 Buyers only see this post‑LOI during management interviews-far too late.
 
-Predictive diligence reads the signals early: calendar rhythms, staffing patterns, vendor relationships, operational backlog. 
+Predictive diligence reads the signals early: calendar rhythms, staffing patterns, vendor relationships, operational backlog.
 
 3.
 
@@ -349,7 +349,7 @@ Move before others see.
 
 The mid‑market rewards those who see the unseen-early, clearly, confidently.
 
-To 
+To
 
 ### Step I:
 
@@ -361,4 +361,3 @@ Book a tactical consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

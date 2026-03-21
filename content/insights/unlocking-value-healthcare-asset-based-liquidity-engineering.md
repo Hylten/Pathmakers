@@ -1,5 +1,5 @@
 --- title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering" description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning." date: "2025-12-05" author: "Jonas Hyltén – The Analyst Team" slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
---- 
+---
 
 The healthcare mid‑market sits on dormant value.
 
@@ -65,7 +65,7 @@ Capital Structuring neutralizes it.
 The Analyst Team treats healthcare assets not as businesses but as systems.
 
 Systems contain pressure lines.
- Stress points. Latent collateral. Monetizable rights. Idle capital. Mispriced risk.
+Stress points. Latent collateral. Monetizable rights. Idle capital. Mispriced risk.
 
 Our work extracts these components, hardens them, and reassigns them to optimized jurisdictions.
 
@@ -79,9 +79,9 @@ Elevate the signal.
 
 Build the spine.
 
-Core premise: value is not created in the sale; value is crystallized in the structure. **Proverbs 13:22
+Core premise: value is not created in the sale; value is crystallized in the structure. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * reminds us: a good man leaves an inheritance to his children's children.
 
@@ -230,8 +230,7 @@ Premium crystallizes.
 
 The Analyst Team focuses on the mid-market gap.
 
-Revenues between 
-5 and 
+Revenues between 5 and
 
 80 million.
 
@@ -509,11 +508,9 @@ Operators must act with precision.
 
 Delay is dilution.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is simple: unlock latent value through architecture before stepping into any negotiation.
+is simple: unlock latent value through architecture before stepping into any negotiation.
 
 Once the architecture stands, liquidity follows.
 
@@ -525,4 +522,3 @@ Exit readiness index target: 0.87.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

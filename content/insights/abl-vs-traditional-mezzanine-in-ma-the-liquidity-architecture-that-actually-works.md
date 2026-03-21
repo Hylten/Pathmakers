@@ -1,5 +1,5 @@
 --- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A pragmatic analysis of Asset-Based Lending versus mezzanine financing in mid‑market M&A, focused on liquidity, structural control, and real-world execution for HNWI and UHNW investors." date: "2025-10-29" author: "Jonas Hyltén" slug: "abl-vs-traditional-mezzanine-in-ma-the-liquidity-architecture-that-actually-works"
---- 
+---
 
 # Asset-Based Lending vs Traditional Mezzanine in M&A High Net Worth and Ultra High Net Worth investors do not have time for theoretical capital stack arguments. They want clean mechanics.
 
@@ -111,7 +111,7 @@ Theater means:
 
 - Capital that looks flexible on paper.
 
-- Lenders who 
+- Lenders who
 
 ### Step I: n when EBITDA misses guidance by even a small delta. - Forced renegotiations when macro conditions shift.
 
@@ -267,4 +267,3 @@ Book a strategic consultation
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

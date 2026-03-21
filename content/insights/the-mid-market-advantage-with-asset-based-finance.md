@@ -1,5 +1,5 @@
 --- title: "The Mid-Market Advantage with Asset-Based Finance" description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision." date: "2025-11-09" author: "Jonas Hyltén" slug: "the-mid-market-advantage-with-asset-based-finance"
---- 
+---
 
 # The Mid-Market Advantage with Asset-Based Finance Mid market operators rarely get glossy headlines, but they carry the weight of most real economic transactions. They operate without the luxury of infinite runway or indulgent narratives.
 
@@ -35,11 +35,11 @@ Our focus is on:
 
 - Strategic Collateralization structures built specifically for HNWI and UHNW balance sheets.
 
-- Crypto Institutional Liquidity Paths starting at 2,000, 
+- Crypto Institutional Liquidity Paths starting at 2,000,
 
 000.
 
-- Public share Capital Structuring starting at 5,000, 
+- Public share Capital Structuring starting at 5,000,
 
 000.
 
@@ -87,4 +87,3 @@ Book a strategic consultation.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
