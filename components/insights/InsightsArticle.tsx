@@ -149,7 +149,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
             `}</style>
             
             <a
-                href="/Pathmaker/insights/"
+                href="#/insights"
                 className="inline-flex items-center gap-2 text-pathmaker-body hover:text-pathmaker-accent text-xs tracking-[0.15em] font-medium uppercase mb-16 transition-colors duration-300"
             >
                 <ArrowLeft className="w-3 h-3" />
@@ -196,7 +196,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                     Contact The Principal
                 </a>
                 <a
-                    href="/Pathmaker/"
+                    href="#/"
                     className="text-white/40 text-[10px] uppercase tracking-[0.3em] font-medium hover:text-pathmaker-accent transition-colors duration-300"
                 >
                     Return to Navigation
