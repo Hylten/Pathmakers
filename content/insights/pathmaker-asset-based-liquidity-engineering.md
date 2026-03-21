@@ -169,9 +169,7 @@ Equity becomes optional.
 
 This is the core thesis behind Capital Structuring: remove emotion, replace with mechanics.
 
-Remove uncertainty, replace with instruments. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Remove uncertainty, replace with instruments. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : *A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 

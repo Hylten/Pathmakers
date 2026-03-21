@@ -171,9 +171,7 @@ Prepare for acquisition or structured credit alignment This approach reduces tra
 
 THE STEWARDSHIP FILTER Stewardship within healthcare infrastructure is distinct from traditional asset management frameworks. It is the disciplined application of capital to strengthen institutions responsible for human wellbeing.
 
-The principle is grounded in the theology of capital articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The principle is grounded in the theology of capital articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes generational responsibility and strategic preservation.
 

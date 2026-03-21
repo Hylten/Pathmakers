@@ -55,9 +55,7 @@ Overreliance On Tribal Knowledge If knowledge sits with a few long tenured emplo
 
 This leaves acquirers with hollowed out operational continuity and no easy path to reconstruction.
 
-Capacity Bottlenecks A business with single point failure roles is not resilient. A business where key functions break down at
-
-85 percent utilization is not resilient.
+Capacity Bottlenecks A business with single point failure roles is not resilient. A business where key functions break down at 85 percent utilization is not resilient.
 
 A business where teams work long hours to maintain baseline service delivery is not resilient.
 

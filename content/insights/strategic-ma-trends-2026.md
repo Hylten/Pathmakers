@@ -189,9 +189,7 @@ Stewardship eliminates operational waste before a buyer discovers it.
 
 4.
 
-Legacy and Continuity Stewardship includes recognition of long term operational stability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Legacy and Continuity Stewardship includes recognition of long term operational stability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle that disciplined resource management extends beyond the immediate transaction and strengthens the organization for future cycles.
 

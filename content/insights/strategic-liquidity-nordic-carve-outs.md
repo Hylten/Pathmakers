@@ -205,9 +205,7 @@ When a carve-out misses timing windows, competitor activity, macro shifts, and i
 
 Stewardship ensures that decisions are executed within the optimal velocity window.
 
-Principle 4: Intergenerational Logic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Principle 4: Intergenerational Logic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes a principle that resonates with institutional allocators: capital must be positioned in a way that strengthens future capability.
 

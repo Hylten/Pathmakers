@@ -161,9 +161,7 @@ It distinguishes companies with genuine transition probability from those still 
 
 Roials Capital AND THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
-The role is institutional
-
-INTRODUCTION , capital stack calibration, and operational intelligence.
+The role is institutional INTRODUCTION , capital stack calibration, and operational intelligence.
 
 For Asset-Based Lending mandates, the firm does not manage balance sheet risk.
 
@@ -179,9 +177,7 @@ The model centers on three functions:
 
 THE STEWARDSHIP FILTER Stewardship in capital architecture requires responsible structuring.
 
-It is the discipline of maintaining operational integrity, protecting employees, and managing resources without waste. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is the discipline of maintaining operational integrity, protecting employees, and managing resources without waste. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * frames the principle: stable enterprises build generational continuity.
 

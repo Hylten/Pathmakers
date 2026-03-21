@@ -191,9 +191,7 @@ Viewing acquisitions not as transactional events but as generational assets.
 
 Ethical negotiation posture.
 
-Treating sellers with respect and transparency. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Treating sellers with respect and transparency. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the framework for generational capital stewardship.
 

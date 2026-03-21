@@ -201,9 +201,7 @@ Stewardship involves:
 
 - Predictable governance frameworks
 
-- Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Multi-decade value orientation This discipline aligns with the historical principle of generational responsibility documented in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

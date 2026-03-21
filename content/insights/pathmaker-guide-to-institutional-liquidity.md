@@ -73,21 +73,13 @@ Advance Rate Physics Advance rates in institutional environments are determined 
 
 Standard ranges in 2026 for production grade assets are:
 
-- 82 to
+- 82 to 92 percent for stabilized industrials with verifiable cash flow resiliency
 
-92 percent for stabilized industrials with verifiable cash flow resiliency
+- 75 to 88 percent for energy infrastructure assets with NAEOCC compliance
 
-- 75 to
+- 62 to 74 percent for healthcare services reliant on RCM cycles
 
-88 percent for energy infrastructure assets with NAEOCC compliance
-
-- 62 to
-
-74 percent for healthcare services reliant on RCM cycles
-
-- 48 to
-
-62 percent for digital workflows that lack hard asset anchoring The difference is dictated by reconciliation rigor and the counterparty's tolerance for conversion lag.
+- 48 to 62 percent for digital workflows that lack hard asset anchoring The difference is dictated by reconciliation rigor and the counterparty's tolerance for conversion lag.
 
 Liquidity emerges only when reconciliation cycles can be forecast without deviation beyond an accepted delta.
 
@@ -189,9 +181,7 @@ Infrastructure Support Asset
 
 - Hazard exposure modeling to meet MiFID derived standards for EU counterparty alignment Industrial Services Operator
 
-- Reduction of revenue concentration from
-
-62 percent to 38 percent via interim contract restructuring
+- Reduction of revenue concentration from 62 percent to 38 percent via interim contract restructuring
 
 - Covenantal uplifts to support institutional grade valuation models Phase Two: Asset-Backed Frameworks The objective is to synthesize a liquidity pool of
 
@@ -199,17 +189,11 @@ Infrastructure Support Asset
 
 Liquidity sources include:
 
-- 82 to
+- 82 to 89 percent asset backed positions on hardened infrastructure assets
 
-89 percent asset backed positions on hardened infrastructure assets
+- 61 to 72 percent extraction from fabrication entities
 
-- 61 to
-
-72 percent extraction from fabrication entities
-
-- 52 to
-
-64 percent extraction from services operators
+- 52 to 64 percent extraction from services operators
 
 - Inventory and equipment backed liquidity to reach a blended pool of
 
@@ -231,9 +215,7 @@ This sleeve is:
 
 - Indexed to operational milestone triggers
 
-- Enhanced through revenue participation corridors rather than rate based returns This configuration is attractive under the family's multi generational planning model and aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Enhanced through revenue participation corridors rather than rate based returns This configuration is attractive under the family's multi generational planning model and aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * regarding long horizon stewardship.
 
@@ -249,10 +231,7 @@ Phase Four: Capital Efficiency Optimization The operator now holds:
 
 10 million reserve to offset integration friction.
 
-The capital efficiency profile is
-
-95 percent on liquidity and
-5 percent on equity exposure which is optimal for a principal maintaining control without dilution.
+The capital efficiency profile is 95 percent on liquidity and 5 percent on equity exposure which is optimal for a principal maintaining control without dilution.
 
 Phase Five: Exit Predictability Exit compression is tested using three stress models:
 
@@ -305,9 +284,7 @@ Principal grade operators in 2026 must move beyond transactional thinking and de
 
 - Optimize yield to liquidity curves
 
-- Anchor capital efficiency at
-
-90 percent or higher
+- Anchor capital efficiency at 90 percent or higher
 
 - Integrate UHNW liquidity planning into multi strata capital stacks
 

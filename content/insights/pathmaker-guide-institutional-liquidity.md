@@ -155,9 +155,7 @@ THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within t
 
 The value is not in capital supply.
 
-The value is in structural alignment, documentation engineering, and institutional
-
-INTRODUCTION pathways that reduce friction and increase engagement probability.
+The value is in structural alignment, documentation engineering, and institutional INTRODUCTION pathways that reduce friction and increase engagement probability.
 
 Within the North American energy vertical, NAEO operates as the institutional grade execution partner.
 
@@ -195,9 +193,7 @@ When stewardship is embedded, institutions perceive:
 
 - Higher governance reliability
 
-- Lower operational opacity The theological blueprint for this discipline is consistent. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Lower operational opacity The theological blueprint for this discipline is consistent. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * presents the long horizon logic of capital environments that are structured for generational continuity rather than transactional extraction.
 

@@ -155,9 +155,7 @@ Both paths undermine strategic compounding.
 
 Stewardship requires a third path.
 
-Unlock value without destroying exposure. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Unlock value without destroying exposure. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the framework.
 

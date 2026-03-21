@@ -125,9 +125,7 @@ For operators seeking precision liquidity, this model delivers neutral instituti
 
 For institutional partners, it delivers a filtered pool of opportunities where operational durability is already confirmed.
 
-THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing. Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship defines the philosophy underpinning this briefing. Stewardship is the discipline of non wasteful resource management and is rooted in a theology of capital that prioritizes responsibility over expansion. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle of multi generational capital responsibility.
 

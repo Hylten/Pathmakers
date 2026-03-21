@@ -117,9 +117,7 @@ THE STEWARDSHIP FILTER Stewardship in cross-border M&A requires a discipline of 
 
 Stewardship is precision.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * prioritizes generational capital alignment, which translates into a requirement that acquisitions must reinforce the operator's long term balance sheet, not just short term growth metrics.
 

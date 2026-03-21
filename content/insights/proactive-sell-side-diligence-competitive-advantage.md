@@ -57,9 +57,7 @@ Here is the hidden arithmetic: Every buyer can evaluate three times more opportu
 
 Time has become their scarcest resource.
 
-The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills
-
-80 percent of pipeline.
+The founder who hands them a structured, pre‑verified operating model wins their attention by removing the friction that kills 80 percent of pipeline.
 
 Proactive sell‑side diligence is not a binder.
 

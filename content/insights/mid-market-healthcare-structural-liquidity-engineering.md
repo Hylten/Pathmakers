@@ -210,9 +210,7 @@ Stewardship requires:
 
 - clinical compliance oversight
 
-- transparent audit trails "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- transparent audit trails "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * reinforces the multi generational mindset required for healthcare stewardship.
 

@@ -203,9 +203,7 @@ Stewardship creates:
 
 The principle is simple.
 
-Resources must be deployed where they strengthen operational resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Resources must be deployed where they strengthen operational resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * outlines this principle with clarity.
 

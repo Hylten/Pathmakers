@@ -25,9 +25,7 @@ The market respects precision.
 
 Buyers reward readiness.
 
-Sellers capture delta. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Sellers capture delta. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -515,9 +513,7 @@ The carve‑out is the corridor.
 
 The exit is the endpoint.
 
-And the endpoint rewards the operator who engineered readiness before the market asked for it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+And the endpoint rewards the operator who engineered readiness before the market asked for it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

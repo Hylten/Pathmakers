@@ -147,9 +147,7 @@ Target Profile The target is a
 
 It services Nordic utilities, industrial parks, and offshore wind operators.
 
-EBITDA margins stabilize around
-
-21 percent, supported by high recurring service contracts.
+EBITDA margins stabilize around 21 percent, supported by high recurring service contracts.
 
 Working capital intensity is low due to favorable RCM cycles and prepaid maintenance agreements.
 
@@ -279,9 +277,7 @@ It strengthens the underlying industrial capability of the Nordic energy ecosyst
 
 Stewardship means the investor becomes temporary caretaker of a mission critical asset.
 
-Accountability to both capital and community defines long term returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Accountability to both capital and community defines long term returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

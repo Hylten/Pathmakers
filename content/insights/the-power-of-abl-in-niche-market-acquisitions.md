@@ -71,17 +71,11 @@ Advance Rate Physics Advance rates are not static.
 
 They behave like yield to liquidity curves.
 
-Equipment advances may range from
+Equipment advances may range from 45 percent to 85 percent depending on valuation methodology.
 
-45 percent to 85 percent depending on valuation methodology.
+Receivables may support 80 percent to 92 percent depending on obligor concentration, aging, and customer credit scoring.
 
-Receivables may support 80 percent to
-
-92 percent depending on obligor concentration, aging, and customer credit scoring.
-
-Inventory typically ranges from
-
-35 percent to 65 percent depending on turnover velocity and obsolescence curves.
+Inventory typically ranges from 35 percent to 65 percent depending on turnover velocity and obsolescence curves.
 
 For niche markets, particularly in energy services, industrials, and precision manufacturing, advance rates skew higher when assets are standardizable and redeployable.
 
@@ -121,13 +115,7 @@ Each reduction in cycle length increases borrowing base frequency and reduces li
 
 Capital Efficiency Modeling Asset-Based Lending allows sponsors to optimize capital efficiency ratios.
 
-For instance, a 60 percent equipment advance combined with an
-
-85 percent receivable advance may allow sponsors to reduce upfront equity from
-
-40 percent of enterprise value to
-
-18 percent to 24 percent depending on asset mix.
+For instance, a 60 percent equipment advance combined with an 85 percent receivable advance may allow sponsors to reduce upfront equity from 40 percent of enterprise value to 18 percent to 24 percent depending on asset mix.
 
 This increases IRR convexity without increasing operating risk.
 
@@ -238,9 +226,7 @@ Cumulative borrowing base: $79.65M.
 
 ### Step III: Capital Stack Construction Purchase price: $145M. Asset-Based Lending facility: $80M.
 
-Seller rollover equity: $22M (structured at
-
-15 percent of enterprise value with performance ratchets).
+Seller rollover equity: $22M (structured at 15 percent of enterprise value with performance ratchets).
 
 Sponsor equity: $43M.
 
@@ -267,14 +253,11 @@ The Asset-Based Lending line auto expands by $3.1M due to increased eligible rec
 
 This reduces field audit requirements and increases lender comfort.
 
-Asset-Based Lending advance adjustments allow a
-2 percent increase to equipment borrowing base yielding an additional $1.02M liquidity.
+Asset-Based Lending advance adjustments allow a 2 percent increase to equipment borrowing base yielding an additional $1.02M liquidity.
 
 ### Step V:
 
-Covenant Resilience During Oil Price Shock Six months post acquisition, crude prices drop
-
-11 percent.
+Covenant Resilience During Oil Price Shock Six months post acquisition, crude prices drop 11 percent.
 
 EBITDA compresses temporarily to $15M but asset values remain stable.
 
@@ -309,9 +292,7 @@ Stewardship requires deploying Asset-Based Lending not as an extractive mechanis
 
 Stewardship The sponsor must ensure Monetization Architecture strengthens the operational backbone rather than hollowing it.
 
-The principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

@@ -139,9 +139,7 @@ The stewardship filter evaluates decisions based on three principles.
 
 Non wasteful deployment Every krone deployed must enhance enterprise resilience.
 
-This reflects "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This reflects "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where long term inheritance is the result of disciplined planning, not opportunistic spending.
 

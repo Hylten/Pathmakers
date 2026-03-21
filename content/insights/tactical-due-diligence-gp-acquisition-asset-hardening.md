@@ -237,9 +237,7 @@ It is not a compliance function but a structural safeguard against drift.
 
 4.
 
-Moral Accountability Stewardship recognizes that capital allocation and asset transfer are responsibilities with long-term consequences. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Moral Accountability Stewardship recognizes that capital allocation and asset transfer are responsibilities with long-term consequences. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * sets the standard: creating structures that survive beyond a single generation of leadership.
 

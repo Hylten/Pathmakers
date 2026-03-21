@@ -117,9 +117,7 @@ Exit readiness is engineered through:
 
 Legibility reduces the discount rate applied during purchase price negotiation.
 
-In practical terms, 15 to
-
-30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction.
+In practical terms, 15 to 30 percent of enterprise value erosion in mid-market M&A is attributable to preventable friction.
 
 ### Phase I:
 
@@ -185,9 +183,7 @@ The partnership model reduces execution risk by eliminating the inconsistencies 
 
 THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a capital discipline rooted in non-wasteful resource management.
 
-As stated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+As stated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , stewardship is generational and structural, not transactional.
 

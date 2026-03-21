@@ -165,9 +165,7 @@ THE STEWARDSHIP FILTER Precision infrastructure is capital intensive.
 
 Stewardship determines whether capital is used with discipline or dissipated through reactive financing.
 
-Under a stewardship framework, capital deployment is aligned with long term durability and non wasteful resource management. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Under a stewardship framework, capital deployment is aligned with long term durability and non wasteful resource management. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * emphasizes the responsibility of building assets with intergenerational utility.
 

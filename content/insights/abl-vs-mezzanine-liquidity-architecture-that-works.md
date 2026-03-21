@@ -151,9 +151,7 @@ Asset-Based Lending embodies optionality because it grows and contracts with the
 
 Mezzanine consumes optionality because it demands fixed payments from cash flows that may not be stable.
 
-The stewardship principle is anchored in the foundational wisdom of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The stewardship principle is anchored in the foundational wisdom of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

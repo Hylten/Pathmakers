@@ -135,9 +135,7 @@ This intelligence informs the selection of institutional credit partners who mat
 
 THE STEWARDSHIP FILTER Stewardship in the context of capital is the discipline of aligning liquidity with mission. Healthcare logistics platforms are service providers inside a system where reliability has ethical implications.
 
-The theology of capital is represented in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The theology of capital is represented in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which frames resource management as generational responsibility.
 

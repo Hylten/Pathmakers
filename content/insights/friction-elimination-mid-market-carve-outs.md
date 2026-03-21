@@ -205,9 +205,7 @@ It means ensuring that the asset is structurally sound, organizationally coheren
 
 This is capital stewardship.
 
-The same principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The same principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which frames responsible transfer as an act of legacy rather than liquidation.
 

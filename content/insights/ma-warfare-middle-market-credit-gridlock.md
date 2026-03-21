@@ -169,9 +169,7 @@ The stewardship filter includes:
 
 - Responsible capital deployment
 
-- Sustainable operational practices This is aligned with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Sustainable operational practices This is aligned with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * that underscores the responsibility of long term resource management.
 

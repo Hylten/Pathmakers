@@ -154,13 +154,9 @@ No capital in this structure resembles traditional loans.
 
 Everything is built around Strategic Collateralization and predictable asset support.
 
-Advance rates on rolling stock reach
+Advance rates on rolling stock reach 68 percent.
 
-68 percent.
-
-Contract backed cash flow supports another
-
-45 percent advance structure that is dynamically adjusted per quarter.
+Contract backed cash flow supports another 45 percent advance structure that is dynamically adjusted per quarter.
 
 Operational transformation.
 
@@ -170,17 +166,13 @@ First, the field crews are reorganized into two zones.
 
 Each zone receives dedicated logistics, safety and maintenance oversight.
 
-This reduces downtime by
-
-22 percent within six months.
+This reduces downtime by 22 percent within six months.
 
 Second, the proprietary workflow is hardened into a commercial asset.
 
 It becomes a billable compliance product for two of the existing customers.
 
-Third, energy infrastructure volatility is neutralized by indexing
-
-40 percent of contract pricing to inflation and commodity movement.
+Third, energy infrastructure volatility is neutralized by indexing 40 percent of contract pricing to inflation and commodity movement.
 
 These changes produce the following profile after
 
@@ -202,9 +194,7 @@ Working capital cycle shortens by
 
 11 days.
 
-Fleet utilization increases to
-
-78 percent.
+Fleet utilization increases to 78 percent.
 
 Liquidity events.
 
@@ -242,9 +232,7 @@ As larger funds chase scale, mid-market disciplined platforms extract durable va
 
 STEWARDSHIP FILTER Stewardship is not a marketing term.
 
-It is the architecture that determines whether capital becomes extractive or regenerative. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is the architecture that determines whether capital becomes extractive or regenerative. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * speaks of the responsibility of generational capital.
 

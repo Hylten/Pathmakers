@@ -191,9 +191,7 @@ It is about creating precision.
 
 THE STEWARDSHIP FILTER Stewardship is the discipline that converts potential into realized value. Nordic companies have historically operated with conservative capital cultures, focusing on reinvestment and operational stability.
 
-This ethos is aligned with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This ethos is aligned with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which emphasizes multi generational resource responsibility.
 

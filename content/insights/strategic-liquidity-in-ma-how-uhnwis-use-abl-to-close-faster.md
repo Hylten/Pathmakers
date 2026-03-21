@@ -146,9 +146,7 @@ But to eliminate every possible closing delay.
 
 A common approach is:
 
-- 40 to
-
-60 percent of purchase price covered by an Asset-Based Lending facility
+- 40 to 60 percent of purchase price covered by an Asset-Based Lending facility
 
 - Remainder covered by personal funds or a family office pool
 

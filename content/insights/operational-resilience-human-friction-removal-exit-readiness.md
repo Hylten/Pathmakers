@@ -231,9 +231,7 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
 The role is not execution of the enterprise transformation itself.
 
-The role is institutional
-
-INTRODUCTION , calibration, and navigational intelligence.
+The role is institutional INTRODUCTION , calibration, and navigational intelligence.
 
 The focus is alignment between seller objectives and institutional buyer criteria.
 
@@ -279,9 +277,7 @@ Stewardship builds enterprises that can endure.
 
 It eliminates fragility.
 
-It aligns operational practice with long horizon thinking. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It aligns operational practice with long horizon thinking. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * articulates the intergenerational responsibility inherent in capital management.
 

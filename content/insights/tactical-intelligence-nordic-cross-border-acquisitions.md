@@ -167,9 +167,7 @@ It extends beyond capital and into operational governance.
 
 Nordic companies reflect stewardship in their engineering culture, environmental respect, and long term orientation.
 
-Acquirers who align with these values experience smoother transitions. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Acquirers who align with these values experience smoother transitions. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good individual leaves an inheritance for future generations.
 

@@ -159,9 +159,7 @@ Stewardship is defined by three principles:
 
 - Purposeful leadership aligned with value creation.
 
-In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+In "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , the emphasis on generational allocation speaks to the discipline of structuring assets with longevity rather than short-term extraction.
 

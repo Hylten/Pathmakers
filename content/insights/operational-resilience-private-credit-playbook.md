@@ -147,9 +147,7 @@ This reduces negotiation drag, eliminates documentation drift, and aligns incent
 
 THE STEWARDSHIP FILTER Operational resilience is not a financial tactic. It is a stewardship discipline.
 
-Stewardship is rooted in the principle of non wasteful resource management grounded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship is rooted in the principle of non wasteful resource management grounded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes generational responsibility.
 

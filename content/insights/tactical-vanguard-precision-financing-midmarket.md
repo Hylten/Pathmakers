@@ -118,9 +118,7 @@ The theology of capital treats capital as a resource with purpose, not as an ins
 
 The foundational principle is that capital stewardship must preserve optionality, strengthen operational resilience, and create multi generational value.
 
-Scriptural alignment reinforces the discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Scriptural alignment reinforces the discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his childrens children.
 

@@ -129,9 +129,7 @@ A precision approach identifies:
 
 60 days.
 
-Focus on the critical
-
-20 percent that enables operations.
+Focus on the critical 20 percent that enables operations.
 
 Defer the rest until after stabilization.
 4.

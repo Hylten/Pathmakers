@@ -139,9 +139,7 @@ remains objective and rooted in institutional fit.
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of managing resources without waste. It is not merely financial prudence.
 
-It is an ethical framework for strategic decision making rooted in responsibility and clarity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is an ethical framework for strategic decision making rooted in responsibility and clarity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle that durable value is a generational responsibility.
 

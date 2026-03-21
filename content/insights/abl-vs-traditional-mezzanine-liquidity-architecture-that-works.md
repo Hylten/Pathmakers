@@ -91,9 +91,7 @@ It is, in many cases, optional capital that behaves like mandatory supervision.
 
 Asset-Based Lending behaves like infrastructure.
 
-That difference is everything. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+That difference is everything. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * speaks clearly: a good man leaves an inheritance for his children’s children.
 

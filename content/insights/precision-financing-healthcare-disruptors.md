@@ -159,9 +159,7 @@ Stewardship as a discipline requires three commitments.
 
 1.
 
-Clarity of Intent Operators must treat their balance sheet as a trust, not a tactical instrument. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Clarity of Intent Operators must treat their balance sheet as a trust, not a tactical instrument. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * positions this clearly: capital is intergenerational when stewarded wisely.
 

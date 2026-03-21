@@ -65,9 +65,7 @@ Anything less triggers lender suspicion and sponsor fatigue.
 
 Blueprints matter.
 
-Discipline becomes capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Discipline becomes capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 

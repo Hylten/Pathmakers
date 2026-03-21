@@ -281,11 +281,7 @@ Examples:
 
 The battlefield must be clean.
 
-Customer Concentration: The Price Assassin A company with two clients owning
-
-
-
-40 percent of revenue is not a stable asset.
+Customer Concentration: The Price Assassin A company with two clients owning 40 percent of revenue is not a stable asset.
 
 It is a hostage situation.
 

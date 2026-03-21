@@ -189,9 +189,7 @@ For energy specific transactions, NAEO operates as the institutional grade count
 
 Roials Capital maintains strategic oversight and ensures that the European or Nordic principal receives clarity on regulatory, operational, and capital stack components before entering cross border discussions.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment. It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is a discipline of order, not sentiment. It requires the preservation and responsible multiplication of invested labor, intellectual capital, and community impact. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * provides a foundational principle that capital should be transferred with foresight and integrity.
 

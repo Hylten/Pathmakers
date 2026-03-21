@@ -189,9 +189,7 @@ Stewardship requires three filters:
 
 - Operational prudence: Conservative cash‑flow allocation that strengthens the balance sheet.
 
-Allocators who adopt stewardship as an investment philosophy outperform by reducing volatility, not by increasing aggressiveness. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Allocators who adopt stewardship as an investment philosophy outperform by reducing volatility, not by increasing aggressiveness. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * reinforces the principle of long‑term capital continuity, which is an essential anchor in healthcare environments with multi‑year reimbursement dynamics.
 

@@ -155,9 +155,7 @@ It is measurable through four filters.
 
 - Capital Responsibility Liquidity is allocated to maintain operational continuity rather than speculative expansion.
 
-- Governance Alignment The spin off maintains clarity of ownership, reporting, and risk management, consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Governance Alignment The spin off maintains clarity of ownership, reporting, and risk management, consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which underscores preservation and generational foresight.
 

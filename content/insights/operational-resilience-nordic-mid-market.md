@@ -35,9 +35,7 @@ The kind that de-risks capital allocation, accelerates Fund‑III deployment cyc
 
 The Nordics reward operators who engineer structural trust.
 
-The market punishes those who rely on narrative alone. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The market punishes those who rely on narrative alone. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -329,9 +327,7 @@ For survival.
 
 For dominance.
 
-For continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+For continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

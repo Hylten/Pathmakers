@@ -101,9 +101,7 @@ This separation maintains institutional clarity and enhances credibility with bo
 
 THE STEWARDSHIP FILTER Stewardship in corporate transitions is a discipline of restoring order to disorganized assets. Precision Asset-Based Lending supports this discipline by imposing operational truth on businesses that are structurally valuable but administratively underdeveloped.
 
-This aligns with the ethic articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with the ethic articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where capital continuity is treated as a multigenerational responsibility rather than a short term extraction.
 

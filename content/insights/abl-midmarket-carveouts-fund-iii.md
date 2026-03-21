@@ -71,9 +71,7 @@ It reduces the cost of capital relative to uncertainty.
 
 It removes dependency on corporate willingness to cooperate.
 
-Most important: it decouples deal timing from the parent’s internal politics. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Most important: it decouples deal timing from the parent’s internal politics. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : The wealth of the sinner is laid up for the just.
 

@@ -143,9 +143,7 @@ In this context, the advisory function becomes a form of operational intelligenc
 
 THE STEWARDSHIP FILTER Stewardship in the context of mid-market spin-offs is a discipline centered on non-wasteful allocation of capital, operational integrity, and corporate responsibility. The Theology of Capital positions stewardship not merely as risk management but as a moral framework that ensures the assets being separated are equipped for long-term resilience.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * provides a foundational principle: capital is to be positioned in a manner that benefits future generations, not consumed in short-term transactions.
 

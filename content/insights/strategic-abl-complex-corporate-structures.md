@@ -131,9 +131,7 @@ The clearer the intercompany monetisation pathways, the lower the friction cost 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender.
 
-The role is not capital deployment but institutional
-
-INTRODUCTION , technical translation, and balance sheet optimisation.
+The role is not capital deployment but institutional INTRODUCTION , technical translation, and balance sheet optimisation.
 
 The mid market does not require more lenders.
 
@@ -215,9 +213,7 @@ This is not a market condition.
 
 It is a stewardship issue.
 
-The stewardship filter aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The stewardship filter aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which positions resource continuity as a multi generational responsibility.
 

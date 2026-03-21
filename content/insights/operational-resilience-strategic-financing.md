@@ -177,9 +177,7 @@ Multiplication Deployment of capital into opportunities that expand enterprise d
 
 Legacy Preparation for eventual transition, sale, or generational transfer.
 
-Stewardship aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which frames capital as an instrument for building continuity across generations.
 

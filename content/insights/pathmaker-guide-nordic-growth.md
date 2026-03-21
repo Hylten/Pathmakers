@@ -159,9 +159,7 @@ It is precision.
 
 It is the avoidance of waste.
 
-It is the intentional construction of organizations that outlive their founders. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is the intentional construction of organizations that outlive their founders. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * frames the principle: A good person leaves an inheritance to their children, but the sinner’s wealth is stored up for the righteous.
 

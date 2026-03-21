@@ -87,9 +87,7 @@ THE PARTNERSHIP MODEL OF Roials Capital Roials Capital operates as a strategic n
 
 The firm is not the capital source.
 
-It functions as an institutional
-
-INTRODUCTION mechanism connecting credible businesses with sovereign allocators whose mandates align with mid‑market structures.
+It functions as an institutional INTRODUCTION mechanism connecting credible businesses with sovereign allocators whose mandates align with mid‑market structures.
 
 The value lies in filtration, calibration, and operational intelligence.
 

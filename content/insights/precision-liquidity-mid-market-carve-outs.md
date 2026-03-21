@@ -147,9 +147,7 @@ Divisional separations must honor the principles of clarity, resource integrity,
 
 Stewardship is not soft philosophy.
 
-It is the governance architecture that ensures the separation process produces transparent, resilient assets. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is the governance architecture that ensures the separation process produces transparent, resilient assets. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good person leaves an inheritance for their children.
 

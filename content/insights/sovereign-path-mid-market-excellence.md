@@ -205,13 +205,9 @@ SAGD development, CSS dynamics, steam oil ratio behaviour, reservoir pressure ma
 
 NAEO provides this technical foundation.
 
-Roials Capital provides strategic alignment and institutional
+Roials Capital provides strategic alignment and institutional INTRODUCTION. THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction. It is a practical discipline that guides capital allocation.
 
-INTRODUCTION. THE STEWARDSHIP FILTER Stewardship is not a philosophical abstraction. It is a practical discipline that guides capital allocation.
-
-Stewardship requires avoiding waste, preserving the integrity of enterprise value, and constructing businesses capable of enduring beyond the founder. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship requires avoiding waste, preserving the integrity of enterprise value, and constructing businesses capable of enduring beyond the founder. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * identifies the principle: the responsibility of capital is generational, not transactional.
 
@@ -277,9 +273,7 @@ If the answers reveal gaps, the solution is architecture, not acceleration.
 
 Owners who invest in readiness engineering experience stronger positioning during negotiations and significantly reduced frictions when interacting with global buyers.
 
-Roials Capital's contribution is the combination of strategic calibration, operational intelligence, and institutional
-
-INTRODUCTION. The work is guided by a commitment to clarity, excellence, and disciplined preparation.
+Roials Capital's contribution is the combination of strategic calibration, operational intelligence, and institutional INTRODUCTION. The work is guided by a commitment to clarity, excellence, and disciplined preparation.
 
 For owners and allocators requiring a full assessment of readiness, a confidential strategy consultation provides the structural map, not a transactional pitch.
 

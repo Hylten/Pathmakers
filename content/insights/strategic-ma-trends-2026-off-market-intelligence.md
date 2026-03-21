@@ -209,9 +209,7 @@ THE STEWARDSHIP FILTER : THEOLOGY OF CAPITAL Strategic M&A is not only a technic
 
 It is a stewardship mandate.
 
-The responsible transfer of ownership is a discipline that aligns with the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The responsible transfer of ownership is a discipline that aligns with the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children's children.
 

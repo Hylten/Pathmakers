@@ -23,9 +23,7 @@ It is who remains solvent, mobile, and acquisition-ready when it does.
 
 As written in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -431,9 +429,7 @@ Governance at the architecture layer amplifies operational resilience.
 
 Poor governance erodes it silently.
 
-Resilient architecture allows an investor to respond to shocks without compromising strategic direction. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Resilient architecture allows an investor to respond to shocks without compromising strategic direction. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * binds the philosophy together: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 

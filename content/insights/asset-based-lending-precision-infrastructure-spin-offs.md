@@ -127,9 +127,7 @@ Infrastructure operators who understand stewardship recognize that capital is a 
 
 Assets are assigned, not possessed.
 
-Divisions must be managed in alignment with their natural purpose, and capital structures must support the long horizon stability that operational stakeholders depend upon. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Divisions must be managed in alignment with their natural purpose, and capital structures must support the long horizon stability that operational stakeholders depend upon. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * provides the archetype for intergenerational capital conduct. **Ecclesiastes 7:12
 

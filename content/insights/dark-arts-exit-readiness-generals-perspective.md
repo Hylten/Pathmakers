@@ -435,9 +435,7 @@ A buyer who feels clarity advances.
 
 The art lies in engineering those feelings through structural preparation.
 
-THE BIBLICAL LAW OF LEGACY "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE BIBLICAL LAW OF LEGACY "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children's children.
 

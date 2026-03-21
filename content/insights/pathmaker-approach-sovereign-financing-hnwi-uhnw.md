@@ -165,9 +165,7 @@ Financial engineering is used for stability, not artificial valuation inflation.
 
 - Responsibility to Successive Generations.
 
-In alignment with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+In alignment with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , the enterprise must be configured in a manner that preserves integrity long after the current owner exits.
 

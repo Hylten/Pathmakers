@@ -119,9 +119,7 @@ That posture decides deal flow.
 
 That flow decides timing.
 
-Timing decides return. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Timing decides return. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : Wealth flows through structural stewardship.
 

@@ -179,9 +179,7 @@ Three stewardship principles guide the Strategic Collateralization process:
 
 1.
 
-Non wasteful capital deployment Aligning financing structures with productive assets ensures the operator does not incur unnecessary leverage or misaligned obligations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Non wasteful capital deployment Aligning financing structures with productive assets ensures the operator does not incur unnecessary leverage or misaligned obligations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the ethical framework for generational planning and responsible asset management.
 

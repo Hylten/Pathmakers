@@ -49,9 +49,7 @@ The objective is capital leverage.
 
 Precision liquidity.
 
-Engineered to move the deal, protect the acquirer, and strengthen the exit vector. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Engineered to move the deal, protect the acquirer, and strengthen the exit vector. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children's children.
 

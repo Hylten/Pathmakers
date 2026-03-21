@@ -245,9 +245,7 @@ A stewardship lens ensures that leverage levels reflect cash flow durability and
 
 3.
 
-Ethical Continuity "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Ethical Continuity "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * articulates the principle of generational responsibility.
 

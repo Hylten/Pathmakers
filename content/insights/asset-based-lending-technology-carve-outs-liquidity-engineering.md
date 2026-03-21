@@ -172,9 +172,7 @@ THE STEWARDSHIP FILTER Stewardship is not capital accumulation. It is capital or
 
 For operators and allocators, stewardship means deploying resources in a manner that does not burden the enterprise with speculative leverage.
 
-Instead, it emphasizes disciplined resource allocation, asset stabilization, and respect for operational truth. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Instead, it emphasizes disciplined resource allocation, asset stabilization, and respect for operational truth. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * articulates the principle of generational responsibility through prudence and structured governance.
 

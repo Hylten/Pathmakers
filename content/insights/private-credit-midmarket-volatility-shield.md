@@ -179,9 +179,7 @@ Strategic Collateralization follows three rules:
 
 Follow all three and the exit compounds.
 
-Private credit enforces these rules structurally. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Private credit enforces these rules structurally. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 

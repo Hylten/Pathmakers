@@ -147,9 +147,7 @@ THE STEWARDSHIP ARCHITECTURE
 
 Stewardship in institutional finance represents the disciplined management of assets specifically to ensure the continuity of essential services—recognizing that operators are stewards of resources affecting human welfare.
 
-A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

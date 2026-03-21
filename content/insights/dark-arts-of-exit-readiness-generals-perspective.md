@@ -229,9 +229,7 @@ A hardened asset is less exposed to operational disorder, valuation erosion, or 
 
 Stewardship requires the founder or owner to view the company as an entrusted entity, not an expendable one.
 
-As recorded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+As recorded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , stewardship extends across generations.
 

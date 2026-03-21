@@ -48,9 +48,7 @@ It is not cyclical.
 
 It is structural.
 
-Why Deals Collapse. The Core Failure Nodes The following failure points account for more than
-
-80 percent of collapsed healthcare transactions this year.
+Why Deals Collapse. The Core Failure Nodes The following failure points account for more than 80 percent of collapsed healthcare transactions this year.
 
 Each point below is presented in operational terms used inside institutional IC meetings.
 1.
@@ -372,9 +370,7 @@ Construct a leadership layer that can operate without the founder.
 
 Produce a QofE architecture that can withstand aggressive institutional analysis.
 
-These six mandates eliminate
-
-90 percent of collapse risk.
+These six mandates eliminate 90 percent of collapse risk.
 
 Why Most Advisors Cannot Deliver This Level of Hardening Traditional advisors operate as service providers. Healthcare M and A in 2026 requires a principal.
 
