@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Award, Briefcase, Globe, Users, TrendingUp, Target, ArrowRight } from 'lucide-react';
-import LionAnimation from '../components/LionAnimation';
 
 const AboutPage: React.FC = () => {
   const [imageError, setImageError] = useState(false);
@@ -19,8 +18,12 @@ const AboutPage: React.FC = () => {
             </p>
           </div>
           <div className="flex flex-col items-center overflow-hidden">
-            <LionAnimation />
-            <p className="text-center text-pathmaker-accent text-[9px] uppercase tracking-[0.4em] mt-3 font-mono opacity-40">
+            <img
+              src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+              alt="Pathmaker Lion"
+              className="h-48 w-48 md:h-64 md:w-64 object-contain rounded-sm brightness-0 invert sepia saturate-[400%] hue-rotate-[15deg] brightness-[90%] contrast-[90%] filter drop-shadow-[0_0_15px_rgba(197,160,89,0.3)]"
+            />
+            <p className="text-center text-pathmaker-accent text-[9px] uppercase tracking-[0.4em] mt-8 font-mono opacity-80">
               Principal-Led M&amp;A
             </p>
           </div>
