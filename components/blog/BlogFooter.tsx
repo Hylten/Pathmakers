@@ -43,7 +43,7 @@ const BlogFooter: React.FC = () => {
                             <li><a href="/Pathmakers/#/about" className="text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">About & Approach</a></li>
                             <li><a href="/Pathmakers/#/contact" className="text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">Inquire</a></li>
                             <li className="pt-2">
-                                <a href="https://www.linkedin.com/company/roials/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">
+                                <a href="https://www.linkedin.com/company/pathmakerab/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">
                                     <Linkedin className="w-4 h-4" />
                                     LinkedIn
                                 </a>

@@ -8,6 +8,14 @@ const AboutPage: React.FC = () => {
     <div className="pt-0 bg-pathmaker-dark min-h-screen">
       {/* Hero Section - Lion Animation + Typography */}
       <section className="relative pt-20 pb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-white/5">
+        {/* Small lion in top-right corner */}
+        <div className="absolute top-4 right-4 md:top-6 md:right-6 z-10">
+          <img
+            src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+            alt="Pathmaker Lion"
+            className="h-8 w-8 object-contain brightness-0 invert filter drop-shadow-[0_0_6px_rgba(255,255,255,0.5)] opacity-70"
+          />
+        </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-8xl font-serif font-medium text-white mb-8 tracking-tight leading-tight">

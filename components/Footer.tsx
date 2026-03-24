@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="pt-2">
                 <a
-                  href="https://www.linkedin.com/company/roials/"
+                  href="https://www.linkedin.com/company/pathmakerab/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light"
