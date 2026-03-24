@@ -22,7 +22,7 @@ const Preloader: React.FC = () => {
         visibility: isVisible ? 'visible' : 'hidden',
         pointerEvents: isVisible ? 'auto' : 'none'
       }}
-    >
+      >
       <div className="mb-6">
         <LionAnimation />
       </div>
@@ -33,17 +33,7 @@ const Preloader: React.FC = () => {
           animation: 'pulse 2s cubic-bezier(.4, 0, .6, 1) infinite'
         }}
       >
-        Pathmakers
-      </div>
-      <div 
-        className="text-white/30 tracking-[0.3em] uppercase text-[10px] mt-3 animate-pulse"
-        style={{ 
-          fontFamily: "'JetBrains Mono', monospace",
-          animation: 'pulse 2s cubic-bezier(.4, 0, .6, 1) infinite',
-          animationDelay: '0.3s'
-        }}
-      >
-        AI Intelligence
+        Pathmaker
       </div>
       <style>{`
         @keyframes pulse {

@@ -13,16 +13,16 @@ const LionAnimation: React.FC<{ className?: string }> = ({ className }) => {
           .lion-draw {
             stroke-dasharray: 1000;
             stroke-dashoffset: 1000;
-            animation: draw 1.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+            animation: draw 2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
           }
           .d1  { animation-delay: 0.1s; }
-          .d2  { animation-delay: 0.25s; }
-          .d3  { animation-delay: 0.4s; }
-          .d4  { animation-delay: 0.55s; }
-          .d5  { animation-delay: 0.7s; }
-          .d6  { animation-delay: 0.85s; }
-          .d7  { animation-delay: 1.0s; }
-          .d8  { animation-delay: 1.2s; }
+          .d2  { animation-delay: 0.3s; }
+          .d3  { animation-delay: 0.5s; }
+          .d4  { animation-delay: 0.7s; }
+          .d5  { animation-delay: 0.9s; }
+          .d6  { animation-delay: 1.1s; }
+          .d7  { animation-delay: 1.3s; }
+          .d8  { animation-delay: 1.5s; }
 
           @keyframes draw {
             to { stroke-dashoffset: 0; }
@@ -31,7 +31,7 @@ const LionAnimation: React.FC<{ className?: string }> = ({ className }) => {
           .lion-fill {
             opacity: 0;
             animation: fadeIn 0.8s ease-out forwards;
-            animation-delay: 2s;
+            animation-delay: 2.2s;
           }
           @keyframes fadeIn {
             to { opacity: 1; }
@@ -39,7 +39,7 @@ const LionAnimation: React.FC<{ className?: string }> = ({ className }) => {
 
           .lion-glow {
             opacity: 0;
-            animation: glowPulse 4s ease-in-out 2.5s infinite;
+            animation: glowPulse 4s ease-in-out 2.8s infinite;
           }
           @keyframes glowPulse {
             0%, 100% { opacity: 0.08; }
@@ -48,89 +48,99 @@ const LionAnimation: React.FC<{ className?: string }> = ({ className }) => {
         `}</style>
 
         {/* Glow behind lion */}
-        <ellipse cx="150" cy="100" rx="85" ry="60"
+        <ellipse cx="150" cy="100" rx="90" ry="65"
           fill="none" stroke="#C5A059" strokeWidth="1"
           className="lion-glow" />
 
-        {/* MANE - big flowing mane around head */}
-        <path d="M 240 45 C 220 35, 195 30, 170 32 C 145 34, 120 42, 100 55 C 85 65, 75 78, 70 92 C 68 100, 70 108, 75 115"
+        {/* TAIL - on right side now */}
+        <path d="M 45 255 C 35 248, 25 238, 20 225 C 15 212, 15 200, 22 190 C 28 182, 38 178, 48 180"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d1" />
-        <path d="M 245 55 C 225 45, 200 40, 175 42 C 150 44, 125 52, 105 65 C 90 75, 78 88, 72 102 C 70 110, 72 118, 78 125"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
+        
+        {/* TAIL TUFT */}
+        <circle cx="20" cy="188" r="10" fill="none" stroke="#C5A059" strokeWidth="2"
           className="lion-draw d1" />
-        <path d="M 248 68 C 228 58, 203 53, 178 55 C 153 57, 128 65, 108 78 C 93 88, 82 100, 76 114 C 74 122, 76 130, 82 137"
+
+        {/* BACK HIND LEGS - right side */}
+        <path d="M 55 255 C 45 265, 40 278, 45 292 C 50 305, 65 315, 82 315 C 95 315, 108 308, 115 298"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d2" />
-        <path d="M 245 82 C 228 74, 205 70, 182 72 C 158 75, 135 83, 115 95 C 100 105, 90 116, 85 128 C 83 135, 86 142, 92 148"
+        
+        <path d="M 82 310 C 75 318, 72 328, 78 338 C 84 346, 98 350, 112 348 C 122 346, 130 338, 132 328"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d2" />
-        <path d="M 238 95 C 222 88, 200 85, 178 88 C 156 91, 135 98, 118 108 C 104 117, 95 127, 92 138 C 90 145, 94 152, 100 158"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d3" />
-        <path d="M 228 108 C 212 102, 192 100, 172 103 C 152 106, 132 113, 118 122 C 105 130, 98 140, 96 150 C 95 156, 100 162, 108 167"
+
+        {/* BELLY */}
+        <path d="M 115 298 C 140 290, 170 285, 200 288 C 230 292, 255 302, 272 318"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d3" />
 
-        {/* FACE - profile */}
-        <path d="M 92 148 C 85 155, 80 165, 80 175 C 80 185, 85 192, 95 196 C 105 200, 118 200, 130 198"
+        {/* FRONT LEGS - left side */}
+        <path d="M 210 315 C 200 322, 195 335, 200 348 C 205 360, 220 368, 238 368 C 252 368, 262 360, 265 350"
+          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
+          className="lion-draw d4" />
+        
+        <path d="M 235 365 C 225 372, 218 382, 222 394 C 226 404, 240 410, 255 408 C 266 406, 275 396, 278 385"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d4" />
 
-        {/* SNOUT */}
-        <path d="M 95 196 C 100 198, 108 198, 118 196 C 128 194, 138 190, 145 185"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d5" />
-        
-        {/* NOSE */}
-        <path d="M 145 185 C 148 182, 150 178, 150 175 C 150 172, 148 168, 145 165"
+        {/* CHEST */}
+        <path d="M 272 318 C 282 325, 290 338, 292 352 C 294 365, 290 378, 280 388 C 270 398, 255 402, 240 402"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d5" />
 
-        {/* EYE */}
-        <circle cx="120" cy="115" r="5" fill="#C5A059" className="lion-fill" />
+        {/* MANE - large mane around head on left side */}
+        <path d="M 280 250 C 295 235, 305 215, 308 195 C 310 175, 308 155, 300 138 C 292 122, 280 108, 265 98 C 250 88, 232 82, 215 80 C 198 78, 182 80, 168 85"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d5" />
+        <path d="M 285 240 C 300 225, 312 205, 315 185 C 318 165, 316 145, 308 128 C 300 112, 288 98, 272 88 C 258 79, 240 74, 222 73 C 205 72, 188 75, 172 82"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d6" />
+        <path d="M 288 230 C 303 215, 315 195, 318 175 C 321 155, 319 135, 310 118 C 302 102, 290 88, 275 78 C 260 69, 242 64, 224 63 C 207 62, 190 66, 175 74"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d6" />
+        <path d="M 288 220 C 302 206, 314 188, 316 170 C 318 152, 315 134, 306 118 C 298 103, 285 90, 270 81 C 255 72, 238 68, 220 68 C 203 68, 186 73, 172 82"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d6" />
+        <path d="M 285 210 C 298 197, 308 180, 310 163 C 312 147, 308 130, 298 116 C 288 102, 275 90, 260 82 C 245 74, 228 70, 212 71 C 195 72, 178 78, 165 88"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d7" />
+        <path d="M 280 200 C 292 188, 302 172, 303 156 C 304 140, 300 124, 290 110 C 280 97, 266 86, 250 79 C 235 72, 218 69, 202 71 C 185 73, 168 80, 155 90"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d7" />
+
+        {/* HEAD - facing right */}
+        <path d="M 202 71 C 192 72, 180 76, 168 82 C 155 89, 145 98, 138 108 C 130 120, 125 133, 125 147 C 125 160, 130 172, 138 182 C 145 191, 155 198, 165 202"
+          fill="none" stroke="#C5A059" strokeWidth="2.5" strokeLinecap="round"
+          className="lion-draw d7" />
+
+        {/* SNOUT - pointing right */}
+        <path d="M 165 202 C 172 206, 180 208, 188 208 C 198 208, 208 204, 215 198"
+          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
+          className="lion-draw d8" />
+
+        {/* NOSE */}
+        <path d="M 215 198 C 218 195, 220 190, 220 185 C 220 180, 218 175, 215 172"
+          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
+          className="lion-draw d8" />
+
+        {/* EYE - lower, in face area */}
+        <circle cx="175" cy="135" r="5" fill="#C5A059" className="lion-fill" />
 
         {/* EAR */}
-        <path d="M 155 70 C 158 60, 165 55, 175 55 C 182 55, 188 60, 190 68 C 192 75, 190 82, 185 85"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d6" />
-
-        {/* BODY - chest and front legs */}
-        <path d="M 80 175 C 70 180, 60 190, 55 205 C 52 215, 55 225, 65 232 C 75 238, 90 240, 105 238"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d6" />
-        
-        {/* FRONT LEGS */}
-        <path d="M 65 232 C 60 238, 58 248, 62 258 C 66 265, 75 268, 85 268 C 92 268, 98 265, 100 260"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d7" />
-        
-        <path d="M 90 235 C 82 242, 78 252, 80 262 C 82 270, 90 275, 100 275 C 108 275, 115 270, 118 263"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d7" />
-
-        {/* BELLY */}
-        <path d="M 105 238 C 125 235, 150 232, 175 235 C 200 238, 220 245, 235 255"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d7" />
-
-        {/* BACK HIND LEGS */}
-        <path d="M 235 255 C 245 262, 252 272, 255 282 C 258 290, 255 298, 248 302 C 240 306, 228 305, 218 300"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
-          className="lion-draw d8" />
-        
-        <path d="M 218 300 C 210 305, 205 315, 208 325 C 212 332, 222 335, 232 335 C 240 335, 248 330, 252 322"
+        <path d="M 190 95 C 195 85, 205 78, 218 78 C 228 78, 238 84, 245 94 C 250 102, 252 112, 250 120"
           fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
           className="lion-draw d8" />
 
-        {/* TAIL */}
-        <path d="M 255 282 C 265 275, 275 268, 280 258 C 285 248, 285 238, 278 230 C 272 224, 262 222, 252 225"
-          fill="none" stroke="#C5A059" strokeWidth="2" strokeLinecap="round"
+        {/* BROW RIDGE */}
+        <path d="M 165 115 C 175 110, 188 108, 200 110 C 212 112, 222 118, 228 125"
+          fill="none" stroke="#C5A059" strokeWidth="1.5" strokeLinecap="round"
           className="lion-draw d8" />
-        
-        {/* TAIL TUFT */}
-        <circle cx="278" cy="228" r="8" fill="none" stroke="#C5A059" strokeWidth="2"
-          className="lion-draw d8" />
+
+        {/* WHISKER DOTS */}
+        <circle cx="208" cy="188" r="1.5" fill="#C5A059" className="lion-fill" />
+        <circle cx="212" cy="182" r="1.5" fill="#C5A059" className="lion-fill" />
+        <circle cx="215" cy="176" r="1.5" fill="#C5A059" className="lion-fill" />
 
       </svg>
     </div>
