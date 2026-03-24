@@ -1,20 +1,29 @@
 import React, { useState } from 'react';
 import { Award, Briefcase, Globe, Users, TrendingUp, Target, ArrowRight } from 'lucide-react';
+import LionAnimation from '../components/LionAnimation';
 
 const AboutPage: React.FC = () => {
   const [imageError, setImageError] = useState(false);
 
   return (
     <div className="pt-0 bg-pathmaker-dark min-h-screen">
-      {/* Hero Section - Clean & Typographic */}
-      <section className="relative pt-32 pb-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-white/5">
-        <div className="max-w-5xl">
-          <h1 className="text-5xl md:text-8xl font-serif font-medium text-white mb-8 tracking-tight leading-tight">
-            We are <span className="text-pathmaker-accent">Pathmaker</span>.
-          </h1>
-          <p className="text-xl md:text-3xl text-gray-500 leading-relaxed font-light max-w-3xl">
-            The Engine Room for M&A Execution & Strategic Transitions.
-          </p>
+      {/* Hero Section - Lion Animation + Typography */}
+      <section className="relative pt-24 pb-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-white/5">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+          <div className="max-w-2xl">
+            <h1 className="text-5xl md:text-8xl font-serif font-medium text-white mb-8 tracking-tight leading-tight">
+              We are <span className="text-pathmaker-accent">Pathmaker</span>.
+            </h1>
+            <p className="text-xl md:text-3xl text-gray-500 leading-relaxed font-light">
+              The Engine Room for M&A Execution & Strategic Transitions.
+            </p>
+          </div>
+          <div className="relative">
+            <LionAnimation />
+            <p className="text-center text-pathmaker-accent text-[9px] uppercase tracking-[0.4em] mt-4 font-mono opacity-50">
+              Principal-Led M&amp;A
+            </p>
+          </div>
         </div>
       </section>
 
