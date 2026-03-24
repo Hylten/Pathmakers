@@ -8,8 +8,8 @@ const AboutPage: React.FC = () => {
   return (
     <div className="pt-0 bg-pathmaker-dark min-h-screen">
       {/* Hero Section - Lion Animation + Typography */}
-      <section className="relative pt-24 pb-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-white/5">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <section className="relative pt-20 pb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-white/5">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-8xl font-serif font-medium text-white mb-8 tracking-tight leading-tight">
               We are <span className="text-pathmaker-accent">Pathmaker</span>.
@@ -18,9 +18,9 @@ const AboutPage: React.FC = () => {
               The Engine Room for M&A Execution & Strategic Transitions.
             </p>
           </div>
-          <div className="relative">
+          <div className="flex flex-col items-center overflow-hidden">
             <LionAnimation />
-            <p className="text-center text-pathmaker-accent text-[9px] uppercase tracking-[0.4em] mt-4 font-mono opacity-50">
+            <p className="text-center text-pathmaker-accent text-[9px] uppercase tracking-[0.4em] mt-3 font-mono opacity-40">
               Principal-Led M&amp;A
             </p>
           </div>
