@@ -6,7 +6,7 @@ const Preloader: React.FC = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
-    }, 4000); // 4 seconds total
+    }, 6000); // 6 seconds total
     return () => clearTimeout(timer);
   }, []);
 
@@ -24,15 +24,15 @@ const Preloader: React.FC = () => {
     >
       <div className="relative w-full h-full flex flex-col items-center justify-center pointer-events-none">
         
-        {/* PATHMAKER Text - Large, sharp, minimal glow */}
-        <div className="absolute inset-0 flex items-center justify-center animate-[pathmakerSeq_4s_linear_forwards]">
+        {/* PATHMAKER Text */}
+        <div className="absolute inset-0 flex items-center justify-center animate-[pathmakerSeq_6s_linear_forwards]">
           <h1 className="text-white font-serif text-4xl md:text-6xl tracking-[0.4em] uppercase font-medium">
             PATHMAKER
           </h1>
         </div>
 
-        {/* Lion Logo - Smaller, strong white glow */}
-        <div className="absolute inset-0 flex items-center justify-center animate-[lionSeq_4s_linear_forwards]">
+        {/* Lion Logo */}
+        <div className="absolute inset-0 flex items-center justify-center animate-[lionSeq_6s_linear_forwards]">
           <img
             src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
             alt="Pathmaker Lion"
@@ -44,24 +44,26 @@ const Preloader: React.FC = () => {
 
       <style>{`
         /* 
-          Total 4 seconds = 100%
-          0-2s (0% - 50%): Pathmaker Text
-          2-4s (50% - 100%): Lion Logo
+          Total: 6 seconds (100%)
+          0-2s (0 - 33.3%): Pathmaker Text
+          2-4s (33.3% - 66.6%): Lion scales up
+          4-6s (66.6% - 100%): Lion freezes and holds its massive size 
         */
         @keyframes pathmakerSeq {
           0% { opacity: 0; transform: scale(0.95); filter: blur(4px); }
-          10% { opacity: 1; transform: scale(1); filter: blur(0px); }
-          40% { opacity: 1; transform: scale(1); filter: blur(0px); }
-          50% { opacity: 0; transform: scale(1.05); filter: blur(6px); }
+          5% { opacity: 1; transform: scale(1); filter: blur(0px); }
+          25% { opacity: 1; transform: scale(1); filter: blur(0px); }
+          33.3% { opacity: 0; transform: scale(1.05); filter: blur(6px); }
           100% { opacity: 0; }
         }
 
         @keyframes lionSeq {
-          0% { opacity: 0; transform: scale(0.9); }
-          45% { opacity: 0; transform: scale(0.9); filter: blur(8px); }
-          55% { opacity: 1; transform: scale(1); filter: blur(0px); }
-          90% { opacity: 1; transform: scale(1); filter: blur(0px); }
-          100% { opacity: 0; transform: scale(1.1); filter: blur(10px); }
+          0% { opacity: 0; transform: scale(0.8); }
+          30% { opacity: 0; transform: scale(0.8); filter: blur(8px); }
+          35% { opacity: 1; transform: scale(1); filter: blur(0px); }
+          66.6% { opacity: 1; transform: scale(1.5); filter: blur(0px); }
+          93% { opacity: 1; transform: scale(1.5); filter: blur(0px); }
+          100% { opacity: 0; transform: scale(1.6); filter: blur(10px); }
         }
       `}</style>
     </div>
