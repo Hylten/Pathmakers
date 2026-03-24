@@ -2,6 +2,7 @@ import React from 'react';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import Preloader from './components/Preloader';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
@@ -16,6 +17,7 @@ const BASE = '/Pathmakers';
 const MainApp: React.FC<{ path: string; slug: string }> = ({ path, slug }) => {
   return (
     <HashRouter>
+      <Preloader />
       <div className="flex flex-col min-h-screen bg-pathmaker-dark font-sans text-pathmaker-text selection:bg-pathmaker-accent selection:text-black">
         <Navbar />
 
