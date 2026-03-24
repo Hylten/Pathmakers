@@ -34,14 +34,10 @@ const Preloader: React.FC = () => {
             opacity: 1;
           }
         }
-        @keyframes fadeUp {
-          from { opacity: 0; transform: translateY(10px); }
-          to { opacity: 1; transform: translateY(0); }
-        }
         .letter {
           stroke-dasharray: 100;
           stroke-dashoffset: 100;
-          animation: letterDraw 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+          animation: letterDraw 1s cubic-bezier(0.4, 0, 0.2, 1) forwards;
         }
         .letter-1 { animation-delay: 0.1s; }
         .letter-2 { animation-delay: 0.2s; }
@@ -57,10 +53,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 15 55 L 15 15 L 28 15 L 28 30 L 28 55 M 28 23 L 40 23 L 40 35 L 28 35 L 28 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-1"
         />
         
@@ -68,10 +64,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 45 55 L 53 15 L 61 55 M 47 43 L 59 43" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-2"
         />
         
@@ -79,10 +75,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 65 15 L 90 15 M 77 15 L 77 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-3"
         />
         
@@ -90,10 +86,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 95 15 L 95 55 M 95 35 L 120 35 M 120 15 L 120 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-4"
         />
         
@@ -101,10 +97,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 125 55 L 125 15 L 142 40 L 159 15 L 159 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-5"
         />
         
@@ -112,10 +108,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 163 55 L 171 15 L 179 55 M 165 43 L 177 43" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-6"
         />
         
@@ -123,10 +119,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 185 15 L 185 55 M 205 15 L 185 35 L 205 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-7"
         />
         
@@ -134,10 +130,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 210 15 L 235 15 M 210 35 L 230 35 M 210 55 L 235 55 M 210 15 L 210 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-7"
         />
         
@@ -145,10 +141,10 @@ const Preloader: React.FC = () => {
         <path 
           d="M 240 55 L 240 15 L 255 15 L 255 30 L 255 55 M 255 23 L 268 23 L 268 35 L 255 40 L 268 55" 
           fill="none" 
-          stroke="#C5A059" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+          stroke="#3a3a3a" 
+          strokeWidth="5" 
+          strokeLinecap="square" 
+          strokeLinejoin="miter"
           className="letter letter-7"
         />
       </svg>
