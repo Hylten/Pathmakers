@@ -1,21 +1,111 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 const Preloader: React.FC = () => {
   const [isVisible, setIsVisible] = useState(true);
+  const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
-    }, 4000);
-
+    }, 4000); // 4 seconds total
     return () => clearTimeout(timer);
   }, []);
 
-  if (!isVisible) return null;
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return;
+
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    const katakana = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレゲゼデベペオォコソトノホモヨョロゴゾドボポヴッン';
+    const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    const nums = '0123456789';
+
+    const alphabet = katakana + latin + nums;
+
+    const fontSize = 16;
+    const columns = Math.floor(canvas.width / fontSize);
+    const rows = Math.floor(canvas.height / fontSize);
+
+    const rainDrops: number[] = [];
+
+    for (let x = 0; x < columns; x++) {
+      rainDrops[x] = Math.floor(Math.random() * rows);
+    }
+
+    const startTime = Date.now();
+
+    const draw = () => {
+      ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      ctx.font = fontSize + 'px monospace';
+
+      const elapsed = Date.now() - startTime;
+      
+      // We will render PATHMAKER for the first half (0 to 2000ms)
+      const showPathmaker = elapsed < 2000;
+
+      for (let i = 0; i < rainDrops.length; i++) {
+        let text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.4)';
+
+        if (showPathmaker) {
+          const word = "PATHMAKER";
+          const startCol = Math.floor((columns - word.length) / 2);
+          const targetRow = Math.floor(rows / 2);
+
+          if (i >= startCol && i < startCol + word.length) {
+            const charIndex = i - startCol;
+            
+            if (rainDrops[i] >= targetRow) {
+               ctx.fillStyle = '#FFFFFF';
+               ctx.shadowBlur = 8;
+               ctx.shadowColor = '#FFFFFF';
+               ctx.fillText(word[charIndex], i * fontSize, targetRow * fontSize);
+               ctx.shadowBlur = 0;
+            }
+
+            if (rainDrops[i] === targetRow) {
+               text = word[charIndex];
+               ctx.fillStyle = '#FFFFFF';
+            }
+          }
+        }
+
+        ctx.fillText(text, i * fontSize, rainDrops[i] * fontSize);
+
+        if (rainDrops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+          rainDrops[i] = 0;
+        }
+        rainDrops[i]++;
+      }
+    };
+
+    const intervalId = setInterval(draw, 35);
+
+    const handleResize = () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    };
+
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      clearInterval(intervalId);
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
+  if (!isVisible && document.readyState === "complete") return null;
 
   return (
     <div 
-      className="fixed inset-0 z-[99999] bg-[#0b0f16] flex flex-col items-center justify-center"
+      className="fixed inset-0 z-[9999] bg-[#0b0f16] flex flex-col items-center justify-center overflow-hidden"
       style={{ 
         opacity: isVisible ? 1 : 0, 
         visibility: isVisible ? 'visible' : 'hidden',
@@ -23,131 +113,25 @@ const Preloader: React.FC = () => {
         transition: 'opacity 0.8s ease-out'
       }}
     >
-      <style>{`
-        @keyframes letterDraw {
-          from { 
-            stroke-dashoffset: 100;
-            opacity: 0;
-          }
-          to { 
-            stroke-dashoffset: 0;
-            opacity: 1;
-          }
-        }
-        .letter {
-          stroke-dasharray: 100;
-          stroke-dashoffset: 100;
-          animation: letterDraw 1s cubic-bezier(0.4, 0, 0.2, 1) forwards;
-        }
-        .letter-1 { animation-delay: 0.1s; }
-        .letter-2 { animation-delay: 0.2s; }
-        .letter-3 { animation-delay: 0.3s; }
-        .letter-4 { animation-delay: 0.4s; }
-        .letter-5 { animation-delay: 0.5s; }
-        .letter-6 { animation-delay: 0.6s; }
-        .letter-7 { animation-delay: 0.7s; }
-      `}</style>
+      <canvas ref={canvasRef} className="absolute inset-0 w-full h-full opacity-80" />
+      
+      {/* Container for Lion overlay, hidden for first 2s, fading in from 2s to 4s */}
+      <div className="relative z-10 text-center animate-[lionFadeIn_4s_ease-out_forwards] pointer-events-none">
+        <img
+          src="https://i.postimg.cc/1XnVpHkM/Screenshot-2026-01-18-at-18-20-12-Photoroom.png"
+          alt="Pathmaker Lion"
+          className="h-32 w-32 md:h-48 md:w-48 object-contain rounded-sm brightness-0 invert filter drop-shadow-[0_0_15px_rgba(255,255,255,0.8)]"
+        />
+      </div>
 
-      <svg viewBox="0 0 280 70" className="w-full max-w-[280px]">
-        {/* P */}
-        <path 
-          d="M 15 55 L 15 15 L 28 15 L 28 30 L 28 55 M 28 23 L 40 23 L 40 35 L 28 35 L 28 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-1"
-        />
-        
-        {/* A */}
-        <path 
-          d="M 45 55 L 53 15 L 61 55 M 47 43 L 59 43" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-2"
-        />
-        
-        {/* T */}
-        <path 
-          d="M 65 15 L 90 15 M 77 15 L 77 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-3"
-        />
-        
-        {/* H */}
-        <path 
-          d="M 95 15 L 95 55 M 95 35 L 120 35 M 120 15 L 120 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-4"
-        />
-        
-        {/* M */}
-        <path 
-          d="M 125 55 L 125 15 L 142 40 L 159 15 L 159 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-5"
-        />
-        
-        {/* A */}
-        <path 
-          d="M 163 55 L 171 15 L 179 55 M 165 43 L 177 43" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-6"
-        />
-        
-        {/* K */}
-        <path 
-          d="M 185 15 L 185 55 M 205 15 L 185 35 L 205 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-7"
-        />
-        
-        {/* E */}
-        <path 
-          d="M 210 15 L 235 15 M 210 35 L 230 35 M 210 55 L 235 55 M 210 15 L 210 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-7"
-        />
-        
-        {/* R */}
-        <path 
-          d="M 240 55 L 240 15 L 255 15 L 255 30 L 255 55 M 255 23 L 268 23 L 268 35 L 255 40 L 268 55" 
-          fill="none" 
-          stroke="#3a3a3a" 
-          strokeWidth="5" 
-          strokeLinecap="square" 
-          strokeLinejoin="miter"
-          className="letter letter-7"
-        />
-      </svg>
+      <style>{`
+        @keyframes lionFadeIn {
+          0% { opacity: 0; transform: scale(0.9); filter: blur(10px); }
+          45% { opacity: 0; transform: scale(0.95); filter: blur(5px); }
+          55% { opacity: 1; transform: scale(1); filter: blur(0px); }
+          100% { opacity: 1; transform: scale(1); filter: blur(0px); }
+        }
+      `}</style>
     </div>
   );
 };
