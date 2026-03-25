@@ -66,17 +66,21 @@ async function generateSEO() {
 
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
-    // 1. Generate Index Page with Pre-rendered list (Fallback for JS failure)
-    let listHtml = '<style>.arch-item a { transition: opacity 0.3s; } .arch-item a:hover { opacity: 0.7; }</style>';
-    listHtml += '<div style="background: #ffffff !important; min-height: 100vh; padding: 180px 24px; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
-    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
-    listHtml += '<p style="font-size: 1.25rem; color: #4B5563; max-width: 700px; margin: 0 auto 200px; line-height: 1.6; font-weight: 300; text-align: center;">Technical analysis of cross-border M&A, middle-market capital navigation, and the industrial mechanics of Nordic advisory.</p>';
+    // Process all files for data
+    const yearData = {};
+    const quarterData = {};
+    const categoryData = {};
+    const fileData = [];
+
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         let data = {};
+        let content = '';
         try {
-            data = matter(rawContent).data || {};
+            const parsed = matter(rawContent);
+            data = parsed.data || {};
+            content = parsed.content || '';
         } catch (e) {
             console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
             continue;
@@ -84,14 +88,113 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Untitled';
         const description = data.description || '';
-        const date = data.date || 'Date Not Available';
+        const dateStr = data.date || '';
+        const tags = data.tags || [];
+        const date = dateStr ? new Date(dateStr) : null;
+        const year = date ? date.getFullYear().toString() : '';
+        const quarter = date ? `Q${Math.floor((date.getMonth() + 3) / 3)} ${year}` : '';
+        const wordCount = content.split(/\s+/).length;
+        const readTime = Math.max(1, Math.ceil(wordCount / 200));
 
+        fileData.push({ slug, title, description, date: dateStr, year, quarter, tags, readTime, file });
+
+        if (year && !yearData[year]) yearData[year] = [];
+        if (year) yearData[year].push(slug);
+
+        if (quarter && !quarterData[quarter]) quarterData[quarter] = [];
+        if (quarter) quarterData[quarter].push(slug);
+
+        tags.forEach(tag => {
+            const cat = tag.trim();
+            if (!categoryData[cat]) categoryData[cat] = [];
+            categoryData[cat].push(slug);
+        });
+    }
+
+    const years = Object.keys(yearData).sort().reverse();
+    const quarters = Object.keys(quarterData).sort().reverse();
+    const categories = Object.keys(categoryData).sort();
+
+    // CSS for navigation
+    const navStyles = `
+    <style>
+        .arch-item a { transition: opacity 0.3s; }
+        .arch-item a:hover { opacity: 0.7; }
+        .year-nav, .quarter-nav, .category-nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 40px; }
+        .year-box, .quarter-box, .cat-box { display: inline-block; padding: 10px 18px; background: transparent; border: 1px solid rgba(0,0,0,0.1); color: #666; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; font-weight: 500; cursor: pointer; transition: 0.3s; }
+        .year-box:hover, .quarter-box:hover, .cat-box:hover { border-color: #B08D57; color: #000; }
+        .year-box.active, .quarter-box.active, .cat-box.active { background: #B08D57; border-color: #B08D57; color: #fff; }
+        .search-box { max-width: 400px; margin: 0 auto 50px; }
+        .search-input { width: 100%; padding: 14px 20px; background: rgba(0,0,0,0.03); border: 1px solid rgba(0,0,0,0.1); color: #000; font-size: 14px; font-family: 'Inter', sans-serif; outline: none; transition: 0.3s; }
+        .search-input:focus { border-color: #B08D57; }
+        .search-input::placeholder { color: #999; }
+        .read-time { font-size: 9px; color: #999; margin-left: 10px; }
+        .tag { display: inline-block; padding: 3px 8px; background: rgba(176,141,87,0.1); border: 1px solid rgba(176,141,87,0.2); color: #B08D57; font-size: 8px; text-transform: uppercase; letter-spacing: 1px; margin-right: 6px; }
+    </style>`;
+
+    // JavaScript for filtering
+    const filterScript = `
+    <script>
+        let activeFilters = { year: 'all', quarter: 'all', category: 'all' };
+        function filterItems(type, value, el) {
+            activeFilters[type] = value;
+            document.querySelectorAll('.' + type + '-box').forEach(b => b.classList.remove('active'));
+            el.classList.add('active');
+            document.querySelector('.search-input').value = '';
+            document.querySelectorAll('.arch-item').forEach(item => {
+                const yearMatch = activeFilters.year === 'all' || item.dataset.year === activeFilters.year;
+                const quarterMatch = activeFilters.quarter === 'all' || item.dataset.quarter === activeFilters.quarter;
+                const catMatch = activeFilters.category === 'all' || (item.dataset.tags || '').split(',').includes(activeFilters.category);
+                if (yearMatch && quarterMatch && catMatch) { item.style.display = 'block'; } else { item.style.display = 'none'; }
+            });
+        }
+        function searchItems(query) {
+            query = query.toLowerCase();
+            document.querySelectorAll('.arch-item').forEach(item => {
+                const title = (item.querySelector('h2')?.textContent || '').toLowerCase();
+                const desc = (item.querySelector('.desc')?.textContent || '').toLowerCase();
+                if (!query || title.includes(query) || desc.includes(query)) { item.style.display = 'block'; } else { item.style.display = 'none'; }
+            });
+            if (query) { document.querySelectorAll('.year-box, .quarter-box, .cat-box').forEach(b => b.classList.remove('active')); }
+        }
+    </script>`;
+
+    // Navigation HTML
+    const hasMultipleYears = years.length > 1;
+    const yearNavItems = years.map(y => `<span class="year-box" data-year="${y}" onclick="filterItems('year', '${y}', this)">${y}</span>`).join('');
+    const quarterNavItems = quarters.map(q => `<span class="quarter-box" data-quarter="${q}" onclick="filterItems('quarter', '${q}', this)">${q}</span>`).join('');
+    const categoryNavItems = categories.map(c => `<span class="cat-box" data-category="${c}" onclick="filterItems('category', '${c}', this)">${c}</span>`).join('');
+
+    const filterNav = hasMultipleYears || categories.length > 0 ? `
+        <div class="year-nav">
+            <span class="year-box ${hasMultipleYears ? 'active' : ''}" data-year="all" onclick="filterItems('year', 'all', this)">All</span>
+            ${yearNavItems}
+        </div>
+        ${quarters.length > 0 ? `<div class="quarter-nav">${quarterNavItems}</div>` : ''}
+        ${categories.length > 0 ? `<div class="category-nav">${categoryNavItems}</div>` : ''}
+    ` : '';
+
+    const searchBox = `
+        <div class="search-box">
+            <input type="text" class="search-input" placeholder="Search insights..." onkeyup="searchItems(this.value)">
+        </div>
+    `;
+
+    // 1. Generate Index Page with Pre-rendered list (Fallback for JS failure)
+    let listHtml = navStyles + filterScript + filterNav + searchBox;
+    listHtml += '<div style="background: #ffffff !important; min-height: 100vh; padding: 180px 24px; color: #1A1A1A; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
+    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #000000 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Insights <span style="font-style: italic; color: #D1D5DB; font-weight: 300; letter-spacing: -0.02em;">Archive</span></h1>';
+    listHtml += '<p style="font-size: 1.25rem; color: #4B5563; max-width: 700px; margin: 0 auto 100px; line-height: 1.6; font-weight: 300; text-align: center;">Technical analysis of cross-border M&A, middle-market capital navigation, and the industrial mechanics of Nordic advisory.</p>';
+
+    for (const fd of fileData) {
+        const tagsHtml = fd.tags.length > 0 ? `<div style="margin-bottom: 16px;">${fd.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : '';
         listHtml += `
-            <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(0,0,0,0.05);">
-                <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
-                <a href="/Pathmakers/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
-                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
-                    <p style="font-size: 1.25rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+            <article class="arch-item" data-year="${fd.year}" data-quarter="${fd.quarter}" data-tags="${fd.tags.join(',')}" style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(0,0,0,0.05);">
+                <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &mdash; ${fd.date} <span class="read-time">${fd.readTime} min</span></div>
+                ${tagsHtml}
+                <a href="/Pathmakers/insights/${fd.slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
+                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${fd.title}</h2>
+                    <p class="desc" style="font-size: 1.25rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${fd.description}</p>
                     <div style="display: flex; flex-direction: column; align-items: center;">
                         <span style="color: #000; font-size: 10px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700; border-bottom: 1px solid #B08D57; padding-bottom: 8px;">View Case Study</span>
                     </div>
@@ -122,6 +225,27 @@ async function generateSEO() {
     console.log('✅ Generated /dist/insights/index.html');
 
     // 2. Generate Article Pages
+    // Sort files by date for prev/next
+    const sortedFiles = [...files].sort((a, b) => {
+        try {
+            const rawA = fs.readFileSync(path.join(CONTENT_DIR, a), 'utf8');
+            const rawB = fs.readFileSync(path.join(CONTENT_DIR, b), 'utf8');
+            const dateA = new Date(matter(rawA).data.date || 0);
+            const dateB = new Date(matter(rawB).data.date || 0);
+            return dateB - dateA;
+        } catch (e) { return 0; }
+    });
+    
+    const slugIndex = {};
+    sortedFiles.forEach((f, i) => {
+        try {
+            const raw = fs.readFileSync(path.join(CONTENT_DIR, f), 'utf8');
+            const data = matter(raw).data || {};
+            const s = data.slug || f.replace('.md', '');
+            slugIndex[s] = i;
+        } catch (e) {}
+    });
+
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
@@ -138,13 +262,73 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Insights Article';
         const description = data.description || '';
+        const date = data.date || '';
+        const dateObj = date ? new Date(date) : null;
+        const year = dateObj ? dateObj.getFullYear().toString() : '';
+        const wordCount = content.split(/\s+/).length;
+        const readTime = Math.max(1, Math.ceil(wordCount / 200));
 
         const articleDir = path.join(INSIGHTS_DIST_DIR, slug);
         ensureDir(articleDir);
 
+        // Schema.org
+        const schema = {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": title,
+            "description": description,
+            "author": { "@type": "Person", "name": "Pathmaker" },
+            "datePublished": date,
+            "url": `https://hylten.github.io/Pathmakers/insights/${slug}/`
+        };
+
+        // Breadcrumb
+        const breadcrumb = year ? `
+            <div style="margin-bottom: 30px;">
+                <a href="/Pathmakers/insights/" style="font-size: 10px; color: #999; text-transform: uppercase; letter-spacing: 2px;">Insights</a>
+                <span style="font-size: 10px; color: #ccc; margin: 0 8px;">/</span>
+                <a href="/Pathmakers/insights/?year=${year}" style="font-size: 10px; color: #999; text-transform: uppercase; letter-spacing: 2px;">${year}</a>
+            </div>` : '';
+
+        // Prev/Next
+        const currentIdx = slugIndex[slug] || 0;
+        const prevFile = sortedFiles[currentIdx + 1];
+        const nextFile = sortedFiles[currentIdx - 1];
+        
+        let prevNextHtml = '';
+        if (prevFile || nextFile) {
+            const getTitle = (f) => {
+                try {
+                    const r = fs.readFileSync(path.join(CONTENT_DIR, f), 'utf8');
+                    const d = matter(r).data || {};
+                    return d.title || 'Previous';
+                } catch (e) { return 'Previous'; }
+            };
+            const getSlug = (f) => {
+                try {
+                    const r = fs.readFileSync(path.join(CONTENT_DIR, f), 'utf8');
+                    const d = matter(r).data || {};
+                    return d.slug || f.replace('.md', '');
+                } catch (e) { return ''; }
+            };
+            prevNextHtml = `
+                <div style="display: flex; justify-content: space-between; margin-top: 60px; padding-top: 30px; border-top: 1px solid rgba(0,0,0,0.1);">
+                    ${prevFile ? `<a href="/Pathmakers/insights/${getSlug(prevFile)}/" style="text-align: left;">
+                        <div style="font-size: 9px; color: #999; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px;">← Previous</div>
+                        <div style="font-family: serif; font-size: 1.1rem; color: #B08D57;">${getTitle(prevFile)}</div>
+                    </a>` : '<div></div>'}
+                    ${nextFile ? `<a href="/Pathmakers/insights/${getSlug(nextFile)}/" style="text-align: right;">
+                        <div style="font-size: 9px; color: #999; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px;">Next →</div>
+                        <div style="font-family: serif; font-size: 1.1rem; color: #B08D57;">${getTitle(nextFile)}</div>
+                    </a>` : '<div></div>'}
+                </div>`;
+        }
+
         // Simple markdown pre-render (very basic)
         const contentHtml = `<div style="padding: 4rem 1rem; max-width: 800px; margin: 0 auto; color: #e5e5e5; font-family: sans-serif;">
+            ${breadcrumb}
             <h1 style="font-family: serif; font-size: 3rem; margin-bottom: 2rem;">${title}</h1>
+            <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 40px;">${date} <span style="color: #999; margin-left: 10px;">${readTime} min read</span></div>
                 <div style="line-height: 2.1; font-size: 1.35rem; color: #374151 !important; font-weight: 300; width: 100%; max-width: 800px; text-align: left; margin: 0 auto;">
                     ${content.split('\n').map(p => {
             p = p.trim();
@@ -155,11 +339,13 @@ async function generateSEO() {
             return `<p style="margin-bottom: 48px;">${p}</p>`;
         }).join('')}
                 </div>
+                ${prevNextHtml}
         </div>`;
 
         const articleHtml = baseHtml
             .replace(/<title>.*?<\/title>/, `<title>${title} | Pathmaker</title>`)
             .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+            .replace('</head>', `<script type="application/ld+json">${JSON.stringify(schema)}</script>\n</head>`)
             .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
         fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
