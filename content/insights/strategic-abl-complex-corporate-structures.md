@@ -6,13 +6,16 @@ author: "Jonas Hyltén"
 slug: "strategic-abl-complex-corporate-structures"
 ---
 
-**The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets. The structural gap is created by accounting opacity, not credit scarcity. In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures.**
+****The functional constraint in the European and North American mid market is no longer the availability of assets but the inability of lenders and acquirers to correctly interpret cross entity balance sheets.**
 
-This is the opening for strategic Asset-Based Lending. ### Phase I: THE REGIME SHIFT Across the EU, UK, and North America, the traditional underwriting model has lost alignment with contemporary corporate architecture. Mid market companies increasingly operate through layered holding companies, purpose built asset vehicles, tax optimised operating subsidiaries, and jurisdictional partitions shaped by regulatory environments.
 
-These structures evolved for practical reasons such as risk segmentation, acquisition staging, or intellectual property isolation. They did not evolve to satisfy lender visibility requirements. The result is a structural inefficiency where companies with high real asset density appear higher risk than they are.
+# The structural gap is created by accounting opacity, not credit scarcity
 
-1. Balance sheet distortion. Traditional underwriting metrics such as EBITDA linearity, single entity collateral, and uniform jurisdictional oversight fail when cash flows move across entities with different legal obligations.
+In 2026, deployable capital sits idle while businesses with strong collateral profiles fail to convert asset strength into liquidity because institutional lenders cannot map operational cash flow to collateral quality inside multi company structures.** This is the opening for strategic Asset-Based Lending. ### Phase I: THE REGIME SHIFT Across the EU, UK, and North America, the traditional underwriting model has lost alignment with contemporary corporate architecture.
+
+Mid market companies increasingly operate through layered holding companies, purpose built asset vehicles, tax optimised operating subsidiaries, and jurisdictional partitions shaped by regulatory environments. These structures evolved for practical reasons such as risk segmentation, acquisition staging, or intellectual property isolation. They did not evolve to satisfy lender visibility requirements.
+
+The result is a structural inefficiency where companies with high real asset density appear higher risk than they are. 1. Balance sheet distortion. Traditional underwriting metrics such as EBITDA linearity, single entity collateral, and uniform jurisdictional oversight fail when cash flows move across entities with different legal obligations.
 
 The perceived risk is higher than the actual risk. 2. Liquidity fragmentation. Assets may be located in one entity, revenues in another, and cash reserves in a holding company that has no direct operational exposure.
 
@@ -22,21 +25,56 @@ When documentation, entity responsibilities, and intercompany agreements are opa
 
 What institutions perceive as risk is often simply a lack of technical mapping. Strategic Asset-Based Lending converts complexity into eligible collateral. (See [institutional capital execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) ### Phase II: TECHNICAL MECHANICS OF STRATEGIC Asset-Based Lending Strategic Asset-Based Lending is not a commodity lending product.
 
-It is a liquidity engineering discipline that requires operational intelligence, capital stack calibration, and forensic mapping across complex corporate ecosystems. The mechanics fall into four domains. 1.
+It is a liquidity engineering discipline that requires operational intelligence, capital stack calibration, and forensic mapping across complex corporate ecosystems.
 
-Collateral cartography This is the systematic identification, classification, and valuation of assets across all entities involved in the corporate group. It includes working capital, heavy equipment, intellectual property, contractual receivables, inventory classes, secured cash flow lines, and hard assets. The strategic overlay is the mapping of asset control rights and their legal portability.
 
-An asset may be valuable but unusable as collateral if its entity is structurally ring fenced. Strategic Asset-Based Lending models the entire map before defining the borrowing base. 2. Multi entity borrowing base engineering The borrowing base is not a single pool but a coordinated matrix of asset classes distributed across legal jurisdictions.
+# The mechanics fall into four domains
 
-The challenge is determining which assets can support senior secured lending without violating corporate separations. Techniques include: - Cross entity collateral synchronisation - Covenant neutral intercompany agreements - Limited recourse structures that maintain corporate integrity - Asset hardening procedures that preserve collateral stability across acquisition cycles Borrowing base engineering is not about pushing leverage.
+1. Collateral cartography This is the systematic identification, classification, and valuation of assets across all entities involved in the corporate group. It includes working capital, heavy equipment, intellectual property, contractual receivables, inventory classes, secured cash flow lines, and hard assets.
 
-It is about removing noise so collateral can carry liquidity. 3. LTV curve calibration Loan to Value cannot be linear across entities. Strategic Asset-Based Lending uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity.
+The strategic overlay is the mapping of asset control rights and their legal portability. An asset may be valuable but unusable as collateral if its entity is structurally ring fenced. Strategic Asset-Based Lending models the entire map before defining the borrowing base.
 
-For example: - Hard assets with established resale markets follow high stability LTV curves. - Receivables tied to diversified clients follow mid band curves with time decay functions. - Intellectual property or contractual rights may require structural subordination or cross collateralisation.
+2. Multi entity borrowing base engineering The borrowing base is not a single pool but a coordinated matrix of asset classes distributed across legal jurisdictions. - The challenge is determining which assets can support senior secured lending without violating corporate separations.
+
+
+- Techniques include:
+
+- Cross entity collateral synchronisation
+
+- Covenant neutral intercompany agreements
+
+- Limited recourse structures that maintain corporate integrity
+
+- Asset hardening procedures that preserve collateral stability across acquisition cycles Borrowing base engineering is not about pushing leverage. It is about removing noise so collateral can carry liquidity.
+
+
+3. LTV curve calibration Loan to Value cannot be linear across entities. Strategic Asset-Based Lending uses tiered LTV curves that reflect asset durability, jurisdictional security, and resale velocity.
+
+
+- - For example:
+
+- Hard assets with established resale markets follow high stability LTV curves.
+
+- Receivables tied to diversified clients follow mid band curves with time decay functions.
+
+- Intellectual property or contractual rights may require structural subordination or cross collateralisation.
+
 
 The objective is to define a defensible seniority stack that institutional lenders can recognise without being forced into binary credit decisions. 4. Cash flow waterfalls for multi entity groups When liquidity flows across entities, misaligned waterfalls create default illusions.
 
-Strategic Asset-Based Lending constructs waterfalls that reflect operational reality rather than accounting formality. This includes: - Entity specific operating reserves - Group level senior obligations - Structured intra group compensation - Acquisition staging reserves - Protected reinvestment corridors Waterfall architecture determines lender confidence.
+
+- - Strategic Asset-Based Lending constructs waterfalls that reflect operational reality rather than accounting formality. This includes:
+
+- Entity specific operating reserves
+
+- Group level senior obligations
+
+- Structured intra group compensation
+
+- Acquisition staging reserves
+
+- Protected reinvestment corridors Waterfall architecture determines lender confidence.
+
 
 The clearer the intercompany monetisation pathways, the lower the friction cost of capital. ### Phase III: THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lender. The role is not capital deployment but institutional INTRODUCTION , technical translation, and balance sheet optimisation.
 
@@ -44,13 +82,19 @@ The mid market does not require more lenders. It requires intermediaries capable
 
 My work focuses on operational clarity, exit readiness, and corporate architecture designed for high velocity decision making. Capital always follows structure. If the structure is unclear, capital withdraws or overprices risk.
 
-Roials Capital serves as the neutral intelligence layer between corporate groups and private credit institutions. The partnership model works across three mandates. 1. Structural mapping The first mandate is to document, translate, and present the corporate structure in a form that withstands institutional due diligence.
+Roials Capital serves as the neutral intelligence layer between corporate groups and private credit institutions.
 
-This includes entity flowcharts, collateral categorisation, burden analysis, lien availability, and identification of assets that can be hardened pre financing. 2. Opportunity velocity The second mandate is accelerating transaction readiness.
 
-Many mid market firms fail to convert opportunities because their documentation is incomplete or misaligned with lender requirements. The partnership eliminates these delays by aligning documentation with institutional archetypes. 3.
+# The partnership model works across three mandates
 
-Alignment with the correct capital archetype The correct lender is not the one offering the lowest rate. It is the one whose risk architecture aligns with the borrowing base characteristics. Roials Capital curates introductions to lenders whose mandate matches the structure.
+1. Structural mapping The first mandate is to document, translate, and present the corporate structure in a form that withstands institutional due diligence. This includes entity flowcharts, collateral categorisation, burden analysis, lien availability, and identification of assets that can be hardened pre financing.
+
+2. Opportunity velocity The second mandate is accelerating transaction readiness. Many mid market firms fail to convert opportunities because their documentation is incomplete or misaligned with lender requirements.
+
+
+# The partnership eliminates these delays by aligning documentation with institutional archetypes
+
+3. Alignment with the correct capital archetype The correct lender is not the one offering the lowest rate. It is the one whose risk architecture aligns with the borrowing base characteristics. Roials Capital curates introductions to lenders whose mandate matches the structure.
 
 The objective is not to increase leverage but to increase optionality. In energy contexts or heavy industrial environments, the strategic partner is NAEO. Their operational intelligence in Alberta, combined with field level visibility, creates a defensible foundation for collateral structuring.
 
@@ -76,6 +120,4 @@ Opportunity velocity Can the organisation move fast enough when a strategic acqu
 
 For organisations requiring a deeper evaluation, a confidential strategy audit provides a structural map, collateral analysis, and a set of corrective actions to prepare the organisation for institutional engagement. For allocators, this creates clear visibility. For owners, it removes friction.
 
-For acquirers, it increases certainty of execution. [END OF BRIEFING] Access is restricted to approved mandates. TECHNICAL MANDATE Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates. Minimum target size: $5M+.
+For acquirers, it increases certainty of execution. [END OF BRIEFING]

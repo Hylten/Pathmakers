@@ -10,9 +10,10 @@ slug: "strategic-liquidity-mid-market-ma-institutional-briefing"
 
 **Across Europe and North America, acquisition attempts stall not because the target lacks fundamentals but because the acquirer cannot demonstrate executable liquidity within the required time window. The constraint is systemic. Regulatory tightening on commercial lending, fragmented private credit markets, and increased diligence requirements have produced a capital environment where acquisition readiness is primarily determined by liquidity engineering rather than headline balance sheet size.**
 
-### Phase I: THE REGIME SHIFT Mid market M&A is operating within a regime defined by three converging dynamics. 1. Capital friction at the bank level. European commercial banks have shifted toward defensive underwriting post 2024, driving wider collateral haircuts, slower approval cycles, and reduced appetite for non essential acquisition financing.
 
-Buyers dependent on credit committee approvals lose momentum relative to liquidity flexible operators. 2. Valuation stickiness. Sellers, particularly in engineered manufacturing, logistics, and specialized service businesses, anchor to pre inflation EBITDA multiples.
+# Phase I: THE REGIME SHIFT Mid market M&A is operating within a regime defined by three converging dynamics. 1. Capital friction at the bank level. European commercial banks have shifted toward defensive underwriting post 2024, driving wider collateral haircuts, slower approval cycles, and reduced appetite for non essential acquisition financing.
+
+**Buyers dependent on credit committee approvals lose momentum relative to liquidity flexible operators. 2. Valuation stickiness. Sellers, particularly in engineered manufacturing, logistics, and specialized service businesses, anchor to pre inflation EBITDA multiples.**
 
 Buyers attempt to price in a normalized forward earnings base. The valuation gap remains persistent, and the only element that can bridge it is acquisition certainty backed by verifiable liquidity. 3. Counterparty fatigue.
 
@@ -50,7 +51,8 @@ Institutional INTRODUCTION. Capital providers appropriate for the buyer’s prof
 
 In energy focused mandates, Roials Capital aligns with its strategic partner NAEO for institutional grade upstream intelligence. In M&A mandates outside that domain, the function is structural alignment and friction removal on the buyer side. The model remains neutral, analytical, and strategically focused.
 
-### Phase IV: THE STEWARDSHIP FILTER Stewardship within acquisition execution is the discipline of managing capital with moral precision and non wasteful intent. It is the difference between opportunistic deal chasing and measured acquisition strategy. Stewardship incorporates: 1.
+
+# Phase IV: THE STEWARDSHIP FILTER Stewardship within acquisition execution is the discipline of managing capital with moral precision and non wasteful intent. It is the difference between opportunistic deal chasing and measured acquisition strategy. Stewardship incorporates: 1.
 
 Capital discipline. Avoiding overextension, avoiding vanity acquisitions, and avoiding misaligned leverage. 2. Responsible scaling.
 
@@ -68,4 +70,4 @@ Ability to move from NDA to LOI to close with disciplined cadence. 3. Capital st
 
 Off market access. Buyers with executable liquidity are granted access to high intent sellers before the broader market is aware. A confidential strategy audit provides a structured pathway for buyers seeking to eliminate capital friction, increase acquisition leverage, and operate with institutional precision in a market defined by liquidity scarcity.
 
-[END OF BRIEFING] Access is restricted to approved mandates. TECHNICAL MANDATE Qualification Gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+.
+[END OF BRIEFING]

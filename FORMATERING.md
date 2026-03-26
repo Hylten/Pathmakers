@@ -1,6 +1,6 @@
 # Article Formatting Skill
 
-Reformats raw article text into clean, structured markdown following the Venture Studio visual architecture.
+Reformats raw article text into clean, structured markdown.
 
 ## Rules
 
@@ -16,36 +16,63 @@ Reformats raw article text into clean, structured markdown following the Venture
 ### Headings
 - `# Title Case` for main sections (H1)
 - `## Title Case` for sub-sections (H2)
-- Space after `#` required for ReactMarkdown rendering
-- Cormorant Garamond font in CSS
+- Space after `#` REQUIRED for ReactMarkdown rendering
+- Never `#Heading` without space
 
 ### Paragraphs
 - 3-5 sentences per paragraph, grouped by topic
 - Two line breaks (one blank line) between every block
-- Never one sentence per line — that's too choppy
+- Never one sentence per line
 - Sentences about the same idea stay together
 
 ### Bullet Lists
 - `- item` with blank line between each item
 - Preceded by an intro sentence ending with `:` or `.`
-- Each item is a complete thought, not a fragment
 
 ### Bible Verses
 - Isolated as their own block:
   ```
-  "The verse text in italics and quotes"
+  "The verse text"
 
   - Book Chapter:Verse
   ```
 
 ### Footer
-- `---` separator
-- Clean ending — no CTAs or "TECHNICAL MANDATE" blocks unless specified
+- `---` separator at end
+- NO CTAs, NO "TECHNICAL MANDATE", NO "Book a..." blocks
+- NO marketing language at the end
 
-### What to NEVER do
+## Content Cleanup Rules
+
+### Remove These Patterns
+- `TECHNICAL MANDATE` blocks and everything after them
+- `Qualification Gates strictly observed...` / `Access is restricted...`
+- `Minimum target size: $5M+`
+- `Book a tactical consultation` / `Book a confidential briefing`
+- `THE 25% LINK RULE (Triggered)` and similar CTA blocks
+- `For founders preparing...Roials Capital...` (marketing cross-links)
+- `INTERNAL TONE, PRINCIPAL VOICE` and similar meta-comments
+- `Expanded analytical section - long-form technical breakdown` (meta-comments in parens)
+- Any parenthetical meta-instructions like `(Triggered)`, `(Expanded...)`
+
+### Fix Broken Headings
+- `### Pillar I: s` → `## Pillar I` (strip `: s` artifact)
+- `### Step I: s` → `## Step` (strip `: s` artifact)
+- Any `### Word: s` pattern → `## Word`
+- Clean up heading artifacts: strip trailing `: s`, `I: s`, numbers after colons
+
+### Fix Author Line
+- `•Author Name` → `Author Name` (strip leading bullet)
+- `•Pathmaker Intelligence Unit` → `Pathmaker Intelligence Unit`
+
+### Fix Numbered Lists
+- Inline `1. Item text. 2. Item text.` → proper numbered list with line breaks
+- Each item on its own line with blank line between
+
+## What to NEVER Do
 - Don't add content not in the original
 - Don't rewrite sentences
-- Don't use `#Heading` without space (breaks ReactMarkdown)
+- Don't use `#Heading` without space
 - Don't create one-sentence paragraphs
 - Don't duplicate heading text in the paragraph below
 - Don't add CTAs, technical mandates, or marketing blocks
@@ -53,34 +80,15 @@ Reformats raw article text into clean, structured markdown following the Venture
 ## Detection Heuristics
 
 ### Section Boundaries
-Look for these patterns to insert `#` headings:
 - ALL CAPS phrases: `THE REGIME SHIFT` → `# The Regime Shift`
-- Topic introducers: `The Nature of...`, `The Role of...`, `The Architecture of...`
-- Concept statements: `Gnosjö was never merely...`, `Hyltén Invest operates on...`
+- Topic introducers: `The Nature of...`, `The Role of...`
+- Concept statements: `Gnosjö was never merely...`
 - Question formats: `Why X matters...`, `How X works...`
 
 ### Paragraph Grouping
-Break into new paragraph when:
-- Cumulative length reaches 200+ characters
-- 4+ sentences accumulated
-- Next sentence introduces a new sub-topic
-- Next sentence starts with "For [Company]...", "This is...", "In [context]..."
-
-## Python Script Template
-
-```python
-# format_articles.py
-# 1. Parse frontmatter (split on ---)
-# 2. Fix Bible verses (regex for "quote" - Book Ch:V)
-# 3. Detect section boundaries (pattern matching)
-# 4. Split into sentences (respect abbreviations, refs)
-# 5. Group into paragraphs (3-5 sentences, 200+ chars)
-# 6. Remove duplicate heading text from following paragraph
-# 7. Add bold ingress on first paragraph
-# 8. Add # headings
-# 9. Clean up excess blank lines
-# 10. Write back with frontmatter
-```
+- Break when cumulative length reaches 200+ characters
+- Break after 4+ sentences
+- Break when next sentence introduces new sub-topic
 
 ## Reference
-Venture Studio article: `https://hylten.github.io/Venture-Studio/#/intelligence/vrdering-i-en-olinjr-marknad-varfr-ebitd`
+Venture Studio: `https://hylten.github.io/Venture-Studio/#/intelligence/vrdering-i-en-olinjr-marknad-varfr-ebitd`

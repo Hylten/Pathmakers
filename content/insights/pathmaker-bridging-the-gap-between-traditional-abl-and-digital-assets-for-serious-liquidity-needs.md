@@ -6,11 +6,11 @@ author: "Jonas Hyltén"
 slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
 ---
 
-**# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy. They demand liquidity, precision, and a lender that understands the operational grind behind carve outs, distressed but functioning assets, and transactions that sit just outside the comfort zone of institutional credit committees.**
+****# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy. They demand liquidity, precision, and a lender that understands the operational grind behind carve outs, distressed but functioning assets, and transactions that sit just outside the comfort zone of institutional credit committees.** Pathmaker exists for these conditions.**
 
-Pathmaker exists for these conditions. We operate inside the gap that has widened between traditional asset based Strategic Collateralization and the emerging category of digital collateral. Most lenders talk about innovation.
+We operate inside the gap that has widened between traditional asset based Strategic Collateralization and the emerging category of digital collateral. Most lenders talk about innovation. We focus on structural mechanics.
 
-We focus on structural mechanics. We focus on collateral that performs. We focus on the borrowers who know the difference. This is where high net worth and ultra high net worth clients operate when they need real liquidity, not theoretical options or advisor‑deck optimism.
+We focus on collateral that performs. We focus on the borrowers who know the difference. This is where high net worth and ultra high net worth clients operate when they need real liquidity, not theoretical options or advisor‑deck optimism.
 
 The Reality of Mid Market Liquidity Mid market M and A, especially in healthcare carve outs, rarely fits neatly inside legacy underwriting frameworks. Reimbursement cycles shift. Vendor obligations accumulate.
 
@@ -85,9 +85,3 @@ We provide clarity in environments where institutional lenders hesitate. We lend
 They want a lender that understands their assets, respects their time, and delivers capital without drama. Our bridge between traditional asset based Asset-Backed Frameworks and digital asset Institutional Liquidity Paths is not a brand statement. It is a structural capability.
 
 We combine private credit discipline with multi asset collateral capacity. We bring principal authority to transactions that benefit from discretion. We execute at a level that serves the realities of HNWI and UHNW borrowers.
-
-TECHNICAL MANDATE Qualification Gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Minimum target size: $5M+. ## Conclusion Liquidity is a strategic weapon.
-
-Pathmaker ensures it is accessible when needed, collateralized with intelligence, and deployed with institutional discipline. For serious borrowers who operate across traditional and digital asset classes, Pathmaker is the structural advantage that closes execution gaps and enables decisive action. Book a strategic consultation.
-
-Access is restricted to approved mandates.
