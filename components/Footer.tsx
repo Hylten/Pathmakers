@@ -4,6 +4,8 @@ import { MapPin, Phone, Linkedin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
+  const location = useLocation();
+  const isInsightArticle = location.pathname.includes('/insights/') && location.pathname.split('/insights/')[1];
 
   return (
     <footer className="bg-pathmaker-dark text-white pt-20 pb-12 border-t border-white/5">
@@ -60,15 +62,17 @@ const Footer: React.FC = () => {
                 <Link to="/contact" className="text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light">Inquire</Link>
               </li>
               <li className="pt-2">
-                <a
-                  href="https://www.linkedin.com/company/pathmakerab/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light"
-                >
-                  <Linkedin className="w-4 h-4" />
-                  Follow us on LinkedIn
-                </a>
+                {!isInsightArticle && (
+                  <a
+                    href="https://www.linkedin.com/company/pathmakerab/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 text-gray-400 hover:text-pathmaker-accent transition-colors text-sm font-light"
+                  >
+                    <Linkedin className="w-4 h-4" />
+                    Follow us on LinkedIn
+                  </a>
+                )}
               </li>
             </ul>
           </div>
