@@ -36,22 +36,39 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
     const [content, setContent] = useState('');
     const [meta, setMeta] = useState<any>({});
     const [error, setError] = useState(false);
+    const [allPosts, setAllPosts] = useState<any[]>([]);
+    const [currentIndex, setCurrentIndex] = useState(-1);
 
     useEffect(() => {
         const loadContent = async () => {
             try {
                 const postsGlob = import.meta.glob('../../content/insights/*.md', { query: '?raw', eager: true });
 
-                let foundPost = null;
+                const posts: any[] = [];
+                let foundPost: any = null;
+                let foundIndex = -1;
 
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
                     const rawMarkdown = (fileContent as any).default;
                     const { data, content: markdownBody } = parseFrontmatter(rawMarkdown);
 
                     const fileSlug = data.slug || filepath.split('/').pop()?.replace('.md', '');
+                    posts.push({
+                        slug: fileSlug,
+                        title: data.title || 'Untitled',
+                        date: data.date || '',
+                        meta: data,
+                        body: markdownBody
+                    });
+                }
 
-                    if (fileSlug === slug) {
-                        foundPost = { meta: data, body: markdownBody };
+                posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+                setAllPosts(posts);
+
+                for (let i = 0; i < posts.length; i++) {
+                    if (posts[i].slug === slug) {
+                        foundPost = posts[i];
+                        foundIndex = i;
                         break;
                     }
                 }
@@ -59,6 +76,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                 if (foundPost) {
                     setContent(foundPost.body);
                     setMeta(foundPost.meta);
+                    setCurrentIndex(foundIndex);
 
                     if (foundPost.meta.title) {
                         document.title = `${foundPost.meta.title} | Pathmaker Insights`;
@@ -223,6 +241,36 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                     Return to Navigation
                 </a>
             </div>
+
+            {/* Prev/Next Navigation */}
+            {allPosts.length > 1 && currentIndex >= 0 && (
+                <div className="mt-24 pt-12 border-t border-white/10">
+                    <div className="grid grid-cols-2 gap-8">
+                        <div>
+                            {currentIndex < allPosts.length - 1 && (
+                                <a
+                                    href={`${BASE}/insights/${allPosts[currentIndex + 1].slug}`}
+                                    className="block group"
+                                >
+                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">← Föregående</span>
+                                    <span className="text-sm text-white/60 group-hover:text-pathmaker-accent transition-colors line-clamp-2">{allPosts[currentIndex + 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                        <div className="text-right">
+                            {currentIndex > 0 && (
+                                <a
+                                    href={`${BASE}/insights/${allPosts[currentIndex - 1].slug}`}
+                                    className="block group"
+                                >
+                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">Nästa →</span>
+                                    <span className="text-sm text-white/60 group-hover:text-pathmaker-accent transition-colors line-clamp-2">{allPosts[currentIndex - 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            )}
             
             <footer className="mt-24 text-center">
                 <p className="text-[10px] text-white/20 tracking-[0.4em] uppercase">
