@@ -90,7 +90,15 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        <div className="pt-10 flex flex-col md:flex-row justify-center items-center text-xs text-gray-600 font-light uppercase tracking-wider">
+        <div className="pt-10 flex flex-col md:flex-row justify-between items-center text-xs text-gray-600 font-light uppercase tracking-wider">
+          <a
+            href="https://www.hylninvest.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-pathmaker-accent transition-colors duration-300"
+          >
+            A Hyltén Invest company
+          </a>
           <p>&copy; {currentYear} Pathmaker. All rights reserved.</p>
         </div>
       </div>
