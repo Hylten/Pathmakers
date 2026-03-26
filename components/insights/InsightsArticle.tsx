@@ -231,7 +231,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                                     href={`${BASE}/insights/${allPosts[currentIndex + 1].slug}`}
                                     className="block group"
                                 >
-                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">← Föregående</span>
+                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">← Previous</span>
                                     <span className="text-sm text-white/60 group-hover:text-pathmaker-accent transition-colors line-clamp-2">{allPosts[currentIndex + 1].title}</span>
                                 </a>
                             )}
@@ -242,7 +242,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                                     href={`${BASE}/insights/${allPosts[currentIndex - 1].slug}`}
                                     className="block group"
                                 >
-                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">Nästa →</span>
+                                    <span className="text-[9px] tracking-[0.2em] text-white/40 uppercase block mb-2">Next →</span>
                                     <span className="text-sm text-white/60 group-hover:text-pathmaker-accent transition-colors line-clamp-2">{allPosts[currentIndex - 1].title}</span>
                                 </a>
                             )}
