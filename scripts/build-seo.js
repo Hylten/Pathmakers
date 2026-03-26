@@ -204,9 +204,15 @@ async function generateSEO() {
     listHtml += '</div>';
 
     const sharedButtons = `
-        <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 60px; width: 100%;">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 16px; margin-top: 100px; padding-bottom: 60px; width: 100%;">
+          <a href="/Pathmakers/insights/" style="text-decoration: none; color: rgba(255,255,255,0.4); font-size: 10px; letter-spacing: 3px; text-transform: uppercase; font-family: sans-serif; font-weight: 500; transition: color 0.3s;" onmouseover="this.style.color='#B08D57'" onmouseout="this.style.color='rgba(255,255,255,0.4)'">
+            ← Back to Insights
+          </a>
           <a href="/Pathmakers/" style="padding: 10px 24px; background: rgba(5,5,5,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #B08D57; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: sans-serif; font-weight: 500; display: block;">
             Return Home
+          </a>
+          <a href="/Pathmakers/" style="text-decoration: none; color: rgba(255,255,255,0.4); font-size: 10px; letter-spacing: 3px; text-transform: uppercase; font-family: sans-serif; font-weight: 500; transition: color 0.3s;" onmouseover="this.style.color='#B08D57'" onmouseout="this.style.color='rgba(255,255,255,0.4)'">
+            Return to Navigation
           </a>
         </div>
         <a href="https://wa.me/46701619978?text=Regarding%20Pathmaker:" target="_blank" rel="noopener noreferrer" style="position: fixed; bottom: 24px; right: 24px; z-index: 10000; background: #1a1a1a; padding: 10px; border-radius: 50%; opacity: 0.6; transition: opacity 0.3s; display: flex; align-items: center; justify-content: center;">
