@@ -47,6 +47,8 @@ const getPosts = () => {
 
 export const InsightsIndex: React.FC = () => {
     const [posts, setPosts] = useState<ReturnType<typeof getPosts>>([]);
+    const [searchQuery, setSearchQuery] = useState('');
+    const [activeYear, setActiveYear] = useState('all');
 
     useEffect(() => {
         setPosts(getPosts());
@@ -57,6 +59,19 @@ export const InsightsIndex: React.FC = () => {
             metaDescription.setAttribute('content', 'Strategic insights on Nordic M&A, cross-border transactions, and middle-market advisory from Pathmaker.');
         }
     }, []);
+
+    const filteredPosts = posts.filter(post => {
+        const matchesSearch = !searchQuery || 
+            post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            post.description.toLowerCase().includes(searchQuery.toLowerCase());
+        
+        const postYear = post.date ? new Date(post.date).getFullYear().toString() : '';
+        const matchesYear = activeYear === 'all' || postYear === activeYear;
+        
+        return matchesSearch && matchesYear;
+    });
+
+    const years = [...new Set(posts.map(p => p.date ? new Date(p.date).getFullYear().toString() : '').filter(Boolean))].sort((a, b) => parseInt(b) - parseInt(a));
 
     return (
         <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen font-sans">
@@ -75,8 +90,37 @@ export const InsightsIndex: React.FC = () => {
                 </p>
             </div>
 
+            {/* Search and Filter */}
+            <div className="mb-12">
+                <input
+                    type="text"
+                    placeholder="Search insights..."
+                    value={searchQuery}
+                    onChange={e => setSearchQuery(e.target.value)}
+                    className="w-full max-w-md px-5 py-3 bg-white/[0.03] border border-white/10 text-white text-sm font-sans outline-none focus:border-pathmaker-accent transition-colors mb-6"
+                    style={{ fontFamily: "'Inter', sans-serif" }}
+                />
+                <div className="flex flex-wrap gap-3">
+                    <button
+                        onClick={() => setActiveYear('all')}
+                        className={`px-5 py-2 border text-[10px] tracking-[0.15em] uppercase font-medium transition-all duration-300 ${activeYear === 'all' ? 'bg-pathmaker-accent border-pathmaker-accent text-black' : 'border-white/15 text-white/60 hover:border-pathmaker-accent hover:text-white'}`}
+                    >
+                        All
+                    </button>
+                    {years.map(year => (
+                        <button
+                            key={year}
+                            onClick={() => setActiveYear(year)}
+                            className={`px-5 py-2 border text-[10px] tracking-[0.15em] uppercase font-medium transition-all duration-300 ${activeYear === year ? 'bg-pathmaker-accent border-pathmaker-accent text-black' : 'border-white/15 text-white/60 hover:border-pathmaker-accent hover:text-white'}`}
+                        >
+                            {year}
+                        </button>
+                    ))}
+                </div>
+            </div>
+
             <div className="space-y-0">
-                {posts.map((post) => (
+                {filteredPosts.map((post) => (
                     <article
                         key={post.slug}
                         className="group border-b border-white/10 hover:border-pathmaker-accent/30 transition-colors duration-500"
@@ -107,7 +151,7 @@ export const InsightsIndex: React.FC = () => {
                     </article>
                 ))}
 
-                {posts.length === 0 && (
+                {filteredPosts.length === 0 && (
                     <div className="flex flex-col items-center gap-8">
                         <div className="w-full text-center py-24 border border-white/5 bg-white/[0.02] rounded-sm">
                             <p className="text-pathmaker-body text-sm tracking-wide">New insights will be published here periodically.</p>
