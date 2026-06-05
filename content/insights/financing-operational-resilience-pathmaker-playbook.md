@@ -471,7 +471,7 @@ This briefing serves as a directive to implement these mandates.
 
 The next
 
-### Phase I: s tactical. The next
+### Phase I: This is tactical. The next
 
 ### Step I: s structural. Book a tactical consultation.
 

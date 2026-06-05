@@ -157,7 +157,7 @@ For corporate spinoffs, the model follows four principles.
 
 Neutral intelligence Roials Capital does not act as a broker or seller of assets.
 
-THE MANDAT E
+THE MANDATE
 
 is to map structural truth, align institutional capital archetypes, and engineer clarity where the market sees friction.
 

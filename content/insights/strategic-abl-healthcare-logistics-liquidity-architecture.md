@@ -109,7 +109,7 @@ It removes friction from the diligence timeline.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a lending entity.
 
-THE MANDAT E
+THE MANDATE
 
 is not capital deployment.
 

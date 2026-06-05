@@ -243,7 +243,7 @@ The operator refinances with longer term capital or positions for sale.
 
 This three stage progression absorbs risk at each
 
-### Phase I: nstead of concentrating it. Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch. Pathmaker does.
+### Phase I: Instead of concentrating it. Crypto and Public Share Institutional Liquidity Paths in Advanced Transactions Some buyers hold significant liquid alternatives that traditional lenders cannot touch. Pathmaker does.
 
 Above 2,000, 000 in crypto assets Above 5,000,
 

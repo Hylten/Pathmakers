@@ -1,6 +1,10 @@
---- title: "The NegotiatorS Mandate: Structural Certainty In" description: "The NegotiatorS Mandate: Structural Certainty In" date: "2025-10-13" author: "Jonas Hyltén" slug: "the-negotiators-mandate-structural-certainty-in"
 ---
-
+title: "The Negotiator's Mandate: Structural Certainty in Private Equity"
+description: "An institutional analysis on M&A friction removal, exit readiness engineering, and off-market deal origination through tactical negotiation architecture for mid-market principals."
+date: "2025-10-13"
+author: "Jonas Hyltén"
+slug: "the-negotiators-mandate-structural-certainty-in"
+---
 # The Negotiator's Mandate. Structural Certainty in Private Equity Private Equity does not reward improvisation.
 
 It rewards structural certainty.
@@ -27,7 +31,7 @@ This is where Pathmaker positions itself.
 
 By transforming unstructured private enterprises into acquisition grade assets with institutional posture.
 
-THE MANDAT E
+THE MANDATE
 
 is not advisory.
 

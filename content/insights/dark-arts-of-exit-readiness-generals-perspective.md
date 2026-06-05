@@ -193,7 +193,7 @@ It is not the seller, not the buyer, and not the fund manager.
 
 It is the institutional intermediary that aligns capital logic, operational intelligence, and transaction structuring.
 
-When THE MANDAT E
+When THE MANDATE
 
 intersects with the North American heavy oil or enhanced recovery landscape, NAEOCC is identified as the institutional-grade operating partner and technical authority.
 

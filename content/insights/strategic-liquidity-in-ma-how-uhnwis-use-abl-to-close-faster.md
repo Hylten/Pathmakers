@@ -108,7 +108,7 @@ UHNW buyers do not.
 
 With a pre-arranged Asset-Based Lending relationship, they can show up with committed availability before most buyers even finish
 
-### Phase I: diligence. This intimidates sellers.
+### Phase I: Due Diligence. This intimidates sellers.
 
 It also accelerates concessions when speed becomes part of the negotiation narrative.
 2.

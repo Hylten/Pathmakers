@@ -554,7 +554,7 @@ No summaries.
 
 No recaps.
 
-THE MANDAT E
+THE MANDATE
 
 stands: Operators who want to command sovereign interest must build institutional posture now.
 

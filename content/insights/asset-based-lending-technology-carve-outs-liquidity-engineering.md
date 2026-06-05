@@ -126,7 +126,7 @@ The objective is never to promote a financing solution.
 
 The objective is to align operator capability, asset profile, and liquidity architecture in a way that preserves operational sovereignty.
 
-THE MANDAT E
+THE MANDATE
 
 involves three components.
 

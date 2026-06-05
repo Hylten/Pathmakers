@@ -61,7 +61,7 @@ Foundations first.
 
 Then the mechanisms.
 
-Then THE MANDAT E. THE FRACTURED MARKET Healthcare does not fracture uniformly. It fractures along liquidity-sensitive fault lines.
+Then THE MANDATE. THE FRACTURED MARKET Healthcare does not fracture uniformly. It fractures along liquidity-sensitive fault lines.
 
 - Provider roll-ups stalled when interest rates removed their old arbitrage spread.
 
@@ -465,7 +465,7 @@ Buyers who fail to adapt will discover the reality too late: capital speed has r
 
 For institutional buyers, founder-led groups, and strategic operators,
 
-# THE MANDAT E
+# THE MANDATE
 
 is clear: Engineer liquidity.
 

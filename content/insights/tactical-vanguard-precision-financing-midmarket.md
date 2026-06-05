@@ -84,7 +84,7 @@ This reduces noise, preserves valuation integrity, and shortens the transaction 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator, not as a principal investor.
 
-THE MANDAT E
+THE MANDATE
 
 is to create clarity, reduce friction, and introduce operators to the correct institutional counterparties.
 

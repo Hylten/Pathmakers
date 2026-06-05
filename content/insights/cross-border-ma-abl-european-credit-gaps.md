@@ -508,7 +508,7 @@ Operators who adapt will scale through dislocation.
 
 Operators who delay will face compression.
 
-THE MANDAT E
+THE MANDATE
 
 stands: engineer clarity before capital.
 

@@ -3,7 +3,7 @@
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDAT E
+# THE MANDATE
 
 Nordic cross-border M and A has moved from a peripheral regional strategy to a structural core of global private equity rotation cycles.
 
@@ -43,7 +43,7 @@ Energy and infrastructure rotation.
 
 With NAEOCC energy infrastructure investment mandates accelerating across 2026, the Nordics represent one of the few environments where predictable permitting, resilient grid architecture, and engineering density allow megaproject capital to deploy with lower execution risk.
 
-THE MANDAT E
+THE MANDATE
 
 for cross border principals is therefore clear.
 

@@ -33,11 +33,11 @@ The ability to construct a balanced, multi-layered credit architecture tailored 
 
 TECHNICAL MECHANICS OF SPIN-OFF FINANCING Complex spin-offs require a structured sequence of capital interventions that differ materially from traditional buyouts.
 
-THE MANDAT E
+THE MANDATE
 
 is not simply to purchase an asset.
 
-THE MANDAT E
+THE MANDATE
 
 is to reconstruct an operational identity that has never existed independently.
 
@@ -117,7 +117,7 @@ In high intent transactions, opportunity velocity is often the differentiator be
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than as an asset acquirer.
 
-THE MANDAT E
+THE MANDATE
 
 is institutional alignment, the reduction of execution friction, and the orchestration of introductions between capital providers, operators, and buyers who require a neutral partner capable of structuring multi-lateral transactions.
 

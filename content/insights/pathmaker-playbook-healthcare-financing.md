@@ -115,7 +115,7 @@ The Partnership Model.
 
 Roials Capital operates as a strategic navigator, not as a fund manager or asset owner.
 
-THE MANDAT E
+THE MANDATE
 
 is clarity, intelligence, and institutional alignment.
 

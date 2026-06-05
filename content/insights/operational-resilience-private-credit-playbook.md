@@ -121,11 +121,11 @@ Private credit converts operational uncertainty into structured visibility.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator focused on institutional alignment, technical filtration, and partner selection.
 
-THE MANDAT E
+THE MANDATE
 
 is not to sell capital.
 
-THE MANDAT E
+THE MANDATE
 
 is to map operators, allocators, and credit structures in a way that reduces friction and elevates operational coherence.
 

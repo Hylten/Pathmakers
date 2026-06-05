@@ -3,7 +3,7 @@
 
 # Precision Financing for the Nordic BioTech Sector The Nordic BioTech sector is entering a new phase. A
 
-# Phase D: efined by an unforgiving cost of capital. A phase shaped by regulatory tightening, higher scientific burn rates, and a diminishing appetite for speculative equity.
+# Phase D: Defined by an unforgiving cost of capital. A phase shaped by regulatory tightening, higher scientific burn rates, and a diminishing appetite for speculative equity.
 
 This is the phase where precision financing becomes the competitive edge.
 

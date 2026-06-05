@@ -117,7 +117,7 @@ Process friction is reduced, negotiation leverage increases, and off market acce
 
 THE PARTNERSHIP MODEL Roials Capital operates within the M&A ecosystem as a strategic navigator for liquidity optimization.
 
-THE MANDAT E
+THE MANDATE
 
 is to eliminate friction, increase acquisition readiness, and align buyers with institutional quality capital counterparts.
 
@@ -205,7 +205,7 @@ It improves long term operator credibility in local markets and lender networks.
 
 ALLOCATOR LENS For buyers preparing for a strategic acquisition
 
-### Phase I: n 2026, the most relevant assessment criteria are
+### Phase I: In 2026, the most relevant assessment criteria are
 
 :
 

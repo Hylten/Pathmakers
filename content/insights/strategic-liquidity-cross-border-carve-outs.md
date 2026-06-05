@@ -97,11 +97,11 @@ Technical liquidity providers serve as the coordination layer ensuring that lega
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this landscape.
 
-THE MANDAT E
+THE MANDATE
 
 is not to act as lender or acquirer.
 
-THE MANDAT E
+THE MANDATE
 
 is institutional INTRODUCTION
 

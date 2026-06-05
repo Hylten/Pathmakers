@@ -331,7 +331,7 @@ Strategic clarity is pre‑deal work.
 
 Deal
 
-### Phase I: s performance, not rehearsal. Machine‑gun: No rewrites.
+### Phase I: This is performance, not rehearsal. Machine‑gun: No rewrites.
 
 No excuses.
 

@@ -3,7 +3,7 @@
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDAT E
+# THE MANDATE
 
 Institutional liquidity does not emerge from market momentum or capital supply cycles.
 

@@ -1,6 +1,10 @@
---- title: "M&A Warfare: Navigating The Middle Market Credit G" description: "M&A Warfare: Navigating The Middle Market Credit G" date: "2025-10-11" author: "Jonas Hyltén" slug: "ma-warfare-navigating-the-middle-market-credit-g"
 ---
-
+title: "M&A Warfare: Navigating The Middle Market Credit Gap"
+description: "A high-density institutional briefing on the middle-market credit gap, asset hardening, covenant stewardship, and tactical intelligence for owners preparing for GP-grade exit readiness."
+date: "2025-10-11"
+author: "Jonas Hyltén"
+slug: "ma-warfare-navigating-the-middle-market-credit-g"
+---
 # M&A Warfare. Commanding the Middle-Market Credit Gap The middle market is no longer a marketplace.
 
 It is a battlefield.

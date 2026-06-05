@@ -21,9 +21,7 @@ It rewards those who design their exit long before the buyer forms an opinion.
 
 What follows is the internal briefing.
 
-### Phase I: -
-
-# : THE STRUCTURAL DIAGNOSIS Private briefing. No sentiment.
+### Phase I: THE STRUCTURAL DIAGNOSIS Private briefing. No sentiment.
 
 Only mechanics.
 
@@ -121,9 +119,7 @@ Private equity loses the deal.
 
 Not because they mispriced it, but because another buyer moved with greater certainty based on cleaner inputs.
 
-### Phase I:
-
-- PRINCIPAL VOICE: DIRECT STATEMENTS FROM THE ANALYST CHAIR This is not conjecture.
+### Phase I: PRINCIPAL VOICE: DIRECT STATEMENTS FROM THE ANALYST CHAIR This is not conjecture.
 
 This is field intelligence.
 

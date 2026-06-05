@@ -143,11 +143,11 @@ Tactical intelligence lies in identifying these friction points early and engine
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator, not a lender, asset originator, or M&A consolidator.
 
-THE MANDAT E
+THE MANDATE
 
 is not intermediation.
 
-THE MANDAT E
+THE MANDATE
 
 is clarity engineering.
 

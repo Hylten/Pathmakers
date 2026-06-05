@@ -1,6 +1,10 @@
---- title: "Operational Resilience: Removing Human Friction Fr" description: "Operational Resilience: Removing Human Friction Fr" date: "2025-11-07" author: "Jonas Hyltén" slug: "operational-resilience-removing-human-friction-fr"
 ---
-
+title: "Operational Resilience: Removing Human Friction in M&A"
+description: "An institutional analysis of how human friction in mid-market M&A destroys valuation, transaction velocity, and institutional trust and the structural mandate to eliminate it."
+date: "2025-11-07"
+author: "Jonas Hyltén"
+slug: "operational-resilience-removing-human-friction-fr"
+---
 # Operational Resilience. The Discipline of Eliminating Human Friction in M&A Operational resilience is not a slogan.
 
 It is a structural mandate.
@@ -458,7 +462,7 @@ Pathmaker. Tactical Intelligence for M&A Hardening Pathmaker does not “advise.
 
 The stance is tactical.
 
-THE MANDAT E
+THE MANDATE
 
 is institutionalization before transaction.
 
@@ -492,9 +496,7 @@ Operational resilience is the architecture that converts a privately held compan
 
 It is the difference between a hopeful seller and a prepared one.
 
-For principals who intend to transfer a legacy, not merely transact, this is THE MANDAT
-
-E. Book a strategic consultation.
+For principals who intend to transfer a legacy, not merely transact, this is THE MANDATE. Book a strategic consultation.
 
 TECHNICAL MANDATE
 

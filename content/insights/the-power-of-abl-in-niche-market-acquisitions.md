@@ -3,7 +3,7 @@
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDAT E
+# THE MANDATE
 
 The role of asset based structures within niche market acquisitions has shifted from a secondary financing tool into a primary Strategic Collateralization architecture for sponsors who operate inside constrained capital environments.
 
@@ -13,7 +13,7 @@ Niche markets such as specialized manufacturing, renewable micro infrastructure,
 
 This is particularly pronounced where businesses exhibit high asset density but volatile EBITDA profiles, or where regulatory restrictions, such as EU MiFID II firm acquisitions requirements, impose pressure on upfront equity commitments.
 
-THE MANDAT E
+THE MANDATE
 
 for Asset-Based Lending in this context is not mechanical lending.
 

@@ -31,7 +31,7 @@ This is the analyst briefing on how that advantage is constructed.
 
 (
 
-### Phase I: ) Private-structural-unfiltered. The mid‑market is undergoing a fundamental shift.
+### Phase I: Private-Structural-Unfiltered. The mid‑market is undergoing a fundamental shift.
 
 Traditional buyer‑led diligence, the old model, is too slow.
 

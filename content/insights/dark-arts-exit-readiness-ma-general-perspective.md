@@ -209,11 +209,11 @@ Without it, acquirers assume hidden liabilities and load valuation downward to c
 
 THE PARTNERSHIP MODEL Roials Capital is structured as a strategic navigator and institutional introducer.
 
-THE MANDAT E
+THE MANDATE
 
 is not to sell assets or operate companies.
 
-THE MANDAT E
+THE MANDATE
 
 is to prepare organizations for institutional grade execution and to create alignment between sellers and qualified acquirers.
 

@@ -3,7 +3,7 @@
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDAT E
+# THE MANDATE
 
 The sovereign path in mid-market private equity is defined by structural asymmetries that favor disciplined operators with durable capital and a technical command of Strategic Collateralization.
 
@@ -15,11 +15,11 @@ This corridor remains mispriced relative to intrinsic cash flow stability, hard 
 
 It is in this structural gap that the thesis around Private equity Fund-III investment opportunities 2026 emerges with maximum clarity.
 
-THE MANDAT E
+THE MANDATE
 
 is not to chase yield.
 
-THE MANDAT E
+THE MANDATE
 
 is to convert fragmented mid-market potential into hardened enterprise value through capital efficiency, asset backed financing for businesses, and stewardship driven operational resets.
 

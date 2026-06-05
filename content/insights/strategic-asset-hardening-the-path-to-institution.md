@@ -1,6 +1,10 @@
---- title: "Strategic Asset Hardening: The Path To Institution" description: "Strategic Asset Hardening: The Path To Institution" date: "2026-02-25" author: "Jonas Hyltén" slug: "strategic-asset-hardening-the-path-to-institution"
 ---
-
+title: "Strategic Asset Hardening: The Path to Institutional Valuation"
+description: "An institutional briefing on strategic asset hardening as the systematic removal of friction in financial, operational, and governance architecture for mid-market exit readiness."
+date: "2026-02-25"
+author: "Jonas Hyltén"
+slug: "strategic-asset-hardening-the-path-to-institution"
+---
 # Strategic Asset Hardening. The Path to Institutional Valuation Institutional capital never chases noise.
 
 It pursues order.
@@ -397,7 +401,7 @@ They acquire discipline.
 
 They acquire companies that demonstrate covenant stewardship and structural alignment.
 
-THE MANDAT E
+THE MANDATE
 
 is clear.
 

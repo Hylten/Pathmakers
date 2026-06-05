@@ -69,6 +69,40 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                             metaDescription.setAttribute('content', foundPost.meta.description);
                         }
                     }
+
+                    // Canonical
+                    let canonical = document.querySelector('link[rel="canonical"]');
+                    if (!canonical) {
+                        canonical = document.createElement('link');
+                        canonical.setAttribute('rel', 'canonical');
+                        document.head.appendChild(canonical);
+                    }
+                    canonical.setAttribute('href', `https://hylten.github.io/Pathmakers/insights/${slug}/`);
+
+                    // Schema.org Article
+                    const schemaId = 'article-schema';
+                    let schemaScript = document.getElementById(schemaId) as HTMLScriptElement;
+                    if (!schemaScript) {
+                        schemaScript = document.createElement('script');
+                        schemaScript.id = schemaId;
+                        schemaScript.type = 'application/ld+json';
+                        document.head.appendChild(schemaScript);
+                    }
+                    const schemaData = {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": foundPost.meta.title,
+                        "description": foundPost.meta.description,
+                        "author": { "@type": "Person", "name": foundPost.meta.author || "The Pathmaker" },
+                        "publisher": { 
+                            "@type": "Organization", 
+                            "name": "Pathmaker",
+                            "logo": { "@type": "ImageObject", "url": "https://hylten.github.io/Pathmakers/logo.png" }
+                        },
+                        "datePublished": foundPost.meta.date,
+                        "mainEntityOfPage": { "@type": "WebPage", "@id": `https://hylten.github.io/Pathmakers/insights/${slug}/` }
+                    };
+                    schemaScript.text = JSON.stringify(schemaData);
                 } else {
                     setError(true);
                 }
@@ -80,6 +114,12 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
 
         loadContent();
         window.scrollTo(0, 0);
+
+        return () => {
+            // Cleanup schema on unmount
+            const schemaScript = document.getElementById('article-schema');
+            if (schemaScript) schemaScript.remove();
+        };
     }, [slug]);
 
     if (error) {

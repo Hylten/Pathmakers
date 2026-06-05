@@ -19,6 +19,9 @@ const ensureDir = (dirPath) => {
 
 async function generateSEO() {
     console.log('Generating SEO Static HTML for Pathmaker Insights...');
+    
+    const SITE_URL = 'https://hylten.github.io/Pathmakers';
+    const today = new Date().toISOString().split('T')[0];
 
     if (!fs.existsSync(DIST_DIR)) {
         console.error('dist directory not found. Please run npm run build first.');
@@ -106,20 +109,26 @@ async function generateSEO() {
             Return Home
           </a>
         </div>
+        
+      <div style="text-align: center; margin-top: 80px; padding-top: 40px; border-top: 1px solid rgba(255,255,255,0.05);">
+        <a href="https://www.linkedin.com/in/hylten/" target="_blank" rel="noopener noreferrer" style="color: #666; font-size: 12px; text-decoration: none; letter-spacing: 1px; text-transform: uppercase;">LinkedIn</a>
+      </div>
         <a href="https://wa.me/46701619978?text=Regarding%20Pathmaker:" target="_blank" rel="noopener noreferrer" style="position: fixed; bottom: 24px; right: 24px; z-index: 10000; background: #1a1a1a; padding: 10px; border-radius: 50%; opacity: 0.6; transition: opacity 0.3s; display: flex; align-items: center; justify-content: center;">
           <svg style="width: 16px; height: 16px; color: white;" fill="currentColor" viewBox="0 0 24 24">
             <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
           </svg>
         </a>
-    `;
-
-    const indexHtml = baseHtml
+    `
+        const indexHtml = baseHtml
         .replace(/<title>.*?<\/title>/, '<title>Insights | Pathmaker</title>')
         .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Strategic insights on Nordic M&A, cross-border transactions, and middle-market advisory from Pathmaker.">')
+        .replace('</head>', `  <link rel="canonical" href="${SITE_URL}/insights/" />\n</head>`)
         .replace('<div id="root"></div>', `<div id="root">${listHtml}${sharedButtons}</div>`);
 
     fs.writeFileSync(path.join(INSIGHTS_DIST_DIR, 'index.html'), indexHtml);
     console.log('✅ Generated /dist/insights/index.html');
+
+    const feedItems = [];
 
     // 2. Generate Article Pages
     for (const file of files) {
@@ -138,9 +147,35 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Insights Article';
         const description = data.description || '';
+        const date = data.date || today;
+        const author = data.author || 'The Pathmaker';
 
         const articleDir = path.join(INSIGHTS_DIST_DIR, slug);
         ensureDir(articleDir);
+
+        feedItems.push({
+            id: slug,
+            url: `${SITE_URL}/insights/${slug}/`,
+            title: title,
+            summary: description,
+            date_published: new Date(date).toISOString(),
+            author: { name: author }
+        });
+
+        const schemaData = {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": title,
+            "description": description,
+            "author": { "@type": "Person", "name": author },
+            "publisher": { 
+                "@type": "Organization", 
+                "name": "Pathmaker",
+                "logo": { "@type": "ImageObject", "url": `${SITE_URL}/logo.png` }
+            },
+            "datePublished": date,
+            "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/insights/${slug}/` }
+        };
 
         // Simple markdown pre-render (very basic)
         const contentHtml = `<div style="padding: 4rem 1rem; max-width: 800px; margin: 0 auto; color: #e5e5e5; font-family: sans-serif;">
@@ -160,6 +195,7 @@ async function generateSEO() {
         const articleHtml = baseHtml
             .replace(/<title>.*?<\/title>/, `<title>${title} | Pathmaker</title>`)
             .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+            .replace('</head>', `  <link rel="canonical" href="${SITE_URL}/insights/${slug}/" />\n  <script type="application/ld+json">${JSON.stringify(schemaData)}</script>\n</head>`)
             .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
         fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
@@ -167,9 +203,6 @@ async function generateSEO() {
     }
 
     // 3. Generate sitemap.xml
-    const SITE_URL = 'https://hylten.github.io/Pathmakers';
-    const today = new Date().toISOString().split('T')[0];
-
     let sitemapUrls = `  <url>
     <loc>${SITE_URL}/</loc>
     <lastmod>${today}</lastmod>
@@ -181,23 +214,11 @@ async function generateSEO() {
     <priority>0.9</priority>
   </url>`;
 
-    for (const file of files) {
-        const filePath = path.join(CONTENT_DIR, file);
-        const rawContent = fs.readFileSync(filePath, 'utf8');
-        let data = {};
-        try {
-            data = matter(rawContent).data || {};
-        } catch (e) {
-            console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
-            continue;
-        }
-        const slug = data.slug || file.replace('.md', '');
-        const date = data.date || today;
-
+    for (const item of feedItems) {
         sitemapUrls += `
   <url>
-    <loc>${SITE_URL}/insights/${slug}/</loc>
-    <lastmod>${date}</lastmod>
+    <loc>${item.url}</loc>
+    <lastmod>${item.date_published.split('T')[0]}</lastmod>
     <priority>0.8</priority>
   </url>`;
     }
@@ -210,7 +231,18 @@ ${sitemapUrls}
     fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
     console.log('✅ Generated /dist/sitemap.xml');
 
-    // 4. Generate robots.txt
+    // 4. Generate JSON Feed
+    const feed = {
+        version: "https://jsonfeed.org/version/1.1",
+        title: "Pathmaker Insights",
+        home_page_url: SITE_URL,
+        feed_url: `${SITE_URL}/feed.json`,
+        items: feedItems
+    };
+    fs.writeFileSync(path.join(DIST_DIR, 'feed.json'), JSON.stringify(feed, null, 2));
+    console.log('✅ Generated /dist/feed.json');
+
+    // 5. Generate robots.txt
     const robots = `User-agent: *
 Allow: /
 

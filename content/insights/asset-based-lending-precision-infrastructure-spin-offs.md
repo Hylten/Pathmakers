@@ -105,7 +105,7 @@ The work is not transactional.
 
 It is structural.
 
-THE MANDAT E
+THE MANDATE
 
 is to design pathways that align balance sheets, capital providers, and M and A stakeholders while ensuring that operators maintain continuity.
 

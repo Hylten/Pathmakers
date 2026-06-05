@@ -23,9 +23,7 @@ By architecting clarity.
 
 By constructing operational visibility that forces the deal to move.
 
-This is THE MANDAT
-
-E for any principal navigating Nordic acquisitions with Fund‑III discipline and exit‑driven tempo.
+This is THE MANDATE for any principal navigating Nordic acquisitions with Fund‑III discipline and exit‑driven tempo.
 
 Nordic sellers move in cycles.
 

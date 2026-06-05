@@ -400,9 +400,7 @@ The war is not external.
 
 The war is internal.
 
-This is THE MANDAT
-
-E. Book a tactical consultation.
+This is THE MANDATE. Book a tactical consultation.
 
 Technical Metric: Target friction compression delta: 38% reduction in diligence drag.
 

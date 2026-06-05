@@ -1,6 +1,10 @@
---- title: "The Dark Arts Of Exit Readiness: A GeneralS Persp" description: "The Dark Arts Of Exit Readiness: A GeneralS Persp" date: "2026-02-07" author: "Jonas Hyltén" slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
 ---
-
+title: "The Dark Arts of Exit Readiness: A General's Perspective"
+description: "A principal-grade intelligence briefing on exit readiness, operational hardening, and institutional buyer calibration for mid-market European and North American companies preparing for liquidity events."
+date: "2026-02-07"
+author: "Jonas Hyltén"
+slug: "the-dark-arts-of-exit-readiness-a-generals-persp"
+---
 # The Dark Arts of Exit Readiness. A General’s Perspective Exit readiness is not an administrative exercise.
 
 It is a battlefield condition.

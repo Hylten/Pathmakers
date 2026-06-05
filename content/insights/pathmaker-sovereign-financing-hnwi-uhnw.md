@@ -363,9 +363,7 @@ Sovereign architecture builds downward from mandate.
 
 Pathmaker inverts the capital stack.
 
-It establishes THE MANDAT
-
-E first.
+It establishes THE MANDATE first.
 
 Capital follows.
 
@@ -377,7 +375,7 @@ They do not negotiate around personal preference.
 
 They finance strategic relevance.
 
-Once THE MANDAT E
+Once THE MANDATE
 
 is established-energy security, industrial continuity, commodity stabilization-the sovereign system justifies financing.
 
@@ -597,7 +595,7 @@ It is also the quietest.
 
 Final layer:
 
-# THE MANDAT E. The operator must accept the conversion from private actor to institutional actor.
+# THE MANDATE. The operator must accept the conversion from private actor to institutional actor.
 
 Sovereign recognition requires institutional discipline.
 

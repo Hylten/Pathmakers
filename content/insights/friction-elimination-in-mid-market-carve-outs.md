@@ -1,6 +1,10 @@
---- title: "Friction Elimination In Mid Market Carve Outs" description: "Friction Elimination In Mid Market Carve Outs" date: "2025-08-27" author: "Jonas Hyltén" slug: "friction-elimination-in-mid-market-carve-outs"
 ---
-
+title: "Friction Elimination in Mid-Market Carve Outs"
+description: "A principal-level intelligence briefing on friction elimination in mid-market carve outs, covering asset hardening, covenant stewardship, operational separation, and execution velocity."
+date: "2025-08-27"
+author: "Jonas Hyltén"
+slug: "friction-elimination-in-mid-market-carve-outs"
+---
 # Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason. Friction.
 
 Not theoretical friction.

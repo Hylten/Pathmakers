@@ -538,7 +538,7 @@ The new model rewards readiness, reduces friction, and leverages off‑market in
 
 This is the environment where operators either architect their legacy or lose value silently.
 
-THE MANDAT E
+THE MANDATE
 
 stands: Structural Delta Required: 18.4% Book a tactical consultation.
 

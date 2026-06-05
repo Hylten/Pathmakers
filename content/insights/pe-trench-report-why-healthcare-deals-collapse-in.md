@@ -1,6 +1,10 @@
---- title: "Pe Trench Report: Why Healthcare Deals Collapse In" description: "Pe Trench Report: Why Healthcare Deals Collapse In" date: "2025-06-29" author: "Jonas Hyltén" slug: "pe-trench-report-why-healthcare-deals-collapse-in"
 ---
-
+title: "PE Trench Report: Why Healthcare Deals Collapse in 2026"
+description: "Field intelligence from the M&A trenches on why healthcare transactions collapse in 2026, with structural analysis of regulatory exposure, labor instability, and covenant failures."
+date: "2025-06-29"
+author: "Jonas Hyltén"
+slug: "pe-trench-report-why-healthcare-deals-collapse-in"
+---
 # PE Trench Report. Why Healthcare Deals Collapse in 2026 Healthcare should be the most stable corridor in the mid-market.
 
 Yet 2026 is producing a spike in broken processes, stalled LOIs, and GPs backing out during late-stage diligence even when the multiples align.

@@ -136,7 +136,7 @@ Acquisition Momentum Private credit and Asset-Based Lending create the lift need
 
 Integration Stability The integration
 
-### Phase I: s where most deals fracture. Liquidity is the stabilizer.
+### Phase I: This is where most deals fracture. Liquidity is the stabilizer.
 
 Pathmaker structures credit so operational cash flow remains intact while leadership executes the integration roadmap.
 

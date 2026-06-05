@@ -348,9 +348,7 @@ Operational resilience is the only credible insurance against market compression
 
 It protects not only the enterprise but the owner’s exit horizon.
 
-It fulfills THE MANDAT
-
-E of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It fulfills THE MANDATE of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * -continuity across generations, continuity across leadership transitions, continuity across market cycles.
 
