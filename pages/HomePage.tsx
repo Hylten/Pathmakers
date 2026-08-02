@@ -11,7 +11,7 @@ const HomePage: React.FC = () => {
         {/* Background Image Layer with 90% Blackout */}
         <div className="absolute inset-0 z-0">
             <img 
-              src="https://i.postimg.cc/1Rq6cCpm/pexels-devshack-8236991.jpg" 
+              src="/Pathmakers/images/pexels-devshack-8236991.jpg" 
               alt="Background Texture" 
               className="w-full h-full object-cover"
             />
@@ -96,7 +96,7 @@ const HomePage: React.FC = () => {
                  <div className="relative overflow-hidden rounded-sm mt-8 border border-white/10">
                     <div className="absolute inset-0 bg-pathmaker-accent/10 mix-blend-overlay z-10"></div>
                     <img 
-                      src="https://i.postimg.cc/jjB1m3CV/pexels-emilio-sanchez-hernandez-285921208-34672276.jpg" 
+                      src="/Pathmakers/images/pexels-emilio-sanchez-hernandez-285921208-34672276.jpg" 
                       alt="Institutional Architecture" 
                       className="w-full h-80 object-cover grayscale brightness-75 contrast-125 hover:scale-105 transition-transform duration-700 ease-out"
                     />
