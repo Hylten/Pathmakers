@@ -26,6 +26,53 @@ function parseFrontmatter(raw: string) {
     return { data, content };
 }
 
+// Merge staccato one-sentence paragraphs into readable blocks,
+// mirroring the block-format used by Hylten Invest insights.
+function preprocessMarkdown(text: string): string {
+    // Drop a leading H1 (the article title is already rendered separately)
+    let t = text.replace(/^#\s+.+$/m, '').trim();
+
+    // Normalize heading levels: convert any top-level # to ## (articles use h2 for sections)
+    t = t.replace(/^#\s+(?=[A-ZÅÄÖ])/gm, '## ');
+
+    const blocks = t.split(/\n\n+/);
+    const targetSentences = 4;
+
+    const isMergeable = (b: string): boolean => {
+        const trimmed = b.trim();
+        if (!trimmed) return false;
+        // Never merge structural blocks
+        if (/^(#{1,6}\s|[-*+]\s|\d+\.\s|>\s|```|\|.*\||---|___)/.test(trimmed)) return false;
+        // Merge only short prose paragraphs (2 sentences or fewer)
+        const sentences = trimmed.match(/[^.!?]+[.!?]+(\s|$)/g) || [];
+        return sentences.length <= 2;
+    };
+
+    const merged: string[] = [];
+    let buffer: string[] = [];
+
+    const flush = () => {
+        if (buffer.length > 0) {
+            merged.push(buffer.join(' '));
+            buffer = [];
+        }
+    };
+
+    for (const block of blocks) {
+        if (isMergeable(block)) {
+            buffer.push(block.trim());
+            const sentenceCount = buffer.join(' ').match(/[^.!?]+[.!?]+(\s|$)/g) || [];
+            if (sentenceCount.length >= targetSentences) flush();
+        } else {
+            flush();
+            merged.push(block);
+        }
+    }
+    flush();
+
+    return merged.join('\n\n');
+}
+
 const BASE = '/Pathmakers';
 
 interface InsightsArticleProps {
@@ -220,7 +267,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
 
             <div className="article-content">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                    {content}
+                    {preprocessMarkdown(content)}
                 </ReactMarkdown>
             </div>
 
