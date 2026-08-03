@@ -91,7 +91,7 @@ async function generateSEO() {
 
         listHtml += `
             <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(0,0,0,0.05);">
-                <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
+                <div style="font-size: 11px; color: #B08D57; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &middot; ${date}</div>
                 <a href="/Pathmakers/insights/${slug}/" style="text-decoration: none !important; color: #000000 !important; display: block; width: 100%;">
                     <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #000000 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
                     <p style="font-size: 1.25rem; color: #4B5563 !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
@@ -179,6 +179,7 @@ async function generateSEO() {
 
         // Simple markdown pre-render (very basic)
         const contentHtml = `<div style="padding: 4rem 1rem; max-width: 800px; margin: 0 auto; color: #e5e5e5; font-family: sans-serif;">
+            <a href="/Pathmakers/insights/" style="display: inline-flex; align-items: center; gap: 8px; color: #9CA3AF; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; text-decoration: none; font-weight: 500; margin-bottom: 64px;">&larr; Back to Insights</a>
             <h1 style="font-family: serif; font-size: 3rem; margin-bottom: 2rem;">${title}</h1>
                 <div style="line-height: 2.1; font-size: 1.35rem; color: #374151 !important; font-weight: 300; width: 100%; max-width: 800px; text-align: left; margin: 0 auto;">
                     ${content.split('\n').map(p => {

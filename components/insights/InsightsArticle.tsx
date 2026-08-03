@@ -138,7 +138,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
             <div className="min-h-screen bg-[#050505] flex items-center justify-center">
                 <div className="flex flex-col items-center gap-4">
                     <div className="w-8 h-8 border-2 border-pathmaker-accent border-t-transparent rounded-full animate-spin"></div>
-                    <p className="text-[10px] tracking-[0.3em] text-pathmaker-body uppercase font-medium">Decrypting Insight...</p>
+                    <p className="text-[10px] tracking-[0.3em] text-pathmaker-body uppercase font-medium">Loading Insight...</p>
                 </div>
             </div>
         );
@@ -189,7 +189,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
             `}</style>
             
             <a
-                href="#/insights"
+                href={`${BASE}/insights`}
                 className="inline-flex items-center gap-2 text-pathmaker-body hover:text-pathmaker-accent text-xs tracking-[0.15em] font-medium uppercase mb-16 transition-colors duration-300"
             >
                 <ArrowLeft className="w-3 h-3" />
@@ -236,16 +236,16 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                     Contact The Principal
                 </a>
                 <a
-                    href="#/"
+                    href={`${BASE}/`}
                     className="text-white/40 text-[10px] uppercase tracking-[0.3em] font-medium hover:text-pathmaker-accent transition-colors duration-300"
                 >
-                    Return to Navigation
+                    Return Home
                 </a>
             </div>
             
             <footer className="mt-24 text-center">
                 <p className="text-[10px] text-white/20 tracking-[0.4em] uppercase">
-                    &copy; {new Date().getFullYear()} Pathmaker — Institutional Intelligence
+                    &copy; {new Date().getFullYear()} Pathmaker. All rights reserved.
                 </p>
             </footer>
         </article>
