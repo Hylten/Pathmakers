@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
 const Preloader: React.FC = () => {
-  const [isVisible, setIsVisible] = useState(true);
+  const [isVisible, setIsVisible] = useState(() => sessionStorage.getItem('pathmakerPreloaderShown') !== 'true');
 
   useEffect(() => {
+    if (!isVisible) return;
+    sessionStorage.setItem('pathmakerPreloaderShown', 'true');
     const timer = setTimeout(() => {
       setIsVisible(false);
     }, 6000); // 6 seconds total

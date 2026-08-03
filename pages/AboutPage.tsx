@@ -24,11 +24,12 @@ const AboutPage: React.FC = () => {
           <div>
             <span className="text-pathmaker-accent font-medium tracking-widest uppercase text-xs mb-6 block">Our Purpose</span>
             <h2 className="text-3xl md:text-5xl font-serif font-medium leading-tight mb-8 text-white">
-              Strategic Advisory & Proprietary Dealflow.
+              Sell-Side Advisory with International Buyer Discovery.
             </h2>
             <div className="h-0.5 w-24 bg-pathmaker-accent mb-10"></div>
             <p className="text-xl text-gray-400 leading-relaxed font-light">
-              We don't just wait for opportunities; we create them. Whether acting as buy-side advisors sourcing off-market dealflow or guiding founders through complex exits, we provide the strategic clarity and execution power needed to close.
+              Most Nordic founders sell to the first credible buyer that appears. We change that equation. Pathmaker acts as sell-side advisor for founders who want the full international acquirer landscape mapped before they commit. Our proprietary agentic discovery infrastructure surfaces qualified strategic and financial buyers across EMEA, North America, and MENA, engineering competitive dynamics that Nordic advisors without global technology cannot deliver.
+              We also act as buy-side advisor for institutional acquirers seeking Nordic mid-market targets through the same proprietary infrastructure.
             </p>
           </div>
           <div className="space-y-8">
@@ -68,7 +69,7 @@ const AboutPage: React.FC = () => {
               <Users className="w-10 h-10 text-pathmaker-accent mb-6" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Cultural Alignment</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Aligning culture and capital. Respecting heritage while preparing for the next chapter.
+                Aligning founder legacy with international acquirer expectations. Respecting the Nordic operator culture while preparing the business for institutional scrutiny.
               </p>
             </div>
             {/* Card 2 */}
@@ -76,7 +77,7 @@ const AboutPage: React.FC = () => {
               <TrendingUp className="w-10 h-10 text-pathmaker-accent mb-6" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Strategic Expansion</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Acting as a Growth Partner, leveraging global networks for strategic M&A.
+                Deploying proprietary agentic discovery infrastructure to identify qualified international buyers others cannot reach through traditional networks.
               </p>
             </div>
             {/* Card 3 */}
@@ -84,7 +85,7 @@ const AboutPage: React.FC = () => {
               <Target className="w-10 h-10 text-pathmaker-accent mb-6" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Operational Excellence</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Professionalizing governance and optimizing for scale.
+                Preparing financials, governance, and data infrastructure to institutional standard before international buyer contact.
               </p>
             </div>
           </div>
@@ -101,10 +102,13 @@ const AboutPage: React.FC = () => {
               <h2 className="text-3xl md:text-4xl font-serif font-medium text-white mb-8">From Jönköping to the World</h2>
               <div className="prose prose-lg text-gray-400 font-light">
                 <p className="mb-6">
-                  Founded in 2021, Pathmaker emerged from a singular insight: The middle market needed differentiated execution - advisors who understand entrepreneurship but execute with institutional precision.
+                  Founded in 2021, Pathmaker emerged from a singular insight. Nordic mid-market founders were selling their businesses to whoever showed up first, not to the best possible acquirer globally. The gap was not deal execution. The gap was buyer discovery.
                 </p>
                 <p className="mb-6">
-                  We operate with focused dedication. We commit fully to select mandates, ensuring we are not just advisors, but true partners in execution.
+                  We built Pathmaker to close that gap. Proprietary technology maps international acquirers. Operator experience translates Nordic businesses into language institutional buyers understand. Focused capacity ensures every mandate receives full principal attention.
+                </p>
+                <p className="mb-6">
+                  We commit fully to select mandates. We are not brokers. We are the discovery infrastructure Nordic founders wish they had known about years ago.
                 </p>
               </div>
             </div>
@@ -156,10 +160,13 @@ const AboutPage: React.FC = () => {
               </div>
               <div className="text-gray-400 leading-relaxed mb-10 text-lg space-y-6 font-light">
                 <p>
-                  Jonas is a Growth Partner focused on M&A and Capital Execution. With extensive experience in business development and digital infrastructure, he brings a true operator's perspective to the deal table.
+                  Jonas leads Pathmaker as sell-side advisor and architect of the firm's proprietary buyer discovery infrastructure. His path into M&A was not traditional. Two decades of commercial execution across multiple industries taught him what founders actually need when they sell. That operator perspective, combined with proprietary agentic technology built to map international acquirers, defines how Pathmaker executes mandates today.
                 </p>
                 <p>
-                  A former Reconnaissance Team Leader in the Swedish Armed Forces known for "extreme stamina," Jonas combines military-grade discipline with strategic vision. In complex M&A processes where others experience deal fatigue, Jonas accelerates.
+                  A former Reconnaissance Team Leader in the Swedish Armed Forces, Jonas combines military discipline with a technologist's understanding of how modern buyer discovery is engineered. In complex mandates where deal fatigue slows others, Jonas accelerates.
+                </p>
+                <p>
+                  Jonas also serves as Founder and Managing Partner of Roials Capital, the institutional capital formation firm serving private equity managers and family offices across Europe and international markets.
                 </p>
               </div>
               <div className="flex flex-wrap items-center gap-x-8 gap-y-4">

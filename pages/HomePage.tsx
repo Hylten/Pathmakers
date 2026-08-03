@@ -29,8 +29,8 @@ const HomePage: React.FC = () => {
             
             <div className="border-l-4 border-pathmaker-accent pl-8 py-2 max-w-2xl">
               <p className="text-xl md:text-2xl text-gray-300 font-light leading-relaxed">
-                Principal-led M&A Advisory & Execution. <br/>
-                <span className="text-white/80">Bridging the gap between legacy and market leadership.</span>
+                Principal-led M&A Advisory with Proprietary International Buyer Discovery. <br/>
+                <span className="text-white/80">Connecting Nordic legacy businesses to global acquirers others cannot reach.</span>
               </p>
             </div>
           </div>
@@ -45,7 +45,7 @@ const HomePage: React.FC = () => {
               Building Stronger Futures
             </h2>
             <p className="text-xl text-gray-400 font-light">
-              We don't just facilitate transactions; we engineer growth. Our model is built on proprietary dealflow and active, long-term value creation.
+              We don't just facilitate transactions. We engineer discovery. Our model is built on proprietary agent-driven buyer identification across international markets, active operator involvement, and long-term value creation for founders who refuse to settle for the nearest buyer.
             </p>
           </div>
 
@@ -56,7 +56,7 @@ const HomePage: React.FC = () => {
               <Users className="w-10 h-10 text-pathmaker-accent mb-8" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Unite</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                We operate with Principal-mindset alignment with founders who value their legacy. Uniting vision, culture, and capital execution to ensure stability.
+                We operate as principal-aligned partners to founders who value their legacy. Uniting Nordic operational heritage with international acquirer capital to ensure continuity beyond the founder generation.
               </p>
             </div>
 
@@ -66,7 +66,7 @@ const HomePage: React.FC = () => {
               <Target className="w-10 h-10 text-pathmaker-accent mb-8" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Expand</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Aggressive market expansion through off-market acquisitions and organic scaling. We identify the markets others miss.
+                International buyer identification through proprietary agentic discovery infrastructure. We surface strategic acquirers across EMEA, North America, and MENA that traditional Nordic advisors never reach.
               </p>
             </div>
 
@@ -76,7 +76,7 @@ const HomePage: React.FC = () => {
               <TrendingUp className="w-10 h-10 text-pathmaker-accent mb-8" />
               <h3 className="text-2xl font-serif font-medium text-white mb-4">Elevate</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Our mandate is clear: Elevate the company from a local player to a market leader, securing maximum value for all stakeholders.
+                Our mandate is clear. Elevate the transaction from a local sale to a global auction, securing maximum value through structured competition among international acquirers.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ const HomePage: React.FC = () => {
              <div className="lg:col-span-5 relative">
                  <div className="w-20 h-1 bg-pathmaker-accent mb-8"></div>
                  <h2 className="text-4xl md:text-5xl font-serif font-medium text-white mb-8 leading-tight">
-                    Swedish Roots. <br/>Global Reach.
+                    Swedish Roots. <br/>Global Buyer Reach. <br/>Proprietary Discovery Infrastructure.
                  </h2>
                  {/* Institutional Image 1: Modern Architecture */}
                  <div className="relative overflow-hidden rounded-sm mt-8 border border-white/10">
@@ -104,10 +104,10 @@ const HomePage: React.FC = () => {
              </div>
              <div className="lg:col-span-7">
                 <p className="text-gray-400 text-xl mb-8 leading-relaxed font-light">
-                    Since 2021, Pathmaker has defined the standard for M&A execution in the mid-market. Based in Sweden, executing cross-border mandates.
+                    Since 2021, Pathmaker has redefined how Nordic mid-market businesses meet international acquirers. Based in Sweden, executing cross-border mandates through proprietary technology that maps qualified buyers others do not see.
                 </p>
                 <p className="text-gray-400 text-xl mb-10 leading-relaxed font-light">
-                    Founded and led by Jonas Hyltén, Pathmaker brings a rigorous operator’s perspective to investment. We honor legacy by driving future performance through technology and operational discipline.
+                    Founded and led by Jonas Hyltén, Pathmaker brings an operator's perspective to sell-side advisory. We honor founder legacy by engineering competitive processes that international buyers respect and Nordic founders trust.
                 </p>
                 <Link to="/about" className="inline-flex items-center text-pathmaker-accent text-xs uppercase tracking-widest font-medium hover:text-white transition-colors group">
                     View Leadership <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
