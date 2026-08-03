@@ -1,7 +1,17 @@
---- title: "Strategic Financing for Mid-Market Innovations" description: "A pragmatic exploration of liquidity and asset based liquidity engineering solutions for mid-market operators seeking structural clarity and institutional grade execution." date: "2025-09-28" author: "Jonas Hyltén" slug: "strategic-financing-for-mid-market-innovations"
 ---
-
-# Strategic Financing for Mid-Market Innovations Mid-market leadership is a battlefield. The operators who survive are the ones who understand liquidity before they need it, and structure before the cracks show.
+title: "Strategic Financing for Mid-Market Innovations"
+slug: "strategic-financing-for-mid-market-innovations"
+description: "A pragmatic exploration of liquidity and asset based liquidity engineering solutions for mid-market operators seeking structural clarity and institutional grade execution."
+date: "2025-09-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-financing-for-mid-market-innovations/"
+meta_title: "Strategic Financing for Mid-Market Innovations"
+meta_description: "A pragmatic exploration of liquidity and asset based liquidity engineering solutions for mid-market operators seeking structural clarity and institutional grade execution."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Especially in healthcare carve-outs and M&A environments where margins, compliance, and transition risk converge into a single operational choke point.
 
@@ -172,7 +182,7 @@ Market timing risk is visible.
 
 Pathmaker structures non-liquidating liquidity solutions:
 
-# Crypto Asset-Backed Frameworks Minimum threshold:
+## Crypto Asset-Backed Frameworks Minimum threshold:
 
 2 million dollars.
 

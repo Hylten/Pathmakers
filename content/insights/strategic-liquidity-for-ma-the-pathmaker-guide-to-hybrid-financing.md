@@ -1,7 +1,17 @@
---- title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing" description: "A pragmatic guide to strategic liquidity using private credit and asset based liquidity engineering for mid‑market M&A and healthcare carve‑outs." date: "2026-01-03" author: "Jonas Hyltén" slug: "strategic-liquidity-for-ma-the-pathmaker-guide-to-hybrid-financing"
 ---
-
-# Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing Mid market M&A is not a place for improvisation. It rewards capital choreography, not optimism.
+title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
+slug: "strategic-liquidity-for-ma-the-pathmaker-guide-to-hybrid-financing"
+description: "A pragmatic guide to strategic liquidity using private credit and asset based liquidity engineering for mid‑market M&A and healthcare carve‑outs."
+date: "2026-01-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-for-ma-the-pathmaker-guide-to-hybrid-financing/"
+meta_title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
+meta_description: "A pragmatic guide to strategic liquidity using private credit and asset based liquidity engineering for mid‑market M&A and healthcare carve‑outs."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It punishes buyers who depend on a single liquidity source.
 

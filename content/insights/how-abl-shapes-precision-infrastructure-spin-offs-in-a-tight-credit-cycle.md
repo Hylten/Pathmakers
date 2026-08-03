@@ -1,7 +1,17 @@
---- title: "How Asset-Based Lending Shapes Precision Infrastructure Spin-Offs in a Tight Credit Cycle" description: "A strategic analysis of how Asset Based liquidity engineering unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors." date: "2025-10-16" author: "Jonas Hyltén" slug: "how-abl-shapes-precision-infrastructure-spin-offs-in-a-tight-credit-cycle"
 ---
-
-# The Role of Asset-Based Lending in Precision Infrastructure Spin-offs Precision infrastructure has become one of the most active categories in the mid-market carve-out ecosystem. These platforms sit at the intersection of regulated operations, high compliance friction, capital-intensive equipment, and multi-horizon maintenance cycles.
+title: "How Asset-Based Lending Shapes Precision Infrastructure Spin-Offs in a Tight Credit Cycle"
+slug: "how-abl-shapes-precision-infrastructure-spin-offs-in-a-tight-credit-cycle"
+description: "A strategic analysis of how Asset Based liquidity engineering unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors."
+date: "2025-10-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/how-abl-shapes-precision-infrastructure-spin-offs-in-a-tight-credit-cycle/"
+meta_title: "How Asset-Based Lending Shapes Precision Infrastructure Spin-Offs in a Tight Credit Cycle"
+meta_description: "A strategic analysis of how Asset Based liquidity engineering unlocks liquidity and execution velocity in precision infrastructure spin-offs, tailored for HNWI and UHNW investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They are mission-critical, but rarely glamorous.
 

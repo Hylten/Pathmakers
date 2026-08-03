@@ -1,4 +1,16 @@
---- title: "The Strategic Function of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators" description: "A deep institutional analysis of asset‑based lending structures in healthcare carve‑outs, engineered to reduce M&A friction, accelerate exit readiness, and weaponize liquidity as a tactical advantage in mid‑market deal origination." date: "2026-01-23" author: "The Analyst Team" slug: "abl-healthcare-carveouts-liquidity-engineering"
+---
+title: "The Strategic Function of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
+slug: "abl-healthcare-carveouts-liquidity-engineering"
+description: "A deep institutional analysis of asset‑based lending structures in healthcare carve‑outs, engineered to reduce M&A friction, accelerate exit readiness, and weaponize liquidity as a tactical advantage in mid‑market dea…"
+date: "2026-01-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-healthcare-carveouts-liquidity-engineering/"
+meta_title: "The Strategic Function of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
+meta_description: "A deep institutional analysis of asset‑based lending structures in healthcare carve‑outs, engineered to reduce M&A friction, accelerate exit readiness, and weaponize liquidity as a tactical advantage in mid‑market dea…"
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Healthcare carve-outs punish slow operators.

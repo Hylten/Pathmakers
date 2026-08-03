@@ -1,4 +1,16 @@
---- title: "Tactical Due Diligence and Asset Hardening for GP Acquisitions: Institutional Readiness in the 2026 Mid-Market M&A Cycle" description: "A strategic framework for institutional allocators and GP buyers evaluating mid-market platforms through tactical due diligence, structural hardening, and frictionless exit design." date: "2026-03-05" author: "Jonas Hyltén" slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
+---
+title: "Tactical Due Diligence and Asset Hardening for GP Acquisitions: Institutional Readiness in the 2026 Mid-Market M&A Cycle"
+slug: "tactical-due-diligence-gp-acquisition-asset-hardening"
+description: "A strategic framework for institutional allocators and GP buyers evaluating mid-market platforms through tactical due diligence, structural hardening, and frictionless exit design."
+date: "2026-03-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/tactical-due-diligence-gp-acquisition-asset-hardening/"
+meta_title: "Tactical Due Diligence and Asset Hardening for GP Acquisitions: Institutional Readiness in the 2026 Mid-Market M&A Cycle"
+meta_description: "A strategic framework for institutional allocators and GP buyers evaluating mid-market platforms through tactical due diligence, structural hardening, and frictionless exit design."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum shaping the 2026 European and North American mid-market M&A environment is not a function of scarcity.

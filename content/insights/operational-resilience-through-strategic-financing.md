@@ -1,7 +1,17 @@
---- title: "Operational Resilience Through Strategic Financing" description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers." date: "2025-09-06" author: "Jonas Hyltén" slug: "operational-resilience-through-strategic-financing"
 ---
-
-# Operational Resilience Through Strategic Financing Operational resilience is not built through optimism. It is built through liquidity.
+title: "Operational Resilience Through Strategic Financing"
+slug: "operational-resilience-through-strategic-financing"
+description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers."
+date: "2025-09-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-through-strategic-financing/"
+meta_title: "Operational Resilience Through Strategic Financing"
+meta_description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering strategies designed to strengthen operational resilience for mid‑market operators and carve-out buyers."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It is built through the hard mechanics that keep transactions intact when markets shift and operating conditions tighten.
 

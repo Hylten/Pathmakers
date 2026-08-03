@@ -1,4 +1,16 @@
---- title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth" description: "Institutional analysis on the expanding role of Asset-Based Lending in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America." date: "2026-03-08" author: "Jonas Hyltén" slug: "abl-silent-engine-sustainable-corporate-growth"
+---
+title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
+slug: "abl-silent-engine-sustainable-corporate-growth"
+description: "Institutional analysis on the expanding role of Asset-Based Lending in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America."
+date: "2026-03-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-silent-engine-sustainable-corporate-growth/"
+meta_title: "Why Asset Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
+meta_description: "Institutional analysis on the expanding role of Asset-Based Lending in corporate liquidity engineering, M&A readiness, and mid-market operational stability across Europe and North America."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 Structural displacement in corporate finance is not driven by scarcity of capital.

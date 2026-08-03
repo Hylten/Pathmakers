@@ -1,11 +1,17 @@
 ---
 title: "The Negotiator's Mandate: Structural Certainty in Private Equity"
+slug: "the-negotiators-mandate-structural-certainty-in"
 description: "An institutional analysis on M&A friction removal, exit readiness engineering, and off-market deal origination through tactical negotiation architecture for mid-market principals."
 date: "2025-10-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-negotiators-mandate-structural-certainty-in/"
+meta_title: "The Negotiator's Mandate: Structural Certainty in Private Equity"
+meta_description: "An institutional analysis on M&A friction removal, exit readiness engineering, and off-market deal origination through tactical negotiation architecture for mid-market principals."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-negotiators-mandate-structural-certainty-in"
 ---
-# The Negotiator's Mandate. Structural Certainty in Private Equity Private Equity does not reward improvisation.
 
 It rewards structural certainty.
 

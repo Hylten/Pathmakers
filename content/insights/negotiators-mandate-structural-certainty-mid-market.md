@@ -1,4 +1,16 @@
---- title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions" description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture." date: "2025-06-23" author: "Jonas Hyltén" slug: "negotiators-mandate-structural-certainty-mid-market"
+---
+title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions"
+slug: "negotiators-mandate-structural-certainty-mid-market"
+description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture."
+date: "2025-06-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/negotiators-mandate-structural-certainty-mid-market/"
+meta_title: "The Negotiators Mandate: Structural Certainty in Mid Market Transactions"
+meta_description: "Institutional analysis on M&A friction removal, exit readiness engineering, and off market deal origination through tactical negotiation architecture."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum across the European and Nordic mid market is not a liquidity shortage.

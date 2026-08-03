@@ -1,7 +1,17 @@
---- title: "The Mid-Market Guide to Sovereign Capital" description: "A strategic guide for HNWI and UHNW investors using private credit and asset based liquidity engineering to unlock liquidity in the mid-market." date: "2025-09-05" author: "Jonas Hyltén" slug: "the-mid-market-guide-to-sovereign-capital"
 ---
-
-# The Mid-Market Guide to Sovereign Capital The mid-market has always been where capital inefficiencies surface first. And where opportunity grows fastest for those who understand the mechanics.
+title: "The Mid-Market Guide to Sovereign Capital"
+slug: "the-mid-market-guide-to-sovereign-capital"
+description: "A strategic guide for HNWI and UHNW investors using private credit and asset based liquidity engineering to unlock liquidity in the mid-market."
+date: "2025-09-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-mid-market-guide-to-sovereign-capital/"
+meta_title: "The Mid-Market Guide to Sovereign Capital"
+meta_description: "A strategic guide for HNWI and UHNW investors using private credit and asset based liquidity engineering to unlock liquidity in the mid-market."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Most investors romanticize sovereign capital as something tied to governments or trillion dollar balance sheets.
 

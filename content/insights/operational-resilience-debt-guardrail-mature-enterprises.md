@@ -1,4 +1,16 @@
---- title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises" description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition optionality." date: "2025-10-17" author: "The Analyst Team" slug: "operational-resilience-debt-guardrail-mature-enterprises"
+---
+title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
+slug: "operational-resilience-debt-guardrail-mature-enterprises"
+description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition…"
+date: "2025-10-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-debt-guardrail-mature-enterprises/"
+meta_title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
+meta_description: "A principal-level institutional brief on how calibrated leverage creates exit readiness, reduces M&A friction, and fortifies operational resilience for mid-market enterprises seeking tactical liquidity and acquisition…"
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Operational resilience is not a defensive posture.

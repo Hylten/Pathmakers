@@ -1,7 +1,17 @@
---- title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker" description: "A deep analysis of precision liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW buyers executing cross-border M&A." date: "2025-12-09" author: "Jonas Hyltén" slug: "precision-financing-for-cross-border-ma-structural-liquidity-for-the-mid-market-dealmaker"
 ---
-
-# Precision Financing for Cross-Border M&A Cross-border M&A is never elegant. It is mechanical.
+title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
+slug: "precision-financing-for-cross-border-ma-structural-liquidity-for-the-mid-market-dealmaker"
+description: "A deep analysis of precision liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW buyers executing cross-border M&A."
+date: "2025-12-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-for-cross-border-ma-structural-liquidity-for-the-mid-market-dealmaker/"
+meta_title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
+meta_description: "A deep analysis of precision liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW buyers executing cross-border M&A."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It is procedural.
 

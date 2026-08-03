@@ -1,7 +1,17 @@
---- title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision" description: "A strategic deep dive into mid-market liquidity constraints and how Asset-Based Lending and private credit structures create durable optionality for HNWI and UHNW investors." date: "2025-09-27" author: "Jonas Hyltén" slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
 ---
-
-# Navigating Mid-Market Liquidity Challenges With Institutional Precision Mid-market operators face liquidity stress long before the outside world notices. The numbers may look adequate.
+title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision"
+slug: "navigating-mid-market-liquidity-challenges-with-institutional-precision"
+description: "A strategic deep dive into mid-market liquidity constraints and how Asset-Based Lending and private credit structures create durable optionality for HNWI and UHNW investors."
+date: "2025-09-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/navigating-mid-market-liquidity-challenges-with-institutional-precision/"
+meta_title: "Navigating Mid-Market Liquidity Challenges With Institutional Precision"
+meta_description: "A strategic deep dive into mid-market liquidity constraints and how Asset-Based Lending and private credit structures create durable optionality for HNWI and UHNW investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 The EBITDA may look stable.
 
@@ -53,7 +63,7 @@ They can recapitalize.
 
 They can
 
-# Layer M: ezzanine. They can negotiate maturity extensions.
+## Layer M: ezzanine. They can negotiate maturity extensions.
 
 HNWI and UHNW individuals operating privately do not always have those tools.
 

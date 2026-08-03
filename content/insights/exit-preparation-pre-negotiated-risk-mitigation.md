@@ -1,4 +1,16 @@
---- title: "The Principal Architecture of Exit Readiness" description: "Mid‑market exit preparation through pre‑negotiated risk mitigation, jurisdictional foresight, and tactical intelligence—Pathmaker’s structural blueprint for frictionless M&A execution." date: "2026-02-20" author: "Pathmaker Analyst Division" slug: "exit-preparation-pre-negotiated-risk-mitigation"
+---
+title: "The Principal Architecture of Exit Readiness"
+slug: "exit-preparation-pre-negotiated-risk-mitigation"
+description: "Mid‑market exit preparation through pre‑negotiated risk mitigation, jurisdictional foresight, and tactical intelligence—Pathmaker’s structural blueprint for frictionless M&A execution."
+date: "2026-02-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/exit-preparation-pre-negotiated-risk-mitigation/"
+meta_title: "The Principal Architecture of Exit Readiness"
+meta_description: "Mid‑market exit preparation through pre‑negotiated risk mitigation, jurisdictional foresight, and tactical intelligence—Pathmaker’s structural blueprint for frictionless M&A execution."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Division"
 ---
 
 The firms that exit cleanly are not the firms that grow fastest.

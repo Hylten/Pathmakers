@@ -1,7 +1,17 @@
---- title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector" description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability." date: "2025-11-13" author: "Jonas Hyltén" slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
 ---
-
-# Unlocking Growth in Mid-Market Healthcare A Pathmaker Structural Analysis Mid-market healthcare is not a gentle landscape. It is a sector defined by chronic margin compression, reimbursement volatility, and operational drag that accumulates long before an outside advisor sees the books.
+title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
+slug: "unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector"
+description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability."
+date: "2025-11-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/unlocking-growth-in-mid-market-healthcare-structural-liquidity-for-a-fragmented-sector/"
+meta_title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
+meta_description: "A pragmatic analysis of liquidity, private credit, and asset based liquidity engineering solutions for mid-market healthcare operators seeking growth and stability."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Most operators feel the weight of decades of underinvestment, fragmented systems, and inorganic acquisitions that never fully integrated.
 

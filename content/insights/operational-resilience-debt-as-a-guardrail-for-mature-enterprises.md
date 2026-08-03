@@ -1,7 +1,17 @@
---- title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises" description: "A high‑authority analysis on operational resilience for mature enterprises, focusing on liquidity, private credit, and asset based liquidity engineering as structural guardrails." date: "2026-03-03" author: "Jonas Hyltén" slug: "operational-resilience-debt-as-a-guardrail-for-mature-enterprises"
 ---
-
-# Operational Resilience: Debt as a Guardrail for Mature Enterprises Mature enterprises do not collapse because the market turns against them. They collapse because liquidity leaves the building.
+title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
+slug: "operational-resilience-debt-as-a-guardrail-for-mature-enterprises"
+description: "A high‑authority analysis on operational resilience for mature enterprises, focusing on liquidity, private credit, and asset based liquidity engineering as structural guardrails."
+date: "2026-03-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-debt-as-a-guardrail-for-mature-enterprises/"
+meta_title: "Operational Resilience: Debt as a Guardrail for Mature Enterprises"
+meta_description: "A high‑authority analysis on operational resilience for mature enterprises, focusing on liquidity, private credit, and asset based liquidity engineering as structural guardrails."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They collapse because internal decision makers freeze.
 

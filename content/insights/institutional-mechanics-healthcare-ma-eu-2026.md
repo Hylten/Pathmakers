@@ -1,4 +1,16 @@
---- title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift" description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment." date: "2025-08-22" author: "Jonas Hyltén — The Analyst Team" slug: "institutional-mechanics-healthcare-ma-eu-2026"
+---
+title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
+slug: "institutional-mechanics-healthcare-ma-eu-2026"
+description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment."
+date: "2025-08-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/institutional-mechanics-healthcare-ma-eu-2026/"
+meta_title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
+meta_description: "A high-density institutional analysis of regulatory recalibration, mid-market consolidation mechanics, and exit-readiness engineering in the evolving 2026 EU healthcare M&A environment."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén — The Analyst Team"
 ---
 
 The 2026 European regime shift forces healthcare acquirers, operators, credit sponsors, and institutional sellers into a structural rethink.
@@ -498,7 +510,7 @@ They act with structural clarity.
 
 For platforms preparing to exit,
 
-# THE MANDATE
+## THE MANDATE
 
 is simple: become institutionally undeniable.
 

@@ -1,7 +1,17 @@
---- title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era" description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs." date: "2025-09-26" author: "Jonas Hyltén" slug: "the-pathmaker-vision-for-institutional-ma-structural-liquidity-for-the-new-era"
 ---
-
-# The Pathmaker Vision for Institutional M&A A Structural Liquidity Blueprint for Serious Capital Institutional M&A has entered a new phase. Capital is more expensive.
+title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
+slug: "the-pathmaker-vision-for-institutional-ma-structural-liquidity-for-the-new-era"
+description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs."
+date: "2025-09-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-pathmaker-vision-for-institutional-ma-structural-liquidity-for-the-new-era/"
+meta_title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
+meta_description: "A deep examination of Pathmaker’s approach to liquidity, private credit, and asset based liquidity engineering for institutional M&A and healthcare carve-outs."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Execution risk is higher.
 
@@ -181,7 +191,7 @@ It is influence without spectacle.
 
 Liquidity as Strategy Not a Last Step, a First
 
-# Step M ost buyers still treat liquidity as the final box to check after negotiation.
+## Step M ost buyers still treat liquidity as the final box to check after negotiation.
 
 This is a legacy mindset from years of cheap capital and accommodative banks.
 

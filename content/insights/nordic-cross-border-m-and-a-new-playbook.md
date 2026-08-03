@@ -1,4 +1,16 @@
---- title: "Nordic Cross-Border M&A: The New Playbook for Institutional Grade Exit Readiness" description: "A technical memorandum on Nordic mid market cross border M&A, friction removal, operational standardization, and institutional buyer alignment. Authored by Jonas Hyltén in the capacity of strategic partner and introducer, providing analytical intelligence for allocators and corporate owners navigating 2026’s regime shift in European dealmaking." date: "2025-11-17" author: "Jonas Hyltén" slug: "nordic-cross-border-m-and-a-new-playbook"
+---
+title: "Nordic Cross-Border M&A: The New Playbook for Institutional Grade Exit Readiness"
+slug: "nordic-cross-border-m-and-a-new-playbook"
+description: "A technical memorandum on Nordic mid market cross border M&A, friction removal, operational standardization, and institutional buyer alignment. Authored by Jonas Hyltén in the capacity of strategic partner and introdu…"
+date: "2025-11-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/nordic-cross-border-m-and-a-new-playbook/"
+meta_title: "Nordic Cross-Border M&A: The New Playbook for Institutional Grade Exit Readiness"
+meta_description: "A technical memorandum on Nordic mid market cross border M&A, friction removal, operational standardization, and institutional buyer alignment. Authored by Jonas Hyltén in the capacity of strategic partner and introdu…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap defining Nordic cross border M&A in 2026 is not valuation volatility.

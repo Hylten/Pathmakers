@@ -1,4 +1,16 @@
---- title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits" description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits." date: "2026-01-11" author: "Pathmaker Analyst Group" slug: "off-market-sovereignty"
+---
+title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits"
+slug: "off-market-sovereignty"
+description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits."
+date: "2026-01-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/off-market-sovereignty/"
+meta_title: "The Principal Case for Off‑Market Sovereignty in Mid‑Market Exits"
+meta_description: "A high-density analyst briefing on the collapse of traditional auctions, the rise of off‑market origination, and the architecture required for frictionless mid‑market exits."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Group"
 ---
 
 The auction model is cracking.

@@ -1,4 +1,16 @@
---- title: "The Sovereign Geometry of Deal Flow: Why Misaligned Financial Models Still Kill Mid-Market Transactions—and How to Correct Them Before They Detonate" description: "A high-density analyst briefing on structural misalignment in mid‑market financial models, M&A friction removal, and pre‑emptive Exit Readiness architecture from the Pathmaker vantage." date: "2025-11-20" author: "Pathmaker Analyst Team" slug: "misaligned-financial-models-killing-deals"
+---
+title: "The Sovereign Geometry of Deal Flow: Why Misaligned Financial Models Still Kill Mid-Market Transactions—and How to Correct Them Before They Detonate"
+slug: "misaligned-financial-models-killing-deals"
+description: "A high-density analyst briefing on structural misalignment in mid‑market financial models, M&A friction removal, and pre‑emptive Exit Readiness architecture from the Pathmaker vantage."
+date: "2025-11-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/misaligned-financial-models-killing-deals/"
+meta_title: "The Sovereign Geometry of Deal Flow: Why Misaligned Financial Models Still Kill Mid-Market Transactions—and How to Correct Them Before They Detonate"
+meta_description: "A high-density analyst briefing on structural misalignment in mid‑market financial models, M&A friction removal, and pre‑emptive Exit Readiness architecture from the Pathmaker vantage."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 The collapse rarely begins where the operator thinks it begins.

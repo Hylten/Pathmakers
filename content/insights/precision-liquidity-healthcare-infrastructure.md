@@ -1,4 +1,16 @@
---- title: "Precision Liquidity Architecture for Healthcare Infrastructure" description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intelligence for UHNWIs, private credit allocators, and institutional LPs evaluating frictionless transaction execution." date: "2025-10-20" author: "Jonas Hyltén" slug: "precision-liquidity-healthcare-infrastructure"
+---
+title: "Precision Liquidity Architecture for Healthcare Infrastructure"
+slug: "precision-liquidity-healthcare-infrastructure"
+description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intellig…"
+date: "2025-10-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-liquidity-healthcare-infrastructure/"
+meta_title: "Precision Liquidity Architecture for Healthcare Infrastructure"
+meta_description: "A technical institutional briefing on liquidity engineering, exit readiness, operational de-risking, and off-market acquisition pathways within European and North American healthcare infrastructure. Strategic intellig…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in healthcare infrastructure is not driven by a shortage of capital, but by an absence of precision capital capable of compressing transaction friction, stabilizing operational volatility, and creating institutional exit paths.

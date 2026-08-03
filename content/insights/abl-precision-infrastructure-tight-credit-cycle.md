@@ -1,4 +1,16 @@
---- title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle" description: "A technical institutional briefing on how Asset-Based Lending structures recalibrate mid market precision infrastructure carve outs, reduce M and A friction, harden cash flow visibility, and accelerate exit readiness for strategic acquirers in a constrained credit regime." date: "2026-03-01" author: "Jonas Hyltén" slug: "abl-precision-infrastructure-tight-credit-cycle"
+---
+title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+slug: "abl-precision-infrastructure-tight-credit-cycle"
+description: "A technical institutional briefing on how Asset-Based Lending structures recalibrate mid market precision infrastructure carve outs, reduce M and A friction, harden cash flow visibility, and accelerate exit readiness…"
+date: "2026-03-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-precision-infrastructure-tight-credit-cycle/"
+meta_title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+meta_description: "A technical institutional briefing on how Asset-Based Lending structures recalibrate mid market precision infrastructure carve outs, reduce M and A friction, harden cash flow visibility, and accelerate exit readiness…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap defining the current cycle is not a shortage of credible operators.

@@ -1,4 +1,16 @@
---- title: "The Sovereign Architecture of Institutional-Grade FP&A: The Quiet Engine of Premium Exit Multiples" description: "A tactical, analyst‑grade dissection of FP&A as the decisive mechanism for exit readiness, valuation control, and frictionless mid‑market M&A execution." date: "2025-10-09" author: "Pathmaker — Analyst Division" slug: "institutional-fpa-exit-multiples-architecture"
+---
+title: "The Sovereign Architecture of Institutional-Grade FP&A: The Quiet Engine of Premium Exit Multiples"
+slug: "institutional-fpa-exit-multiples-architecture"
+description: "A tactical, analyst‑grade dissection of FP&A as the decisive mechanism for exit readiness, valuation control, and frictionless mid‑market M&A execution."
+date: "2025-10-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/institutional-fpa-exit-multiples-architecture/"
+meta_title: "The Sovereign Architecture of Institutional-Grade FP&A: The Quiet Engine of Premium Exit Multiples"
+meta_description: "A tactical, analyst‑grade dissection of FP&A as the decisive mechanism for exit readiness, valuation control, and frictionless mid‑market M&A execution."
+featured_image: ""
+draft: false
+author: "Pathmaker — Analyst Division"
 ---
 
 The firms that command premium exits never announce themselves with bravado.

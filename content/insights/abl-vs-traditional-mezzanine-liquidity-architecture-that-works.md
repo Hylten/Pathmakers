@@ -1,4 +1,16 @@
---- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering." date: "2025-08-23" author: "The Analyst Team" slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
+---
+title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
+slug: "abl-vs-traditional-mezzanine-liquidity-architecture-that-works"
+description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering."
+date: "2025-08-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-vs-traditional-mezzanine-liquidity-architecture-that-works/"
+meta_title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
+meta_description: "A principal-grade analysis of asset‑based lending vs mezzanine capital in mid‑market M&A, focused on friction removal, exit readiness, and liquidity engineering."
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Asset movements decide outcomes in the mid‑market.

@@ -1,4 +1,16 @@
---- title: "How Asset-Based Lending Reconfigures Mid‑Market Carve‑Outs for Fund-III Precision" description: "Analyst-grade examination of how Asset‑Based Lending restructures mid‑market carve‑outs, dissolves M&A friction, unlocks exit readiness, and creates off‑market acquisition optionality for private equity operators facing operational separation, liquidity stress, or legacy corporate entanglement." date: "2025-11-24" author: "The Analyst Team" slug: "abl-midmarket-carveouts-Fund-III"
+---
+title: "How Asset-Based Lending Reconfigures Mid‑Market Carve‑Outs for Fund-III Precision"
+slug: "abl-midmarket-carveouts-Fund-III"
+description: "Analyst-grade examination of how Asset‑Based Lending restructures mid‑market carve‑outs, dissolves M&A friction, unlocks exit readiness, and creates off‑market acquisition optionality for private equity operators faci…"
+date: "2025-11-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-midmarket-carveouts-Fund-III/"
+meta_title: "How Asset-Based Lending Reconfigures Mid‑Market Carve‑Outs for Fund-III Precision"
+meta_description: "Analyst-grade examination of how Asset‑Based Lending restructures mid‑market carve‑outs, dissolves M&A friction, unlocks exit readiness, and creates off‑market acquisition optionality for private equity operators faci…"
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Carve‑outs break companies open.

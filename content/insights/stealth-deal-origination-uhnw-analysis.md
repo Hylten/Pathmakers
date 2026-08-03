@@ -1,4 +1,16 @@
---- title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors" description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness." date: "2025-10-01" author: "Pathmaker Analyst Division" slug: "stealth-deal-origination-uhnw-analysis"
+---
+title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors"
+slug: "stealth-deal-origination-uhnw-analysis"
+description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness."
+date: "2025-10-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/stealth-deal-origination-uhnw-analysis/"
+meta_title: "The Principal Architecture of Stealth Deal Origination for UHNW Direct Investors"
+meta_description: "A deep structural analysis of the emerging covert mid‑market acquisition lanes, their impact on UHNW direct investors, and the operational architecture required for frictionless exit-readiness."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Division"
 ---
 
 Stealth deal origination has become the principal hidden channel of mid‑market transaction flow, but most observers misdiagnose the cause.
@@ -41,7 +53,7 @@ And the strategic consequences are immense.
 
 ### Phase I: -
 
-# The first structural shift: founders no longer trust the traditional M&A theatre.
+## The first structural shift: founders no longer trust the traditional M&A theatre.
 
 The process exposes their time horizon, their financial pressure, and their internal weaknesses.
 

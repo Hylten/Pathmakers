@@ -1,4 +1,16 @@
---- title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality" description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Institutional Voice with tactical overlays from Jonas Hyltén." date: "2025-10-22" author: "Jonas Hyltén" slug: "dark-arts-of-exit-readiness-generals-perspective"
+---
+title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality"
+slug: "dark-arts-of-exit-readiness-generals-perspective"
+description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Ins…"
+date: "2025-10-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/dark-arts-of-exit-readiness-generals-perspective/"
+meta_title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless Dispositions and Institutional-Grade Optionality"
+meta_description: "A strategic intelligence briefing on exit readiness, M&A friction removal, operational hardening, and institutional buyer calibration for mid-market European and North American companies. Framework authored in the Ins…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in the transatlantic mid-market is not a product of valuation compression.

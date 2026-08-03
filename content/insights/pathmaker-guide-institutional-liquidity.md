@@ -1,4 +1,16 @@
---- title: "The Pathmaker Guide to Institutional Liquidity: Tactical Intelligence for Exit Readiness and M&A Precision" description: "A strategic memo on liquidity engineering, institutional readiness, and off-market acquisition pathways for mid-market operators seeking frictionless capital interactions across Europe and North America." date: "2025-11-27" author: "Jonas Hyltén" slug: "pathmaker-guide-institutional-liquidity"
+---
+title: "The Pathmaker Guide to Institutional Liquidity: Tactical Intelligence for Exit Readiness and M&A Precision"
+slug: "pathmaker-guide-institutional-liquidity"
+description: "A strategic memo on liquidity engineering, institutional readiness, and off-market acquisition pathways for mid-market operators seeking frictionless capital interactions across Europe and North America."
+date: "2025-11-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-guide-institutional-liquidity/"
+meta_title: "The Pathmaker Guide to Institutional Liquidity: Tactical Intelligence for Exit Readiness and M&A Precision"
+meta_description: "A strategic memo on liquidity engineering, institutional readiness, and off-market acquisition pathways for mid-market operators seeking frictionless capital interactions across Europe and North America."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The liquidity shortage constraining the mid-market ecosystem is not a consequence of weak demand.

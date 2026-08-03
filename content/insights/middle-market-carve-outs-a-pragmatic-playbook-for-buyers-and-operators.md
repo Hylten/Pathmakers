@@ -1,7 +1,17 @@
---- title: "Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators" description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators from Roials Capital and Hyltén Invest." date: "2026-01-11" author: "Jonas Hyltén" slug: "middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators"
 ---
-
-# Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators Middle market carve-outs are not elegant corporate restructurings. They are messy, high‑friction transactions where legacy systems break, customer relationships wobble, and integration teams often underestimate the grind required to stabilize the asset.
+title: "Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators"
+slug: "middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators"
+description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators from Roials Capital and Hyltén Invest."
+date: "2026-01-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/middle-market-carve-outs-a-pragmatic-playbook-for-buyers-and-operators/"
+meta_title: "Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators"
+meta_description: "Insights on Middle Market Carve-Outs: A Pragmatic Playbook for Buyers and Operators from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Yet, for disciplined investors and operators, carve-outs remain one of the most repeatable paths to value creation in the mid-market.
 

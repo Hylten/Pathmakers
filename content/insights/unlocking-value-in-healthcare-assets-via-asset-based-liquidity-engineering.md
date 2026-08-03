@@ -1,7 +1,17 @@
---- title: "Unlocking Value in Healthcare Assets via Asset Based liquidity engineering" description: "A high authority analysis on using Asset-Based Lending to unlock liquidity from healthcare assets for sophisticated capital holders." date: "2025-08-29" author: "Jonas Hyltén" slug: "unlocking-value-in-healthcare-assets-via-asset-based-liquidity-engineering"
 ---
-
-# Unlocking Value in Healthcare Assets via Asset Based Asset-Backed Frameworks Healthcare assets look stable from a distance. From the inside, they are a maze of reimbursement cycles, fragmented revenue streams, delayed cash flows, and complex vendor ecosystems.
+title: "Unlocking Value in Healthcare Assets via Asset Based liquidity engineering"
+slug: "unlocking-value-in-healthcare-assets-via-asset-based-liquidity-engineering"
+description: "A high authority analysis on using Asset-Based Lending to unlock liquidity from healthcare assets for sophisticated capital holders."
+date: "2025-08-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/unlocking-value-in-healthcare-assets-via-asset-based-liquidity-engineering/"
+meta_title: "Unlocking Value in Healthcare Assets via Asset Based liquidity engineering"
+meta_description: "A high authority analysis on using Asset-Based Lending to unlock liquidity from healthcare assets for sophisticated capital holders."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 This is precisely why the mid‑market continues to misprice operational friction.
 

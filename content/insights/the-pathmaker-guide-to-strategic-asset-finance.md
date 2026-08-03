@@ -1,7 +1,17 @@
---- title: "The Pathmaker Guide to Strategic Asset Finance" description: "A pragmatic guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors seeking institutional grade leverage strategies." date: "2025-07-29" author: "Jonas Hyltén" slug: "the-pathmaker-guide-to-strategic-asset-finance"
 ---
-
-# The Pathmaker Guide to Strategic Asset Finance Strategic capital is no longer about bravado. It is about mechanics, timing, and access.
+title: "The Pathmaker Guide to Strategic Asset Finance"
+slug: "the-pathmaker-guide-to-strategic-asset-finance"
+description: "A pragmatic guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors seeking institutional grade leverage strategies."
+date: "2025-07-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-pathmaker-guide-to-strategic-asset-finance/"
+meta_title: "The Pathmaker Guide to Strategic Asset Finance"
+meta_description: "A pragmatic guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors seeking institutional grade leverage strategies."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 The mid‑market M&A environment rewards those who can move liquidity with precision and who understand that leverage is a tool, not a trophy.
 
@@ -199,7 +209,7 @@ Each
 
 ### Step I: s vital. Each
 
-# Step D etermines whether the deal survives diligence or collapses under its own weight.
+## Step D etermines whether the deal survives diligence or collapses under its own weight.
 
 We do not offer false optimism.
 

@@ -1,4 +1,16 @@
---- title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker" description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North American transaction regimes." date: "2025-07-27" author: "Jonas Hyltén" slug: "precision-financing-cross-border-mna-liquidity-engineering"
+---
+title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
+slug: "precision-financing-cross-border-mna-liquidity-engineering"
+description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North…"
+date: "2025-07-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-cross-border-mna-liquidity-engineering/"
+meta_title: "Precision Financing for Cross-Border M&A: Structural Liquidity for the Mid-Market Dealmaker"
+meta_description: "A clinical institutional briefing on liquidity engineering, cross-border execution architectures, balance sheet optimization, and friction-resistant M&A readiness for mid-market operators navigating European and North…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in the European mid-market M&A corridor is not caused by a shortage of opportunity.

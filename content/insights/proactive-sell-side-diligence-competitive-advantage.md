@@ -1,4 +1,16 @@
---- title: "The Principal Architecture of Proactive Sell-Side Diligence" description: "A tactical, high-density analyst briefing on why founders who operationalize proactive diligence outperform, transact faster, and access off‑market buyers with higher conviction." date: "2025-09-13" author: "Pathmaker Analyst Team" slug: "proactive-sell-side-diligence-competitive-advantage"
+---
+title: "The Principal Architecture of Proactive Sell-Side Diligence"
+slug: "proactive-sell-side-diligence-competitive-advantage"
+description: "A tactical, high-density analyst briefing on why founders who operationalize proactive diligence outperform, transact faster, and access off‑market buyers with higher conviction."
+date: "2025-09-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/proactive-sell-side-diligence-competitive-advantage/"
+meta_title: "The Principal Architecture of Proactive Sell-Side Diligence"
+meta_description: "A tactical, high-density analyst briefing on why founders who operationalize proactive diligence outperform, transact faster, and access off‑market buyers with higher conviction."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 Proactive diligence changes the power dynamic.

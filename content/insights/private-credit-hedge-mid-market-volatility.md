@@ -1,4 +1,16 @@
---- title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness" description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring, and off market origination. Strategic memo framed for allocators and principal sponsors navigating a fractured M&A environment." date: "2025-11-15" author: "Jonas Hyltén" slug: "private-credit-hedge-mid-market-volatility"
+---
+title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness"
+slug: "private-credit-hedge-mid-market-volatility"
+description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring…"
+date: "2025-11-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/private-credit-hedge-mid-market-volatility/"
+meta_title: "Using Private Credit as a Volatility Hedge in a Fragmented Mid Market: Tactical Intelligence for M&A Stability and Exit Readiness"
+meta_description: "Institutional briefing on how private credit functions as a volatility hedge across the European and North American mid market, with emphasis on liquidity engineering, exit readiness, counter cyclical deal structuring…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in the European and North American mid market is not the lack of buyers.

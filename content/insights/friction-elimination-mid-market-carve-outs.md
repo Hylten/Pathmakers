@@ -1,4 +1,16 @@
---- title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration" description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authored with the conviction and operational clarity of Jonas Hyltén." date: "2025-10-03" author: "Jonas Hyltén" slug: "friction-elimination-mid-market-carve-outs"
+---
+title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration"
+slug: "friction-elimination-mid-market-carve-outs"
+description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authore…"
+date: "2025-10-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/friction-elimination-mid-market-carve-outs/"
+meta_title: "Friction Elimination In Mid Market Carve Outs: Institutional Mechanics For Exit Readiness And Off Market Acceleration"
+meta_description: "Technical intelligence briefing on structural friction in European mid market carve outs, operational disentanglement, exit readiness, and the institutional architecture required for off market M&A continuity. Authore…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in European mid market carve outs is a structural consequence of operational friction rather than a shortage of transaction appetite.

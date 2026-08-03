@@ -1,4 +1,16 @@
---- title: "Healthcare M&A: Liquidity as the Final Advantage in a Fractured Market" description: "A principal-level institutional briefing on liquidity asymmetry, exit readiness, and frictionless M&A architecture in mid‑market healthcare." date: "2025-11-10" author: "Jonas Hyltén — The Analyst Team" slug: "healthcare-ma-liquidity-advantage-fractured-market"
+---
+title: "Healthcare M&A: Liquidity as the Final Advantage in a Fractured Market"
+slug: "healthcare-ma-liquidity-advantage-fractured-market"
+description: "A principal-level institutional briefing on liquidity asymmetry, exit readiness, and frictionless M&A architecture in mid‑market healthcare."
+date: "2025-11-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-ma-liquidity-advantage-fractured-market/"
+meta_title: "Healthcare M&A: Liquidity as the Final Advantage in a Fractured Market"
+meta_description: "A principal-level institutional briefing on liquidity asymmetry, exit readiness, and frictionless M&A architecture in mid‑market healthcare."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén — The Analyst Team"
 ---
 
 Liquidity decides outcomes.
@@ -465,7 +477,7 @@ Buyers who fail to adapt will discover the reality too late: capital speed has r
 
 For institutional buyers, founder-led groups, and strategic operators,
 
-# THE MANDATE
+## THE MANDATE
 
 is clear: Engineer liquidity.
 

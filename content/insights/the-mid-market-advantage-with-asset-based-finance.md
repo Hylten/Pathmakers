@@ -1,7 +1,17 @@
---- title: "The Mid-Market Advantage with Asset-Based Finance" description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision." date: "2025-11-09" author: "Jonas Hyltén" slug: "the-mid-market-advantage-with-asset-based-finance"
 ---
-
-# The Mid-Market Advantage with Asset-Based Finance Mid market operators rarely get glossy headlines, but they carry the weight of most real economic transactions. They operate without the luxury of infinite runway or indulgent narratives.
+title: "The Mid-Market Advantage with Asset-Based Finance"
+slug: "the-mid-market-advantage-with-asset-based-finance"
+description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision."
+date: "2025-11-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-mid-market-advantage-with-asset-based-finance/"
+meta_title: "The Mid-Market Advantage with Asset-Based Finance"
+meta_description: "Explore how asset based liquidity engineering and private credit unlock strategic liquidity for mid market deals, carve outs, and sophisticated investors seeking structural precision."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They make decisions in real time, with real capital at risk, and real consequences when missteps compound.
 

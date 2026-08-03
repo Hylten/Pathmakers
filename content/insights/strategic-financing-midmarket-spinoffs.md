@@ -1,4 +1,16 @@
---- title: "Strategic Financing Frameworks for Mid-Market Corporate Spin-Offs and High-Friction Separations" description: "Institutional-level analysis of capital inefficiencies, structural dislocations, and liquidity engineering models governing complex mid-market spin-offs. Tactical guidance for sponsors, founders, and family enterprises preparing divestitures or carve-outs with operational entanglement risk." date: "2026-01-01" author: "Roials Capital (Institutional Briefing)" slug: "strategic-financing-midmarket-spinoffs"
+---
+title: "Strategic Financing Frameworks for Mid-Market Corporate Spin-Offs and High-Friction Separations"
+slug: "strategic-financing-midmarket-spinoffs"
+description: "Institutional-level analysis of capital inefficiencies, structural dislocations, and liquidity engineering models governing complex mid-market spin-offs. Tactical guidance for sponsors, founders, and family enterprise…"
+date: "2026-01-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-financing-midmarket-spinoffs/"
+meta_title: "Strategic Financing Frameworks for Mid-Market Corporate Spin-Offs and High-Friction Separations"
+meta_description: "Institutional-level analysis of capital inefficiencies, structural dislocations, and liquidity engineering models governing complex mid-market spin-offs. Tactical guidance for sponsors, founders, and family enterprise…"
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
 
 The capital vacuum across the mid-market separation landscape is a direct result of structural complexity rather than the availability of assets or buyer intent.

@@ -1,11 +1,17 @@
 ---
 title: "The Tactical Vanguard: Precision Financing for Complex Spin-offs"
+slug: "the-tactical-vanguard-precision-financing-for-com"
 description: "A high-density briefing on precision financing for complex mid-market spin-offs, covering asset hardening, covenant stewardship, and execution velocity for institutional-grade carve-outs."
 date: "2025-12-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-tactical-vanguard-precision-financing-for-com/"
+meta_title: "The Tactical Vanguard: Precision Financing for Complex Spin-offs"
+meta_description: "A high-density briefing on precision financing for complex mid-market spin-offs, covering asset hardening, covenant stewardship, and execution velocity for institutional-grade carve-outs."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "the-tactical-vanguard-precision-financing-for-com"
 ---
-# The Tactical Vanguard. Precision Financing for Complex Spin-offs The mid-market is entering a period of forced clarity.
 
 Conglomerates are pruning.
 
@@ -400,15 +406,15 @@ How Principals Should Think About Spin-off Opportunities A disciplined Principal
 
 ?
 
-# Operational Truth Can the business operate without the parent system within
+## Operational Truth Can the business operate without the parent system within
 
 180 days?
 
-# Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments
+## Financial Truth Does the unit economics withstand institutional-level scrutiny without adjustments
 
 ?
 
-# Leadership Truth Is the management team a stewardship resource or a liability that must be replaced
+## Leadership Truth Is the management team a stewardship resource or a liability that must be replaced
 
 ?
 

@@ -1,4 +1,16 @@
---- title: "Cross‑Border M&A and Asset-Based Lending Precision in European Credit Gaps" description: "Technical brief on structural leverage, off‑market acquisition flow, and asset‑based liquidity engineering for mid‑market European operators navigating cross‑border M&A compression and private‑credit fragmentation." date: "2026-02-23" author: "The Analyst Team" slug: "cross-border-ma-abl-european-credit-gaps"
+---
+title: "Cross‑Border M&A and Asset-Based Lending Precision in European Credit Gaps"
+slug: "cross-border-ma-abl-european-credit-gaps"
+description: "Technical brief on structural leverage, off‑market acquisition flow, and asset‑based liquidity engineering for mid‑market European operators navigating cross‑border M&A compression and private‑credit fragmentation."
+date: "2026-02-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/cross-border-ma-abl-european-credit-gaps/"
+meta_title: "Cross‑Border M&A and Asset-Based Lending Precision in European Credit Gaps"
+meta_description: "Technical brief on structural leverage, off‑market acquisition flow, and asset‑based liquidity engineering for mid‑market European operators navigating cross‑border M&A compression and private‑credit fragmentation."
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 The European mid‑market is shifting into a new credit physics.

@@ -1,4 +1,16 @@
---- title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures" description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from public equity holdings." date: "2026-01-09" author: "Jonas Hyltén" slug: "liquidity-engineering-public-shares-ma-closures"
+---
+title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures"
+slug: "liquidity-engineering-public-shares-ma-closures"
+description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from publi…"
+date: "2026-01-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/liquidity-engineering-public-shares-ma-closures/"
+meta_title: "Liquidity Engineering Against Public Shares for Accelerated M&A Closures"
+meta_description: "Institutional briefing on balance sheet optimization, Monetization Architecture, and the operational mechanics that remove closure friction in mid market M&A transactions through structured value extraction from publi…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum shaping mid market corporate transactions in 2026 is not driven by a shortage of buyers or strategic demand.

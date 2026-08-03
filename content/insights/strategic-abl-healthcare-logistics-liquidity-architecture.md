@@ -1,4 +1,16 @@
---- title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints" description: "Institutional briefing on asset based lending mechanics, liquidity architecture, balance sheet optimization, and operational intelligence for healthcare logistics platforms navigating M&A readiness and structural capital inefficiencies." date: "2025-08-01" author: "Roials Capital (Institutional Briefing)" slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
+---
+title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
+slug: "strategic-abl-healthcare-logistics-liquidity-architecture"
+description: "Institutional briefing on asset based lending mechanics, liquidity architecture, balance sheet optimization, and operational intelligence for healthcare logistics platforms navigating M&A readiness and structural capi…"
+date: "2025-08-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-abl-healthcare-logistics-liquidity-architecture/"
+meta_title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
+meta_description: "Institutional briefing on asset based lending mechanics, liquidity architecture, balance sheet optimization, and operational intelligence for healthcare logistics platforms navigating M&A readiness and structural capi…"
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
 
 The structural gap defining healthcare logistics in 2026 is not a function of asset scarcity.

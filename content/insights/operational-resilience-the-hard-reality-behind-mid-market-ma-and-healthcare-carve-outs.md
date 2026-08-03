@@ -1,7 +1,17 @@
---- title: "Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs" description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs from Roials Capital and Hyltén Invest." date: "2025-07-08" author: "Jonas Hyltén" slug: "operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs"
 ---
-
-# Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs Operational resilience has become one of the most overused phrases in the middle market. Most firms talk about it like it is a  culture initiative or a leadership mindset exercise.
+title: "Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs"
+slug: "operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs"
+description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs from Roials Capital and Hyltén Invest."
+date: "2025-07-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-the-hard-reality-behind-mid-market-ma-and-healthcare-carve-outs/"
+meta_title: "Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs"
+meta_description: "Insights on Operational Resilience: The Hard Reality Behind Mid-Market M&A And Healthcare Carve Outs from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It is not.
 
@@ -171,9 +181,9 @@ Contract external support where necessary.
 
 In carve outs, this
 
-# Step C: an determine survival. Strengthen The Data
+## Step C: an determine survival. Strengthen The Data
 
-# Layer CL: ean data. Rebuild reporting.
+## Layer CL: ean data. Rebuild reporting.
 
 Automate reconciliation.
 

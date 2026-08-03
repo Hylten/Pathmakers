@@ -1,7 +1,17 @@
---- title: "Precision Financing for Mid-Market Leaders" description: "A strategic deep dive into liquidity engineering, private credit Capital Structuring, and asset based Strategic Collateralization for mid‑market operators, HNWI, and UHNW decision makers." date: "2025-08-11" author: "Jonas Hyltén" slug: "precision-financing-for-mid-market-leaders"
 ---
-
-# Precision Financing for Mid-Market Leaders Mid market operators do not get the luxury of theory. They live in the world of carve outs, compressed timelines, lender fatigue, and the unforgiving math of operational reality.
+title: "Precision Financing for Mid-Market Leaders"
+slug: "precision-financing-for-mid-market-leaders"
+description: "A strategic deep dive into liquidity engineering, private credit Capital Structuring, and asset based Strategic Collateralization for mid‑market operators, HNWI, and UHNW decision makers."
+date: "2025-08-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-for-mid-market-leaders/"
+meta_title: "Precision Financing for Mid-Market Leaders"
+meta_description: "A strategic deep dive into liquidity engineering, private credit Capital Structuring, and asset based Strategic Collateralization for mid‑market operators, HNWI, and UHNW decision makers."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They survive by securing liquidity that fits the deal.
 

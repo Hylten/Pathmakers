@@ -1,7 +1,17 @@
---- title: "Strategic Financing for Complex Spin-offs in the Mid-Market" description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials Capital/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders." date: "2025-12-01" author: "Jonas Hyltén" slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"
 ---
-
-# Strategic Financing for Complex Spin-offs Complex corporate spin-offs are rarely clean. They are rarely elegant.
+title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
+slug: "strategic-financing-for-complex-spin-offs-in-the-mid-market"
+description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials Capital/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
+date: "2025-12-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-financing-for-complex-spin-offs-in-the-mid-market/"
+meta_title: "Strategic Financing for Complex Spin-offs in the Mid-Market"
+meta_description: "A deep analysis of liquidity engineering and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials Capital/) solutions for complex mid-market spin-offs, structured for HNWI and UHNW leaders."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They are never simple.
 

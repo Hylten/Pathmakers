@@ -1,7 +1,17 @@
---- title: "The Role of Asset-Based Lending in Technology Carve-Outs: Liquidity Engineering for Serious Operators" description: "A deep, pragmatic analysis of how Asset-Based Institutional Liquidity Paths supports liquidity in technology carve-outs for HNWI and UHNW investors." date: "2025-09-21" author: "Jonas Hyltén" slug: "the-role-of-abl-in-technology-carve-outs-liquidity-engineering-for-serious-operators"
 ---
-
-# The Role of Asset-Based Lending in Technology Carve-Outs Technology carve-outs are rarely elegant. They are complex, politically charged, operationally fragile, and often under time pressure.
+title: "The Role of Asset-Based Lending in Technology Carve-Outs: Liquidity Engineering for Serious Operators"
+slug: "the-role-of-abl-in-technology-carve-outs-liquidity-engineering-for-serious-operators"
+description: "A deep, pragmatic analysis of how Asset-Based Institutional Liquidity Paths supports liquidity in technology carve-outs for HNWI and UHNW investors."
+date: "2025-09-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-role-of-abl-in-technology-carve-outs-liquidity-engineering-for-serious-operators/"
+meta_title: "The Role of Asset-Based Lending in Technology Carve-Outs: Liquidity Engineering for Serious Operators"
+meta_description: "A deep, pragmatic analysis of how Asset-Based Institutional Liquidity Paths supports liquidity in technology carve-outs for HNWI and UHNW investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Most mid‑market operators already know this.
 

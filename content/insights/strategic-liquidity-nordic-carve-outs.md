@@ -1,4 +1,16 @@
---- title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution" description: "Institutional briefing on Nordic corporate carve-out mechanics, liquidity engineering, exit readiness, and friction removal for mid-market strategic transactions." date: "2025-12-18" author: "Jonas Hyltén" slug: "strategic-liquidity-nordic-carve-outs"
+---
+title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
+slug: "strategic-liquidity-nordic-carve-outs"
+description: "Institutional briefing on Nordic corporate carve-out mechanics, liquidity engineering, exit readiness, and friction removal for mid-market strategic transactions."
+date: "2025-12-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-nordic-carve-outs/"
+meta_title: "Strategic Liquidity for Nordic Carve-Outs: A Pragmatic Path to Execution"
+meta_description: "Institutional briefing on Nordic corporate carve-out mechanics, liquidity engineering, exit readiness, and friction removal for mid-market strategic transactions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The liquidity gap in Nordic mid-market carve-outs is a structural artefact of balance-sheet rigidity rather than a shortage of acquirers or operational potential.

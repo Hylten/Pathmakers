@@ -1,7 +1,17 @@
---- title: "The Pathmaker Playbook for Healthcare Financing" description: "A strategic deep dive into liquidity engineering and asset based Monetization Architecture for mid market healthcare operators seeking institutional grade capital solutions." date: "2026-02-23" author: "Jonas Hyltén" slug: "the-pathmaker-playbook-for-healthcare-financing"
 ---
-
-# The Pathmaker Playbook for Healthcare Financing The healthcare market is not gentle. It does not reward optimism.
+title: "The Pathmaker Playbook for Healthcare Financing"
+slug: "the-pathmaker-playbook-for-healthcare-financing"
+description: "A strategic deep dive into liquidity engineering and asset based Monetization Architecture for mid market healthcare operators seeking institutional grade capital solutions."
+date: "2026-02-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-pathmaker-playbook-for-healthcare-financing/"
+meta_title: "The Pathmaker Playbook for Healthcare Financing"
+meta_description: "A strategic deep dive into liquidity engineering and asset based Monetization Architecture for mid market healthcare operators seeking institutional grade capital solutions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It rewards structure.
 

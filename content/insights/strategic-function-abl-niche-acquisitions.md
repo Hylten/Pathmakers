@@ -1,4 +1,16 @@
---- title: "The Strategic Function of Asset Based Lending in Niche Market Acquisitions" description: "An institutional analysis of ABL mechanics, acquisition efficiency, balance sheet optimization, and exit readiness in specialized mid-market environments." date: "2025-10-31" author: "Jonas Hyltén" slug: "strategic-function-abl-niche-acquisitions"
+---
+title: "The Strategic Function of Asset Based Lending in Niche Market Acquisitions"
+slug: "strategic-function-abl-niche-acquisitions"
+description: "An institutional analysis of ABL mechanics, acquisition efficiency, balance sheet optimization, and exit readiness in specialized mid-market environments."
+date: "2025-10-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-function-abl-niche-acquisitions/"
+meta_title: "The Strategic Function of Asset Based Lending in Niche Market Acquisitions"
+meta_description: "An institutional analysis of ABL mechanics, acquisition efficiency, balance sheet optimization, and exit readiness in specialized mid-market environments."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital imbalance within niche market acquisitions is a product of fragmentation, not a lack of creditworthy assets.

@@ -1,4 +1,16 @@
---- title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital" description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments." date: "2025-07-06" author: "Jonas Hyltén" slug: "operational-resilience-private-credit-playbook"
+---
+title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
+slug: "operational-resilience-private-credit-playbook"
+description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments."
+date: "2025-07-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-private-credit-playbook/"
+meta_title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
+meta_description: "Institutional-grade analysis on private credit as an operational resilience tool. Focus on balance sheet optimization, liquidity engineering, exit readiness, and friction removal for mid-market M&A environments."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in the European and North American credit markets is a byproduct of regulatory compression and banking retrenchment, not a deterioration in underlying business fundamentals.

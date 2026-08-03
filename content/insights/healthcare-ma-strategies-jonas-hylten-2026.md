@@ -1,4 +1,16 @@
---- title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift" description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators." date: "2025-11-07" author: "Jonas Hyltén" slug: "healthcare-ma-strategies-jonas-hylten-2026"
+---
+title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
+slug: "healthcare-ma-strategies-jonas-hylten-2026"
+description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators."
+date: "2025-11-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-ma-strategies-jonas-hylten-2026/"
+meta_title: "Institutional Mechanics of Healthcare M&A Under the 2026 European Regime Shift"
+meta_description: "A clinical analysis of structural dislocations in European healthcare M&A, focusing on exit readiness, operational de-friction, balance sheet optimization, and off-market acquisition pathways for mid-market operators."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap defining European healthcare M&A in 2026 is a capital sequencing failure rather than an asset scarcity problem.

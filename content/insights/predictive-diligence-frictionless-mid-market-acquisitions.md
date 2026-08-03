@@ -1,4 +1,16 @@
---- title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions" description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena." date: "2026-01-04" author: "Pathmaker Analyst Group" slug: "predictive-diligence-frictionless-mid-market-acquisitions"
+---
+title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions"
+slug: "predictive-diligence-frictionless-mid-market-acquisitions"
+description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena."
+date: "2026-01-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/predictive-diligence-frictionless-mid-market-acquisitions/"
+meta_title: "Predictive Diligence and the New Architecture of Frictionless Mid‑Market Acquisitions"
+meta_description: "How Pathmaker uses predictive diligence to compress timelines, expand deal visibility, and create off‑market advantage in the mid‑market M&A arena."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Group"
 ---
 
 Predictive diligence is no longer a novelty.

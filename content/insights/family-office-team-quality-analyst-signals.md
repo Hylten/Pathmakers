@@ -1,4 +1,16 @@
---- title: "The Quiet Metric: How Family Offices Decode Team Quality Through Analyst-Level Signals" description: "A high-density institutional analysis of how mid‑market family offices benchmark team credibility, operational discipline, and exit readiness through sub‑executive analyst behavior." date: "2025-10-23" author: "Pathmaker" slug: "family-office-team-quality-analyst-signals"
+---
+title: "The Quiet Metric: How Family Offices Decode Team Quality Through Analyst-Level Signals"
+slug: "family-office-team-quality-analyst-signals"
+description: "A high-density institutional analysis of how mid‑market family offices benchmark team credibility, operational discipline, and exit readiness through sub‑executive analyst behavior."
+date: "2025-10-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/family-office-team-quality-analyst-signals/"
+meta_title: "The Quiet Metric: How Family Offices Decode Team Quality Through Analyst-Level Signals"
+meta_description: "A high-density institutional analysis of how mid‑market family offices benchmark team credibility, operational discipline, and exit readiness through sub‑executive analyst behavior."
+featured_image: ""
+draft: false
+author: "Pathmaker"
 ---
 
 Family offices do not evaluate teams the way accelerators, VCs, or corporate strategics do.

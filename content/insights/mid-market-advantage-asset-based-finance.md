@@ -1,4 +1,16 @@
---- title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination" description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North American private markets. Prepared as a high-density strategic memo for allocators, UHNW principals, and acquisition-focused operators." date: "2025-12-28" author: "Jonas Hyltén" slug: "mid-market-advantage-asset-based-finance"
+---
+title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination"
+slug: "mid-market-advantage-asset-based-finance"
+description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North Americ…"
+date: "2025-12-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/mid-market-advantage-asset-based-finance/"
+meta_title: "The Mid-Market Advantage With Asset-Based Finance: Institutional Mechanics, Exit Readiness, and Off-Market Origination"
+meta_description: "A technical institutional briefing on mid-market asset-based finance, balance sheet optimization, exit readiness engineering, and the structural advantage created by capital inefficiencies in European and North Americ…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum inside the mid-market is a consequence of structural under-institutionalization, not a lack of bankable assets.

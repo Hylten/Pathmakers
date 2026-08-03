@@ -1,4 +1,16 @@
---- title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness" description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator. Focus on tactical intelligence and off market origination." date: "2025-12-11" author: "Jonas Hyltén" slug: "precision-liquidity-nordic-logistics"
+---
+title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness"
+slug: "precision-liquidity-nordic-logistics"
+description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator…"
+date: "2025-12-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-liquidity-nordic-logistics/"
+meta_title: "Precision Liquidity Architecture for Nordic Logistics and Off Market Exit Readiness"
+meta_description: "Institutional briefing on structural capital inefficiencies in Nordic logistics, operational mechanics of liquidity engineering, and the exit optimization framework supported by Roials Capital as a strategic navigator…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in Nordic logistics is a function of capital misalignment rather than operational scarcity.

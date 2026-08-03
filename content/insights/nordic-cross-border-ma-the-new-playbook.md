@@ -1,7 +1,17 @@
---- title: "Nordic Cross-Border M&A: The New Playbook" description: "How Nordic acquirers are leveraging structural advantages in cross-border middle-market transactions to outperform traditional buyout strategies." date: "2025-10-12" author: "Jonas Hyltén" slug: "nordic-cross-border-ma-the-new-playbook"
 ---
-
-# Nordic Cross-Border M&A: The New Playbook The Nordic middle market is experiencing a tectonic shift in how cross-border transactions are originated, structured, and closed.
+title: "Nordic Cross-Border M&A: The New Playbook"
+slug: "nordic-cross-border-ma-the-new-playbook"
+description: "How Nordic acquirers are leveraging structural advantages in cross-border middle-market transactions to outperform traditional buyout strategies."
+date: "2025-10-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/nordic-cross-border-ma-the-new-playbook/"
+meta_title: "Nordic Cross-Border M&A: The New Playbook"
+meta_description: "How Nordic acquirers are leveraging structural advantages in cross-border middle-market transactions to outperform traditional buyout strategies."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Structural Advantages Nordic acquirers benefit from several structural tailwinds
 

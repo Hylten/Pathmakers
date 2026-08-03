@@ -1,4 +1,16 @@
---- title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors" description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes." date: "2025-08-29" author: "Tactical Intelligence | Analyst Team" slug: "financing-operational-resilience-pathmaker-playbook"
+---
+title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors"
+slug: "financing-operational-resilience-pathmaker-playbook"
+description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes."
+date: "2025-08-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/financing-operational-resilience-pathmaker-playbook/"
+meta_title: "Financing Operational Resilience in Volatile Markets: A Pathmaker Playbook for HNWI and UHNW Investors"
+meta_description: "A principal-grade briefing on liquidity engineering, operational resilience, and off‑market capital structuring for high‑intent investors navigating volatile macro regimes."
+featured_image: ""
+draft: false
+author: "Tactical Intelligence | Analyst Team"
 ---
 
 Volatility exposes structural weakness.

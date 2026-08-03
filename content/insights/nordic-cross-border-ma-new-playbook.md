@@ -1,4 +1,16 @@
---- title: "Nordic Cross‑Border M&A: The New Playbook" description: "A principal‑grade institutional blueprint outlining the new operational logic, structural arbitrage, and friction‑removal dynamics defining Nordic cross‑border M&A, with emphasis on exit readiness, off‑market origination, and deal acceleration across the mid‑market corridor." date: "2025-10-19" author: "The Analyst Team" slug: "nordic-cross-border-ma-new-playbook"
+---
+title: "Nordic Cross‑Border M&A: The New Playbook"
+slug: "nordic-cross-border-ma-new-playbook"
+description: "A principal‑grade institutional blueprint outlining the new operational logic, structural arbitrage, and friction‑removal dynamics defining Nordic cross‑border M&A, with emphasis on exit readiness, off‑market originat…"
+date: "2025-10-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/nordic-cross-border-ma-new-playbook/"
+meta_title: "Nordic Cross‑Border M&A: The New Playbook"
+meta_description: "A principal‑grade institutional blueprint outlining the new operational logic, structural arbitrage, and friction‑removal dynamics defining Nordic cross‑border M&A, with emphasis on exit readiness, off‑market originat…"
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Nordic cross‑border M&A has entered a structural rewrite.

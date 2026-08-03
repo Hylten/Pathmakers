@@ -1,4 +1,16 @@
---- title: "Private Credit as the Silent Engine of Mid-Market M&A" description: "Analyst-grade brief on how private credit restructures mid-market M&A, accelerates exit readiness, and neutralizes friction through liquidity engineering, covenant design, and off-market acquisition intelligence." date: "2025-11-01" author: "The Analyst Team" slug: "private-credit-mid-market-ma-power-analyst-brief"
+---
+title: "Private Credit as the Silent Engine of Mid-Market M&A"
+slug: "private-credit-mid-market-ma-power-analyst-brief"
+description: "Analyst-grade brief on how private credit restructures mid-market M&A, accelerates exit readiness, and neutralizes friction through liquidity engineering, covenant design, and off-market acquisition intelligence."
+date: "2025-11-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/private-credit-mid-market-ma-power-analyst-brief/"
+meta_title: "Private Credit as the Silent Engine of Mid-Market M&A"
+meta_description: "Analyst-grade brief on how private credit restructures mid-market M&A, accelerates exit readiness, and neutralizes friction through liquidity engineering, covenant design, and off-market acquisition intelligence."
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Private credit sits where commercial banks hesitate.

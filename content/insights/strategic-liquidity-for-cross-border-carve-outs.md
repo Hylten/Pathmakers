@@ -1,7 +1,17 @@
---- title: "Strategic Liquidity for Cross-Border Carve-Outs" description: "A pragmatic exploration of liquidity, private credit, and asset based liquidity engineering for complex cross-border carve-outs." date: "2026-01-08" author: "Jonas Hyltén" slug: "strategic-liquidity-for-cross-border-carve-outs"
 ---
-
-# Strategic Liquidity for Cross-Border Carve-Outs Cross-border carve-outs rarely behave. They are structurally messy, operationally dislocated, and financially uneven.
+title: "Strategic Liquidity for Cross-Border Carve-Outs"
+slug: "strategic-liquidity-for-cross-border-carve-outs"
+description: "A pragmatic exploration of liquidity, private credit, and asset based liquidity engineering for complex cross-border carve-outs."
+date: "2026-01-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-for-cross-border-carve-outs/"
+meta_title: "Strategic Liquidity for Cross-Border Carve-Outs"
+meta_description: "A pragmatic exploration of liquidity, private credit, and asset based liquidity engineering for complex cross-border carve-outs."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They punish assumptions and expose every weak point in a deal.
 

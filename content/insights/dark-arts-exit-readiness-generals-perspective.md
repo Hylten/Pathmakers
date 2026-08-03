@@ -1,4 +1,16 @@
---- title: "The Dark Arts of Exit Readiness: A General’s Perspective" description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events." date: "2025-06-24" author: "Jonas Hyltén — The Analyst Team" slug: "dark-arts-exit-readiness-generals-perspective"
+---
+title: "The Dark Arts of Exit Readiness: A General’s Perspective"
+slug: "dark-arts-exit-readiness-generals-perspective"
+description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events."
+date: "2025-06-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/dark-arts-exit-readiness-generals-perspective/"
+meta_title: "The Dark Arts of Exit Readiness: A General’s Perspective"
+meta_description: "A high‑density institutional brief on exit readiness, frictionless M&A execution, and tactical intelligence frameworks for mid‑market operators preparing for Fund-III grade liquidity events."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén — The Analyst Team"
 ---
 
 Exit readiness is not a procedural exercise.

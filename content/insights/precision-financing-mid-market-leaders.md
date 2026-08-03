@@ -1,4 +1,16 @@
---- title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises" description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within European and North American capital regimes." date: "2026-02-06" author: "Jonas Hyltén" slug: "precision-financing-mid-market-leaders"
+---
+title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises"
+slug: "precision-financing-mid-market-leaders"
+description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within…"
+date: "2026-02-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-mid-market-leaders/"
+meta_title: "Precision Financing for Mid-Market Leaders: Institutional Mechanics for Exit-Ready Enterprises"
+meta_description: "A clinical, analyst-grade briefing on liquidity engineering, balance sheet optimization, frictionless M&A positioning, and the structural discipline required to prepare mid-market operators for strategic exits within…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in European mid-market finance is not attributable to a scarcity of capital.

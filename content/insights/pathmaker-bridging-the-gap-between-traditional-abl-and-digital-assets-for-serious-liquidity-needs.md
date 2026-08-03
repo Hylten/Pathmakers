@@ -1,7 +1,17 @@
---- title: "Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets for Serious Liquidity Needs" description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients." date: "2025-09-14" author: "Jonas Hyltén" slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
 ---
-
-# Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets Mid market transactions do not tolerate fantasy. They demand liquidity, precision, and a lender that understands the operational grind behind carve outs, distressed but functioning assets, and transactions that sit just outside the comfort zone of institutional credit committees.
+title: "Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets for Serious Liquidity Needs"
+slug: "pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs"
+description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
+date: "2025-09-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-bridging-the-gap-between-traditional-abl-and-digital-assets-for-serious-liquidity-needs/"
+meta_title: "Pathmaker: Bridging the Gap Between Traditional Asset-Based Lending and Digital Assets for Serious Liquidity Needs"
+meta_description: "A pragmatic look at how Pathmaker delivers institutional grade liquidity through private credit and asset based liquidity engineering for HNWI and UHNW clients."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Pathmaker exists for these conditions.
 

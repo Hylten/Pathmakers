@@ -1,7 +1,17 @@
---- title: "Mid-Market M&A Trends 2026" description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyltén Invest." date: "2025-07-16" author: "Jonas Hyltén" slug: "mid-market-ma-trends-2026"
 ---
-
-# Mid-Market M&A Trends 2026 Pathmaker Analysis Mid-market M&A is entering 2026 with clearer lines, tougher filters, and less patience for optimism without evidence. Capital is still available.
+title: "Mid-Market M&A Trends 2026"
+slug: "mid-market-ma-trends-2026"
+description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyltén Invest."
+date: "2025-07-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/mid-market-ma-trends-2026/"
+meta_title: "Mid-Market M&A Trends 2026"
+meta_description: "Insights on Mid-Market M&A Trends 2026 from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Sellers still want 2021 multiples.
 
@@ -254,7 +264,7 @@ Operational due diligence is growing because mid-market companies often hide ris
 
 Strong second
 
-# Layer M: anagement is now one of the biggest drivers of valuation. Trend 5: Multiples Are Stable But Compressed Mid-market M&A multiples in 2026 are not dropping sharply, but they are not rebounding either. What has changed is the width of valuation ranges.
+## Layer M: anagement is now one of the biggest drivers of valuation. Trend 5: Multiples Are Stable But Compressed Mid-market M&A multiples in 2026 are not dropping sharply, but they are not rebounding either. What has changed is the width of valuation ranges.
 
 A business with high visibility, low friction, and strong management can still command a premium.
 

@@ -1,4 +1,16 @@
---- title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle" description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions." date: "2026-01-05" author: "Jonas Hyltén" slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
+---
+title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+slug: "abl-precision-infrastructure-spin-offs-tight-credit-cycle"
+description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions."
+date: "2026-01-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-precision-infrastructure-spin-offs-tight-credit-cycle/"
+meta_title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+meta_description: "Institutional briefing on how Asset Based Lending structures reconfigure mid market corporate separations, optimize exit readiness, and reduce M&A friction under constrained credit conditions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in the mid market corporate landscape is no longer valuation compression.

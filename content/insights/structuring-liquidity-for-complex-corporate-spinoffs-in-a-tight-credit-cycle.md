@@ -1,7 +1,17 @@
---- title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle" description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs." date: "2025-09-20" author: "Jonas Hyltén" slug: "structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle"
 ---
-
-# Structuring Liquidity for Complex Corporate Spinoffs Corporate spinoffs are rarely graceful events. They break systems.
+title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
+slug: "structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle"
+description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs."
+date: "2025-09-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/structuring-liquidity-for-complex-corporate-spinoffs-in-a-tight-credit-cycle/"
+meta_title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
+meta_description: "A high‑end strategic guide for HNWI and UHNW investors on liquidity structuring, private credit, and asset-based liquidity engineering in complex corporate spinoffs."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They expose balance sheets that were carried for too long.
 

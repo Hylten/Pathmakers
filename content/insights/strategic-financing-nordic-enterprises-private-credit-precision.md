@@ -1,4 +1,16 @@
---- title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision" description: "An institutional briefing on the structural capital gap in Nordic mid-market enterprises, the mechanics of precision private credit, exit readiness acceleration, and frictionless M&A positioning for high intent Nordic operators." date: "2025-09-19" author: "Jonas Hyltén" slug: "strategic-financing-nordic-enterprises-private-credit-precision"
+---
+title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision"
+slug: "strategic-financing-nordic-enterprises-private-credit-precision"
+description: "An institutional briefing on the structural capital gap in Nordic mid-market enterprises, the mechanics of precision private credit, exit readiness acceleration, and frictionless M&A positioning for high intent Nordic…"
+date: "2025-09-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-financing-nordic-enterprises-private-credit-precision/"
+meta_title: "Strategic Financing for Nordic Enterprises: Private Credit Built for Precision"
+meta_description: "An institutional briefing on the structural capital gap in Nordic mid-market enterprises, the mechanics of precision private credit, exit readiness acceleration, and frictionless M&A positioning for high intent Nordic…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in the Nordic mid-market is a structural consequence of regulatory tightening and banking concentration, not a reflection of deteriorating enterprise quality.

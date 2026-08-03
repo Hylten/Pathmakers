@@ -1,4 +1,16 @@
---- title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era" description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragmented global landscape." date: "2026-02-14" author: "Jonas Hyltén" slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
+---
+title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
+slug: "pathmaker-vision-institutional-ma-liquidity-new-era"
+description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragm…"
+date: "2026-02-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-vision-institutional-ma-liquidity-new-era/"
+meta_title: "The Pathmaker Vision for Institutional M&A: Structural Liquidity for the New Era"
+meta_description: "An institutional briefing on the structural recalibration of mid market M&A, exit readiness engineering, liquidity as an operational discipline, and the Pathmaker model for frictionless off market deal flow in a fragm…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in global M&A is not a shortage of acquirers.

@@ -1,7 +1,17 @@
---- title: "Precision Healthcare Carve-outs" description: "Insights on Precision Healthcare Carve-outs from Roials Capital and Hyltén Invest." date: "2026-03-04" author: "Jonas Hyltén" slug: "precision-healthcare-carve-outs"
 ---
-
-# Precision Healthcare Carve-outs A Pragmatic Playbook for Mid-Market Investors and Operators Healthcare carve-outs are no longer niche transactions. They have become a primary mechanism for value creation in mid-market private equity and strategic rollups.
+title: "Precision Healthcare Carve-outs"
+slug: "precision-healthcare-carve-outs"
+description: "Insights on Precision Healthcare Carve-outs from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-healthcare-carve-outs/"
+meta_title: "Precision Healthcare Carve-outs"
+meta_description: "Insights on Precision Healthcare Carve-outs from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 The reason is simple.
 

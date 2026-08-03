@@ -1,4 +1,16 @@
---- title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators" description: "A clinical institutional briefing on the role of Asset-Based Lending structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North America." date: "2026-01-08" author: "Jonas Hyltén" slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
+---
+title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators"
+slug: "asset-based-lending-technology-carve-outs-liquidity-engineering"
+description: "A clinical institutional briefing on the role of Asset-Based Lending structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North…"
+date: "2026-01-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/asset-based-lending-technology-carve-outs-liquidity-engineering/"
+meta_title: "The Strategic Function of Asset Based Lending in Technology Carve-Outs: Liquidity Engineering for Institutional-Grade Operators"
+meta_description: "A clinical institutional briefing on the role of Asset-Based Lending structures in accelerating balance-sheet separation, exit readiness, and frictionless M&A execution during technology carve-outs in Europe and North…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in European mid-market technology transactions is not a lack of capital but a misalignment between operational complexity and liquidity availability at the precise moment when separation risk is highest.

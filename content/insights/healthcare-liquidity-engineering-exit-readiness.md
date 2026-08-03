@@ -1,4 +1,16 @@
---- title: "Unlocking Value in Healthcare Assets Through Asset Based Liquidity Engineering" description: "Institutional briefing on structural inefficiencies in European healthcare operations, exit readiness mechanics, and balance sheet optimization frameworks that eliminate M&A friction and accelerate off-market transaction velocity." date: "2025-08-17" author: "Jonas Hyltén" slug: "healthcare-liquidity-engineering-exit-readiness"
+---
+title: "Unlocking Value in Healthcare Assets Through Asset Based Liquidity Engineering"
+slug: "healthcare-liquidity-engineering-exit-readiness"
+description: "Institutional briefing on structural inefficiencies in European healthcare operations, exit readiness mechanics, and balance sheet optimization frameworks that eliminate M&A friction and accelerate off-market transact…"
+date: "2025-08-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-liquidity-engineering-exit-readiness/"
+meta_title: "Unlocking Value in Healthcare Assets Through Asset Based Liquidity Engineering"
+meta_description: "Institutional briefing on structural inefficiencies in European healthcare operations, exit readiness mechanics, and balance sheet optimization frameworks that eliminate M&A friction and accelerate off-market transact…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in European healthcare is not a function of weak fundamentals.

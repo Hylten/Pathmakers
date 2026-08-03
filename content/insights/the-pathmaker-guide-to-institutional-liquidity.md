@@ -1,7 +1,17 @@
---- title: "The Pathmaker Guide to Institutional Liquidity" description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients." date: "2025-09-17" author: "Jonas Hyltén" slug: "the-pathmaker-guide-to-institutional-liquidity"
 ---
-
-# The Pathmaker Guide to Institutional Liquidity Institutional liquidity is not a theory. It is not a philosophical debate about capital flows or an abstract discussion about enterprise value.
+title: "The Pathmaker Guide to Institutional Liquidity"
+slug: "the-pathmaker-guide-to-institutional-liquidity"
+description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients."
+date: "2025-09-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-pathmaker-guide-to-institutional-liquidity/"
+meta_title: "The Pathmaker Guide to Institutional Liquidity"
+meta_description: "A pragmatic guide to institutional liquidity strategies leveraging private credit and asset based liquidity engineering for HNWI and UHNW clients."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 In the mid market, especially in healthcare carve outs and transitional ownership structures, liquidity is a survival function.
 

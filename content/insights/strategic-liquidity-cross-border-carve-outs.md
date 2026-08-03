@@ -1,4 +1,16 @@
---- title: "Strategic Liquidity for Cross-Border Carve-Outs and the Acceleration of Exit-Ready Corporate Divestitures" description: "Institutional briefing on cross-border carve-out liquidity engineering, balance sheet optimization, and tactical M&A friction removal across European and North American mid-market transactions. Framework authored from an institutional standpoint with a focus on capital absorption, operational disentanglement, and off-market origination channels." date: "2025-12-30" author: "Roials Capital (Institutional Briefing)" slug: "strategic-liquidity-cross-border-carve-outs"
+---
+title: "Strategic Liquidity for Cross-Border Carve-Outs and the Acceleration of Exit-Ready Corporate Divestitures"
+slug: "strategic-liquidity-cross-border-carve-outs"
+description: "Institutional briefing on cross-border carve-out liquidity engineering, balance sheet optimization, and tactical M&A friction removal across European and North American mid-market transactions. Framework authored from…"
+date: "2025-12-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-cross-border-carve-outs/"
+meta_title: "Strategic Liquidity for Cross-Border Carve-Outs and the Acceleration of Exit-Ready Corporate Divestitures"
+meta_description: "Institutional briefing on cross-border carve-out liquidity engineering, balance sheet optimization, and tactical M&A friction removal across European and North American mid-market transactions. Framework authored from…"
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
 
 The capital vacuum within cross-border corporate carve-outs does not originate from a shortage of willing acquirers.

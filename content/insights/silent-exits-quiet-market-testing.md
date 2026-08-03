@@ -1,4 +1,16 @@
---- title: "Silent Exits and the New Architecture of Off‑Market Truth" description: "A deep tactical analysis of the rise of silent exits, the mechanics behind quiet market testing, and how founders validate acquisition appetite without triggering banker interference or deal distortion." date: "2025-12-04" author: "Pathmaker Analyst Group" slug: "silent-exits-quiet-market-testing"
+---
+title: "Silent Exits and the New Architecture of Off‑Market Truth"
+slug: "silent-exits-quiet-market-testing"
+description: "A deep tactical analysis of the rise of silent exits, the mechanics behind quiet market testing, and how founders validate acquisition appetite without triggering banker interference or deal distortion."
+date: "2025-12-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/silent-exits-quiet-market-testing/"
+meta_title: "Silent Exits and the New Architecture of Off‑Market Truth"
+meta_description: "A deep tactical analysis of the rise of silent exits, the mechanics behind quiet market testing, and how founders validate acquisition appetite without triggering banker interference or deal distortion."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Group"
 ---
 
 The signal rises before the noise.

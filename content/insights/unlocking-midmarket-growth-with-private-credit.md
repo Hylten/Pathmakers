@@ -1,7 +1,17 @@
---- title: "Unlocking Mid‑Market Growth With Private Credit" description: "A strategic analysis of how private credit and asset based liquidity engineering create liquidity advantages for mid‑market operators and investors." date: "2025-10-08" author: "Jonas Hyltén" slug: "unlocking-midmarket-growth-with-private-credit"
 ---
-
-# Unlocking Mid-Market Growth With Private Credit Mid‑market operators do not need inspirational slogans. They need liquidity, precision, and structural clarity.
+title: "Unlocking Mid‑Market Growth With Private Credit"
+slug: "unlocking-midmarket-growth-with-private-credit"
+description: "A strategic analysis of how private credit and asset based liquidity engineering create liquidity advantages for mid‑market operators and investors."
+date: "2025-10-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/unlocking-midmarket-growth-with-private-credit/"
+meta_title: "Unlocking Mid‑Market Growth With Private Credit"
+meta_description: "A strategic analysis of how private credit and asset based liquidity engineering create liquidity advantages for mid‑market operators and investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They need capital that moves at the pace of their deal flow, not at the pace of institutional committees.
 

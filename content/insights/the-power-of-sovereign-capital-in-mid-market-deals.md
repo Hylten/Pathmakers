@@ -1,7 +1,17 @@
---- title: "The Power of Sovereign Capital in Mid-Market Deals" description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics." date: "2025-11-16" author: "Jonas Hyltén" slug: "the-power-of-sovereign-capital-in-mid-market-deals"
 ---
-
-# The Power of Sovereign Capital in Mid-Market Deals Mid-market dealmaking does not reward idealists. It rewards those who know how to source liquidity when others hesitate.
+title: "The Power of Sovereign Capital in Mid-Market Deals"
+slug: "the-power-of-sovereign-capital-in-mid-market-deals"
+description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
+date: "2025-11-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-power-of-sovereign-capital-in-mid-market-deals/"
+meta_title: "The Power of Sovereign Capital in Mid-Market Deals"
+meta_description: "A strategic examination of liquidity, private credit, and asset based liquidity engineering in mid-market M and A, designed for HNWI and UHNW investors seeking institutional grade mechanics."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It rewards those who understand that capital is a tool, not a trophy.
 

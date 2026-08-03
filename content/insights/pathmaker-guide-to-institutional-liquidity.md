@@ -1,9 +1,21 @@
---- title: "The Pathmaker Guide to Institutional Liquidity" description: "Technical intelligence on institutional liquidity engineering, capital efficiency structuring, and principal grade deployment pathways for 2026 private equity markets." date: "2026-03-07" author: "Jonas Hyltén" slug: "pathmaker-guide-to-institutional-liquidity"
+---
+title: "The Pathmaker Guide to Institutional Liquidity"
+slug: "pathmaker-guide-to-institutional-liquidity"
+description: "Technical intelligence on institutional liquidity engineering, capital efficiency structuring, and principal grade deployment pathways for 2026 private equity markets."
+date: "2026-03-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-guide-to-institutional-liquidity/"
+meta_title: "The Pathmaker Guide to Institutional Liquidity"
+meta_description: "Technical intelligence on institutional liquidity engineering, capital efficiency structuring, and principal grade deployment pathways for 2026 private equity markets."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDATE
+## THE MANDATE
 
 Institutional liquidity does not emerge from market momentum or capital supply cycles.
 

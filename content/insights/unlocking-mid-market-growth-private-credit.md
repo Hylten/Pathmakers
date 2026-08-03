@@ -1,4 +1,16 @@
---- title: "Unlocking Mid‑Market Growth With Private Credit: Structural Arbitrage, Exit Readiness, and Tactical Liquidity Engineering" description: "Institutional briefing on the structural mechanics driving Europe and North America’s mid‑market private credit expansion, with emphasis on exit readiness, balance sheet optimization, and friction removal in M&A workflows." date: "2025-07-25" author: "Jonas Hyltén" slug: "unlocking-mid-market-growth-private-credit"
+---
+title: "Unlocking Mid‑Market Growth With Private Credit: Structural Arbitrage, Exit Readiness, and Tactical Liquidity Engineering"
+slug: "unlocking-mid-market-growth-private-credit"
+description: "Institutional briefing on the structural mechanics driving Europe and North America’s mid‑market private credit expansion, with emphasis on exit readiness, balance sheet optimization, and friction removal in M&A workf…"
+date: "2025-07-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/unlocking-mid-market-growth-private-credit/"
+meta_title: "Unlocking Mid‑Market Growth With Private Credit: Structural Arbitrage, Exit Readiness, and Tactical Liquidity Engineering"
+meta_description: "Institutional briefing on the structural mechanics driving Europe and North America’s mid‑market private credit expansion, with emphasis on exit readiness, balance sheet optimization, and friction removal in M&A workf…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum across Europe and North America’s mid‑market is a direct result of regulatory drift and bank retrenchment rather than borrower degradation.

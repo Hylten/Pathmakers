@@ -1,7 +1,17 @@
---- title: "Precision Liquidity for Mid-Market Carve-Outs" description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions." date: "2025-10-18" author: "Jonas Hyltén" slug: "precision-liquidity-for-mid-market-carve-outs"
 ---
-
-# Precision Liquidity for Mid-Market Carve-Outs Mid-market carve-outs are not elegant. They are not cinematic.
+title: "Precision Liquidity for Mid-Market Carve-Outs"
+slug: "precision-liquidity-for-mid-market-carve-outs"
+description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions."
+date: "2025-10-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-liquidity-for-mid-market-carve-outs/"
+meta_title: "Precision Liquidity for Mid-Market Carve-Outs"
+meta_description: "A strategic deep dive into precision liquidity and asset based liquidity engineering solutions for mid-market carve-outs and private credit transactions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They are not the kind of transactions where glossy fund decks capture the truth of what is going on behind the curtain.
 

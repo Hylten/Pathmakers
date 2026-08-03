@@ -1,4 +1,16 @@
---- title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing" description: "A principal-grade institutional brief on hybrid liquidity engineering, mid‑market M&A acceleration, and tactical financing architectures that remove friction, compress timelines, and strengthen exit readiness across Fund-III mandates." date: "2025-07-06" author: "The Analyst Team – Pathmaker" slug: "strategic-liquidity-ma-hybrid-financing"
+---
+title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
+slug: "strategic-liquidity-ma-hybrid-financing"
+description: "A principal-grade institutional brief on hybrid liquidity engineering, mid‑market M&A acceleration, and tactical financing architectures that remove friction, compress timelines, and strengthen exit readiness across F…"
+date: "2025-07-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-ma-hybrid-financing/"
+meta_title: "Strategic Liquidity for M&A: The Pathmaker Guide to Hybrid Financing"
+meta_description: "A principal-grade institutional brief on hybrid liquidity engineering, mid‑market M&A acceleration, and tactical financing architectures that remove friction, compress timelines, and strengthen exit readiness across F…"
+featured_image: ""
+draft: false
+author: "The Analyst Team – Pathmaker"
 ---
 
 The mid-market is tightening.

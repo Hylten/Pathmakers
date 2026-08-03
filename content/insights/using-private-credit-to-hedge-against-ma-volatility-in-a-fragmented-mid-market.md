@@ -1,7 +1,17 @@
---- title: "Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market" description: "A high level look at how HNWI and UHNW operators use private credit and asset based liquidity engineering to create liquidity and stability in volatile M&A cycles." date: "2025-10-13" author: "Jonas Hyltén" slug: "using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market"
 ---
-
-# Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market Mid market M&A operates in a volatility band that feels manageable on paper and punishing in real life. Especially in healthcare.
+title: "Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market"
+slug: "using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market"
+description: "A high level look at how HNWI and UHNW operators use private credit and asset based liquidity engineering to create liquidity and stability in volatile M&A cycles."
+date: "2025-10-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/using-private-credit-to-hedge-against-ma-volatility-in-a-fragmented-mid-market/"
+meta_title: "Using Private Credit to Hedge Against M&A Volatility in a Fragmented Mid Market"
+meta_description: "A high level look at how HNWI and UHNW operators use private credit and asset based liquidity engineering to create liquidity and stability in volatile M&A cycles."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Deal timelines slip.
 

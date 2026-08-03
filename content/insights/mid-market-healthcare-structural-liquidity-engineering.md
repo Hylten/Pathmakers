@@ -1,4 +1,16 @@
---- title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector" description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America." date: "2025-07-09" author: "Jonas Hyltén" slug: "mid-market-healthcare-structural-liquidity-engineering"
+---
+title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
+slug: "mid-market-healthcare-structural-liquidity-engineering"
+description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America."
+date: "2025-07-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/mid-market-healthcare-structural-liquidity-engineering/"
+meta_title: "Unlocking Growth in Mid-Market Healthcare: Structural Liquidity for a Fragmented Sector"
+meta_description: "An institutional analysis of liquidity engineering, exit readiness, and structural navigation for mid-market healthcare operators across Europe and North America."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural liquidity gap in mid-market healthcare is not a function of operational weakness.

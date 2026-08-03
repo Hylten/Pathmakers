@@ -1,7 +1,17 @@
---- title: "Precision Liquidity for Healthcare Infrastructure" description: "A strategic analysis of precision liquidity, private credit, and asset based liquidity engineering for healthcare infrastructure transactions." date: "2025-11-16" author: "Jonas Hyltén" slug: "precision-liquidity-for-healthcare-infrastructure"
 ---
-
-# Precision Liquidity for Healthcare Infrastructure Healthcare infrastructure is not built on sentiment. It is built on balance sheets, operational constraints, reimbursement pressures, and the cold math that separates viable systems from those carrying structural fatigue.
+title: "Precision Liquidity for Healthcare Infrastructure"
+slug: "precision-liquidity-for-healthcare-infrastructure"
+description: "A strategic analysis of precision liquidity, private credit, and asset based liquidity engineering for healthcare infrastructure transactions."
+date: "2025-11-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-liquidity-for-healthcare-infrastructure/"
+meta_title: "Precision Liquidity for Healthcare Infrastructure"
+meta_description: "A strategic analysis of precision liquidity, private credit, and asset based liquidity engineering for healthcare infrastructure transactions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 For mid‑market sponsors, independent sponsors, and acquisitive physician groups, the capital required to move quickly is often the bottleneck.
 

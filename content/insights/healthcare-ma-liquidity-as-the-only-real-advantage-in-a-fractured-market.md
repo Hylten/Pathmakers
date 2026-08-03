@@ -1,7 +1,17 @@
---- title: "Healthcare M&A: Liquidity as the Only Real Advantage in a Fractured Market" description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors." date: "2025-07-14" author: "Jonas Hyltén" slug: "healthcare-ma-liquidity-as-the-only-real-advantage-in-a-fractured-market"
 ---
-
-# Healthcare M&A: The Importance of Liquidity Healthcare M&A has never rewarded sentimentality. Most mid‑market buyers learn that the hard way.
+title: "Healthcare M&A: Liquidity as the Only Real Advantage in a Fractured Market"
+slug: "healthcare-ma-liquidity-as-the-only-real-advantage-in-a-fractured-market"
+description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
+date: "2025-07-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-ma-liquidity-as-the-only-real-advantage-in-a-fractured-market/"
+meta_title: "Healthcare M&A: Liquidity as the Only Real Advantage in a Fractured Market"
+meta_description: "A strategic examination of liquidity in healthcare M&A, with focus on private credit and asset based liquidity engineering for HNWI and UHNW investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Carve‑outs are unforgiving.
 

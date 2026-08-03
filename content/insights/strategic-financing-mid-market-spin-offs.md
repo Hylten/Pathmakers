@@ -1,4 +1,16 @@
---- title: "Strategic Financing Architecture for Mid-Market Corporate Spin-Offs" description: "A technical analyst briefing on liquidity engineering, balance sheet optimization, and frictionless execution pathways for complex spin-offs across the European and Nordic mid-market landscape." date: "2025-12-17" author: "Jonas Hyltén" slug: "strategic-financing-mid-market-spin-offs"
+---
+title: "Strategic Financing Architecture for Mid-Market Corporate Spin-Offs"
+slug: "strategic-financing-mid-market-spin-offs"
+description: "A technical analyst briefing on liquidity engineering, balance sheet optimization, and frictionless execution pathways for complex spin-offs across the European and Nordic mid-market landscape."
+date: "2025-12-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-financing-mid-market-spin-offs/"
+meta_title: "Strategic Financing Architecture for Mid-Market Corporate Spin-Offs"
+meta_description: "A technical analyst briefing on liquidity engineering, balance sheet optimization, and frictionless execution pathways for complex spin-offs across the European and Nordic mid-market landscape."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The persistent capital friction observed in the European mid-market spin-off environment is a structural consequence of regulatory compression and banking retrenchment rather than a lack of viable operating assets.

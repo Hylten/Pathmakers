@@ -1,4 +1,16 @@
---- title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle" description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation." date: "2025-07-27" author: "Jonas Hyltén — Analyst Team" slug: "private-credit-midmarket-volatility-shield"
+---
+title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle"
+slug: "private-credit-midmarket-volatility-shield"
+description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation."
+date: "2025-07-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/private-credit-midmarket-volatility-shield/"
+meta_title: "Private Credit as a Volatility Shield in a Fragmented Mid-Market M&A Cycle"
+meta_description: "Institutional brief on private credit deployment to stabilize mid-market M&A pipelines, reduce execution friction, and harden exit readiness amid structural fragmentation."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén — Analyst Team"
 ---
 
 -

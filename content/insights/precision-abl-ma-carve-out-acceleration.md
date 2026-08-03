@@ -1,4 +1,16 @@
---- title: "Precision Asset-Based Lending As A Force Multiplier For Mid Market M&A And Carve Out Acceleration" description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and North American regimes." date: "2025-09-24" author: "Jonas Hyltén" slug: "precision-abl-ma-carve-out-acceleration"
+---
+title: "Precision Asset-Based Lending As A Force Multiplier For Mid Market M&A And Carve Out Acceleration"
+slug: "precision-abl-ma-carve-out-acceleration"
+description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and No…"
+date: "2025-09-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-abl-ma-carve-out-acceleration/"
+meta_title: "Precision Asset-Based Lending As A Force Multiplier For Mid Market M&A And Carve Out Acceleration"
+meta_description: "A technical examination of how Precision Asset Based Lending restructures operational inertia, removes transaction friction, and increases off market deal visibility for mid market acquirers navigating European and No…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The liquidity compression in the mid market is a structural consequence of balance sheet rigidity rather than a shortage of acquisition targets.

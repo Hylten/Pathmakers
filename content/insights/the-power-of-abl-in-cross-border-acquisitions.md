@@ -1,7 +1,17 @@
---- title: "The Power of Asset-Based Lending in Cross-Border Acquisitions" description: "How Asset-Based liquidity engineering unlocks liquidity and execution certainty in complex cross-border acquisitions." date: "2025-12-03" author: "Jonas Hyltén" slug: "the-power-of-abl-in-cross-border-acquisitions"
 ---
-
-# The Power of Asset-Based Lending in Cross-Border Acquisitions Cross-border acquisitions are no longer a playground for the overly optimistic or the overly romantic. They reward only those who understand structural liquidity, jurisdictional risk, and operational asymmetry.
+title: "The Power of Asset-Based Lending in Cross-Border Acquisitions"
+slug: "the-power-of-abl-in-cross-border-acquisitions"
+description: "How Asset-Based liquidity engineering unlocks liquidity and execution certainty in complex cross-border acquisitions."
+date: "2025-12-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-power-of-abl-in-cross-border-acquisitions/"
+meta_title: "The Power of Asset-Based Lending in Cross-Border Acquisitions"
+meta_description: "How Asset-Based liquidity engineering unlocks liquidity and execution certainty in complex cross-border acquisitions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 The mid-market environment is even less forgiving.
 
@@ -249,7 +259,7 @@ Asset-Based Lending delivers that liquidity without waiting for perfect financia
 
 De-Risking the Integration
 
-# Phase M ost cross-border acquisitions fail during integration, not during closing.
+## Phase M ost cross-border acquisitions fail during integration, not during closing.
 
 This is where liquidity must remain flexible.
 

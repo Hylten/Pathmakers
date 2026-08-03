@@ -1,4 +1,16 @@
---- title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors" description: "Institutional briefing on structural inefficiencies in healthcare credit, exit readiness mechanics, and friction‑removal protocols for mid‑market M&A navigation." date: "2025-08-16" author: "Jonas Hyltén" slug: "healthcare-credit-landscape-pragmatic-guide"
+---
+title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors"
+slug: "healthcare-credit-landscape-pragmatic-guide"
+description: "Institutional briefing on structural inefficiencies in healthcare credit, exit readiness mechanics, and friction‑removal protocols for mid‑market M&A navigation."
+date: "2025-08-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-credit-landscape-pragmatic-guide/"
+meta_title: "Navigating the Healthcare Credit Landscape: A Pragmatic Guide for HNWI and UHNW Investors"
+meta_description: "Institutional briefing on structural inefficiencies in healthcare credit, exit readiness mechanics, and friction‑removal protocols for mid‑market M&A navigation."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in healthcare credit is not a function of borrower weakness.

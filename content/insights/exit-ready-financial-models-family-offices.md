@@ -1,4 +1,16 @@
---- title: "The Exit-Ready Mandate: Why Modern Family Offices Now Demand Financial Models Built for the Finish Line" description: "A Pathmaker-level intelligence briefing on the structural rise of exit-ready financial models as a non‑negotiable requirement for private capital deployment across mid‑market transactions." date: "2025-09-01" author: "Pathmaker Analyst Team" slug: "exit-ready-financial-models-family-offices"
+---
+title: "The Exit-Ready Mandate: Why Modern Family Offices Now Demand Financial Models Built for the Finish Line"
+slug: "exit-ready-financial-models-family-offices"
+description: "A Pathmaker-level intelligence briefing on the structural rise of exit-ready financial models as a non‑negotiable requirement for private capital deployment across mid‑market transactions."
+date: "2025-09-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/exit-ready-financial-models-family-offices/"
+meta_title: "The Exit-Ready Mandate: Why Modern Family Offices Now Demand Financial Models Built for the Finish Line"
+meta_description: "A Pathmaker-level intelligence briefing on the structural rise of exit-ready financial models as a non‑negotiable requirement for private capital deployment across mid‑market transactions."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 The shift began quietly.

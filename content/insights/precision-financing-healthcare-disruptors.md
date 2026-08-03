@@ -1,4 +1,16 @@
---- title: "Precision Financing for Healthcare Disruptors: Institutional Mechanics for Exit-Ready Operators" description: "A clinical analyst briefing outlining precision financing structures for mid market healthcare operators, focused on liquidity engineering, balance sheet optimization, and frictionless M&A readiness." date: "2025-11-26" author: "Jonas Hyltén" slug: "precision-financing-healthcare-disruptors"
+---
+title: "Precision Financing for Healthcare Disruptors: Institutional Mechanics for Exit-Ready Operators"
+slug: "precision-financing-healthcare-disruptors"
+description: "A clinical analyst briefing outlining precision financing structures for mid market healthcare operators, focused on liquidity engineering, balance sheet optimization, and frictionless M&A readiness."
+date: "2025-11-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-healthcare-disruptors/"
+meta_title: "Precision Financing for Healthcare Disruptors: Institutional Mechanics for Exit-Ready Operators"
+meta_description: "A clinical analyst briefing outlining precision financing structures for mid market healthcare operators, focused on liquidity engineering, balance sheet optimization, and frictionless M&A readiness."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in European healthcare is not a consequence of demographic strain.

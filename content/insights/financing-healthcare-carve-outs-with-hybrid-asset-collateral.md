@@ -1,7 +1,17 @@
---- title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral" description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and Asset-Based Lending structures supported by hybrid asset collateral." date: "2025-11-28" author: "Jonas Hyltén" slug: "financing-healthcare-carve-outs-with-hybrid-asset-collateral"
 ---
-
-# Financing Healthcare Carve-Outs with Hybrid Asset Collateral Healthcare carve-outs are not clean. They are rarely well organized.
+title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
+slug: "financing-healthcare-carve-outs-with-hybrid-asset-collateral"
+description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and Asset-Based Lending structures supported by hybrid asset collateral."
+date: "2025-11-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/financing-healthcare-carve-outs-with-hybrid-asset-collateral/"
+meta_title: "Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
+meta_description: "How HNWI and UHNW investors create liquidity for healthcare carve-outs using private credit and Asset-Based Lending structures supported by hybrid asset collateral."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 They rarely behave like the sanitized case studies circulating in mid-market banker decks.
 

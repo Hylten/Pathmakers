@@ -1,4 +1,16 @@
---- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Institutional analysis of mid-market strategic alignment, exit readiness engineering, operational hardening, and frictionless M&A architecture for European and global allocators seeking structural clarity." date: "2025-07-26" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence"
+---
+title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+slug: "sovereign-path-mid-market-excellence"
+description: "Institutional analysis of mid-market strategic alignment, exit readiness engineering, operational hardening, and frictionless M&A architecture for European and global allocators seeking structural clarity."
+date: "2025-07-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/sovereign-path-mid-market-excellence/"
+meta_title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+meta_description: "Institutional analysis of mid-market strategic alignment, exit readiness engineering, operational hardening, and frictionless M&A architecture for European and global allocators seeking structural clarity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 Structural Gap: The durability of mid-market enterprise value across Europe is constrained less by market volatility and more by organizational underdevelopment in exit preparation, governance codification, and readiness for institutional scrutiny.

@@ -1,7 +1,17 @@
---- title: "The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals" description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and UHNW investors can unlock deal flow using Private Credit and Asset-Based liquidity engineering with crypto liquidity." date: "2025-06-24" author: "Jonas Hyltén" slug: "the-nordic-ma-outlook-leveraging-crypto-liquidity-for-mid-market-deals"
 ---
-
-# The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals The Nordic M&A landscape is shifting, quietly but decisively. Not in dramatic swings or headline buyouts, but in the deeper undercurrents of mid-market transactions where real value creation still happens.
+title: "The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals"
+slug: "the-nordic-ma-outlook-leveraging-crypto-liquidity-for-mid-market-deals"
+description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and UHNW investors can unlock deal flow using Private Credit and Asset-Based liquidity engineering with crypto liquidity."
+date: "2025-06-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-nordic-ma-outlook-leveraging-crypto-liquidity-for-mid-market-deals/"
+meta_title: "The Nordic M&A Outlook: Leveraging Crypto Liquidity for Mid-Market Deals"
+meta_description: "A pragmatic analysis of Nordic mid‑market M&A and how HNWI and UHNW investors can unlock deal flow using Private Credit and Asset-Based liquidity engineering with crypto liquidity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Family-owned operators, founder-led healthcare groups, specialised B2B players, and industrial carve-outs continue to move.
 

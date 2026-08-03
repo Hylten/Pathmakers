@@ -1,7 +1,17 @@
---- title: "Operational Resilience in the Nordics" description: "Insights on Operational Resilience in the Nordics from Roials Capital and Hyltén Invest." date: "2026-02-06" author: "Jonas Hyltén" slug: "operational-resilience-in-the-nordics"
 ---
-
-# Operational Resilience in the Nordics How Mid-Market Investors Protect Value When Carve-Outs Get Messy Operational resilience in the Nordic market is not an abstract concept. It is a survival requirement.
+title: "Operational Resilience in the Nordics"
+slug: "operational-resilience-in-the-nordics"
+description: "Insights on Operational Resilience in the Nordics from Roials Capital and Hyltén Invest."
+date: "2026-02-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-in-the-nordics/"
+meta_title: "Operational Resilience in the Nordics"
+meta_description: "Insights on Operational Resilience in the Nordics from Roials Capital and Hyltén Invest."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Especially for investors who operate in mid-market M&A and healthcare carve outs where timelines compress, information asymmetry is significant, and the margin for error is thin.
 

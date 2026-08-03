@@ -1,4 +1,16 @@
---- title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence" description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck." date: "2026-03-11" author: "Pathmaker Intelligence Unit" slug: "buyer-fatigue-tactical-intelligence-briefing"
+---
+title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence"
+slug: "buyer-fatigue-tactical-intelligence-briefing"
+description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck."
+date: "2026-03-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/buyer-fatigue-tactical-intelligence-briefing/"
+meta_title: "The Surge of Buyer Fatigue and the Return of Tactical Intelligence"
+meta_description: "A high-density analyst briefing on the structural rise of buyer fatigue in the mid‑market and the tactical architectures now clearing the M&A bottleneck."
+featured_image: ""
+draft: false
+author: "Pathmaker Intelligence Unit"
 ---
 
 Buyer fatigue is no mystery.

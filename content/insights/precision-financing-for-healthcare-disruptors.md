@@ -1,7 +1,17 @@
---- title: "Precision Financing for Healthcare Disruptors" description: "A deep analysis of liquidity engineering and asset based Capital Structuring structures purpose built for healthcare operators and investors requiring decisive private credit solutions." date: "2025-06-30" author: "Jonas Hyltén" slug: "precision-financing-for-healthcare-disruptors"
 ---
-
-# Precision Financing for Healthcare Disruptors Healthcare is not a gentle market. It never has been.
+title: "Precision Financing for Healthcare Disruptors"
+slug: "precision-financing-for-healthcare-disruptors"
+description: "A deep analysis of liquidity engineering and asset based Capital Structuring structures purpose built for healthcare operators and investors requiring decisive private credit solutions."
+date: "2025-06-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-financing-for-healthcare-disruptors/"
+meta_title: "Precision Financing for Healthcare Disruptors"
+meta_description: "A deep analysis of liquidity engineering and asset based Capital Structuring structures purpose built for healthcare operators and investors requiring decisive private credit solutions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It is a landscape of margin compression, regulatory choke points, delayed reimbursements, bloated back-office processes, and the constant threat of displacement by better capitalized consolidators.
 

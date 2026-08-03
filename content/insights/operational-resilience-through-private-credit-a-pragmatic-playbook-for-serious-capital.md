@@ -1,7 +1,17 @@
---- title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital" description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience." date: "2025-07-30" author: "Jonas Hyltén" slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
 ---
-
-# Building Operational Resilience with Private Credit Operational resilience is not an aspirational concept. It is a survival requirement.
+title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
+slug: "operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital"
+description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
+date: "2025-07-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-through-private-credit-a-pragmatic-playbook-for-serious-capital/"
+meta_title: "Operational Resilience Through Private Credit: A Pragmatic Playbook for Serious Capital"
+meta_description: "A strategic exploration of liquidity, asset based liquidity engineering, and private credit structures engineered for HNWI and UHNW operators seeking durable resilience."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Especially in the mid market where balance sheets absorb real shocks and where every miscalibration ripples through the entire enterprise.
 

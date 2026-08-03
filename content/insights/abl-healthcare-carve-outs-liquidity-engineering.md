@@ -1,4 +1,16 @@
---- title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators" description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operators and private equity sponsors in Europe and North America." date: "2025-07-20" author: "Jonas Hyltén" slug: "abl-healthcare-carve-outs-liquidity-engineering"
+---
+title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
+slug: "abl-healthcare-carve-outs-liquidity-engineering"
+description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operator…"
+date: "2025-07-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-healthcare-carve-outs-liquidity-engineering/"
+meta_title: "The Role of Asset-Based Lending in Healthcare Carve-Outs: Liquidity Engineering for Serious Operators"
+meta_description: "An institutional analysis of asset based lending structures in healthcare carve-outs, focusing on Capital Structuring, operational separation, exit readiness, and friction reduction for acquisitive healthcare operator…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The recurrent capital friction inside European and North American healthcare portfolios is not a function of inadequate operating performance.

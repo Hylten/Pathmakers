@@ -1,4 +1,16 @@
---- title: "The Power of Sovereign Capital in Mid-Market Deals" description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of sovereign balance sheets in strategic calibration for European and global operators." date: "2026-01-30" author: "Jonas Hyltén" slug: "sovereign-capital-mid-market-power"
+---
+title: "The Power of Sovereign Capital in Mid-Market Deals"
+slug: "sovereign-capital-mid-market-power"
+description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of soverei…"
+date: "2026-01-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/sovereign-capital-mid-market-power/"
+meta_title: "The Power of Sovereign Capital in Mid-Market Deals"
+meta_description: "An institutional analysis of how sovereign allocators reshape mid‑market M&A through structural clarity, exit readiness engineering, and frictionless off‑market origination. A technical briefing on the role of soverei…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum affecting mid‑market transactions is a structural byproduct of regulatory compression across European and North American credit channels.

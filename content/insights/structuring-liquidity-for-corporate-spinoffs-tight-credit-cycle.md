@@ -1,4 +1,16 @@
---- title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle" description: "Institutional briefing on liquidity engineering, exit readiness, and frictionless M&A execution for mid-market corporate carve outs and operationally entangled spinoffs. Strategic analysis of capital constraints, balance sheet restructuring, and off-market origination dynamics." date: "2025-10-03" author: "Jonas Hyltén" slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
+---
+title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
+slug: "structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle"
+description: "Institutional briefing on liquidity engineering, exit readiness, and frictionless M&A execution for mid-market corporate carve outs and operationally entangled spinoffs. Strategic analysis of capital constraints, bala…"
+date: "2025-10-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/structuring-liquidity-for-corporate-spinoffs-tight-credit-cycle/"
+meta_title: "Structuring Liquidity for Complex Corporate Spinoffs in a Tight Credit Cycle"
+meta_description: "Institutional briefing on liquidity engineering, exit readiness, and frictionless M&A execution for mid-market corporate carve outs and operationally entangled spinoffs. Strategic analysis of capital constraints, bala…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in the 2026 credit regime is the result of procyclical deleveraging inside the European and North American banking systems, not a decline in corporate productivity.

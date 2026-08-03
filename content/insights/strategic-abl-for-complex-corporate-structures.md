@@ -1,7 +1,17 @@
---- title: "Strategic Asset-Based Lending for Complex Corporate Structures" description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based liquidity engineering for complex corporate structures and mid‑market transactions." date: "2025-07-15" author: "Jonas Hyltén" slug: "strategic-abl-for-complex-corporate-structures"
 ---
-
-# Strategic Asset-Based Lending for Complex Corporate Structures Complex corporate structures require liquidity tools that do not collapse under operational pressure. They also require a lender that understands how assets behave inside fragmented ownership, hybrid subsidiaries, offshore entities, or regulatory heavy environments.
+title: "Strategic Asset-Based Lending for Complex Corporate Structures"
+slug: "strategic-abl-for-complex-corporate-structures"
+description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based liquidity engineering for complex corporate structures and mid‑market transactions."
+date: "2025-07-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-abl-for-complex-corporate-structures/"
+meta_title: "Strategic Asset-Based Lending for Complex Corporate Structures"
+meta_description: "A pragmatic guide to liquidity generation through Private Credit and Asset Based liquidity engineering for complex corporate structures and mid‑market transactions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Pathmaker was built for this exact terrain.
 

@@ -1,11 +1,17 @@
 ---
 title: "Tactical Intelligence for Nordic Cross-Border Acquisitions"
+slug: "tactical-intelligence-for-nordic-cross-border-acqu"
 description: "A high-density briefing on tactical intelligence for Nordic cross-border acquisitions in a structurally pivoting mid-market, covering valuation compression and liquidity engineering."
 date: "2026-02-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/tactical-intelligence-for-nordic-cross-border-acqu/"
+meta_title: "Tactical Intelligence for Nordic Cross-Border Acquisitions"
+meta_description: "A high-density briefing on tactical intelligence for Nordic cross-border acquisitions in a structurally pivoting mid-market, covering valuation compression and liquidity engineering."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "tactical-intelligence-for-nordic-cross-border-acqu"
 ---
-# Tactical Intelligence for Nordic Cross Border Acquisitions The Nordic mid market has entered a structural pivot point. Valuations have flattened.
 
 Liquidity cycles are distorted.
 

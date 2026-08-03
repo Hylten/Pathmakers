@@ -1,4 +1,16 @@
---- title: "The Principal Logic of High‑Intent Dealflows in a Saturated PE Landscape" description: "Analyst-level structural briefing on exit readiness, mid‑market deal intent, and frictionless off‑market origination under the Pathmaker architecture." date: "2025-07-22" author: "Pathmaker Analyst Team" slug: "high-intent-dealflow-in-saturated-pe-landscape"
+---
+title: "The Principal Logic of High‑Intent Dealflows in a Saturated PE Landscape"
+slug: "high-intent-dealflow-in-saturated-pe-landscape"
+description: "Analyst-level structural briefing on exit readiness, mid‑market deal intent, and frictionless off‑market origination under the Pathmaker architecture."
+date: "2025-07-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/high-intent-dealflow-in-saturated-pe-landscape/"
+meta_title: "The Principal Logic of High‑Intent Dealflows in a Saturated PE Landscape"
+meta_description: "Analyst-level structural briefing on exit readiness, mid‑market deal intent, and frictionless off‑market origination under the Pathmaker architecture."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 The supply of capital is no longer the constraint.

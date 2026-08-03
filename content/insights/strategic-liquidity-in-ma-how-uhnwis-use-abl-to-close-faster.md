@@ -1,7 +1,17 @@
---- title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster" description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions." date: "2025-12-04" author: "Jonas Hyltén" slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
 ---
-
-# Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster Mid-market M&A has shifted. The old model of waiting for traditional lenders, negotiating rigid covenants, and praying for clean diligence data no longer works.
+title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster"
+slug: "strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster"
+description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
+date: "2025-12-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-in-ma-how-uhnwis-use-abl-to-close-faster/"
+meta_title: "Strategic Liquidity in M&A: How UHNWIs Use Asset-Based Lending to Close Faster"
+meta_description: "A pragmatic breakdown of how UHNW investors use asset based liquidity engineering to accelerate mid-market M&A, with a focus on healthcare carve-outs and complex deal conditions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Sellers move too fast.
 

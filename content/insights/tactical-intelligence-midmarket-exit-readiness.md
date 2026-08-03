@@ -1,4 +1,16 @@
---- title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator" description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band." date: "2026-03-13" author: "Pathmaker" slug: "tactical-intelligence-midmarket-exit-readiness"
+---
+title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator"
+slug: "tactical-intelligence-midmarket-exit-readiness"
+description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band."
+date: "2026-03-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/tactical-intelligence-midmarket-exit-readiness/"
+meta_title: "The Principal Vector: Tactical Intelligence as the Mid-Market Differentiator"
+meta_description: "A high-density institutional analysis on Tactical Intelligence, Exit Readiness, frictionless M&A architecture, and off‑market origination within the mid-market deal band."
+featured_image: ""
+draft: false
+author: "Pathmaker"
 ---
 
 Insight begins here. No warming speeches. No preface.

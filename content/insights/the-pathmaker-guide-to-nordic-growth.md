@@ -1,7 +1,17 @@
---- title: "The Pathmaker Guide to Nordic Growth" description: "A strategic, liquidity‑focused guide to Nordic expansion, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking institutional‑grade leverage." date: "2026-01-06" author: "Jonas Hyltén" slug: "the-pathmaker-guide-to-nordic-growth"
 ---
-
-# The Pathmaker Guide to Nordic Growth Nordic growth is not a fairy tale about scrappy founders or overnight miracles. It is the accumulation of structural advantages, disciplined capital deployment, and a culture that rewards operational resilience.
+title: "The Pathmaker Guide to Nordic Growth"
+slug: "the-pathmaker-guide-to-nordic-growth"
+description: "A strategic, liquidity‑focused guide to Nordic expansion, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking institutional‑grade leverage."
+date: "2026-01-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/the-pathmaker-guide-to-nordic-growth/"
+meta_title: "The Pathmaker Guide to Nordic Growth"
+meta_description: "A strategic, liquidity‑focused guide to Nordic expansion, private credit, and asset based liquidity engineering for HNWI and UHNW investors seeking institutional‑grade leverage."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Pathmaker approaches the region with that same posture.
 

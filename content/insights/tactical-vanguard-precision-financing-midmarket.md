@@ -1,4 +1,16 @@
---- title: "The Tactical Vanguard: Precision Financing For Mid-Market Consolidation" description: "Institutional briefing on precision financing, exit readiness, deal friction removal, and high fidelity origination mechanics for European and North American mid-market operators." date: "2025-11-14" author: "Jonas Hyltén" slug: "tactical-vanguard-precision-financing-midmarket"
+---
+title: "The Tactical Vanguard: Precision Financing For Mid-Market Consolidation"
+slug: "tactical-vanguard-precision-financing-midmarket"
+description: "Institutional briefing on precision financing, exit readiness, deal friction removal, and high fidelity origination mechanics for European and North American mid-market operators."
+date: "2025-11-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/tactical-vanguard-precision-financing-midmarket/"
+meta_title: "The Tactical Vanguard: Precision Financing For Mid-Market Consolidation"
+meta_description: "Institutional briefing on precision financing, exit readiness, deal friction removal, and high fidelity origination mechanics for European and North American mid-market operators."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum across the European and North American mid-market is a direct consequence of structural fragmentation, regulatory compression, and an institutional preference for scale.

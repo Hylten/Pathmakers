@@ -1,7 +1,17 @@
---- title: "Precision Liquidity for Nordic Logistics" description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based liquidity engineering, and strategic capital structure for HNWI and UHNW investors." date: "2025-07-28" author: "Jonas Hyltén" slug: "precision-liquidity-for-nordic-logistics"
 ---
-
-# Precision Liquidity for Nordic Logistics Nordic logistics has entered a structural era. Not a hype cycle.
+title: "Precision Liquidity for Nordic Logistics"
+slug: "precision-liquidity-for-nordic-logistics"
+description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based liquidity engineering, and strategic capital structure for HNWI and UHNW investors."
+date: "2025-07-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-liquidity-for-nordic-logistics/"
+meta_title: "Precision Liquidity for Nordic Logistics"
+meta_description: "A high-authority analysis of precision liquidity solutions for Nordic logistics, with focus on private credit, asset based liquidity engineering, and strategic capital structure for HNWI and UHNW investors."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Not a temporary inflation shock.
 

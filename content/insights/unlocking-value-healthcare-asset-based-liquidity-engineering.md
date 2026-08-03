@@ -1,4 +1,16 @@
---- title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering" description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning." date: "2025-12-05" author: "Jonas Hyltén – The Analyst Team" slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
+---
+title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering"
+slug: "unlocking-value-healthcare-asset-based-liquidity-engineering"
+description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning."
+date: "2025-12-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/unlocking-value-healthcare-asset-based-liquidity-engineering/"
+meta_title: "Unlocking Value in Healthcare Assets via Asset-Based Liquidity Engineering"
+meta_description: "Institutional brief on Capital Structuring, exit readiness, mid‑market healthcare asset optimization, and friction‑free M&A positioning."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén – The Analyst Team"
 ---
 
 The healthcare mid‑market sits on dormant value.

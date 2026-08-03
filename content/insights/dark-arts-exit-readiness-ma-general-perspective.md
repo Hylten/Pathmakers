@@ -1,4 +1,16 @@
---- title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution" description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural friction." date: "2025-10-25" author: "Jonas Hyltén" slug: "dark-arts-exit-readiness-ma-general-perspective"
+---
+title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution"
+slug: "dark-arts-exit-readiness-ma-general-perspective"
+description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural fric…"
+date: "2025-10-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/dark-arts-exit-readiness-ma-general-perspective/"
+meta_title: "The Dark Arts of Exit Readiness: A General’s Perspective on Frictionless M&A Execution"
+meta_description: "A strategic briefing on operational deleveraging, buyer psychology, and the institutional mechanics that determine whether a mid-market transaction closes at premium valuation or collapses under hidden structural fric…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The valuation gap in the European mid-market is not caused by a shortage of buyers.

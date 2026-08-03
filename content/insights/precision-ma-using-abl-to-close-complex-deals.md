@@ -1,7 +1,17 @@
---- title: "Precision M&A: Using Asset-Based Lending to Close Complex Deals" description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions." date: "2025-12-31" author: "Jonas Hyltén" slug: "precision-ma-using-abl-to-close-complex-deals"
 ---
-
-# Precision M&A: Using Asset-Based Lending to Close Complex Deals Mid market M&A is rarely elegant. It is tactical, fast moving, and shaped by constraints that [institutional capital]([Roials Capital](https://roialscapital.com/)) prefers to avoid.
+title: "Precision M&A: Using Asset-Based Lending to Close Complex Deals"
+slug: "precision-ma-using-abl-to-close-complex-deals"
+description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions."
+date: "2025-12-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/precision-ma-using-abl-to-close-complex-deals/"
+meta_title: "Precision M&A: Using Asset-Based Lending to Close Complex Deals"
+meta_description: "A strategic deep dive into how Asset Based liquidity engineering and private credit unlock liquidity for complex mid‑market M&A transactions."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 Liquidity gaps.
 

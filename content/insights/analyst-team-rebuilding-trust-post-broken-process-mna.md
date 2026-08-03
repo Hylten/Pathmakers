@@ -1,4 +1,16 @@
---- title: "The Analyst Ledger: Reconstructing Trust in a Post-Broken-Process M&A Market" description: "A deep analyst‑level reconstruction of trust mechanics, exit readiness architecture, and off‑market deal origination in a fragmented mid‑market M&A environment." date: "2025-10-26" author: "Pathmaker Analyst Division" slug: "analyst-team-rebuilding-trust-post-broken-process-mna"
+---
+title: "The Analyst Ledger: Reconstructing Trust in a Post-Broken-Process M&A Market"
+slug: "analyst-team-rebuilding-trust-post-broken-process-mna"
+description: "A deep analyst‑level reconstruction of trust mechanics, exit readiness architecture, and off‑market deal origination in a fragmented mid‑market M&A environment."
+date: "2025-10-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/analyst-team-rebuilding-trust-post-broken-process-mna/"
+meta_title: "The Analyst Ledger: Reconstructing Trust in a Post-Broken-Process M&A Market"
+meta_description: "A deep analyst‑level reconstruction of trust mechanics, exit readiness architecture, and off‑market deal origination in a fragmented mid‑market M&A environment."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Division"
 ---
 
 The fracture line begins where trust died.

@@ -1,4 +1,16 @@
---- title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle" description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes." date: "2026-01-18" author: "Jonas Hyltén" slug: "asset-based-lending-precision-infrastructure-spin-offs"
+---
+title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+slug: "asset-based-lending-precision-infrastructure-spin-offs"
+description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes."
+date: "2026-01-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/asset-based-lending-precision-infrastructure-spin-offs/"
+meta_title: "How Asset Based Lending Shapes Precision Infrastructure Spin Offs in a Tight Credit Cycle"
+meta_description: "Institutional briefing on how asset based lending structures reduce M and A friction, accelerate exit readiness, and enable precision infrastructure spin offs during constrained credit regimes."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in North American and European industrial markets is a function of regulatory compression and banking retrenchment, not operational underperformance.

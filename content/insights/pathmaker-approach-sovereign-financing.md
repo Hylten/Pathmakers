@@ -1,4 +1,16 @@
---- title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios" description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility." date: "2025-09-01" author: "Jonas Hyltén" slug: "pathmaker-approach-sovereign-financing"
+---
+title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
+slug: "pathmaker-approach-sovereign-financing"
+description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility."
+date: "2025-09-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-approach-sovereign-financing/"
+meta_title: "The Pathmaker Approach to Sovereign Financing for HNWI and UHNW Portfolios"
+meta_description: "Strategic intelligence on exit readiness, sovereign pathways, liquidity engineering, and off market institutional deal flow. A Pathmaker framework for allocators requiring frictionless cross border capital mobility."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The regulatory tightening within Western capital markets has created a bifurcated system where institutional scale liquidity is available, but not deployable, unless the allocator can demonstrate cross border sophistication and sovereign grade structural preparation.

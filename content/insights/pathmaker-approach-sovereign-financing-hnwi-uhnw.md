@@ -1,4 +1,16 @@
---- title: "The Pathmaker Architecture for Sovereign Financing Within HNWI and UHNW Portfolios" description: "A technical briefing on the Pathmaker model for exit readiness, sovereign-aligned capital formation, and frictionless off-market M&A origination. Framework by Jonas Hyltén, positioned for European and global allocators." date: "2025-08-02" author: "Jonas Hyltén" slug: "pathmaker-approach-sovereign-financing-hnwi-uhnw"
+---
+title: "The Pathmaker Architecture for Sovereign Financing Within HNWI and UHNW Portfolios"
+slug: "pathmaker-approach-sovereign-financing-hnwi-uhnw"
+description: "A technical briefing on the Pathmaker model for exit readiness, sovereign-aligned capital formation, and frictionless off-market M&A origination. Framework by Jonas Hyltén, positioned for European and global allocators."
+date: "2025-08-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-approach-sovereign-financing-hnwi-uhnw/"
+meta_title: "The Pathmaker Architecture for Sovereign Financing Within HNWI and UHNW Portfolios"
+meta_description: "A technical briefing on the Pathmaker model for exit readiness, sovereign-aligned capital formation, and frictionless off-market M&A origination. Framework by Jonas Hyltén, positioned for European and global allocators."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum distorting transcontinental mid market transactions is a structural consequence of regulatory compression across European banking systems rather than any decline in acquisition demand.

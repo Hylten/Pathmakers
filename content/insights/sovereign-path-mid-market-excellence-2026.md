@@ -1,9 +1,21 @@
---- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways." date: "2025-09-26" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence-2026"
+---
+title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+slug: "sovereign-path-mid-market-excellence-2026"
+description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways."
+date: "2025-09-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/sovereign-path-mid-market-excellence-2026/"
+meta_title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+meta_description: "Technical intelligence report on mid-market private equity structuring, liquidity engineering and 2026 deployment pathways."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 [START INTELLIGENCE REPORT]
 
-# THE MANDATE
+## THE MANDATE
 
 The sovereign path in mid-market private equity is defined by structural asymmetries that favor disciplined operators with durable capital and a technical command of Strategic Collateralization.
 

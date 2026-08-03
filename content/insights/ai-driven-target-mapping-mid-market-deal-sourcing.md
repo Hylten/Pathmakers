@@ -1,4 +1,16 @@
---- title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery" description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market." date: "2025-06-28" author: "Pathmaker Analyst Team" slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
+---
+title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery"
+slug: "ai-driven-target-mapping-mid-market-deal-sourcing"
+description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market."
+date: "2025-06-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/ai-driven-target-mapping-mid-market-deal-sourcing/"
+meta_title: "The Principal Map: How AI Rewrites Mid‑Market Target Discovery"
+meta_description: "A high-density analytical briefing on AI-driven target mapping, off‑market origination, and frictionless Exit Readiness architecture across the mid-market."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 The conventional search stack was always too blunt for the mid‑market.

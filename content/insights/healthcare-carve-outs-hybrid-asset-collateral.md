@@ -1,4 +1,16 @@
---- title: "Strategic Mechanics of Financing Healthcare Carve-Outs with Hybrid Asset Collateral" description: "Institutional briefing on liquidity engineering, balance sheet optimization, and hybrid collateral frameworks that remove M&A friction in healthcare carve-out transactions while preserving operational continuity and exit readiness." date: "2025-08-20" author: "Jonas Hyltén" slug: "healthcare-carve-outs-hybrid-asset-collateral"
+---
+title: "Strategic Mechanics of Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
+slug: "healthcare-carve-outs-hybrid-asset-collateral"
+description: "Institutional briefing on liquidity engineering, balance sheet optimization, and hybrid collateral frameworks that remove M&A friction in healthcare carve-out transactions while preserving operational continuity and e…"
+date: "2025-08-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/healthcare-carve-outs-hybrid-asset-collateral/"
+meta_title: "Strategic Mechanics of Financing Healthcare Carve-Outs with Hybrid Asset Collateral"
+meta_description: "Institutional briefing on liquidity engineering, balance sheet optimization, and hybrid collateral frameworks that remove M&A friction in healthcare carve-out transactions while preserving operational continuity and e…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum in mid-market healthcare transactions is not caused by a lack of lender appetite but by structural misalignment between operational assets, regulatory constraints, and the collateral frameworks that traditional lenders require.

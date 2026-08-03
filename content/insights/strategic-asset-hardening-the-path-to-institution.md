@@ -1,11 +1,17 @@
 ---
 title: "Strategic Asset Hardening: The Path to Institutional Valuation"
+slug: "strategic-asset-hardening-the-path-to-institution"
 description: "An institutional briefing on strategic asset hardening as the systematic removal of friction in financial, operational, and governance architecture for mid-market exit readiness."
 date: "2026-02-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-asset-hardening-the-path-to-institution/"
+meta_title: "Strategic Asset Hardening: The Path to Institutional Valuation"
+meta_description: "An institutional briefing on strategic asset hardening as the systematic removal of friction in financial, operational, and governance architecture for mid-market exit readiness."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "strategic-asset-hardening-the-path-to-institution"
 ---
-# Strategic Asset Hardening. The Path to Institutional Valuation Institutional capital never chases noise.
 
 It pursues order.
 

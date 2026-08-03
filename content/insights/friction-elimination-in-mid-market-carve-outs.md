@@ -1,11 +1,17 @@
 ---
 title: "Friction Elimination in Mid-Market Carve Outs"
+slug: "friction-elimination-in-mid-market-carve-outs"
 description: "A principal-level intelligence briefing on friction elimination in mid-market carve outs, covering asset hardening, covenant stewardship, operational separation, and execution velocity."
 date: "2025-08-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/friction-elimination-in-mid-market-carve-outs/"
+meta_title: "Friction Elimination in Mid-Market Carve Outs"
+meta_description: "A principal-level intelligence briefing on friction elimination in mid-market carve outs, covering asset hardening, covenant stewardship, operational separation, and execution velocity."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "friction-elimination-in-mid-market-carve-outs"
 ---
-# Friction Elimination in Mid Market Carve Outs Mid market carve outs fail or stall for one reason. Friction.
 
 Not theoretical friction.
 
@@ -37,7 +43,7 @@ This is command doctrine.
 
 -
 
-# The Core Problem: Mid Market Carve Outs Are Born in Fragmentation Most carve outs begin as internal afterthoughts inside parent companies.
+## The Core Problem: Mid Market Carve Outs Are Born in Fragmentation Most carve outs begin as internal afterthoughts inside parent companies.
 
 They inherit scattered documentation.
 
@@ -79,7 +85,7 @@ Our role is to impose order before the market imposes a discount.
 
 -
 
-# Asset Hardening: The Primary Discipline Asset hardening is not polishing.
+## Asset Hardening: The Primary Discipline Asset hardening is not polishing.
 
 It is not perception management.
 
@@ -311,7 +317,7 @@ It is the architecture of trust.
 
 -
 
-# M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
+## M and A Friction: The Enemy Carve outs fail when friction compounds in three zones.
 
 Zone One: Information Friction When buyers cannot see the truth. When data contradicts itself.
 
@@ -339,7 +345,7 @@ We remove friction in all three zones.
 
 -
 
-# Execution Velocity: The Tactical Advantage Execution velocity is achieved by removing drag at every point where a buyer would slow down.
+## Execution Velocity: The Tactical Advantage Execution velocity is achieved by removing drag at every point where a buyer would slow down.
 
 This is a military concept applied to corporate readiness.
 
@@ -375,7 +381,7 @@ This is stewardship.
 
 -
 
-# Liquidity Architecture for Carve Outs Liquidity is the oxygen that funds separation.
+## Liquidity Architecture for Carve Outs Liquidity is the oxygen that funds separation.
 
 Without liquidity, carve outs remain theoretical.
 
@@ -427,7 +433,7 @@ Without readiness, acquisition becomes distant.
 
 -
 
-# The Spirit of Gnosjö: Local Discipline at Institutional Scale Pathmaker applies the Spirit of Gnosjö.
+## The Spirit of Gnosjö: Local Discipline at Institutional Scale Pathmaker applies the Spirit of Gnosjö.
 
 Not as nostalgia but as operational doctrine.
 
@@ -463,7 +469,7 @@ It is the cultural substrate for asset hardening.
 
 -
 
-# Tactical Intelligence: Jonas Hyltén Discipline Tactical intelligence is the practice of identifying and neutralizing friction before the market sees it.
+## Tactical Intelligence: Jonas Hyltén Discipline Tactical intelligence is the practice of identifying and neutralizing friction before the market sees it.
 
 It includes:
 
@@ -497,7 +503,7 @@ Our work is to replace instinct with data precision.
 
 -
 
-# The Role of the General A carve out is not a consulting project.
+## The Role of the General A carve out is not a consulting project.
 
 It is a military operation.
 
@@ -529,7 +535,7 @@ We speak to eliminate friction.
 
 -
 
-# Exit Readiness: The Ultimate Objective Exit readiness is the state in which:
+## Exit Readiness: The Ultimate Objective Exit readiness is the state in which:
 
 - Every document is prepared.
 
@@ -557,7 +563,7 @@ They prepare before they are seen.
 
 -
 
-# Institutional Buyers Want One Thing: A Story Without Gaps Not a narrative story.
+## Institutional Buyers Want One Thing: A Story Without Gaps Not a narrative story.
 
 A structural story.
 
@@ -575,7 +581,7 @@ Friction elimination creates this story.
 
 -
 
-# Final Intelligence for Principals If you are a founder.
+## Final Intelligence for Principals If you are a founder.
 
 If you are an HNWI or UHNW steward.
 

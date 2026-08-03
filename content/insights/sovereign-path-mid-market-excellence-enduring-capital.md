@@ -1,4 +1,16 @@
---- title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital" description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment, operational intelligence, and the sovereign discipline underlying durable value creation." date: "2025-11-23" author: "Jonas Hyltén" slug: "sovereign-path-mid-market-excellence-enduring-capital"
+---
+title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+slug: "sovereign-path-mid-market-excellence-enduring-capital"
+description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment…"
+date: "2025-11-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/sovereign-path-mid-market-excellence-enduring-capital/"
+meta_title: "The Sovereign Path: Mid-Market Excellence and the Architecture of Enduring Capital"
+meta_description: "Institutional briefing on mid-market execution, exit readiness, M&A friction removal, and the architecture of enduring capital formation within European and North American private markets. Focus on strategic alignment…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital vacuum throughout the European and North American mid‑market is a structural consequence of fragmented diligence practices and inconsistent exit preparedness, not a lack of enterprise value.

@@ -1,4 +1,16 @@
---- title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises" description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing for strategic divestiture or institutional capital entry." date: "2026-01-19" author: "Jonas Hyltén" slug: "operational-resilience-human-friction-removal-exit-readiness"
+---
+title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises"
+slug: "operational-resilience-human-friction-removal-exit-readiness"
+description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing…"
+date: "2026-01-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-human-friction-removal-exit-readiness/"
+meta_title: "Operational Resilience and Frictionless Execution Architecture for Exit Ready Enterprises"
+meta_description: "A high density institutional briefing on operational resilience, value hardening, and human friction removal as a prerequisite for mid market exit readiness and M&A velocity. Tactical intelligence for owners preparing…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The fundamental constraint in mid market M&A is not valuation.

@@ -1,4 +1,16 @@
---- title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster" description: "Institutional briefing on asset based lending as a transaction accelerant for off market and mid market M&A. Focus on liquidity engineering, exit readiness, balance sheet optimization, and friction removal in cross border deal execution." date: "2026-01-18" author: "Roials Capital (Institutional Briefing)" slug: "strategic-liquidity-in-ma-uhnw-abl-velocity"
+---
+title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster"
+slug: "strategic-liquidity-in-ma-uhnw-abl-velocity"
+description: "Institutional briefing on asset based lending as a transaction accelerant for off market and mid market M&A. Focus on liquidity engineering, exit readiness, balance sheet optimization, and friction removal in cross bo…"
+date: "2026-01-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-liquidity-in-ma-uhnw-abl-velocity/"
+meta_title: "Strategic Liquidity in M&A: How UHNWIs Use ABL to Close Faster"
+meta_description: "Institutional briefing on asset based lending as a transaction accelerant for off market and mid market M&A. Focus on liquidity engineering, exit readiness, balance sheet optimization, and friction removal in cross bo…"
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
 
 The structural gap in mid market M&A velocity is not caused by a shortage of buyers.

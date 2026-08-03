@@ -1,4 +1,16 @@
---- title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works" description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and Nordic market conditions." date: "2025-07-24" author: "Jonas Hyltén" slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
+---
+title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
+slug: "abl-vs-mezzanine-liquidity-architecture-that-works"
+description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and No…"
+date: "2025-07-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/abl-vs-mezzanine-liquidity-architecture-that-works/"
+meta_title: "Asset-Based Lending vs Traditional Mezzanine in M&A: The Liquidity Architecture That Actually Works"
+meta_description: "A technical and institutional analysis of Asset Based Lending versus mezzanine structures in mid market M&A, with emphasis on liquidity engineering, balance sheet optimization, and exit readiness under European and No…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in mid market M&A financing across Europe is not a function of deal scarcity.

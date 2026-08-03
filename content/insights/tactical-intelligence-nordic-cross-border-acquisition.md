@@ -1,4 +1,16 @@
---- title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions" description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments." date: "2025-10-09" author: "The Analyst Team" slug: "tactical-intelligence-nordic-cross-border-acquisition"
+---
+title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions"
+slug: "tactical-intelligence-nordic-cross-border-acquisition"
+description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments."
+date: "2025-10-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/tactical-intelligence-nordic-cross-border-acquisition/"
+meta_title: "Tactical Intelligence for Nordic Cross‑Border Acquisitions"
+meta_description: "A principal-level brief on operational intelligence, exit readiness, and frictionless cross‑border M&A flows within Nordic mid‑market environments."
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 The Nordic mid‑market rewards precision.

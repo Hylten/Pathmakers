@@ -1,4 +1,16 @@
---- title: "The Principal Diagnosis: Why Private Equity Funds Are Being Outmaneuvered by Prepared Sellers" description: "A high-density analyst briefing on deal loss dynamics, exit readiness asymmetry, and why mid‑market sellers who understand Pathmaker architecture now regularly outperform private equity bidders." date: "2025-10-23" author: "Pathmaker Analyst Team" slug: "why-pe-funds-lose-to-prepared-sellers"
+---
+title: "The Principal Diagnosis: Why Private Equity Funds Are Being Outmaneuvered by Prepared Sellers"
+slug: "why-pe-funds-lose-to-prepared-sellers"
+description: "A high-density analyst briefing on deal loss dynamics, exit readiness asymmetry, and why mid‑market sellers who understand Pathmaker architecture now regularly outperform private equity bidders."
+date: "2025-10-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/why-pe-funds-lose-to-prepared-sellers/"
+meta_title: "The Principal Diagnosis: Why Private Equity Funds Are Being Outmaneuvered by Prepared Sellers"
+meta_description: "A high-density analyst briefing on deal loss dynamics, exit readiness asymmetry, and why mid‑market sellers who understand Pathmaker architecture now regularly outperform private equity bidders."
+featured_image: ""
+draft: false
+author: "Pathmaker Analyst Team"
 ---
 
 The pattern is visible long before the deal room opens.

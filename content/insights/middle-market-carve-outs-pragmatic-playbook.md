@@ -1,4 +1,16 @@
---- title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators" description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined sourcing mechanics for off-market transactions." date: "2025-09-02" author: "Jonas Hyltén" slug: "middle-market-carve-outs-pragmatic-playbook"
+---
+title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators"
+slug: "middle-market-carve-outs-pragmatic-playbook"
+description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined s…"
+date: "2025-09-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/middle-market-carve-outs-pragmatic-playbook/"
+meta_title: "Middle Market Carve-Outs - A Pragmatic Playbook for Buyers and Operators"
+meta_description: "Institutional briefing on structural inefficiencies, execution pathways, and operational intelligence for mid-market carve-outs in Europe and North America. Focus on friction removal, exit readiness, and disciplined s…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The structural gap in middle market carve-outs is not a function of asset scarcity.

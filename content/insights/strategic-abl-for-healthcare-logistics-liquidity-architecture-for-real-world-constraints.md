@@ -1,7 +1,17 @@
---- title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints" description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures." date: "2025-12-04" author: "Jonas Hyltén" slug: "strategic-abl-for-healthcare-logistics-liquidity-architecture-for-real-world-constraints"
 ---
-
-# Strategic Asset-Based Lending for Healthcare Logistics Healthcare logistics is not a romance story. It is not a turn‑it‑around‑with‑passion sector.
+title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
+slug: "strategic-abl-for-healthcare-logistics-liquidity-architecture-for-real-world-constraints"
+description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures."
+date: "2025-12-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/strategic-abl-for-healthcare-logistics-liquidity-architecture-for-real-world-constraints/"
+meta_title: "Strategic Asset-Based Lending for Healthcare Logistics: Liquidity Architecture for Real-World Constraints"
+meta_description: "A high-level analysis of strategic liquidity and asset based liquidity engineering solutions for healthcare logistics operators seeking institutional grade capital structures."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
+---
 
 It is a domain defined by regulatory choke points, aging infrastructure, low‑velocity receivables, and vendors who never forget a late payment.
 

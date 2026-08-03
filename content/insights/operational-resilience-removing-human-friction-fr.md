@@ -1,11 +1,17 @@
 ---
 title: "Operational Resilience: Removing Human Friction in M&A"
+slug: "operational-resilience-removing-human-friction-fr"
 description: "An institutional analysis of how human friction in mid-market M&A destroys valuation, transaction velocity, and institutional trust and the structural mandate to eliminate it."
 date: "2025-11-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/operational-resilience-removing-human-friction-fr/"
+meta_title: "Operational Resilience: Removing Human Friction in M&A"
+meta_description: "An institutional analysis of how human friction in mid-market M&A destroys valuation, transaction velocity, and institutional trust and the structural mandate to eliminate it."
+featured_image: ""
+draft: false
 author: "Jonas Hyltén"
-slug: "operational-resilience-removing-human-friction-fr"
 ---
-# Operational Resilience. The Discipline of Eliminating Human Friction in M&A Operational resilience is not a slogan.
 
 It is a structural mandate.
 

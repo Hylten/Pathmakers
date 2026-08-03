@@ -1,4 +1,16 @@
---- title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth" description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination." date: "2025-10-16" author: "The Analyst Team" slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
+---
+title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
+slug: "asset-based-lending-silent-engine-sustainable-corporate-growth"
+description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination."
+date: "2025-10-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/asset-based-lending-silent-engine-sustainable-corporate-growth/"
+meta_title: "Why Asset‑Based Lending Is Becoming the Silent Engine of Sustainable Corporate Growth"
+meta_description: "An institutional brief on the structural ascent of asset‑based lending as the core liquidity architecture for mid‑market corporate expansion, M&A friction removal, and off‑market deal origination."
+featured_image: ""
+draft: false
+author: "The Analyst Team"
 ---
 
 Asset‑based lending is no longer a peripheral liquidity instrument.

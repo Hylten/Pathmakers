@@ -1,4 +1,16 @@
---- title: "The Pathmaker Playbook for Healthcare Financing" description: "A technical memo on [capital structuring](https://hylten.github.io/Roials Capital/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requiring operational clarity and deal visibility." date: "2025-09-07" author: "Jonas Hyltén" slug: "pathmaker-playbook-healthcare-financing"
+---
+title: "The Pathmaker Playbook for Healthcare Financing"
+slug: "pathmaker-playbook-healthcare-financing"
+description: "A technical memo on [capital structuring](https://hylten.github.io/Roials Capital/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requirin…"
+date: "2025-09-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Pathmakers/insights/pathmaker-playbook-healthcare-financing/"
+meta_title: "The Pathmaker Playbook for Healthcare Financing"
+meta_description: "A technical memo on [capital structuring](https://hylten.github.io/Roials Capital/), exit readiness, and frictionless M&A alignment within mid-market healthcare platforms, written for institutional allocators requirin…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The capital dislocation in European healthcare is the product of regulatory compression and demographic acceleration, not the absence of viable operators.
