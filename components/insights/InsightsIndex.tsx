@@ -32,6 +32,7 @@ const getPosts = () => {
     const posts = Object.entries(postsGlob).map(([filepath, content]) => {
         const rawMarkdown = (content as any).default;
         const { data } = parseFrontmatter(rawMarkdown);
+        if (data && (data as any).draft === true) return null;
 
         return {
             slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
@@ -42,7 +43,7 @@ const getPosts = () => {
         };
     });
 
-    return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    return posts.filter((p): p is NonNullable<typeof p> => p !== null).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 };
 
 export const InsightsIndex: React.FC = () => {

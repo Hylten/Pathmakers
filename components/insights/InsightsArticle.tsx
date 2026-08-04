@@ -94,6 +94,7 @@ export const InsightsArticle: React.FC<InsightsArticleProps> = ({ slug }) => {
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
                     const rawMarkdown = (fileContent as any).default;
                     const { data, content: markdownBody } = parseFrontmatter(rawMarkdown);
+                    if (data && (data as any).draft === true) continue;
 
                     const fileSlug = data.slug || filepath.split('/').pop()?.replace('.md', '');
 

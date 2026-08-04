@@ -84,6 +84,7 @@ async function generateSEO() {
             console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
             continue;
         }
+        if (data.draft === true) continue;
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Untitled';
         const description = data.description || '';
@@ -143,6 +144,7 @@ async function generateSEO() {
             console.warn(`⚠️ Warning: Bad YAML in ${file}. Skipping...`);
             continue;
         }
+        if (data.draft === true) continue;
 
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Insights Article';
