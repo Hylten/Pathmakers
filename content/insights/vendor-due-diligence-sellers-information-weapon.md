@@ -9,7 +9,7 @@ canonical_url: "https://hylten.github.io/Pathmakers/insights/vendor-due-diligenc
 meta_title: "Vendor Due Diligence: The Seller's Information Weapon in the Exit Process"
 meta_description: "Institutional analysis of vendor due diligence as the seller's information weapon: how a prepared data room shifts the multiple and shortens the exit."
 featured_image: ""
-draft: false
+draft: true
 author: "Jonas Hyltén"
 ---
 
@@ -55,7 +55,7 @@ Vendor due diligence includes strategic disclosure. The seller decides what the 
 
 A customer concentration issue is disclosed with the retention history, the contract terms, and the expansion pipeline. A key-person risk is disclosed with the succession plan and the non-compete coverage. The buyer receives the issue and the solution in one package, and the price conversation moves past it.
 
-The disclosure strategy also filters buyers. A serious buyer engages with the package, validates it, and moves to terms. A tire-kicker uses the data room to build a competing thesis. The prepared seller's package performs the qualification function that brokers usually perform.
+The disclosure strategy also filters buyers. A serious buyer engages with the package, validates it, and moves to terms. A tire-kicker uses the data room to build a competing thesis. The prepared seller's package performs the qualification function that brokers perform by default.
 
 ## The Cost-Benefit
 
