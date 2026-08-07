@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "audit:content": "node scripts/audit-article-integrity.mjs --all",
+    "audit:changed-content": "node scripts/audit-article-integrity.mjs",
     "dev": "vite",
     "build": "vite build && node scripts/build-seo.js",
     "publish": "chmod +x scripts/publish.sh && ./scripts/publish.sh",

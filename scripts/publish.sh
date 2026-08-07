@@ -3,21 +3,24 @@
 
 echo "🚀 Starting Auto-Publish process for Pathmaker..."
 
-# 1. Build the project
+# 1. Block publication if changed articles contain prompt leakage or formatting corruption
+npm run audit:changed-content
+
+# 2. Build the project
 npm run build
 
-# 2. Add changes
+# 3. Add changes
 git add .
 
-# 3. Commit
+# 4. Commit
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
 git commit -m "Auto-publish: Pathmaker Insight Update [$TIMESTAMP]"
 
-# 4. Push
+# 5. Push
 echo "📦 Pushing to GitHub..."
 git push origin main
 
-# 5. Sitemap Status
+# 6. Sitemap Status
 echo "🔍 Checking sitemap status..."
 node scripts/ping-google.js
 
