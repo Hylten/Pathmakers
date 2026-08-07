@@ -9,7 +9,7 @@ canonical_url: "https://hylten.github.io/Pathmakers/insights/vendor-due-diligenc
 meta_title: "Vendor Due Diligence: The Seller's Information Weapon in the Exit Process"
 meta_description: "Institutional analysis of vendor due diligence as the seller's information weapon: how a prepared data room shifts the multiple and shortens the exit."
 featured_image: ""
-draft: true
+draft: false
 author: "Jonas Hyltén"
 ---
 
