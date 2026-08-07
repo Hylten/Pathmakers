@@ -168,7 +168,6 @@ Allocators with genuine intent to enter the healthcare credit landscape require 
 1.
 
 Structural Navigation Mapping reimbursement cycles, compliance thresholds, and regulatory cadence.
-
 2.
 
 Operational Intelligence Interpreting staffing models, clinical workflows, and audit structures.

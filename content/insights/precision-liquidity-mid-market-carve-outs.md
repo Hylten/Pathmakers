@@ -80,7 +80,6 @@ It is not a generic working capital top-up but a deliberately structured liquidi
 2.
 
 Balance Sheet Optimization The separation balance sheet must be constructed to withstand the due diligence compression seen in 2025 through
-
 2026.
 
 Buyers no longer accept ambiguous liabilities, opaque intra company flows, or unsegmented cost centers.
@@ -184,7 +183,6 @@ The decision framework includes:
 1.
 
 Does the division have a functional standalone balance sheet aligned with operational independence.
-
 2.
 
 Has liquidity been engineered with precision to support the separation, transitional services, and early operational stability.
@@ -192,7 +190,6 @@ Has liquidity been engineered with precision to support the separation, transiti
 3.
 
 Are operational dependencies documented, mapped, and mitigated.
-
 4.
 
 Has asset hardening been implemented to neutralize integration risk for the buyer.

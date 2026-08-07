@@ -206,7 +206,6 @@ The allocator's evaluation should focus on five technical criteria.
 1.
 
 Liquidity Architecture Does the operator possess a balance sheet capable of institutional onboarding.
-
 2.
 
 Operational Coherence Are data systems unified, audited, and transaction ready.
@@ -214,7 +213,6 @@ Operational Coherence Are data systems unified, audited, and transaction ready.
 3.
 
 Compliance Continuity Is the facility positioned to withstand due diligence without regulatory irregularities.
-
 4.
 
 Long Term Demand Stability Does demographic curvature provide predictable utilization profiles.

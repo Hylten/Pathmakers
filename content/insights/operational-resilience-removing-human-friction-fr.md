@@ -78,7 +78,6 @@ The M&A Battlefield. Friction Points That Break Deals There are only four catego
 1.
 
 Information friction.
-
 2.
 
 Decision friction.
@@ -86,7 +85,6 @@ Decision friction.
 3.
 
 Process friction.
-
 4.
 
 Character friction.

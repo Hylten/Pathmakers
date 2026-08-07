@@ -46,7 +46,6 @@ A sovereign approach recognizes three foundational realities.
 1.
 
 Mid-market valuation spreads remain inefficient because information asymmetry persists at the founder level.
-
 2.
 
 Energy transition policy and NAEOCC energy infrastructure investment accelerate fragmentation in critical asset classes such as distributed generation, specialty logistics, industrial field services, and grid adjacent infrastructure.
@@ -244,7 +243,7 @@ STEWARDSHIP FILTER Stewardship is not a marketing term.
 
 It is the architecture that determines whether capital becomes extractive or regenerative. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22*
+,  Proverbs 13:22*
 
 * speaks of the responsibility of generational capital.
 
@@ -303,7 +302,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The sovereign path is the disciplined pursuit of mid-market excellence.
 

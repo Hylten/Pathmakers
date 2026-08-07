@@ -268,7 +268,6 @@ The instrumentality is clear:
 1.
 
 Liquidity pools map directly to operational assets.
-
 2.
 
 TSA becomes optional instead of mandatory.
@@ -276,7 +275,6 @@ TSA becomes optional instead of mandatory.
 3.
 
 Working capital becomes predictable.
-
 4.
 
 Operational autonomy is achieved immediately.

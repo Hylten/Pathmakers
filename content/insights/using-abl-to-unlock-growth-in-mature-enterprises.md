@@ -240,7 +240,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Mature enterprises do not need rescue.
 
@@ -258,6 +258,6 @@ Pathmaker provides the principal authority that makes this possible.
 
 If you are evaluating acquisitions, carve outs, or the construction of a more resilient capital stack, the next
 
-### Step I: s simple. Book a strategic consultation.
+### Step is simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.

@@ -188,7 +188,6 @@ The stewardship filter operates across three layers:
 1.
 
 Capital Purity Liquidity is deployed to stabilise operations, not inflate valuations.
-
 2.
 
 Enterprise Continuity The business must remain operationally sound through the M&A cycle.

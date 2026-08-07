@@ -56,7 +56,6 @@ It is the result of three persistent forces:
 1.
 
 Capital efficiency has surpassed capital abundance as the primary determinant of competitive advantage.
-
 2.
 
 Buyers are reducing tolerance for post acquisition surprises.

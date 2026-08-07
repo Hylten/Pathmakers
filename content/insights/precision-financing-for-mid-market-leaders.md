@@ -176,7 +176,6 @@ Crypto assets with a minimum threshold of 2,000,
 000.
 
 Public share holdings with a minimum threshold of 5,000,
-
 000.
 
 This allows HNWI and UHNW operators to stay fully invested while still capturing time sensitive opportunities.

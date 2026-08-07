@@ -152,7 +152,6 @@ Four technical layers govern the discipline.
 1.
 
 Parameter anchoring Establishing hard data boundaries that frame valuation, earn out structures, post closing obligations, and timeline feasibility.
-
 2.
 
 Concession sequencing A predetermined hierarchy of negotiable and non negotiable items that protects the core value while allowing tactical flexibility.

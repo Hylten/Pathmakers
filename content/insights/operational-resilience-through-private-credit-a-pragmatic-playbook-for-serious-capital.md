@@ -73,7 +73,6 @@ The most common issues in healthcare carve outs include:
 1.
 
 Working capital gaps.
-
 2.
 
 Delays in claims processing.
@@ -81,7 +80,6 @@ Delays in claims processing.
 3.
 
 Vendor friction due to new credit identities.
-
 4.
 
 Payroll timing mismatches.

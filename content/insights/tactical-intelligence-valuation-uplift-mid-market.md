@@ -248,7 +248,6 @@ Every mid‑market exit contains three invisible battles:
 1.
 
 The battle for informational authority.
-
 2.
 
 The battle for narrative control.
@@ -398,7 +397,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The mid‑market seller using tactical intelligence is operating in a different league.
 

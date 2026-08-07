@@ -114,7 +114,6 @@ Mechanics include:
 3.
 
 Separation Protocols for Spin Offs Spin offs require a liquidity baseline at Day
-
 1.
 
 The parent entity must deliver a clean operational perimeter.

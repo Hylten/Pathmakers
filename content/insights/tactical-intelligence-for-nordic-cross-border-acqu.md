@@ -260,7 +260,7 @@ Velocity eliminates lag.
 
 The Intelligence Stack A disciplined acquirer deploys an Intelligence Stack built on six layers. Each
 
-### Layer I: s independent. Each reinforced by the next.
+### Layer is independent. Each reinforced by the next.
 
 ### Layer I:
 

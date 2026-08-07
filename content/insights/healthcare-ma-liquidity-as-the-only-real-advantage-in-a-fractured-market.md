@@ -362,7 +362,6 @@ We provide crypto Monetization Architecture above 2,000,
 000.
 
 We provide public share Strategic Collateralization above 5,000,
-
 000.
 
 This is capital engineered for transaction readiness.

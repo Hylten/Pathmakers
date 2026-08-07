@@ -80,7 +80,6 @@ In the mid-market, private credit solves four major issues:
 1.
 
 Liquidity gaps during acquisitions
-
 2.
 
 Delays between closing and operational stabilization
@@ -88,7 +87,6 @@ Delays between closing and operational stabilization
 3.
 
 Balance sheet optimization for tax and leverage
-
 4.
 
 Defensive capital to manage unexpected cycles The power is not in the rate.

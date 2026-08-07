@@ -75,7 +75,7 @@ Working Capital Precision Engineering
 
 Exit Architecture Alignment Each
 
-### Pillar I: s described with technical specificity. 1.
+### Pillar is described with technical specificity. 1.
 
 Asset Hardening Asset hardening converts operational assets into institutionally bankable collateral without compromising regulatory compliance or service continuity.
 

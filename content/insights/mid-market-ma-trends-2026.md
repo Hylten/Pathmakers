@@ -54,7 +54,6 @@ What Is Actually Moving in 2026
 1.
 
 Healthcare carve-outs that reduce administrative load for hospitals and large systems
-
 2.
 
 Industrial and logistics assets with recurring contracts
@@ -112,7 +111,6 @@ The Seller Mindset in 2026 Sellers in the mid-market are still digesting the rea
 1.
 
 They come to market with fully reconciled financials.
-
 2.
 
 They have a strong second layer of management.
@@ -164,7 +162,6 @@ What Makes Healthcare Carve-Outs Attractive
 1.
 
 High demand for services regardless of macro cycles
-
 2.
 
 Strong reimbursement visibility in regulated sub-sectors
@@ -301,7 +298,6 @@ Clean up customer concentration
 3.
 
 Document processes that live only in someone’s head
-
 4.
 
 Develop a transition plan that reduces buyer anxiety This is not conceptual.
@@ -337,7 +333,6 @@ This creates three major acquisition opportunities.
 1.
 
 Administrative services that are too costly to maintain internally
-
 2.
 
 Specialty clinics with uneven profitability

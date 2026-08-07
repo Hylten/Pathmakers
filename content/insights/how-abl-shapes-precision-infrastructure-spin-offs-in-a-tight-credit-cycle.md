@@ -178,7 +178,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Asset-Based Lending Is the Most Underestimated Advantage in Precision Infrastructure Spin-Offs Precision infrastructure rewards operators who understand friction.
 

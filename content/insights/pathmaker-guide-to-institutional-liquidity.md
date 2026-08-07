@@ -30,7 +30,6 @@ The institutional market entering 2026 exhibits three defining characteristics.
 1.
 
 A divergence between committed capital and deployable capital.
-
 2.
 
 A tightening of diligence thresholds driven by EU MiFID II firm acquisitions and compliance harmonization.
@@ -50,7 +49,6 @@ This system is shaped through five governing dynamics.
 1.
 
 Capital stack friction and the cost of latency between commitment and utilization.
-
 2.
 
 Yield to liquidity curves and the speed required for mid market operators conducting capital raising for mid market buyout programs.
@@ -58,7 +56,6 @@ Yield to liquidity curves and the speed required for mid market operators conduc
 3.
 
 The conversion reliability of off balance sheet assets under institutional scrutiny.
-
 4.
 
 The market depth of secondary buyers for capital efficient positions.
@@ -227,7 +224,7 @@ This sleeve is:
 
 - Enhanced through revenue participation corridors rather than rate based returns This configuration is attractive under the family's multi generational planning model and aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22*
+,  Proverbs 13:22*
 
 * regarding long horizon stewardship.
 
@@ -291,7 +288,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The Pathmaker Guide to Institutional Liquidity establishes one foundational truth.
 

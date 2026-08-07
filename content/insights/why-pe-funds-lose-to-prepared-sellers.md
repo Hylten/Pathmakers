@@ -78,7 +78,6 @@ Each anchor is lethal.
 1.
 
 The prepared seller removes ambiguity before the buyer sees the first document.
-
 2.
 
 The prepared seller anticipates every diligence question before it is asked.
@@ -341,7 +340,6 @@ INTERNAL RECOMMENDATION FOR PATHMAKER CLIENTS When preparing for a mid‑market 
 1.
 
 Architect the narrative before architecting the data room.
-
 2.
 
 Validate numbers before exposing them.
@@ -349,7 +347,6 @@ Validate numbers before exposing them.
 3.
 
 Build momentum before inviting competition.
-
 4.
 
 Maintain control over every variable that impacts valuation.

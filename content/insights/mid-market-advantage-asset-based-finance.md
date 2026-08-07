@@ -140,7 +140,6 @@ They are accessed through network intelligence, regulatory adjacency, or balance
 1.
 
 Operational Adjacency Service providers, suppliers, logistics partners, and specialist operators often know before anyone else that a company is preparing for expansion, recapitalization, or exit restructuring.
-
 2.
 
 Capital Inefficiency Monitoring When a business continues operating under low leverage despite high asset density, it signals an institutional readiness gap.
@@ -236,7 +235,6 @@ The decision architecture consists of three filters.
 1.
 
 Does the enterprise have asset density that can be institutionalized.
-
 2.
 
 Can the balance sheet be optimized without equity dilution.

@@ -24,7 +24,6 @@ THE REGIME SHIFT Niche markets within Europe and North America are experiencing 
 1.
 
 Capital migration toward simplified underwriting environments.
-
 2.
 
 Persistent valuation disconnects within owner operated mid market companies.
@@ -124,7 +123,6 @@ The waterfall prioritizes:
 1.
 
 Senior ABL coverage.
-
 2.
 
 Operational continuity capital.
@@ -132,7 +130,6 @@ Operational continuity capital.
 3.
 
 Acquisition reserve formation.
-
 4.
 
 Equity enhancement only after structural stability is secured.

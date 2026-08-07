@@ -158,7 +158,6 @@ Crypto Capital Structuring begins at 2,000,
 000.
 
 Public share Strategic Collateralization begins at 5,000,
-
 000.
 
 These are not retail facilities.

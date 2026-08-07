@@ -228,7 +228,6 @@ Stewardship in the mid-market context is expressed through:
 1.
 
 Discipline in operational systems.
-
 2.
 
 Clarity in leadership commitments.
@@ -236,7 +235,6 @@ Clarity in leadership commitments.
 3.
 
 Documented financial transparency.
-
 4.
 
 Avoidance of unnecessary leverage.
@@ -270,7 +268,6 @@ The decision maker must evaluate three core questions.
 1.
 
 Does the enterprise meet the institutional archetype.
-
 2.
 
 Does the owner possess clarity on the liquidity horizon.

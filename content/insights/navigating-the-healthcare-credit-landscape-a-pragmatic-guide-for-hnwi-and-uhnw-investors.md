@@ -214,7 +214,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Navigating the healthcare credit landscape requires realism, discipline, and liquidity structures that can withstand operational volatility.
 

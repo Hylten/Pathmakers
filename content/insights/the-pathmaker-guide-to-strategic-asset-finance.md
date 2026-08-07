@@ -52,7 +52,6 @@ Strategic asset finance at Pathmaker is built on three principles:
 1.
 
 Liquidity must be available before the opportunity.
-
 2.
 
 Collateral must be rational, not sentimental.
@@ -160,7 +159,6 @@ Pathmaker’s clients typically come from four categories:
 1.
 
 Operators preparing for a carve out or acquisition.
-
 2.
 
 Principals managing multi asset portfolios with complex liquidity needs.
@@ -168,7 +166,6 @@ Principals managing multi asset portfolios with complex liquidity needs.
 3.
 
 Investors holding significant crypto or equity positions who prefer leverage to liquidation.
-
 4.
 
 Family offices that need a silent capital partner who understands institutional mechanics.
@@ -192,7 +189,6 @@ We focus on:
 1.
 
 Asset isolation.
-
 2.
 
 Collateral verification.
@@ -200,14 +196,13 @@ Collateral verification.
 3.
 
 Documentation reconstruction.
-
 4.
 
 Transaction pacing.
 
 Each
 
-### Step I: s vital. Each
+### Step is vital. Each
 
 ## Step D etermines whether the deal survives diligence or collapses under its own weight.
 
@@ -232,7 +227,6 @@ With clear liquidity lines, a buyer can:
 1.
 
 Lock a deal before competitors mobilize.
-
 2.
 
 Negotiate without appearing desperate.
@@ -240,7 +234,6 @@ Negotiate without appearing desperate.
 3.
 
 Move through diligence without delay.
-
 4.
 
 Absorb surprises during closing.

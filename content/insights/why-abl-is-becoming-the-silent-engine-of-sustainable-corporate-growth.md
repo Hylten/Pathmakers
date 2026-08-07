@@ -186,7 +186,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Asset-Based Lending Is the Architecture of Sustainable Growth If the last decade taught operators anything, it is that growth requires more than vision.
 

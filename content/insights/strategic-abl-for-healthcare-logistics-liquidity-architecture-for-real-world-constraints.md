@@ -149,7 +149,7 @@ Pathmaker builds the capital structures that allow operators and principals to m
 
 If you need to architect liquidity that can withstand the realities of healthcare logistics, carve outs, and mid market consolidation, the next
 
-### Step I: s simple. Book a strategic consultation.
+### Step is simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.
 

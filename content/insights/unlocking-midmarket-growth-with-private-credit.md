@@ -128,7 +128,6 @@ Liquidity for High Net Worth and Ultra High Net Worth Investors HNWI and UHNW in
 1.
 
 Their portfolios contain non‑traditional assets.
-
 2.
 
 Their opportunities move faster than traditional Institutional Liquidity Paths structures allow.

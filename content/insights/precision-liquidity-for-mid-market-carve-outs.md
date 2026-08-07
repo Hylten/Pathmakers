@@ -268,7 +268,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Precision Liquidity Is the Competitive Edge Carve-outs do not reward hesitation.
 

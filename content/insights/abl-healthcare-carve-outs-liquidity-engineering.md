@@ -157,7 +157,7 @@ This protects both buyer and seller from post transaction disruptions.
 
 THE STEWARDSHIP ARCHITECTURE
 
-Stewardship in institutional finance represents the disciplined management of assets specifically to ensure the continuity of essential services—recognizing that operators are stewards of resources affecting human welfare.
+Stewardship in institutional finance represents the disciplined management of assets specifically to ensure the continuity of essential services, recognizing that operators are stewards of resources affecting human welfare.
 
 A capital framework that enhances operational continuity supports the Biblical principle of responsible resource management found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
@@ -168,7 +168,6 @@ Stewardship filters within Asset-Based Lending-backed carve-outs include:
 1.
 
 Preservation of Clinical Continuity Liquidity stability protects patient care by avoiding operational interruptions.
-
 2.
 
 Non Wasteful Asset Allocation Equipment and receivable audits reduce capital leakage and unnecessary duplication.
@@ -176,7 +175,6 @@ Non Wasteful Asset Allocation Equipment and receivable audits reduce capital lea
 3.
 
 Ethical Separation A clean carve-out ensures accurate payer relationships and compliant billing cycles.
-
 4.
 
 Operational Integrity Transparent asset ownership protects both workforce stability and regulatory adherence.
@@ -190,15 +188,12 @@ DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating healthca
 Operators that pre engineer a carve-out with disciplined liquidity structures demonstrate:
 
 1. predictable receivable dynamics
-
 2. hardened collateral controls
 
 3. transparent asset boundaries
-
 4. reduced integration friction
 
 5. enhanced exit optionality
-
 6. faster closing cycles Serious operators use Asset-Based Lending not as leverage for expansion but as a method for financial clarity and timing precision.
 
 This aligns with the increasing institutional preference for asset anchored stability in healthcare transactions.

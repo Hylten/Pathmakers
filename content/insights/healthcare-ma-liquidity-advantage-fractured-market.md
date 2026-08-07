@@ -240,7 +240,6 @@ Pathmaker in healthcare M&A requires five pillars:
 1.
 
 Liquidity channels that bypass traditional lender sequencing.
-
 2.
 
 Underwriting intelligence built on vertical-specific metrics.
@@ -248,7 +247,6 @@ Underwriting intelligence built on vertical-specific metrics.
 3.
 
 Off‑market sourcing that avoids competitive devaluation.
-
 4.
 
 Exit readiness frameworks that remove diligence volatility.

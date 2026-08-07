@@ -251,7 +251,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Complex corporate structures are not liabilities.
 

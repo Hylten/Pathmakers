@@ -50,7 +50,6 @@ Our focus is on:
 000.
 
 - Public share Capital Structuring starting at 5,000,
-
 000.
 
 - Transactional support for mid market M&A and healthcare carve outs where timing is survival.

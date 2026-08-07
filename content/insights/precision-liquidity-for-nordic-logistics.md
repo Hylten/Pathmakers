@@ -44,7 +44,6 @@ The Mid‑Market Logistics Profile: Strong Assets, Tight Liquidity The majority 
 1.
 
 Temperature controlled and cold chain logistics.
-
 2.
 
 Cross dock and regional freight consolidation.
@@ -126,7 +125,6 @@ We offer crypto Capital Structuring with a minimum threshold of 2,000,
 000.
 
 We offer public share Capital Structuring with a minimum threshold of 5,000,
-
 000.
 
 These tools are not gimmicks.
@@ -286,7 +284,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The Operators Who Win Are the Operators Who Move The Nordic logistics sector rewards execution.
 

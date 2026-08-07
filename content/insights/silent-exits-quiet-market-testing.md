@@ -338,7 +338,6 @@ THE NEW REALITY
 1.
 
 The public market of intermediated deals-competitive, noisy, overbuilt, and often mispriced.
-
 2.
 
 The private market of silent exits-direct, intelligent, discreet, and controlled.

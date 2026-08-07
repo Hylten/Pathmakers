@@ -84,7 +84,6 @@ THE SHIFT: WHY PROACTIVE DILIGENCE IS NOW A WEAPON
 1.
 
 The explosion of private data.
-
 2.
 
 The compression of buyer bandwidth.
@@ -317,7 +316,6 @@ Founders using AI‑first credit and M&A architecture gain four advantages:
 1.
 
 They restructure their data faster than buyers expect.
-
 2.
 
 They automate document mapping, financial reconciliation, and customer analysis.
@@ -325,7 +323,6 @@ They automate document mapping, financial reconciliation, and customer analysis.
 3.
 
 They build repeatable patterns across multiple scenarios.
-
 4.
 
 They eliminate human bottlenecks in preparing for a sale.

@@ -124,7 +124,6 @@ The model includes:
 1.
 
 Tactical intelligence on buyer universes Identification of strategic acquirers and financial sponsors whose mandate, execution speed, and operational capability match the division being divested.
-
 2.
 
 Cross-border transaction sequencing Most corporate sellers underestimate the sequencing risk inherent in carve-outs.
@@ -180,7 +179,6 @@ If maturity is low, liquidity engineering is required.
 2.
 
 Transitional Cost Volatility Higher volatility requires specialized credit rather than traditional corporate financing.
-
 3.
 
 Complexity of Jurisdictional Overlap The more countries involved, the greater the need for structured introductions and operational intelligence.

@@ -204,7 +204,6 @@ Allocator Decision Lens And Portfolio Calibration Cross border Nordic M&A requir
 1.
 
 Assess operational maturity before financial negotiation.
-
 2.
 
 Validate cultural compatibility and leadership continuity.
@@ -212,7 +211,6 @@ Validate cultural compatibility and leadership continuity.
 3.
 
 Confirm regulatory clarity and compliance documentation.
-
 4.
 
 Map integration timelines with realistic post close expectations.

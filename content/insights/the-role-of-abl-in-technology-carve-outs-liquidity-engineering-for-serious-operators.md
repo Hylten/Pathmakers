@@ -294,7 +294,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Asset-Based Lending Is the Structural Advantage Serious Buyers Need Technology carve-outs are complicated, resource-intensive, and always more expensive than the models suggest.
 

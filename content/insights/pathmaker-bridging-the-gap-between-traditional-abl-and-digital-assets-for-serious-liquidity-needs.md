@@ -178,7 +178,6 @@ Intelligent liquidity facility to value calibration
 3.
 
 Multi asset Strategic Collateralization capacity across private credit, digital assets, and public equity
-
 4.
 
 Speed that does not compromise discipline
@@ -276,7 +275,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Liquidity is a strategic weapon.
 

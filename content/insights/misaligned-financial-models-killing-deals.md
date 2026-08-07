@@ -274,7 +274,6 @@ Four interventions restore alignment:
 1.
 
 Re-engineer the model to reflect actual revenue geometry.
-
 2.
 
 Translate operational behavior into financial repeatability.
@@ -282,7 +281,6 @@ Translate operational behavior into financial repeatability.
 3.
 
 Stress‑test capital stack compatibility from the buyer’s vantage.
-
 4.
 
 Rebuild the runway narrative so the model becomes the inevitable output of the company’s operating truth.

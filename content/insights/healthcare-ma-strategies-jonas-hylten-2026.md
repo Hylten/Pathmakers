@@ -367,7 +367,7 @@ For allocators, the lens focuses on:
 
 The next
 
-### Step I: s not deal execution. The next
+### Step is not deal execution. The next
 
 ### Step I:
 

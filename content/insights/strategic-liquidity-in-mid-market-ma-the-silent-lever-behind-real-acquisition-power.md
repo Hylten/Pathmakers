@@ -200,7 +200,6 @@ Crypto Capital Structuring with a minimum of 2,000,
 000.
 
 Public Share Monetization Architecture with a minimum of 5,000,
-
 000.
 
 These tools create strategic liquidity.
@@ -216,7 +215,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The Investors Who Control Liquidity Control the Market The mid‑market will always reward the buyer who arrives prepared.
 

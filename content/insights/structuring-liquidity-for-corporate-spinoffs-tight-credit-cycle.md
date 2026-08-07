@@ -48,7 +48,6 @@ Complex spinoffs are impacted disproportionately because uncertainty compounds a
 3.
 
 Off balance sheet opacity is now penalized What was tolerated in 2019 is rejected in
-
 2026.
 
 Intercompany loans, undefined transfer pricing, and unsecured related party receivables are triggers for prolonged due diligence or complete withdrawal of buyers.
@@ -238,7 +237,6 @@ PORTFOLIO CALIBRATION LENS FOR ALLOCATORS The allocator evaluating a spinoff mus
 1.
 
 Liquidity availability Does the entity have ring fenced liquidity structures that function independently of the parent?
-
 2.
 
 Operational autonomy Can the enterprise operate with discipline, efficiency, and clarity without legacy infrastructure?
@@ -246,7 +244,6 @@ Operational autonomy Can the enterprise operate with discipline, efficiency, and
 3.
 
 Asset hardened balance sheet Are the assets clean, clearly owned, and institutionally recognizable?
-
 4.
 
 Opportunity velocity Is the entity positioned to execute quickly without protracted integration or detangling requirements?

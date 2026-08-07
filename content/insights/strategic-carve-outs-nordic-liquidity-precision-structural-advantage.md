@@ -481,7 +481,6 @@ The Pathmaker frame asks three questions:
 1.
 
 What friction must be neutralized?
-
 2.
 
 What liquidity can be manufactured?
@@ -569,7 +568,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 THE NORDIC ADVANTAGE Nordic carve-outs generate alpha when engineered with liquidity logic, precision discipline, and structural design.
 

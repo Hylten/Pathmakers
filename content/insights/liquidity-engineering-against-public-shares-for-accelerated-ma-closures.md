@@ -95,7 +95,7 @@ It maintains principal authority in every transaction.
 
 For principals who understand that liquidity is the keystone of execution, the next
 
-### Step I: s simple. Book a strategic consultation.
+### Step is simple. Book a strategic consultation.
 
 Access is restricted to approved mandates.
 

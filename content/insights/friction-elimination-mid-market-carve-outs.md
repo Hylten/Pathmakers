@@ -232,7 +232,6 @@ DECISION MAKING LENS FOR THE ALLOCATOR For buyers and allocators, the strategic 
 1.
 
 The cleanest assets move first.
-
 2.
 
 The most prepared assets attract the highest quality buyers.
@@ -240,7 +239,6 @@ The most prepared assets attract the highest quality buyers.
 3.
 
 The lowest friction assets achieve the most stable valuations.
-
 4.
 
 The operationally clarified assets deliver the fastest completion cycles.

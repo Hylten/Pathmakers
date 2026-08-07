@@ -158,7 +158,6 @@ The institutionally aligned partnership model focuses on three core functions:
 1.
 
 Market Navigation Understanding buyer mandates, acquisition philosophies, and integration capacities enables accurate mapping between sellers and the institutional archetypes most aligned with their operational profile.
-
 2.
 
 Operational Intelligence Technical verification, financial normalization, owner dependency elimination, and documentation structuring ensure that the seller's operational footprint aligns with the buyer's diligence expectations.

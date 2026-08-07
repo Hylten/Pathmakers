@@ -56,7 +56,6 @@ This fragmentation creates three forms of friction.
 1.
 
 Structural friction.
-
 2.
 
 Control friction.
@@ -104,7 +103,6 @@ Asset hardening focuses on five pillars:
 1.
 
 Ownership integrity.
-
 2.
 
 Covenant accounting.
@@ -112,7 +110,6 @@ Covenant accounting.
 3.
 
 Operational separation.
-
 4.
 
 Documentation continuity.

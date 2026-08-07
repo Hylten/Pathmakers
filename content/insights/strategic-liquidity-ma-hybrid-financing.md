@@ -506,7 +506,6 @@ Architecture beats instrument.
 1.
 
 Closing Certainty Fast liquidity eliminates seller doubts.
-
 2.
 
 Valuation Alignment Sellers maintain headline price.
@@ -516,7 +515,6 @@ Buyers maintain risk protection.
 3.
 
 Timeline Compression Reduce months to weeks.
-
 4.
 
 Competitive Advantage Competitors using traditional banks lose speed instantly.

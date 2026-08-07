@@ -142,7 +142,6 @@ Asset‑based lending accelerates exit readiness in three primary ways:
 1.
 
 It replaces expensive unsecured debt, restoring EBITDA optics.
-
 2.
 
 It creates predictable liquidity corridors, enhancing buyer confidence.

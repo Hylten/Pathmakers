@@ -84,7 +84,6 @@ We do that through three mechanisms.
 1.
 
 Pre‑emptive data integrity audits
-
 2.
 
 Deal‑flow filtration and refinement
@@ -160,7 +159,6 @@ Legacy M&A Order:
 1.
 
 Banker enters too early
-
 2.
 
 Valuation inflates too quickly
@@ -168,7 +166,6 @@ Valuation inflates too quickly
 3.
 
 Buyer engagement begins too broadly
-
 4.
 
 Diligence overwhelms founders 5.
@@ -178,7 +175,6 @@ Trust fractures under pressure
 6.
 
 Time erodes deal value
-
 7.
 
 The market punishes the gap between narrative and reality Reconstruction M&A Order:
@@ -186,7 +182,6 @@ The market punishes the gap between narrative and reality Reconstruction M&A Ord
 1.
 
 Build exit‑readiness architecture first
-
 2.
 
 Remove friction buried in the operational base
@@ -200,7 +195,6 @@ Perform analyst‑tier filtration on financials, ops, compliance, and customer c
 5.
 
 Originate off‑market acquirers based on psychographic and structural fit
-
 6.
 
 Only then introduce buyers

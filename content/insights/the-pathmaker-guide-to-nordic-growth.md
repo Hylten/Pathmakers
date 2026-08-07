@@ -318,7 +318,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Nordic Growth Belongs to the Prepared The Nordic region is not a playground for speculative capital.
 

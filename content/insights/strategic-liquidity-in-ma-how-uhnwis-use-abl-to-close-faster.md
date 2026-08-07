@@ -198,7 +198,6 @@ Asset-Based Lending:
 1.
 
 Use Asset-Based Lending to close.
-
 2.
 
 Bring in private credit

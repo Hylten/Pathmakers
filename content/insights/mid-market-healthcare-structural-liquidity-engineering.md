@@ -237,7 +237,6 @@ DECISION MAKING LENS FOR THE ALLOCATOR Allocators evaluating the mid-market heal
 1.
 
 Liquidity Architecture Is the operator’s balance sheet engineered for growth, or constrained by short-term debt cycles.
-
 2.
 
 Operational Maturity Are systems standardized across sites and ready for institutional diligence.
@@ -245,7 +244,6 @@ Operational Maturity Are systems standardized across sites and ready for institu
 3.
 
 Regulatory Stability Is compliance consistent, scalable, and audit ready across jurisdictions.
-
 4.
 
 Acquisition Integration Potential Can the operator absorb and harmonize new clinics or service lines without destabilizing the base business.

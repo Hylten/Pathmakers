@@ -247,7 +247,7 @@ Allocators who understand this dynamic gain access to:
 
 - Non-sponsored companies with strong fundamentals and limited bank access The correct next
 
-### Step I: s not capital deployment. It is clarity.
+### Step is not capital deployment. It is clarity.
 
 A confidential portfolio calibration or strategy audit creates the visibility required to identify which borrower archetypes align with the allocator’s mandate, risk posture, and temporal horizon.
 

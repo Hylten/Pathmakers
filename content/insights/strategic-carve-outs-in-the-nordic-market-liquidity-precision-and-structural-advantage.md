@@ -218,7 +218,6 @@ The Strategic Blueprint for a High Performing Carve-Out Success comes from disci
 1.
 
 Validate operational viability, not marketing gloss.
-
 2.
 
 Model the liquidity needs through the entire TSA period.
@@ -226,7 +225,6 @@ Model the liquidity needs through the entire TSA period.
 3.
 
 Build an Asset-Based Lending foundation that stabilizes early turbulence.
-
 4.
 
 Add private credit for expansion, integration, or opportunistic scaling.
@@ -234,7 +232,6 @@ Add private credit for expansion, integration, or opportunistic scaling.
 5.
 
 Maintain silent capital posture.
-
 6.
 
 Avoid narrative inflation.

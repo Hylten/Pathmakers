@@ -64,7 +64,6 @@ Three conditions form the covenant:
 1.
 
 Clean throughput: Revenue-level truth that reconciles to cash every month without drama.
-
 2.
 
 Cohort stability: Customers behave predictably and profitably across time slices, not mood.
@@ -300,7 +299,6 @@ A company preparing for an exit must assume three realities:
 1.
 
 The buyer will attempt to control the narrative.
-
 2.
 
 The buyer will attempt to redefine the forecast.
@@ -356,7 +354,6 @@ Margin Leverage Signaling An acquirer buys two things:
 1.
 
 Your current state.
-
 2.
 
 The leverage you hand them on day one.

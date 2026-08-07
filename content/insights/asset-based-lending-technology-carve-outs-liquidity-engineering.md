@@ -205,7 +205,6 @@ This visibility becomes part of the governance discipline.
 3.
 
 Precision deployment Liquidity is used to build operational sovereignty rather than inflate valuation narratives.
-
 4.
 
 Long-term operational integrity Clean asset structures and autonomous systems create durable enterprise resilience, protecting both workforce and capital partners.

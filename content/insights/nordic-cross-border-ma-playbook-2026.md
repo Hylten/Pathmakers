@@ -244,7 +244,6 @@ Operational Hardening The buyer deploys a three wave integration plan:
 1.
 
 Infrastructure modernization of the target's software architecture using German cybersecurity protocols.
-
 2.
 
 Harmonization of service pricing models across the Nordic and German markets.
@@ -289,7 +288,7 @@ Stewardship means the investor becomes temporary caretaker of a mission critical
 
 Accountability to both capital and community defines long term returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22*
+,  Proverbs 13:22*
 
 * .
 
@@ -322,7 +321,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 Nordic cross border M and A has entered a new structural phase.
 

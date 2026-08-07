@@ -248,7 +248,6 @@ The decision lens focuses on the following elements.
 1.
 
 Collateral eligibility Is the organisation aware of the real collateral value distributed across its entities.
-
 2.
 
 Capital stack calibration Does the current financing architecture reflect asset durability, or is the business paying a complexity premium.
@@ -262,7 +261,6 @@ Businesses with clean structural documentation transact at materially higher mul
 4.
 
 Opportunity velocity Can the organisation move fast enough when a strategic acquisition or off market opportunity emerges.
-
 5.
 
 Governance discipline Is the organisation operating with stewardship, or is administrative entropy consuming value.

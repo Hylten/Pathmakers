@@ -226,7 +226,6 @@ The following criteria guide this evaluation.
 1.
 
 Institutional Legibility Is the company immediately understandable without founder translation.
-
 2.
 
 Diligence Velocity Can the company survive a 90-day diligence cycle without operational disruption.
@@ -234,7 +233,6 @@ Diligence Velocity Can the company survive a 90-day diligence cycle without oper
 3.
 
 Capital Architecture Does the balance sheet reflect discipline rather than improvisation.
-
 4.
 
 Off-Market Alignment Does the enterprise possess access to strategic counterparties that operate outside competitive auction processes.

@@ -122,7 +122,6 @@ A strong carve‑out Asset-Based Lending structure does four things:
 1.
 
 Extracts latent liquidity from the target division without contaminating the parent entity’s capital stack.
-
 2.
 
 Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution.
@@ -130,7 +129,6 @@ Funds the separation mechanics-standalone systems, compliance frameworks, payrol
 3.
 
 Straightens reporting lines so that an acquirer sees the asset, not the chaos.
-
 4.
 
 Creates the conditions for exit readiness before the LOI lands.

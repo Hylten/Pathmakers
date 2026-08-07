@@ -357,7 +357,6 @@ Mandates.
 1.
 
 Codify every compliance process.
-
 2.
 
 Harden payer and referrer contracts into institution grade agreements.
@@ -365,7 +364,6 @@ Harden payer and referrer contracts into institution grade agreements.
 3.
 
 Build a labor model with forward visibility and governance.
-
 4.
 
 Replace technology fragmentation with integrated operational infrastructure.
@@ -373,7 +371,6 @@ Replace technology fragmentation with integrated operational infrastructure.
 5.
 
 Construct a leadership layer that can operate without the founder.
-
 6.
 
 Produce a QofE architecture that can withstand aggressive institutional analysis.
@@ -465,7 +462,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 . The 2026 Reality Healthcare deals are collapsing because sellers enter the battlefield unprepared for the standards of institutional acquisition.
 

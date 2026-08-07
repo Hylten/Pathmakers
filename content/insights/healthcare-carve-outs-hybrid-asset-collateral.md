@@ -226,7 +226,6 @@ The allocator must examine:
 1.
 
 The operational independence of the unit post carve-out.
-
 2.
 
 The realism of the collateral matrix.
@@ -234,7 +233,6 @@ The realism of the collateral matrix.
 3.
 
 The durability of revenue streams.
-
 4.
 
 The regulatory compliance posture.

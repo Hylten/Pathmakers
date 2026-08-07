@@ -38,7 +38,6 @@ Across Europe and North America, the mid market is experiencing four structural 
 1.
 
 Regulatory tightening has raised effective capital costs regardless of headline rates.
-
 2.
 
 Liquidity pools have migrated toward private credit vehicles with institutional seniority requirements that conflict with legacy debt stacks.
@@ -46,7 +45,6 @@ Liquidity pools have migrated toward private credit vehicles with institutional 
 3.
 
 Banks have shifted from relationship based credit to risk model based credit, reducing underwriting flexibility.
-
 4.
 
 M&A markets have compressed into two categories: operationally fortified enterprises and everything else.
@@ -176,7 +174,6 @@ The stewardship framework has four components:
 1.
 
 Preservation Maintenance of operational continuity through liquidity reserves and efficient capital structures.
-
 2.
 
 Accountability Transparent reporting systems and institutional governance.
@@ -184,7 +181,6 @@ Accountability Transparent reporting systems and institutional governance.
 3.
 
 Multiplication Deployment of capital into opportunities that expand enterprise durability and competitiveness.
-
 4.
 
 Legacy Preparation for eventual transition, sale, or generational transfer.
@@ -217,7 +213,7 @@ This briefing provides the operational mechanics.
 
 The next
 
-### Step I: s structural mapping. Access is restricted to approved mandates.
+### Step is structural mapping. Access is restricted to approved mandates.
 
 TECHNICAL MANDATE
 

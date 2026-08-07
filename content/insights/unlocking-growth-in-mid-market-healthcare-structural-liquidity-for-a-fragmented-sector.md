@@ -60,7 +60,7 @@ Access is restricted to approved mandates.
 
 Minimum target size: $5M+.
 
-## Conclusion
+## Summary
 
 The Future of Mid-Market Healthcare Belongs to the Prepared Mid-market healthcare is entering a consolidation cycle that will define the next decade.
 

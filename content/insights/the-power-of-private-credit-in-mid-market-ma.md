@@ -66,7 +66,6 @@ This means three things for serious acquirers:
 1.
 
 Capital reliability.
-
 2.
 
 Underwriting that aligns with asset realities.
@@ -210,7 +209,6 @@ And rational capital requires three conditions:
 1.
 
 Clear collateral.
-
 2.
 
 Aligned underwriting.

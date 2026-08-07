@@ -232,7 +232,6 @@ The following decision lens clarifies when ABL is strategically appropriate:
 1.
 
 Is the acquisition timeline compressed by seller preference or competitive tension
-
 2.
 
 Does the target possess a stable and verifiable collateral base
@@ -240,7 +239,6 @@ Does the target possess a stable and verifiable collateral base
 3.
 
 Does the buyer have diversified assets that can expand the borrowing base
-
 4.
 
 Is liquidity certainty more valuable in negotiation than headline valuation
@@ -248,7 +246,6 @@ Is liquidity certainty more valuable in negotiation than headline valuation
 5.
 
 Are operational integration timelines aligned with short term liquidity needs
-
 6.
 
 Will the addition of an ABL facility enhance negotiation leverage without exceeding stewardship constraints When these conditions align, ABL becomes a velocity amplifier.

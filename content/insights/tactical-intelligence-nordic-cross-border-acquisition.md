@@ -507,7 +507,6 @@ Nordic assets exit cleanly when three conditions align:
 1.
 
 Operational visibility is high.
-
 2.
 
 Governance friction is low.

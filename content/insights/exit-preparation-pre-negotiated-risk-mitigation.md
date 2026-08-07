@@ -308,7 +308,6 @@ We reduce the exit to its deterministic elements:
 1.
 
 Define the risk architecture
-
 2.
 
 Engineer the mitigations 3.

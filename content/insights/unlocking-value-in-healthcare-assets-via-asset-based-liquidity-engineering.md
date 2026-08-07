@@ -52,7 +52,6 @@ The Mid‑Market Healthcare Carve Out: Where Liquidity Breaks and Where Asset-Ba
 1.
 
 Units that no longer fit strategy but generate respectable cash flow.
-
 2.
 
 Units that need infrastructure upgrades that the parent will not fund.

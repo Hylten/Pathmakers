@@ -148,7 +148,6 @@ In the logistics context, stewardship manifests in four behaviors.
 1.
 
 Avoidance of capital waste Operators must deploy liquidity where it enhances platform durability rather than inflating discretionary expansion.
-
 2.
 
 Alignment with operational truth Balance sheets should reflect actual operational conditions, not constructed narratives designed for temporary valuation benefits.
@@ -156,7 +155,6 @@ Alignment with operational truth Balance sheets should reflect actual operationa
 3.
 
 Transparency as a governance standard Operators must adopt transparent structures that allow institutional investors to quantify risk and durability.
-
 4.
 
 Priority on long horizon sustainability Short term window dressing weakens acquisition outcomes.

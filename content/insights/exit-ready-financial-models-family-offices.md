@@ -86,7 +86,6 @@ A Family Office today sits under five invisible constraints:
 1.
 
 Cross‑generation accountability: Every investment must survive scrutiny from heirs who did not approve the deal.
-
 2.
 
 Liquidity conversion risk: A company that cannot exit smoothly becomes a balance‑sheet parasite.
@@ -98,7 +97,6 @@ A governance headache.
 3.
 
 M&A buyer‑unreadiness: Most founders do not present a model that a second buyer can use without re‑engineering.
-
 4.
 
 Timeline compression: When the next liquidity cycle turns, assets must be sale‑ready or they are stranded.
@@ -202,7 +200,6 @@ The model must answer the following institutional questions with mechanical prec
 1.
 
 What exact components of EBITDA expansion are buyer‑validated versus owner‑dependent?
-
 2.
 
 How do the cash conversion mechanics behave under an accelerated due‑diligence timeline?
@@ -210,7 +207,6 @@ How do the cash conversion mechanics behave under an accelerated due‑diligence
 3.
 
 Which revenue segments command the highest terminal multiple and which dilute it?
-
 4.
 
 What normalizations will a private equity buyer dispute?
@@ -220,7 +216,6 @@ And which ones will survive diligence?
 5.
 
 What is the free cash flow behavior under a strategic buyer versus a PE roll‑up buyer?
-
 6.
 
 How does the working capital delta behave through the sale?
