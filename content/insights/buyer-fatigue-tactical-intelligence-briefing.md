@@ -117,7 +117,7 @@ Now the question is: what dissolves opacity?
 
 Tactical Intelligence.
 
-True Tactical Intelligence does not “improve the pitch.” It eliminates the structural ambiguity that creates buyer fatigue in the first place.
+True Tactical Intelligence does not “improve the pitch.” It removes the structural ambiguity that creates buyer fatigue in the first place.
 
 It reshapes the buyer’s entire decision-making environment.
 
@@ -320,24 +320,8 @@ Clarity rescues them.
 
 Architecture multiplies them.
 
-## The final brief
-
-Buyer fatigue is not a mood. It is a structural signal.
-
-And structural signals reveal opportunity.
-
-Where fatigue rises, disciplined intelligence thrives.
-
-Where buyers retreat, architects advance.
-
-Where noise expands, clarity wins.
-
-The Analyst Team sees the shift clearly: This is not a slowdown.
-
-This is a filtration.
-
-Only the prepared move forward.
-
 If you are preparing for an exit, or building an acquisition pipeline that avoids the fatigue economy altogether, request a tactical consultation.
 
-Access is restricted to approved mandates.
+## Summary
+
+Buyer fatigue is not a mood. It is a structural signal. And structural signals reveal opportunity. Where fatigue rises, disciplined intelligence thrives. Where buyers retreat, architects advance. Where noise expands, clarity wins. The Analyst Team sees the shift clearly: this is not a slowdown. It is a filtration, and only the prepared move forward.
