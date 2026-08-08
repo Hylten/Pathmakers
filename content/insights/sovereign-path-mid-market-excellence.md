@@ -231,14 +231,12 @@ Discipline in operational systems.
 2.
 
 Clarity in leadership commitments.
-
 3.
 
 Documented financial transparency.
 4.
 
 Avoidance of unnecessary leverage.
-
 5.
 
 Preservation of cultural identity during institutionalization.
@@ -271,7 +269,6 @@ Does the enterprise meet the institutional archetype.
 2.
 
 Does the owner possess clarity on the liquidity horizon.
-
 3.
 
 Does the organization demonstrate operational durability under scaled conditions.

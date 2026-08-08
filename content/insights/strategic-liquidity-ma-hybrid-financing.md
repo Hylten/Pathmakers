@@ -518,7 +518,6 @@ Timeline Compression Reduce months to weeks.
 4.
 
 Competitive Advantage Competitors using traditional banks lose speed instantly.
-
 5.
 
 Integration Liquidity Post-close performance rises when integration is funded.

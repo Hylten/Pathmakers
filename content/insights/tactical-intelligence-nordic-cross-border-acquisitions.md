@@ -207,14 +207,12 @@ Assess operational maturity before financial negotiation.
 2.
 
 Validate cultural compatibility and leadership continuity.
-
 3.
 
 Confirm regulatory clarity and compliance documentation.
 4.
 
 Map integration timelines with realistic post close expectations.
-
 5.
 
 Engage with Tactical Intelligence for a Confidential Strategy Audit.

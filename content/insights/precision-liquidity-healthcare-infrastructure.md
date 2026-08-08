@@ -209,14 +209,12 @@ Liquidity Architecture Does the operator possess a balance sheet capable of inst
 2.
 
 Operational Coherence Are data systems unified, audited, and transaction ready.
-
 3.
 
 Compliance Continuity Is the facility positioned to withstand due diligence without regulatory irregularities.
 4.
 
 Long Term Demand Stability Does demographic curvature provide predictable utilization profiles.
-
 5.
 
 Exit Optionality Is the operator aligned with private credit, strategic buyers, or infrastructure funds.

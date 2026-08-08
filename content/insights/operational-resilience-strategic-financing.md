@@ -41,7 +41,6 @@ Regulatory tightening has raised effective capital costs regardless of headline 
 2.
 
 Liquidity pools have migrated toward private credit vehicles with institutional seniority requirements that conflict with legacy debt stacks.
-
 3.
 
 Banks have shifted from relationship based credit to risk model based credit, reducing underwriting flexibility.
@@ -177,7 +176,6 @@ Preservation Maintenance of operational continuity through liquidity reserves an
 2.
 
 Accountability Transparent reporting systems and institutional governance.
-
 3.
 
 Multiplication Deployment of capital into opportunities that expand enterprise durability and competitiveness.

@@ -171,14 +171,12 @@ Preservation of Clinical Continuity Liquidity stability protects patient care by
 2.
 
 Non Wasteful Asset Allocation Equipment and receivable audits reduce capital leakage and unnecessary duplication.
-
 3.
 
 Ethical Separation A clean carve-out ensures accurate payer relationships and compliant billing cycles.
 4.
 
 Operational Integrity Transparent asset ownership protects both workforce stability and regulatory adherence.
-
 5.
 
 Long Horizon Orientation Stewardship positions the operator for sustainable value creation rather than short term financial engineering.
@@ -189,10 +187,8 @@ Operators that pre engineer a carve-out with disciplined liquidity structures de
 
 1. predictable receivable dynamics
 2. hardened collateral controls
-
 3. transparent asset boundaries
 4. reduced integration friction
-
 5. enhanced exit optionality
 6. faster closing cycles Serious operators use Asset-Based Lending not as leverage for expansion but as a method for financial clarity and timing precision.
 

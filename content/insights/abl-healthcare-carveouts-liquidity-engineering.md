@@ -125,7 +125,6 @@ Extracts latent liquidity from the target division without contaminating the par
 2.
 
 Funds the separation mechanics-standalone systems, compliance frameworks, payroll independence, and new vendor contracts-without forcing equity dilution.
-
 3.
 
 Straightens reporting lines so that an acquirer sees the asset, not the chaos.

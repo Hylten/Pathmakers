@@ -69,7 +69,6 @@ Capital reliability.
 2.
 
 Underwriting that aligns with asset realities.
-
 3.
 
 Zero distractions.
@@ -212,7 +211,6 @@ Clear collateral.
 2.
 
 Aligned underwriting.
-
 3.
 
 Predictable deployment.

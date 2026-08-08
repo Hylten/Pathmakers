@@ -235,14 +235,12 @@ Is the acquisition timeline compressed by seller preference or competitive tensi
 2.
 
 Does the target possess a stable and verifiable collateral base
-
 3.
 
 Does the buyer have diversified assets that can expand the borrowing base
 4.
 
 Is liquidity certainty more valuable in negotiation than headline valuation
-
 5.
 
 Are operational integration timelines aligned with short term liquidity needs

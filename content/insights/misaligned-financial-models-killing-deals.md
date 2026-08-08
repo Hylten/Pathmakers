@@ -277,7 +277,6 @@ Re-engineer the model to reflect actual revenue geometry.
 2.
 
 Translate operational behavior into financial repeatability.
-
 3.
 
 Stress‑test capital stack compatibility from the buyer’s vantage.

@@ -235,7 +235,6 @@ The cleanest assets move first.
 2.
 
 The most prepared assets attract the highest quality buyers.
-
 3.
 
 The lowest friction assets achieve the most stable valuations.

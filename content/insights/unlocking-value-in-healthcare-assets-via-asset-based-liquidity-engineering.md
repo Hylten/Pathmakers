@@ -55,7 +55,6 @@ Units that no longer fit strategy but generate respectable cash flow.
 2.
 
 Units that need infrastructure upgrades that the parent will not fund.
-
 3.
 
 Units that carry non financial risk that management is tired of absorbing.

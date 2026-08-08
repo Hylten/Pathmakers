@@ -251,7 +251,6 @@ Collateral eligibility Is the organisation aware of the real collateral value di
 2.
 
 Capital stack calibration Does the current financing architecture reflect asset durability, or is the business paying a complexity premium.
-
 3.
 
 Exit readiness Are the internal structures optimised for acquisition due diligence.

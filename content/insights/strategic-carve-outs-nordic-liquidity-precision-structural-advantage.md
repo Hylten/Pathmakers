@@ -484,7 +484,6 @@ What friction must be neutralized?
 2.
 
 What liquidity can be manufactured?
-
 3.
 
 What structural advantage can be designed?

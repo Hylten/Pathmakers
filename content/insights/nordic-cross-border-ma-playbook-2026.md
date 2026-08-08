@@ -247,7 +247,6 @@ Infrastructure modernization of the target's software architecture using German 
 2.
 
 Harmonization of service pricing models across the Nordic and German markets.
-
 3.
 
 Development of a new offering integrating control systems and automation hardware for NAEOCC projects.

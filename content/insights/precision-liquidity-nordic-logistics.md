@@ -151,7 +151,6 @@ Avoidance of capital waste Operators must deploy liquidity where it enhances pla
 2.
 
 Alignment with operational truth Balance sheets should reflect actual operational conditions, not constructed narratives designed for temporary valuation benefits.
-
 3.
 
 Transparency as a governance standard Operators must adopt transparent structures that allow institutional investors to quantify risk and durability.

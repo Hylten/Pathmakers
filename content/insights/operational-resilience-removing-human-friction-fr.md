@@ -81,7 +81,6 @@ Information friction.
 2.
 
 Decision friction.
-
 3.
 
 Process friction.

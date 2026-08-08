@@ -103,14 +103,12 @@ Identify assets early, not after diligence.
 2.
 
 Map the collateral quality against jurisdictional constraints.
-
 3.
 
 Pre define liquidity needs based on realistic, not optimistic, deal timelines.
 4.
 
 Coordinate private credit alongside Asset-Based Lending for layered structural strength.
-
 5.
 
 Use crypto and public share Monetization Architecture as optional liquidity accelerators.

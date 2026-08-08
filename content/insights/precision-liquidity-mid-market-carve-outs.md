@@ -186,14 +186,12 @@ Does the division have a functional standalone balance sheet aligned with operat
 2.
 
 Has liquidity been engineered with precision to support the separation, transitional services, and early operational stability.
-
 3.
 
 Are operational dependencies documented, mapped, and mitigated.
 4.
 
 Has asset hardening been implemented to neutralize integration risk for the buyer.
-
 5.
 
 Is the entity positioned to withstand accelerated diligence cycles without information drag.

@@ -33,7 +33,6 @@ A divergence between committed capital and deployable capital.
 2.
 
 A tightening of diligence thresholds driven by EU MiFID II firm acquisitions and compliance harmonization.
-
 3.
 
 A rising preference among UHNW families and sovereign syndicates for asset backed financing for businesses aligned with production grade collateral pools.
@@ -52,14 +51,12 @@ Capital stack friction and the cost of latency between commitment and utilizatio
 2.
 
 Yield to liquidity curves and the speed required for mid market operators conducting capital raising for mid market buyout programs.
-
 3.
 
 The conversion reliability of off balance sheet assets under institutional scrutiny.
 4.
 
 The market depth of secondary buyers for capital efficient positions.
-
 5.
 
 The collateral resilience of energy, industrials, and healthcare workflows including NAEOCC energy infrastructure investment channels.

@@ -27,7 +27,6 @@ Capital migration toward simplified underwriting environments.
 2.
 
 Persistent valuation disconnects within owner operated mid market companies.
-
 3.
 
 Institutional liquidity concentrating in standardized credit structures with minimal appetite for idiosyncratic risk.
@@ -126,7 +125,6 @@ Senior ABL coverage.
 2.
 
 Operational continuity capital.
-
 3.
 
 Acquisition reserve formation.

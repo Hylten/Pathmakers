@@ -151,14 +151,12 @@ Financial Disarray: disorganized ledgers, inconsistent revenue recognition, uncl
 2.
 
 Operational Drift: undocumented processes, dependency risk, leadership gaps.
-
 3.
 
 Narrative Incoherence: mismatched strategy, unclear positioning, reactive planning.
 4.
 
 Diligence Fragmentation: scattered files, version conflicts, missing justifications.
-
 5.
 
 Timing Inefficiency: slow responses, unvalidated forecasts, unprepared teams.

@@ -240,14 +240,12 @@ Liquidity availability Does the entity have ring fenced liquidity structures tha
 2.
 
 Operational autonomy Can the enterprise operate with discipline, efficiency, and clarity without legacy infrastructure?
-
 3.
 
 Asset hardened balance sheet Are the assets clean, clearly owned, and institutionally recognizable?
 4.
 
 Opportunity velocity Is the entity positioned to execute quickly without protracted integration or detangling requirements?
-
 5.
 
 Stewardship alignment Does the operator demonstrate governance behavior consistent with long term capital integrity?

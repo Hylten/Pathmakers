@@ -360,14 +360,12 @@ Codify every compliance process.
 2.
 
 Harden payer and referrer contracts into institution grade agreements.
-
 3.
 
 Build a labor model with forward visibility and governance.
 4.
 
 Replace technology fragmentation with integrated operational infrastructure.
-
 5.
 
 Construct a leadership layer that can operate without the founder.

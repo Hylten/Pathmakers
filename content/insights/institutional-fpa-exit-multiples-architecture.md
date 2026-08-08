@@ -67,7 +67,6 @@ Clean throughput: Revenue-level truth that reconciles to cash every month withou
 2.
 
 Cohort stability: Customers behave predictably and profitably across time slices, not mood.
-
 3.
 
 Margin explicitness: The acquirer can see exactly where the leverage sits and how it scales.
@@ -302,7 +301,6 @@ The buyer will attempt to control the narrative.
 2.
 
 The buyer will attempt to redefine the forecast.
-
 3.
 
 The buyer will attempt to discount the risk surface.

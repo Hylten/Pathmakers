@@ -240,14 +240,12 @@ Liquidity Architecture Is the operator’s balance sheet engineered for growth, 
 2.
 
 Operational Maturity Are systems standardized across sites and ready for institutional diligence.
-
 3.
 
 Regulatory Stability Is compliance consistent, scalable, and audit ready across jurisdictions.
 4.
 
 Acquisition Integration Potential Can the operator absorb and harmonize new clinics or service lines without destabilizing the base business.
-
 5.
 
 Exit Path Optionality Is the operator structurally prepared for sale to a platform consolidator, private equity buyer, or strategic healthcare group.

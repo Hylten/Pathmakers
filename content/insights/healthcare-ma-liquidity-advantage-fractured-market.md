@@ -243,14 +243,12 @@ Liquidity channels that bypass traditional lender sequencing.
 2.
 
 Underwriting intelligence built on vertical-specific metrics.
-
 3.
 
 Off‑market sourcing that avoids competitive devaluation.
 4.
 
 Exit readiness frameworks that remove diligence volatility.
-
 5.
 
 Transaction choreography that compresses the execution window.

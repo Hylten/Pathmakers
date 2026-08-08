@@ -81,7 +81,6 @@ The prepared seller removes ambiguity before the buyer sees the first document.
 2.
 
 The prepared seller anticipates every diligence question before it is asked.
-
 3.
 
 The prepared seller enters the room with proof, not hope.
@@ -343,14 +342,12 @@ Architect the narrative before architecting the data room.
 2.
 
 Validate numbers before exposing them.
-
 3.
 
 Build momentum before inviting competition.
 4.
 
 Maintain control over every variable that impacts valuation.
-
 5.
 
 Do not let the buyer define the terms of understanding your business.

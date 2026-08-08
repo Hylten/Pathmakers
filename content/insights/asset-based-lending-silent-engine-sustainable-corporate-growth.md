@@ -145,7 +145,6 @@ It replaces expensive unsecured debt, restoring EBITDA optics.
 2.
 
 It creates predictable liquidity corridors, enhancing buyer confidence.
-
 3.
 
 It provides the capital necessary to fix operational deficiencies pre‑sale.

@@ -59,7 +59,6 @@ Structural friction.
 2.
 
 Control friction.
-
 3.
 
 Capital friction.
@@ -106,14 +105,12 @@ Ownership integrity.
 2.
 
 Covenant accounting.
-
 3.
 
 Operational separation.
 4.
 
 Documentation continuity.
-
 5.
 
 Institutional clarity.

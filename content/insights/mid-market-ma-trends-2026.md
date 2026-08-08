@@ -57,7 +57,6 @@ Healthcare carve-outs that reduce administrative load for hospitals and large sy
 2.
 
 Industrial and logistics assets with recurring contracts
-
 3.
 
 Software platforms with stable mid-market retention, not hypergrowth narratives Each shares a common thread.
@@ -114,7 +113,6 @@ They come to market with fully reconciled financials.
 2.
 
 They have a strong second layer of management.
-
 3.
 
 They accept that buyers will not finance hope.
@@ -165,7 +163,6 @@ High demand for services regardless of macro cycles
 2.
 
 Strong reimbursement visibility in regulated sub-sectors
-
 3.
 
 Immediate operational improvements available in administrative workflows In 2026, buyers are not looking for exponential growth in healthcare.
@@ -336,7 +333,6 @@ Administrative services that are too costly to maintain internally
 2.
 
 Specialty clinics with uneven profitability
-
 3.
 
 IT and analytics teams that can operate more efficiently outside the system The Buyer Advantage Experienced healthcare buyers who know how to manage

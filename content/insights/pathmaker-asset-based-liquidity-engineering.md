@@ -231,14 +231,12 @@ We identify asset classes with immediate lendability.
 2.
 
 We model collateral values under three scenarios.
-
 3.
 
 We create entity isolation using SPVs, trusts, or JV stacks depending on jurisdiction.
 4.
 
 We assign lender‑friendly covenants.
-
 5.
 
 We sequence liens vertically.

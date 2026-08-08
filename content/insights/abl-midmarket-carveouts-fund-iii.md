@@ -271,14 +271,12 @@ Liquidity pools map directly to operational assets.
 2.
 
 TSA becomes optional instead of mandatory.
-
 3.
 
 Working capital becomes predictable.
 4.
 
 Operational autonomy is achieved immediately.
-
 5.
 
 Integration can begin without waiting for corporate dependencies to unwind.

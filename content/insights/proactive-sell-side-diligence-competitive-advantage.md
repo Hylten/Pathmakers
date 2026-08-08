@@ -87,7 +87,6 @@ The explosion of private data.
 2.
 
 The compression of buyer bandwidth.
-
 3.
 
 The rise of algorithmic screening.
@@ -319,7 +318,6 @@ They restructure their data faster than buyers expect.
 2.
 
 They automate document mapping, financial reconciliation, and customer analysis.
-
 3.
 
 They build repeatable patterns across multiple scenarios.

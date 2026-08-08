@@ -229,14 +229,12 @@ The operational independence of the unit post carve-out.
 2.
 
 The realism of the collateral matrix.
-
 3.
 
 The durability of revenue streams.
 4.
 
 The regulatory compliance posture.
-
 5.
 
 The exit pathways: strategic sale, consolidation, or scale through acquisition.

@@ -171,7 +171,6 @@ Structural Navigation Mapping reimbursement cycles, compliance thresholds, and r
 2.
 
 Operational Intelligence Interpreting staffing models, clinical workflows, and audit structures.
-
 3.
 
 Institutional INTRODUCTION

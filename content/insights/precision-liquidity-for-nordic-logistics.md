@@ -47,7 +47,6 @@ Temperature controlled and cold chain logistics.
 2.
 
 Cross dock and regional freight consolidation.
-
 3.
 
 Specialized last mile and heavy‑haul distribution.

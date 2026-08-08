@@ -59,7 +59,6 @@ Capital efficiency has surpassed capital abundance as the primary determinant of
 2.
 
 Buyers are reducing tolerance for post acquisition surprises.
-
 3.
 
 The next decade will reward operational transparency, not operational potential.

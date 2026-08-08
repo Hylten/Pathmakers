@@ -191,7 +191,6 @@ Capital Purity Liquidity is deployed to stabilise operations, not inflate valuat
 2.
 
 Enterprise Continuity The business must remain operationally sound through the M&A cycle.
-
 3.
 
 Generational Accountability Mid market founders often rely on the transaction to secure long term family wealth.

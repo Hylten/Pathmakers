@@ -155,7 +155,6 @@ Parameter anchoring Establishing hard data boundaries that frame valuation, earn
 2.
 
 Concession sequencing A predetermined hierarchy of negotiable and non negotiable items that protects the core value while allowing tactical flexibility.
-
 3.
 
 Adversarial scenario mapping Simulation of buyer pushback, legal escalation, diligence traps, and valuation dilution attempts.

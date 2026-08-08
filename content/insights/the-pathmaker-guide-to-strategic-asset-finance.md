@@ -55,7 +55,6 @@ Liquidity must be available before the opportunity.
 2.
 
 Collateral must be rational, not sentimental.
-
 3.
 
 Capital must be engineered to move quietly.
@@ -162,7 +161,6 @@ Operators preparing for a carve out or acquisition.
 2.
 
 Principals managing multi asset portfolios with complex liquidity needs.
-
 3.
 
 Investors holding significant crypto or equity positions who prefer leverage to liquidation.
@@ -192,7 +190,6 @@ Asset isolation.
 2.
 
 Collateral verification.
-
 3.
 
 Documentation reconstruction.
@@ -230,7 +227,6 @@ Lock a deal before competitors mobilize.
 2.
 
 Negotiate without appearing desperate.
-
 3.
 
 Move through diligence without delay.

@@ -510,7 +510,6 @@ Operational visibility is high.
 2.
 
 Governance friction is low.
-
 3.
 
 Cross‑border comparability is engineered.

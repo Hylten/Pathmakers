@@ -251,7 +251,6 @@ The battle for informational authority.
 2.
 
 The battle for narrative control.
-
 3.
 
 The battle for pace.

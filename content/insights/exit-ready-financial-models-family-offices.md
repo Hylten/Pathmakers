@@ -100,7 +100,6 @@ M&A buyer‑unreadiness: Most founders do not present a model that a second buye
 4.
 
 Timeline compression: When the next liquidity cycle turns, assets must be sale‑ready or they are stranded.
-
 5.
 
 Information hygiene: Models must be clean enough to interface with advisors, bankers, and secondary buyers with no structural rework.
@@ -203,7 +202,6 @@ What exact components of EBITDA expansion are buyer‑validated versus owner‑d
 2.
 
 How do the cash conversion mechanics behave under an accelerated due‑diligence timeline?
-
 3.
 
 Which revenue segments command the highest terminal multiple and which dilute it?
@@ -219,7 +217,6 @@ What is the free cash flow behavior under a strategic buyer versus a PE roll‑u
 6.
 
 How does the working capital delta behave through the sale?
-
 7.
 
 Which cost centers become redundant in a post‑acquisition environment?

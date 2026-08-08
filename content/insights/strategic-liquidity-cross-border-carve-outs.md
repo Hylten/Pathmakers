@@ -182,7 +182,6 @@ Transitional Cost Volatility Higher volatility requires specialized credit rathe
 3.
 
 Complexity of Jurisdictional Overlap The more countries involved, the greater the need for structured introductions and operational intelligence.
-
 4.
 
 Velocity Impact The question is how liquidity can improve closing probability and shorten deal cycles without distorting valuation.

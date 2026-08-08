@@ -76,14 +76,12 @@ Working capital gaps.
 2.
 
 Delays in claims processing.
-
 3.
 
 Vendor friction due to new credit identities.
 4.
 
 Payroll timing mismatches.
-
 5.
 
 Compliance driven CapEx requirements.

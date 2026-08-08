@@ -49,7 +49,6 @@ Mid-market valuation spreads remain inefficient because information asymmetry pe
 2.
 
 Energy transition policy and NAEOCC energy infrastructure investment accelerate fragmentation in critical asset classes such as distributed generation, specialty logistics, industrial field services, and grid adjacent infrastructure.
-
 3.
 
 European regulatory harmonization and EU MiFID II firm acquisitions create pipeline compression, reducing competition for well structured carve outs.

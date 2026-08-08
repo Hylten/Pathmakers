@@ -229,14 +229,12 @@ Institutional Legibility Is the company immediately understandable without found
 2.
 
 Diligence Velocity Can the company survive a 90-day diligence cycle without operational disruption.
-
 3.
 
 Capital Architecture Does the balance sheet reflect discipline rather than improvisation.
 4.
 
 Off-Market Alignment Does the enterprise possess access to strategic counterparties that operate outside competitive auction processes.
-
 5.
 
 Continuity Preparedness Is the company designed to function under new ownership without loss of quality or cadence.

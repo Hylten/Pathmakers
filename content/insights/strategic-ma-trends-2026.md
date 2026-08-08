@@ -161,7 +161,6 @@ Market Navigation Understanding buyer mandates, acquisition philosophies, and in
 2.
 
 Operational Intelligence Technical verification, financial normalization, owner dependency elimination, and documentation structuring ensure that the seller's operational footprint aligns with the buyer's diligence expectations.
-
 3.
 
 INTRODUCTION Architecture Introductions are only executed when strategic alignment is confirmed.

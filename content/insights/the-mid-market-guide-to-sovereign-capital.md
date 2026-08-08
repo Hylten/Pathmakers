@@ -83,7 +83,6 @@ Liquidity gaps during acquisitions
 2.
 
 Delays between closing and operational stabilization
-
 3.
 
 Balance sheet optimization for tax and leverage

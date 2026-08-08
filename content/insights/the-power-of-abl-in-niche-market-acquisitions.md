@@ -45,7 +45,6 @@ Traditional cash flow underwriting is inconsistent in niche markets with heavy c
 2.
 
 Sponsors seek to protect capital formation cycles within tight fundraising windows tied to capital raising for mid-market buyout strategies.
-
 3.
 
 Asset specificity is high, creating collateral depth unmatched in service-heavy businesses.

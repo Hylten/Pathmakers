@@ -238,7 +238,6 @@ Does the enterprise have asset density that can be institutionalized.
 2.
 
 Can the balance sheet be optimized without equity dilution.
-
 3.
 
 Will a structured approach increase exit optionality and reduce valuation erosion.

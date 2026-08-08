@@ -181,7 +181,6 @@ Multi asset Strategic Collateralization capacity across private credit, digital 
 4.
 
 Speed that does not compromise discipline
-
 5. principal authority in execution and reporting This is why our borrower base consistently includes HNWI and UHNW individuals.
 
 They want discretion, structure, and reliability.
