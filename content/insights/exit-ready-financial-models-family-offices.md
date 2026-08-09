@@ -67,9 +67,9 @@ The anatomy of this shift begins with a simple institutional observation: Mid‑
 
 They model operations.
 
-They model budgets.
+Budgets are modelled the same way.
 
-They model headcount.
+Headcount follows the same logic.
 
 But not the institutional pathway.
 

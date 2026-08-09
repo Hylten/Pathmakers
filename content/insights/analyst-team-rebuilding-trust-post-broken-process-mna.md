@@ -147,9 +147,9 @@ We are not momentum chasers.
 
 We do architecture.
 
-We do filtration.
+Filtration follows.
 
-We do operational truth.
+Operational truth is the through-line.
 
 The reconstruction model works because it rejects the legacy order.
 
@@ -249,9 +249,9 @@ This approach is why the analyst team does not view trust as a soft variable.
 
 Trust is a structural output.
 
-Trust is the reward for clarity.
+It is also the reward for clarity.
 
-Trust is the byproduct of removing every unnecessary unknown from the process.
+And it is the byproduct of removing every unnecessary unknown from the process.
 
 THE OFF‑MARKET ADVANTAGE The middle market remains inefficient, which means the best deals are rarely found on open exchanges. They originate off‑market, in private corridors where trust compounds faster than exposure.
 
@@ -317,9 +317,9 @@ THE ANALYST TEAM MANDATE We operate with one mandate: Restore clarity to a syste
 
 It is structural.
 
-It is foundational.
+Beyond that, it is foundational.
 
-It is the unseen architecture that allows founders to meet the market without fear and allows buyers to engage without suspicion.
+Most of all, it is the unseen architecture that allows founders to meet the market without fear and allows buyers to engage without suspicion.
 
 We provide:
 

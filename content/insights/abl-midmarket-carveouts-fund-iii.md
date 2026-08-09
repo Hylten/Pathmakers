@@ -143,11 +143,11 @@ This is not leverage for leverage’s sake.
 
 It is oxygen.
 
-Oxygen that prevents covenant breaches downstream.
+That oxygen prevents covenant breaches downstream.
 
-Oxygen that prevents forced renegotiations with vendors.
+It also blocks forced renegotiations with vendors.
 
-Oxygen that allows the newco to hit the ground as a functional standalone entity, not a distressed spin-out.
+And it lets the newco hit the ground as a functional standalone entity, not a distressed spin-out.
 
 OPERATIONAL DRIFT ELIMINATION Carve‑outs drift because everything becomes provisional.
 

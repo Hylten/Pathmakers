@@ -81,9 +81,9 @@ This mismatch creates jurisdictional arbitrage at the heart of the current cycle
 
 Where a bank sees operational volatility, private credit sees asset coverage.
 
-Where a bank sees cyclical sectors, private credit sees collateral with liquidation depth.
+Cyclical sectors look different through a private credit lens: collateral with liquidation depth.
 
-Where a bank sees risk, private credit sees controllable recovery pathways.
+Risk, in private credit, means controllable recovery pathways.
 
 Mid‑market CFOs, owners, and operators recognise that asset‑based lending is not alternative finance.
 
@@ -97,9 +97,9 @@ It is the practice of transforming operational assets into financial leverage wi
 
 Hard assets create negotiating power.
 
-Hard assets create lender certainty.
+They also create lender certainty.
 
-Hard assets create liquidity leverage.
+Liquidity leverage follows from the same base.
 
 Asset‑based lending magnifies each of these effects.
 
@@ -187,19 +187,19 @@ Asset‑based lending is silent by design.
 
 It does not distort markets.
 
-It does not signal distress.
+It avoids signaling distress.
 
-It does not dilute ownership.
+Ownership stays undiluted.
 
-It does not require public disclosures.
+Public disclosures are not required.
 
 It provides liquidity with principal authority, enabling operators to move through competitive landscapes without telegraphing intent.
 
 The engine runs quietly.
 
-The engine generates authority.
+It generates authority.
 
-The engine compounds value.
+It compounds value.
 
 Operating executives recognise this.
 

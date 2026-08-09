@@ -452,9 +452,9 @@ THE PRIVATE CREDIT ANGLE: WHY THE TIMING IS PERFECT Private credit remains aggre
 
 They want structure.
 
-They want collateral visibility.
+Collateral visibility is second.
 
-They want operators who actually execute.
+Operators who actually execute close the list.
 
 Asset-Based Lending gives them confidence in the carve‑out phase when fundamentals are still forming.
 
@@ -494,9 +494,9 @@ Time reduction is not merely convenience.
 
 It is EBITDA protection.
 
-It is valuation protection.
+Valuation protection comes next.
 
-It is integration protection.
+Integration protection rounds it out.
 
 Asset-Based Lending alters the shape of time itself inside the deal.
 
